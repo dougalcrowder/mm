@@ -40,7 +40,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_MM_Community.jpg",
         "mobile_image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_MM_Community.jpg",
-        "make_logo_white": true,
+        "make_logo_white": false,
         "desktop_text_box_position": "center",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
