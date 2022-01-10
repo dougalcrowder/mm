@@ -3,12 +3,9 @@
     "main": {
       "type": "main-product",
       "settings": {
-        "short_desc": "{{ product.metafields.my_fields.product_subtitle.value }}",
         "show_dynamic_checkout": true,
         "enable_sticky_info": true,
-        "share_label": "Share",
-        "hide_variants": false,
-        "enable_video_looping": false
+        "share_label": "Share"
       }
     },
     "page-tabs": {
@@ -21,10 +18,19 @@
             "content": "",
             "page": "fabric-care-1"
           }
+        },
+        "ccf16314-fad9-4176-b0e4-5248ad6d2b30": {
+          "type": "tab",
+          "settings": {
+            "heading": "Shipping",
+            "content": "<p>stuff<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "03855864-8aca-4fc3-aae2-1f0e0765a9b9"
+        "03855864-8aca-4fc3-aae2-1f0e0765a9b9",
+        "ccf16314-fad9-4176-b0e4-5248ad6d2b30"
       ],
       "settings": {
         "product_desc": true,
