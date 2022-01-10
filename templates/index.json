@@ -9,9 +9,9 @@
             "title": "Cosy Cushions",
             "content": "<p>Creative creature comforts<br\/><br\/><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop Cushions<\/a><\/p>",
             "prod": "",
-            "top": 52,
-            "left": 92,
-            "top_mob": 78,
+            "top": 55,
+            "left": 50,
+            "top_mob": 57,
             "left_mob": 38
           }
         },
@@ -35,6 +35,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/CHRISTMAS20LIFE1_84bdd184-efbc-4269-b90c-25f6b9e2ae99.jpg",
         "square_image": "shopify:\/\/shop_images\/CHRISTMAS20LIFE1_84bdd184-efbc-4269-b90c-25f6b9e2ae99.jpg",
+        "make_logo_white": false,
         "title": "Molly Mahon New Years",
         "header_tag": "h2"
       }
@@ -356,26 +357,6 @@
       "settings": {
       }
     },
-    "1641293635fb321c8e": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "957034b4-21fd-4285-927b-ab16f868c28a": {
-          "type": "text",
-          "settings": {
-            "richtext": "",
-            "go_serif": false,
-            "column": "desk_left"
-          }
-        }
-      },
-      "block_order": [
-        "957034b4-21fd-4285-927b-ab16f868c28a"
-      ],
-      "settings": {
-        "text_box_max_width": "full"
-      }
-    },
     "1641296300a7b5094c": {
       "type": "featured-collection",
       "settings": {
@@ -383,82 +364,7 @@
         "collection": "block-print-kits",
         "products_to_show": 8,
         "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": true,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": true
-      }
-    },
-    "1641296597be9095dc": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "1641296597b2be7f66-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1641296597b2be7f66-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "1641296597b2be7f66-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1641296597b2be7f66-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1641296597b2be7f66-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1641296597b2be7f66-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1641296597b2be7f66-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1641296597b2be7f66-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1641296597b2be7f66-0",
-        "1641296597b2be7f66-1",
-        "1641296597b2be7f66-2",
-        "1641296597b2be7f66-3",
-        "1641296597b2be7f66-4",
-        "1641296597b2be7f66-5",
-        "1641296597b2be7f66-6",
-        "1641296597b2be7f66-7"
-      ],
-      "settings": {
-        "product": "dedell01",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false
+        "show_secondary_image": true
       }
     },
     "1641296757e9d3390b": {
@@ -521,6 +427,7 @@
     },
     "1641296802546444c7": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "page": "fabric-care-1"
       }
@@ -586,9 +493,7 @@
     "1634821627eaee293f",
     "16348163341a2e5254",
     "main",
-    "1641293635fb321c8e",
     "1641296300a7b5094c",
-    "1641296597be9095dc",
     "1641296757e9d3390b",
     "1641296802546444c7",
     "164129687781f3cb6c",
