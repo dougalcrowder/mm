@@ -2,10 +2,10 @@
   "sections": {
     "16354416148d3a6fb7": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16354416148d3a6fb7-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_type": "header1"
@@ -41,7 +41,7 @@
         "image": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_MM_Community.jpg",
         "mobile_image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_MM_Community.jpg",
         "make_logo_white": false,
-        "desktop_text_box_position": "center",
+        "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
