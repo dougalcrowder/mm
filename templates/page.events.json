@@ -87,11 +87,28 @@
             "event_external_link": "https:\/\/www.thyme.co.uk\/thyme-events\/block-printing-tea-towels",
             "event_buy_btn": ""
           }
+        },
+        "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block printing Cards & Envelopes at Thyme, Cotswolds",
+            "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
+            "event_description": "<p>Thyme, a beautifully restored Manor House & Farm in the Cotswolds. The workshop will include a welcome from Thyme followed by an introduction to block printing by Molly. Using Molly’s garden inspired hand carved wooden blocks, you will experiment with colour and pattern and finish by printing your own set of beautiful cards and envelopes.<\/p>",
+            "image": "shopify:\/\/shop_images\/THYME_JUN22.jpg",
+            "event_date": "Tuesday, 8th March or  14th March 2022 at  3pm-5pm",
+            "event_extras": "The price includes a welcome coffee and all materials.",
+            "event_price": "£95 per person",
+            "event_button_text": "Book your place",
+            "event_button_text_2": "Via Thyme",
+            "event_external_link": "https:\/\/www.thyme.co.uk\/thyme-events\/block-printing-cards-and-envelopes",
+            "event_buy_btn": ""
+          }
         }
       },
       "block_order": [
         "16352620842faf27c4-0",
-        "86e614b8-e8c2-491e-832a-3e23d40baa3f"
+        "86e614b8-e8c2-491e-832a-3e23d40baa3f",
+        "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25"
       ],
       "settings": {
         "title": ""
