@@ -2,6 +2,8 @@
 https://realpowerofone.us20.list-manage.com/subscribe/post?u=fde30870205a640d93c128964&amp;id=a6595f8345
 {% endcomment %}
 
+{%- if section.settings.disable -%}
+{%- else -%}
 {{ 'mailchimp.css' | asset_url | stylesheet_tag }}
 
 <div class="mailchimp-section{% if section.settings.image != blank %} image flex{% endif %}">
@@ -363,7 +365,7 @@ https://realpowerofone.us20.list-manage.com/subscribe/post?u=fde30870205a640d93c
   
   }
   </script>
-
+{%- endif -%}
 {% schema %}
 {
   "name": {
@@ -412,6 +414,14 @@ https://realpowerofone.us20.list-manage.com/subscribe/post?u=fde30870205a640d93c
         "en": "Show First Name Field"
       },
       "default": true
+    },
+    {
+      "id": "disable",
+      "type": "checkbox",
+      "label": {
+        "en": "Disable Popup"
+      },
+      "default": false
     }
   ],
   "presets": [

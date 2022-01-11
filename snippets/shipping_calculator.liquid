@@ -15,7 +15,7 @@
 
 
 {% unless settings.shipping_calculator == 'Disabled' %}
-<div class="shipping_calculator">
+<div class="shipping_calculator{% if cart == empty %} cart-is-empty{% endif %}">
   <div class="button nude dropdown" id="shippingCalcToggle">{{ settings.shipping_calculator_heading | default: 'Get shipping estimates' }}</div>
   <div id="shipping-calculator" class="shipping_calculator_form">
     <div>
@@ -37,6 +37,7 @@
     </div>
     <div id="wrapper-response"></div>
   </div>
+</div>
 </div>
 {% endunless %}
 

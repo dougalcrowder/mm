@@ -10,7 +10,7 @@
       {%- assign image = block.settings.image -%}
       <picture>
         <source srcset="{{ image | img_url: '540x351', scale: 2 }} 2x, {{ image | img_url: '400x300' }} 1x" media="(max-width: 768px)" />
-        <img class="lazyimage" loading="lazy" src="{{ image | img_url: '0x0' }}" alt="{{ image.alt | escape }}" width="{{ section.settings.image.width }}" height="{{ section.settings.image.height }}" />
+        <img class="lazyimage" loading="lazy" src="{{ image | img_url: '4x3' }}" alt="{{ image.alt | escape }}" width="{{ section.settings.image.width }}" height="{{ section.settings.image.height }}" />
       </picture>
       {%- endif -%}
       {%- if block.settings.event_intro != blank -%}
@@ -24,7 +24,7 @@
         {%- assign image = block.settings.image -%}
         <picture>
           <source srcset="{{ image | img_url: '540x351', scale: 2 }} 2x, {{ image | img_url: '400x300' }} 1x" media="(min-width: 768px)" />
-          <img class="lazyimage" loading="lazy" src="{{ image | img_url: '0x0' }}" alt="{{ image.alt | escape }}" width="{{ section.settings.image.width }}" height="{{ section.settings.image.height }}" />
+          <img class="lazyimage" loading="lazy" src="{{ image | img_url: '4x3' }}" alt="{{ image.alt | escape }}" width="{{ section.settings.image.width }}" height="{{ section.settings.image.height }}" />
         </picture>
         {%- endif -%}
         {%- if block.settings.event_description -%}
