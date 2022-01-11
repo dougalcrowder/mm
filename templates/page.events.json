@@ -107,7 +107,7 @@
         "519cccd8-5c39-4a42-9387-5286d373629a": {
           "type": "event",
           "settings": {
-            "event_title": "Block Printing Workshop at Charleston, Firle",
+            "event_title": "Block Printing Lampshade Workshop at Charleston, Firle",
             "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own lampshade.",
             "event_description": "<p>The day-long course will include a private tour of the house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks, you will experiment with colour and pattern and finish by printing and making your own lampshade.<\/p>",
             "image": "shopify:\/\/shop_images\/CHARLESTONLAMP_2caf6171-7491-47a3-9973-70aa55eb1c3a.jpg",
@@ -119,13 +119,30 @@
             "event_external_link": "https:\/\/www.charleston.org.uk\/event\/block-printing-on-lampshades-with-molly-mahon\/",
             "event_buy_btn": ""
           }
+        },
+        "384caa00-334f-4ab3-a93d-275d2d0fd2fb": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block Printing Cushion Workshop at Charleston, Firle",
+            "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own cushion cover",
+            "event_description": "<p>The day-long course will include a private tour of the house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks, you will experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.<\/p>",
+            "image": "shopify:\/\/shop_images\/CHARLESTONWS1_abbcba7f-f0eb-409a-b44b-24a8b87f0270.jpg",
+            "event_date": "Tuesday 15th March 10am-3.30pm",
+            "event_extras": "The price includes all materials, refreshments and a delicious lunch.",
+            "event_price": "£180 pp",
+            "event_button_text": "Book Here",
+            "event_button_text_2": "Via Charleston",
+            "event_external_link": "https:\/\/www.charleston.org.uk\/event\/block-printing-on-cushion-covers-with-molly-mahon\/",
+            "event_buy_btn": ""
+          }
         }
       },
       "block_order": [
         "16352620842faf27c4-0",
         "86e614b8-e8c2-491e-832a-3e23d40baa3f",
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
-        "519cccd8-5c39-4a42-9387-5286d373629a"
+        "519cccd8-5c39-4a42-9387-5286d373629a",
+        "384caa00-334f-4ab3-a93d-275d2d0fd2fb"
       ],
       "settings": {
         "title": ""
