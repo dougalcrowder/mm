@@ -6,11 +6,11 @@
         "16352843092374a33e-0": {
           "type": "Tooltip",
           "settings": {
-            "title": "Cosy Cushions",
-            "content": "<p>Creative creature comforts<br\/><br\/><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop Cushions<\/a><\/p>",
+            "title": "Frill Seed Cushion",
+            "content": "<p><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop Cushions<\/a><\/p>",
             "prod": "",
-            "top": 55,
-            "left": 50,
+            "top": 70,
+            "left": 18,
             "top_mob": 57,
             "left_mob": 38
           }
@@ -33,8 +33,8 @@
         "148881e0-9bcf-4a7c-b669-ce41df894331"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/CHRISTMAS20LIFE1_84bdd184-efbc-4269-b90c-25f6b9e2ae99.jpg",
-        "square_image": "shopify:\/\/shop_images\/CHRISTMAS20LIFE1_84bdd184-efbc-4269-b90c-25f6b9e2ae99.jpg",
+        "image": "shopify:\/\/shop_images\/DIANTHUS_FOURPOSTER_b8ce85ed-035a-4a44-9894-da70d5d7ab43.jpg",
+        "square_image": "shopify:\/\/shop_images\/DIANTHUS_FOURPOSTER_b8ce85ed-035a-4a44-9894-da70d5d7ab43.jpg",
         "make_logo_white": false,
         "title": "Molly Mahon New Years",
         "header_tag": "h2"
