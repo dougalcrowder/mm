@@ -18,11 +18,11 @@
         "148881e0-9bcf-4a7c-b669-ce41df894331": {
           "type": "Tooltip",
           "settings": {
-            "title": "Accessorize",
-            "content": "<p>strange hopping frog<\/p>",
+            "title": "Dianthus Indigo Iron",
+            "content": "<p><a href=\"\/products\/fdscot51\" title=\"Dianthus - Cotton - Indigo & Iron\">Shop Fabric<\/a><\/p>",
             "prod": "coral-green-wallpaper",
-            "top": 20,
-            "left": 62,
+            "top": 32,
+            "left": 52,
             "top_mob": 61,
             "left_mob": 47
           }
