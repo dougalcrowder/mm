@@ -185,6 +185,16 @@
         "color_scheme": "white_text"
       }
     },
+    "1641296300a7b5094c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Brilliant Block Printing Kits",
+        "collection": "block-print-kits",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "show_secondary_image": true
+      }
+    },
     "1634819659f7be73c6": {
       "type": "image-with-text",
       "blocks": {
@@ -357,16 +367,6 @@
       "settings": {
       }
     },
-    "1641296300a7b5094c": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Brilliant Block Printing Kits",
-        "collection": "block-print-kits",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "show_secondary_image": true
-      }
-    },
     "1641296757e9d3390b": {
       "type": "multicolumn",
       "disabled": true,
@@ -489,11 +489,11 @@
     "163481963822b4d1b3",
     "16348167313be3ffb8",
     "1634816369f8368cfa",
+    "1641296300a7b5094c",
     "1634819659f7be73c6",
     "1634821627eaee293f",
     "16348163341a2e5254",
     "main",
-    "1641296300a7b5094c",
     "1641296757e9d3390b",
     "1641296802546444c7",
     "164129687781f3cb6c",
