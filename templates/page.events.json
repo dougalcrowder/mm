@@ -75,16 +75,16 @@
         "86e614b8-e8c2-491e-832a-3e23d40baa3f": {
           "type": "event",
           "settings": {
-            "event_title": "Block printing Lampshades at Charleston",
-            "event_intro": "Join Molly for a one-day workshop experiencing the joy of block printing and making your own lampshade.",
-            "event_description": "<p>The day-long course will include a private tour of the house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks, you will experiment with colour and pattern and ﬁnish by printing your own 30cm lampshade. £200 pp-the price includes all materials, refreshments and a delicious lunch.<\/p>",
+            "event_title": "Block printing Linen tea towels at Thyme, Cotswolds",
+            "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
+            "event_description": "<p>Thyme, a beautifully restored Manor House & Farm in the Cotswolds.  The workshop will include a welcome from Thyme followed by an introduction to block printing by Molly. Using Molly’s garden inspired hand carved wooden blocks, you will experiment with colour and pattern and finish by printing your own linen tea towel.<\/p>",
             "image": "shopify:\/\/shop_images\/LIGHTUPYOURLIFE_e3947321-7392-46f4-ae70-267d43ebb295.jpg",
-            "event_date": "7th October 15:30 - 18:00",
-            "event_extras": "Inc. lampshade to take home",
-            "event_price": "£200 per person",
+            "event_date": "Tuesday, 8th March or 14th March, 2022  at 11:00 -13:00",
+            "event_extras": "The price includes a welcome coffee and all materials.",
+            "event_price": "£95 per person",
             "event_button_text": "Book your place",
-            "event_button_text_2": "",
-            "event_external_link": "",
+            "event_button_text_2": "Via Thyme",
+            "event_external_link": "https:\/\/www.thyme.co.uk\/thyme-events\/block-printing-tea-towels",
             "event_buy_btn": ""
           }
         }
