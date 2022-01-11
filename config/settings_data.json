@@ -160,7 +160,7 @@
           "118079ad-66b6-4830-8b60-8dcf38803242": {
             "type": "heading",
             "settings": {
-              "heading": "Enjoy 10% off your ﬁrst order"
+              "heading": "An exciting year ahead of us"
             }
           },
           "e20d543f-8cc6-4d96-9370-377d89c3a24e": {
@@ -181,8 +181,8 @@
           "85c2eb03-5fc7-4a11-ae24-fbbb63a844b7"
         ],
         "settings": {
-          "quote": "<p>Molly is the real deal! <br\/>Enthusiastic quote goes here to get the sign up<\/p>",
-          "cite": "Keith Kadstone"
+          "quote": "<p>\"I find a room full of textures, layers and colours exciting and uplifting.\"<\/p>",
+          "cite": "Molly Mahon"
         }
       },
       "mailchimp": {
@@ -191,7 +191,8 @@
           "chimp_url": "",
           "section_title": "Subscribe to our newsletter",
           "subheading": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
-          "show_name": false
+          "show_name": false,
+          "disable": false
         }
       }
     },
