@@ -59,39 +59,90 @@
         "16352620842faf27c4-0": {
           "type": "event",
           "settings": {
-            "event_title": "A Bloomsbury Breakfast & Workshop at the Charlotte Street Hotel",
-            "event_intro": "Celebrate London Craft week and enjoy\nbreakfast in the Drawing Room at Charlotte Street Hotel. Join journalist Jo Rodgers in conversation with textile designer Molly Mahon, founder and creative director of Firmdale Hotels and Kit Kemp Design Studio, Kit Kemp, and designer and painter Melissa White.",
-            "event_description": "<p>Surrounded by Kit Kemp’s Bloomsbury-inspired interiors with original artworks by Duncan Grant and Vanessa Bell, the panel will share their love for The Bloomsbury Set, discussing their unique use of craft and colour and how they continue to inspire Molly, Kit and Melissa in their work today. Talk, Tuesday 5th October, 09:00- 10:30am £30 per person, including a delicious breakfast and in conversation Workshop, Tuesday 5th October, 11:00 – 12:30pm £100 per person, including a delicious breakfast, in conversation and 1.5 hour workshop with Molly Mahon.<\/p>",
-            "image": "shopify:\/\/shop_images\/SHEPHERDSHUT_2500x_407131eb-3da8-45c5-a394-531965d7192a.jpg",
-            "event_date": "5th October 11:00 - 12:30",
-            "event_extras": "Including a delicious breakfast",
-            "event_price": "£30 per person",
+            "event_title": "A Spring Decorating Workshop at The Star, Alfriston",
+            "event_intro": "Be inspired in a fun and learning environment for the art of block printing with Molly Mahon and an addition of flower arranging with Julia Marsden, during your stay at the Star, the newest hotel in the Polizzi Collection",
+            "event_description": "<p>Enjoy an eventful stay at The Star including one nights accommodation, breakfast, a three course diner with a glass of wine, drinks with Molly and Alex, both workshops, refreshments, all materials and a vase.<\/p>",
+            "image": "shopify:\/\/shop_images\/HANDBLOCK_YELLOWFLOWER.jpg",
+            "event_date": "Wednesday 2nd to Thursday 3rd February 2022",
+            "event_extras": "",
+            "event_price": "From £400",
             "event_button_text": "Book Your Place",
-            "event_button_text_2": "via Eventbrite",
-            "event_external_link": "https:\/\/eventbrite.com",
+            "event_button_text_2": "via The Star",
+            "event_external_link": "https:\/\/thepolizzicollection.com\/the-star\/events\/spring-workshops\/",
             "event_buy_btn": ""
           }
         },
         "86e614b8-e8c2-491e-832a-3e23d40baa3f": {
           "type": "event",
           "settings": {
-            "event_title": "Block printing Lampshades at Charleston",
-            "event_intro": "Join Molly for a one-day workshop experiencing the joy of block printing and making your own lampshade.",
-            "event_description": "<p>The day-long course will include a private tour of the house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks, you will experiment with colour and pattern and ﬁnish by printing your own 30cm lampshade. £200 pp-the price includes all materials, refreshments and a delicious lunch.<\/p>",
-            "image": "shopify:\/\/shop_images\/LIGHTUPYOURLIFE_e3947321-7392-46f4-ae70-267d43ebb295.jpg",
-            "event_date": "7th October 15:30 - 18:00",
-            "event_extras": "Inc. lampshade to take home",
-            "event_price": "£200 per person",
+            "event_title": "Block printing Linen tea towels at Thyme, Cotswolds",
+            "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
+            "event_description": "<p>Thyme, a beautifully restored Manor House & Farm in the Cotswolds.  The workshop will include a welcome from Thyme followed by an introduction to block printing by Molly. Using Molly’s garden inspired hand carved wooden blocks, you will experiment with colour and pattern and finish by printing your own linen tea towel.<\/p>",
+            "image": "shopify:\/\/shop_images\/THYME_WS.jpg",
+            "event_date": "Tuesday, 8th March or 14th March, 2022  at 11:00 -13:00",
+            "event_extras": "The price includes a welcome coffee and all materials.",
+            "event_price": "£95 per person",
             "event_button_text": "Book your place",
-            "event_button_text_2": "",
-            "event_external_link": "",
+            "event_button_text_2": "Via Thyme",
+            "event_external_link": "https:\/\/www.thyme.co.uk\/thyme-events\/block-printing-tea-towels",
+            "event_buy_btn": ""
+          }
+        },
+        "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block printing Cards & Envelopes at Thyme, Cotswolds",
+            "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
+            "event_description": "<p>Thyme, a beautifully restored Manor House & Farm in the Cotswolds. The workshop will include a welcome from Thyme followed by an introduction to block printing by Molly. Using Molly’s garden inspired hand carved wooden blocks, you will experiment with colour and pattern and finish by printing your own set of beautiful cards and envelopes.<\/p>",
+            "image": "shopify:\/\/shop_images\/THYME_JUN22.jpg",
+            "event_date": "Tuesday, 8th March or  14th March 2022 at  3pm-5pm",
+            "event_extras": "The price includes a welcome coffee and all materials.",
+            "event_price": "£95 per person",
+            "event_button_text": "Book your place",
+            "event_button_text_2": "Via Thyme",
+            "event_external_link": "https:\/\/www.thyme.co.uk\/thyme-events\/block-printing-cards-and-envelopes",
+            "event_buy_btn": ""
+          }
+        },
+        "519cccd8-5c39-4a42-9387-5286d373629a": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block Printing Lampshade Workshop at Charleston, Firle",
+            "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own lampshade.",
+            "event_description": "<p>The day-long course will include a private tour of the house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks, you will experiment with colour and pattern and finish by printing and making your own lampshade.<\/p>",
+            "image": "shopify:\/\/shop_images\/CHARLESTONLAMP_2caf6171-7491-47a3-9973-70aa55eb1c3a.jpg",
+            "event_date": "Monday 14th March 10am-3.30pm",
+            "event_extras": "The price includes all materials, refreshments and a delicious lunch",
+            "event_price": "£200 pp",
+            "event_button_text": "Book Here",
+            "event_button_text_2": "Via Charleston",
+            "event_external_link": "https:\/\/www.charleston.org.uk\/event\/block-printing-on-lampshades-with-molly-mahon\/",
+            "event_buy_btn": ""
+          }
+        },
+        "384caa00-334f-4ab3-a93d-275d2d0fd2fb": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block Printing Cushion Workshop at Charleston, Firle",
+            "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own cushion cover",
+            "event_description": "<p>The day-long course will include a private tour of the house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks, you will experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.<\/p>",
+            "image": "shopify:\/\/shop_images\/CHARLESTONWS1_abbcba7f-f0eb-409a-b44b-24a8b87f0270.jpg",
+            "event_date": "Tuesday 15th March 10am-3.30pm",
+            "event_extras": "The price includes all materials, refreshments and a delicious lunch.",
+            "event_price": "£180 pp",
+            "event_button_text": "Book Here",
+            "event_button_text_2": "Via Charleston",
+            "event_external_link": "https:\/\/www.charleston.org.uk\/event\/block-printing-on-cushion-covers-with-molly-mahon\/",
             "event_buy_btn": ""
           }
         }
       },
       "block_order": [
         "16352620842faf27c4-0",
-        "86e614b8-e8c2-491e-832a-3e23d40baa3f"
+        "86e614b8-e8c2-491e-832a-3e23d40baa3f",
+        "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
+        "519cccd8-5c39-4a42-9387-5286d373629a",
+        "384caa00-334f-4ab3-a93d-275d2d0fd2fb"
       ],
       "settings": {
         "title": ""
@@ -100,7 +151,7 @@
     "1635263281959956a1": {
       "type": "text-banner",
       "settings": {
-        "title": "<p><strong>How about giving a workshop as a gift? Gift vouchers unavailable!<\/strong><\/p>",
+        "title": "<p><strong>How about giving a workshop as a gift?<\/strong><\/p>",
         "link": "",
         "bg_pattern": "pattern_03",
         "color_scheme": "blue_text"
@@ -112,16 +163,16 @@
         "163526328406ed0926-0": {
           "type": "event",
           "settings": {
-            "event_title": "Block printing Curtains at Carew Castle",
-            "event_intro": "Join Molly for a one-day workshop experiencing the joy of block printing and making your own lampshade.",
-            "event_description": "<p>The day-long course will include a private tour of the house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks, you will experiment with colour and pattern and ﬁnish by printing your own 30cm lampshade. £200 pp-the price includes all materials, refreshments and a delicious lunch.<\/p>",
-            "image": "shopify:\/\/shop_images\/269765809_597705231300974_6620006497719137609_n.jpg",
-            "event_date": "23rd - 25th November",
-            "event_extras": "You keep the curtains",
-            "event_price": "£650 per Unit",
-            "event_button_text": "Book Now!",
-            "event_button_text_2": "",
-            "event_external_link": "",
+            "event_title": "Join Molly Mahon Online at Create Academy",
+            "event_intro": "Welcome to my online immersive block printing course. With over 5 hours of content, I hope to empower you to give this wonderful craft a go and offer step by step guides to get you going from your kitchen table.",
+            "event_description": "<p>Jam packed with tips, tricks, inspiration and tours of places I love including my own home, this course gives a real insight in to how I work and how block print can open a world of creativity. You can access all the items you need from our Supplies Store, from lovely eco fabric paints, to tools, items to print and wooden printing blocks. Block printing has changed my life and I hope will bring joy to yours.<\/p>",
+            "image": "shopify:\/\/shop_images\/CHARLOTTESTREET_07a1132b-c762-4382-958c-bf02286d3edb.jpg",
+            "event_date": "N\/A",
+            "event_extras": "19 video lessons with lesson plan",
+            "event_price": "£127.00",
+            "event_button_text": "Book your course here",
+            "event_button_text_2": "Via Create Academy",
+            "event_external_link": "https:\/\/www.createacademy.com\/courses\/molly-mahon",
             "event_buy_btn": ""
           }
         }

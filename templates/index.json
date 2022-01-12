@@ -6,24 +6,24 @@
         "16352843092374a33e-0": {
           "type": "Tooltip",
           "settings": {
-            "title": "Cosy Cushions",
-            "content": "<p>Creative creature comforts<br\/><br\/><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop Cushions<\/a><\/p>",
+            "title": "Frill Seed Cushion",
+            "content": "<p><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop Cushions<\/a><\/p>",
             "prod": "",
-            "top": 55,
-            "left": 50,
-            "top_mob": 57,
-            "left_mob": 38
+            "top": 72,
+            "left": 19,
+            "top_mob": 77,
+            "left_mob": 3
           }
         },
         "148881e0-9bcf-4a7c-b669-ce41df894331": {
           "type": "Tooltip",
           "settings": {
-            "title": "Accessorize",
-            "content": "<p>strange hopping frog<\/p>",
+            "title": "Dianthus Indigo Iron",
+            "content": "<p><a href=\"\/products\/fdscot51\" title=\"Dianthus - Cotton - Indigo & Iron\">Shop Fabric<\/a><\/p>",
             "prod": "coral-green-wallpaper",
-            "top": 20,
-            "left": 62,
-            "top_mob": 61,
+            "top": 32,
+            "left": 52,
+            "top_mob": 42,
             "left_mob": 47
           }
         }
@@ -33,8 +33,8 @@
         "148881e0-9bcf-4a7c-b669-ce41df894331"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/CHRISTMAS20LIFE1_84bdd184-efbc-4269-b90c-25f6b9e2ae99.jpg",
-        "square_image": "shopify:\/\/shop_images\/CHRISTMAS20LIFE1_84bdd184-efbc-4269-b90c-25f6b9e2ae99.jpg",
+        "image": "shopify:\/\/shop_images\/DIANTHUS_FOURPOSTER_b8ce85ed-035a-4a44-9894-da70d5d7ab43.jpg",
+        "square_image": "shopify:\/\/shop_images\/DIANTHUS_FOURPOSTER_b8ce85ed-035a-4a44-9894-da70d5d7ab43.jpg",
         "make_logo_white": false,
         "title": "Molly Mahon New Years",
         "header_tag": "h2"
@@ -43,7 +43,7 @@
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p><strong>August Only (2022)<\/strong> Get free access to Forest Row Social Club<\/p>",
+        "title": "<p>WEDNESDAY 26th JANUARY  Molly Mahon's Mega Sale - more info below<\/p>",
         "link": "shopify:\/\/blogs\/community\/the-print-series-an-evolving-collection-of-affordable-photographic-prints",
         "bg_pattern": "pattern_01",
         "color_scheme": "blue_text"
@@ -55,13 +55,13 @@
         "16348194457d3235ff-0": {
           "type": "heading",
           "settings": {
-            "heading": "Fabric"
+            "heading": "Get Into Print"
           }
         },
         "16348194457d3235ff-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Textiles bring an important element to a space. And it is colour and pattern that brings it to another level. Get inspired to make your mark.<\/p>"
+            "text": "<p>We are passionate about the art of block printing and we will opt for this production method wherever we can.  A piece of block printed cloth is a beautiful thing, perhaps it holds the story of all the skilled hands that it has passed through.  Block printing is an ancient craft that has connected people over thousands of years; it is my honour to be part of that continuing journey today and I hope that you enjoy the finished pieces we offer you here as much as I have enjoyed in being part of their creation.<\/p>"
           }
         },
         "16348194457d3235ff-2": {
@@ -78,8 +78,8 @@
         "16348194457d3235ff-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GCSEEI-2_7c18d026-435e-4bbf-993d-5c9481085e3a.jpg",
-        "title": "",
+        "image": "shopify:\/\/shop_images\/MM_PORTRAIT_STUDIO_cd24aa1d-3897-44f3-8f9b-9d18c5f149cc.jpg",
+        "title": "\"I am not alone in my desire to bring joy, craft and colour into our homes.\"",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
         "text_align": "center",
@@ -133,7 +133,7 @@
       "type": "featured-blog",
       "settings": {
         "heading": "Blog posts",
-        "introduction": "<p>Each week we publish articles on books, artists, seasonal recipes, travel and the stories of our makers and materials. Each week we publish articles on books, artists, seasonal recipes, travel and the stories of our makers and materials.<\/p>",
+        "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you<br\/>can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that<br\/>matter to her.<\/p>",
         "button_label": "See all Articles",
         "blog": "journal",
         "post_limit": 5
@@ -183,6 +183,16 @@
         "text_box_max_width": "800",
         "show_text_box": true,
         "color_scheme": "white_text"
+      }
+    },
+    "1641296300a7b5094c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Brilliant Block Printing Kits",
+        "collection": "block-print-kits",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "show_secondary_image": true
       }
     },
     "1634819659f7be73c6": {
@@ -266,6 +276,49 @@
         "lines": "lines"
       }
     },
+    "164129687781f3cb6c": {
+      "type": "video",
+      "blocks": {
+        "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5": {
+          "type": "heading",
+          "settings": {
+            "heading": "The art of block printing",
+            "heading_type": "header2"
+          }
+        },
+        "b85cb65c-caac-4438-b618-6f8b1bf98846": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Visit Molly's create academy profile",
+            "button_modal_1": "",
+            "button_link_1": "https:\/\/www.createacademy.com\/courses\/molly-mahon",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_modal_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5",
+        "b85cb65c-caac-4438-b618-6f8b1bf98846"
+      ],
+      "settings": {
+        "logo_white": false,
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": true,
+        "show_controls": true,
+        "html5_video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/mm_conv_01.mp4?v=1633608512",
+        "image": "shopify:\/\/shop_images\/267469019_1030593891128721_6078512326311949056_n.jpg",
+        "desktop_text_box_position": "start",
+        "desktop_text_box_position_horizontal": "end",
+        "text_align": "right",
+        "text_box_max_width": "1000",
+        "color_scheme": "white_text"
+      }
+    },
     "16348163341a2e5254": {
       "type": "instagram-grid",
       "blocks": {
@@ -273,64 +326,64 @@
           "type": "Instalink",
           "settings": {
             "insta_image": "shopify:\/\/shop_images\/269785474_899264600726947_2798189316638270438_n.jpg",
-            "author": "@mollymahon",
-            "link": "https:\/\/www.instagram.com\/p\/CX3G3SkrrZv\/"
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         },
         "b3638c37-80b2-4963-9497-730c5a8367d7": {
           "type": "Instalink",
           "settings": {
             "insta_image": "shopify:\/\/shop_images\/269765809_597705231300974_6620006497719137609_n.jpg",
-            "author": "@mollymahon",
-            "link": "https:\/\/www.instagram.com\/p\/CXyDGO-oj5w\/"
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         },
         "9fd0fb9e-76fd-49db-a4dc-c17f50c6914d": {
           "type": "Instalink",
           "settings": {
             "insta_image": "shopify:\/\/shop_images\/269611342_313979097124189_10294121352655617_n.jpg",
-            "author": "@mollymahon",
-            "link": "https:\/\/www.instagram.com\/p\/CXvb1ACoNtc\/"
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         },
         "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32": {
           "type": "Instalink",
           "settings": {
             "insta_image": "shopify:\/\/shop_images\/269593062_219586196902620_4351619369225056945_n.jpg",
-            "author": "@mollymahon",
-            "link": "https:\/\/www.instagram.com\/p\/CXrC0JMo5ap\/"
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         },
         "366ce4bd-d678-476b-b6ce-e1f69e984969": {
           "type": "Instalink",
           "settings": {
             "insta_image": "shopify:\/\/shop_images\/267806198_1187740258419748_3563924915876653117_n.jpg",
-            "author": "@mollymahon",
-            "link": "https:\/\/www.instagram.com\/p\/CXjzSsXrPk6\/"
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         },
         "c5462cbc-a60b-4b23-b26e-1522064bd96b": {
           "type": "Instalink",
           "settings": {
             "insta_image": "shopify:\/\/shop_images\/268831221_965420470753464_6300840188847670419_n.jpg",
-            "author": "@mollymahon",
-            "link": "https:\/\/www.instagram.com\/p\/CXgo0UtrLE9\/"
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         },
         "ab89f639-6764-4639-b1e4-d7b36eaa5147": {
           "type": "Instalink",
           "settings": {
             "insta_image": "shopify:\/\/shop_images\/267469019_1030593891128721_6078512326311949056_n.jpg",
-            "author": "@mollymahon",
-            "link": "https:\/\/www.instagram.com\/p\/CXb9IK_LrCr\/"
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         },
         "e029c48d-6777-47fa-8c59-1eb07ea60a54": {
           "type": "Instalink",
           "settings": {
             "insta_image": "shopify:\/\/shop_images\/265892955_886781651982722_3154142071407336014_n.jpg",
-            "author": "@mollymahon",
-            "link": "https:\/\/www.instagram.com\/p\/CXZK0AxLQWY\/"
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         }
       },
@@ -345,26 +398,16 @@
         "e029c48d-6777-47fa-8c59-1eb07ea60a54"
       ],
       "settings": {
-        "title": "#mollymahon",
+        "title": "#mollymahonblockprinting",
         "subtitle": "Stay up to date with the world of Molly Mahon",
         "button_label": "Follow Molly Mahon",
-        "button_link": "https:\/\/instagram.com\/mollymahon"
+        "button_link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
       }
     },
     "main": {
       "type": "main-404",
       "disabled": true,
       "settings": {
-      }
-    },
-    "1641296300a7b5094c": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Brilliant Block Printing Kits",
-        "collection": "block-print-kits",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "show_secondary_image": true
       }
     },
     "1641296757e9d3390b": {
@@ -432,49 +475,6 @@
         "page": "fabric-care-1"
       }
     },
-    "164129687781f3cb6c": {
-      "type": "video",
-      "blocks": {
-        "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5": {
-          "type": "heading",
-          "settings": {
-            "heading": "The art of block printing",
-            "heading_type": "header2"
-          }
-        },
-        "b85cb65c-caac-4438-b618-6f8b1bf98846": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Visit Molly's create academy profile",
-            "button_modal_1": "",
-            "button_link_1": "https:\/\/www.createacademy.com\/courses\/molly-mahon",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_modal_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5",
-        "b85cb65c-caac-4438-b618-6f8b1bf98846"
-      ],
-      "settings": {
-        "logo_white": false,
-        "autoplay": true,
-        "autoloop": true,
-        "mute_video": true,
-        "show_controls": true,
-        "html5_video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/mm_conv_01.mp4?v=1633608512",
-        "image": "shopify:\/\/shop_images\/267469019_1030593891128721_6078512326311949056_n.jpg",
-        "desktop_text_box_position": "start",
-        "desktop_text_box_position_horizontal": "end",
-        "text_align": "right",
-        "text_box_max_width": "1000",
-        "color_scheme": "white_text"
-      }
-    },
     "16412983447ec23b50": {
       "type": "apps",
       "settings": {
@@ -489,14 +489,14 @@
     "163481963822b4d1b3",
     "16348167313be3ffb8",
     "1634816369f8368cfa",
+    "1641296300a7b5094c",
     "1634819659f7be73c6",
     "1634821627eaee293f",
+    "164129687781f3cb6c",
     "16348163341a2e5254",
     "main",
-    "1641296300a7b5094c",
     "1641296757e9d3390b",
     "1641296802546444c7",
-    "164129687781f3cb6c",
     "16412983447ec23b50"
   ]
 }
