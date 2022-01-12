@@ -1,4 +1,7 @@
 <script> 
+
+if (document.getElementById("mc-embedded-subscribe-form") || document.getElementById("mc-embedded-subscribe-form-news")) {
+
 // Add the novalidate attribute when the JS loads
 var forms = document.querySelectorAll('.validate');
 for (var i = 0; i < forms.length; i++) {
@@ -291,5 +294,6 @@ document.addEventListener('submit', function (event) {
   
 }, false);
 
+}
 
 </script>
