@@ -135,6 +135,22 @@
             "event_external_link": "https:\/\/www.charleston.org.uk\/event\/block-printing-on-cushion-covers-with-molly-mahon\/",
             "event_buy_btn": ""
           }
+        },
+        "739546b9-6ea3-463f-8b73-9e613947c2d8": {
+          "type": "event",
+          "settings": {
+            "event_title": "MM Mega Sale",
+            "event_intro": "Bring your measuring tape and flatten down your car's back seat!  We are clearing out our stock room of photo shoot pieces to end of line and a foray of past collections.  Expect cushions, wallpaper rolls, fabric bolts, curtains and blinds, lampshades, tea towels, mis-printed mugs and much more..",
+            "event_description": "<p>Please enter through front door at Trading Boundaries and follow the one way system.  We ask everyone to take into consideration of the current circumstances and only travel if fully fit.  Masks to be worn as in accordance to the law of the land to date.<\/p>",
+            "image": "shopify:\/\/shop_images\/MM_winter_sale_WEB_ad026cf8-06d5-4455-a9d7-6bcc357b5202.jpg",
+            "event_date": "Wednesday 26th January, 2022",
+            "event_extras": "Restaurant open for teas, coffees and nibbles",
+            "event_price": "",
+            "event_button_text": "Google Map",
+            "event_button_text_2": "",
+            "event_external_link": "https:\/\/www.google.com\/maps\/place\/Sheffield+Green,+Uckfield+TN22+3RB\/@51.0080665,0.001583,15z\/data=!3m1!4b1!4m5!3m4!1s0x47df60061165d2a9:0x37da30e7c16d77!8m2!3d51.0078376!4d0.0104441",
+            "event_buy_btn": ""
+          }
         }
       },
       "block_order": [
@@ -142,7 +158,8 @@
         "86e614b8-e8c2-491e-832a-3e23d40baa3f",
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
         "519cccd8-5c39-4a42-9387-5286d373629a",
-        "384caa00-334f-4ab3-a93d-275d2d0fd2fb"
+        "384caa00-334f-4ab3-a93d-275d2d0fd2fb",
+        "739546b9-6ea3-463f-8b73-9e613947c2d8"
       ],
       "settings": {
         "title": ""
