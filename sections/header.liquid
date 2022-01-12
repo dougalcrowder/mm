@@ -45,7 +45,13 @@
                               </a>
                             {%- else -%}
                             <div class="subnav_title">
-                                  {{ childlink.title | escape }}
+                              {%- if childlink.url == '#' -%}
+                              <div class="nolink">{{ childlink.title | escape }} -</div>
+                              {%- else -%}
+                                <a href="{{ childlink.url }}" class="{% if childlink.current %} list-menu__item--active{% endif %}"{% if childlink.current %} aria-current="page"{% endif %}>
+                                  {{ childlink.title | escape }} -
+                                </a>
+                              {%- endif -%}
                             </div>
                             <ul class="subnav_menu">
                               {%- for grandchildlink in childlink.links -%}
