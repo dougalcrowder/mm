@@ -102,7 +102,7 @@
         ],
         "settings": {
           "menu": "main-menu-1",
-          "menu_message": "Happy New year - We have a very exciting year ahead of us - Join us and keep in touch"
+          "menu_message": "Welcome to our world of colour and pattern"
         }
       },
       "footer": {
@@ -160,7 +160,7 @@
           "118079ad-66b6-4830-8b60-8dcf38803242": {
             "type": "heading",
             "settings": {
-              "heading": "An exciting year ahead of us"
+              "heading": "We have an exciting year ahead of us"
             }
           },
           "e20d543f-8cc6-4d96-9370-377d89c3a24e": {
