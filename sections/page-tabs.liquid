@@ -3,14 +3,33 @@
   {%- if section.settings.product_desc -%}
   {%- assign prodDesc = true -%}
   {%- endif -%}
+  {%- assign caredoc = product.metafields.descriptors.care_guide -%}
+  {%- assign custom_shipping = product.metafields.products.shipping_information -%}
 {%- endif -%}
+
 <div class="tabs inner">
   <div role="tablist" aria-label="Product Details Tabs" class="flex tablist">
-    
+  
   {%- if prodDesc -%}  
-    <button class="tabber" role="tab" aria-selected="true" aria-controls="panel-1" id="tab-1" tabindex="0">
+    <button class="tabber" role="tab" aria-selected="true" aria-controls="panel-1a" id="tab-1a" tabindex="0">
       More Info
     </button>
+  {%- endif -%}
+  
+  {%- if caredoc -%}  
+    <button class="tabber" role="tab" aria-selected="false" aria-controls="panel-1b" id="tab-1b" tabindex="0">
+      Care Guide
+    </button>
+  {%- endif -%}
+  
+  {%- if custom_shipping -%}  
+    <button class="tabber" role="tab" aria-selected="false" aria-controls="panel-1c" id="tab-1c" tabindex="0">
+      {{ section.settings.ship_title }}
+    </button>
+  {%- elsif section.settings.ship_content != blank -%}
+  <button class="tabber" role="tab" aria-selected="false" aria-controls="panel-1c" id="tab-1c" tabindex="0">
+    {{ section.settings.ship_title }}
+  </button>
   {%- endif -%}
   
   {%- for block in section.blocks -%}
@@ -28,9 +47,11 @@
     {% endcase %}
   {%- endfor -%}
   </div>
-  {%- if template contains 'product' -%}  
+  
+  {%- if template contains 'product' -%}
+  
   {%- if section.settings.product_desc -%}
-  <div id="panel-1" role="tabpanel" tabindex="0" aria-labelledby="tab-1">
+  <div id="panel-1a" role="tabpanel" tabindex="0" aria-labelledby="tab-1a">
   
   {%- if section.settings.description_image != blank -%}
   <div class="flex tab_flex withimage">
@@ -59,7 +80,38 @@
   {%- endif -%}
   </div>
   {%- endif -%}
+  
+  {%- if caredoc -%} 
+  <div id="panel-1b" role="tabpanel" tabindex="0" aria-labelledby="tab-1b" hidden>
+    <div class="flex tab_flex">
+      <div class="text rte">
+    {{ caredoc }}
+      </div>
+    </div>
+  </div>
   {%- endif -%}
+  
+  {%- if custom_shipping -%} 
+  <div id="panel-1c" role="tabpanel" tabindex="0" aria-labelledby="tab-1c" hidden>
+    <div class="flex tab_flex">
+      <div class="text rte">
+      {{ custom_shipping }}
+      </div>
+    </div>
+  </div>
+  {%- else -%}
+  <div id="panel-1c" role="tabpanel" tabindex="0" aria-labelledby="tab-1c" hidden>
+    <div class="flex tab_flex">
+      <div class="text rte">
+      {{ section.settings.ship_content }}
+      </div>
+    </div>
+  </div>
+  {%- endif -%}
+  
+  {%- endif -%}
+  
+  
   {%- for block in section.blocks -%}
   {%- case block.type -%}
     {%- when 'tab' -%}
@@ -185,6 +237,21 @@
     "type": "image_picker",
     "id": "description_image",
     "label": "Description image"
+  },
+  {
+    "type": "header",
+    "content": "Default Shipping Details"
+  },
+  {
+    "type": "text",
+    "id": "ship_title",
+    "default": "Shipping",
+    "label": "Shipping Tab header"
+  },
+  {
+    "type": "richtext",
+    "id": "ship_content",
+    "label": "Shipping Info Content"
   }
 ],
 "blocks": [

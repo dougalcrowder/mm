@@ -916,6 +916,11 @@ fieldset.product-form__input .form__label {
   }
 }
 
+[role=tabpanel] .tab_flex .text > ul.tabs {
+  display: none;
+  visibility: hidden;
+}
+
 @media screen and (min-width: 960px) {
   [role=tabpanel] .tab_flex.withimage .text,
   [role=tabpanel] .tab_flex.withimage .image {

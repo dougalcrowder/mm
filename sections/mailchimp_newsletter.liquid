@@ -1,0 +1,116 @@
+<div class="newsletter flex inner">
+  <div class="signup">
+    {%- for block in section.blocks -%}
+      {%- case block.type -%}
+        {%- when '@app' -%}
+          {% render block %}
+        {%- when 'heading' -%}
+          <h2 class="h3" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
+        {%- when 'paragraph' -%}
+          <div class="newsletter__subheading rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
+        {%- when 'email_form' -%}
+          <div {{ block.shopify_attributes }}>
+            <div class="mailchimp-newsletter">
+              <form action="https://mollymahon.us10.list-manage.com/subscribe/post?u=97f9cc90b67785f171c4e5e7a&amp;id=03514ce382" method="post" id="mc-embedded-subscribe-form-news" name="mc-embedded-subscribe-form-news" class="validate" target="_blank">
+                <div>
+                  <label class="visibility-hidden" for="mce-EMAIL">Email Address</label>
+                  <input type="email" name="EMAIL" placeholder="Email Address" id="mce-EMAIL" title="The domain portion of the email address is invalid (the portion after the @)." pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$" required>
+                </div>
+                  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f2d244c0df42a0431bd08ddea_aeaa9dd034" tabindex="-1" value=""></div>
+                  <div class="mc-status"></div>
+                  <div><input type="submit" value="Sign me up!" name="subscribe" id="mc-embedded-subscribe-news" class="button small maily"></div>
+              </form>
+            </div>
+          </div>
+      {%- endcase -%}
+    {%- endfor -%}
+  </div>
+  {%- if section.settings.quote != blank -%}
+  <div class="quote">
+    <blockquote>
+      {{ section.settings.quote }}
+    </blockquote>
+    {%- if section.settings.cite != blank -%}
+    <cite>{{ section.settings.cite }}</cite>
+  {%- endif -%}
+  </div>
+  {%- endif -%}
+</div>
+
+{% schema %}
+{
+  "name": "Mailchimp Signup",
+  "tag": "section",
+  "class": "newsletter-section",
+  "settings": [
+    {
+      "type": "paragraph",
+      "content": "t:sections.newsletter.settings.paragraph.content"
+    },
+    {
+      "type": "richtext",
+      "id": "quote",
+      "default": "<p>Molly Mahon's designs are AWESOME SAUCE</p>",
+      "label": "Quote"
+    },
+    {
+      "type": "text",
+      "id": "cite",
+      "default": "Sum Onetrustworthy",
+      "label": "Citaton"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "name": "t:sections.newsletter.blocks.heading.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "heading",
+          "default": "Subscribe to our emails",
+          "label": "t:sections.newsletter.blocks.heading.settings.heading.label"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "name": "t:sections.newsletter.blocks.paragraph.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "text",
+          "default": "<p>Be the first to know about new collections and exclusive offers.</p>",
+          "label": "t:sections.newsletter.blocks.paragraph.settings.paragraph.label"
+        }
+      ]
+    },
+    {
+      "type": "email_form",
+      "name": "t:sections.newsletter.blocks.email_form.name",
+      "limit": 1
+    },
+    {
+      "type": "@app"
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:sections.newsletter.presets.name",
+      "blocks": [
+        {
+          "type": "heading"
+        },
+        {
+          "type": "paragraph"
+        },
+        {
+          "type": "email_form"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

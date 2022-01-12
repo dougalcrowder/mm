@@ -146,22 +146,27 @@ form > div {
   margin-bottom: 16px;
 }
 
+input.button.maily {
+  width: auto;
+  background-color: transparent;
+}
+
 /**
  * Errors
  */
 
 .error {
-  border-color: red;
+  background-color: red;
 }
 
 .error-message {
-  color: red;
-  font-style: italic;
-  margin-bottom: 1em;
+  color: var(--color-red);
+  margin-bottom: 4px;
+  padding: 4px;
+  background-color: #fae8e9;
 }
 
 .success-message {
-  color: white;
   margin-bottom: 16px;
 }
 

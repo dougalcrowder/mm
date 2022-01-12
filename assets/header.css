@@ -1166,7 +1166,7 @@ img {
 .header .menu_message {
   flex: 1 1 100%;
   flex-basis: calc(100% - 272px);
-  text-align: center;
+  padding-left: 4px;
 }
 
 @media screen and (max-width: 799px) {

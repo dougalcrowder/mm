@@ -19,14 +19,14 @@
       {%- endif -%}
     </div>
     {%- endif -%}
-    
+    {% comment %}
     <nav class="article_tags flex inner">
     <a class="taglink active" href="{{ blog.url }}" data-tag="all">All</a>
     {%- for tag in blog.all_tags -%}
     <a class="taglink" href="{{ blog.url }}/tagged/{{ tag | handle }}" data-tag="{{ tag | handle }}">{{ tag }}</a>
     {%- endfor -%}
     </nav>
-    
+    {% endcomment %}
     <div id="swup" data-tag="{% if current_tags %}{{ current_tags.first | handleize }}{% else %}all{% endif %}">
     {% if current_tags %}
     <div class="tagger inner intros">

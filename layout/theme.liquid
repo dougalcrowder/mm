@@ -80,8 +80,14 @@
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
+    {%- assign mailchimpJs = false -%}
+    {% comment %}
     {% section 'newsletter' %}
+    {% endcomment %}
+    {{ 'mailchimp.css' | asset_url | stylesheet_tag }}
+    {% section 'mailchimp_newsletter' %}
     {% section 'mailchimp' %}
+    {% include 'mailchimp_scripts' %}
     {% section 'footer' %}
 
     <ul hidden>
