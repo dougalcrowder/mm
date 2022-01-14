@@ -14,6 +14,13 @@
   {%- else -%}
     {%- assign square_image = section.settings.image -%}
   {%- endif -%}
+  {%- if section.settings.top_margin -%}
+    <div class="margery">
+      {% include 'image-hero' %}
+    </div>
+    {%- else -%}
+    {% include 'image-hero' %}
+  {%- endif -%}
     {% include 'image-hero' %}
   {%- endif -%}
   
@@ -40,6 +47,12 @@
       "id": "make_logo_white",
       "default": false,
       "label": "Make the logo white"
+    },
+    {
+      "type": "checkbox",
+      "id": "top_margin",
+      "default": false,
+      "label": "Add a top margin"
     },
     {
       "type": "select",

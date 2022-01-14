@@ -124,9 +124,8 @@
 .totals {
   flex-wrap: nowrap;
   gap: 16px;
-  border-top: 1px solid var(--color-foreground);
   padding: 8px 2% 8px 2%;
-  margin-top: 24px;
+  margin-top: 0;
   text-align: center;
 }
 
@@ -184,7 +183,7 @@
 }
 
 .cart_header_items .gofrit {
-  flex: 0 1 450px;
+  flex: 0 1 445px;
 }
 
 .cart_header_items .gofrit .totals {
