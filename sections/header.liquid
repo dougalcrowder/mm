@@ -109,10 +109,9 @@
       </nav>
     {%- endif -%}
     <div class="header_links flex">
-      {% comment %}
-      change css to justify space between
-      <a href="https://trade.mollymahon.com/" class="trade_link top_shift">Trade Login</a>
-      {% endcomment %}
+
+      <span class="trade_link top_shift"><span class="visually-hidden">Trade Login</span></span>
+
       {% if section.settings.menu_message != blank %}
       <div class="menu_message top_shift">{{ section.settings.menu_message }}</div>
       {% endif %}

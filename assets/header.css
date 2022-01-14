@@ -1167,6 +1167,7 @@ img {
   flex: 1 1 100%;
   flex-basis: calc(100% - 272px);
   padding-left: 4px;
+  text-align: center;
 }
 
 @media screen and (max-width: 799px) {
@@ -2035,6 +2036,7 @@ input::-webkit-search-decoration {
 
 .list-menu > li > .header__menu-item {
   height: 60px;
+  display: block;
 }
 
 .header__menu-item {

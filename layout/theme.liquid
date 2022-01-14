@@ -29,8 +29,16 @@
     {%- if settings.favicon != blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | img_url: '32x32' }}">
     {%- endif -%}
-
     
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ 'apple-touch-icon.png?v=2' | asset_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ 'favicon-32x32.png?v=2' | asset_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ 'favicon-16x16.png?v=2' | asset_url }}">
+    <link rel="manifest" href="{{ 'site.webmanifest?v=2' | asset_url }}">
+    <link rel="mask-icon" href="{{ 'safari-pinned-tab.svg?v=2' | asset_url }}" color="#b62532">
+    <link rel="shortcut icon" href="{{ 'favicon.ico?v=2' | asset_url }}">
+    <meta name="msapplication-TileColor" content="#8dc687">
+    <meta name="msapplication-config" content="{{ 'browserconfig.xml?v=2' | asset_url }}">
+    <meta name="theme-color" content="#8dc687">
 
     <title>
       {{ page_title }}
