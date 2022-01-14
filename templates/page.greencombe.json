@@ -4,9 +4,55 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "16421993483b631460": {
+      "type": "image-banner",
+      "blocks": {
+        "1642199348d668b6b2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Greencombe Collection",
+            "heading_type": "header1"
+          }
+        },
+        "1642199348d668b6b2-1": {
+          "type": "text",
+          "settings": {
+            "text": "Designed in Sussex, hand blocked in Rajasthan",
+            "go_serif": true
+          }
+        },
+        "1642199348d668b6b2-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Click here to order your brochure",
+            "button_link_1": "shopify:\/\/products\/fbxbrc00",
+            "button_style_secondary_1": true,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1642199348d668b6b2-0",
+        "1642199348d668b6b2-1",
+        "1642199348d668b6b2-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GCSEEI-2_7c18d026-435e-4bbf-993d-5c9481085e3a.jpg",
+        "make_logo_white": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16421993483b631460"
   ]
 }
