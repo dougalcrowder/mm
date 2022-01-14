@@ -7,17 +7,14 @@
       {%- if productswitch != blank -%}
       <script>window.location.href= '{{ productswitch.url }}'</script>
       <meta name="cheryl" content="{{ productswitch.url }}">
+      {%- else -%}
+        {%- if product.type == 'Fabric Sample' -%}
+        <script>window.location.href= '/collections/fabric'</script>
+        {%- endif -%}
+        {%- if product.type == 'Wallpaper Sample' -%}
+          <script>window.location.href= '/collections/wallpaper'</script>
+        {%- endif -%}
       {%- endif -%}
-      {% comment %}
-      {%- if product.type == 'Sample' -%}
-      <meta name="sample" content="{{ product.url | remove:'-sample' }}">
-      <script>window.location.href= '{{ product.url | remove:'-sample' }}'</script>
-      {%- endif -%}
-      {%- if product.type == 'Free Sample' -%}
-      <meta name="Free sample" content="{{ product.url | remove:'-free-sample' }}">
-      <script>window.location.href= '{{ product.url | remove:'-free-sample' }}'</script>
-      {%- endif -%}
-      {% endcomment %}
     {%- endif -%}
     
     <meta charset="utf-8">

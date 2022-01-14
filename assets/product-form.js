@@ -14,16 +14,19 @@ if (!customElements.get('product-form')) {
       
       console.log(data.item_count);
       let freeSamples = 0;
+      let price = 0.00;
       data.items.forEach( function(prods) {
         // console.log(prods.id);
-        if (prods.product_type == 'Free Sample') {
+        if (prods.product_type == 'Fabric Sample' || prods.product_type == 'Wallpaper Sample' && prods.original_price == 0 ) {
           let qty = prods.quantity;
+          price = prods.original_price;
           freeSamples += qty;
           console.log('free samples: ' +freeSamples);
+          console.log(price);
         }
       });
       
-      if(freeSamples > 4 ) {
+      if(freeSamples > 10 ) {
         console.log("No more freebies for you");
         document.body.classList.add("paid");
         document.body.classList.remove("free");

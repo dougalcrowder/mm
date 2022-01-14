@@ -257,7 +257,7 @@
         </div>
         
         <!-- Buy Buttons -->
-        <div class="buy">
+        <div class="buy {{ product.type }}">
           {%- if product.type == 'Fabric' or product.type == 'Wallpaper' -%}
           <div class="sample_time flex">
           {%- else -%}
@@ -300,6 +300,8 @@
                 </div>
               {%- endform -%}
             </product-form>
+            
+            {% include 'product_page_samples' %}
             
             {%- assign comp_1 = product.metafields.products.companion_product_1.value -%}
             {%- assign comp_2 = product.metafields.products.companion_product_2.value -%}
@@ -368,7 +370,7 @@
           <script src="{{ 'pickup-availability.js' | asset_url }}" defer="defer"></script>
           {% endcomment %}
           
-          {% include 'product_page_samples' %}
+
         </div>
       </div>
         <!-- ends buy buttons -->

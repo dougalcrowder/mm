@@ -9,9 +9,11 @@
     <a href="{{ routes.all_products_collection_url }}">Back to shopping</a>
   </div>
   <div class="cart_header_items flex">
+    {% comment %}
     <div class="silly_print">
       <a class="button nude" href="javascript:if(window.print)window.print()" aria-label="Print (like it is 1997)">{% render 'icon-print' %} Print</a>
     </div>
+    {% endcomment %}
     <div class="gofrit">
         <div id="main-cart-header">
             <div class="totals flex">
@@ -64,12 +66,12 @@
   
   {% assign sampleLive = false %}
   {%- for item in cart.items -%}
-    {% if item.product.type == 'Free Sample' or item.product.type == 'Sample' %}
+    {% if item.product.type == 'Fabric - Free Sample' or item.product.type == 'Fabric Sample' or item.product.type == 'Wallpaper - Free Sample' or item.product.type == 'Wallpaper Sample' %}
      {% assign sampleLive = true %} 
      {% break %}
     {% endif %}
   {% endfor %}
-  
+
   <form action="{{ routes.cart_url }}" class="cart__contents critical-hidden" method="post" id="cart">
     <div class="cart__items" id="main-cart-items" data-id="{{ section.id }}">
       <div class="js-contents">
@@ -79,10 +81,10 @@
           <div class="swatches grid">
             <div class="intro">
               <h3 class="h2">Swatches</h3>
-              <p>Important decisions shouldn’t be rushed which is why we are delighted to offer up to 10 swatches free of charge. Additional swatches will automatically be charged at £1.50 each.</p>
+              <p>Important decisions shouldn’t be rushed which is why we are delighted to offer up to 10 swatches free of charge. Additional swatches will automatically be charged at £1.00 each.</p>
             </div>
             {%- for item in cart.items -%}
-              {% if item.product.type == 'Free Sample' or item.product.type == 'Sample' %}
+              {% if item.product.type == 'Fabric - Free Sample' or item.product.type == 'Fabric Sample' or item.product.type == 'Wallpaper - Free Sample' or item.product.type == 'Wallpaper Sample' %}
               {% for itema in (1..item.quantity) %}             
               <div class="cart-item swatch" data-qty="{{ item.quantity }}">
                 <div class="flex">
@@ -101,13 +103,13 @@
                 {% endif %}
                   <div class="text">
                     {% assign finalTitle = item.product.title %}
-                    {% if item.product.title contains "Free Sample" %}
-                    {% assign midTitle = item.product.title | remove: "Free Sample" %}
+                    {% if item.product.type == "Fabric - Free Sample" or item.product.type == "Wallpaper - Free Sample" %}
+                    {% assign midTitle = item.product.title | remove: " - Free Sample" %}
                     {% capture finalTitle %}
                       {{ midTitle }}<span>Free Sample</span>
                     {% endcapture %}
                     {% endif %}
-                    <p>{{ finalTitle }} {% if item.product.type == 'Sample' %}<span class="cart-item__price">{{ item.final_price | money }}</span>{% endif %}</p>
+                    <p class="{{ item.product.type }}">{{ finalTitle }} {% if item.final_price > 0 %}<span class="cart-item__price">{{ item.final_price | money }}</span>{% endif %}</p>
                     <div class="removals remove-button" data-qty="{{ item.quantity }}" data-id="{{ item.id }}" data-index="{{ item.index | plus: 1 }}">
                       <a href="{{ item.url_to_remove }}" class="button" aria-label="{{ 'sections.cart.remove_title' | t: title: item.title }}">
                         {% render 'icon-remove' %}
@@ -137,7 +139,7 @@
 
           <div class="table_body">
               {%- for item in cart.items -%}
-                <div class="cart-item table grid {% if item.product.type == 'Free Sample' or item.product.type == 'Sample' %} visually-hidden{% endif%}" id="CartItem-{{ item.index | plus: 1 }}">
+                <div class="cart-item table grid {% if item.product.type == 'Fabric - Free Sample' or item.product.type == 'Fabric Sample' or item.product.type == 'Wallpaper - Free Sample' or item.product.type == 'Wallpaper Sample' %} visually-hidden{% endif%}" id="CartItem-{{ item.index | plus: 1 }}">
                   
                   <div class="cart-item__media">
                     {% if item.image %}

@@ -32,7 +32,7 @@
       let numberra = 0;
       products.forEach((item, index) => {
         
-        if(item.type == 'Free Sample' || item.type == 'Sample' || numberra === 4 ) { } else {
+        if(item.type == 'Fabric Sample' || item.type == 'Wallpaper Sample' || numberra === 4 ) { } else {
           let ogImage = item.featured_image;
           let imageSized = ogImage.replace(".jpg", "_360x360_crop_center.progressive.jpg");
           const singleProduct = '<div class="' + item.type + ' product_card product' + index + '"><a href="' + item.url + '"><img class="lazyimage" loading="lazy" src="' + imageSized + '" /><span class="serif">' + item.title + '<span></a></div>';

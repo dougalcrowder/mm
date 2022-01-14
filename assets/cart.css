@@ -154,6 +154,7 @@
 .cart_header_items {
   justify-content: space-between;
   align-items: flex-end;
+  justify-content: flex-end;
 }
 
 @media screen and (min-width: 768px) {
@@ -259,10 +260,14 @@ cart-items {
 
 .swatches.grid .cart-item .flex .text {
   position: relative;
-  padding: 16px 40px 0 16px;
+  padding: 16px 44px 0 16px;
   background-color: rgba(var(--color-lightpink-rgb), 0.5);
   font-family: var(--font-body-family);
   flex: 1 1 65%;
+}
+
+.swatches.grid .cart-item .flex .text > p {
+  margin: 0;
 }
 
 .swatches.grid .cart-item .flex .text p > span {
