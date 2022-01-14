@@ -10,31 +10,11 @@
     },
     "page-tabs": {
       "type": "page-tabs",
-      "blocks": {
-        "03855864-8aca-4fc3-aae2-1f0e0765a9b9": {
-          "type": "tab",
-          "settings": {
-            "heading": "Product Care",
-            "content": "",
-            "page": "fabric-care-1"
-          }
-        },
-        "ccf16314-fad9-4176-b0e4-5248ad6d2b30": {
-          "type": "tab",
-          "settings": {
-            "heading": "Shipping",
-            "content": "<p>stuff<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "03855864-8aca-4fc3-aae2-1f0e0765a9b9",
-        "ccf16314-fad9-4176-b0e4-5248ad6d2b30"
-      ],
       "settings": {
         "product_desc": true,
-        "description_image": "{{ product.metafields.my_fields.product_info_image.value }}"
+        "description_image": "{{ product.metafields.my_fields.product_info_image.value }}",
+        "ship_title": "Shipping",
+        "ship_content": "<p>Products in stock we endeavour to turn around and ship within 24hrs of purchase.  This can sometimes be extended which will be due to volume of sales.  Products that are sold that are not in stock and are made to order we will inform you individually of the lead time to delivery.<\/p><p>Fabric & Wallpaper samples we process twice weekly that means some sample request can take up to 5 working days to arrive.  In the UK they are sent via Royal Mail 2nd and overseas we send via Royal Mail's tracked and signed service.<\/p><p><a href=\"\/pages\/shipping-policy\" title=\"Shipping Policy\">Full Details<\/a><\/p>"
       }
     },
     "product-recommendations": {
