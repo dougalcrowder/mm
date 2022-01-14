@@ -2272,6 +2272,10 @@ button.navcloser.nude {
   position: relative;
 }
 
+.ratio_banner .margery {
+  margin-top: 40px;
+}
+
 .ratio_banner.letterbox {
   aspect-ratio: 1/1;
 }
