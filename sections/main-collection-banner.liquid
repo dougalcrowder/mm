@@ -1,7 +1,11 @@
 {%- if collection.image -%}
+{% assign needRed = collection.metafields.my_fields.make_logo_red %}
+{%- if needRed -%}
+{%- else -%}
 <script>
   document.body.classList.add("white_logo");
 </script>
+{%- endif -%}
 {%- endif -%}
 
 <div class="banner_head flex{% if collection.image %} with_image{% else %} no_image{% endif %}">

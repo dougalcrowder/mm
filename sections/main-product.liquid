@@ -155,7 +155,7 @@
         <div class="quantity">
           <div class="product-form__input product-form__quantity" {{ section.shopify_attributes }}>
             <label class="form__label" for="Quantity-{{ section.id }}">
-              {%- if product.tags contains 'by metre' -%}
+              {%- if product.type == 'Fabric' -%}
               Metres
               {%- else -%}
               {{ 'products.product.quantity.label' | t }}
