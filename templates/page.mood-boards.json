@@ -1,10 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
-    },
     "16421774751b08f65c": {
       "type": "image-banner",
       "blocks": {
@@ -49,6 +44,12 @@
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "dark_text"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
       }
     },
     "1642176545bbd4ef77": {
@@ -623,8 +624,8 @@
     }
   },
   "order": [
-    "main",
     "16421774751b08f65c",
+    "main",
     "1642176545bbd4ef77",
     "1642177729a7a781f1",
     "164217773633180f7b",
