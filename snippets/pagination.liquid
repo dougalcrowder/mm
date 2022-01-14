@@ -13,12 +13,12 @@
 
 <link rel="stylesheet" href="{{ 'pagination.css' | asset_url }}" media="print" onload="this.media='all'">
 <noscript>{{ 'pagination.css' | asset_url | stylesheet_tag }}</noscript>
-<div class="inner center">
+<div class="inner center the_load_more">
   <button class="button view-more-button">Load More</button>
 </div>
 
 {%- if paginate.parts.size > 0 -%}
-  <div class="pagination-wrapper">
+  <div class="pagination-wrapper"> 
     <nav class="pagination" role="navigation" aria-label="{{ 'general.pagination.label' | t }}">
       <ul class="flex" role="list">
       {%- if paginate.previous -%}
@@ -69,5 +69,12 @@
     });
 
     document.querySelector('.pagination-wrapper').classList.add('visually-hidden');
+    document.querySelector('.the_load_more').classList.add('wegood');
+    
+    if (document.URL.indexOf("&page=") > -1) {
+      document.querySelector('.the_load_more').classList.remove('wegood');
+      document.querySelector('.pagination-wrapper').classList.remove('visually-hidden');
+    }
+    
   </script>
 {%- endif -%}
