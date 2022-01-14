@@ -4,9 +4,117 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "1642175561b3f99df0": {
+      "type": "image-with-text",
+      "blocks": {
+        "1642175561bfe5b191-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MEET OUR ARTISANS - INDIA"
+          }
+        },
+        "1642175561bfe5b191-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Block printing is the most wonderful physical form of creativity as well as being a means to create important, beautiful and practical items for our homes.  I have been blown away by the talent I have encountered and will strive to do my best to keep the craft alive and viable.<\/p><p>We are conscious of the environmental impact and only use water based products, where possible we use natural pigment.  We source organic cottons and use other plant based fibres including linens and viscose.  We pay above the average price as we feel we are paying a fair and reflective price.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1642175561bfe5b191-0",
+        "1642175561bfe5b191-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/india-artisans.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "16421759425e9795e1": {
+      "type": "image-with-text",
+      "blocks": {
+        "16421759421eafda87-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MEET OUR ARTISANS - UK"
+          }
+        },
+        "16421759421eafda87-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are proud to work with a growing number of British boutique producers, with whom none of this would be possible.  Many of our items from our soaps, lampshades, washbags, stationery through to our cushions and picture frames are made locally and we are very selective about who we work with.  The common thread running throughout is quality, passion and craftsmanship. <\/p>"
+          }
+        },
+        "16421759421eafda87-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16421759421eafda87-0",
+        "16421759421eafda87-1",
+        "16421759421eafda87-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/uk-artisans.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "1642176077aae81288": {
+      "type": "image-with-text",
+      "blocks": {
+        "164217607785e8f883-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sustainability"
+          }
+        },
+        "164217607785e8f883-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rollo and I have three children and are conscious of the mark we might make on the planet while we are here and of the path we set for our children.  While we wish to show them the beauty of the planet we consciously respect how we tread; in both our work and our personal decisions.<\/p><p>We put time and thought in to each product we make, questioning its ethical\/moral and sustainable credentials and are careful to be respectful of the planet.<\/p><p>I currently fly to India twice a year, in order to work alongside skilled artisans, therefore we are members of the Carbon Foot Print and use their carbon off set calculator and donate yearly to their designated charities.<\/p>"
+          }
+        },
+        "164217607785e8f883-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164217607785e8f883-0",
+        "164217607785e8f883-1",
+        "164217607785e8f883-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/colours.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1642175561b3f99df0",
+    "16421759425e9795e1",
+    "1642176077aae81288"
   ]
 }
