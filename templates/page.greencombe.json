@@ -43,6 +43,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/GCSEEI-2_7c18d026-435e-4bbf-993d-5c9481085e3a.jpg",
         "make_logo_white": true,
+        "top_margin": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -134,6 +135,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/DIANTHUSFOURPOSTER_3500x_f5491aa4-9a90-4f21-8f81-df98aad59971.jpg",
         "make_logo_white": false,
+        "top_margin": true,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -221,6 +223,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/PRIMROSE_DOUBLE_BEDROOM-1_3500x_133c37d9-81b8-4bf5-ad21-b4d5b7a2ee3e.jpg",
         "make_logo_white": false,
+        "top_margin": true,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -437,6 +440,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/STRAWBERRY_MAINCURTAIN_3500x_2ed47fdc-376f-4325-a358-ea150b0c31a4.jpg",
         "make_logo_white": false,
+        "top_margin": true,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -606,6 +610,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/POPPY_CURTAIN_SITTINGROOM_3500x_81426930-76e0-499b-96be-3c7785969692.jpg",
         "make_logo_white": false,
+        "top_margin": true,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
