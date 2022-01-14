@@ -9,6 +9,12 @@
     "colors_background_2": "#F3F3F3",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
+    "checkout_logo_image": "shopify:\/\/shop_images\/checkout_logo.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_sidebar_background_color": "#ffc7ca",
+    "checkout_accent_color": "#ca1e2a",
+    "checkout_button_color": "#ca1e2a",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
