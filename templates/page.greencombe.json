@@ -179,6 +179,54 @@
         "text_align": "center",
         "layout": "image_first"
       }
+    },
+    "1642200048cc9bdbd0": {
+      "type": "image-banner",
+      "blocks": {
+        "1642200048d4224249-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1642200048d4224249-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "1642200048d4224249-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1642200048d4224249-0",
+        "1642200048d4224249-1",
+        "1642200048d4224249-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PRIMROSE_DOUBLE_BEDROOM-1_3500x_133c37d9-81b8-4bf5-ad21-b4d5b7a2ee3e.jpg",
+        "make_logo_white": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
     }
   },
   "order": [
@@ -186,6 +234,7 @@
     "16421993483b631460",
     "1642199705a651e06d",
     "164219987138634dcd",
-    "1642199952e1e0a22d"
+    "1642199952e1e0a22d",
+    "1642200048cc9bdbd0"
   ]
 }
