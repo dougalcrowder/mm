@@ -309,6 +309,348 @@
         "text_align": "center",
         "layout": "text_first"
       }
+    },
+    "1642200330e9fc6655": {
+      "type": "multicolumn",
+      "blocks": {
+        "16422003301606d0eb-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/GCTULII-2_1600x_c41fbb0d-9e43-4b72-aeba-e6bf45a8cce7.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16422003301606d0eb-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/GCBERGS-2_1600x_3cfb1186-a379-4049-9033-d26cbf8c6c21.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16422003301606d0eb-0",
+        "16422003301606d0eb-1"
+      ],
+      "settings": {
+      }
+    },
+    "1642200428ac6075d8": {
+      "type": "multicolumn",
+      "blocks": {
+        "16422004280af4e324-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/BAGSTANDS_ARMCHAIR_1600x_019c2412-72c5-4510-b5f3-fcab40659e43.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16422004280af4e324-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/STRAWBERRY_CURTAIN_1600x_a144b500-79c3-4668-b192-c2128c4a83b0.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16422004280af4e324-0",
+        "16422004280af4e324-1"
+      ],
+      "settings": {
+      }
+    },
+    "1642200518a7fda8c2": {
+      "type": "image-banner",
+      "blocks": {
+        "1642200518d925fc5a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1642200518d925fc5a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "1642200518d925fc5a-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1642200518d925fc5a-0",
+        "1642200518d925fc5a-1",
+        "1642200518d925fc5a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/STRAWBERRY_MAINCURTAIN_3500x_2ed47fdc-376f-4325-a358-ea150b0c31a4.jpg",
+        "make_logo_white": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1642200577873a02a6": {
+      "type": "image-with-text",
+      "blocks": {
+        "1642200577a5e23011-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1642200577a5e23011-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bringing to life the wonder of Primrose, Wild Carrot and Dianthus flowers and importantly highlighting the beauty of nature and the mighty great outdoors and recognising that it is a wonder to behold and to protect.<\/p><p><\/p><p>I have so much reverence for the power and beauty of nature and am thrilled to celebrate it in this new collection.<\/p>"
+          }
+        },
+        "1642200577a5e23011-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642200577a5e23011-0",
+        "1642200577a5e23011-1",
+        "1642200577a5e23011-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PRIMROSE_COLLECTION_SHOT_1600x_d4fd4df4-0419-4163-8de1-a0417d567a74.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "1642200654ed358408": {
+      "type": "multicolumn",
+      "blocks": {
+        "1642200654a6815255-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/ATTICROOM_TULIP_1600x_bcf78a35-8c88-44fa-a340-5fbcba1fb28c.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1642200654a6815255-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/GREENCOMBE_CUSHIONS_1600x_426adbda-c41e-4d1a-a5a4-a7844c49fd78.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642200654a6815255-0",
+        "1642200654a6815255-1"
+      ],
+      "settings": {
+      }
+    },
+    "164220072331e62d9d": {
+      "type": "image-with-text",
+      "blocks": {
+        "16422007231297c1ec-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16422007231297c1ec-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I have chosen a palette to incorporate some of the joyful colours that I so adore to work with along with some of the more earthy tones found in the India desert and English countryside. I believe this allows a range of options for those looking for something sophisticated with a touch of joyful charm.<\/p>"
+          }
+        },
+        "16422007231297c1ec-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16422007231297c1ec-0",
+        "16422007231297c1ec-1",
+        "16422007231297c1ec-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ELLIES_BEDSKIRT_1600x_2df4e026-2388-46f7-80b0-4e5158f44580.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "164220080956567f6c": {
+      "type": "image-banner",
+      "blocks": {
+        "1642200809c9ba0448-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1642200809c9ba0448-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "1642200809c9ba0448-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1642200809c9ba0448-0",
+        "1642200809c9ba0448-1",
+        "1642200809c9ba0448-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/POPPY_CURTAIN_SITTINGROOM_3500x_81426930-76e0-499b-96be-3c7785969692.jpg",
+        "make_logo_white": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "16422008725e9ed78b": {
+      "type": "image-with-text",
+      "blocks": {
+        "16422008727ca7d834-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16422008727ca7d834-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>"
+          }
+        },
+        "16422008727ca7d834-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16422008727ca7d834-0",
+        "16422008727ca7d834-1",
+        "16422008727ca7d834-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -319,6 +661,14 @@
     "1642199952e1e0a22d",
     "1642200048cc9bdbd0",
     "16422001205209dc50",
-    "16422002304018d9ba"
+    "16422002304018d9ba",
+    "1642200330e9fc6655",
+    "1642200428ac6075d8",
+    "1642200518a7fda8c2",
+    "1642200577873a02a6",
+    "1642200654ed358408",
+    "164220072331e62d9d",
+    "164220080956567f6c",
+    "16422008725e9ed78b"
   ]
 }
