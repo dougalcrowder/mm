@@ -227,6 +227,88 @@
         "show_text_box": false,
         "color_scheme": "white_text"
       }
+    },
+    "16422001205209dc50": {
+      "type": "multicolumn",
+      "blocks": {
+        "16422001204a1c609c-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/STRAWBERRY_KITCHEN_CURTAINS_1600x_ef0466b7-bf6e-4ecb-a9aa-49300215800d.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "16422001204a1c609c-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/GARDEN_PATH_ARMCHAIR_1600x_9ae8f5a2-4ece-416d-9334-b3b84c8c5b14.jpg",
+            "title": "",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16422001204a1c609c-0",
+        "16422001204a1c609c-1"
+      ],
+      "settings": {
+      }
+    },
+    "16422002304018d9ba": {
+      "type": "image-with-text",
+      "blocks": {
+        "164220023081d30d46-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "164220023081d30d46-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Culminating nostalgic depicitions of Strawberries and Tulips, reworkings of the majestic Mughal flower design, playing with visions of stripes left behind a plough, and a little seeds denoting hope and new beginnings.<\/p>"
+          }
+        },
+        "164220023081d30d46-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164220023081d30d46-0",
+        "164220023081d30d46-1",
+        "164220023081d30d46-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GARDEN_PATH_BLUE_CUSHION_WINDOWSEAT_1600x_fdbfe941-3b91-4e08-8059-834dc7f97269.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -235,6 +317,8 @@
     "1642199705a651e06d",
     "164219987138634dcd",
     "1642199952e1e0a22d",
-    "1642200048cc9bdbd0"
+    "1642200048cc9bdbd0",
+    "16422001205209dc50",
+    "16422002304018d9ba"
   ]
 }
