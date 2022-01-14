@@ -399,17 +399,18 @@
         "16421781637b8482cb-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Orlando's Bedroom"
           }
         },
         "16421781637b8482cb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Paint:- Emperor's Silk Annie Sloan<\/p><p>Wallpaper:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/wsqcol11\" title=\"Spot & Star - Pink\">Spot & Star Pink<\/a><\/p><p>Fabric:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/ftucot02\" target=\"_blank\" title=\"Tuk-Tuk - Cotton - Blue\">Tuk Tuk Cotton Blue<\/a><\/p>"
           }
         },
         "16421781637b8482cb-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -422,7 +423,198 @@
         "16421781637b8482cb-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/orlandos.jpg",
         "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "1642178190fbb60f2e": {
+      "type": "image-with-text",
+      "blocks": {
+        "1642178190c868c108-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "marigold yellow"
+          }
+        },
+        "1642178190c868c108-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Paint:- Mister David LG<\/p><p>Fabric- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fpaoys17\" target=\"_blank\" title=\"Pattee - Oyster - Khaki\">Pattee Oyster Khaki<\/a><\/p><p>Cushion:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/hcubin03\" target=\"_blank\" title=\"Cushion - Bindi - Blue\">Bindi Natural Cushion<\/a><\/p>"
+          }
+        },
+        "1642178190c868c108-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642178190c868c108-0",
+        "1642178190c868c108-1",
+        "1642178190c868c108-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/marigold_yellow.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "164217819791eca04f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1642178197d91162b3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Deerhyrst Sitting Room"
+          }
+        },
+        "1642178197d91162b3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Paint:- Parsonage Pink Papers and Paints<\/p><p>Fabric:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fluoys15\" target=\"_blank\" title=\"Luna - Oyster - Blue\/Pink\">Luna oyster Blue Pink<\/a><\/p><p>Cushion:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/hcubag16\" target=\"_blank\" title=\"Cushion - Bagru - Pink\">Bagru Cotton Pink<\/a><\/p>"
+          }
+        },
+        "1642178197d91162b3-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642178197d91162b3-0",
+        "1642178197d91162b3-1",
+        "1642178197d91162b3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/deerhyrst_sitting.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "16421782101b7d9ba1": {
+      "type": "image-with-text",
+      "blocks": {
+        "16421782093f40223e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Coral green"
+          }
+        },
+        "16421782093f40223e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Paint:- Wonderful World Paint The Town Green<\/p><p>Fabric:-<a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fbicot08\" target=\"_blank\" title=\"Bindi - Cotton - Pale Blue\"> Bindi Cotton Pale Blue<\/a><\/p><p>Lampshade:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/lbbple03\" target=\"_blank\" title=\"Lampshade - Pleated - Bagru - Dark Blue\">Bagru Cotton Dark Blue<\/a><\/p>"
+          }
+        },
+        "16421782093f40223e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16421782093f40223e-0",
+        "16421782093f40223e-1",
+        "16421782093f40223e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/coral_green.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "164217822868b65f4f": {
+      "type": "image-with-text",
+      "blocks": {
+        "16421782280e86121f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Oak Oyster Blue"
+          }
+        },
+        "16421782280e86121f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Paints:- Sap Green F&B, Paprika Bauwerk<\/p><p>Fabric:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fbicot01\" target=\"_blank\" title=\"Bindi - Cotton - Aubergine\">Bindi Cotton Aubergine<\/a><\/p>"
+          }
+        },
+        "16421782280e86121f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16421782280e86121f-0",
+        "16421782280e86121f-1",
+        "16421782280e86121f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/oak_oyster_blue.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "16421782343e4d4e6f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1642178234a852a4c6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mawari Horse Gold"
+          }
+        },
+        "1642178234a852a4c6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Paint:- Scotch Blue F&B<\/p><p>Fabric:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fpaoys22\" target=\"_blank\" title=\"Pattee - Oyster - Turmeric\">Pattee Oyster Turmaric<\/a><\/p><p>Cushion:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/hcutuk10\" target=\"_blank\" title=\"Cushion - Tuk Tuk - Piped - Yellow\">Tuk Tuk Cotton Yellow<\/a><\/p>"
+          }
+        },
+        "1642178234a852a4c6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642178234a852a4c6-0",
+        "1642178234a852a4c6-1",
+        "1642178234a852a4c6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mawari_horse_gold.jpg",
+        "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -442,6 +634,11 @@
     "16421779779cba52e7",
     "16421779852c59bbf1",
     "16421779917d9de705",
-    "16421781631b141691"
+    "16421781631b141691",
+    "1642178190fbb60f2e",
+    "164217819791eca04f",
+    "16421782101b7d9ba1",
+    "164217822868b65f4f",
+    "16421782343e4d4e6f"
   ]
 }
