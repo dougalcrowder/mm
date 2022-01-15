@@ -23,10 +23,13 @@
   
 {%- if collection.image -%}
   <div class="ratio_banner letterbox">
-  
+    {% assign meta-mob_image = collection.metafields.my_fields.collection_mobile_image  %}
     {%- assign landscape_image = collection.image -%}
+    {%- if meta-mob_image -%}
+    {%- assign square_image = collection.metafields.my_fields.collection_mobile_image -%}
+    {%- else -%}
     {%- assign square_image = collection.image -%}
-  
+    {%- endif -%}
     {% include 'image-hero-letterbox' %}
   
   

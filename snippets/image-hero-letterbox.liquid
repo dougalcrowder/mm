@@ -1,10 +1,8 @@
 <picture class="letterbox">
-  {%- comment -%}
+
   <source srcset="{{ landscape_image | img_url: '2560x1067', crop: 'center', format: 'pjpg' }}" media="(min-width: 2048px)" />
-  
   <source srcset="{{ landscape_image | img_url: '2048x853', crop: 'center', format: 'pjpg' }}" media="(min-width: 1680px)" />
   <source srcset="{{ landscape_image | img_url: '1680x700', crop: 'center', format: 'pjpg' }}" media="(min-width: 1440px)" />
-  {%- endcomment -%}
   
   <source srcset="{{ landscape_image | img_url: '1440x600', crop: 'center', format: 'pjpg' }}" media="(min-width: 1200px)" />
   <source srcset="{{ landscape_image | img_url: '1200x500', crop: 'center', format: 'pjpg' }}" media="(min-width: 1024px)" />
