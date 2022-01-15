@@ -26,7 +26,7 @@ if (!customElements.get('product-form')) {
         }
       });
       
-      if(freeSamples > 10 ) {
+      if(freeSamples > 9 ) {
         console.log("No more freebies for you");
         document.body.classList.add("paid");
         document.body.classList.remove("free");
