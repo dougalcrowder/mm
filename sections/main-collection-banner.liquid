@@ -6,6 +6,8 @@
   document.body.classList.add("white_logo");
 </script>
 {%- endif -%}
+
+{%- assign image_alt = collection.title | append: ' Collection banner' -%}
 {%- endif -%}
 
 <div class="banner_head flex{% if collection.image %} with_image{% else %} no_image{% endif %}">
@@ -25,13 +27,14 @@
   <div class="ratio_banner letterbox">
     {% assign meta-mob_image = collection.metafields.my_fields.collection_mobile_image  %}
     {%- assign landscape_image = collection.image -%}
+    
     {%- if meta-mob_image -%}
     {%- assign square_image = collection.metafields.my_fields.collection_mobile_image -%}
     {%- else -%}
     {%- assign square_image = collection.image -%}
     {%- endif -%}
+    
     {% include 'image-hero-letterbox' %}
-  
   
     <div class="cta flex">
       <div class="text_box">
