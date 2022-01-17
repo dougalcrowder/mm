@@ -2280,6 +2280,10 @@ button.navcloser.nude {
   aspect-ratio: 1/1;
 }
 
+.ratio_banner.letterbox picture {
+  top: 0;
+}
+
 @media screen and (min-width: 880px) {
   .ratio_banner.letterbox {
     aspect-ratio: 12/5;
@@ -2288,11 +2292,12 @@ button.navcloser.nude {
   }
 
   .ratio_banner.letterbox picture {
-    position: absolute;
     left: 0;
     right: 0;
     bottom: 0;
     top: 0;
+    inset: 0 0 0 0;
+    position: absolute;
   }
 }
 
@@ -2387,5 +2392,11 @@ button.navcloser.nude {
 
 .ratio_banner .text + .buttons {
   margin-top: 32px;
+}
+
+@media screen and (min-width: 880px) {
+  .collection_header .ratio_banner picture.letterbox {
+    top: 0;
+  }
 }
 
