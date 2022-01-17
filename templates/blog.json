@@ -40,6 +40,7 @@
         "image": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_MM_Community.jpg",
         "mobile_image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_MM_Community.jpg",
         "make_logo_white": false,
+        "top_margin": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -52,7 +53,7 @@
       "type": "main-blog",
       "settings": {
         "show_image": true,
-        "blog_header": "MM World",
+        "blog_header": "Our Journal",
         "blog_intro": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p><\/p><p>Join us and we will do our best to inspire you to the joys of stamping your mark making home<\/p>",
         "show_date": false,
         "show_author": false

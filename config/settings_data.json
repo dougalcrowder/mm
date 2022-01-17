@@ -96,6 +96,26 @@
               "link": "shopify:\/\/blogs\/journal\/hawthbush-shepherds-hut",
               "menu_item_handle": "wallpaper"
             }
+          },
+          "db7c3e68-5fff-4277-b889-ce495a49f372": {
+            "type": "menu_images",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/PORTRIATMolly_Mahon-37_e89254f8-22ad-4653-987f-cf9263651682.jpg",
+              "title": "So much goes in to everything we make",
+              "subtitle": "Molly Mahon",
+              "link": "shopify:\/\/pages\/molly-mahon",
+              "menu_item_handle": "mm-world"
+            }
+          },
+          "c4876d6d-0628-40a2-b7a4-27dcb4ec08ea": {
+            "type": "menu_images",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/india-artisans.jpg",
+              "title": "Handmade by Artisans",
+              "subtitle": "The Printing Process",
+              "link": "shopify:\/\/pages\/the-printing-process",
+              "menu_item_handle": "mm-world"
+            }
           }
         },
         "block_order": [
@@ -104,7 +124,9 @@
           "a911026b-a355-4e85-b902-387149596068",
           "f1478d1d-b69c-4ba9-a5cd-93a80571237b",
           "1ee234ed-38fb-45e6-8597-4a12d43fa05e",
-          "780eb8bb-eb65-495d-8f78-646eb73979b4"
+          "780eb8bb-eb65-495d-8f78-646eb73979b4",
+          "db7c3e68-5fff-4277-b889-ce495a49f372",
+          "c4876d6d-0628-40a2-b7a4-27dcb4ec08ea"
         ],
         "settings": {
           "menu": "main-menu-1",
