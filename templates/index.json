@@ -159,7 +159,7 @@
         "1634819659f7be73c6-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_winter_sale_WEB_ad026cf8-06d5-4455-a9d7-6bcc357b5202.jpg",
+        "image": "shopify:\/\/shop_images\/MM_winter_sale_artwork_march_02_1.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
@@ -302,6 +302,7 @@
         "image": "shopify:\/\/shop_images\/SUPPLYSTORE_4d53a32e-3967-4b3f-8b97-8d408aca8ee7.jpg",
         "mobile_image": "shopify:\/\/shop_images\/SUPPLYSTORE_4d53a32e-3967-4b3f-8b97-8d408aca8ee7.jpg",
         "make_logo_white": true,
+        "top_margin": false,
         "desktop_text_box_position": "center",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
