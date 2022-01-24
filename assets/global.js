@@ -545,34 +545,39 @@ class VariantSelects extends HTMLElement {
   }
 
   updateMedia() {
-    if (!this.currentVariant) return;
-    if (!this.currentVariant.featured_media) return;
-    const newMedia = document.querySelector(
-      `[data-media-id="${this.dataset.section}-${this.currentVariant.featured_media.id}"]`
-    );
-
-    if (!newMedia) return;
-    const modalContent = document.querySelector(`#ProductModal-${this.dataset.section} .product-media-modal__content`);
-    const newMediaModal = modalContent.querySelector( `[data-media-id="${this.currentVariant.featured_media.id}"]`);
-    const parent = newMedia.parentElement;
-    if (parent.firstChild == newMedia) return;
-    modalContent.prepend(newMediaModal);
-    parent.prepend(newMedia);
-    this.stickyHeader = this.stickyHeader || document.querySelector('sticky-header');
-    if(this.stickyHeader) {
-      this.stickyHeader.dispatchEvent(new Event('preventHeaderReveal'));
+    // if (!this.currentVariant) return;
+    
+    let theVar = this.currentVariant;
+    if (theVar) {
+      if (!theVar.featured_image) return;
+      var image = theVar.featured_image.src;
+       variantImages(image);
+       // console.log(theVar.featured_image.src);
     }
-    window.setTimeout(() => { parent.querySelector('li.product__media-item').scrollIntoView({behavior: "smooth"}); });
+    
+    
+//     if (!this.currentVariant.featured_media) return;
+//     const newMedia = document.querySelector(
+//       `[data-media-id="${this.dataset.section}-${this.currentVariant.featured_media.id}"]`
+//     );
+// 
+//     if (!newMedia) return;
+//     const modalContent = document.querySelector(`#ProductModal-${this.dataset.section} .product-media-modal__content`);
+//     const newMediaModal = modalContent.querySelector( `[data-media-id="${this.currentVariant.featured_media.id}"]`);
+//     const parent = newMedia.parentElement;
+//     if (parent.firstChild == newMedia) return;
+//     modalContent.prepend(newMediaModal);
+//     parent.prepend(newMedia);
+//     this.stickyHeader = this.stickyHeader || document.querySelector('sticky-header');
+//     if(this.stickyHeader) {
+//       this.stickyHeader.dispatchEvent(new Event('preventHeaderReveal'));
+//     }
+//     window.setTimeout(() => { parent.querySelector('li.product__media-item').scrollIntoView({behavior: "smooth"}); });
   }
 
   updateURL() {
     if (!this.currentVariant || this.dataset.updateUrl === 'false') return;
     window.history.replaceState({ }, '', `${this.dataset.url}?variant=${this.currentVariant.id}`);
-    
-    let theVar = this.currentVariant;
-    console.log(theVar.featured_image.src);
-    var image = theVar.featured_image.src;
-    variantImages(image);
   }
 
   updateVariantInput() {
@@ -654,7 +659,7 @@ class VariantSelects extends HTMLElement {
   }
 
   getVariantData() {
-    console.log("variant_stuff Data");
+    // console.log("variant_stuff Data");
     this.variantData = this.variantData || JSON.parse(this.querySelector('[type="application/json"]').textContent);
     return this.variantData;
     console.log(this.variantData);
