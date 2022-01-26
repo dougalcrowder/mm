@@ -43,8 +43,8 @@
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>WEDNESDAY 26th JANUARY  Molly Mahon's Mega Sale - more info below<\/p>",
-        "link": "shopify:\/\/pages\/workshops-and-events",
+        "title": "<p>Who wouldn't?  Brand new Wallpaper<\/p>",
+        "link": "shopify:\/\/collections\/wallpaper",
         "bg_pattern": "pattern_01",
         "color_scheme": "blue_text"
       }
@@ -61,14 +61,14 @@
         "16348194457d3235ff-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We are passionate about the art of block printing and we will opt for this production method wherever we can.  A piece of block printed cloth is a beautiful thing, it holds the story of all the skilled hands that it has passed through.  Block printing is an ancient craft that has connected people over thousands of years; it is my honour to be part of that continuing journey today and we hope that you love the finished pieces as much as we have enjoyed creating them.<\/p>"
+            "text": "<p>Following on from the success of Molly’s hand blocked ‘Strawberry’ and ‘Bindi’ fabric designs, Molly has chosen an original printing method developed in the 1830’s to transfer the magic of this ancient craft onto wallpaper.<\/p>"
           }
         },
         "16348194457d3235ff-2": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Molly Mahon Fabrics",
-            "button_link": "shopify:\/\/collections\/fabric"
+            "button_label": "The printing process",
+            "button_link": "shopify:\/\/blogs\/journal\/india-in-all-its-vibrant-colours"
           }
         }
       },
@@ -78,8 +78,8 @@
         "16348194457d3235ff-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_PORTRAIT_STUDIO_cd24aa1d-3897-44f3-8f9b-9d18c5f149cc.jpg",
-        "title": "\"I am not alone in my desire to bring joy, craft and colour into our homes.\"",
+        "image": "shopify:\/\/shop_images\/Strawberryprinting.jpg",
+        "title": "\"The raised surface really brings the pattern alive.\"",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
         "text_align": "center",
@@ -93,16 +93,16 @@
           "type": "column",
           "settings": {
             "width": "two_thirds",
-            "image": "shopify:\/\/shop_images\/CORALBLUE_DEERHYRST.jpg",
-            "title": "Wallpapers",
+            "image": "shopify:\/\/shop_images\/STRAWBERRY_KITCHEN_CURTAINS_1600x_ef0466b7-bf6e-4ecb-a9aa-49300215800d.jpg",
+            "title": "Fabric",
             "subtitle": "",
             "text": "",
             "button_color": "red",
             "color_scheme": "red_text",
             "desktop_text_box_position": "end",
             "text_align": "left",
-            "button_label": "Shop All Wallpaper",
-            "button_link": "shopify:\/\/collections\/wallpaper"
+            "button_label": "Shop All Fabric",
+            "button_link": "shopify:\/\/collections\/fabric"
           }
         },
         "163481963822b4d1b3-1": {
