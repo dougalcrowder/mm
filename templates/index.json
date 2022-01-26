@@ -6,13 +6,13 @@
         "16352843092374a33e-0": {
           "type": "Tooltip",
           "settings": {
-            "title": "Frill Seed Cushion",
+            "title": "Molly Mahon Cushions",
             "content": "<p><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop Cushions<\/a><\/p>",
             "prod": "",
-            "top": 72,
-            "left": 19,
-            "top_mob": 77,
-            "left_mob": 3
+            "top": 66,
+            "left": 28,
+            "top_mob": 68,
+            "left_mob": 19
           }
         },
         "148881e0-9bcf-4a7c-b669-ce41df894331": {
@@ -33,10 +33,10 @@
         "148881e0-9bcf-4a7c-b669-ce41df894331"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DIANTHUS_FOURPOSTER_b8ce85ed-035a-4a44-9894-da70d5d7ab43.jpg",
-        "square_image": "shopify:\/\/shop_images\/DIANTHUS_FOURPOSTER_b8ce85ed-035a-4a44-9894-da70d5d7ab43.jpg",
+        "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY_FEB22.jpg",
+        "square_image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY_FEB22.jpg",
         "make_logo_white": false,
-        "title": "Molly Mahon New Years",
+        "title": "Molly Mahon new wallpaper design in Strawberry",
         "header_tag": "h2"
       }
     },
@@ -302,6 +302,7 @@
         "image": "shopify:\/\/shop_images\/SUPPLYSTORE_4d53a32e-3967-4b3f-8b97-8d408aca8ee7.jpg",
         "mobile_image": "shopify:\/\/shop_images\/SUPPLYSTORE_4d53a32e-3967-4b3f-8b97-8d408aca8ee7.jpg",
         "make_logo_white": true,
+        "top_margin": false,
         "desktop_text_box_position": "center",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
