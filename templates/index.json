@@ -168,6 +168,44 @@
         "layout": "image_first"
       }
     },
+    "164328187927c27724": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "16432818791148545a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Coming Soon - New Textual Wallpaper"
+          }
+        },
+        "16432818791148545a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Following on from the success of Molly’s hand blocked ‘Strawberry’ and ‘Bindi’ fabric designs, she has chosen an original printing method developed in the 1830’s to transfer the magic of this ancient craft onto new wallpaper, launching Tuesday 1st February.  To register your interest..<\/p>"
+          }
+        },
+        "16432818791148545a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click here",
+            "button_link": "mailto:hello@mollymahon.com"
+          }
+        }
+      },
+      "block_order": [
+        "16432818791148545a-0",
+        "16432818791148545a-1",
+        "16432818791148545a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/H_IT_STRAWBERRY_TIMES_LAUNCH_96322237-fdc3-4603-bfc5-bdbe2b8bbeee.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
     "1634821627eaee293f": {
       "type": "text-and-icon-columns",
       "blocks": {
@@ -491,6 +529,7 @@
     "16348194457d3235ff",
     "163481963822b4d1b3",
     "1634819659f7be73c6",
+    "164328187927c27724",
     "1634821627eaee293f",
     "164129687781f3cb6c",
     "16348167313be3ffb8",
