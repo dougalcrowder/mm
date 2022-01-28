@@ -131,6 +131,7 @@
     },
     "1634819659f7be73c6": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1634819659f7be73c6-0": {
           "type": "heading",
@@ -170,7 +171,6 @@
     },
     "164328187927c27724": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "16432818791148545a-0": {
           "type": "heading",
