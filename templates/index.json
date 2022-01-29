@@ -43,8 +43,8 @@
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>Coming Soon - New Textural Wallpaper<\/p>",
-        "link": "shopify:\/\/pages\/workshops-and-events",
+        "title": "",
+        "link": "",
         "bg_pattern": "pattern_01",
         "color_scheme": "blue_text"
       }
