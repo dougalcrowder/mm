@@ -68,7 +68,7 @@
           "type": "button",
           "settings": {
             "button_label": "The printing process",
-            "button_link": "shopify:\/\/blogs\/journal\/india-in-all-its-vibrant-colours"
+            "button_link": ""
           }
         }
       },
@@ -78,7 +78,7 @@
         "16348194457d3235ff-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/SEC_WALLPAPR_PRINTING.jpg",
+        "image": "shopify:\/\/shop_images\/SEC_WALLPAPER_PRINTING3.jpg",
         "title": "\"The raised surface really brings the pattern alive.\"",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
