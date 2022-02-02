@@ -60,6 +60,7 @@
           },
           "a911026b-a355-4e85-b902-387149596068": {
             "type": "menu_images",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/SSCUTTOOL_1200x_5dffddee-f420-49a4-9dfb-46c8831113c3.jpg",
               "title": "Tools",
@@ -72,7 +73,7 @@
             "type": "menu_images",
             "settings": {
               "image": "shopify:\/\/shop_images\/BOOKKITCHENTABLE1_1200x_725fe800-2bb7-4aee-afbf-666e9b7cfa43.jpg",
-              "title": "Book - House of Print",
+              "title": "Molly's Book - House of Print",
               "subtitle": "Pretty in Print!",
               "link": "shopify:\/\/products\/pbohou00",
               "menu_item_handle": "printing-stationery"
