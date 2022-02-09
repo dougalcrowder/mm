@@ -51,8 +51,46 @@
         "color_scheme": "blue_text"
       }
     },
+    "16444081478c63d66f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1644408147b3e95bc5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rooms We Love"
+          }
+        },
+        "1644408147b3e95bc5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is just delicious!  Sent in from a customer bringing Molly's Trellis design to life and complimented with our Buti Blue cushion.<\/p>"
+          }
+        },
+        "1644408147b3e95bc5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Inspiration - Lookbook",
+            "button_link": "shopify:\/\/pages\/greencombe"
+          }
+        }
+      },
+      "block_order": [
+        "1644408147b3e95bc5-0",
+        "1644408147b3e95bc5-1",
+        "1644408147b3e95bc5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/INSTA_TRELLIS_SINGLEBED.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
     "16348194457d3235ff": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16348194457d3235ff-0": {
           "type": "heading",
@@ -148,10 +186,9 @@
         },
         "1634819659f7be73c6-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "Shop Cushions",
-            "button_link": "shopify:\/\/collections\/cushions"
+            "button_label": "Shop Table Linen",
+            "button_link": "shopify:\/\/collections\/tableware"
           }
         }
       },
@@ -489,6 +526,7 @@
   "order": [
     "16352843092374a33e",
     "16348194267fffd3c9",
+    "16444081478c63d66f",
     "16348194457d3235ff",
     "163481963822b4d1b3",
     "1634819659f7be73c6",
