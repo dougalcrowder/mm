@@ -5,18 +5,20 @@
       "blocks": {
         "16352843092374a33e-0": {
           "type": "Tooltip",
+          "disabled": true,
           "settings": {
-            "title": "Frill Seed Cushion",
+            "title": "Molly Mahon Cushions",
             "content": "<p><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop Cushions<\/a><\/p>",
             "prod": "",
-            "top": 72,
-            "left": 19,
-            "top_mob": 77,
-            "left_mob": 3
+            "top": 66,
+            "left": 28,
+            "top_mob": 68,
+            "left_mob": 19
           }
         },
         "148881e0-9bcf-4a7c-b669-ce41df894331": {
           "type": "Tooltip",
+          "disabled": true,
           "settings": {
             "title": "Dianthus Indigo Iron",
             "content": "<p><a href=\"\/products\/fdscot51\" title=\"Dianthus - Cotton - Indigo & Iron\">Shop Fabric<\/a><\/p>",
@@ -33,24 +35,62 @@
         "148881e0-9bcf-4a7c-b669-ce41df894331"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DIANTHUS_FOURPOSTER_b8ce85ed-035a-4a44-9894-da70d5d7ab43.jpg",
-        "square_image": "shopify:\/\/shop_images\/DIANTHUS_FOURPOSTER_b8ce85ed-035a-4a44-9894-da70d5d7ab43.jpg",
+        "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22.jpg",
+        "square_image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22.jpg",
         "make_logo_white": false,
-        "title": "Molly Mahon New Years",
+        "title": "Molly Mahon new wallpaper design in Strawberry",
         "header_tag": "h2"
       }
     },
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "",
-        "link": "",
+        "title": "<p>New Textural Wallpapers<\/p>",
+        "link": "shopify:\/\/collections\/wallpaper",
         "bg_pattern": "pattern_01",
         "color_scheme": "blue_text"
       }
     },
+    "16444081478c63d66f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1644408147b3e95bc5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rooms We Love"
+          }
+        },
+        "1644408147b3e95bc5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is just delicious!  Sent in from a customer bringing Molly's Trellis design to life and complimented with our Buti Blue cushion.<\/p>"
+          }
+        },
+        "1644408147b3e95bc5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Inspiration - Lookbook",
+            "button_link": "shopify:\/\/pages\/greencombe"
+          }
+        }
+      },
+      "block_order": [
+        "1644408147b3e95bc5-0",
+        "1644408147b3e95bc5-1",
+        "1644408147b3e95bc5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/INSTA_TRELLIS_SINGLEBED.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
     "16348194457d3235ff": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16348194457d3235ff-0": {
           "type": "heading",
@@ -61,14 +101,14 @@
         "16348194457d3235ff-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We are passionate about the art of block printing and we will opt for this production method wherever we can.  A piece of block printed cloth is a beautiful thing, it holds the story of all the skilled hands that it has passed through.  Block printing is an ancient craft that has connected people over thousands of years; it is my honour to be part of that continuing journey today and we hope that you love the finished pieces as much as we have enjoyed creating them.<\/p>"
+            "text": "<p>Following on from the success of Molly’s hand blocked ‘Strawberry’ and ‘Bindi’ fabric designs, Molly has chosen an original printing method developed in the 1830’s to transfer the magic of this ancient craft onto wallpaper.<\/p>"
           }
         },
         "16348194457d3235ff-2": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Molly Mahon Fabrics",
-            "button_link": "shopify:\/\/collections\/fabric"
+            "button_label": "The printing process",
+            "button_link": "shopify:\/\/blogs\/journal\/the-new-textural-wallpaper"
           }
         }
       },
@@ -78,8 +118,8 @@
         "16348194457d3235ff-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_PORTRAIT_STUDIO_cd24aa1d-3897-44f3-8f9b-9d18c5f149cc.jpg",
-        "title": "\"I am not alone in my desire to bring joy, craft and colour into our homes.\"",
+        "image": "shopify:\/\/shop_images\/SEC_WALLPAPER_PRINTING3.jpg",
+        "title": "\"The raised surface really brings the pattern alive.\"",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
         "text_align": "center",
@@ -93,16 +133,16 @@
           "type": "column",
           "settings": {
             "width": "two_thirds",
-            "image": "shopify:\/\/shop_images\/CORALBLUE_DEERHYRST.jpg",
-            "title": "Wallpapers",
+            "image": "shopify:\/\/shop_images\/STRAWBERRY_KITCHEN_CURTAINS_1600x_ef0466b7-bf6e-4ecb-a9aa-49300215800d.jpg",
+            "title": "Fabric",
             "subtitle": "",
             "text": "",
             "button_color": "red",
             "color_scheme": "red_text",
             "desktop_text_box_position": "end",
             "text_align": "left",
-            "button_label": "Shop All Wallpaper",
-            "button_link": "shopify:\/\/collections\/wallpaper"
+            "button_label": "Shop All Fabric",
+            "button_link": "shopify:\/\/collections\/fabric"
           }
         },
         "163481963822b4d1b3-1": {
@@ -131,27 +171,24 @@
     },
     "1634819659f7be73c6": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1634819659f7be73c6-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Measuring tapes welcome!"
+            "heading": "Strawberry delicious!"
           }
         },
         "1634819659f7be73c6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>\"Due to the current surge in COVID cases, particularly locally, we have taken the decision to postpone our Mega Sale.  We really look forward to welcoming you to Trading Boundaries on Wednesday 9th March, when regulations are more relaxed and we can ensure a happier shopping environment for you all.\"<\/p>"
+            "text": "<p>We are celebrating our Strawberry range.  The delights of things to come.<\/p>"
           }
         },
         "1634819659f7be73c6-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "Shop Cushions",
-            "button_link": "shopify:\/\/collections\/cushions"
+            "button_label": "Shop Table Linen",
+            "button_link": "shopify:\/\/collections\/tableware"
           }
         }
       },
@@ -161,47 +198,10 @@
         "1634819659f7be73c6-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_winter_sale_artwork_march_02_1.jpg",
+        "image": "shopify:\/\/shop_images\/MMSS21TW-39.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
-        "text_align": "center",
-        "layout": "image_first"
-      }
-    },
-    "164328187927c27724": {
-      "type": "image-with-text",
-      "blocks": {
-        "16432818791148545a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Coming Soon - New Textural Wallpaper"
-          }
-        },
-        "16432818791148545a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Following on from the success of Molly’s hand blocked ‘Strawberry’ and ‘Bindi’ fabric designs, she has chosen an original printing method developed in the 1830’s to transfer the magic of this ancient craft onto new wallpaper, launching Tuesday 1st February.  To register your interest..<\/p>"
-          }
-        },
-        "16432818791148545a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Click here",
-            "button_link": "mailto:hello@mollymahon.com"
-          }
-        }
-      },
-      "block_order": [
-        "16432818791148545a-0",
-        "16432818791148545a-1",
-        "16432818791148545a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/H_IT_STRAWBERRY_TIMES_LAUNCH_96322237-fdc3-4603-bfc5-bdbe2b8bbeee.jpg",
-        "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
       }
@@ -526,10 +526,10 @@
   "order": [
     "16352843092374a33e",
     "16348194267fffd3c9",
+    "16444081478c63d66f",
     "16348194457d3235ff",
     "163481963822b4d1b3",
     "1634819659f7be73c6",
-    "164328187927c27724",
     "1634821627eaee293f",
     "164129687781f3cb6c",
     "16348167313be3ffb8",
