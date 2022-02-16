@@ -75,6 +75,7 @@
         },
         "16352620842faf27c4-0": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "A Spring Decorating Workshop at The Star, Alfriston",
             "event_intro": "Be inspired in a fun and learning environment for the art of block printing with Molly Mahon and an addition of flower arranging with Julia Marsden, during your stay at the Star, the newest hotel in the Polizzi Collection",
@@ -96,7 +97,7 @@
             "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
             "event_description": "<p>Thyme, a beautifully restored Manor House & Farm in the Cotswolds.  The workshop will include a welcome from Thyme followed by an introduction to block printing by Molly. Using Molly’s garden inspired hand carved wooden blocks, you will experiment with colour and pattern and finish by printing your own linen tea towel.<\/p>",
             "image": "shopify:\/\/shop_images\/Water_Meadow_041_-_Sussie_Bell_-_June_21_copy.jpg",
-            "event_date": "Tuesday, 8th March or 14th March, 2022  at 11:00 -13:00",
+            "event_date": "Tuesday, 8th March or 14th June, 2022  at 11:00 -13:00",
             "event_extras": "The price includes a welcome coffee and all materials.",
             "event_price": "£95 per person",
             "event_button_text": "Book your place",
@@ -112,7 +113,7 @@
             "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
             "event_description": "<p>Thyme, a beautifully restored Manor House & Farm in the Cotswolds. The workshop will include a welcome from Thyme followed by an introduction to block printing by Molly. Using Molly’s garden inspired hand carved wooden blocks, you will experiment with colour and pattern and finish by printing your own set of beautiful cards and envelopes.<\/p>",
             "image": "shopify:\/\/shop_images\/Water_Meadow_041_-_Sussie_Bell_-_June_21_copy.jpg",
-            "event_date": "Tuesday, 8th March or  14th March 2022 at  3pm-5pm",
+            "event_date": "Tuesday, 8th March or  14th June, 2022 at  3pm-5pm",
             "event_extras": "The price includes a welcome coffee and all materials.",
             "event_price": "£95 per person",
             "event_button_text": "Book your place",
