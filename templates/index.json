@@ -303,8 +303,56 @@
         "post_limit": 5
       }
     },
+    "16456340821faebe9a": {
+      "type": "image-banner",
+      "blocks": {
+        "164563408286d6d7aa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wonderful Workshops",
+            "heading_type": "header1"
+          }
+        },
+        "164563408286d6d7aa-1": {
+          "type": "text",
+          "settings": {
+            "text": "Held in Inspiring places",
+            "go_serif": false
+          }
+        },
+        "164563408286d6d7aa-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Chose your Workshop",
+            "button_link_1": "shopify:\/\/pages\/about-events",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164563408286d6d7aa-0",
+        "164563408286d6d7aa-1",
+        "164563408286d6d7aa-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Water_Meadow_041_-_Sussie_Bell_-_June_21.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Water_Meadow_041_-_Sussie_Bell_-_June_21.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
     "1634816369f8368cfa": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1634816369f8368cfa-0": {
           "type": "heading",
@@ -533,6 +581,7 @@
     "1634821627eaee293f",
     "164129687781f3cb6c",
     "16348167313be3ffb8",
+    "16456340821faebe9a",
     "1634816369f8368cfa",
     "1641296300a7b5094c",
     "16348163341a2e5254",
