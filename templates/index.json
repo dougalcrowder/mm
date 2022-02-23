@@ -133,14 +133,14 @@
           "type": "column",
           "settings": {
             "width": "two_thirds",
-            "image": "shopify:\/\/shop_images\/STRAWBERRY_KITCHEN_CURTAINS_1600x_ef0466b7-bf6e-4ecb-a9aa-49300215800d.jpg",
+            "image": "shopify:\/\/shop_images\/DIANTHUS_TRELLIS_BEDHEAD_GREENCOMBE_2.jpg",
             "title": "Fabric",
             "subtitle": "",
             "text": "",
             "button_color": "red",
             "color_scheme": "red_text",
             "desktop_text_box_position": "end",
-            "text_align": "left",
+            "text_align": "right",
             "button_label": "Shop All Fabric",
             "button_link": "shopify:\/\/collections\/fabric"
           }
