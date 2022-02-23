@@ -35,8 +35,8 @@
         "148881e0-9bcf-4a7c-b669-ce41df894331"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22.jpg",
-        "square_image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22.jpg",
+        "image": "shopify:\/\/shop_images\/BINDI_WALLPAPER_FEB22.jpg",
+        "square_image": "shopify:\/\/shop_images\/BINDI_WALLPAPER_FEB22.jpg",
         "make_logo_white": false,
         "title": "Molly Mahon new wallpaper design in Strawberry",
         "header_tag": "h2"
@@ -57,7 +57,7 @@
         "1644408147b3e95bc5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Rooms We Love"
+            "heading": "Creative Home"
           }
         },
         "1644408147b3e95bc5-1": {
@@ -80,7 +80,7 @@
         "1644408147b3e95bc5-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/INSTA_TRELLIS_SINGLEBED.jpg",
+        "image": "shopify:\/\/shop_images\/MM-106.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -149,16 +149,16 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify:\/\/shop_images\/EIDERDOWNAW21.jpg",
-            "title": "Bedding",
+            "image": "shopify:\/\/shop_images\/LBBFLBUTPIN12-3_51dc0d07-0458-49b3-acb1-0f8b6f0ac839.jpg",
+            "title": "Lighting",
             "subtitle": "",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "between",
             "text_align": "center",
-            "button_label": "Shop Bedding",
-            "button_link": "shopify:\/\/collections\/bedroom"
+            "button_label": "Shop Lighting",
+            "button_link": "shopify:\/\/collections\/lampshades"
           }
         }
       },
