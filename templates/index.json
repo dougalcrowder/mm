@@ -175,20 +175,20 @@
         "1634819659f7be73c6-0": {
           "type": "heading",
           "settings": {
-            "heading": "Strawberry delicious!"
+            "heading": "Pinnies for Pancake Day"
           }
         },
         "1634819659f7be73c6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We are celebrating our Strawberry range.  The delights of things to come.<\/p>"
+            "text": "<p>Just add a little bit of magic - <\/p><p>1x Pinnie, 100g organic White flour, 4x eggs, 500ml Milk, Juice of two lemons and a little bit of sugar..<\/p><p><\/p>"
           }
         },
         "1634819659f7be73c6-2": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Table Linen",
-            "button_link": "shopify:\/\/collections\/tableware"
+            "button_label": "Shop Dining & Kitchen",
+            "button_link": "shopify:\/\/collections\/kitchen"
           }
         }
       },
@@ -198,7 +198,7 @@
         "1634819659f7be73c6-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MMSS21TW-39.jpg",
+        "image": "shopify:\/\/shop_images\/APRON_PANCAKEDAY.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
