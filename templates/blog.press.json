@@ -5,6 +5,7 @@
       "blocks": {
         "16354416148d3a6fb7-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Welcome",
             "heading_type": "header1"
