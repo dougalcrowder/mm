@@ -1,0 +1,67 @@
+{
+  "sections": {
+    "16354416148d3a6fb7": {
+      "type": "image-banner",
+      "blocks": {
+        "16354416148d3a6fb7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome",
+            "heading_type": "header1"
+          }
+        },
+        "16354416148d3a6fb7-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "16354416148d3a6fb7-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16354416148d3a6fb7-0",
+        "16354416148d3a6fb7-1",
+        "16354416148d3a6fb7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_MM_Community.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_MM_Community.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "show_image": true,
+        "blog_header": "Our Journal",
+        "blog_intro": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p><\/p><p>Join us and we will do our best to inspire you to the joys of stamping your mark making home<\/p>",
+        "show_date": false,
+        "show_author": false
+      }
+    }
+  },
+  "order": [
+    "16354416148d3a6fb7",
+    "main"
+  ]
+}
