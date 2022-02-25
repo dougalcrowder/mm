@@ -53,8 +53,8 @@
       "type": "main-blog",
       "settings": {
         "show_image": true,
-        "blog_header": "Our Journal",
-        "blog_intro": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p><\/p><p>Join us and we will do our best to inspire you to the joys of stamping your mark making home<\/p>",
+        "blog_header": "Press",
+        "blog_intro": "",
         "show_date": false,
         "show_author": false
       }
