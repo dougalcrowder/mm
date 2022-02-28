@@ -35,8 +35,8 @@
         "148881e0-9bcf-4a7c-b669-ce41df894331"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22.jpg",
-        "square_image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22.jpg",
+        "image": "shopify:\/\/shop_images\/BINDI_WALLPAPER_FEB22.jpg",
+        "square_image": "shopify:\/\/shop_images\/BINDI_WALLPAPER_FEB22.jpg",
         "make_logo_white": false,
         "title": "Molly Mahon new wallpaper design in Strawberry",
         "header_tag": "h2"
@@ -48,7 +48,7 @@
         "title": "<p>New Textural Wallpapers<\/p>",
         "link": "shopify:\/\/collections\/wallpaper",
         "bg_pattern": "pattern_01",
-        "color_scheme": "blue_text"
+        "color_scheme": "red_text"
       }
     },
     "16444081478c63d66f": {
@@ -57,20 +57,20 @@
         "1644408147b3e95bc5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Rooms We Love"
+            "heading": "Perfectly Imperfect"
           }
         },
         "1644408147b3e95bc5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>This is just delicious!  Sent in from a customer bringing Molly's Trellis design to life and complimented with our Buti Blue cushion.<\/p>"
+            "text": "<p>This month Molly had the joy of being interviewed by Inigo to discuss the simple joy of creating wallpaper for her home and how you can do it too.<\/p>"
           }
         },
         "1644408147b3e95bc5-2": {
           "type": "button",
           "settings": {
-            "button_label": "Inspiration - Lookbook",
-            "button_link": "shopify:\/\/pages\/greencombe"
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/blogs\/press\/an-interview-with-inigo"
           }
         }
       },
@@ -80,7 +80,7 @@
         "1644408147b3e95bc5-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/INSTA_TRELLIS_SINGLEBED.jpg",
+        "image": "shopify:\/\/shop_images\/MM-106.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -132,33 +132,33 @@
         "163481963822b4d1b3-0": {
           "type": "column",
           "settings": {
-            "width": "two_thirds",
-            "image": "shopify:\/\/shop_images\/STRAWBERRY_KITCHEN_CURTAINS_1600x_ef0466b7-bf6e-4ecb-a9aa-49300215800d.jpg",
-            "title": "Fabric",
-            "subtitle": "",
-            "text": "",
-            "button_color": "red",
-            "color_scheme": "red_text",
-            "desktop_text_box_position": "end",
-            "text_align": "left",
-            "button_label": "Shop All Fabric",
-            "button_link": "shopify:\/\/collections\/fabric"
-          }
-        },
-        "163481963822b4d1b3-1": {
-          "type": "column",
-          "settings": {
             "width": "one_third",
-            "image": "shopify:\/\/shop_images\/EIDERDOWNAW21.jpg",
-            "title": "Bedding",
+            "image": "shopify:\/\/shop_images\/LBBFLBUTPIN12-3_51dc0d07-0458-49b3-acb1-0f8b6f0ac839.jpg",
+            "title": "Lighting",
             "subtitle": "",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "between",
             "text_align": "center",
-            "button_label": "Shop Bedding",
-            "button_link": "shopify:\/\/collections\/bedroom"
+            "button_label": "Shop Lighting",
+            "button_link": "shopify:\/\/collections\/lampshades"
+          }
+        },
+        "163481963822b4d1b3-1": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "image": "shopify:\/\/shop_images\/DIANTHUS_TRELLIS_BEDHEAD_GREENCOMBE_2.jpg",
+            "title": "Fabric",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "red_text",
+            "desktop_text_box_position": "end",
+            "text_align": "right",
+            "button_label": "Shop All Fabric",
+            "button_link": "shopify:\/\/collections\/fabric"
           }
         }
       },
@@ -175,20 +175,20 @@
         "1634819659f7be73c6-0": {
           "type": "heading",
           "settings": {
-            "heading": "Strawberry delicious!"
+            "heading": "Pinnies for Pancake Day"
           }
         },
         "1634819659f7be73c6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We are celebrating our Strawberry range.  The delights of things to come.<\/p>"
+            "text": "<p>Just add a little bit of magic - <\/p><p>110g organic Plain flour, 2x free range eggs, 300ml Organic Milk, 50g\/2oz and 1 Molly Mahon Pinnie!  Juice of half a lemon and a little bit of Maple syrup to taste..<\/p><p><\/p>"
           }
         },
         "1634819659f7be73c6-2": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Table Linen",
-            "button_link": "shopify:\/\/collections\/tableware"
+            "button_label": "Shop Kitchen & Dining",
+            "button_link": "shopify:\/\/collections\/kitchen"
           }
         }
       },
@@ -198,7 +198,7 @@
         "1634819659f7be73c6-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MMSS21TW-39.jpg",
+        "image": "shopify:\/\/shop_images\/APRON_PANCAKEDAY.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
@@ -303,8 +303,56 @@
         "post_limit": 5
       }
     },
+    "16456340821faebe9a": {
+      "type": "image-banner",
+      "blocks": {
+        "164563408286d6d7aa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wonderful Workshops",
+            "heading_type": "header1"
+          }
+        },
+        "164563408286d6d7aa-1": {
+          "type": "text",
+          "settings": {
+            "text": "Held in Inspiring places",
+            "go_serif": false
+          }
+        },
+        "164563408286d6d7aa-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Chose your Workshop",
+            "button_link_1": "shopify:\/\/pages\/workshops-and-events",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164563408286d6d7aa-0",
+        "164563408286d6d7aa-1",
+        "164563408286d6d7aa-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Water_Meadow_041_-_Sussie_Bell_-_June_21.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Water_Meadow_041_-_Sussie_Bell_-_June_21.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
     "1634816369f8368cfa": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1634816369f8368cfa-0": {
           "type": "heading",
@@ -353,9 +401,9 @@
     "1641296300a7b5094c": {
       "type": "featured-collection",
       "settings": {
-        "title": "Brilliant Block Printing Kits",
-        "collection": "block-print-kits",
-        "products_to_show": 8,
+        "title": "Start block printing here...",
+        "collection": "supply-store",
+        "products_to_show": 10,
         "show_view_all": true,
         "show_secondary_image": true
       }
@@ -363,18 +411,26 @@
     "16348163341a2e5254": {
       "type": "instagram-grid",
       "blocks": {
-        "16348163341a2e5254-0": {
+        "b3638c37-80b2-4963-9497-730c5a8367d7": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/LBBFLBUTPIN12-4_5d1df2d1-d2ee-4919-a6d5-c705f52b4b98.jpg",
+            "insta_image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-11-58-10_ef5078df-bd2a-4ec5-abbb-e24ed242b539.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         },
-        "b3638c37-80b2-4963-9497-730c5a8367d7": {
+        "ab89f639-6764-4639-b1e4-d7b36eaa5147": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/CLIENT_LUNA_PINK_CURTAINS.jpg",
+            "insta_image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-11-58-10.jpg",
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+          }
+        },
+        "16348163341a2e5254-0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MARIGOLD_SHEPHERDSHUT_AMLY.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
@@ -387,34 +443,10 @@
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         },
-        "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/BOMBAY_BUSTLE_INSTA.jpg",
-            "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
-          }
-        },
-        "c5462cbc-a60b-4b23-b26e-1522064bd96b": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/LBBFLGARCOP12-5_d0853363-9cdf-4679-9e8e-0caf0d9c0fce.jpg",
-            "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
-          }
-        },
-        "ab89f639-6764-4639-b1e4-d7b36eaa5147": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/267469019_1030593891128721_6078512326311949056_n.jpg",
-            "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
-          }
-        },
         "366ce4bd-d678-476b-b6ce-e1f69e984969": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/THYME_JUN22_25fbe80c-219e-432d-ae4c-2614a1ba6f08.jpg",
+            "insta_image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50_9462433f-6c8e-4884-b866-6c7fa035e7f2.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
@@ -422,21 +454,37 @@
         "e029c48d-6777-47fa-8c59-1eb07ea60a54": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOCKPRINTING_INDIA.jpg",
+            "insta_image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-11-58-10_0bdc2fa5-a2ec-4b5d-846e-fb459f51067c.jpg",
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+          }
+        },
+        "c5462cbc-a60b-4b23-b26e-1522064bd96b": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/LEAF_GRASS_FIRMDALEHOTEL.jpg",
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+          }
+        },
+        "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         }
       },
       "block_order": [
-        "16348163341a2e5254-0",
         "b3638c37-80b2-4963-9497-730c5a8367d7",
-        "9fd0fb9e-76fd-49db-a4dc-c17f50c6914d",
-        "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32",
-        "c5462cbc-a60b-4b23-b26e-1522064bd96b",
         "ab89f639-6764-4639-b1e4-d7b36eaa5147",
+        "16348163341a2e5254-0",
+        "9fd0fb9e-76fd-49db-a4dc-c17f50c6914d",
         "366ce4bd-d678-476b-b6ce-e1f69e984969",
-        "e029c48d-6777-47fa-8c59-1eb07ea60a54"
+        "e029c48d-6777-47fa-8c59-1eb07ea60a54",
+        "c5462cbc-a60b-4b23-b26e-1522064bd96b",
+        "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32"
       ],
       "settings": {
         "title": "#mollymahonblockprinting",
@@ -533,6 +581,7 @@
     "1634821627eaee293f",
     "164129687781f3cb6c",
     "16348167313be3ffb8",
+    "16456340821faebe9a",
     "1634816369f8368cfa",
     "1641296300a7b5094c",
     "16348163341a2e5254",
