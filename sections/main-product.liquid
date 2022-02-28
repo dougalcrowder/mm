@@ -156,7 +156,9 @@
           <div class="product-form__input product-form__quantity" {{ section.shopify_attributes }}>
             <label class="form__label" for="Quantity-{{ section.id }}">
               {%- if product.type == 'Fabric' -%}
-              Metres
+              Quantity (per metre)
+              {%- elsif product.type == 'Wallpaper' -%}
+              Quantity (per roll)
               {%- else -%}
               {{ 'products.product.quantity.label' | t }}
               {%- endif -%}
