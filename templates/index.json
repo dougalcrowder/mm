@@ -175,20 +175,20 @@
         "1634819659f7be73c6-0": {
           "type": "heading",
           "settings": {
-            "heading": "Pinnies for Pancake Day"
+            "heading": "Launching very soon"
           }
         },
         "1634819659f7be73c6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Just add a little bit of magic - <\/p><p>110g organic Plain flour, 2x free range eggs, 300ml Organic Milk, 50g\/2oz and 1 Molly Mahon Pinnie!  Juice of half a lemon and a little bit of Maple syrup to taste..<\/p><p><\/p>"
+            "text": "<p>Molly's new rug design.  Luxury under foot bathed in her beautiful fresh colours and pattern.<\/p><p><\/p>"
           }
         },
         "1634819659f7be73c6-2": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Kitchen & Dining",
-            "button_link": "shopify:\/\/collections\/kitchen"
+            "button_label": "Coming Soon",
+            "button_link": "shopify:\/\/collections\/new-rug"
           }
         }
       },
@@ -198,7 +198,7 @@
         "1634819659f7be73c6-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/APRON_PANCAKEDAY.jpg",
+        "image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50_9462433f-6c8e-4884-b866-6c7fa035e7f2.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
