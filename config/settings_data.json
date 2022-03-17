@@ -61,11 +61,11 @@
             "type": "menu_images",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/SSCUTTOOL_1200x_5dffddee-f420-49a4-9dfb-46c8831113c3.jpg",
-              "title": "Tools",
+              "image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50.jpg",
+              "title": "",
               "subtitle": "Get stuck in",
-              "link": "shopify:\/\/collections\/tools",
-              "menu_item_handle": "printing-stationary"
+              "link": "",
+              "menu_item_handle": "new"
             }
           },
           "f1478d1d-b69c-4ba9-a5cd-93a80571237b": {
