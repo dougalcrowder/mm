@@ -316,8 +316,8 @@
         "164563408286d6d7aa-1": {
           "type": "text",
           "settings": {
-            "text": "Held in Inspiring places",
-            "go_serif": false
+            "text": "Inspire yourself",
+            "go_serif": true
           }
         },
         "164563408286d6d7aa-2": {
