@@ -59,11 +59,10 @@
           },
           "a911026b-a355-4e85-b902-387149596068": {
             "type": "menu_images",
-            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50.jpg",
               "title": "",
-              "subtitle": "Get stuck in",
+              "subtitle": "",
               "link": "",
               "menu_item_handle": "new"
             }
