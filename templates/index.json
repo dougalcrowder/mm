@@ -70,7 +70,7 @@
           "type": "button",
           "settings": {
             "button_label": "Read More",
-            "button_link": "shopify:\/\/blogs\/press\/an-interview-with-inigo"
+            "button_link": "shopify:\/\/blogs\/journal\/dress-to-impress"
           }
         }
       },
@@ -401,7 +401,7 @@
     "1641296300a7b5094c": {
       "type": "featured-collection",
       "settings": {
-        "title": "Start block printing here...",
+        "title": "Get Creative this Easter...",
         "collection": "supply-store",
         "products_to_show": 10,
         "show_view_all": true,
