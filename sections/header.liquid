@@ -151,6 +151,20 @@
   </header>
   <button id="navCloser" class="nude navcloser" aria-label="Close Menu"></button>
 </sticky-header>
+
+<style>
+  
+  @media screen and (max-width: 799px) {
+    .header__inline-menu {
+      display: none;
+    }
+    .header__inline-menu.mob_active {
+      display: block;
+    }
+  }
+  
+  </style>
+
 <script>
   
   const navCloser = document.getElementById("navCloser");
@@ -216,9 +230,13 @@
       nav.classList.remove("active");
       document.body.classList.remove("nav-active");
       navCollapse();
+      setTimeout(function() {
+        nav.classList.remove("mob_active");
+      }, 500);
     } else {
       hamburger.classList.add("is-active");
       nav.classList.add("active");
+      nav.classList.add("mob_active");
       document.body.classList.add("nav-active");
     }
     
