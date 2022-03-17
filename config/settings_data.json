@@ -41,9 +41,9 @@
             "type": "menu_images",
             "settings": {
               "image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_LIFE.jpg",
-              "title": "Rug - Circle - Pink",
+              "title": "",
               "subtitle": "",
-              "link": "shopify:\/\/products\/rug-circle",
+              "link": "",
               "menu_item_handle": "new"
             }
           },
