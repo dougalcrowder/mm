@@ -109,6 +109,7 @@
           },
           "c4876d6d-0628-40a2-b7a4-27dcb4ec08ea": {
             "type": "menu_images",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/india-artisans.jpg",
               "title": "Handmade by Artisans",
