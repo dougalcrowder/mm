@@ -37,7 +37,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/EASTER_TRELLIS_TABLECLOTH.jpg",
         "square_image": "shopify:\/\/shop_images\/EASTER_TRELLIS_TABLECLOTH.jpg",
-        "make_logo_white": false,
+        "make_logo_white": true,
         "title": "Easter Celebration",
         "header_tag": "h2"
       }
