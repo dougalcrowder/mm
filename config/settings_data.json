@@ -112,7 +112,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/india-artisans.jpg",
               "title": "Handmade by Artisans",
-              "subtitle": "The Printing Process",
+              "subtitle": "Block Printing",
               "link": "shopify:\/\/pages\/the-printing-process",
               "menu_item_handle": "mm-world"
             }
