@@ -1,0 +1,353 @@
+<section class="nav_container" id="nav">
+  <nav aria-labelledby="Main Menu">
+        {%- for block in section.blocks -%}
+          {%- include 'multi-nav' -%}
+        {%- endfor -%}
+  </nav>
+</section>
+
+{% schema %}
+
+{
+"name": "Navigation",
+"class": "nav-section",
+"tag": "section",
+"blocks": [
+  {
+    "type": "two_menus",
+    "name": "Hero Menus",
+    "settings": [
+      {
+        "type": "header",
+        "content": "First Hero Menu"
+      },
+      {
+        "type": "text",
+        "id": "title",
+        "label": "title",
+        "default": "Shop",
+        "label": "Column Width",
+        "info": "applies mostly to desktop and tablets"
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      },
+      {
+        "type": "url",
+        "id": "link",
+        "label": "link"
+      },
+      {
+        "type": "paragraph",
+        "content": "First Hero Menu colour links, these are optional. most likely used for Fabric or Wallpaper"
+      },
+      {
+        "type": "text",
+        "id": "color1",
+        "label": "Colour 1"
+      },
+      {
+        "type": "image_picker",
+        "id": "color1-image",
+        "label": "Colour 1 Image"
+      },
+      {
+        "type": "url",
+        "id": "color1-link",
+        "label": "Colour 1 link"
+      },
+      {
+        "type": "text",
+        "id": "color2",
+        "label": "Colour 2"
+      },
+      {
+        "type": "image_picker",
+        "id": "color2-image",
+        "label": "Colour 2 Image"
+      },
+      {
+        "type": "url",
+        "id": "color2-link",
+        "label": "Colour 2 link"
+      },
+      {
+        "type": "text",
+        "id": "color3",
+        "label": "Colour 3"
+      },
+      {
+        "type": "image_picker",
+        "id": "color3-image",
+        "label": "Colour 3 Image"
+      },
+      {
+        "type": "url",
+        "id": "color3-link",
+        "label": "Colour 3 link"
+      },
+      {
+        "type": "text",
+        "id": "color4",
+        "label": "Colour 4"
+      },
+      {
+        "type": "image_picker",
+        "id": "color4-image",
+        "label": "Colour 4 Image"
+      },
+      {
+        "type": "url",
+        "id": "color4-link",
+        "label": "Colour 4 link"
+      },
+      {
+        "type": "text",
+        "id": "color5",
+        "label": "Colour 5"
+      },
+      {
+        "type": "image_picker",
+        "id": "color5-image",
+        "label": "Colour 5 Image"
+      },
+      {
+        "type": "url",
+        "id": "color5-link",
+        "label": "Colour 5 link"
+      },
+      {
+        "type": "text",
+        "id": "color6",
+        "label": "Colour 6"
+      },
+      {
+        "type": "image_picker",
+        "id": "color6-image",
+        "label": "Colour 6 Image"
+      },
+      {
+        "type": "url",
+        "id": "color6-link",
+        "label": "Colour 6 link"
+      },
+      {
+        "type": "header",
+        "content": "2nd Hero Menu"
+      },
+      {
+        "type": "text",
+        "id": "titleb",
+        "label": "title",
+        "default": "Shop",
+        "label": "Heading"
+      },
+      {
+        "type": "image_picker",
+        "id": "imageb",
+        "label": "Image"
+      },
+      {
+        "type": "url",
+        "id": "linkb",
+        "label": "link"
+      },
+      {
+        "type": "paragraph",
+        "content": "2nd Hero Menu colour links, these are optional. most likely used for Fabric or Wallpaper"
+      },
+      {
+        "type": "text",
+        "id": "color1b",
+        "label": "Colour 1"
+      },
+      {
+        "type": "image_picker",
+        "id": "color1-imageb",
+        "label": "Colour 1 Image"
+      },
+      {
+        "type": "url",
+        "id": "color1-linkb",
+        "label": "Colour 1 link"
+      },
+      {
+        "type": "text",
+        "id": "color2b",
+        "label": "Colour 2"
+      },
+      {
+        "type": "image_picker",
+        "id": "color2-imageb",
+        "label": "Colour 2 Image"
+      },
+      {
+        "type": "url",
+        "id": "color2-linkb",
+        "label": "Colour 2 link"
+      },
+      {
+        "type": "text",
+        "id": "color3b",
+        "label": "Colour 3"
+      },
+      {
+        "type": "image_picker",
+        "id": "color3-imageb",
+        "label": "Colour 3 Image"
+      },
+      {
+        "type": "url",
+        "id": "color3-linkb",
+        "label": "Colour 3 link"
+      },
+      {
+        "type": "text",
+        "id": "color4b",
+        "label": "Colour 4"
+      },
+      {
+        "type": "image_picker",
+        "id": "color4-imageb",
+        "label": "Colour 4 Image"
+      },
+      {
+        "type": "url",
+        "id": "color4-linkb",
+        "label": "Colour 4 link"
+      },
+      {
+        "type": "text",
+        "id": "color5b",
+        "label": "Colour 5"
+      },
+      {
+        "type": "image_picker",
+        "id": "color5-imageb",
+        "label": "Colour 5 Image"
+      },
+      {
+        "type": "url",
+        "id": "color5-linkb",
+        "label": "Colour 5 link"
+      },
+      {
+        "type": "text",
+        "id": "color6b",
+        "label": "Colour 6"
+      },
+      {
+        "type": "image_picker",
+        "id": "color6-imageb",
+        "label": "Colour 6 Image"
+      },
+      {
+        "type": "url",
+        "id": "color6-linkb",
+        "label": "Colour 6 link"
+      }
+    ]
+  },
+  {
+  "type": "nav_columns",
+  "name": "Nav Columns",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title"
+    },
+    {
+      "type": "header",
+      "content": "Column One"
+    },
+    {
+      "type": "link_list",
+      "id": "col_nav_1a",
+      "label": "Menu"
+    },
+    {
+      "type": "link_list",
+      "id": "col_nav_1b",
+      "label": "Menu"
+    },
+    {
+      "type": "header",
+      "content": "Column Two"
+    },
+    {
+      "type": "link_list",
+      "id": "col_nav_2a",
+      "label": "Menu"
+    },
+    {
+      "type": "link_list",
+      "id": "col_nav_2b",
+      "label": "Menu"
+    },
+    {
+      "type": "header",
+      "content": "Column Three"
+    },
+    {
+      "type": "link_list",
+      "id": "col_nav_3a",
+      "label": "Menu"
+    },
+    {
+      "type": "link_list",
+      "id": "col_nav_3b",
+      "label": "Menu"
+    },
+    {
+      "type": "header",
+      "content": "Column Four"
+    },
+    {
+      "type": "link_list",
+      "id": "col_nav_4a",
+      "label": "Menu"
+    },
+    {
+      "type": "link_list",
+      "id": "col_nav_4b",
+      "label": "Menu"
+    },
+    {
+      "type": "header",
+      "content": "Optional Menu Creative"
+    },
+    {
+      "type": "image_picker",
+      "id": "col_nav_image",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "col_nav_url",
+      "label": "Link"
+    },
+    {
+      "type": "text",
+      "id": "col_nav_text",
+      "label": "Title"
+    }
+  ]
+}
+],
+"presets": [
+  {
+    "name": "Navigation",
+    "blocks": [
+      {
+        "type": "two_menus"
+      }
+    ]
+  }
+]
+}
+
+
+{% endschema %}

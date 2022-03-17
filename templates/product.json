@@ -22,11 +22,18 @@
       "settings": {
         "heading": "You may also like"
       }
+    },
+    "sticky-share": {
+      "type": "sticky-share",
+      "settings": {
+        "share_label": "Share"
+      }
     }
   },
   "order": [
     "main",
     "page-tabs",
-    "product-recommendations"
+    "product-recommendations",
+    "sticky-share"
   ]
 }

@@ -1,0 +1,39 @@
+<div class="form_inner">
+  <form class="search-form" action="{{ routes.search_url }}" method="get" role="search">
+      <input
+        type="text"
+        name="q"
+        placeholder="Search..."
+        role="combobox"
+        aria-autocomplete="list"
+        aria-owns="predictive-search-results"
+        aria-expanded="false"
+        aria-label="Search"
+        aria-haspopup="listbox"
+        class="search-form_input searchInput"
+      />
+      <input type="hidden" name="options[prefix]" value="last" aria-hidden="true" />
+  
+  
+    <button class="search-form_submit nude visually-hidden"
+      type="submit"
+      data-search-form-submit data-no-swup>
+      {% include 'icon-search' %}
+      <span class="visually-hidden">Submit</span>
+    </button>
+  </form>
+  <button class="nude searchcloser" id="mobSearchClose">
+    {% include 'icon-close' %}
+    <span class="visually-hidden">Close Search</span>
+  </button>
+</div>
+
+<div class="predictivesearchresults" id="predictiveSearchResults">
+  <div id="searchProducts" class="searchProducts"></div>
+  <div id="searchContent" class="searchContent">
+    <div id="searchCollections" class="searchCollections"></div>
+    <div id="searchPages" class="searchPages"></div>
+    <div id="searchArticles" class="searchArticles"></div>
+  </div>
+</div>
+<button class="search_close nude" id="searchClose"><span class="visually-hidden">Close Search</span></button>

@@ -1,0 +1,19 @@
+
+<picture class="coll_image">
+
+  <source srcset="{{ landscape_image | img_url: '1028x356', crop: 'center', format: 'pjpg' }}" media="(min-width: 2048px)" />
+  <source srcset="{{ landscape_image | img_url: '1028x356', crop: 'center', format: 'pjpg' }}" media="(min-width: 1680px)" />
+  <source srcset="{{ landscape_image | img_url: '1028x356', crop: 'center', format: 'pjpg' }}" media="(min-width: 1440px)" />
+  
+  <source srcset="{{ landscape_image | img_url: '1028x356', crop: 'center', format: 'pjpg' }}" media="(min-width: 1200px)" />
+  <source srcset="{{ landscape_image | img_url: '1028x356', crop: 'center', format: 'pjpg' }}" media="(min-width: 1024px)" />
+  <source srcset="{{ landscape_image | img_url: '1028x356', crop: 'center', format: 'pjpg' }}" media="(min-width: 880px)" />
+  
+  <source srcset="{{ square_image | img_url: '1028x356', crop: 'center', format: 'pjpg' }}" media="(min-width: 768px)" />
+  <source srcset="{{ square_image | img_url: '1028x356', crop: 'center', format: 'pjpg' }}" media="(min-width: 480px)" />
+  <source srcset="{{ square_image | img_url: '1028x356', crop: 'center', format: 'pjpg' }}" media="(min-width: 320px)" />
+  <img{% unless forloop.index == 1 %} loading="lazy"{% endunless %} 
+    class="lazyimage" 
+    src="{{ square_image | img_url: '1028x356' }}" 
+    alt="{%- if landscape_image.alt != blank -%}{{ landscape_image.alt | escape }}{%- else -%}{%- if image_alt -%}{{ image_alt }}{%- endif -%}{%- endif -%}" />
+</picture>

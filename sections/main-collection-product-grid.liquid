@@ -1,20 +1,10 @@
 {{ 'collections.css' | asset_url | stylesheet_tag }}
-{% comment %}
-{{ 'template-collection.css' | asset_url | stylesheet_tag }}
-{{ 'component-loading-overlay.css' | asset_url | stylesheet_tag }}
-{{ 'component-card.css' | asset_url | stylesheet_tag }}
-{{ 'component-price.css' | asset_url | stylesheet_tag }}
-{{ 'component-product-grid.css' | asset_url | stylesheet_tag }}
 
-<link rel="preload" href="{{ 'component-rte.css' | asset_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
-<noscript>{{ 'component-rte.css' | asset_url | stylesheet_tag }}</noscript>
-{% endcomment %}
 {%- if section.settings.enable_filtering or section.settings.enable_sorting -%}
   {{ 'facets.css' | asset_url | stylesheet_tag }}
   <script src="{{ 'facets.js' | asset_url }}" defer="defer"></script>
 
-  <div class="inner" id="main-collection-filters" data-id="{{ section.id }}">
+  <div class="outer" id="main-collection-filters" data-id="{{ section.id }}">
     {% render 'facets', results: collection, enable_filtering: section.settings.enable_filtering, enable_sorting: section.settings.enable_sorting, collapse_on_larger_devices: section.settings.collapse_on_larger_devices %}
   </div>
 {%- endif -%}
@@ -32,7 +22,7 @@
         </div>
       </div>
     {%- else -%}
-      <div class="collection inner collection_loader">
+      <div class="collection outer collection_loader">
         <div class="loading-overlay gradient"></div>
 
         <ul id="product-grid" data-id="{{ section.id }}" class="grid product_grid">
@@ -60,6 +50,17 @@
     
   {%- endpaginate -%}
 </div>
+
+{% if collection.image %}
+{%- if collection.description -%}
+<div class="naked_head-banner inner">
+    <div class="rte" {{ block.shopify_attributes }}>
+      <span>{{ collection.description }}</span>
+    </div>
+</div>
+{%- endif -%}
+{%- endif -%}
+
 
 {% schema %}
 {

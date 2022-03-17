@@ -264,6 +264,95 @@
           "quote": "<p>\"I find a room full of textures, layers and colours exciting and uplifting.\"<\/p>",
           "cite": "Molly Mahon"
         }
+      },
+      "navigation": {
+        "type": "navigation",
+        "blocks": {
+          "fb9acf94-6e45-4f2c-b9ca-76ba24126143": {
+            "type": "two_menus",
+            "settings": {
+              "title": "Shop Fabric",
+              "image": "shopify:\/\/shop_images\/POPPY_CURTAIN_SITTINGROOM_3500x_81426930-76e0-499b-96be-3c7785969692.jpg",
+              "link": "shopify:\/\/collections\/fabric",
+              "color1": "Blue",
+              "color1-image": "shopify:\/\/shop_images\/fabric_blue.jpg",
+              "color1-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Blue",
+              "color2": "Green",
+              "color2-image": "shopify:\/\/shop_images\/fabric_green.jpg",
+              "color2-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Green",
+              "color3": "Pink",
+              "color3-image": "shopify:\/\/shop_images\/fabric_pink.jpg",
+              "color3-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Pink",
+              "color4": "Yellow",
+              "color4-image": "shopify:\/\/shop_images\/fabric_yellow.jpg",
+              "color4-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Yellow",
+              "color5": "Red",
+              "color5-image": "shopify:\/\/shop_images\/fabric_red.jpg",
+              "color5-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Red",
+              "color6": "",
+              "color6-link": "",
+              "titleb": "Shop Wallpaper",
+              "imageb": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_Wallpaper_Comp.jpg",
+              "linkb": "shopify:\/\/collections\/wallpaper",
+              "color1b": "Blue",
+              "color1-imageb": "shopify:\/\/shop_images\/wp_blue.jpg",
+              "color1-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Blue",
+              "color2b": "Pink",
+              "color2-imageb": "shopify:\/\/shop_images\/wp_pink.jpg",
+              "color2-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Pink",
+              "color3b": "Green",
+              "color3-imageb": "shopify:\/\/shop_images\/wp_green.jpg",
+              "color3-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Green",
+              "color4b": "Yellow",
+              "color4-imageb": "shopify:\/\/shop_images\/wp_yellow.jpg",
+              "color4-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Yellow",
+              "color5b": "",
+              "color5-linkb": "",
+              "color6b": "",
+              "color6-linkb": ""
+            }
+          },
+          "0ec4665c-930a-4ec8-b0f6-2c216f0e10c7": {
+            "type": "nav_columns",
+            "settings": {
+              "title": "Shop House & Home",
+              "col_nav_1a": "footer",
+              "col_nav_1b": "customer-service",
+              "col_nav_2a": "press",
+              "col_nav_2b": "",
+              "col_nav_3a": "footer",
+              "col_nav_3b": "",
+              "col_nav_4a": "",
+              "col_nav_4b": "footer",
+              "col_nav_url": "",
+              "col_nav_text": ""
+            }
+          },
+          "45b8cf5e-2b43-43c7-8e2c-e610a15a8bca": {
+            "type": "nav_columns",
+            "settings": {
+              "title": "Shop Printing & Stationary",
+              "col_nav_1a": "footer",
+              "col_nav_1b": "",
+              "col_nav_2a": "customer-service",
+              "col_nav_2b": "",
+              "col_nav_3a": "",
+              "col_nav_3b": "",
+              "col_nav_4a": "",
+              "col_nav_4b": "",
+              "col_nav_image": "shopify:\/\/shop_images\/house_of_print.jpg",
+              "col_nav_url": "shopify:\/\/products\/pbohou00",
+              "col_nav_text": "Molly's Book - House of Print Pretty in Print"
+            }
+          }
+        },
+        "block_order": [
+          "fb9acf94-6e45-4f2c-b9ca-76ba24126143",
+          "0ec4665c-930a-4ec8-b0f6-2c216f0e10c7",
+          "45b8cf5e-2b43-43c7-8e2c-e610a15a8bca"
+        ],
+        "settings": {
+        }
       }
     },
     "content_for_index": [

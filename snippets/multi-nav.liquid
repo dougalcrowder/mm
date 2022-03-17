@@ -1,0 +1,386 @@
+{% case block.type %}
+         
+{% when 'two_menus' %}
+<div class="hero_menus flex">
+<div class="hero1" {{ block.shopify_attributes }}>
+    {% if block.settings.link != blank %} 
+    <a href="{{ block.settings.link }}">
+    {%- endif -%}
+    {%- if block.settings.title != blank -%}
+      <strong>{{ block.settings.title | escape }}</strong>
+    {%- endif -%}
+    {%- if block.settings.image != blank -%}
+      <div class="image">
+        {%- assign image = block.settings.image -%}
+        <picture>
+          <source srcset="{{ image | img_url: '390x135', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '390x135', crop: 'center' }} 1x" media="(min-width: 480px)" />
+          <source srcset="{{ image | img_url: '390x135', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '390x135', crop: 'center' }} 1x" media="(min-width: 320px)" />
+          <img class="lazyimage" loading="lazy" src="{{ image | img_url: '390x135', crop: 'center' }}" alt="{{ image.alt | escape }}" width="390" height="135" />
+        </picture>
+      </div>
+    {%- endif -%}
+    {% if block.settings.link != blank %} 
+    </a>
+    {%- endif -%}
+    
+    {%- if block.settings.color1-link != blank -%}
+    <div class="colour_links flex">
+      {%- if block.settings.color1-link != blank -%}
+      <a href="{{ block.settings.color1-link }}">
+        <span class="visually-hidden">{{ block.settings.color1 }}</span>
+        {%- assign image1 = block.settings.color1-image -%}
+        <img loading="lazy" src="{{ image1 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color1 }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+
+      {%- if block.settings.color2-link != blank -%}
+      <a href="{{ block.settings.color2-link }}">
+        <span class="visually-hidden">{{ block.settings.color2 }}</span>
+        {%- assign image2 = block.settings.color2-image -%}
+        <img loading="lazy" src="{{ image2 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color2 }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+
+      {%- if block.settings.color3-link != blank -%}
+      <a href="{{ block.settings.color3-link }}">
+        <span class="visually-hidden">{{ block.settings.color3 }}</span>
+        {%- assign image3 = block.settings.color3-image -%}
+        <img loading="lazy" src="{{ image3 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color3 }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+
+      {%- if block.settings.color4-link != blank -%}
+      <a href="{{ block.settings.color4-link }}">
+        <span class="visually-hidden">{{ block.settings.color4 }}</span>
+        {%- assign image4 = block.settings.color4-image -%}
+        <img loading="lazy" src="{{ image4 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color4 }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+
+      {%- if block.settings.color5-link != blank -%}
+      <a href="{{ block.settings.color5-link }}">
+        <span class="visually-hidden">{{ block.settings.color5 }}</span>
+        {%- assign image5 = block.settings.color5-image -%}
+        <img loading="lazy" src="{{ image5 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color5 }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+
+      {%- if block.settings.color6-link != blank -%}
+      <a href="{{ block.settings.color6-link }}">
+        <span class="visually-hidden">{{ block.settings.color6 }}</span>
+        {%- assign image6 = block.settings.color6-image -%}
+        <img loading="lazy" src="{{ image6 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color6 }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+    </div>
+    {%- endif -%}
+
+</div>
+<div class="hero2" {{ block.shopify_attributes }}>
+    {% if block.settings.linkb != blank %} 
+    <a href="{{ block.settings.linkb }}">
+    {%- endif -%}
+    {%- if block.settings.titleb != blank -%}
+      <strong>{{ block.settings.titleb | escape }}</strong>
+    {%- endif -%}
+    {%- if block.settings.imageb != blank -%}
+      <div class="image">
+        {%- assign image = block.settings.imageb -%}
+        <picture>
+          <source srcset="{{ image | img_url: '390x135', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '390x135', crop: 'center' }} 1x" media="(min-width: 480px)" />
+          <source srcset="{{ image | img_url: '390x135', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '390x135', crop: 'center' }} 1x" media="(min-width: 320px)" />
+          <img class="lazyimage" loading="lazy" src="{{ image | img_url: '390x135', crop: 'center' }}" alt="{{ image.alt | escape }}" width="390" height="135" />
+        </picture>
+      </div>
+    {%- endif -%}
+    {% if block.settings.linkb != blank %} 
+    </a>
+    {%- endif -%}
+    
+    {%- if block.settings.color1-linkb != blank -%}
+    <div class="colour_links flex">
+      {%- if block.settings.color1-linkb != blank -%}
+      <a href="{{ block.settings.color1-linkb }}">
+        <span class="visually-hidden">{{ block.settings.color1b }}</span>
+        {%- assign image1 = block.settings.color1-imageb -%}
+        <img loading="lazy" src="{{ image1 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color1b }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+
+      {%- if block.settings.color2-linkb != blank -%}
+      <a href="{{ block.settings.color2-linkb }}">
+        <span class="visually-hidden">{{ block.settings.color2b }}</span>
+        {%- assign image2 = block.settings.color2-imageb -%}
+        <img loading="lazy" src="{{ image2 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color2b }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+
+      {%- if block.settings.color3-linkb != blank -%}
+      <a href="{{ block.settings.color3-linkb }}">
+        <span class="visually-hidden">{{ block.settings.color3b }}</span>
+        {%- assign image3 = block.settings.color3-imageb -%}
+        <img loading="lazy" src="{{ image3 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color3b }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+
+      {%- if block.settings.color4-linkb != blank -%}
+      <a href="{{ block.settings.color4-linkb }}">
+        <span class="visually-hidden">{{ block.settings.color4b }}</span>
+        {%- assign image4 = block.settings.color4-imageb -%}
+        <img loading="lazy" src="{{ image4 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color4b }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+
+      {%- if block.settings.color5-linkb != blank -%}
+      <a href="{{ block.settings.color5-linkb }}">
+        <span class="visually-hidden">{{ block.settings.color5b }}</span>
+        {%- assign image5 = block.settings.color5-imageb -%}
+        <img loading="lazy" src="{{ image5 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color5b }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+
+      {%- if block.settings.color6-linkb != blank -%}
+      <a href="{{ block.settings.color6-linkb }}">
+        <span class="visually-hidden">{{ block.settings.color6b }}</span>
+        {%- assign image6 = block.settings.color6-imageb -%}
+        <img loading="lazy" src="{{ image6 | img_url: '48x48', crop: 'center' }}" alt="{{ block.settings.color6b }} swatch" width="24" height="24" />
+      </a>
+      {%- endif -%}
+    </div>
+    {%- endif -%}
+
+  </div>
+</div>
+
+{% when 'nav_columns' %}
+<div class="nav_columns flex">
+  {%- if block.settings.title != blank -%}
+    <header class="title">{{ block.settings.title }}</header>
+  {%- endif -%}
+  {%- if block.settings.col_nav_1a != blank or block.settings.col_nav_1b != blank -%}
+  <div>
+  {%- if block.settings.col_nav_1a != blank  -%}
+    <ul class="nav_col">
+      {%- for link in block.settings.col_nav_1a.links -%}
+      <li>
+        <a href="{{ link.url }}" class="nav_link{% if link.active %} active{% endif %}{% if link.links.size > 0 %} hasChildren{% endif %}" {% if link.active %}aria-current="page"{% endif %}>
+          {{ link.title }}
+        </a>
+        {%- if link.links.size > 0 -%}
+        <ul class="sub_links">
+        {%- for childlink in link.links -%}
+          <li>
+            <a href="{{ childlink.url }}" class="nav_link{% if childlink.active %} active{% endif %}" {% if childlink.active %}aria-current="page"{% endif %}>
+              {{ childlink.title }}
+            </a>
+          </li> 
+        {%- endfor -%}
+        </ul>
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  
+  {%- if block.settings.col_nav_1b != blank  -%}
+    <ul class="nav_col">
+      {%- for link in block.settings.col_nav_1b.links -%}
+        <li>
+          <a href="{{ link.url }}" class="nav_link{% if link.active %} active{% endif %}{% if link.links.size > 0 %} hasChildren{% endif %}" {% if link.active %}aria-current="page"{% endif %}>
+            {{ link.title }}
+          </a>
+          {%- if link.links.size > 0 -%}
+          <ul class="sub_links">
+          {%- for childlink in link.links -%}
+            <li>
+              <a href="{{ childlink.url }}" class="nav_link{% if childlink.active %} active{% endif %}" {% if childlink.active %}aria-current="page"{% endif %}>
+                {{ childlink.title }}
+              </a>
+            </li> 
+          {%- endfor -%}
+          </ul>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  </div>
+  {%- endif -%}
+  
+  {%- if block.settings.col_nav_2a != blank or block.settings.col_nav_2b != blank -%}
+  <div>
+  {%- if block.settings.col_nav_2a != blank  -%}
+    <ul class="nav_col">
+      {%- for link in block.settings.col_nav_2a.links -%}
+        <li>
+          <a href="{{ link.url }}" class="nav_link{% if link.active %} active{% endif %}{% if link.links.size > 0 %} hasChildren{% endif %}" {% if link.active %}aria-current="page"{% endif %}>
+            {{ link.title }}
+          </a>
+          {%- if link.links.size > 0 -%}
+          <ul class="sub_links">
+          {%- for childlink in link.links -%}
+            <li>
+              <a href="{{ childlink.url }}" class="nav_link{% if childlink.active %} active{% endif %}" {% if childlink.active %}aria-current="page"{% endif %}>
+                {{ childlink.title }}
+              </a>
+            </li> 
+          {%- endfor -%}
+          </ul>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  
+  {%- if block.settings.col_nav_2b != blank  -%}
+    <ul class="nav_col">
+      {%- for link in block.settings.col_nav_2b.links -%}
+        <li>
+          <a href="{{ link.url }}" class="nav_link{% if link.active %} active{% endif %}{% if link.links.size > 0 %} hasChildren{% endif %}" {% if link.active %}aria-current="page"{% endif %}>
+            {{ link.title }}
+          </a>
+          {%- if link.links.size > 0 -%}
+          <ul class="sub_links">
+          {%- for childlink in link.links -%}
+            <li>
+              <a href="{{ childlink.url }}" class="nav_link{% if childlink.active %} active{% endif %}" {% if childlink.active %}aria-current="page"{% endif %}>
+                {{ childlink.title }}
+              </a>
+            </li> 
+          {%- endfor -%}
+          </ul>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  </div>
+  {%- endif -%}
+  
+  {%- if block.settings.col_nav_3a != blank or block.settings.col_nav_3b != blank -%}
+  <div>
+  {%- if block.settings.col_nav_3a != blank  -%}
+    <ul class="nav_col">
+      {%- for link in block.settings.col_nav_3a.links -%}
+        <li>
+          <a href="{{ link.url }}" class="nav_link{% if link.active %} active{% endif %}{% if link.links.size > 0 %} hasChildren{% endif %}" {% if link.active %}aria-current="page"{% endif %}>
+            {{ link.title }}
+          </a>
+          {%- if link.links.size > 0 -%}
+          <ul class="sub_links">
+          {%- for childlink in link.links -%}
+            <li>
+              <a href="{{ childlink.url }}" class="nav_link{% if childlink.active %} active{% endif %}" {% if childlink.active %}aria-current="page"{% endif %}>
+                {{ childlink.title }}
+              </a>
+            </li> 
+          {%- endfor -%}
+          </ul>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  
+  {%- if block.settings.col_nav_3b != blank  -%}
+    <ul class="nav_col">
+      {%- for link in block.settings.col_nav_3b.links -%}
+        <li>
+          <a href="{{ link.url }}" class="nav_link{% if link.active %} active{% endif %}{% if link.links.size > 0 %} hasChildren{% endif %}" {% if link.active %}aria-current="page"{% endif %}>
+            {{ link.title }}
+          </a>
+          {%- if link.links.size > 0 -%}
+          <ul class="sub_links">
+          {%- for childlink in link.links -%}
+            <li>
+              <a href="{{ childlink.url }}" class="nav_link{% if childlink.active %} active{% endif %}" {% if childlink.active %}aria-current="page"{% endif %}>
+                {{ childlink.title }}
+              </a>
+            </li> 
+          {%- endfor -%}
+          </ul>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  </div>
+  {%- endif -%}
+  
+  {%- if block.settings.col_nav_4a != blank or block.settings.col_nav_4b != blank -%}
+  <div>
+  {%- if block.settings.col_nav_4a != blank  -%}
+    <ul class="nav_col">
+      {%- for link in block.settings.col_nav_4a.links -%}
+        <li>
+          <a href="{{ link.url }}" class="nav_link{% if link.active %} active{% endif %}{% if link.links.size > 0 %} hasChildren{% endif %}" {% if link.active %}aria-current="page"{% endif %}>
+            {{ link.title }}
+          </a>
+          {%- if link.links.size > 0 -%}
+          <ul class="sub_links">
+          {%- for childlink in link.links -%}
+            <li>
+              <a href="{{ childlink.url }}" class="nav_link{% if childlink.active %} active{% endif %}" {% if childlink.active %}aria-current="page"{% endif %}>
+                {{ childlink.title }}
+              </a>
+            </li> 
+          {%- endfor -%}
+          </ul>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  
+  {%- if block.settings.col_nav_4b != blank  -%}
+    <ul class="nav_col">
+      {%- for link in block.settings.col_nav_4b.links -%}
+        <li>
+          <a href="{{ link.url }}" class="nav_link{% if link.active %} active{% endif %}{% if link.links.size > 0 %} hasChildren{% endif %}" {% if link.active %}aria-current="page"{% endif %}>
+            {{ link.title }}
+          </a>
+          {%- if link.links.size > 0 -%}
+          <ul class="sub_links">
+          {%- for childlink in link.links -%}
+            <li>
+              <a href="{{ childlink.url }}" class="nav_link{% if childlink.active %} active{% endif %}" {% if childlink.active %}aria-current="page"{% endif %}>
+                {{ childlink.title }}
+              </a>
+            </li> 
+          {%- endfor -%}
+          </ul>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  </div>
+  {%- endif -%}
+  
+  {%- if block.settings.col_nav_image != blank  -%}
+  <div class="nav_col creative">
+  {% if block.settings.col_nav_link != blank %} 
+  <a href="{{ block.settings.col_nav_link }}">
+  {%- endif -%}
+  {%- if block.settings.col_nav_image != blank -%}
+    <div class="image">
+      {%- assign col_nav_image = block.settings.col_nav_image -%}
+      <picture>
+        <source srcset="{{ col_nav_image | img_url: '250x200', crop: 'center', scale: 2 }} 2x, {{ col_nav_image | img_url: '250x200', crop: 'center' }} 1x" media="(min-width: 480px)" />
+        <source srcset="{{ col_nav_image | img_url: '250x200', scale: 2, crop: 'center' }} 2x, {{ col_nav_image | img_url: '250x200', crop: 'center' }} 1x" media="(min-width: 320px)" />
+        <img class="lazyimage" loading="lazy" src="{{ col_nav_image | img_url: '250x200', crop: 'center' }}" alt="{{ col_nav_image.alt | escape }}" width="250" height="200" />
+      </picture>
+    </div>
+  {%- endif -%}
+  {%- if block.settings.col_nav_text != blank -%}
+    <p>{{ block.settings.col_nav_text | escape }}</p>
+  {%- endif -%}
+  {% if block.settings.col_nav_link != blank %} 
+  </a>
+  {%- endif -%}
+  </div>
+  {%- endif -%}
+  
+  
+</div>
+{% endcase %}

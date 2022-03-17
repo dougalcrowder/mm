@@ -2,132 +2,46 @@
 <script src="{{ 'details-modal.js' | asset_url }}" defer="defer"></script>
 <script src="{{ 'cart-notification.js' | asset_url }}" defer="defer"></script>
 
-<svg xmlns="http://www.w3.org/2000/svg" class="hidden">
-  <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
-  </symbol>
 
-  <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-    <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-  </symbol>
-</svg>
 <sticky-header class="header-wrapper">
-  <header class="header{% if section.settings.menu != blank %} header--has-menu{% endif %}">
-  {%- if section.settings.menu != blank -%}
-    <button class="nude hamburger hamburger--spring" type="button">
-      <span class="hamburger-box">
-        <span class="hamburger-inner"></span>
-      </span>
-    </button>
-  {%- endif -%}
-
-    {%- if section.settings.menu != blank -%}
-      <nav class="header__inline-menu">
-        <ul class="list-menu list-menu--inline" role="list" id="mainNav">
-          {%- for link in section.settings.menu.links -%}
-            <li class="{{link.handle}}{% if link.links != blank %} subnav_active{% endif %}">
-              {%- if link.links != blank -%}
-                <span class="header__menu-item{% if link.child_active %} header__active-menu-item{% endif %}">{{ link.title | escape }} {% render 'icon-caret' %}</span>
-                    <div class="header__submenu">
-                        <div class="inner flex">
-                          {%- assign childCount = 0 -%}
-                          {%- for childlink in link.links -%}
-                          {%- if childlink.links != blank -%}
-                          {%- assign childCount = childCount | plus: 1 -%}
-                          {%- endif -%}
-                          {%- endfor -%}
-                          <ul class="list-menu flex has-{{childCount}}" role="list" tabindex="-1">
-                            {%- for childlink in link.links -%}
-                            <li{% if childlink.links != blank %} class="sub_subnav flex"{% endif %}>
-                            {%- if childlink.links == blank -%}
-                              <a href="{{ childlink.url }}" class="larger_link{% if childlink.current %} list-menu__item--active{% endif %}"{% if childlink.current %} aria-current="page"{% endif %}>
-                                {{ childlink.title | escape }}
-                              </a>
-                            {%- else -%}
-                            <div class="subnav_title">
-                              {%- if childlink.url == '#' -%}
-                              <div class="nolink">{{ childlink.title | escape }} -</div>
-                              {%- else -%}
-                                <a href="{{ childlink.url }}" class="{% if childlink.current %} list-menu__item--active{% endif %}"{% if childlink.current %} aria-current="page"{% endif %}>
-                                  {{ childlink.title | escape }} -
-                                </a>
-                              {%- endif -%}
-                            </div>
-                            <ul class="subnav_menu">
-                              {%- for grandchildlink in childlink.links -%}
-                                <li>
-                                  <a href="{{ grandchildlink.url }}" class="header__menu-item list-menu__item focus-inset caption-large{% if grandchildlink.current %} list-menu__item--active{% endif %}"{% if grandchildlink.current %} aria-current="page"{% endif %}>
-                                    {{ grandchildlink.title | escape }}
-                                  </a>
-                                </li>
-                              {%- endfor -%}
-                            </ul>
-                            {%- endif -%}
-                          </li>
-                        {%- endfor -%}
-                        </ul>
-                          {%- for block in section.blocks -%}
-                            {%- if block.settings.menu_item_handle == link.handle -%}
-                            
-                            <div class="creative">
-                              {%- if block.settings.image != blank -%}
-                                {%- assign image = block.settings.image -%}
-                                <picture class="navshot">
-                                  <source srcset="{{ image | img_url: '250x200', crop: 'center', format: 'pjpg' }}" media="(min-width: 768px)" />
-                                  <source srcset="{{ image | img_url: '200x160', crop: 'center', format: 'pjpg' }}" media="(min-width: 320px)" />
-                                  <img loading="lazy" class="heroshot_image" src="{{ image | img_url: '1x1' }}" alt="{{ image.alt | escape }}" />
-                                </picture>
-                              {%- endif -%}
-                              
-                              {%- if block.settings.title != blank -%}
-                              <strong>
-                              {{ block.settings.title }}
-                              </strong>
-                              {%- endif -%}
-                              
-                              {%- if block.settings.subtitle != blank -%}
-                              {{ block.settings.subtitle }}
-                              {%- endif -%}
-                              
-                              {%- if block.settings.link != blank -%}
-                              <a href="{{ block.settings.link }}"><span class="visually-hidden">{{ block.settings.title }}</span></a>
-                              {%- endif -%}
-                              
-                            </div>
-                            {%- endif -%}
-                          {%- endfor -%}
-                        </div>
-                    </div>
-              {%- else -%}
-                <a href="{{ link.url }}" class="header__menu-item header__menu-item list-menu__item focus-inset{%- if link.current %} header__active-menu-item{% endif %}"{% if link.current %} aria-current="page"{% endif %}>
-                  <span>{{ link.title | escape }}</span>
-                </a>
-              {%- endif -%}
-            </li>
-          {%- endfor -%}
-        </ul>
-      </nav>
-    {%- endif -%}
+  <header class="header">
+  
     <div class="header_links flex">
-
-      <span class="trade_link top_shift"><span class="visually-hidden">Trade Login</span></span>
-
+      <span class="trade_link">
+        <a href="/" aria-label="Go to the homepage">
+        <svg width="41" height="40" fill="none">
+          <path fill="#fff" fill-rule="evenodd" d="M34.3493 17.755c.1021-2.0952-.4167-4.1767-1.1808-6.2099-.445-1.1822-.9893-2.3462-2.0416-3.0866-2.7901-1.9638-5.7225-3.5906-9.3251-3.1862-1.1106.1242-2.2358.2164-3.319.4738-1.3422.3196-2.6552.7724-3.9673 1.2097-2.7975.9312-4.85 2.7662-6.3554 5.2768-.279.4638-.7431.8189-1.127 1.2188-.383.3989-.9127.7257-1.1361 1.1986a15.6793 15.6793 0 0 0-1.3814 4.7629c-.1979 1.5428-.187 3.0428.0638 4.5464.2827 1.7017 1.4188 2.957 2.5276 4.1539 1.5737 1.7008 3.5697 2.778 5.717 3.6444 2.8659 1.1549 5.7326 2.1171 8.8921 1.9327 1.6659-.0967 3.1913-.5605 4.6138-1.3621 2.0114-1.1348 3.6481-2.7434 5.0259-4.5583a15.6052 15.6052 0 0 0 2.1428-3.8407c.734-1.93.8844-4.0024.8507-6.1742ZM15.9762 1.05C17.3384.7953 18.697.5132 20.0648.2877c2.9023-.4793 5.7809-.4574 8.4963.8262.9583.4537 1.7871 1.1777 2.6898 1.7547.548.3505 1.1115.6847 1.6933.9759 1.5054.7523 2.9041 1.6688 4.0658 2.8812 1.7926 1.8716 2.8995 4.0882 3.2934 6.69.3265 2.1655.6803 4.3228.611 6.5157-.0639 2.0943-.2034 4.2087-1.2173 6.0966-1.0276 1.9117-2.0853 3.8216-3.8606 5.1965-1.5374 1.1914-2.9662 2.537-4.5774 3.6125-1.4953.9987-3.1548 1.7601-4.7706 2.5717a27.5471 27.5471 0 0 1-3.009 1.2946c-1.0823.3907-2.2038.3615-3.3646.3095-2.0197-.0904-3.888-.7432-5.7855-1.259-2.026-.5505-3.805-1.6652-5.4681-2.9451-.7523-.5797-1.5465-1.112-2.2467-1.7492-2.3033-2.0961-3.6373-4.7619-4.518-7.7153-.5125-1.72-1.1617-3.4153-1.1244-5.2266.0639-3.083.4888-6.1002 2.0571-8.8518.6957-1.2234 1.2428-2.5353 1.9677-3.7413.8334-1.3858 1.8665-2.6256 3.1731-3.6143.858-.65 1.634-1.4388 2.5595-1.9655 1.5975-.9093 3.3892-1.1248 5.2128-1.0654l.0329.1716.0009-.001Z" clip-rule="evenodd"/>
+          <path fill="#fff" fill-rule="evenodd" d="m22.9463 16.2459 2.7291 6.1778h.1595l2.5586-5.8145v3.9412c0 1.2087-.1486 1.4141-1.1681 1.4141v.2538h3.3191v-.2538c-1.0322 0-1.1799-.2054-1.1799-1.415v-3.9284c0-1.2096.1477-1.4023 1.1799-1.4023v-.2538h-1.9304l-2.595 5.8867-2.606-5.8867h-2.0907v.2538c1.0194 0 1.1671.1927 1.1671 1.4023v3.9293c0 1.2087-.1477 1.4141-1.1671 1.4141v.2538h2.8029v-.2538c-1.0213 0-1.179-.2054-1.179-1.415v-4.3036Zm-10.7622 0 2.73 6.1778h.1605l2.5576-5.8145v3.9412c0 1.2087-.1468 1.4141-1.168 1.4141v.2538h3.3208v-.2538c-1.034 0-1.1817-.2054-1.1817-1.415v-3.9284c0-1.2096.1477-1.4023 1.1817-1.4023v-.2538h-1.9312l-2.5941 5.8867-2.6069-5.8867H10.562v.2538c1.0212 0 1.169.1927 1.169 1.4023v3.9293c0 1.2087-.1487 1.4141-1.169 1.4141v.2538h2.8038v-.2538c-1.0212 0-1.1808-.2054-1.1808-1.415v-4.3036h-.0009Z" clip-rule="evenodd"/>
+        </svg>
+        </a>
+      </span>
+      <div class="header_search" id="headerSearch">
+        {%- include "search" -%}
+      </div>
+      {% comment %}
       {% if section.settings.menu_message != blank %}
-      <div class="menu_message top_shift">{{ section.settings.menu_message }}</div>
+      <div class="menu_message">{{ section.settings.menu_message }}</div>
       {% endif %}
+      {% endcomment %}
       <div class="header__icons">
+        <button class="button searchtoggle nude" id="searchToggle">
+          {% include 'icon-search' %}
+          <span class="visually-hidden">Search Molly Mahon</span>
+        </button>
       {%- if shop.customer_accounts_enabled -%}
-        <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="login_link top_shift">
-            {%- liquid
+        <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__icon header__icon--account link focus-inset">
+            {%- render 'icon-account' -%}
+            <span class="visually-hidden">{%- liquid
               if customer
                 echo 'customer.account_fallback' | t
               else
                 echo 'customer.log_in' | t
               endif
             -%}
+            </span>
         </a>
       {%- endif -%}
-
+      
       <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
         {%- liquid
           if cart == empty
@@ -149,166 +63,10 @@
     </div>
     </div>
   </header>
-  <button id="navCloser" class="nude navcloser" aria-label="Close Menu"></button>
 </sticky-header>
-<script>
-  
-  const navCloser = document.getElementById("navCloser");
-  
-  function navCollapse() { 
-    document.querySelectorAll(".list-menu .subnav_active.active").forEach(function(el) {
-      el.classList.remove('showCt');
-      navCloser.classList.remove('active');
-      setTimeout(function() {
-        el.classList.remove('showBg');
-      }, 500);
-      setTimeout(function() {
-        el.classList.remove('active');
-      }, 550);
-    });
-  }
-  
-  navCloser.addEventListener('click', function (){
-    navCollapse();
-  });
-  
-  document.querySelectorAll('#mainNav li').forEach( function(navLi) {
-    if(navLi.classList.contains('subnav_active')) {
-      navLi.addEventListener('click', function (){        
-        if (navLi.classList.contains('active')) {
-          navLi.classList.remove('showCt');
-          navCloser.classList.remove('active');
-          setTimeout(function() {
-            navLi.classList.remove('showBg');
-          }, 500);
-          setTimeout(function() {
-            navLi.classList.remove('active');
-          }, 550);
-        } else {
-          document.querySelectorAll("#mainNav li.active").forEach(function(navLiB) {
-            navLiB.classList.remove('showCt');
-            setTimeout(function() {
-              navLiB.classList.remove('showBg');
-            }, 500);
-            setTimeout(function() {
-              navLiB.classList.remove('active');
-            }, 550);
-          });
-          setTimeout(function() {
-            navLi.classList.add('active');
-            navLi.classList.add('showBg');
-            setTimeout(function() {
-              navLi.classList.add('showCt');
-              navCloser.classList.add('active');
-            }, 500);
-          }, 50);
-        }
-        
-      });
-    }
-  });
-  
-  const hamburger = document.querySelector(".hamburger");
-  const nav = document.querySelector(".header__inline-menu");
-  hamburger.addEventListener("click", function() {
-    if (nav.classList.contains("active")) {
-      hamburger.classList.remove("is-active");
-      nav.classList.remove("active");
-      document.body.classList.remove("nav-active");
-      navCollapse();
-    } else {
-      hamburger.classList.add("is-active");
-      nav.classList.add("active");
-      document.body.classList.add("nav-active");
-    }
-    
-  });
-</script>
+
 
 {%- render 'cart-notification', color_scheme: section.settings.color_scheme -%}
-
-{% javascript %}
-  class StickyHeader extends HTMLElement {
-    constructor() {
-      super();
-    }
-
-    connectedCallback() {
-      this.header = document.getElementById('shopify-section-header');
-      this.headerBounds = {};
-      this.currentScrollTop = 0;
-      this.preventReveal = false;
-
-      this.onScrollHandler = this.onScroll.bind(this);
-      this.hideHeaderOnScrollUp = () => this.preventReveal = true;
-
-      this.addEventListener('preventHeaderReveal', this.hideHeaderOnScrollUp);
-      window.addEventListener('scroll', this.onScrollHandler, false);
-
-      this.createObserver();
-    }
-
-    disconnectedCallback() {
-      this.removeEventListener('preventHeaderReveal', this.hideHeaderOnScrollUp);
-      window.removeEventListener('scroll', this.onScrollHandler);
-    }
-
-    createObserver() {
-      let observer = new IntersectionObserver((entries, observer) => {
-        this.headerBounds = entries[0].intersectionRect;
-        observer.disconnect();
-      });
-
-      observer.observe(this.header);
-    }
-
-    onScroll() {
-      const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-
-      if (scrollTop > this.currentScrollTop && scrollTop > this.headerBounds.bottom) {
-        requestAnimationFrame(this.hide.bind(this));
-      } else if (scrollTop < this.currentScrollTop && scrollTop > this.headerBounds.bottom) {
-        if (!this.preventReveal) {
-          requestAnimationFrame(this.reveal.bind(this));
-        } else {
-          window.clearTimeout(this.isScrolling);
-
-          this.isScrolling = setTimeout(() => {
-            this.preventReveal = false;
-          }, 66);
-
-          requestAnimationFrame(this.hide.bind(this));
-        }
-      } else if (scrollTop <= this.headerBounds.top) {
-        requestAnimationFrame(this.reset.bind(this));
-      }
-
-
-      this.currentScrollTop = scrollTop;
-    }
-
-    hide() {
-      this.header.classList.add('shopify-section-header-hidden', 'shopify-section-header-sticky');
-      this.closeMenuDisclosure();
-    }
-
-    reveal() {
-      this.header.classList.add('shopify-section-header-sticky', 'animate');
-      this.header.classList.remove('shopify-section-header-hidden');
-    }
-
-    reset() {
-      this.header.classList.remove('shopify-section-header-hidden', 'shopify-section-header-sticky', 'animate');
-    }
-
-    closeMenuDisclosure() {
-      this.disclosures = this.disclosures || this.header.querySelectorAll('details-disclosure');
-      this.disclosures.forEach(disclosure => disclosure.close());
-    }
-  }
-
-  customElements.define('sticky-header', StickyHeader);
-{% endjavascript %}
 
 <script type="application/ld+json">
   {
