@@ -41,10 +41,10 @@
             "type": "menu_images",
             "settings": {
               "image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_LIFE.jpg",
-              "title": "Mood Boards",
+              "title": "",
               "subtitle": "",
               "link": "",
-              "menu_item_handle": "NEW"
+              "menu_item_handle": "new"
             }
           },
           "24e27814-6ff9-440b-9cda-6b6f0a4debb7": {
