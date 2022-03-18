@@ -209,8 +209,8 @@
         "type": "mailchimp",
         "settings": {
           "chimp_url": "https:\/\/mollymahon.us10.list-manage.com\/subscribe\/post?u=97f9cc90b67785f171c4e5e7a&amp;id=03514ce382",
-          "section_title": "Subscribe to our newsletter",
-          "subheading": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+          "section_title": "LIKE COLOURFUL & INSPIRING EMAILS?",
+          "subheading": "<p>We share ideas & Inspiration on making Homes unique & beautiful.<\/p>",
           "show_name": false,
           "disable": false
         }
