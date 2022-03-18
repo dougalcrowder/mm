@@ -35,20 +35,20 @@
         "148881e0-9bcf-4a7c-b669-ce41df894331"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BINDI_WALLPAPER_FEB22.jpg",
-        "square_image": "shopify:\/\/shop_images\/BINDI_WALLPAPER_FEB22.jpg",
+        "image": "shopify:\/\/shop_images\/EASTER_TRELLIS_TABLECLOTH.jpg",
+        "square_image": "shopify:\/\/shop_images\/EASTER_TRELLIS_TABLECLOTH.jpg",
         "make_logo_white": false,
-        "title": "Molly Mahon new wallpaper design in Strawberry",
+        "title": "Easter Celebration",
         "header_tag": "h2"
       }
     },
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>New Textural Wallpapers<\/p>",
-        "link": "shopify:\/\/collections\/wallpaper",
+        "title": "<p>Easter Celebration - Bring in the Spring Greens<\/p>",
+        "link": "",
         "bg_pattern": "pattern_01",
-        "color_scheme": "red_text"
+        "color_scheme": "blue_text"
       }
     },
     "16444081478c63d66f": {
@@ -57,20 +57,20 @@
         "1644408147b3e95bc5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Mother's Day Gifting"
+            "heading": "Molly talks Tablescapes"
           }
         },
         "1644408147b3e95bc5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We have selected a few colourful ideas for Mother day gifts.<\/p>"
+            "text": "<p>One of my favourite things to do if I’m hosting a lunch or supper party is to rummage through my collection of tablecloths.<\/p>"
           }
         },
         "1644408147b3e95bc5-2": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Gift Ideas",
-            "button_link": "shopify:\/\/collections\/mothers-day-gifts"
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/blogs\/journal\/dress-to-impress"
           }
         }
       },
@@ -80,7 +80,7 @@
         "1644408147b3e95bc5-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOTHERSDAYMAR22.jpg",
+        "image": "shopify:\/\/shop_images\/TABLESCAPE_MOLLY_S_WAY_1.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -175,20 +175,20 @@
         "1634819659f7be73c6-0": {
           "type": "heading",
           "settings": {
-            "heading": "Launching very soon"
+            "heading": "Mother's Day"
           }
         },
         "1634819659f7be73c6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Molly's new rug design.  Luxury under foot, bathed in her beautiful fresh colours and pattern.<\/p><p><\/p>"
+            "text": "<p>We have selected a few colourful ideas for Mother day gifts.<\/p><p><\/p>"
           }
         },
         "1634819659f7be73c6-2": {
           "type": "button",
           "settings": {
-            "button_label": "Launch date",
-            "button_link": "shopify:\/\/collections\/new-rug"
+            "button_label": "Shop Gift Ideas",
+            "button_link": "shopify:\/\/collections\/mothers-day-gifts"
           }
         }
       },
@@ -198,7 +198,7 @@
         "1634819659f7be73c6-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50_9462433f-6c8e-4884-b866-6c7fa035e7f2.jpg",
+        "image": "shopify:\/\/shop_images\/MOTHERSDAYMAR22.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
@@ -401,7 +401,7 @@
     "1641296300a7b5094c": {
       "type": "featured-collection",
       "settings": {
-        "title": "Start block printing here...",
+        "title": "Get Creative this Easter...",
         "collection": "supply-store",
         "products_to_show": 10,
         "show_view_all": true,

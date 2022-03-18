@@ -40,7 +40,7 @@
           "663b58be-d5a6-41a4-94f2-df9bb2435b16": {
             "type": "menu_images",
             "settings": {
-              "image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50.jpg",
+              "image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_LIFE.jpg",
               "title": "",
               "subtitle": "",
               "link": "",
@@ -59,13 +59,12 @@
           },
           "a911026b-a355-4e85-b902-387149596068": {
             "type": "menu_images",
-            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/SSCUTTOOL_1200x_5dffddee-f420-49a4-9dfb-46c8831113c3.jpg",
-              "title": "Tools",
-              "subtitle": "Get stuck in",
-              "link": "shopify:\/\/collections\/tools",
-              "menu_item_handle": "printing-stationary"
+              "image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50.jpg",
+              "title": "",
+              "subtitle": "",
+              "link": "",
+              "menu_item_handle": "new"
             }
           },
           "f1478d1d-b69c-4ba9-a5cd-93a80571237b": {

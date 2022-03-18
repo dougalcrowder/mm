@@ -153,17 +153,17 @@
 </sticky-header>
 
 <style>
-
-@media screen and (max-width: 799px) {
-  .header__inline-menu {
-    display: none;
+  
+  @media screen and (max-width: 799px) {
+    .header__inline-menu {
+      display: none;
+    }
+    .header__inline-menu.mob_active {
+      display: block;
+    }
   }
-  .header__inline-menu.mob_active {
-    display: block;
-  }
-}
-
-</style>
+  
+  </style>
 
 <script>
   
@@ -237,6 +237,7 @@
       nav.classList.add("mob_active");
       hamburger.classList.add("is-active");
       nav.classList.add("active");
+      nav.classList.add("mob_active");
       document.body.classList.add("nav-active");
     }
     
