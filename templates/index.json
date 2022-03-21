@@ -5,13 +5,12 @@
       "blocks": {
         "16352843092374a33e-0": {
           "type": "Tooltip",
-          "disabled": true,
           "settings": {
-            "title": "Molly Mahon Cushions",
-            "content": "<p><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop Cushions<\/a><\/p>",
+            "title": "MM Napkins",
+            "content": "<p>Shop Napkins<\/p>",
             "prod": "",
-            "top": 66,
-            "left": 28,
+            "top": 83,
+            "left": 66,
             "top_mob": 68,
             "left_mob": 19
           }
