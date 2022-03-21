@@ -547,13 +547,13 @@ class VariantSelects extends HTMLElement {
   updateMedia() {
     // if (!this.currentVariant) return;
     
-    let theVar = this.currentVariant;
-    if (theVar) {
-      if (!theVar.featured_image) return;
-      var image = theVar.featured_image.src;
-       variantImages(image);
-       // console.log(theVar.featured_image.src);
-    }
+    // let theVar = this.currentVariant;
+    // if (theVar) {
+    //   if (!theVar.featured_image) return;
+    //   var image = theVar.featured_image.src;
+    //    variantImages(image);
+    //    // console.log(theVar.featured_image.src);
+    // }
     
     
 //     if (!this.currentVariant.featured_media) return;

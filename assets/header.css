@@ -1671,13 +1671,18 @@ input::-webkit-search-decoration {
   transform: translateX(0);
 }
 
+.nav-section nav > .flex {
+  border-top: 1px solid rgba(196, 196, 196, 0.25);
+  padding: 24px 0 8px 0;
+}
+
 .nav-section .nav_container {
   padding: 64px 16px;
 }
 
 @media screen and (min-width: 768px) {
   .nav-section .nav_container {
-    padding: 96px 24px 64px;
+    padding: 64px 24px 64px;
   }
 }
 
@@ -1743,11 +1748,6 @@ input::-webkit-search-decoration {
   margin-bottom: 8px;
 }
 
-.nav-section .nav_columns {
-  border-top: 1px solid rgba(196, 196, 196, 0.25);
-  padding: 24px 0 8px 0;
-}
-
 .nav-section .nav_columns .title {
   flex: 1 0 100%;
   font-weight: 700;
@@ -1773,6 +1773,24 @@ input::-webkit-search-decoration {
 
 .nav-section .nav_columns > div ul.nav_col + .nav_col {
   margin-top: 26px;
+}
+
+.nav-section nav > .four_menus.flex {
+  padding-bottom: 18px;
+}
+
+.nav-section nav > .four_menus.flex > a {
+  flex: 1 1 50%;
+  flex-basis: calc(50% - 24px);
+  letter-spacing: -0.03em;
+  font-weight: 600;
+  font-size: 87.5%;
+}
+
+@media screen and (min-width: 768px) {
+  .nav-section nav > .four_menus.flex > a {
+    flex-basis: calc(25% - 24px);
+  }
 }
 
 .navcloser {
