@@ -249,6 +249,19 @@
       "navigation": {
         "type": "navigation",
         "blocks": {
+          "f32f2494-2ae3-4e2a-ab4f-692b5ddbe758": {
+            "type": "four_menus",
+            "settings": {
+              "label1": "New Wallpaper",
+              "link1": "https:\/\/mollymahon.com\/collections\/new-wallpaper",
+              "label2": "New Quilts",
+              "link2": "https:\/\/mollymahon.com\/collections\/new-quilts",
+              "label3": "New Rug",
+              "link3": "https:\/\/mollymahon.com\/collections\/new-rug",
+              "label4": "Mother's Day Gifts",
+              "link4": "https:\/\/mollymahon.com\/collections\/mothers-day-gifts"
+            }
+          },
           "fb9acf94-6e45-4f2c-b9ca-76ba24126143": {
             "type": "two_menus",
             "settings": {
@@ -360,27 +373,14 @@
               "color6b": "",
               "color6-linkb": ""
             }
-          },
-          "f32f2494-2ae3-4e2a-ab4f-692b5ddbe758": {
-            "type": "four_menus",
-            "settings": {
-              "label1": "New Wallpaper",
-              "link1": "https:\/\/mollymahon.com\/collections\/new-wallpaper",
-              "label2": "New Quilts",
-              "link2": "https:\/\/mollymahon.com\/collections\/new-quilts",
-              "label3": "New Rug",
-              "link3": "https:\/\/mollymahon.com\/collections\/new-rug",
-              "label4": "Mother's Day Gifts",
-              "link4": "https:\/\/mollymahon.com\/collections\/mothers-day-gifts"
-            }
           }
         },
         "block_order": [
+          "f32f2494-2ae3-4e2a-ab4f-692b5ddbe758",
           "fb9acf94-6e45-4f2c-b9ca-76ba24126143",
           "0ec4665c-930a-4ec8-b0f6-2c216f0e10c7",
           "45b8cf5e-2b43-43c7-8e2c-e610a15a8bca",
-          "460cf0fd-760a-4ed0-8b76-702ef136127e",
-          "f32f2494-2ae3-4e2a-ab4f-692b5ddbe758"
+          "460cf0fd-760a-4ed0-8b76-702ef136127e"
         ],
         "settings": {
         }
