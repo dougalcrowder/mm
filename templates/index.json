@@ -7,7 +7,7 @@
           "type": "Tooltip",
           "settings": {
             "title": "MM Napkins",
-            "content": "<p>Shop <a href=\"\/collections\/napkins\" title=\"Napkins\">Napkins<\/a><\/p>",
+            "content": "<p><a href=\"\/collections\/napkins\" title=\"Napkins\">Shop Napkins<\/a><\/p>",
             "prod": "",
             "top": 83,
             "left": 66,
