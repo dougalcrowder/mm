@@ -325,12 +325,48 @@
               "col_nav_url": "shopify:\/\/products\/pbohou00",
               "col_nav_text": "Molly's Book - House of Print Pretty in Print"
             }
+          },
+          "460cf0fd-760a-4ed0-8b76-702ef136127e": {
+            "type": "two_menus",
+            "settings": {
+              "title": "Workshops & Courses",
+              "image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
+              "link": "shopify:\/\/pages\/workshops-and-events",
+              "color1": "",
+              "color1-link": "",
+              "color2": "",
+              "color2-link": "",
+              "color3": "",
+              "color3-link": "",
+              "color4": "",
+              "color4-link": "",
+              "color5": "",
+              "color5-link": "",
+              "color6": "",
+              "color6-link": "",
+              "titleb": "MM World",
+              "imageb": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_Kitchen_Dinning.jpg",
+              "linkb": "shopify:\/\/blogs\/journal",
+              "color1b": "",
+              "color1-linkb": "",
+              "color2b": "",
+              "color2-linkb": "",
+              "color3b": "",
+              "color3-linkb": "",
+              "color4b": "",
+              "color4-linkb": "",
+              "color5b": "",
+              "color5-linkb": "",
+              "color6b": "",
+              "color6-linkb": ""
+            }
           }
         },
         "block_order": [
           "fb9acf94-6e45-4f2c-b9ca-76ba24126143",
           "0ec4665c-930a-4ec8-b0f6-2c216f0e10c7",
-          "45b8cf5e-2b43-43c7-8e2c-e610a15a8bca"
+          "45b8cf5e-2b43-43c7-8e2c-e610a15a8bca",
+          "460cf0fd-760a-4ed0-8b76-702ef136127e"
         ],
         "settings": {
         }
