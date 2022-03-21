@@ -19,7 +19,7 @@
           "type": "Tooltip",
           "settings": {
             "title": "Trellis Table Cloth",
-            "content": "<p>Table Cloths<\/p>",
+            "content": "<p><a href=\"\/collections\/table-linen\" title=\"Table Linen\">Table Cloths<\/a><\/p>",
             "prod": "",
             "top": 77,
             "left": 5,
