@@ -1,5 +1,29 @@
 {% case block.type %}
-         
+
+{% when 'four_menus' %}
+<div class="four_menus flex" {{ block.shopify_attributes }}>
+  {% if block.settings.link1 != blank %} 
+    <a class="link1" href="{{ block.settings.link1}}">
+      {{ block.settings.label1}}
+    </a>
+  {%- endif -%}
+  {% if block.settings.link2 != blank %} 
+    <a class="link1" href="{{ block.settings.link2}}">
+      {{ block.settings.label2}}
+    </a>
+  {%- endif -%}
+  {% if block.settings.link3 != blank %} 
+    <a class="link1" href="{{ block.settings.link3}}">
+      {{ block.settings.label3}}
+    </a>
+  {%- endif -%}
+  {% if block.settings.link4 != blank %} 
+    <a class="link1" href="{{ block.settings.link4}}">
+      {{ block.settings.label4}}
+    </a>
+  {%- endif -%}
+</div>
+  
 {% when 'two_menus' %}
 <div class="hero_menus flex">
 <div class="hero1" {{ block.shopify_attributes }}>
