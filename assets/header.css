@@ -1455,12 +1455,18 @@ img {
 
 .navnudge {
   position: absolute;
-  left: 48px;
+  left: 56px;
   top: 2px;
   color: white;
   z-index: 5;
   height: 56px;
   min-width: 60px;
+}
+
+@media screen and (min-width: 800px) {
+  .navnudge {
+    left: 64px;
+  }
 }
 
 .navnudge .icon {
@@ -1478,6 +1484,7 @@ img {
   margin: 0;
   bottom: 24px;
   left: 16px;
+  font-size: 12px;
 }
 
 .ding .navnudge {
@@ -1486,23 +1493,23 @@ img {
 }
 
 .ding .navnudge .icon .first {
-  -webkit-animation: jump-in-1 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 3 both;
-          animation: jump-in-1 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 3 both;
+  -webkit-animation: jump-in-1 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 2 both;
+          animation: jump-in-1 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 2 both;
 }
 
 .ding .navnudge .icon .second {
-  -webkit-animation: jump-in-2 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 3 both;
-          animation: jump-in-2 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 3 both;
+  -webkit-animation: jump-in-2 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 2 both;
+          animation: jump-in-2 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 2 both;
 }
 
 .ding .navnudge .icon .third {
-  -webkit-animation: jump-in-3 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 3 both;
-          animation: jump-in-3 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 3 both;
+  -webkit-animation: jump-in-3 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 2 both;
+          animation: jump-in-3 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 2 both;
 }
 
 .ding .navnudge .icon .fourth {
-  -webkit-animation: jump-in-4 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 3 both;
-          animation: jump-in-4 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 3 both;
+  -webkit-animation: jump-in-4 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 2 both;
+          animation: jump-in-4 4s cubic-bezier(0.39, 0.575, 0.565, 1) 3s 2 both;
 }
 
 /* section-announcement-bar */
