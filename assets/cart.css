@@ -399,6 +399,16 @@ cart-items {
   display: flex;
 }
 
+.cart-item__quantity .quantity {
+  gap: 0;
+  align-content: center;
+}
+
+.cart-item__quantity .quantity button {
+  flex: 0 1 32px;
+  height: 32px;
+}
+
 @media screen and (max-width: 1023px) {
   .cart-item__quantity {
     grid-column: 3/span 1;

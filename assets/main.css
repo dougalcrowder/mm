@@ -1697,7 +1697,7 @@ fieldset {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: stretch;
   align-content: flex-start;
   gap: 12px;
@@ -1726,9 +1726,6 @@ fieldset {
   align-items: center;
   align-content: center;
   gap: 8px;
-  padding: 4px 4px 4px 0;
-  margin-right: 8px;
-  border-radius: 6px;
   transition: var(--transition);
 }
 
@@ -1744,8 +1741,8 @@ fieldset {
 
 @media screen and (min-width: 600px) {
   .predictivesearchresults .searchProducts a {
-    flex-basis: calc(50% - 48px);
-    max-width: calc(50% - 48px);
+    flex-basis: calc(50% - 24px);
+    max-width: calc(50% - 24px);
   }
 }
 
