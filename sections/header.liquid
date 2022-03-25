@@ -65,6 +65,12 @@
       </a>
     </div>
     </div>
+    {% if section.settings.menu_message != blank %}
+    <div class="navnudge" id="navNudge">
+      <p>{{ section.settings.menu_message }}</p>
+      {% include 'icon-arrow_curve' %}
+    </div>
+    {% endif %}
   </header>
 </sticky-header>
 
@@ -127,8 +133,8 @@
   {
     "type": "text",
     "id": "menu_message",
-    "default": "FREE UK DELIVERY WHEN YOU SPEND £50 OR MORE",
-    "label": "Menu area message"
+    "default": "Shop here",
+    "label": "Open menu nudge"
   }
 ],
 "blocks": [{
