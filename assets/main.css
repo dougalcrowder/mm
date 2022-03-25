@@ -1629,18 +1629,6 @@ fieldset {
   }
 }
 
-@media screen and (max-width: 600px) {
-  .predictivesearchresults {
-    height: calc(100vh - 128px);
-  }
-}
-
-@media screen and (max-width: 414px) {
-  .predictivesearchresults {
-    height: calc(100vh - 200px);
-  }
-}
-
 @media screen and (min-width: 600px) {
   .predictivesearchresults {
     top: 56px;
