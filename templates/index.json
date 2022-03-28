@@ -5,34 +5,45 @@
       "blocks": {
         "16352843092374a33e-0": {
           "type": "Tooltip",
-          "disabled": true,
           "settings": {
-            "title": "Molly Mahon Cushions",
-            "content": "<p><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop Cushions<\/a><\/p>",
+            "title": "MM Napkins",
+            "content": "<p><a href=\"\/collections\/napkins\" title=\"Napkins\">Shop Napkins<\/a><\/p>",
             "prod": "",
-            "top": 66,
-            "left": 28,
-            "top_mob": 68,
-            "left_mob": 19
+            "top": 83,
+            "left": 66,
+            "top_mob": 87,
+            "left_mob": 83
           }
         },
         "148881e0-9bcf-4a7c-b669-ce41df894331": {
           "type": "Tooltip",
-          "disabled": true,
           "settings": {
-            "title": "Dianthus Indigo Iron",
-            "content": "<p><a href=\"\/products\/fdscot51\" title=\"Dianthus - Cotton - Indigo & Iron\">Shop Fabric<\/a><\/p>",
-            "prod": "coral-green-wallpaper",
-            "top": 32,
-            "left": 52,
-            "top_mob": 42,
-            "left_mob": 47
+            "title": "Trellis Table Cloth",
+            "content": "<p><a href=\"\/collections\/table-linen\" title=\"Table Linen\">Table Cloths<\/a><\/p>",
+            "prod": "",
+            "top": 77,
+            "left": 5,
+            "top_mob": 88,
+            "left_mob": 15
+          }
+        },
+        "bb2df09c-2b61-4470-8802-1487e557bf16": {
+          "type": "Tooltip",
+          "settings": {
+            "title": "Print your Own",
+            "content": "<p>Block print your own place cards<\/p>",
+            "prod": "ecbecb01",
+            "top": 71,
+            "left": 24,
+            "top_mob": 76,
+            "left_mob": 84
           }
         }
       },
       "block_order": [
         "16352843092374a33e-0",
-        "148881e0-9bcf-4a7c-b669-ce41df894331"
+        "148881e0-9bcf-4a7c-b669-ce41df894331",
+        "bb2df09c-2b61-4470-8802-1487e557bf16"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/EASTER_TRELLIS_TABLECLOTH.jpg",

@@ -209,8 +209,8 @@
         "type": "mailchimp",
         "settings": {
           "chimp_url": "https:\/\/mollymahon.us10.list-manage.com\/subscribe\/post?u=97f9cc90b67785f171c4e5e7a&amp;id=03514ce382",
-          "section_title": "Subscribe to our newsletter",
-          "subheading": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+          "section_title": "COLOURFUL INSPIRATION GUARANTEED!",
+          "subheading": "<p>Receive Molly's monthly PRINTSPIRATION and join our world of BLOCK PRINTING.<\/p>",
           "show_name": false,
           "disable": false
         }
@@ -221,13 +221,13 @@
           "072e5e73-8808-4c6b-87d3-40137b8ad999": {
             "type": "heading",
             "settings": {
-              "heading": "Sign up for regular updates and exclusive offers."
+              "heading": "COLOURFUL MAILERS GUARANTEED!"
             }
           },
           "502d7e48-b4ed-4861-8f30-60a5f24bf26c": {
             "type": "paragraph",
             "settings": {
-              "text": "<p>We have a full and exciting year ahead of us and we look forward to welcoming you. <\/p>"
+              "text": "<p>Receive Molly's monthly PRINTSPIRATION and join our world of BLOCK PRINTING.<\/p>"
             }
           },
           "bd9030af-38b0-4569-857c-144a38231309": {
