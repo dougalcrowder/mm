@@ -1,5 +1,10 @@
 {
   "sections": {
+    "164856462607a6a14a": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -7,6 +12,7 @@
     }
   },
   "order": [
+    "164856462607a6a14a",
     "main"
   ]
 }
