@@ -91,10 +91,6 @@ html.is-animating .transition-fade {
   transform: scale(104%);
 }
 
-.image_banner + .blog_grid {
-  margin-top: 40px;
-}
-
 .image_banner.visually-hidden + .text {
   margin-top: 200px;
 }
