@@ -357,7 +357,7 @@
               "color5-link": "",
               "color6": "",
               "color6-link": "",
-              "titleb": "MM World",
+              "titleb": "Journal",
               "imageb": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_Kitchen_Dinning.jpg",
               "linkb": "shopify:\/\/blogs\/journal",
               "color1b": "",
@@ -373,6 +373,22 @@
               "color6b": "",
               "color6-linkb": ""
             }
+          },
+          "15b6216d-35a5-4aa6-b3eb-88af24ae9c10": {
+            "type": "nav_columns",
+            "settings": {
+              "title": "MM World",
+              "col_nav_1a": "footer",
+              "col_nav_1b": "",
+              "col_nav_2a": "",
+              "col_nav_2b": "",
+              "col_nav_3a": "",
+              "col_nav_3b": "",
+              "col_nav_4a": "",
+              "col_nav_4b": "",
+              "col_nav_url": "",
+              "col_nav_text": ""
+            }
           }
         },
         "block_order": [
@@ -380,7 +396,8 @@
           "fb9acf94-6e45-4f2c-b9ca-76ba24126143",
           "0ec4665c-930a-4ec8-b0f6-2c216f0e10c7",
           "45b8cf5e-2b43-43c7-8e2c-e610a15a8bca",
-          "460cf0fd-760a-4ed0-8b76-702ef136127e"
+          "460cf0fd-760a-4ed0-8b76-702ef136127e",
+          "15b6216d-35a5-4aa6-b3eb-88af24ae9c10"
         ],
         "settings": {
         }
