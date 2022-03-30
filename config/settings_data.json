@@ -380,15 +380,16 @@
             "settings": {
               "title": "MM World",
               "col_nav_1a": "nav-about",
-              "col_nav_1b": "",
-              "col_nav_2a": "nav-block-printing",
+              "col_nav_1b": "nav-block-printing",
+              "col_nav_2a": "nav-journal",
               "col_nav_2b": "",
-              "col_nav_3a": "nav-journal",
+              "col_nav_3a": "",
               "col_nav_3b": "",
               "col_nav_4a": "",
               "col_nav_4b": "",
-              "col_nav_url": "",
-              "col_nav_text": ""
+              "col_nav_image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
+              "col_nav_url": "shopify:\/\/pages\/workshops-and-events",
+              "col_nav_text": "Workshops"
             }
           }
         },
