@@ -51,12 +51,12 @@
             "width": "half",
             "title": "",
             "subtitle": "In this vibrant online course, Molly explores the fundamentals of block printing, revealing her sources of inspiration and creative process so you can be empowered to start your own block printing projects at home.",
-            "text": "",
+            "text": "<p>Printmaker Molly Mahon is fast becoming the ‘go to’<br\/>designer for beautifully printed fabrics. In this vibrant<br\/>course, Molly explores the fundamentals of block<br\/>printing, revealing her sources of inspiration and<br\/>creative process so you can be empowered to start your<br\/>own block printing projects at home. Watch 19 video<br\/>lessons where Molly teaches you step-by-step how to<br\/>create designs that can be applied to a range of<br\/>homeware including cushions, wallpaper, lampshades,<br\/>napkins and tablecloths. Discover how nature and India<br\/>have influenced her work and walk through Molly’s<br\/>cottage to learn how she applies colour, print and<br\/>pattern in her own space.<\/p>",
             "button_color": "red",
             "color_scheme": "red_text",
-            "desktop_text_box_position": "center",
+            "desktop_text_box_position": "start",
             "text_align": "left",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -64,15 +64,16 @@
           "type": "column",
           "settings": {
             "width": "half",
+            "image": "shopify:\/\/shop_images\/mm_vid.jpg",
             "title": "",
             "subtitle": "",
-            "text": "",
+            "text": "<p><br\/><\/p>",
             "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
+            "color_scheme": "red_text",
+            "desktop_text_box_position": "end",
             "text_align": "center",
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "View Course on Create Academy",
+            "button_link": "https:\/\/www.createacademy.com\/courses\/molly-mahon"
           }
         }
       },
