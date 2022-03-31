@@ -8,16 +8,36 @@
     },
     "1635762856d778e20f": {
       "type": "video",
+      "blocks": {
+        "6dea989d-ac99-4af7-a480-8fb3cc277b18": {
+          "type": "heading",
+          "settings": {
+            "heading": "Learn the secrets with Molly’s Online Course!",
+            "heading_type": "header2"
+          }
+        },
+        "2df2d744-a16f-4b1a-8682-18565316dba6": {
+          "type": "text",
+          "settings": {
+            "text": "The Art of Block Printing with Molly Mahon",
+            "go_serif": true
+          }
+        }
+      },
+      "block_order": [
+        "6dea989d-ac99-4af7-a480-8fb3cc277b18",
+        "2df2d744-a16f-4b1a-8682-18565316dba6"
+      ],
       "settings": {
         "logo_white": true,
-        "autoplay": false,
+        "autoplay": true,
         "autoloop": true,
-        "mute_video": false,
+        "mute_video": true,
         "show_controls": true,
-        "html5_video": "",
+        "html5_video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/mm_conv_01.mp4?v=1633608512",
         "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
+        "desktop_text_box_position_horizontal": "start",
+        "text_align": "left",
         "text_box_max_width": "800",
         "color_scheme": "white_text"
       }
