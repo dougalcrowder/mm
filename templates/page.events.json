@@ -74,6 +74,22 @@
             "event_buy_btn": ""
           }
         },
+        "739546b9-6ea3-463f-8b73-9e613947c2d8": {
+          "type": "event",
+          "settings": {
+            "event_title": "Molly Mahon coming to Kings Road, London",
+            "event_intro": "To celebrate London Craft Week 2022, Anthropologie is delighted to announce their partnership with British Textile Designer, Molly Mahon.\n‘The Modern Block Printer’ Molly will be taking over the King’s Road Gallery from the 5th to the 15th of May. Celebrating her fascination in block printing and her love for Rajasthan, the gallery will feature an eclectic mix of block-printed designs. From homewares to fabric and wallpapers, she’ll create a world of colour and pattern, available to shop.",
+            "event_description": "<p>To celebrate the new artist in residence, on Thursday 12th May at Anthropologie King’s Road, journalist Cosmo Brockway will be in conversation with Molly Mahon. Joining her on the panel will be co-founder of fashion retailer East, Penny Oliver and British fashion<br\/>designer Lucinda Chambers as they discuss the art and history of block printing and how it’s used in the 21st Century.<br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/MM_INVITE_1.jpg",
+            "event_date": "Talk event on Thursday 12th May, 2022",
+            "event_extras": "Molly's Shop will be open from 5th to the 15th of May.  Monday - Saturday 10am - 7pm and Sunday 12pm - 6pm",
+            "event_price": "",
+            "event_button_text": "Google Map",
+            "event_button_text_2": "131-141 King's Road, London, SW3 4PW",
+            "event_external_link": "https:\/\/goo.gl\/maps\/ca4Z1tUtk5zSxWH88",
+            "event_buy_btn": ""
+          }
+        },
         "86e614b8-e8c2-491e-832a-3e23d40baa3f": {
           "type": "event",
           "settings": {
@@ -106,22 +122,6 @@
             "event_buy_btn": ""
           }
         },
-        "739546b9-6ea3-463f-8b73-9e613947c2d8": {
-          "type": "event",
-          "settings": {
-            "event_title": "Molly Mahon coming to Kings Road, London",
-            "event_intro": "To celebrate London Craft Week 2022, Anthropologie is delighted to announce their partnership with British Textile Designer, Molly Mahon.\n‘The Modern Block Printer’ Molly will be taking over the King’s Road Gallery from the 5th to the 15th of May. Celebrating her fascination in block printing and her love for Rajasthan, the gallery will feature an eclectic mix of block-printed designs. From homewares to fabric and wallpapers, she’ll create a world of colour and pattern, available to shop.",
-            "event_description": "<p>To celebrate the new artist in residence, on Thursday 12th May at Anthropologie King’s Road, journalist Cosmo Brockway will be in conversation with Molly Mahon. Joining her on the panel will be co-founder of fashion retailer East, Penny Oliver and British fashion<br\/>designer Lucinda Chambers as they discuss the art and history of block printing and how it’s used in the 21st Century.<br\/><\/p>",
-            "image": "shopify:\/\/shop_images\/MM_INVITE_1.jpg",
-            "event_date": "Talk event on Thursday 12th May, 2022",
-            "event_extras": "Molly's Shop will be open from 5th to the 15th of May.  Monday - Saturday 10am - 7pm and Sunday 12pm - 6pm",
-            "event_price": "",
-            "event_button_text": "Google Map",
-            "event_button_text_2": "131-141 King's Road, London, SW3 4PW",
-            "event_external_link": "https:\/\/goo.gl\/maps\/ca4Z1tUtk5zSxWH88",
-            "event_buy_btn": ""
-          }
-        },
         "519cccd8-5c39-4a42-9387-5286d373629a": {
           "type": "event",
           "settings": {
@@ -140,7 +140,6 @@
         },
         "384caa00-334f-4ab3-a93d-275d2d0fd2fb": {
           "type": "event",
-          "disabled": true,
           "settings": {
             "event_title": "Block Printing Cushion Workshop at Charleston, Firle",
             "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own cushion cover",
@@ -158,9 +157,9 @@
       },
       "block_order": [
         "16352620842faf27c4-0",
+        "739546b9-6ea3-463f-8b73-9e613947c2d8",
         "86e614b8-e8c2-491e-832a-3e23d40baa3f",
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
-        "739546b9-6ea3-463f-8b73-9e613947c2d8",
         "519cccd8-5c39-4a42-9387-5286d373629a",
         "384caa00-334f-4ab3-a93d-275d2d0fd2fb"
       ],
