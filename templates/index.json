@@ -18,11 +18,11 @@
         "148881e0-9bcf-4a7c-b669-ce41df894331": {
           "type": "Tooltip",
           "settings": {
-            "title": "Trellis Table Cloth",
-            "content": "<p><a href=\"\/collections\/table-linen\" title=\"Table Linen\">Table Cloths<\/a><\/p>",
+            "title": "Fabric",
+            "content": "<p><a href=\"\/collections\/fabric\" title=\"Fabric\">Tulip - Oyster - Rose Copper<\/a><\/p>",
             "prod": "",
-            "top": 77,
-            "left": 5,
+            "top": 21,
+            "left": 6,
             "top_mob": 88,
             "left_mob": 15
           }
