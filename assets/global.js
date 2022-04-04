@@ -547,13 +547,13 @@ class VariantSelects extends HTMLElement {
   updateMedia() {
     // if (!this.currentVariant) return;
     
-    let theVar = this.currentVariant;
-    if (theVar) {
-      if (!theVar.featured_image) return;
-      var image = theVar.featured_image.src;
-       variantImages(image);
-       // console.log(theVar.featured_image.src);
-    }
+    // let theVar = this.currentVariant;
+    // if (theVar) {
+    //   if (!theVar.featured_image) return;
+    //   var image = theVar.featured_image.src;
+    //    variantImages(image);
+    //    // console.log(theVar.featured_image.src);
+    // }
     
     
 //     if (!this.currentVariant.featured_media) return;
@@ -568,10 +568,10 @@ class VariantSelects extends HTMLElement {
 //     if (parent.firstChild == newMedia) return;
 //     modalContent.prepend(newMediaModal);
 //     parent.prepend(newMedia);
-//     this.stickyHeader = this.stickyHeader || document.querySelector('sticky-header');
-//     if(this.stickyHeader) {
-//       this.stickyHeader.dispatchEvent(new Event('preventHeaderReveal'));
-//     }
+    this.stickyHeader = this.stickyHeader || document.querySelector('sticky-header');
+    if(this.stickyHeader) {
+      this.stickyHeader.dispatchEvent(new Event('preventHeaderReveal'));
+    }
 //     window.setTimeout(() => { parent.querySelector('li.product__media-item').scrollIntoView({behavior: "smooth"}); });
   }
 

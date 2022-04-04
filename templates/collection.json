@@ -3,10 +3,7 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "subtitle": "",
-        "show_collection_description": true,
-        "make_logo_white": true,
-        "show_collection_image": true
+        "subtitle": ""
       }
     },
     "product-grid": {
@@ -15,8 +12,8 @@
         "products_per_page": 48,
         "show_rating": false,
         "enable_filtering": true,
-        "enable_sorting": true,
-        "collapse_on_larger_devices": true
+        "enable_sorting": false,
+        "collapse_on_larger_devices": false
       }
     }
   },

@@ -1,0 +1,60 @@
+<!-- Share -->
+<div class="share">
+  <share-button class="share-button" {{ section.shopify_attributes }}>
+    <button class="share-button__button hidden">
+      {% render 'icon-share' %}
+      {{ section.settings.share_label | escape }}
+    </button>
+    <details>
+      <summary class="share-button__button">
+        {% render 'icon-share' %}
+        {{ section.settings.share_label | escape }}
+      </summary>
+      <div id="Product-share-{{ section.id }}" class="share-button__fallback motion-reduce">
+        <div class="social_services">
+        {% include  'share-icons' %}
+        </div>
+        <div class="flex">
+          <div class="field">
+            <span id="ShareMessage-{{ section.id }}" class="share-button__message hidden" role="status">
+            </span>
+            <label class="visually-hidden" for="url">{{ 'general.share.share_url' | t }}</label>
+            <input type="text"
+                  class="field__input"
+                  id="url"
+                  value="{{ shop.url | append: product.url }}"
+                  placeholder="{{ 'general.share.share_url' | t }}"
+                  onclick="this.select();"
+                  readonly
+            >
+          </div>
+          <button class="share-button__close hidden no-js-hidden">
+            {% render 'icon-close' %}
+            <span class="visually-hidden">{{ 'general.share.close' | t }}</span>
+          </button>
+          <button class="share-button__copy no-js-hidden">
+            {% render 'icon-clipboard' %}
+            <span class="visually-hidden">{{ 'general.share.copy_to_clipboard' | t }}</span>
+          </button>
+        </div>
+      </div>
+    </details>
+  </share-button>
+  <script src="{{ 'share.js' | asset_url }}" defer="defer"></script>
+</div>
+
+{% schema %}
+{
+  "name": "sticky share",
+  "tag": "section",
+  "class": "product-section sticky-section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "share_label",
+      "label": "Share Label",
+      "default": "Share"
+    }
+  ]
+}
+{% endschema %}

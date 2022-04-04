@@ -77,12 +77,9 @@
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
 
-  {% render 'shogun-head' %}
-<!-- GSSTART Coming Soon code start. Do not change -->
+  <!-- GSSTART Coming Soon code start. Do not change -->
 <script type="text/javascript"> gsProductByVariant = {}; {% if product.id > 1 %}{% for variant in product.variants %} gsProductByVariant[{{variant.id}}] = {% if variant.available %} 1 {% else %} 0 {% endif %}; {% endfor %}{% endif %}  gsProductCSID = "{{ product.id }}"; gsDefaultV = "{{ product.selected_or_first_available_variant.id }}"; </script><script  type="text/javascript" src="https://gravity-software.com/js/shopify/pac_shop21723.js?v=074865b46e0ef10d464ac55ca8ec5399"></script>
-<!-- Coming Soon code end. Do not change GSEND --></head>
-
-  <body class="template-{{ request.page_type | handle }} template-{{ template | handleize }} gradient">
+<!-- Coming Soon code end. Do not change GSEND --></head><body class="template-{{ request.page_type | handle }} template-{{ template | handleize }} gradient">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFT5HLQ"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -94,10 +91,45 @@
     {% section 'announcement-bar' %}
     {% endcomment %}
     {% section 'header' %}
-    {% include 'logo-banner' %}
+    {% section 'navigation' %}
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
+    
+    <button class="nude hamburger hamburger--spring" type="button">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+    <button id="navCloser" class="nude navcloser" aria-label="Close Menu"></button>
+    
+    {% include 'search' %}
+    
+    <script>
+      
+      const navCloser = document.getElementById("navCloser");      
+      const hamburger = document.querySelector(".hamburger");
+      const nav = document.querySelector(".nav-section");
+      
+      hamburger.addEventListener("click", function() {
+        if (nav.classList.contains("active")) {
+          hamburger.classList.remove("is-active");
+          nav.classList.remove("active");
+          document.body.classList.remove("nav-active");
+        } else {
+          hamburger.classList.add("is-active");
+          nav.classList.add("active");
+          document.body.classList.add("nav-active");
+        }
+      });
+      
+      navCloser.addEventListener('click', function (){
+        hamburger.classList.remove("is-active");
+        nav.classList.remove("active");
+        document.body.classList.remove("nav-active");
+      });
+    </script>
+    
     {%- assign mailchimpJs = false -%}
     {% comment %}
     {% section 'newsletter' %}
@@ -176,7 +208,6 @@
       window.accessibilityStrings = {
         shareSuccess: `{{ 'general.share.success_message' | t }}`,
       }
-    </script>
-
+      </script>
   </body>
 </html>

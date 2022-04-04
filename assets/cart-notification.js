@@ -12,7 +12,7 @@ class CartNotification extends HTMLElement {
     );
   }
 
-  open() {
+  open() { 
     this.notification.classList.add('animate', 'active');
 
     this.notification.addEventListener('transitionend', () => {
@@ -38,7 +38,7 @@ class CartNotification extends HTMLElement {
           this.getSectionInnerHTML(parsedState.sections[section.id], section.selector);
       }));
 
-      if (this.header) this.header.reveal();
+      // if (this.header) this.header.reveal();
       this.open();
   }
 

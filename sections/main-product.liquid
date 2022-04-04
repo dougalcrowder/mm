@@ -6,46 +6,122 @@
 {%- assign variants_option2_arr = product.variants | map: 'option2' -%}
 {%- assign variants_option3_arr = product.variants | map: 'option3' -%}
 
-<section class="inner">
+<section class="outer">
   <div class="product grid product_page">
-    <div class="product-image">
-      <div class="glide">
-      <div class="slides-holder" data-glide-el="track">
-          <ul id="productImages" class="carousel productImages glide__slides">
-            {%- for image in product.images -%}
-            <li class="glide__slide">
-                  <picture class="productShots">
-                      <source srcset="{{ image | img_url: '734x734', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '734x734', crop: 'center' }}" media="(min-width: 1440px)" />
-                      <source srcset="{{ image | img_url: '734x734', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '734x734', crop: 'center' }}" media="(min-width: 1200px)" />
-                      <source srcset="{{ image | img_url: '734x734', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '734x734', crop: 'center' }}" media="(min-width: 1024px)" />
-                      <source srcset="{{ image | img_url: '651x651', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '651x651', crop: 'center' }}" media="(min-width: 769px)" />
-                      <source srcset="{{ image | img_url: '735x735', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '735x735', crop: 'center' }}" media="(min-width: 660px)" />
-                      <source srcset="{{ image | img_url: '644x644', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '644x644', crop: 'center' }}" media="(min-width: 550px)" />
-                      <source srcset="{{ image | img_url: '534x534', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '534x534', crop: 'center' }}" media="(min-width: 450px)" />
-                      <source srcset="{{ image | img_url: '434x434', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '644x644', crop: 'center' }}" media="(min-width: 344px)" />
-                      <source srcset="{{ image | img_url: '328x328', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '328x328', crop: 'center' }}" media="(min-width: 320px)" />
-                    <img class="prod-shot"{% if forloop.index > 1 %} loading="lazy"{% endif %} src="{{ image | img_url: '304x304', crop: 'center' }}" alt="{{ image.alt | escape }}" width="304" height="304" />
-                  </picture>
-            </li>
-            {%- endfor -%}
-          </ul>
-        </div>
-        {% if product.images.size > 1 %}
-        <div class="glide__bullets flex" data-glide-el="controls[nav]">
-          {%- for image in product.images -%}
-          <div class="glide__bullet" data-glide-dir="={{ forloop.index0 }}" data-img="https:{{ image | img_url: 'master' }}">
-            <picture class="productthumbs">
-              <source srcset="{{ image | img_url: '120x120', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '120x120', crop: 'center' }}" media="(min-width: 768px)" />
-                <source srcset="{{ image | img_url: '100x100', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '100x100', crop: 'center' }}" media="(min-width: 475px)" />
-              <img class="prod-thumb" src="{{ image | img_url: '64x64', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '64x64', crop: 'center' }}" alt="{{ image.alt | escape }}" width="50" height="50" />
-            </picture>
-          </div>
-          {%- endfor -%}
-        </div>
-        {% endif %}
+    <div class="prod_image_container">
+    <div class="product-image grid length-{{ product.images.size }}">
+      {% if product.images.size == 1 %}
+      <div class="landscape single i-{{ forloop.index }}">
+        <picture class="productShots">
+          {% assign image = product.featured_image %}
+          <source srcset="{{ image | img_url: '734x', scale: 2 }} 2x, {{ image | img_url: '734x' }}" media="(min-width: 1440px)" />
+          <source srcset="{{ image | img_url: '734x', scale: 2 }} 2x, {{ image | img_url: '734x' }}" media="(min-width: 1200px)" />
+          <source srcset="{{ image | img_url: '734x', scale: 2 }} 2x, {{ image | img_url: '734x' }}" media="(min-width: 1024px)" />
+          <source srcset="{{ image | img_url: '651x', scale: 2 }} 2x, {{ image | img_url: '651x' }}" media="(min-width: 769px)" />
+          <source srcset="{{ image | img_url: '735x', scale: 2 }} 2x, {{ image | img_url: '735x' }}" media="(min-width: 660px)" />
+          <source srcset="{{ image | img_url: '644x', scale: 2 }} 2x, {{ image | img_url: '644x' }}" media="(min-width: 550px)" />
+          <source srcset="{{ image | img_url: '534x', scale: 2 }} 2x, {{ image | img_url: '534x' }}" media="(min-width: 450px)" />
+          <source srcset="{{ image | img_url: '434x', scale: 2 }} 2x, {{ image | img_url: '644x' }}" media="(min-width: 344px)" />
+          <source srcset="{{ image | img_url: '328x', scale: 2 }} 2x, {{ image | img_url: '328x' }}" media="(min-width: 320px)" />
+          <img class="prod-shot"{% if forloop.index > 1 %} loading="lazy"{% endif %} src="{{ image | img_url: '304x', crop: 'center' }}" alt="{{ image.alt | escape }}" width="{{image.width}}" height="{{image.height}}" />
+        </picture>
       </div>
+      {%- else -%}
+        {%- for image in product.images -%}
+        {%- if image.aspect_ratio == 1.0 -%}
+        <div class="square i-{{ forloop.index }}" data-dot="doti-{{ forloop.index }}">
+          <picture class="productShots">
+            <source srcset="{{ image | img_url: '734x', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '734x', crop: 'center' }}" media="(min-width: 1680px)" />
+            <source srcset="{{ image | img_url: '734x', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '734x', crop: 'center' }}" media="(min-width: 1440px)" />
+            <source srcset="{{ image | img_url: '734x', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '734x', crop: 'center' }}" media="(min-width: 1200px)" />
+            <source srcset="{{ image | img_url: '734x', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '734x', crop: 'center' }}" media="(min-width: 1024px)" />
+            <source srcset="{{ image | img_url: '651x', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '651x', crop: 'center' }}" media="(min-width: 769px)" />
+            <source srcset="{{ image | img_url: '735x', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '735x', crop: 'center' }}" media="(min-width: 660px)" />
+            <source srcset="{{ image | img_url: '644x', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '644x', crop: 'center' }}" media="(min-width: 550px)" />
+            <source srcset="{{ image | img_url: '534x', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '534x', crop: 'center' }}" media="(min-width: 450px)" />
+            <source srcset="{{ image | img_url: '434x', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '644x', crop: 'center' }}" media="(min-width: 344px)" />
+            <source srcset="{{ image | img_url: '328x', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '328x', crop: 'center' }}" media="(min-width: 320px)" />
+            <img class="prod-shot"{% if forloop.index > 1 %} loading="lazy"{% endif %} src="{{ image | img_url: '304x', crop: 'center' }}" alt="{{ image.alt | escape }}" width="{{image.width}}" height="{{image.height}}" />
+          </picture>
+        </div>
+        {%- else -%}
+        <div class="landscape i-{{ forloop.index }}" data-dot="doti-{{ forloop.index }}">
+          <picture class="productShots">
+            <source srcset="{{ image | img_url: '734x', scale: 2 }} 2x, {{ image | img_url: '734x' }}" media="(min-width: 1440px)" />
+            <source srcset="{{ image | img_url: '734x', scale: 2 }} 2x, {{ image | img_url: '734x' }}" media="(min-width: 1200px)" />
+            <source srcset="{{ image | img_url: '734x', scale: 2 }} 2x, {{ image | img_url: '734x' }}" media="(min-width: 1024px)" />
+            <source srcset="{{ image | img_url: '651x', scale: 2 }} 2x, {{ image | img_url: '651x' }}" media="(min-width: 769px)" />
+            <source srcset="{{ image | img_url: '735x', scale: 2 }} 2x, {{ image | img_url: '735x' }}" media="(min-width: 660px)" />
+            <source srcset="{{ image | img_url: '644x', scale: 2 }} 2x, {{ image | img_url: '644x' }}" media="(min-width: 550px)" />
+            <source srcset="{{ image | img_url: '534x', scale: 2 }} 2x, {{ image | img_url: '534x' }}" media="(min-width: 450px)" />
+            <source srcset="{{ image | img_url: '434x', scale: 2 }} 2x, {{ image | img_url: '644x' }}" media="(min-width: 344px)" />
+            <source srcset="{{ image | img_url: '328x', scale: 2 }} 2x, {{ image | img_url: '328x' }}" media="(min-width: 320px)" />
+            <img class="prod-shot"{% if forloop.index > 1 %} loading="lazy"{% endif %} src="{{ image | img_url: '304x', crop: 'center' }}" alt="{{ image.alt | escape }}" width="{{image.width}}" height="{{image.height}}" />
+          </picture>
+        </div>
+        {%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}
+      </div>
+    {% if product.images.size > 1 %}
+    
+    <script>
+      function scrollTo(el, eel) {
+        const elLeft = el.offsetLeft + el.offsetWidth;
+        const elParentLeft = el.parentNode.offsetLeft + el.parentNode.offsetWidth;
+        
+        // check if element not in view
+        if (elLeft >= elParentLeft + el.parentNode.scrollLeft) {
+          el.parentNode.scrollLeft = elLeft - elParentLeft;
+          eel.classList.add('alive');
+        } else if (elLeft <= el.parentNode.offsetLeft + el.parentNode.scrollLeft) {
+          el.parentNode.scrollLeft = el.offsetLeft - el.parentNode.offsetLeft;
+        }
+      }
+     
+     
+     function handler(entries, observer) {
+       for (entry of entries) {
+         // console.log(entry);
+         let doti = entry.target.dataset.dot;
+         
+         let butto = document.querySelector("."+doti);
+         console.log(butto);
+         
+         if (entry.isIntersecting) {
+           entry.target.classList.add("intersecting");
+           butto.classList.add("intersecting");
+           console.log("intersecting")
+         } else {
+           console.log("not intersecting");
+           butto.classList.remove("intersecting");
+           entry.target.classList.remove("intersecting");
+         }
+       }
+     }
+     
+     let observer = new IntersectionObserver(handler);
+     
+     
+    </script>
+    
+      <div class="mobile_slideNav length-{{ product.images.size }} flex">
+      {% for dot in product.images %}
+        <button class="nude dotty doti-{{ forloop.index }}"><span></span></button>
+        <script>
+          document.querySelector(".doti-{{ forloop.index }}").onclick = function () {
+            let slide = document.querySelector(".i-{{ forloop.index }}");
+            let dot = document.querySelector(".doti-{{ forloop.index }}");
+            scrollTo(slide, dot);
+          };
+          observer.observe(document.querySelector(".i-{{ forloop.index }}"));
+        </script>
+      {% endfor %}
+      </div>
+    {% endif %}
     </div>
-    <div class="product__info-wrapper grid__item">
+    
+    <div class="product_info">
       <div id="ProductInfo-{{ section.id }}" class="product__info-container product__info-container--sticky">
         {%- assign product_form_id = 'product-form-' | append: section.id -%}
         
@@ -61,10 +137,31 @@
         {% assign short_desc = product.metafields.my_fields.product_info %}
         {%- if short_desc != blank -%}
         <div class="product_description rte" {{ section.shopify_attributes }}>
-          {{ short_desc }}
+          {{ short_desc }} <a href="#panel-1a">View details</a>
         </div>
         {%- endif -%}
         <!-- End  -->
+        
+        <ul class="features flex">
+          {%- if product.metafields.prod_list.hand_icon_text != blank -%}
+          <li class="flex">{% render 'icon-hand' %} {{ product.metafields.prod_list.hand_icon_text }}</li>
+          {%- endif -%}
+          {%- if product.metafields.prod_list.heart_icon_text != blank -%}
+          <li class="flex">{% render 'icon-heart' %} {{ product.metafields.prod_list.heart_icon_text }}</li>
+          {%- endif -%}
+          {%- if product.metafields.prod_list.diamond_icon_text != blank -%}
+          <li class="flex">{% render 'icon-diamond' %} {{ product.metafields.prod_list.diamond_icon_text }}</li>
+          {%- endif -%}
+          {%- if product.metafields.prod_list.earth_icon_text != blank -%}
+          <li class="flex">{% render 'icon-earth' %} {{ product.metafields.prod_list.earth_icon_text }}</li>
+          {%- endif -%}
+          {%- if product.metafields.prod_list.vertical_repeat != blank -%}
+          <li class="flex">{% render 'icon-vertical_repeat' %} {{ product.metafields.prod_list.vertical_repeat.value }}{{ product.metafields.prod_list.vertical_repeat.unit }} vertical repeat</li>
+          {%- endif -%}
+          {%- if product.metafields.prod_list.useable_width != blank -%}
+          <li class="flex">{% render 'icon-useable_width' %} {{ product.metafields.prod_list.useable_width.value }}{{ product.metafields.prod_list.useable_width.unit }} useable width</li>
+          {%- endif -%}
+        </ul>
         
         <!-- Variants -->
         <div class="variants">
@@ -83,7 +180,6 @@
                       >
                       <label for="{{ section.id }}-{{ option.name }}-{{ forloop.index0 }}">
                         {{ value }} {{ option.name }}
-                        {%- if option.name == 'Flirty Skirty' -%}We got flurty{%- endif -%}
                       </label>
                     {%- endfor -%}
                   </fieldset>
@@ -115,7 +211,7 @@
                             {% if option.selected_value == value %}checked{% endif %}
                             {% if option_disabled %}class="disabled"{% endif %}
                       >
-                      <label for="{{ section.id }}-{{ option.name }}-{{ forloop.index0 }}">
+                      <label class="{{ option.name | handleize }}-{{ value | handleize }}" for="{{ section.id }}-{{ option.name }}-{{ forloop.index0 }}">
                         {{ value }}
                       </label>
                     {%- endfor -%}
@@ -164,7 +260,7 @@
               {%- endif -%}
             </label>
     
-            <quantity-input class="quantity">
+            <quantity-input class="quantity_inp">
               <button class="quantity__button no-js-hidden" name="minus" type="button">
                 <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
                 {% render 'icon-minus' %}
@@ -186,23 +282,12 @@
         </div>
         <!-- Ends Quantity selector -->
           
-        
-        <div class="flex share_price">
+
         <!-- Price -->
-        <div class="price"> 
+        <div class="prod_price"> 
           <div class="no-js-hidden" id="price-{{ section.id }}" {{ section.shopify_attributes }}>
-            {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price--large' -%}
+            {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price_prod' -%}
           </div>
-          {%- if shop.taxes_included or shop.shipping_policy.body != blank -%}
-            <div class="product__tax caption rte">
-              {%- if shop.taxes_included -%}
-                {{ 'products.product.include_taxes' | t }}
-              {%- endif -%}
-              {%- if shop.shipping_policy.body != blank -%}
-                {{ 'products.product.shipping_policy_html' | t: link: shop.shipping_policy.url }}
-              {%- endif -%}
-            </div>
-          {%- endif -%}
           <div {{ section.shopify_attributes }}>
             {%- form 'product', product, id: 'product-form-installment', class: 'installment caption-large' -%}
               <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
@@ -211,52 +296,7 @@
           </div>
         </div>
         <!-- Ends Price -->
-        
-        <!-- Share -->
-        <div class="share">
-          <share-button class="share-button" {{ section.shopify_attributes }}>
-            <button class="share-button__button hidden">
-              {% render 'icon-share' %}
-              {{ section.settings.share_label | escape }}
-            </button>
-            <details>
-              <summary class="share-button__button">
-                {% render 'icon-share' %}
-                {{ section.settings.share_label | escape }}
-              </summary>
-              <div id="Product-share-{{ section.id }}" class="share-button__fallback motion-reduce">
-                <div class="social_services">
-                {% include  'share-icons' %}
-                </div>
-                <div class="flex">
-                  <div class="field">
-                    <span id="ShareMessage-{{ section.id }}" class="share-button__message hidden" role="status">
-                    </span>
-                    <label class="visually-hidden" for="url">{{ 'general.share.share_url' | t }}</label>
-                    <input type="text"
-                          class="field__input"
-                          id="url"
-                          value="{{ shop.url | append: product.url }}"
-                          placeholder="{{ 'general.share.share_url' | t }}"
-                          onclick="this.select();"
-                          readonly
-                    >
-                  </div>
-                  <button class="share-button__close hidden no-js-hidden">
-                    {% render 'icon-close' %}
-                    <span class="visually-hidden">{{ 'general.share.close' | t }}</span>
-                  </button>
-                  <button class="share-button__copy no-js-hidden">
-                    {% render 'icon-clipboard' %}
-                    <span class="visually-hidden">{{ 'general.share.copy_to_clipboard' | t }}</span>
-                     </button>
-                </div>
-              </div>
-            </details>
-          </share-button>
-          <script src="{{ 'share.js' | asset_url }}" defer="defer"></script>
-           </div>
-        </div>
+
         
         <!-- Buy Buttons -->
         <div class="buy {{ product.type }}">
@@ -282,7 +322,7 @@
                   <button
                     type="submit"
                     name="add"
-                    class="product-form__submit button button--full-width {% if section.settings.show_dynamic_checkout and product.selling_plan_groups == empty %}button--secondary{% else %}button--primary{% endif %}"
+                    class="product-form__submit button fill button--full-width {% if section.settings.show_dynamic_checkout and product.selling_plan_groups == empty %}button--secondary{% else %}button--primary{% endif %}"
                   {% if product.selected_or_first_available_variant.available == false %}disabled{% endif %}
                   >
                       {%- if product.selected_or_first_available_variant.available -%}
@@ -376,7 +416,18 @@
         </div>
       </div>
         <!-- ends buy buttons -->
-
+        <div class="product__tax caption rte">
+          {%- if shop.taxes_included or shop.shipping_policy.body != blank -%}
+          {%- if shop.taxes_included -%}
+            {{ 'products.product.include_taxes' | t }}
+          {%- endif -%}
+        
+        {%- endif -%}
+        {%- if shop.shipping_policy.body != blank -%}
+          {{ 'products.product.shipping_policy_html' | t: link: shop.shipping_policy.url }}
+        {%- endif -%}
+        </div>
+        
         {% include 'product_features_tags' %}
         
         {%- for block in section.blocks -%}
@@ -414,7 +465,9 @@
       </div>
     </div>
   </div>
+  
 
+  
 </section>
 
 {% javascript %}
@@ -455,25 +508,7 @@
   customElements.define('product-modal', ProductModal);
 {% endjavascript %}
 
-<script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
-
 <script>
-
-  var glide = new Glide('.glide', {
-    gap: 16
-  })
-  
-  glide.mount();
-  
-  function variantImages(image) {
-    document.querySelectorAll('.glide__bullets .glide__bullet').forEach( function(thumb) {
-      if (thumb.getAttribute('data-img') == image) {
-        let theSlideIndex = thumb.getAttribute("data-glide-dir");
-        glide.go(theSlideIndex);
-        }
-      }
-    );
-  }
   
   function noSingles() {
     document.querySelectorAll('.variants .product-form__input').forEach( function(fieldsetta) {

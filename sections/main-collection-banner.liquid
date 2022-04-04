@@ -10,9 +10,10 @@
 {%- assign image_alt = collection.title | append: ' Collection banner' -%}
 {%- endif -%}
 
-<div class="banner_head flex{% if collection.image %} with_image{% else %} no_image{% endif %}">
+{% if collection.image %}
+<div class="banner_head collection_banner_head">
   
-  <div class="collection_header">
+  <div class="collection_header flex">
     <div class="text">
       <h1>{{ collection.title }}</h1>
       {%- if collection.description -%}
@@ -23,8 +24,7 @@
     </div>
   </div>
   
-{%- if collection.image -%}
-  <div class="ratio_banner letterbox">
+  <div class="collection_image">
     {% assign meta-mob_image = collection.metafields.my_fields.collection_mobile_image  %}
     {%- assign landscape_image = collection.image -%}
     
@@ -34,21 +34,17 @@
     {%- assign square_image = collection.image -%}
     {%- endif -%}
     
-    {% include 'image-hero-letterbox' %}
-  
-    <div class="cta flex">
-      <div class="text_box">
-      
-        <h2 class="h0" {{ block.shopify_attributes }}>
-          <span>{{ section.settings.subtitle | escape }}</span>
-        </h2>
-    
-      </div>
-    </div>
-  </div>
+    {% include 'image-hero-collection' %}
 
-{%- endif -%}
+  </div>
 </div>
+{%- else -%}
+<div class="naked_head-banner top">
+  <div class="text">
+    <h1>{{ collection.title }}</h1>
+  </div>
+</div>
+{%- endif -%}
 
 {% schema %}
 {

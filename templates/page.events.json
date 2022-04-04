@@ -60,16 +60,16 @@
         "739546b9-6ea3-463f-8b73-9e613947c2d8": {
           "type": "event",
           "settings": {
-            "event_title": "MM Mega Sale",
-            "event_intro": "Bring your measuring tape and flatten down your car's back seat!  We are clearing out our stock room of photo shoot pieces to end of line and a foray of past collections.  Expect cushions, wallpaper rolls, fabric bolts, curtains and blinds, lampshades, tea towels, armchairs, rugs, mis-printed mugs and much more..",
-            "event_description": "<p>We are super excited to see you all at Trading Boundaries on the new date.  We have lots to offer and cannot wait to help you in your search to bringing colour, pattern and joy to your home.<\/p>",
-            "image": "shopify:\/\/shop_images\/MM_winter_sale_MARCH.jpg",
-            "event_date": "Wednesday 9th March, 2022",
-            "event_extras": "Restaurant open for teas, coffees and nibbles",
+            "event_title": "Molly Mahon coming to Kings Road, London",
+            "event_intro": "To celebrate London Craft Week 2022, Anthropologie is delighted to announce their partnership with British Textile Designer, Molly Mahon.\n‘The Modern Block Printer’ Molly will be taking over the King’s Road Gallery from the 5th to the 15th of May. Celebrating her fascination in block printing and her love for Rajasthan, the gallery will feature an eclectic mix of block-printed designs. From homewares to fabric and wallpapers, she’ll create a world of colour and pattern, available to shop.",
+            "event_description": "<p>To celebrate the new artist in residence, on Thursday 12th May at Anthropologie King’s Road, journalist Cosmo Brockway will be in conversation with Molly Mahon. Joining her on the panel will be co-founder of fashion retailer East, Penny Oliver and British fashion<br\/>designer Lucinda Chambers as they discuss the art and history of block printing and how it’s used in the 21st Century.<br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/MM_INVITE_1.jpg",
+            "event_date": "Talk event on Thursday 12th May, 2022",
+            "event_extras": "Molly's Shop will be open from 5th to the 15th of May.  Monday - Saturday 10am - 7pm and Sunday 12pm - 6pm",
             "event_price": "",
             "event_button_text": "Google Map",
-            "event_button_text_2": "",
-            "event_external_link": "https:\/\/www.google.com\/maps\/place\/Sheffield+Green,+Uckfield+TN22+3RB\/@51.0080665,0.001583,15z\/data=!3m1!4b1!4m5!3m4!1s0x47df60061165d2a9:0x37da30e7c16d77!8m2!3d51.0078376!4d0.0104441",
+            "event_button_text_2": "131-141 King's Road, London, SW3 4PW",
+            "event_external_link": "https:\/\/goo.gl\/maps\/ca4Z1tUtk5zSxWH88",
             "event_buy_btn": ""
           }
         },
@@ -97,7 +97,7 @@
             "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
             "event_description": "<p>Thyme, a beautifully restored Manor House & Farm in the Cotswolds.  The workshop will include a welcome from Thyme followed by an introduction to block printing by Molly. Using Molly’s garden inspired hand carved wooden blocks, you will experiment with colour and pattern and finish by printing your own linen tea towel.<\/p>",
             "image": "shopify:\/\/shop_images\/Water_Meadow_041_-_Sussie_Bell_-_June_21_copy.jpg",
-            "event_date": "Tuesday, 8th March or 14th June, 2022  at 11:00 -13:00",
+            "event_date": "Tuesday, 14th June, 2022  at 11:00 -13:00",
             "event_extras": "The price includes a welcome coffee and all materials.",
             "event_price": "£95 per person",
             "event_button_text": "Book your place",
@@ -113,7 +113,7 @@
             "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
             "event_description": "<p>Thyme, a beautifully restored Manor House & Farm in the Cotswolds. The workshop will include a welcome from Thyme followed by an introduction to block printing by Molly. Using Molly’s garden inspired hand carved wooden blocks, you will experiment with colour and pattern and finish by printing your own set of beautiful cards and envelopes.<\/p>",
             "image": "shopify:\/\/shop_images\/Water_Meadow_041_-_Sussie_Bell_-_June_21_copy.jpg",
-            "event_date": "Tuesday, 8th March or  14th June, 2022 at  3pm-5pm",
+            "event_date": "Tuesday, 14th June, 2022 at  3pm-5pm",
             "event_extras": "The price includes a welcome coffee and all materials.",
             "event_price": "£95 per person",
             "event_button_text": "Book your place",
@@ -124,6 +124,7 @@
         },
         "519cccd8-5c39-4a42-9387-5286d373629a": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "Block Printing Lampshade Workshop at Charleston, Firle",
             "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own lampshade.",
@@ -140,6 +141,7 @@
         },
         "384caa00-334f-4ab3-a93d-275d2d0fd2fb": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "Block Printing Cushion Workshop at Charleston, Firle",
             "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own cushion cover",
@@ -182,8 +184,8 @@
         "163526328406ed0926-0": {
           "type": "event",
           "settings": {
-            "event_title": "Join Molly Mahon Online at Create Academy",
-            "event_intro": "Welcome to my online immersive block printing course. With over 5 hours of content, I hope to empower you to give this wonderful craft a go and offer step by step guides to get you going from your kitchen table.",
+            "event_title": "Learn the art with Molly's Online Course",
+            "event_intro": "In this vibrant online course, Molly explores the fundamentals of block printing, revealing her sources of inspiration and creative process so you can be empowered to start your own block printing projects at home.",
             "event_description": "<p>Jam packed with tips, tricks, inspiration and tours of places I love including my own home, this course gives a real insight in to how I work and how block print can open a world of creativity. You can access all the items you need from our Supplies Store, from lovely eco fabric paints, to tools, items to print and wooden printing blocks. Block printing has changed my life and I hope will bring joy to yours.<\/p>",
             "image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
             "event_date": "N\/A",

@@ -131,7 +131,7 @@
         ],
         "settings": {
           "menu": "main-menu-1",
-          "menu_message": "Welcome to our world of colour and pattern"
+          "menu_message": "Shop here"
         }
       },
       "footer": {
@@ -209,8 +209,8 @@
         "type": "mailchimp",
         "settings": {
           "chimp_url": "https:\/\/mollymahon.us10.list-manage.com\/subscribe\/post?u=97f9cc90b67785f171c4e5e7a&amp;id=03514ce382",
-          "section_title": "LIKE COLOURFUL & INSPIRING EMAILS?",
-          "subheading": "<p>We share ideas & Inspiration on making Homes unique & beautiful.<\/p>",
+          "section_title": "Sign Up and get 10% off your next purchase.",
+          "subheading": "<p>You will recieve Molly's monthly PRINTSPIRATION, her tastes of the month on top of new launches, offers and bundles of inspiration.<\/p>",
           "show_name": false,
           "disable": false
         }
@@ -221,13 +221,13 @@
           "072e5e73-8808-4c6b-87d3-40137b8ad999": {
             "type": "heading",
             "settings": {
-              "heading": "Sign up for regular updates and exclusive offers."
+              "heading": "Join our World of Block Printing & get 10% off your next order"
             }
           },
           "502d7e48-b4ed-4861-8f30-60a5f24bf26c": {
             "type": "paragraph",
             "settings": {
-              "text": "<p>We have a full and exciting year ahead of us and we look forward to welcoming you. <\/p>"
+              "text": "<p>Be the first to know of our new launches, offers and inspiration whilst Receiveing Molly's monthly PRINTSPIRATION.<\/p>"
             }
           },
           "bd9030af-38b0-4569-857c-144a38231309": {
@@ -244,6 +244,145 @@
         "settings": {
           "quote": "<p>\"I find a room full of textures, layers and colours exciting and uplifting.\"<\/p>",
           "cite": "Molly Mahon"
+        }
+      },
+      "navigation": {
+        "type": "navigation",
+        "blocks": {
+          "f32f2494-2ae3-4e2a-ab4f-692b5ddbe758": {
+            "type": "four_menus",
+            "settings": {
+              "label1": "New Wallpaper",
+              "link1": "https:\/\/mollymahon.com\/collections\/new-wallpaper",
+              "label2": "New Quilts",
+              "link2": "https:\/\/mollymahon.com\/collections\/new-quilts",
+              "label3": "New Rug",
+              "link3": "https:\/\/mollymahon.com\/collections\/new-rug",
+              "label4": "New Cushions",
+              "link4": "shopify:\/\/collections\/new-cushions"
+            }
+          },
+          "fb9acf94-6e45-4f2c-b9ca-76ba24126143": {
+            "type": "two_menus",
+            "settings": {
+              "title": "Shop Fabric",
+              "image": "shopify:\/\/shop_images\/TULIP_TRELLIS_GREEN_BED_5409d88e-127f-4b14-8d75-b536de5ad320.jpg",
+              "link": "shopify:\/\/collections\/fabric",
+              "color1": "Blue",
+              "color1-image": "shopify:\/\/shop_images\/fabric_blue.jpg",
+              "color1-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Blue",
+              "color2": "Green",
+              "color2-image": "shopify:\/\/shop_images\/fabric_green.jpg",
+              "color2-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Green",
+              "color3": "Pink",
+              "color3-image": "shopify:\/\/shop_images\/fabric_pink.jpg",
+              "color3-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Pink",
+              "color4": "Yellow",
+              "color4-image": "shopify:\/\/shop_images\/fabric_yellow.jpg",
+              "color4-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Yellow",
+              "color5": "Red",
+              "color5-image": "shopify:\/\/shop_images\/fabric_red.jpg",
+              "color5-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Red",
+              "color6": "",
+              "color6-link": "",
+              "titleb": "Shop Wallpaper",
+              "imageb": "shopify:\/\/shop_images\/Banner-WallpaperFern_0e529616-10ef-4d94-be20-2c63fbb67ac1.jpg",
+              "linkb": "shopify:\/\/collections\/wallpaper",
+              "color1b": "Blue",
+              "color1-imageb": "shopify:\/\/shop_images\/wp_blue.jpg",
+              "color1-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Blue",
+              "color2b": "Pink",
+              "color2-imageb": "shopify:\/\/shop_images\/wp_pink.jpg",
+              "color2-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Pink",
+              "color3b": "Green",
+              "color3-imageb": "shopify:\/\/shop_images\/wp_green.jpg",
+              "color3-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Green",
+              "color4b": "Yellow",
+              "color4-imageb": "shopify:\/\/shop_images\/wp_yellow.jpg",
+              "color4-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Yellow",
+              "color5b": "",
+              "color5-linkb": "",
+              "color6b": "",
+              "color6-linkb": ""
+            }
+          },
+          "0ec4665c-930a-4ec8-b0f6-2c216f0e10c7": {
+            "type": "nav_columns",
+            "settings": {
+              "title": "Shop House & Home",
+              "col_nav_1a": "nav-kitchen-dining",
+              "col_nav_1b": "",
+              "col_nav_2a": "nav-bed-bath",
+              "col_nav_2b": "",
+              "col_nav_3a": "nav-lighting",
+              "col_nav_3b": "nav-soft-furnishings",
+              "col_nav_4a": "nav-travel",
+              "col_nav_4b": "",
+              "col_nav_url": "",
+              "col_nav_text": ""
+            }
+          },
+          "45b8cf5e-2b43-43c7-8e2c-e610a15a8bca": {
+            "type": "nav_columns",
+            "settings": {
+              "title": "Shop Printing & Stationary",
+              "col_nav_1a": "nav-printing-supplies",
+              "col_nav_1b": "",
+              "col_nav_2a": "nav-stationary",
+              "col_nav_2b": "",
+              "col_nav_3a": "",
+              "col_nav_3b": "",
+              "col_nav_4a": "",
+              "col_nav_4b": "",
+              "col_nav_image": "shopify:\/\/shop_images\/house_of_print.jpg",
+              "col_nav_url": "shopify:\/\/products\/pbohou00",
+              "col_nav_text": "Molly's Book - House of Print Pretty in Print"
+            }
+          },
+          "460cf0fd-760a-4ed0-8b76-702ef136127e": {
+            "type": "two_menus",
+            "settings": {
+              "title": "Workshops & Courses",
+              "image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
+              "link": "shopify:\/\/pages\/workshops-and-events",
+              "color1": "",
+              "color1-link": "",
+              "color2": "",
+              "color2-link": "",
+              "color3": "",
+              "color3-link": "",
+              "color4": "",
+              "color4-link": "",
+              "color5": "",
+              "color5-link": "",
+              "color6": "",
+              "color6-link": "",
+              "titleb": "MM World",
+              "imageb": "shopify:\/\/shop_images\/WORKSHOPS_MAR22.jpg",
+              "linkb": "shopify:\/\/blogs\/journal",
+              "color1b": "",
+              "color1-linkb": "",
+              "color2b": "",
+              "color2-linkb": "",
+              "color3b": "",
+              "color3-linkb": "",
+              "color4b": "",
+              "color4-linkb": "",
+              "color5b": "",
+              "color5-linkb": "",
+              "color6b": "",
+              "color6-linkb": ""
+            }
+          }
+        },
+        "block_order": [
+          "f32f2494-2ae3-4e2a-ab4f-692b5ddbe758",
+          "fb9acf94-6e45-4f2c-b9ca-76ba24126143",
+          "0ec4665c-930a-4ec8-b0f6-2c216f0e10c7",
+          "45b8cf5e-2b43-43c7-8e2c-e610a15a8bca",
+          "460cf0fd-760a-4ed0-8b76-702ef136127e"
+        ],
+        "settings": {
         }
       }
     },

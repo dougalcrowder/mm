@@ -13,7 +13,7 @@
         "1642177475e54e2f5d-1": {
           "type": "text",
           "settings": {
-            "text": "To help you inspire your design for your home we have collated some mood boards that both Molly uses in her home and for schemes she is designing on a regular bases.",
+            "text": "To help you inspire your design for your home we have collated some mood boards that Molly uses in her home and for schemes she is designing on a regular basis.",
             "go_serif": true
           }
         },
@@ -38,6 +38,7 @@
         "image": "shopify:\/\/shop_images\/Banner-WallpaperFern_0e529616-10ef-4d94-be20-2c63fbb67ac1.jpg",
         "mobile_image": "shopify:\/\/shop_images\/Banner-WallpaperFern_0e529616-10ef-4d94-be20-2c63fbb67ac1.jpg",
         "make_logo_white": false,
+        "top_margin": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
