@@ -38,12 +38,25 @@
             "top_mob": 39,
             "left_mob": 84
           }
+        },
+        "dfc5a456-eabf-4090-a219-bd96deba6bf9": {
+          "type": "Tooltip",
+          "settings": {
+            "title": "New Cushions",
+            "content": "<p><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop<\/a><\/p>",
+            "prod": "",
+            "top": 40,
+            "left": 74,
+            "top_mob": 50,
+            "left_mob": 50
+          }
         }
       },
       "block_order": [
         "16352843092374a33e-0",
         "148881e0-9bcf-4a7c-b669-ce41df894331",
-        "bb2df09c-2b61-4470-8802-1487e557bf16"
+        "bb2df09c-2b61-4470-8802-1487e557bf16",
+        "dfc5a456-eabf-4090-a219-bd96deba6bf9"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/QUILT_PEGGY-BLUE_LIFE.jpg",
