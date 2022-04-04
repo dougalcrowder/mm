@@ -30,12 +30,12 @@
         "bb2df09c-2b61-4470-8802-1487e557bf16": {
           "type": "Tooltip",
           "settings": {
-            "title": "Print your Own",
-            "content": "<p>Block print your own place cards<\/p>",
-            "prod": "ecbecb01",
-            "top": 71,
-            "left": 24,
-            "top_mob": 76,
+            "title": "MM Lighting",
+            "content": "<p><a href=\"\/collections\/lighting\" title=\"Lighting\">Lampshades & Lamp bases<\/a><\/p>",
+            "prod": "",
+            "top": 66,
+            "left": 92,
+            "top_mob": 39,
             "left_mob": 84
           }
         }
