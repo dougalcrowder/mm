@@ -1405,6 +1405,34 @@ fieldset {
   background-color: rgba(var(--color-green-rgb), 0.8);
 }
 
+.press-section .instagramification {
+  gap: 8px;
+}
+
+@media screen and (min-width: 768px) {
+  .press-section .instagramification {
+    gap: 16px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .press-section .instagramification {
+    gap: 24px;
+  }
+}
+
+.press-section .instagramification .block {
+  padding: 24px;
+  background-color: white;
+  border: 1px solid #8dc68775;
+  color: var(--color-dark);
+  align-content: center;
+}
+
+.press-section .instagramification .block a {
+  flex: 1 1 100%;
+}
+
 .text_and_icons-section {
   margin: 80px 0;
 }

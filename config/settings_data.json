@@ -341,6 +341,7 @@
           },
           "460cf0fd-760a-4ed0-8b76-702ef136127e": {
             "type": "two_menus",
+            "disabled": true,
             "settings": {
               "title": "Workshops & Courses",
               "image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
@@ -373,6 +374,23 @@
               "color6b": "",
               "color6-linkb": ""
             }
+          },
+          "15b6216d-35a5-4aa6-b3eb-88af24ae9c10": {
+            "type": "nav_columns",
+            "settings": {
+              "title": "MM World",
+              "col_nav_1a": "nav-about",
+              "col_nav_1b": "nav-block-printing",
+              "col_nav_2a": "nav-journal",
+              "col_nav_2b": "",
+              "col_nav_3a": "",
+              "col_nav_3b": "",
+              "col_nav_4a": "",
+              "col_nav_4b": "",
+              "col_nav_image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
+              "col_nav_url": "shopify:\/\/pages\/workshops-and-events",
+              "col_nav_text": "Workshops and Events"
+            }
           }
         },
         "block_order": [
@@ -380,7 +398,8 @@
           "fb9acf94-6e45-4f2c-b9ca-76ba24126143",
           "0ec4665c-930a-4ec8-b0f6-2c216f0e10c7",
           "45b8cf5e-2b43-43c7-8e2c-e610a15a8bca",
-          "460cf0fd-760a-4ed0-8b76-702ef136127e"
+          "460cf0fd-760a-4ed0-8b76-702ef136127e",
+          "15b6216d-35a5-4aa6-b3eb-88af24ae9c10"
         ],
         "settings": {
         }
