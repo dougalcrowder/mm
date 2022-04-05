@@ -148,16 +148,16 @@
           "type": "column",
           "settings": {
             "width": "two_thirds",
-            "image": "shopify:\/\/shop_images\/DIANTHUS_TRELLIS_BEDHEAD_GREENCOMBE_2.jpg",
-            "title": "Fabric",
+            "image": "shopify:\/\/shop_images\/WALLPAPER_STRAWBERRY_SITTINGROOM.jpg",
+            "title": "Wallpaper",
             "subtitle": "",
             "text": "",
             "button_color": "white",
             "color_scheme": "red_text",
             "desktop_text_box_position": "end",
             "text_align": "right",
-            "button_label": "Shop All Fabric",
-            "button_link": "shopify:\/\/collections\/fabric"
+            "button_label": "Shop All Wallpapers",
+            "button_link": "shopify:\/\/collections\/wallpaper"
           }
         }
       },
