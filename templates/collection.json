@@ -3,10 +3,7 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "subtitle": "",
-        "show_collection_description": true,
-        "make_logo_white": true,
-        "show_collection_image": true
+        "subtitle": ""
       }
     },
     "product-grid": {

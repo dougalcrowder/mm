@@ -209,8 +209,8 @@
         "type": "mailchimp",
         "settings": {
           "chimp_url": "https:\/\/mollymahon.us10.list-manage.com\/subscribe\/post?u=97f9cc90b67785f171c4e5e7a&amp;id=03514ce382",
-          "section_title": "COLOURFUL INSPIRATION GUARANTEED!",
-          "subheading": "<p>Receive Molly's monthly PRINTSPIRATION and join our world of BLOCK PRINTING.<\/p>",
+          "section_title": "Sign Up and get 10% off your next purchase.",
+          "subheading": "<p>You will recieve Molly's monthly PRINTSPIRATION, her tastes of the month on top of new launches, offers and bundles of inspiration.<\/p>",
           "show_name": false,
           "disable": false
         }
@@ -221,13 +221,13 @@
           "072e5e73-8808-4c6b-87d3-40137b8ad999": {
             "type": "heading",
             "settings": {
-              "heading": "COLOURFUL MAILERS GUARANTEED!"
+              "heading": "Join our World of Block Printing & get 10% off your next order"
             }
           },
           "502d7e48-b4ed-4861-8f30-60a5f24bf26c": {
             "type": "paragraph",
             "settings": {
-              "text": "<p>Receive Molly's monthly PRINTSPIRATION and join our world of BLOCK PRINTING.<\/p>"
+              "text": "<p>Be the first to know of our new launches, offers and inspiration whilst Receiveing Molly's monthly PRINTSPIRATION.<\/p>"
             }
           },
           "bd9030af-38b0-4569-857c-144a38231309": {
@@ -258,15 +258,15 @@
               "link2": "https:\/\/mollymahon.com\/collections\/new-quilts",
               "label3": "New Rug",
               "link3": "https:\/\/mollymahon.com\/collections\/new-rug",
-              "label4": "Mother's Day Gifts",
-              "link4": "https:\/\/mollymahon.com\/collections\/mothers-day-gifts"
+              "label4": "New Cushions",
+              "link4": "shopify:\/\/collections\/new-cushions"
             }
           },
           "fb9acf94-6e45-4f2c-b9ca-76ba24126143": {
             "type": "two_menus",
             "settings": {
               "title": "Shop Fabric",
-              "image": "shopify:\/\/shop_images\/POPPY_CURTAIN_SITTINGROOM_3500x_81426930-76e0-499b-96be-3c7785969692.jpg",
+              "image": "shopify:\/\/shop_images\/TULIP_TRELLIS_GREEN_BED_5409d88e-127f-4b14-8d75-b536de5ad320.jpg",
               "link": "shopify:\/\/collections\/fabric",
               "color1": "Blue",
               "color1-image": "shopify:\/\/shop_images\/fabric_blue.jpg",
@@ -286,7 +286,7 @@
               "color6": "",
               "color6-link": "",
               "titleb": "Shop Wallpaper",
-              "imageb": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_Wallpaper_Comp.jpg",
+              "imageb": "shopify:\/\/shop_images\/Banner-WallpaperFern_0e529616-10ef-4d94-be20-2c63fbb67ac1.jpg",
               "linkb": "shopify:\/\/collections\/wallpaper",
               "color1b": "Blue",
               "color1-imageb": "shopify:\/\/shop_images\/wp_blue.jpg",
@@ -358,8 +358,8 @@
               "color5-link": "",
               "color6": "",
               "color6-link": "",
-              "titleb": "Journal",
-              "imageb": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_Kitchen_Dinning.jpg",
+              "titleb": "MM World",
+              "imageb": "shopify:\/\/shop_images\/WORKSHOPS_MAR22.jpg",
               "linkb": "shopify:\/\/blogs\/journal",
               "color1b": "",
               "color1-linkb": "",
