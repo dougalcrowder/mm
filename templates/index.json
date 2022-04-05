@@ -133,15 +133,15 @@
           "settings": {
             "width": "one_third",
             "image": "shopify:\/\/shop_images\/MM_FF_32.jpg",
-            "title": "Lighting",
+            "title": "Cushions",
             "subtitle": "",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "between",
             "text_align": "center",
-            "button_label": "Shop Lighting",
-            "button_link": "shopify:\/\/collections\/lighting"
+            "button_label": "Shop Cushions",
+            "button_link": "shopify:\/\/collections\/cushions"
           }
         },
         "163481963822b4d1b3-1": {
