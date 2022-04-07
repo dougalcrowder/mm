@@ -6,6 +6,46 @@
       "settings": {
       }
     },
+    "16493238884c9fcdae": {
+      "type": "instagram-grid",
+      "blocks": {
+        "164932388858ea7541-0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/FLORAL_MINI_BODEN_TOP.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "883ee4db-d7b7-4709-973b-80e8a2e43a25": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "870beb09-aaf5-4f12-aa7e-1fac508d4434": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MOLLY_BLOCKPRINTING_BODEN.jpg",
+            "author": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164932388858ea7541-0",
+        "883ee4db-d7b7-4709-973b-80e8a2e43a25",
+        "870beb09-aaf5-4f12-aa7e-1fac508d4434"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
     "1649168475c1efc613": {
       "type": "featured-collection",
       "settings": {
@@ -19,6 +59,7 @@
   },
   "order": [
     "main",
+    "16493238884c9fcdae",
     "1649168475c1efc613"
   ]
 }
