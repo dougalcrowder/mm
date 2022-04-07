@@ -6,6 +6,14 @@
       "settings": {
       }
     },
+    "16493410663ec373b3": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Boden loves Molly Mahon",
+        "text": "",
+        "alignment": "center"
+      }
+    },
     "16493238884c9fcdae": {
       "type": "instagram-grid",
       "blocks": {
@@ -101,6 +109,7 @@
   },
   "order": [
     "main",
+    "16493410663ec373b3",
     "16493238884c9fcdae",
     "1649168475c1efc613"
   ]
