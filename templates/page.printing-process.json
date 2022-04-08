@@ -222,6 +222,16 @@
         "text_align": "center",
         "layout": "image_first"
       }
+    },
+    "1649420109e1763688": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop Hand Block printed Fabric",
+        "collection": "hand-block-printed-fabric",
+        "products_to_show": 10,
+        "show_view_all": true,
+        "show_secondary_image": true
+      }
     }
   },
   "order": [
@@ -231,6 +241,7 @@
     "16475449156b7a8c39",
     "16475456678a6f61eb",
     "1642176077aae81288",
-    "1647543140c950bb7a"
+    "1647543140c950bb7a",
+    "1649420109e1763688"
   ]
 }
