@@ -5,6 +5,7 @@
       "blocks": {
         "16352843092374a33e-0": {
           "type": "Tooltip",
+          "disabled": true,
           "settings": {
             "title": "Quilt - Peggy - Blue",
             "content": "<p><a href=\"\/collections\/bedding-1\" title=\"Quilts\">Shop Quilts<\/a><\/p>",
@@ -17,6 +18,7 @@
         },
         "148881e0-9bcf-4a7c-b669-ce41df894331": {
           "type": "Tooltip",
+          "disabled": true,
           "settings": {
             "title": "Fabric",
             "content": "<p><a href=\"\/collections\/fabric\" title=\"Fabric\">Tulip - Oyster - Rose Copper<\/a><\/p>",
@@ -41,6 +43,7 @@
         },
         "dfc5a456-eabf-4090-a219-bd96deba6bf9": {
           "type": "Tooltip",
+          "disabled": true,
           "settings": {
             "title": "New Cushions",
             "content": "<p><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop<\/a><\/p>",
@@ -53,6 +56,7 @@
         },
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165": {
           "type": "Tooltip",
+          "disabled": true,
           "settings": {
             "title": "MM Rugs",
             "content": "<p><a href=\"\/collections\/rugs\" title=\"Rugs\">Shop<\/a><\/p>",
