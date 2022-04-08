@@ -219,44 +219,6 @@
         "layout": "text_first"
       }
     },
-    "1634819659f7be73c6": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1634819659f7be73c6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Mother's Day"
-          }
-        },
-        "1634819659f7be73c6-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We have selected a few colourful ideas for Mother day gifts.<\/p><p><\/p>"
-          }
-        },
-        "1634819659f7be73c6-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Gift Ideas",
-            "button_link": "shopify:\/\/collections\/mothers-day-gifts"
-          }
-        }
-      },
-      "block_order": [
-        "1634819659f7be73c6-0",
-        "1634819659f7be73c6-1",
-        "1634819659f7be73c6-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/MOTHERSDAYMAR22.jpg",
-        "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "end",
-        "text_align": "center",
-        "layout": "image_first"
-      }
-    },
     "1634821627eaee293f": {
       "type": "text-and-icon-columns",
       "blocks": {
@@ -629,7 +591,6 @@
     "16444081478c63d66f",
     "163481963822b4d1b3",
     "16348194457d3235ff",
-    "1634819659f7be73c6",
     "1634821627eaee293f",
     "164129687781f3cb6c",
     "16348167313be3ffb8",
