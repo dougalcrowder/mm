@@ -92,6 +92,16 @@
         "color_scheme": "blue_text"
       }
     },
+    "1649408134ba922513": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop Quilts",
+        "collection": "bedding-1",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
     "16444081478c63d66f": {
       "type": "image-with-text",
       "blocks": {
@@ -615,6 +625,7 @@
   "order": [
     "16352843092374a33e",
     "16348194267fffd3c9",
+    "1649408134ba922513",
     "16444081478c63d66f",
     "163481963822b4d1b3",
     "16348194457d3235ff",
