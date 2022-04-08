@@ -105,12 +105,59 @@
         "show_view_all": true,
         "show_secondary_image": false
       }
+    },
+    "1649421151e2286ae0": {
+      "type": "image-banner",
+      "blocks": {
+        "1649421151dae3f553-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1649421151dae3f553-1": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "1649421151dae3f553-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1649421151dae3f553-0",
+        "1649421151dae3f553-1",
+        "1649421151dae3f553-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
     }
   },
   "order": [
     "main",
     "16493410663ec373b3",
     "16493238884c9fcdae",
-    "1649168475c1efc613"
+    "1649168475c1efc613",
+    "1649421151e2286ae0"
   ]
 }
