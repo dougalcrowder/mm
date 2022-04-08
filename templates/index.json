@@ -37,8 +37,8 @@
             "prod": "",
             "top": 66,
             "left": 92,
-            "top_mob": 39,
-            "left_mob": 84
+            "top_mob": 72,
+            "left_mob": 93
           }
         },
         "dfc5a456-eabf-4090-a219-bd96deba6bf9": {
@@ -77,7 +77,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/QUILT_PEGGY-BLUE_LIFE.jpg",
-        "square_image": "shopify:\/\/shop_images\/QUILT_PEGGY-BLUE_LIFE.jpg",
+        "square_image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE.jpg",
         "make_logo_white": false,
         "title": "New Quilts",
         "header_tag": "h2"
