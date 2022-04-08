@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
       }
     },
@@ -11,13 +12,13 @@
         "1642175561bfe5b191-0": {
           "type": "heading",
           "settings": {
-            "heading": "An age Old Technique"
+            "heading": "Some ways don't change"
           }
         },
         "1642175561bfe5b191-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Block printing is the most wonderful physical form of creativity as well as being a means to create important, beautiful and practical items for our homes.  I have been blown away by the talent I have encountered and will strive to do my best to keep the craft alive and viable.<\/p>"
+            "text": "<p>Every stage of our quilt production is done by hand - they are handwoven, hand block printed, hand carded and hand stitched in Jaipur pretty much as they would have been 300 years ago.<\/p>"
           }
         }
       },
@@ -26,7 +27,7 @@
         "1642175561bfe5b191-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/india-artisans.jpg",
+        "image": "shopify:\/\/shop_images\/HAND_STITCHING_THE_HEM.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -40,7 +41,7 @@
         "16421759421eafda87-0": {
           "type": "heading",
           "settings": {
-            "heading": "Designed in Sussex"
+            "heading": "Craft is at the forefront of what we do"
           }
         },
         "16421759421eafda87-1": {
@@ -64,7 +65,7 @@
         "16421759421eafda87-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/140201_MollyMahon-113.jpg",
+        "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -102,7 +103,7 @@
         "1647544915e70eeff6-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_INDIA_BLOCK_CARVER.jpg",
+        "image": "shopify:\/\/shop_images\/FILLING_THE_QUILT.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -140,7 +141,7 @@
         "1647545667e47f653f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
+        "image": "shopify:\/\/shop_images\/SEAMSTRESSES_HAND_STITCHING_QUILT.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -150,6 +151,7 @@
     },
     "1642176077aae81288": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "164217607785e8f883-0": {
           "type": "heading",
@@ -185,43 +187,6 @@
         "text_align": "center",
         "layout": "image_first"
       }
-    },
-    "1647543140c950bb7a": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "16475431409f7db204-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "16475431409f7db204-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><\/p><p>We are proud to work with a growing number of British boutique producers, with whom none of this would be possible.  Many of our items from our soaps, lampshades, washbags, stationery through to our cushions and picture frames are made locally and we are very selective about who we work with.  The common thread running throughout is quality, passion and craftsmanship. <\/p><p><\/p><p><\/p><p>We put time and thought in to each product we make, questioning its ethical\/moral and sustainable credentials and are careful to be respectful of the planet.<\/p><p>I currently fly to India twice a year, in order to work alongside skilled artisans, therefore we are members of the Carbon Foot Print and use their carbon off set calculator and donate yearly to their designated charities.<\/p>"
-          }
-        },
-        "16475431409f7db204-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16475431409f7db204-0",
-        "16475431409f7db204-1",
-        "16475431409f7db204-2"
-      ],
-      "settings": {
-        "title": "A Seasonal Setting",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first"
-      }
     }
   },
   "order": [
@@ -230,7 +195,6 @@
     "16421759425e9795e1",
     "16475449156b7a8c39",
     "16475456678a6f61eb",
-    "1642176077aae81288",
-    "1647543140c950bb7a"
+    "1642176077aae81288"
   ]
 }
