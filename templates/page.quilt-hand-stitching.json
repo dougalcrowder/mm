@@ -187,6 +187,16 @@
         "text_align": "center",
         "layout": "image_first"
       }
+    },
+    "1649419868faedbf32": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop Quilts",
+        "collection": "bedding-1",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "show_secondary_image": true
+      }
     }
   },
   "order": [
@@ -195,6 +205,7 @@
     "16421759425e9795e1",
     "16475449156b7a8c39",
     "16475456678a6f61eb",
-    "1642176077aae81288"
+    "1642176077aae81288",
+    "1649419868faedbf32"
   ]
 }
