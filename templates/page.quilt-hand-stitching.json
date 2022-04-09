@@ -11,13 +11,13 @@
         "1642175561bfe5b191-0": {
           "type": "heading",
           "settings": {
-            "heading": "An age Old Technique"
+            "heading": "Some ways don't change"
           }
         },
         "1642175561bfe5b191-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Block printing is the most wonderful physical form of creativity as well as being a means to create important, beautiful and practical items for our homes.  I have been blown away by the talent I have encountered and will strive to do my best to keep the craft alive and viable.<\/p>"
+            "text": "<p>Every stage of our quilt production is done by hand - they are handwoven, hand block printed, hand carded and hand stitched in Jaipur pretty much as they would have been 300 years ago.<\/p>"
           }
         }
       },
@@ -26,7 +26,7 @@
         "1642175561bfe5b191-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/india-artisans.jpg",
+        "image": "shopify:\/\/shop_images\/HAND_STITCHING_THE_HEM.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -40,13 +40,13 @@
         "16421759421eafda87-0": {
           "type": "heading",
           "settings": {
-            "heading": "Designed in Sussex"
+            "heading": "Skilled Artisans"
           }
         },
         "16421759421eafda87-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Inspired by nature, my travels to India and things that I notice in my daily life, I turn my images into repeat designs and carve them into a block.<\/p>"
+            "text": "<p>First, the wooden blocks for the block printing need to be carved. Then the very fine, gauzy cotton called Mulmul (which becomes the soft outer shell) needs to be handwoven and hand block printed.<\/p>"
           }
         },
         "16421759421eafda87-2": {
@@ -64,7 +64,7 @@
         "16421759421eafda87-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/140201_MollyMahon-113.jpg",
+        "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -78,13 +78,13 @@
         "1647544915e70eeff6-0": {
           "type": "heading",
           "settings": {
-            "heading": "Block Carving in India"
+            "heading": "The Cotton Filling"
           }
         },
         "1647544915e70eeff6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Is an art in itself!  This is my passion seeing my designs come alive through this hands on process and the skill of other artisans.<\/p>"
+            "text": "<p>The freshly harvested cotton that will fill the quilt needs to be fluffed up (or carded), and then very carefully spread across the whole outer shell. It then needs to be hand-stitched into place to ensure a perfectly even coverage.<\/p>"
           }
         },
         "1647544915e70eeff6-2": {
@@ -102,7 +102,7 @@
         "1647544915e70eeff6-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_INDIA_BLOCK_CARVER.jpg",
+        "image": "shopify:\/\/shop_images\/FILLING_THE_QUILT.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -116,13 +116,13 @@
         "1647545667e47f653f-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Printing Process"
+            "heading": "We are very proud of all the amazing people involved"
           }
         },
         "1647545667e47f653f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Every block placed is unique.  The skill these master block printers have is remarkable.  The accuracy is mesmerising and the action brings the fabric alive.<\/p><p><\/p>"
+            "text": "<p>Each stage is carried out by artisans using skills and tools that have been handed down through the generations.<\/p><p><\/p>"
           }
         },
         "1647545667e47f653f-2": {
@@ -140,7 +140,7 @@
         "1647545667e47f653f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
+        "image": "shopify:\/\/shop_images\/SEAMSTRESSES_HAND_STITCHING_QUILT.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -150,6 +150,7 @@
     },
     "1642176077aae81288": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "164217607785e8f883-0": {
           "type": "heading",
@@ -186,49 +187,12 @@
         "layout": "image_first"
       }
     },
-    "1647543140c950bb7a": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "16475431409f7db204-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "16475431409f7db204-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><\/p><p>We are proud to work with a growing number of British boutique producers, with whom none of this would be possible.  Many of our items from our soaps, lampshades, washbags, stationery through to our cushions and picture frames are made locally and we are very selective about who we work with.  The common thread running throughout is quality, passion and craftsmanship. <\/p><p><\/p><p><\/p><p>We put time and thought in to each product we make, questioning its ethical\/moral and sustainable credentials and are careful to be respectful of the planet.<\/p><p>I currently fly to India twice a year, in order to work alongside skilled artisans, therefore we are members of the Carbon Foot Print and use their carbon off set calculator and donate yearly to their designated charities.<\/p>"
-          }
-        },
-        "16475431409f7db204-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16475431409f7db204-0",
-        "16475431409f7db204-1",
-        "16475431409f7db204-2"
-      ],
-      "settings": {
-        "title": "A Seasonal Setting",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first"
-      }
-    },
-    "1649420109e1763688": {
+    "1649419868faedbf32": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop Hand Block printed Fabric",
-        "collection": "hand-block-printed-fabric",
-        "products_to_show": 10,
+        "title": "Shop Quilts",
+        "collection": "bedding-1",
+        "products_to_show": 4,
         "show_view_all": true,
         "show_secondary_image": true
       }
@@ -241,7 +205,6 @@
     "16475449156b7a8c39",
     "16475456678a6f61eb",
     "1642176077aae81288",
-    "1647543140c950bb7a",
-    "1649420109e1763688"
+    "1649419868faedbf32"
   ]
 }
