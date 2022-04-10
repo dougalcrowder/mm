@@ -582,43 +582,6 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "1649576726cc523532": {
-      "type": "collection-list",
-      "disabled": true,
-      "blocks": {
-        "16495767268155271b-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cushions"
-          }
-        },
-        "16495767268155271b-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bedding-1"
-          }
-        },
-        "16495767268155271b-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "rugs"
-          }
-        }
-      },
-      "block_order": [
-        "16495767268155271b-0",
-        "16495767268155271b-1",
-        "16495767268155271b-2"
-      ],
-      "settings": {
-        "title": "Collections",
-        "image_ratio": "square",
-        "color_scheme": "background-1",
-        "swipe_on_mobile": true,
-        "image_padding": true,
-        "show_view_all": false
-      }
     }
   },
   "order": [
@@ -638,7 +601,6 @@
     "main",
     "1641296757e9d3390b",
     "1641296802546444c7",
-    "16412983447ec23b50",
-    "1649576726cc523532"
+    "16412983447ec23b50"
   ]
 }
