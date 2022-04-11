@@ -21,15 +21,15 @@
         "1649421151dae3f553-0": {
           "type": "heading",
           "settings": {
-            "heading": "\"Together we've merged are British sensibility and love for bold aesthetics.\"",
+            "heading": "",
             "heading_type": "header2"
           }
         },
         "1649421151dae3f553-1": {
           "type": "text",
           "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false
+            "text": "\"Together we've merged are British sensibility and love for bold aesthetics.\"",
+            "go_serif": true
           }
         },
         "1649421151dae3f553-2": {
@@ -63,7 +63,6 @@
     },
     "16493238884c9fcdae": {
       "type": "instagram-grid",
-      "disabled": true,
       "blocks": {
         "164932388858ea7541-0": {
           "type": "Instalink",
@@ -184,7 +183,7 @@
     "1649168475c1efc613": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "Get the look....",
         "collection": "boden",
         "products_to_show": 10,
         "show_view_all": true,
