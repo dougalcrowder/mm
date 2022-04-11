@@ -8,6 +8,7 @@
     },
     "16493410663ec373b3": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "Boden loves Molly Mahon",
         "text": "",
@@ -20,8 +21,8 @@
         "1649421151dae3f553-0": {
           "type": "heading",
           "settings": {
-            "heading": "Boden Loves molly mahon",
-            "heading_type": "header1"
+            "heading": "\"Together we've merged are British sensibility and love for bold aesthetics.\"",
+            "heading_type": "header2"
           }
         },
         "1649421151dae3f553-1": {
@@ -62,6 +63,7 @@
     },
     "16493238884c9fcdae": {
       "type": "instagram-grid",
+      "disabled": true,
       "blocks": {
         "164932388858ea7541-0": {
           "type": "Instalink",
@@ -148,7 +150,7 @@
         "1649423066017d47e1-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Boden Loves Molly Mahon"
           }
         },
         "1649423066017d47e1-1": {
@@ -183,8 +185,8 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured collection",
-        "collection": "bagru-collection",
-        "products_to_show": 4,
+        "collection": "boden",
+        "products_to_show": 10,
         "show_view_all": true,
         "show_secondary_image": false
       }
