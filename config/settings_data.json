@@ -252,6 +252,7 @@
           "f32f2494-2ae3-4e2a-ab4f-692b5ddbe758": {
             "type": "four_menus",
             "settings": {
+              "fl_title": "New in",
               "label1": "New Wallpaper",
               "link1": "https:\/\/mollymahon.com\/collections\/new-wallpaper",
               "label2": "New Quilts",
@@ -309,6 +310,7 @@
           "04ebb945-d839-4141-86d1-017268a2d6a4": {
             "type": "four_menus",
             "settings": {
+              "fl_title": "Inspiration",
               "label1": "Workshops and Events",
               "link1": "shopify:\/\/pages\/workshops-and-events",
               "label2": "Look Book - Greencombe",
