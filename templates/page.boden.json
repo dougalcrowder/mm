@@ -257,20 +257,20 @@
             "link": "shopify:\/\/collections\/kitchen"
           }
         },
-        "1649773863be6fd834-0": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/WALLPAPER_STRAWBERRY_SITTINGROOM.jpg",
-            "author": "Wallpaper",
-            "link": "shopify:\/\/collections\/wallpaper"
-          }
-        },
         "c059f240-6e9d-45c8-b540-0970f9547ca4": {
           "type": "Instalink",
           "settings": {
             "insta_image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE.jpg",
             "author": "House & home",
             "link": "shopify:\/\/collections\/home-goods"
+          }
+        },
+        "1649773863be6fd834-0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MOTHERSDAYMAR22.jpg",
+            "author": "Lighting",
+            "link": "shopify:\/\/collections\/lighting"
           }
         },
         "000023e3-0db9-4ba6-8e43-4627b1bce0c3": {
@@ -284,8 +284,8 @@
       },
       "block_order": [
         "43d8bdf2-16c6-459d-9d9f-b19550ffe9f8",
-        "1649773863be6fd834-0",
         "c059f240-6e9d-45c8-b540-0970f9547ca4",
+        "1649773863be6fd834-0",
         "000023e3-0db9-4ba6-8e43-4627b1bce0c3"
       ],
       "settings": {
