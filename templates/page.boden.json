@@ -64,10 +64,10 @@
     "16497531215a72524d": {
       "type": "text-banner",
       "settings": {
-        "title": "<p><strong>Something<\/strong> fantastic here<\/p>",
+        "title": "<p>Boden x Molly Mahon Collaboration<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
-        "color_scheme": "white_text"
+        "color_scheme": "blue_text"
       }
     },
     "16493238884c9fcdae": {
@@ -81,10 +81,10 @@
             "link": ""
           }
         },
-        "883ee4db-d7b7-4709-973b-80e8a2e43a25": {
+        "97a9166d-7659-4352-9373-ef473ed7019d": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS.jpg",
+            "insta_image": "shopify:\/\/shop_images\/BODEN_WOMENS_SHIRTS_LIFESTYLE_c522f3cf-2b4d-457a-b260-e57ba0a86449.jpg",
             "author": "",
             "link": ""
           }
@@ -105,11 +105,11 @@
             "link": ""
           }
         },
-        "97a9166d-7659-4352-9373-ef473ed7019d": {
+        "883ee4db-d7b7-4709-973b-80e8a2e43a25": {
           "type": "Instalink",
           "disabled": true,
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/BODEN_WOMENS_SHIRTS_LIFESTYLE_c522f3cf-2b4d-457a-b260-e57ba0a86449.jpg",
+            "insta_image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS.jpg",
             "author": "",
             "link": ""
           }
@@ -141,10 +141,10 @@
       },
       "block_order": [
         "164932388858ea7541-0",
-        "883ee4db-d7b7-4709-973b-80e8a2e43a25",
+        "97a9166d-7659-4352-9373-ef473ed7019d",
         "14dbb7ae-3596-4b14-93f1-ee75d80a6faf",
         "870beb09-aaf5-4f12-aa7e-1fac508d4434",
-        "97a9166d-7659-4352-9373-ef473ed7019d",
+        "883ee4db-d7b7-4709-973b-80e8a2e43a25",
         "78341050-4ca1-4aee-adc0-c30d76c2afb9",
         "eb8e68c3-0475-4db8-8144-e6166a80e479",
         "99a91580-1a7d-4760-a28d-2a8eed76a37c"
@@ -202,6 +202,111 @@
         "show_view_all": true,
         "show_secondary_image": false
       }
+    },
+    "1649773735fabcedda": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "164977373582025f2d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "164977373582025f2d-1": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "164977373582025f2d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164977373582025f2d-0",
+        "164977373582025f2d-1",
+        "164977373582025f2d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "16497737851f5354fa": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "164977378502e4984d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "164977378502e4984d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "164977378502e4984d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164977378502e4984d-0",
+        "164977378502e4984d-1",
+        "164977378502e4984d-2"
+      ],
+      "settings": {
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "164977386398db0550": {
+      "type": "instagram-grid",
+      "blocks": {
+        "1649773863be6fd834-0": {
+          "type": "Instalink",
+          "settings": {
+            "author": "@mollymahon",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1649773863be6fd834-0"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "button_label": "",
+        "button_link": ""
+      }
     }
   },
   "order": [
@@ -211,6 +316,9 @@
     "16497531215a72524d",
     "16493238884c9fcdae",
     "16494230664438bb0a",
-    "1649168475c1efc613"
+    "1649168475c1efc613",
+    "1649773735fabcedda",
+    "16497737851f5354fa",
+    "164977386398db0550"
   ]
 }
