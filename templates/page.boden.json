@@ -50,7 +50,7 @@
         "1649421151dae3f553-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PORTRAIT_MOLLYMAHON_BODEN_COLLAB_CLOTHES_RAIL_1300x1300_3b1c27c8-255f-435b-91b5-ee33d2ab0dd4.jpg",
+        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -64,10 +64,10 @@
     "16497531215a72524d": {
       "type": "text-banner",
       "settings": {
-        "title": "<p><strong>Something<\/strong> fantastic here<\/p>",
+        "title": "<p>Boden x Molly Mahon Collaboration<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
-        "color_scheme": "white_text"
+        "color_scheme": "blue_text"
       }
     },
     "16493238884c9fcdae": {
@@ -81,10 +81,10 @@
             "link": ""
           }
         },
-        "883ee4db-d7b7-4709-973b-80e8a2e43a25": {
+        "97a9166d-7659-4352-9373-ef473ed7019d": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS.jpg",
+            "insta_image": "shopify:\/\/shop_images\/BODEN_WOMENS_SHIRTS_LIFESTYLE_c522f3cf-2b4d-457a-b260-e57ba0a86449.jpg",
             "author": "",
             "link": ""
           }
@@ -104,50 +104,13 @@
             "author": "",
             "link": ""
           }
-        },
-        "97a9166d-7659-4352-9373-ef473ed7019d": {
-          "type": "Instalink",
-          "disabled": true,
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/BODEN_WOMENS_SHIRTS_LIFESTYLE_c522f3cf-2b4d-457a-b260-e57ba0a86449.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "78341050-4ca1-4aee-adc0-c30d76c2afb9": {
-          "type": "Instalink",
-          "disabled": true,
-          "settings": {
-            "author": "@mollymahon",
-            "link": ""
-          }
-        },
-        "eb8e68c3-0475-4db8-8144-e6166a80e479": {
-          "type": "Instalink",
-          "disabled": true,
-          "settings": {
-            "author": "@mollymahon",
-            "link": ""
-          }
-        },
-        "99a91580-1a7d-4760-a28d-2a8eed76a37c": {
-          "type": "Instalink",
-          "disabled": true,
-          "settings": {
-            "author": "@mollymahon",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "164932388858ea7541-0",
-        "883ee4db-d7b7-4709-973b-80e8a2e43a25",
-        "14dbb7ae-3596-4b14-93f1-ee75d80a6faf",
-        "870beb09-aaf5-4f12-aa7e-1fac508d4434",
         "97a9166d-7659-4352-9373-ef473ed7019d",
-        "78341050-4ca1-4aee-adc0-c30d76c2afb9",
-        "eb8e68c3-0475-4db8-8144-e6166a80e479",
-        "99a91580-1a7d-4760-a28d-2a8eed76a37c"
+        "14dbb7ae-3596-4b14-93f1-ee75d80a6faf",
+        "870beb09-aaf5-4f12-aa7e-1fac508d4434"
       ],
       "settings": {
         "title": "",
@@ -202,6 +165,182 @@
         "show_view_all": true,
         "show_secondary_image": false
       }
+    },
+    "16497737851f5354fa": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "164977378502e4984d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "164977378502e4984d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "164977378502e4984d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164977378502e4984d-0",
+        "164977378502e4984d-1",
+        "164977378502e4984d-2"
+      ],
+      "settings": {
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "164977386398db0550": {
+      "type": "instagram-grid",
+      "blocks": {
+        "43d8bdf2-16c6-459d-9d9f-b19550ffe9f8": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
+            "author": "Fabric",
+            "link": "shopify:\/\/collections\/fabric"
+          }
+        },
+        "1649773863be6fd834-0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/WALLPAPER_STRAWBERRY_SITTINGROOM.jpg",
+            "author": "Wallpaper",
+            "link": "shopify:\/\/collections\/wallpaper"
+          }
+        },
+        "c059f240-6e9d-45c8-b540-0970f9547ca4": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE.jpg",
+            "author": "House & home",
+            "link": "shopify:\/\/collections\/home-goods"
+          }
+        },
+        "000023e3-0db9-4ba6-8e43-4627b1bce0c3": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22.jpg",
+            "author": "Printing & Stationery",
+            "link": "shopify:\/\/collections\/supply-store"
+          }
+        }
+      },
+      "block_order": [
+        "43d8bdf2-16c6-459d-9d9f-b19550ffe9f8",
+        "1649773863be6fd834-0",
+        "c059f240-6e9d-45c8-b540-0970f9547ca4",
+        "000023e3-0db9-4ba6-8e43-4627b1bce0c3"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "16497799051a062744": {
+      "type": "multicolumn",
+      "blocks": {
+        "16497799055c4635c9-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/ORLANDO_BLOCK_PRINTING_BODEN_SHIRT.jpg",
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "16497799055c4635c9-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/DEERHYRST_QUILT_BEDROOM.jpg",
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16497799055c4635c9-0",
+        "16497799055c4635c9-1"
+      ],
+      "settings": {
+      }
+    },
+    "1649773735fabcedda": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "164977373582025f2d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "164977373582025f2d-1": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "164977373582025f2d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164977373582025f2d-0",
+        "164977373582025f2d-1",
+        "164977373582025f2d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
     }
   },
   "order": [
@@ -211,6 +350,10 @@
     "16497531215a72524d",
     "16493238884c9fcdae",
     "16494230664438bb0a",
-    "1649168475c1efc613"
+    "1649168475c1efc613",
+    "16497737851f5354fa",
+    "164977386398db0550",
+    "16497799051a062744",
+    "1649773735fabcedda"
   ]
 }
