@@ -386,8 +386,8 @@
   
   {%- if block.settings.col_nav_image != blank  -%}
   <div class="nav_col creative">
-  {% if block.settings.col_nav_link != blank %} 
-  <a href="{{ block.settings.col_nav_link }}">
+  {% if block.settings.col_nav_url != blank %} 
+  <a href="{{ block.settings.col_nav_url }}">
   {%- endif -%}
   {%- if block.settings.col_nav_image != blank -%}
     <div class="image">
@@ -402,7 +402,7 @@
   {%- if block.settings.col_nav_text != blank -%}
     <p>{{ block.settings.col_nav_text | escape }}</p>
   {%- endif -%}
-  {% if block.settings.col_nav_link != blank %} 
+  {% if block.settings.col_nav_url != blank %} 
   </a>
   {%- endif -%}
   </div>
