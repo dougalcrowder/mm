@@ -1,7 +1,10 @@
 {% case block.type %}
 
 {% when 'four_menus' %}
-<div class="four_menus flex" {{ block.shopify_attributes }}>
+<div class="four_menus flex{% if block.settings.fl_title != blank %} with_t{%- endif -%}" {{ block.shopify_attributes }}>
+  {% if block.settings.fl_title != blank %}
+  <div class="navtitle">{{ block.settings.fl_title}}</div>
+  {%- endif -%}
   {% if block.settings.link1 != blank %} 
     <a class="link1" href="{{ block.settings.link1}}">
       {{ block.settings.label1}}
