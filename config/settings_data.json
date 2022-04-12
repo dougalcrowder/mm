@@ -253,26 +253,26 @@
             "type": "four_menus",
             "settings": {
               "fl_title": "New in",
-              "label1": "Boden x Molly Mahon",
-              "link1": "https:\/\/mollymahon.com\/collections\/new-wallpaper",
-              "label2": "New Wallpaper",
-              "link2": "https:\/\/mollymahon.com\/collections\/new-wallpaper",
-              "label3": "New Quilts",
-              "link3": "https:\/\/mollymahon.com\/collections\/new-quilts",
-              "label4": "New Cushions",
-              "link4": "shopify:\/\/collections\/new-cushions"
+              "label1": "New Wallpaper",
+              "link1": "shopify:\/\/collections\/new-wallpaper",
+              "label2": "New Quilts",
+              "link2": "shopify:\/\/collections\/new-quilts",
+              "label3": "New Cushions",
+              "link3": "shopify:\/\/collections\/new-cushions",
+              "label4": "New Rug",
+              "link4": "shopify:\/\/collections\/new-rug"
             }
           },
           "04ebb945-d839-4141-86d1-017268a2d6a4": {
             "type": "four_menus",
             "settings": {
               "fl_title": "Inspiration",
-              "label1": "Workshops and Events",
+              "label1": "Boden x Molly Mahon",
               "link1": "shopify:\/\/pages\/workshops-and-events",
-              "label2": "Look Book - Greencombe",
-              "link2": "shopify:\/\/pages\/greencombe",
-              "label3": "Brochures & Sample Sets",
-              "link3": "shopify:\/\/collections\/sample-sets",
+              "label2": "Workshops and Events",
+              "link2": "shopify:\/\/pages\/workshops-and-events",
+              "label3": "Look Book - Greencombe",
+              "link3": "shopify:\/\/pages\/greencombe",
               "label4": "Mood Boards",
               "link4": "shopify:\/\/pages\/fabric-mood-boards"
             }
