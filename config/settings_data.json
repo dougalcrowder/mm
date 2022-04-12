@@ -309,14 +309,14 @@
           "04ebb945-d839-4141-86d1-017268a2d6a4": {
             "type": "four_menus",
             "settings": {
-              "label1": "Mood Boards",
-              "link1": "shopify:\/\/pages\/fabric-mood-boards",
+              "label1": "Workshops and Events",
+              "link1": "shopify:\/\/pages\/workshops-and-events",
               "label2": "Look Book - Greencombe",
               "link2": "shopify:\/\/pages\/greencombe",
               "label3": "Brochures & Sample Sets",
               "link3": "shopify:\/\/collections\/sample-sets",
-              "label4": "Workshops",
-              "link4": "shopify:\/\/pages\/workshops-and-events"
+              "label4": "Mood Boards",
+              "link4": "shopify:\/\/pages\/fabric-mood-boards"
             }
           },
           "0ec4665c-930a-4ec8-b0f6-2c216f0e10c7": {
