@@ -31,6 +31,7 @@
         },
         "bb2df09c-2b61-4470-8802-1487e557bf16": {
           "type": "Tooltip",
+          "disabled": true,
           "settings": {
             "title": "MM Lighting",
             "content": "<p><a href=\"\/collections\/lighting\" title=\"Lighting\">Lampshades & Lamp bases<\/a><\/p>",
@@ -76,24 +77,139 @@
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/QUILT_PEGGY-BLUE_LIFE.jpg",
-        "square_image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE.jpg",
+        "image": "shopify:\/\/shop_images\/MAKE_YOURSELF_AT_HOME_d00482e3-4589-42c7-ac67-6960f23ba456.jpg",
+        "square_image": "shopify:\/\/shop_images\/MAKE_YOURSELF_AT_HOME_MOBILE.jpg",
         "make_logo_white": false,
-        "title": "New Quilts",
+        "title": "MAKE YOURSELF AT HOME",
         "header_tag": "h2"
       }
     },
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>The care & beauty of goods handmade<\/p>",
+        "title": "<p>Make yourself a home..<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
         "color_scheme": "blue_text"
       }
     },
+    "16497981744fa28098": {
+      "type": "image-with-text",
+      "blocks": {
+        "164979817417e3878e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We have an exciting announcement"
+          }
+        },
+        "164979817417e3878e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Molly's iconic prints adorn timeless spring styles for all the family.  The very first collaborative capsule for Boden.<\/p>"
+          }
+        },
+        "164979817417e3878e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/pages\/boden"
+          }
+        }
+      },
+      "block_order": [
+        "164979817417e3878e-0",
+        "164979817417e3878e-1",
+        "164979817417e3878e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
+        "title": "Boden Loves Molly Mahon",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "end",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "163481963822b4d1b3": {
+      "type": "multicolumn",
+      "blocks": {
+        "163481963822b4d1b3-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify:\/\/shop_images\/MM_FF_32.jpg",
+            "title": "Cushions",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "between",
+            "text_align": "center",
+            "button_label": "Shop Cushions",
+            "button_link": "shopify:\/\/collections\/cushions"
+          }
+        },
+        "163481963822b4d1b3-1": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "image": "shopify:\/\/shop_images\/WALLPAPER_STRAWBERRY_BABYBEDROOM_b0279152-d380-446e-bb9d-6ea54beb6aab.jpg",
+            "title": "Wallpaper",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "red_text",
+            "desktop_text_box_position": "end",
+            "text_align": "right",
+            "button_label": "Shop All Wallpapers",
+            "button_link": "shopify:\/\/collections\/wallpaper"
+          }
+        },
+        "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE.jpg",
+            "title": "House & Home",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "end",
+            "text_align": "center",
+            "button_label": "Shop Bedroom",
+            "button_link": "shopify:\/\/collections\/bedroom"
+          }
+        },
+        "637ecfd1-532c-4aeb-94da-9b272c15f9de": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify:\/\/shop_images\/TULIPCURTAIN_901c1a1d-858e-4ccc-8656-b510966eaaa7.jpg",
+            "title": "Fabric",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "start",
+            "text_align": "center",
+            "button_label": "Shop Fabric",
+            "button_link": "shopify:\/\/collections\/fabric"
+          }
+        }
+      },
+      "block_order": [
+        "163481963822b4d1b3-0",
+        "163481963822b4d1b3-1",
+        "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd",
+        "637ecfd1-532c-4aeb-94da-9b272c15f9de"
+      ],
+      "settings": {
+      }
+    },
     "16444081478c63d66f": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1644408147b3e95bc5-0": {
           "type": "heading",
@@ -131,55 +247,13 @@
     },
     "1649408134ba922513": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Shop Quilts",
         "collection": "bedding-1",
         "products_to_show": 4,
         "show_view_all": true,
         "show_secondary_image": true
-      }
-    },
-    "163481963822b4d1b3": {
-      "type": "multicolumn",
-      "blocks": {
-        "163481963822b4d1b3-0": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify:\/\/shop_images\/MM_FF_32.jpg",
-            "title": "Cushions",
-            "subtitle": "",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "between",
-            "text_align": "center",
-            "button_label": "Shop Cushions",
-            "button_link": "shopify:\/\/collections\/cushions"
-          }
-        },
-        "163481963822b4d1b3-1": {
-          "type": "column",
-          "settings": {
-            "width": "two_thirds",
-            "image": "shopify:\/\/shop_images\/WALLPAPER_STRAWBERRY_SITTINGROOM.jpg",
-            "title": "Wallpaper",
-            "subtitle": "",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "red_text",
-            "desktop_text_box_position": "end",
-            "text_align": "right",
-            "button_label": "Shop All Wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper"
-          }
-        }
-      },
-      "block_order": [
-        "163481963822b4d1b3-0",
-        "163481963822b4d1b3-1"
-      ],
-      "settings": {
       }
     },
     "16348194457d3235ff": {
@@ -587,9 +661,10 @@
   "order": [
     "16352843092374a33e",
     "16348194267fffd3c9",
+    "16497981744fa28098",
+    "163481963822b4d1b3",
     "16444081478c63d66f",
     "1649408134ba922513",
-    "163481963822b4d1b3",
     "16348194457d3235ff",
     "1634821627eaee293f",
     "164129687781f3cb6c",

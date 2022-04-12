@@ -131,13 +131,13 @@
         "1649423066017d47e1-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Creating two hand blocked designs felt so streamline across our brands; it has been a really fun collaboration to work on and it's wonderful to see our patterns transfer across from my usual range of fabrics and wallpaper to clothing: I am thrilled that we can now all wear them too\"<\/em><\/p>"
+            "text": "<p><em>\"Creating two hand blocked designs felt so streamline across our brands; it has been a really fun collaboration to work on and it's wonderful to see our patterns transfer across from my usual range of fabrics and wallpaper to clothing: I am thrilled that we can now all wear them too\"<\/em><\/p><p>Find out more in our journal and follow the links to Boden's Molly Mahon range.<\/p>"
           }
         },
         "1649423066017d47e1-2": {
           "type": "button",
           "settings": {
-            "button_label": "Read More",
+            "button_label": "Read our Journal",
             "button_link": "shopify:\/\/blogs\/journal\/boden-loves-molly-mahon"
           }
         }
