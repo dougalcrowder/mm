@@ -341,6 +341,14 @@
         "show_text_box": false,
         "color_scheme": "white_text"
       }
+    },
+    "1649796058b0df534e": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
+        "alignment": "center"
+      }
     }
   },
   "order": [
@@ -354,6 +362,7 @@
     "16497737851f5354fa",
     "16497799051a062744",
     "164977386398db0550",
-    "1649773735fabcedda"
+    "1649773735fabcedda",
+    "1649796058b0df534e"
   ]
 }
