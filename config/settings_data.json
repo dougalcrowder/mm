@@ -263,6 +263,20 @@
               "link4": "shopify:\/\/collections\/new-cushions"
             }
           },
+          "04ebb945-d839-4141-86d1-017268a2d6a4": {
+            "type": "four_menus",
+            "settings": {
+              "fl_title": "Inspiration",
+              "label1": "Workshops and Events",
+              "link1": "shopify:\/\/pages\/workshops-and-events",
+              "label2": "Look Book - Greencombe",
+              "link2": "shopify:\/\/pages\/greencombe",
+              "label3": "Brochures & Sample Sets",
+              "link3": "shopify:\/\/collections\/sample-sets",
+              "label4": "Mood Boards",
+              "link4": "shopify:\/\/pages\/fabric-mood-boards"
+            }
+          },
           "fb9acf94-6e45-4f2c-b9ca-76ba24126143": {
             "type": "two_menus",
             "settings": {
@@ -305,20 +319,6 @@
               "color5-linkb": "",
               "color6b": "",
               "color6-linkb": ""
-            }
-          },
-          "04ebb945-d839-4141-86d1-017268a2d6a4": {
-            "type": "four_menus",
-            "settings": {
-              "fl_title": "Inspiration",
-              "label1": "Workshops and Events",
-              "link1": "shopify:\/\/pages\/workshops-and-events",
-              "label2": "Look Book - Greencombe",
-              "link2": "shopify:\/\/pages\/greencombe",
-              "label3": "Brochures & Sample Sets",
-              "link3": "shopify:\/\/collections\/sample-sets",
-              "label4": "Mood Boards",
-              "link4": "shopify:\/\/pages\/fabric-mood-boards"
             }
           },
           "0ec4665c-930a-4ec8-b0f6-2c216f0e10c7": {
@@ -410,8 +410,8 @@
         },
         "block_order": [
           "f32f2494-2ae3-4e2a-ab4f-692b5ddbe758",
-          "fb9acf94-6e45-4f2c-b9ca-76ba24126143",
           "04ebb945-d839-4141-86d1-017268a2d6a4",
+          "fb9acf94-6e45-4f2c-b9ca-76ba24126143",
           "0ec4665c-930a-4ec8-b0f6-2c216f0e10c7",
           "45b8cf5e-2b43-43c7-8e2c-e610a15a8bca",
           "460cf0fd-760a-4ed0-8b76-702ef136127e",
