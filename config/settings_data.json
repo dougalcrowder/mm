@@ -341,7 +341,6 @@
           },
           "460cf0fd-760a-4ed0-8b76-702ef136127e": {
             "type": "two_menus",
-            "disabled": true,
             "settings": {
               "title": "Workshops & Courses",
               "image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
