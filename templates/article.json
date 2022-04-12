@@ -36,9 +36,20 @@
       ],
       "settings": {
       }
+    },
+    "164975103076740208": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop Quilts",
+        "collection": "bedding-1",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "164975103076740208"
   ]
 }
