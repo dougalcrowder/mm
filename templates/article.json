@@ -39,6 +39,7 @@
     },
     "164975103076740208": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Shop Quilts",
         "collection": "bedding-1",
