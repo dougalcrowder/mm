@@ -253,12 +253,12 @@
             "type": "four_menus",
             "settings": {
               "fl_title": "New in",
-              "label1": "New Wallpaper",
+              "label1": "Boden x Molly Mahon",
               "link1": "https:\/\/mollymahon.com\/collections\/new-wallpaper",
-              "label2": "New Quilts",
-              "link2": "https:\/\/mollymahon.com\/collections\/new-quilts",
-              "label3": "New Rug",
-              "link3": "https:\/\/mollymahon.com\/collections\/new-rug",
+              "label2": "New Wallpaper",
+              "link2": "https:\/\/mollymahon.com\/collections\/new-wallpaper",
+              "label3": "New Quilts",
+              "link3": "https:\/\/mollymahon.com\/collections\/new-quilts",
               "label4": "New Cushions",
               "link4": "shopify:\/\/collections\/new-cushions"
             }
