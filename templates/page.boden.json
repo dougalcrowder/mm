@@ -61,6 +61,15 @@
         "color_scheme": "white_text"
       }
     },
+    "16497531215a72524d": {
+      "type": "text-banner",
+      "settings": {
+        "title": "<p><strong>Something<\/strong> fantastic here<\/p>",
+        "link": "",
+        "bg_pattern": "pattern_01",
+        "color_scheme": "white_text"
+      }
+    },
     "16493238884c9fcdae": {
       "type": "instagram-grid",
       "blocks": {
@@ -153,19 +162,19 @@
         "1649423066017d47e1-0": {
           "type": "heading",
           "settings": {
-            "heading": "Boden Loves Molly Mahon"
+            "heading": "Molly Mahon the designer"
           }
         },
         "1649423066017d47e1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p><em>\"Creating two hand blocked designs felt so streamline across our brands; it has been a really fun collaboration to work on and it's wonderful to see our patterns transfer across from my usual range of fabrics and wallpaper to clothing: I am thrilled that we can now all wear them too\"<\/em><\/p>"
           }
         },
         "1649423066017d47e1-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Read More",
             "button_link": ""
           }
         }
@@ -176,7 +185,7 @@
         "1649423066017d47e1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOLLY_BLOCKPRINTING_BODEN.jpg",
+        "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -187,7 +196,7 @@
     "1649168475c1efc613": {
       "type": "featured-collection",
       "settings": {
-        "title": "Get the look....",
+        "title": "Get the Molly Mahon look....",
         "collection": "boden",
         "products_to_show": 10,
         "show_view_all": true,
@@ -199,6 +208,7 @@
     "main",
     "16493410663ec373b3",
     "1649421151e2286ae0",
+    "16497531215a72524d",
     "16493238884c9fcdae",
     "16494230664438bb0a",
     "1649168475c1efc613"
