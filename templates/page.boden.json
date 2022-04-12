@@ -290,20 +290,20 @@
     "164977386398db0550": {
       "type": "instagram-grid",
       "blocks": {
-        "1649773863be6fd834-0": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/WALLPAPER_STRAWBERRY_SITTINGROOM.jpg",
-            "author": "Wallpaper",
-            "link": "shopify:\/\/collections\/wallpaper"
-          }
-        },
         "43d8bdf2-16c6-459d-9d9f-b19550ffe9f8": {
           "type": "Instalink",
           "settings": {
             "insta_image": "shopify:\/\/shop_images\/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
             "author": "Fabric",
             "link": "shopify:\/\/collections\/fabric"
+          }
+        },
+        "1649773863be6fd834-0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/WALLPAPER_STRAWBERRY_SITTINGROOM.jpg",
+            "author": "Wallpaper",
+            "link": "shopify:\/\/collections\/wallpaper"
           }
         },
         "c059f240-6e9d-45c8-b540-0970f9547ca4": {
@@ -324,8 +324,8 @@
         }
       },
       "block_order": [
-        "1649773863be6fd834-0",
         "43d8bdf2-16c6-459d-9d9f-b19550ffe9f8",
+        "1649773863be6fd834-0",
         "c059f240-6e9d-45c8-b540-0970f9547ca4",
         "000023e3-0db9-4ba6-8e43-4627b1bce0c3"
       ],
