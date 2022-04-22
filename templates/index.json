@@ -112,7 +112,7 @@
           "type": "button",
           "settings": {
             "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/boden"
+            "button_link": "shopify:\/\/pages\/boden-molly-mahon"
           }
         }
       },
@@ -488,7 +488,7 @@
     "1641296300a7b5094c": {
       "type": "featured-collection",
       "settings": {
-        "title": "Get Creative this Easter...",
+        "title": "Block printing supplies...",
         "collection": "supply-store",
         "products_to_show": 10,
         "show_view_all": true,
