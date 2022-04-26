@@ -90,6 +90,22 @@
             "event_buy_btn": ""
           }
         },
+        "74a99284-5e9e-499a-b2e2-c5fcd6bba903": {
+          "type": "event",
+          "settings": {
+            "event_title": "Felt Exhibition",
+            "event_intro": "Molly Mahon is delighted to be showcasing three new and unique wall hangings at this year's Felt Exhibition.\n\nLovingly hand block printed and hand sewn by Molly, these vibrant works of art will be sitting alongside some fabulous fellow artists and designers this May.",
+            "event_description": "",
+            "image": "shopify:\/\/shop_images\/INVITATION_FELT_COLLECTION_02.jpg",
+            "event_date": "Wednesday 4th May - Saturday 7th May",
+            "event_extras": "Safehouse 1, Peckham.",
+            "event_price": "",
+            "event_button_text": "RSVP",
+            "event_button_text_2": "",
+            "event_external_link": "mailto:info@felt-collections.com",
+            "event_buy_btn": ""
+          }
+        },
         "86e614b8-e8c2-491e-832a-3e23d40baa3f": {
           "type": "event",
           "settings": {
@@ -158,6 +174,7 @@
       "block_order": [
         "16352620842faf27c4-0",
         "739546b9-6ea3-463f-8b73-9e613947c2d8",
+        "74a99284-5e9e-499a-b2e2-c5fcd6bba903",
         "86e614b8-e8c2-491e-832a-3e23d40baa3f",
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
         "519cccd8-5c39-4a42-9387-5286d373629a",
