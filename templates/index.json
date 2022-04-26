@@ -262,20 +262,20 @@
         "16348194457d3235ff-0": {
           "type": "heading",
           "settings": {
-            "heading": "Dress to Impress"
+            "heading": "House & Home"
           }
         },
         "16348194457d3235ff-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Make your kitchen beautiful this Spring and bring in the sunshine with Molly's designs.<\/p>"
+            "text": "<p>Bring colour into your home and joy will follow!<\/p>"
           }
         },
         "16348194457d3235ff-2": {
           "type": "button",
           "settings": {
             "button_label": "Table Linen",
-            "button_link": "shopify:\/\/collections\/table-linen"
+            "button_link": "shopify:\/\/collections\/home-goods"
           }
         }
       },
@@ -285,7 +285,7 @@
         "16348194457d3235ff-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/EASTER_TRELLIS_TABLECLOTH.jpg",
+        "image": "shopify:\/\/shop_images\/CUSHION_RUG_SITTINGROOM_COLUMBIAROAD_1200X900_1585c1a8-c209-4bca-80e6-f7ae291a6d0f.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
