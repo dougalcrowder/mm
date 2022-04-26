@@ -77,8 +77,8 @@
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MAKE_YOURSELF_AT_HOME_d00482e3-4589-42c7-ac67-6960f23ba456.jpg",
-        "square_image": "shopify:\/\/shop_images\/MAKE_YOURSELF_AT_HOME_MOBILE.jpg",
+        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "square_image": "shopify:\/\/shop_images\/GREENCOMBE_ATTIC_BEDROOM_MOBILE.jpg",
         "make_logo_white": false,
         "title": "MAKE YOURSELF AT HOME",
         "header_tag": "h2"
@@ -90,7 +90,7 @@
         "title": "<p>Make yourself a home..<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
-        "color_scheme": "blue_text"
+        "color_scheme": "red_text"
       }
     },
     "16497981744fa28098": {
@@ -99,20 +99,20 @@
         "164979817417e3878e-0": {
           "type": "heading",
           "settings": {
-            "heading": "We have an exciting announcement"
+            "heading": "Up we Pop!"
           }
         },
         "164979817417e3878e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>\"Molly's iconic prints adorn timeless spring styles for all the family\".  The very first collaborative capsule for Boden.<\/p>"
+            "text": "<p>London is calling and we are being hosted at Anthropologie on King's Road over London Craft Week with a Pop Up shop for 2 weeks.  Cannot wait to see you all there!<\/p>"
           }
         },
         "164979817417e3878e-2": {
           "type": "button",
           "settings": {
             "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/boden-molly-mahon"
+            "button_link": "shopify:\/\/pages\/workshops-and-events"
           }
         }
       },
@@ -122,8 +122,8 @@
         "164979817417e3878e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
-        "title": "Boden Loves Molly Mahon",
+        "image": "shopify:\/\/shop_images\/ANTHROPOLGIE_FLYER_1200x900_21c09a9f-1d28-49f2-ac0c-4c87b7f90e2f.jpg",
+        "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
         "text_align": "center",
@@ -137,14 +137,14 @@
           "type": "column",
           "settings": {
             "width": "two_thirds",
-            "image": "shopify:\/\/shop_images\/WALLPAPER_STRAWBERRY_BABYBEDROOM_b0279152-d380-446e-bb9d-6ea54beb6aab.jpg",
+            "image": "shopify:\/\/shop_images\/MM_MARWARI_HORSE_WALLPAPER_LIFE_1200x900_6111a691-d444-4902-9d92-bb0c2ccb60cf.jpg",
             "title": "Wallpaper",
             "subtitle": "",
             "text": "",
             "button_color": "white",
             "color_scheme": "red_text",
             "desktop_text_box_position": "end",
-            "text_align": "right",
+            "text_align": "center",
             "button_label": "Shop All Wallpapers",
             "button_link": "shopify:\/\/collections\/wallpaper"
           }
@@ -153,40 +153,40 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify:\/\/shop_images\/MM_FF_32.jpg",
-            "title": "Cushions",
+            "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
+            "title": "The Boden Story",
             "subtitle": "",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "between",
             "text_align": "center",
-            "button_label": "Shop Cushions",
-            "button_link": "shopify:\/\/collections\/cushions"
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/pages\/boden-molly-mahon"
           }
         },
         "637ecfd1-532c-4aeb-94da-9b272c15f9de": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify:\/\/shop_images\/TULIPCURTAIN_901c1a1d-858e-4ccc-8656-b510966eaaa7.jpg",
-            "title": "Fabric",
+            "image": "shopify:\/\/shop_images\/QUILT_HORSE_COLUMBIA_1000X1500_85b4cbc8-ebbd-43df-8492-c5e460cbedfc.jpg",
+            "title": "Quilts",
             "subtitle": "",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "start",
             "text_align": "center",
-            "button_label": "Shop Fabric",
-            "button_link": "shopify:\/\/collections\/fabric"
+            "button_label": "Shop Quilts",
+            "button_link": "shopify:\/\/collections\/bedding-1"
           }
         },
         "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd": {
           "type": "column",
           "settings": {
             "width": "two_thirds",
-            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE.jpg",
-            "title": "House & Home",
+            "image": "shopify:\/\/shop_images\/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
+            "title": "Fabric",
             "subtitle": "",
             "text": "",
             "button_color": "white",
@@ -194,7 +194,7 @@
             "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "Shop Bedroom",
-            "button_link": "shopify:\/\/collections\/bedroom"
+            "button_link": "shopify:\/\/collections\/fabric"
           }
         }
       },
