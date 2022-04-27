@@ -15,8 +15,54 @@
         "alignment": "center"
       }
     },
+    "1649773735fabcedda": {
+      "type": "image-banner",
+      "blocks": {
+        "164977373582025f2d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        },
+        "164977373582025f2d-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": false
+          }
+        },
+        "164977373582025f2d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164977373582025f2d-0",
+        "164977373582025f2d-1",
+        "164977373582025f2d-2"
+      ],
+      "settings": {
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
     "1649421151e2286ae0": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1649421151dae3f553-0": {
           "type": "heading",
@@ -295,53 +341,6 @@
         "button_link": ""
       }
     },
-    "1649773735fabcedda": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "164977373582025f2d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "164977373582025f2d-1": {
-          "type": "text",
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false
-          }
-        },
-        "164977373582025f2d-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "164977373582025f2d-0",
-        "164977373582025f2d-1",
-        "164977373582025f2d-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text"
-      }
-    },
     "1649796058b0df534e": {
       "type": "single-title_and_text",
       "settings": {
@@ -354,6 +353,7 @@
   "order": [
     "main",
     "16493410663ec373b3",
+    "1649773735fabcedda",
     "1649421151e2286ae0",
     "16497531215a72524d",
     "16493238884c9fcdae",
@@ -362,7 +362,6 @@
     "16497737851f5354fa",
     "16497799051a062744",
     "164977386398db0550",
-    "1649773735fabcedda",
     "1649796058b0df534e"
   ]
 }
