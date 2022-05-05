@@ -50,53 +50,8 @@
         "164977373582025f2d-2"
       ],
       "settings": {
-        "make_logo_white": false,
-        "top_margin": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text"
-      }
-    },
-    "1649421151e2286ae0": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "1649421151dae3f553-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Boden Loves Molly Mahon",
-            "heading_type": "header2"
-          }
-        },
-        "1649421151dae3f553-1": {
-          "type": "text",
-          "settings": {
-            "text": "\"Together we've merged our British sensibility and love for bold aesthetics.\"",
-            "go_serif": true
-          }
-        },
-        "1649421151dae3f553-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1649421151dae3f553-0",
-        "1649421151dae3f553-1",
-        "1649421151dae3f553-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
+        "image": "shopify:\/\/shop_images\/MOLLY_MAHON_POP_UP_ANTHRO_COL_1800x900_c98d5c23-a79a-462d-a177-c0e015426f3a.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/MOLLY_MAHON_POP_UP_ANTHRO_COL_1800x900_c98d5c23-a79a-462d-a177-c0e015426f3a.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -110,7 +65,7 @@
     "16497531215a72524d": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>Boden x Molly Mahon Collaboration<\/p>",
+        "title": "<p>Pop Up at Anthropologie <\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
         "color_scheme": "blue_text"
@@ -194,7 +149,7 @@
         "1649423066017d47e1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS.jpg",
+        "image": "shopify:\/\/shop_images\/MOLLY_MAHON_SHOP_FRONT_ANTHRO_1800x1000_2e68c796-1a79-48f5-841d-78b66fcf1890.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -354,7 +309,6 @@
     "main",
     "16493410663ec373b3",
     "1649773735fabcedda",
-    "1649421151e2286ae0",
     "16497531215a72524d",
     "16493238884c9fcdae",
     "16494230664438bb0a",
