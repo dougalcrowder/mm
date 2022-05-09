@@ -73,6 +73,7 @@
     },
     "16493238884c9fcdae": {
       "type": "instagram-grid",
+      "disabled": true,
       "blocks": {
         "164932388858ea7541-0": {
           "type": "Instalink",
