@@ -92,6 +92,7 @@
         },
         "74a99284-5e9e-499a-b2e2-c5fcd6bba903": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "Felt Exhibition",
             "event_intro": "Molly Mahon is delighted to be showcasing three new and unique wall hangings at this year's Felt Exhibition.\n\nLovingly hand block printed and hand sewn by Molly, these vibrant works of art will be sitting alongside some fabulous fellow artists and designers this May.",
