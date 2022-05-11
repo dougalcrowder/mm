@@ -253,8 +253,8 @@
             "type": "four_menus",
             "settings": {
               "fl_title": "New in",
-              "label1": "New Wallpaper",
-              "link1": "shopify:\/\/collections\/new-wallpaper",
+              "label1": "New Fabric & Wallpaper",
+              "link1": "shopify:\/\/collections\/new-fabric-wallpaper",
               "label2": "New Quilts",
               "link2": "shopify:\/\/collections\/new-quilts",
               "label3": "New Cushions",

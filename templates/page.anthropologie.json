@@ -1,0 +1,313 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1649773735fabcedda": {
+      "type": "image-banner",
+      "blocks": {
+        "164977373582025f2d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        },
+        "164977373582025f2d-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": false
+          }
+        },
+        "164977373582025f2d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164977373582025f2d-0",
+        "164977373582025f2d-1",
+        "164977373582025f2d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOLLY_MAHON_POP_UP_ANTHRO_COL_1800x900_c98d5c23-a79a-462d-a177-c0e015426f3a.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/MOLLY_MAHON_POP_UP_ANTHRO_COL_1800x900_c98d5c23-a79a-462d-a177-c0e015426f3a.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "16497531215a72524d": {
+      "type": "text-banner",
+      "settings": {
+        "title": "<p>Molly Mahon: The Modern Block Printer at Anthropologie<\/p>",
+        "link": "",
+        "bg_pattern": "pattern_01",
+        "color_scheme": "blue_text"
+      }
+    },
+    "16493238884c9fcdae": {
+      "type": "instagram-grid",
+      "blocks": {
+        "97a9166d-7659-4352-9373-ef473ed7019d": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/ANTHRO_PAINT_DISPLAY_1300x1300_81eaed96-ba85-4feb-971d-351d93da9f28.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "870beb09-aaf5-4f12-aa7e-1fac508d4434": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/ANTHRO_WINDOWDISPLAY_LAMPSHADE_1300x1300_d19074d3-5de1-4b89-8444-d14c7479d80a.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "164932388858ea7541-0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/ANTHRO_BLOCKS_DISPLAY_1300x1300_543eb971-502c-4477-a4f1-6996a42fab7a.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "14dbb7ae-3596-4b14-93f1-ee75d80a6faf": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/ANTHRO_SOAP_DISPLAY_1300x1300_7d189bde-d05f-408e-a6aa-f8bfa8d7a899.jpg",
+            "author": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "97a9166d-7659-4352-9373-ef473ed7019d",
+        "870beb09-aaf5-4f12-aa7e-1fac508d4434",
+        "164932388858ea7541-0",
+        "14dbb7ae-3596-4b14-93f1-ee75d80a6faf"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "16494230664438bb0a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1649423066017d47e1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to our humble abode"
+          }
+        },
+        "1649423066017d47e1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Until the 15th May!!  An opportunity to get close and personal, feel the texture, the quality and to bask in our colour.<\/p>"
+          }
+        },
+        "1649423066017d47e1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "131-141 King's Road, London.  SW3",
+            "button_link": "shopify:\/\/pages\/workshops-and-events"
+          }
+        }
+      },
+      "block_order": [
+        "1649423066017d47e1-0",
+        "1649423066017d47e1-1",
+        "1649423066017d47e1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOLLY_MAHON_SHOP_FRONT_ANTHRO_1400x1000_2013a43d-71cd-462b-9c42-d4795d3ef72e.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "16497737851f5354fa": {
+      "type": "image-with-text",
+      "blocks": {
+        "164977378502e4984d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Modern Block Printer"
+          }
+        },
+        "164977378502e4984d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>To celebrate London Craft Week 2022, Anthropologie is delighted to announce their partnership with British Textile Designer, Molly Mahon.<\/p><p>Based in East Sussex, Molly Mahon is a British Printmaker passionate about the art of block printing, whose designs are applied to a range of fabrics, wallpapers, homewares and accessories. She works on residential and commercial projects worldwide and is fast becoming the ‘go to’ designer for colour and pattern. With her love of home always in her mind, she designs pieces to enhance interiors and create charming, joyful spaces.<br\/><br\/><\/p>"
+          }
+        },
+        "164977378502e4984d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164977378502e4984d-0",
+        "164977378502e4984d-1",
+        "164977378502e4984d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOLLY_BLOCKPRINTING_BODEN.jpg",
+        "title": "About Molly Mahon",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "end",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "16497799051a062744": {
+      "type": "multicolumn",
+      "blocks": {
+        "16497799055c4635c9-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
+            "title": "Fabric",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Fabric",
+            "button_link": "shopify:\/\/collections\/fabric"
+          }
+        },
+        "16497799055c4635c9-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/DEERHYRST_QUILT_BEDROOM.jpg",
+            "title": "Wallpaper",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Wallpaper",
+            "button_link": "shopify:\/\/collections\/wallpaper"
+          }
+        }
+      },
+      "block_order": [
+        "16497799055c4635c9-0",
+        "16497799055c4635c9-1"
+      ],
+      "settings": {
+      }
+    },
+    "164977386398db0550": {
+      "type": "instagram-grid",
+      "blocks": {
+        "43d8bdf2-16c6-459d-9d9f-b19550ffe9f8": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/EASTER_TRELLIS_TABLECLOTH.jpg",
+            "author": "Kitchen & Dining",
+            "link": "shopify:\/\/collections\/kitchen"
+          }
+        },
+        "c059f240-6e9d-45c8-b540-0970f9547ca4": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE.jpg",
+            "author": "House & home",
+            "link": "shopify:\/\/collections\/home-goods"
+          }
+        },
+        "1649773863be6fd834-0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MOTHERSDAYMAR22.jpg",
+            "author": "Lighting",
+            "link": "shopify:\/\/collections\/lighting"
+          }
+        },
+        "000023e3-0db9-4ba6-8e43-4627b1bce0c3": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22.jpg",
+            "author": "Printing & Stationery",
+            "link": "shopify:\/\/collections\/supply-store"
+          }
+        }
+      },
+      "block_order": [
+        "43d8bdf2-16c6-459d-9d9f-b19550ffe9f8",
+        "c059f240-6e9d-45c8-b540-0970f9547ca4",
+        "1649773863be6fd834-0",
+        "000023e3-0db9-4ba6-8e43-4627b1bce0c3"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "165218045178747ce2": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog posts",
+        "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.<\/p>",
+        "button_label": "See all Articles",
+        "blog": "journal",
+        "post_limit": 5
+      }
+    },
+    "1649796058b0df534e": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
+        "alignment": "center"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1649773735fabcedda",
+    "16497531215a72524d",
+    "16493238884c9fcdae",
+    "16494230664438bb0a",
+    "16497737851f5354fa",
+    "16497799051a062744",
+    "164977386398db0550",
+    "165218045178747ce2",
+    "1649796058b0df534e"
+  ]
+}
