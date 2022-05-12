@@ -5,11 +5,13 @@
   
   <div class="samples paid">
   {% paginate collections["fabric-samples"].products by 10000 %}
-  {% for sample in collections.fabric-samples.products %}
   
+  {% comment %}
   {%- assign match1 = product.handle | replace_first: 'f','8' -%}
   {%- assign match2 = match1 | append: 'z2' -%}
-  
+  {% endcomment %}
+  {%- assign match2 = product.handle | append: '-sample' -%}
+  {% for sample in collections.fabric-samples.products %}
   {% if sample.handle == match2 %}
   <product-form class="product-form {{ sample.handle }}">
     <div class="product-form__error-message-wrapper" role="alert" hidden>
@@ -55,11 +57,14 @@
   </div>
   <div class="samples free">
     {% paginate collections["free-fabric-samples"].products by 10000 %}
-    {% for sample in collections.free-fabric-samples.products %}
     
+    {% comment %}
     {%- assign matchf1 = product.handle | replace_first: 'f','8' -%}
     {%- assign matchf2 = matchf1 | append: 'z1' -%}
+    {% endcomment %}
     
+    {%- assign matchf2 = product.handle | append: '-freesample' -%}
+    {% for sample in collections.free-fabric-samples.products %}
     {% if sample.handle == matchf2 %}
     
       <product-form class="product-form {{ sample.handle }}">
@@ -113,13 +118,17 @@
 <div class="samples paid wallpaper">
 {% paginate collections["wallpaper-samples"].products by 10000 %}
 
-{% for sample in collections.wallpaper-samples.products %}
 
+{% comment %}
 {%- assign matchw1 = product.handle | replace_first: 'w','9' -%}
 {%- assign matchw2 = matchw1 | append: 'z2' -%}
+{% endcomment %}
+
+{%- assign matchw2 = product.handle | append: '-sample' -%}
+
+{% for sample in collections.wallpaper-samples.products %}
 
 {% if sample.handle == matchw2 %}
-
 
 <product-form class="product-form {{ sample.handle }}">
   <div class="product-form__error-message-wrapper" role="alert" hidden>
@@ -167,9 +176,13 @@
   
   {% paginate collections["free-wallpaper-samples"].products by 10000 %}
   
+  {% comment %}
   {%- assign matchwf1 = product.handle | replace_first: 'w','9' -%}
   {%- assign matchwf2 = matchwf1 | append: 'z1' -%}
+  {% endcomment %}
   
+  {%- assign matchwf2 = product.handle | append: '-freesample' -%}
+
   {% for sample in collections.free-wallpaper-samples.products %}
 
   {% if sample.handle == matchwf2 %}
