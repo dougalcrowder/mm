@@ -18,13 +18,13 @@
         "148881e0-9bcf-4a7c-b669-ce41df894331": {
           "type": "Tooltip",
           "settings": {
-            "title": "Fabric",
-            "content": "<p><a href=\"\/collections\/fabric\" title=\"Fabric\">Tulip - Oyster - Rose Copper<\/a><\/p>",
+            "title": "Lighting",
+            "content": "<p><a href=\"\/collections\/lighting\" title=\"Lighting\">Lampshades & Lamp bases<\/a><\/p>",
             "prod": "",
-            "top": 21,
-            "left": 6,
+            "top": 42,
+            "left": 93,
             "top_mob": 37,
-            "left_mob": 44
+            "left_mob": 24
           }
         },
         "bb2df09c-2b61-4470-8802-1487e557bf16": {
@@ -34,7 +34,7 @@
             "title": "MM Lighting",
             "content": "<p><a href=\"\/collections\/lighting\" title=\"Lighting\">Lampshades & Lamp bases<\/a><\/p>",
             "prod": "",
-            "top": 94,
+            "top": 34,
             "left": 83,
             "top_mob": 72,
             "left_mob": 93
