@@ -95,20 +95,20 @@
         "164979817417e3878e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Pop in at our Pop Up..."
+            "heading": "Yippee for the Jubilee.."
           }
         },
         "164979817417e3878e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our last week on King's Road, London for Craft Week.  We have Molly's talk on Thursday evening where the shop will be a buzz.<\/p>"
+            "text": "<p>Strong and mighty with a good dose of wit and charm, we have three new hand carved blocks and a fabulous amount of scalloped shaped bunting, ready to encourage some regal creativity ahead of The Platinum Jubilee Celebrations.<\/p>"
           }
         },
         "164979817417e3878e-2": {
           "type": "button",
           "settings": {
-            "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/anthropologie-craft-week-molly-mahon"
+            "button_label": "Shop Printing Supplies",
+            "button_link": "shopify:\/\/collections\/supply-store"
           }
         }
       },
@@ -118,7 +118,7 @@
         "164979817417e3878e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ANTHRO_MMSHOPPINGBAG_1200X900_5fb0a32c-88c9-4d15-a8df-69b2631e9021.jpg",
+        "image": "shopify:\/\/shop_images\/BUNTING_HANDMADE_1400X900_07cd07a6-93b6-4761-a255-d53b45e32ef8.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
@@ -134,7 +134,7 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_MARWARI_HORSE_WALLPAPER_LIFE_1200x900_6111a691-d444-4902-9d92-bb0c2ccb60cf.jpg",
+            "image": "shopify:\/\/shop_images\/WMGPINBLULIFE_8854a44b-ab00-463d-8c58-471b560ebeb3.jpg",
             "title": "Wallpaper",
             "subtitle": "",
             "subtitle_size": "small",
