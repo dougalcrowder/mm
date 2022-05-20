@@ -29,27 +29,25 @@
         },
         "bb2df09c-2b61-4470-8802-1487e557bf16": {
           "type": "Tooltip",
-          "disabled": true,
           "settings": {
-            "title": "MM Lighting",
-            "content": "<p><a href=\"\/collections\/lighting\" title=\"Lighting\">Lampshades & Lamp bases<\/a><\/p>",
+            "title": "Fabric",
+            "content": "<p><a href=\"\/collections\/fabric\" title=\"Fabric\">Garden Path - Iron Rose<\/a><\/p>",
             "prod": "",
-            "top": 34,
-            "left": 83,
-            "top_mob": 72,
-            "left_mob": 93
+            "top": 84,
+            "left": 8,
+            "top_mob": 76,
+            "left_mob": 6
           }
         },
         "dfc5a456-eabf-4090-a219-bd96deba6bf9": {
           "type": "Tooltip",
-          "disabled": true,
           "settings": {
-            "title": "New Cushions",
-            "content": "<p><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop<\/a><\/p>",
+            "title": "Quilt",
+            "content": "<p><a href=\"\/collections\/bedding-1\" title=\"Quilts\">Peggy - Pink<\/a><\/p>",
             "prod": "",
-            "top": 40,
-            "left": 74,
-            "top_mob": 39,
+            "top": 92,
+            "left": 85,
+            "top_mob": 86,
             "left_mob": 84
           }
         },
