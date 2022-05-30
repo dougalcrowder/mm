@@ -1,0 +1,56 @@
+<div class="button_section flex">
+  <div class="buttons {{ section.settings.color_scheme }}">
+  {%- if section.settings.label != blank -%}
+    <a class="button {{ section.settings.color_scheme }}"{% if section.settings.link != blank %} href="{{ section.settings.link }}"{% endif %} {% if section.settings.link == blank %} aria-disabled="true"{% endif %}>{{ section.settings.label | escape }}</a>
+  {%- endif -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Button",
+  "tag": "section",
+  "class": "button_section",
+  "settings": [
+    {
+    "type": "text",
+    "id": "label",
+    "label": "Label"
+    },
+    {
+    "type": "url",
+    "id": "link",
+    "label": "Link Url"
+    },
+    {
+      "type": "select",
+      "id": "color_scheme",
+      "options": [
+        {
+          "value": "white",
+          "label": "white"
+        },
+        {
+          "value": "red",
+          "label": "Red"
+        },
+        {
+          "value": "dark",
+          "label": "Dark"
+        },
+        {
+          "value": "blue",
+          "label": "Blue"
+        }
+      ],
+      "default": "white",
+      "label": "Text"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Button"
+    }
+  ]
+}
+{% endschema %}

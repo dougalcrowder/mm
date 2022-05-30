@@ -12,6 +12,12 @@
 </script>
 {%- endif -%}
 
+{%- if section.settings.eyedee != blank -%}
+<div class="scroll_adjust" id="{{ section.settings.eyedee }}">
+  <span class="visually-hidden">{{ section.settings.eyedee }}</span>
+</div>
+{%- endif -%}
+
 {% include 'inc-video' %}
 
 {%- for block in section.blocks -%}
@@ -223,6 +229,11 @@
     ],
     "default": "white_text",
     "label": "Text Colour"
+  },
+  {
+    "type": "text",
+    "id": "eyedee",
+    "label": "Video Id"
   }
   ],
   "blocks": [

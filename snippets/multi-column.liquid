@@ -1,6 +1,6 @@
-<li class="column {{ block.settings.width }}" {{ block.shopify_attributes }}>
+<li class="column {{ block.settings.width }}{% if block.settings.narrow %} narrow{% endif %}" {{ block.shopify_attributes }}>
     {%- if block.settings.image != blank -%}
-      <div class="image">
+      <div class="image{% if block.settings.desktop_text_box_position == 'under' %} respect{% endif %}">
         {%- assign image = block.settings.image -%}
         <picture>
           <source srcset="{{ image | img_url: '820x615', scale: 2 }} 2x, {{ image | img_url: '820x615' }} 1x" media="(min-width: 1270px)" />
@@ -11,6 +11,13 @@
           <source srcset="{{ image | img_url: '480x480', scale: 2 }} 2x, {{ image | img_url: '480x480' }} 1x" media="(min-width: 320px)" />
           <img class="lazyimage" loading="lazy" src="{{ image | img_url: '320x320' }}" alt="{{ image.alt | escape }}" width="{{ block.settings.image.width }}" height="{{ block.settings.image.height }}" />
         </picture>
+        {% if block.settings.desktop_text_box_position == 'under' %}
+        <div class="buttons {{ block.settings.button_color }}">
+        {%- if block.settings.button_label != blank -%}
+          <a class="button {{ block.settings.button_color }}"{% if block.settings.button_link != blank %} href="{{ block.settings.button_link }}"{% endif %} {% if block.settings.button_link == blank %} aria-disabled="true"{% endif %}>{{ block.settings.button_label | escape }}</a>
+        {%- endif -%}
+        </div>
+        {% endif %}
       </div>
     {%- endif -%}
     <div class="text_wrap flex {{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }} color-{{ block.settings.color_scheme }}">
@@ -19,15 +26,22 @@
         <h3>{{ block.settings.title | escape }}</h3>
       {%- endif -%}
       {%- if block.settings.subtitle != blank -%}
-        <h4>{{ block.settings.subtitle | escape }}</h4>
+        <h4 class="{{ block.settings.subtitle_size }}">{{ block.settings.subtitle | escape }}</h4>
       {%- endif -%}
       {%- if block.settings.text != blank -%}
         <div class="rte">{{ block.settings.text }}</div>
       {%- endif -%}
+      {% if block.settings.desktop_text_box_position != 'under' %}
       <div class="buttons {{ block.settings.button_color }}">
       {%- if block.settings.button_label != blank -%}
         <a class="button {{ block.settings.button_color }}"{% if block.settings.button_link != blank %} href="{{ block.settings.button_link }}"{% endif %} {% if block.settings.button_link == blank %} aria-disabled="true"{% endif %}>{{ block.settings.button_label | escape }}</a>
       {%- endif -%}
       </div>
+      {% endif %}
+      {%- if block.settings.subtext != blank -%}
+      <small>
+        {{ block.settings.subtext}}
+      {%- endif -%}
+      </small>
     </div>
 </li>

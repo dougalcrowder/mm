@@ -42,6 +42,12 @@
         "info": "applies mostly to desktop and tablets"
       },
       {
+        "type": "checkbox",
+        "id": "narrow",
+        "label": "make this column narrow on desktops",
+        "default": false
+      },
+      {
         "type": "image_picker",
         "id": "image",
         "label": "t:sections.multicolumn.blocks.column.settings.image.label"
@@ -57,6 +63,26 @@
         "id": "subtitle",
         "default": "Under the stars in style",
         "label": "Subtitle"
+      },
+      {
+        "type": "select",
+        "id": "subtitle_size",
+        "options": [
+          {
+            "value": "small",
+            "label": "Small"
+          },
+          {
+            "value": "medium",
+            "label": "Medium"
+          },
+          {
+            "value": "large",
+            "label": "Large"
+          }
+        ],
+        "default": "small",
+        "label": "Subtitle Text Size"
       },
       {
         "type": "richtext",
@@ -137,6 +163,10 @@
           {
             "value": "around",
             "label": "space around"
+          },
+          {
+            "value": "under",
+            "label": "Inline block"
           }
         ],
         "default": "center",
@@ -172,6 +202,11 @@
         "type": "url",
         "id": "button_link",
         "label": "t:sections.multicolumn.settings.button_link.label"
+      },
+      {
+        "type": "richtext",
+        "id": "subtext",
+        "label": "Subtext"
       }
     ]
   }
