@@ -76,6 +76,7 @@
         },
         "739546b9-6ea3-463f-8b73-9e613947c2d8": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "Molly Mahon coming to Kings Road, London",
             "event_intro": "To celebrate London Craft Week 2022, Anthropologie is delighted to announce their partnership with British Textile Designer, Molly Mahon.\n‘The Modern Block Printer’ Molly will be taking over the King’s Road Gallery from the 5th to the 15th of May. Celebrating her fascination in block printing and her love for Rajasthan, the gallery will feature an eclectic mix of block-printed designs. From homewares to fabric and wallpapers, she’ll create a world of colour and pattern, available to shop.",
