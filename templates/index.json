@@ -77,8 +77,8 @@
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89.jpg",
-        "square_image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_MOBILE.jpg",
+        "image": "shopify:\/\/shop_images\/POPPYCURTAINS_318b06e9-18c6-4a69-b15d-1b01d0b9f022.jpg",
+        "square_image": "shopify:\/\/shop_images\/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
         "make_logo_white": false,
         "title": "MAKE YOURSELF AT HOME",
         "header_tag": "h2"
@@ -87,7 +87,7 @@
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>Celebrating Chelsea Flower show<\/p>",
+        "title": "<p>The doors are open.  Summer is here.<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
         "color_scheme": "red_text"
@@ -226,13 +226,13 @@
         "164979817417e3878e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Yippee for the Jubilee.."
+            "heading": "Enjoy a Coffee on us!"
           }
         },
         "164979817417e3878e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Strong and mighty with a good dose of wit and charm, we have three new hand carved blocks and a fabulous amount of scalloped shaped bunting, ready to encourage some regal creativity ahead of The Platinum Jubilee Celebrations.<\/p>"
+            "text": "<p>With every purchase from our Kitchen and Dining department, we will send you a pouch of the most delicious coffee made by Reads, an award-winning family run business specialising in hand roasted coffee.<\/p>"
           }
         },
         "164979817417e3878e-2": {
@@ -249,7 +249,7 @@
         "164979817417e3878e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BUNTING_HANDMADE_1400X900_07cd07a6-93b6-4761-a255-d53b45e32ef8.jpg",
+        "image": "shopify:\/\/shop_images\/READS_COFFEE_KITCHEN_PROMO.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "end",
