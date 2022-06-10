@@ -93,6 +93,44 @@
         "color_scheme": "red_text"
       }
     },
+    "16497981744fa28098": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "164979817417e3878e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Enjoy a Coffee on us!"
+          }
+        },
+        "164979817417e3878e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With every purchase from our Kitchen and Dining department, we will send you a pouch of the most delicious coffee made by Reads, an award-winning family run business specialising in hand roasted coffee.<\/p>"
+          }
+        },
+        "164979817417e3878e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Kitchen & Dining",
+            "button_link": "shopify:\/\/collections\/kitchen"
+          }
+        }
+      },
+      "block_order": [
+        "164979817417e3878e-0",
+        "164979817417e3878e-1",
+        "164979817417e3878e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/READS_COFFEE_KITCHEN_PROMO.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "end",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
     "16348194457d3235ff": {
       "type": "image-with-text",
       "blocks": {
@@ -217,44 +255,6 @@
         "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd"
       ],
       "settings": {
-      }
-    },
-    "16497981744fa28098": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "164979817417e3878e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Enjoy a Coffee on us!"
-          }
-        },
-        "164979817417e3878e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>With every purchase from our Kitchen and Dining department, we will send you a pouch of the most delicious coffee made by Reads, an award-winning family run business specialising in hand roasted coffee.<\/p>"
-          }
-        },
-        "164979817417e3878e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Printing Supplies",
-            "button_link": "shopify:\/\/collections\/supply-store"
-          }
-        }
-      },
-      "block_order": [
-        "164979817417e3878e-0",
-        "164979817417e3878e-1",
-        "164979817417e3878e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/READS_COFFEE_KITCHEN_PROMO.jpg",
-        "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "end",
-        "text_align": "center",
-        "layout": "text_first"
       }
     },
     "16444081478c63d66f": {
@@ -687,9 +687,9 @@
   "order": [
     "16352843092374a33e",
     "16348194267fffd3c9",
+    "16497981744fa28098",
     "16348194457d3235ff",
     "163481963822b4d1b3",
-    "16497981744fa28098",
     "16444081478c63d66f",
     "1649408134ba922513",
     "1634821627eaee293f",
