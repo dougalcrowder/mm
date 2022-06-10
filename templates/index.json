@@ -176,16 +176,16 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/WMGPINBLULIFE_8854a44b-ab00-463d-8c58-471b560ebeb3.jpg",
+            "image": "shopify:\/\/shop_images\/WFEMUSTLIFE_470c250e-d310-4094-8343-dd0072829d1a.jpg",
             "title": "Wallpaper",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
-            "button_color": "white",
+            "button_color": "red",
             "color_scheme": "red_text",
             "desktop_text_box_position": "end",
             "text_align": "center",
-            "button_label": "Shop All Wallpapers",
+            "button_label": "Shop all Wallpapers",
             "button_link": "shopify:\/\/collections\/wallpaper",
             "subtext": ""
           }
@@ -195,8 +195,8 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
-            "title": "The Boden Story",
+            "image": "shopify:\/\/shop_images\/GCSEEI-2_a4244011-1a17-475b-ae48-d1dd016ce087.jpg",
+            "title": "Fabric",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -204,8 +204,8 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "between",
             "text_align": "center",
-            "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/boden-molly-mahon",
+            "button_label": "Shop all Fabric",
+            "button_link": "shopify:\/\/collections\/fabric",
             "subtext": ""
           }
         },
@@ -214,17 +214,17 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/QUILT_HORSE_COLUMBIA_1000X1500_85b4cbc8-ebbd-43df-8492-c5e460cbedfc.jpg",
-            "title": "Quilts",
+            "image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50.jpg",
+            "title": "Lighting",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "start",
-            "text_align": "center",
-            "button_label": "Shop Quilts",
-            "button_link": "shopify:\/\/collections\/bedding-1",
+            "text_align": "left",
+            "button_label": "Shop Lighting",
+            "button_link": "shopify:\/\/collections\/lighting",
             "subtext": ""
           }
         },
@@ -233,17 +233,17 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/TULIP_TRELLIS_GREEN_BED_5409d88e-127f-4b14-8d75-b536de5ad320.jpg",
-            "title": "Fabric",
+            "image": "shopify:\/\/shop_images\/CUSHION_RUG_SITTINGROOM_COLUMBIAROAD_1200X900_1585c1a8-c209-4bca-80e6-f7ae291a6d0f.jpg",
+            "title": "Rugs",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "end",
+            "button_color": "red",
+            "color_scheme": "red_text",
+            "desktop_text_box_position": "start",
             "text_align": "center",
-            "button_label": "Shop Bedroom",
-            "button_link": "shopify:\/\/collections\/fabric",
+            "button_label": "Shop Rugs",
+            "button_link": "shopify:\/\/collections\/rugs",
             "subtext": ""
           }
         }
