@@ -209,5 +209,21 @@
         shareSuccess: `{{ 'general.share.success_message' | t }}`,
       }
       </script>
+      
+      <script>
+        if(document.querySelector('.header_offer_prompt')) {
+          function navHeight() {
+            let barHeight = document.querySelector('.header_offer_prompt').offsetHeight;
+            let burger = document.querySelector('.hamburger');
+            // console.log('this is ' + barHeight);
+            burger.style.top = barHeight + 'px';
+          }
+          window.addEventListener('resize', function(event){
+            navHeight();
+          });
+          navHeight();
+        }
+      </script>
+      
   </body>
 </html>

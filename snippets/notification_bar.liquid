@@ -1,0 +1,26 @@
+{% assign coffeedup = false %}
+{%- for item in cart.items -%}
+  {%- if item.product.handle == "coffee-reads-peru-organic" -%}
+  {%- assign coffeedup = true -%}
+  {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- unless coffeedup -%}
+
+{%- for item in cart.items -%}
+{%- for collect in item.product.collections -%}
+{%- if collect.handle == 'kitchen' -%}
+  <div class="notification_bar header_offer_prompt flex">
+    <p>Hurrah! Your order qualifies for a free bag of coffee</p>
+    <form method="post" action="/cart/add" id="product-form-template--14284550864954__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="39628816416826">
+      <div class="product-form__buttons">
+          <input type="submit" name="add" value="Add to cart" class="button nude">
+      </div>
+    </form>
+  </div>
+{%- break -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+
+{%- endunless -%}
