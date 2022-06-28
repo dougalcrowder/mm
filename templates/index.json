@@ -93,43 +93,6 @@
         "color_scheme": "red_text"
       }
     },
-    "16497981744fa28098": {
-      "type": "image-with-text",
-      "blocks": {
-        "164979817417e3878e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Enjoy a Coffee on us!"
-          }
-        },
-        "164979817417e3878e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>With every purchase from our Kitchen and Dining department, we will send you a pouch of the most delicious coffee made by Reads, an award-winning family run business specialising in hand roasted coffee.<\/p>"
-          }
-        },
-        "164979817417e3878e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Kitchen & Dining",
-            "button_link": "shopify:\/\/collections\/kitchen"
-          }
-        }
-      },
-      "block_order": [
-        "164979817417e3878e-0",
-        "164979817417e3878e-1",
-        "164979817417e3878e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/READS_COFFEE_KITCHEN_PROMO.jpg",
-        "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "end",
-        "text_align": "center",
-        "layout": "text_first"
-      }
-    },
     "16348194457d3235ff": {
       "type": "image-with-text",
       "disabled": true,
@@ -597,6 +560,43 @@
         "button_link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
       }
     },
+    "16497981744fa28098": {
+      "type": "image-with-text",
+      "blocks": {
+        "164979817417e3878e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Enjoy a Coffee on us!"
+          }
+        },
+        "164979817417e3878e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With every purchase from our Kitchen and Dining department, we will send you a pouch of the most delicious coffee made by Reads, an award-winning family run business specialising in hand roasted coffee.<\/p>"
+          }
+        },
+        "164979817417e3878e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Kitchen & Dining",
+            "button_link": "shopify:\/\/collections\/kitchen"
+          }
+        }
+      },
+      "block_order": [
+        "164979817417e3878e-0",
+        "164979817417e3878e-1",
+        "164979817417e3878e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/READS_COFFEE_KITCHEN_PROMO.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "end",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
     "main": {
       "type": "main-404",
       "disabled": true,
@@ -687,7 +687,6 @@
   "order": [
     "16352843092374a33e",
     "16348194267fffd3c9",
-    "16497981744fa28098",
     "16348194457d3235ff",
     "163481963822b4d1b3",
     "16444081478c63d66f",
@@ -699,6 +698,7 @@
     "1634816369f8368cfa",
     "1641296300a7b5094c",
     "16348163341a2e5254",
+    "16497981744fa28098",
     "main",
     "1641296757e9d3390b",
     "1641296802546444c7",
