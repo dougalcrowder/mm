@@ -77,8 +77,8 @@
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/POPPYCURTAINS_318b06e9-18c6-4a69-b15d-1b01d0b9f022.jpg",
-        "square_image": "shopify:\/\/shop_images\/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
+        "image": "shopify:\/\/shop_images\/LAUNCH_IMAGE.jpg",
+        "square_image": "shopify:\/\/shop_images\/LAUNCH_IMAGE.jpg",
         "make_logo_white": false,
         "title": "MAKE YOURSELF AT HOME",
         "header_tag": "h2"
@@ -87,10 +87,10 @@
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>Discover our Floral fabric designs<\/p>",
+        "title": "<p>Bring Colour & Joy in from Jaipur<\/p>",
         "link": "",
-        "bg_pattern": "pattern_01",
-        "color_scheme": "red_text"
+        "bg_pattern": "pattern_02",
+        "color_scheme": "white_text"
       }
     },
     "16497981744fa28098": {
@@ -133,6 +133,7 @@
     },
     "16348194457d3235ff": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16348194457d3235ff-0": {
           "type": "heading",
@@ -171,41 +172,22 @@
     "163481963822b4d1b3": {
       "type": "multicolumn",
       "blocks": {
-        "163481963822b4d1b3-1": {
+        "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd": {
           "type": "column",
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/WMGPINBLULIFE_8854a44b-ab00-463d-8c58-471b560ebeb3.jpg",
-            "title": "Wallpaper",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "red_text",
-            "desktop_text_box_position": "end",
-            "text_align": "center",
-            "button_label": "Shop All Wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper",
-            "subtext": ""
-          }
-        },
-        "163481963822b4d1b3-0": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
-            "title": "The Boden Story",
+            "image": "shopify:\/\/shop_images\/TULIP_TRELLIS_GREEN_BED_5409d88e-127f-4b14-8d75-b536de5ad320.jpg",
+            "title": "Fabric",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
-            "desktop_text_box_position": "between",
+            "desktop_text_box_position": "end",
             "text_align": "center",
-            "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/boden-molly-mahon",
+            "button_label": "Shop Bedroom",
+            "button_link": "shopify:\/\/collections\/fabric",
             "subtext": ""
           }
         },
@@ -228,31 +210,50 @@
             "subtext": ""
           }
         },
-        "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd": {
+        "163481963822b4d1b3-0": {
           "type": "column",
           "settings": {
-            "width": "two_thirds",
+            "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/TULIP_TRELLIS_GREEN_BED_5409d88e-127f-4b14-8d75-b536de5ad320.jpg",
-            "title": "Fabric",
+            "image": "shopify:\/\/shop_images\/LBBFLBUTPIN12-3_51dc0d07-0458-49b3-acb1-0f8b6f0ac839.jpg",
+            "title": "Lighting",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
+            "desktop_text_box_position": "between",
+            "text_align": "center",
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/collections\/lighting",
+            "subtext": ""
+          }
+        },
+        "163481963822b4d1b3-1": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/WMGPINBLULIFE_8854a44b-ab00-463d-8c58-471b560ebeb3.jpg",
+            "title": "Wallpaper",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "red_text",
             "desktop_text_box_position": "end",
             "text_align": "center",
-            "button_label": "Shop Bedroom",
-            "button_link": "shopify:\/\/collections\/fabric",
+            "button_label": "Shop All Wallpapers",
+            "button_link": "shopify:\/\/collections\/wallpaper",
             "subtext": ""
           }
         }
       },
       "block_order": [
-        "163481963822b4d1b3-1",
-        "163481963822b4d1b3-0",
+        "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd",
         "637ecfd1-532c-4aeb-94da-9b272c15f9de",
-        "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd"
+        "163481963822b4d1b3-0",
+        "163481963822b4d1b3-1"
       ],
       "settings": {
       }
@@ -306,6 +307,121 @@
         "show_secondary_image": true
       }
     },
+    "1657125172969e3f3f": {
+      "type": "image-banner",
+      "blocks": {
+        "165712517240961444-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Handmade",
+            "heading_type": "header1"
+          }
+        },
+        "165712517240961444-1": {
+          "type": "text",
+          "settings": {
+            "text": "Artisans & Craftsmanship",
+            "go_serif": false
+          }
+        },
+        "165712517240961444-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Discover more",
+            "button_link_1": "shopify:\/\/pages\/block-printing",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "165712517240961444-0",
+        "165712517240961444-1",
+        "165712517240961444-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MM_INDIA_BLOCK_CARVER.jpg",
+        "make_logo_white": false,
+        "top_margin": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "165712871247f6866c": {
+      "type": "multicolumn",
+      "blocks": {
+        "16571287126ed8a3c3-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/LAUNCH_IMAGE.jpg",
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "16571287126ed8a3c3-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/LAUNCH_IMAGE.jpg",
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "16571287126ed8a3c3-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "16571287126ed8a3c3-0",
+        "16571287126ed8a3c3-1",
+        "16571287126ed8a3c3-2"
+      ],
+      "settings": {
+      }
+    },
     "1634821627eaee293f": {
       "type": "text-and-icon-columns",
       "blocks": {
@@ -353,60 +469,6 @@
         "lines": "lines"
       }
     },
-    "164129687781f3cb6c": {
-      "type": "video",
-      "blocks": {
-        "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5": {
-          "type": "heading",
-          "settings": {
-            "heading": "The art of block printing",
-            "heading_type": "header2"
-          }
-        },
-        "b85cb65c-caac-4438-b618-6f8b1bf98846": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Visit Molly's create academy profile",
-            "button_modal_1": "",
-            "button_link_1": "https:\/\/www.createacademy.com\/courses\/molly-mahon",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_modal_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5",
-        "b85cb65c-caac-4438-b618-6f8b1bf98846"
-      ],
-      "settings": {
-        "logo_white": false,
-        "autoplay": true,
-        "autoloop": true,
-        "mute_video": true,
-        "show_controls": true,
-        "html5_video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/mm_conv_01.mp4?v=1633608512",
-        "image": "shopify:\/\/shop_images\/267469019_1030593891128721_6078512326311949056_n.jpg",
-        "desktop_text_box_position": "start",
-        "desktop_text_box_position_horizontal": "end",
-        "text_align": "right",
-        "text_box_max_width": "1000",
-        "color_scheme": "white_text",
-        "eyedee": ""
-      }
-    },
-    "16348167313be3ffb8": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Blog posts",
-        "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you<br\/>can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that<br\/>matter to her.<\/p>",
-        "button_label": "See all Articles",
-        "blog": "journal",
-        "post_limit": 5
-      }
-    },
     "16456340821faebe9a": {
       "type": "image-banner",
       "blocks": {
@@ -452,6 +514,50 @@
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "blue_text"
+      }
+    },
+    "164129687781f3cb6c": {
+      "type": "video",
+      "blocks": {
+        "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5": {
+          "type": "heading",
+          "settings": {
+            "heading": "The art of block printing",
+            "heading_type": "header2"
+          }
+        },
+        "b85cb65c-caac-4438-b618-6f8b1bf98846": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Visit Molly's create academy profile",
+            "button_modal_1": "",
+            "button_link_1": "https:\/\/www.createacademy.com\/courses\/molly-mahon",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_modal_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5",
+        "b85cb65c-caac-4438-b618-6f8b1bf98846"
+      ],
+      "settings": {
+        "logo_white": false,
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": true,
+        "show_controls": true,
+        "html5_video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/mm_conv_01.mp4?v=1633608512",
+        "image": "shopify:\/\/shop_images\/267469019_1030593891128721_6078512326311949056_n.jpg",
+        "desktop_text_box_position": "start",
+        "desktop_text_box_position_horizontal": "end",
+        "text_align": "right",
+        "text_box_max_width": "1000",
+        "color_scheme": "white_text",
+        "eyedee": ""
       }
     },
     "1634816369f8368cfa": {
@@ -504,6 +610,7 @@
     },
     "1641296300a7b5094c": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Block printing supplies...",
         "collection": "supply-store",
@@ -597,76 +704,19 @@
         "button_link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
       }
     },
+    "16348167313be3ffb8": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog posts",
+        "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you<br\/>can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that<br\/>matter to her.<\/p>",
+        "button_label": "See all Articles",
+        "blog": "journal",
+        "post_limit": 5
+      }
+    },
     "main": {
       "type": "main-404",
       "disabled": true,
-      "settings": {
-      }
-    },
-    "1641296757e9d3390b": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "1641296757f816f9ef-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "1641296757f816f9ef-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "1641296757f816f9ef-2": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "1641296757f816f9ef-0",
-        "1641296757f816f9ef-1",
-        "1641296757f816f9ef-2"
-      ],
       "settings": {
       }
     },
@@ -692,15 +742,16 @@
     "163481963822b4d1b3",
     "16444081478c63d66f",
     "1649408134ba922513",
+    "1657125172969e3f3f",
+    "165712871247f6866c",
     "1634821627eaee293f",
-    "164129687781f3cb6c",
-    "16348167313be3ffb8",
     "16456340821faebe9a",
+    "164129687781f3cb6c",
     "1634816369f8368cfa",
     "1641296300a7b5094c",
     "16348163341a2e5254",
+    "16348167313be3ffb8",
     "main",
-    "1641296757e9d3390b",
     "1641296802546444c7",
     "16412983447ec23b50"
   ]
