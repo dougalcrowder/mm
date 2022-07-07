@@ -87,86 +87,59 @@
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>Bring Colour & Joy in from Jaipur<\/p>",
+        "title": "<p>New Table Linen<\/p>",
         "link": "",
         "bg_pattern": "pattern_02",
         "color_scheme": "white_text"
       }
     },
-    "16497981744fa28098": {
-      "type": "image-with-text",
-      "disabled": true,
+    "1657184159fa326193": {
+      "type": "instagram-grid",
       "blocks": {
-        "164979817417e3878e-0": {
-          "type": "heading",
+        "1657184159371987b0-0": {
+          "type": "Instalink",
           "settings": {
-            "heading": "Enjoy a Coffee on us!"
+            "insta_image": "shopify:\/\/shop_images\/LAUNCH_IMAGE.jpg",
+            "author": "@mollymahon",
+            "link": ""
           }
         },
-        "164979817417e3878e-1": {
-          "type": "text",
+        "2083da8c-9e54-4ca2-a9f0-cd5d1ff98534": {
+          "type": "Instalink",
           "settings": {
-            "text": "<p>With every purchase from our Kitchen and Dining department, we will send you a pouch of the most delicious coffee made by Reads, an award-winning family run business specialising in hand roasted coffee.<\/p>"
+            "insta_image": "shopify:\/\/shop_images\/LAUNCH_IMAGE.jpg",
+            "author": "@mollymahon",
+            "link": ""
           }
         },
-        "164979817417e3878e-2": {
-          "type": "button",
+        "5517a185-f119-458f-803a-f5b1a7a02b63": {
+          "type": "Instalink",
           "settings": {
-            "button_label": "Shop Kitchen & Dining",
-            "button_link": "shopify:\/\/collections\/kitchen"
+            "insta_image": "shopify:\/\/shop_images\/LAUNCH_IMAGE.jpg",
+            "author": "@mollymahon",
+            "link": ""
+          }
+        },
+        "ef674c23-71e1-4620-8d7d-48384d89fb1a": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/LAUNCH_IMAGE.jpg",
+            "author": "@mollymahon",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "164979817417e3878e-0",
-        "164979817417e3878e-1",
-        "164979817417e3878e-2"
+        "1657184159371987b0-0",
+        "2083da8c-9e54-4ca2-a9f0-cd5d1ff98534",
+        "5517a185-f119-458f-803a-f5b1a7a02b63",
+        "ef674c23-71e1-4620-8d7d-48384d89fb1a"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/READS_COFFEE_KITCHEN_PROMO.jpg",
         "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "end",
-        "text_align": "center",
-        "layout": "text_first"
-      }
-    },
-    "16348194457d3235ff": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "16348194457d3235ff-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "House & Home"
-          }
-        },
-        "16348194457d3235ff-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>New in are our brightest rugs yet!  A delicious pink with three golden cirlces and the softest natural feel under foot.  <\/p><p>Bring colour into your home and joy will follow!<\/p>"
-          }
-        },
-        "16348194457d3235ff-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Rugs",
-            "button_link": "shopify:\/\/collections\/rugs"
-          }
-        }
-      },
-      "block_order": [
-        "16348194457d3235ff-0",
-        "16348194457d3235ff-1",
-        "16348194457d3235ff-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/CUSHION_RUG_SITTINGROOM_COLUMBIAROAD_1200X900_1585c1a8-c209-4bca-80e6-f7ae291a6d0f.jpg",
-        "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "end",
-        "text_align": "center",
-        "layout": "text_first"
+        "subtitle": "",
+        "button_label": "",
+        "button_link": ""
       }
     },
     "163481963822b4d1b3": {
@@ -258,55 +231,6 @@
       "settings": {
       }
     },
-    "16444081478c63d66f": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1644408147b3e95bc5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Handmade with care"
-          }
-        },
-        "1644408147b3e95bc5-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The complete process is made from the love of craft and artasian skills...<\/p>"
-          }
-        },
-        "1644408147b3e95bc5-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read More",
-            "button_link": "shopify:\/\/blogs\/journal\/handmade-quilts"
-          }
-        }
-      },
-      "block_order": [
-        "1644408147b3e95bc5-0",
-        "1644408147b3e95bc5-1",
-        "1644408147b3e95bc5-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/QUILT_HAND_STITCHING.jpg",
-        "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first"
-      }
-    },
-    "1649408134ba922513": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Shop Quilts",
-        "collection": "bedding-1",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "show_secondary_image": true
-      }
-    },
     "1657125172969e3f3f": {
       "type": "image-banner",
       "blocks": {
@@ -353,53 +277,34 @@
         "color_scheme": "white_text"
       }
     },
-    "165712871247f6866c": {
+    "1657185355c64083f9": {
       "type": "multicolumn",
       "blocks": {
-        "16571287126ed8a3c3-0": {
+        "1657185355f4da2f74-0": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/LAUNCH_IMAGE.jpg",
-            "title": "Column",
-            "subtitle": "Under the stars in style",
+            "image": "shopify:\/\/shop_images\/GCSEEI-2_a4244011-1a17-475b-ae48-d1dd016ce087.jpg",
+            "title": "",
+            "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "subtext": ""
           }
         },
-        "16571287126ed8a3c3-1": {
+        "1657185355f4da2f74-1": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/LAUNCH_IMAGE.jpg",
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "16571287126ed8a3c3-2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "width": "half",
-            "narrow": false,
+            "image": "shopify:\/\/shop_images\/GCDIAII-3_ee2975a4-1e97-40a5-897f-68f404bf6f77.jpg",
             "title": "Column",
             "subtitle": "Under the stars in style",
             "subtitle_size": "small",
@@ -415,9 +320,8 @@
         }
       },
       "block_order": [
-        "16571287126ed8a3c3-0",
-        "16571287126ed8a3c3-1",
-        "16571287126ed8a3c3-2"
+        "1657185355f4da2f74-0",
+        "1657185355f4da2f74-1"
       ],
       "settings": {
       }
@@ -469,53 +373,6 @@
         "lines": "lines"
       }
     },
-    "16456340821faebe9a": {
-      "type": "image-banner",
-      "blocks": {
-        "164563408286d6d7aa-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Wonderful Workshops",
-            "heading_type": "header1"
-          }
-        },
-        "164563408286d6d7aa-1": {
-          "type": "text",
-          "settings": {
-            "text": "Inspire yourself",
-            "go_serif": true
-          }
-        },
-        "164563408286d6d7aa-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Chose your Workshop",
-            "button_link_1": "shopify:\/\/pages\/workshops-and-events",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "164563408286d6d7aa-0",
-        "164563408286d6d7aa-1",
-        "164563408286d6d7aa-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "blue_text"
-      }
-    },
     "164129687781f3cb6c": {
       "type": "video",
       "blocks": {
@@ -560,63 +417,53 @@
         "eyedee": ""
       }
     },
-    "1634816369f8368cfa": {
-      "type": "image-banner",
-      "disabled": true,
+    "165712871247f6866c": {
+      "type": "multicolumn",
       "blocks": {
-        "1634816369f8368cfa-0": {
-          "type": "heading",
+        "16571287126ed8a3c3-0": {
+          "type": "column",
           "settings": {
-            "heading": "Printing & Supply Store",
-            "heading_type": "header2"
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22.jpg",
+            "title": "Workshops",
+            "subtitle": "Get Creative",
+            "subtitle_size": "small",
+            "text": "<p>Join us on a beautiful day out to get inspiration, get that creative side of your brain in gear and play with colour.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Find out more",
+            "button_link": "shopify:\/\/pages\/workshops-and-events",
+            "subtext": ""
           }
         },
-        "1634816369f8368cfa-1": {
-          "type": "text",
+        "16571287126ed8a3c3-1": {
+          "type": "column",
           "settings": {
-            "text": "Open for the creative",
-            "go_serif": false
-          }
-        },
-        "1634816369f8368cfa-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Supplies",
-            "button_link_1": "shopify:\/\/collections\/supply-store",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
+            "title": "Printing Supplies",
+            "subtitle": "For the budding Block printer",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Supplies",
+            "button_link": "shopify:\/\/collections\/supply-store",
+            "subtext": ""
           }
         }
       },
       "block_order": [
-        "1634816369f8368cfa-0",
-        "1634816369f8368cfa-1",
-        "1634816369f8368cfa-2"
+        "16571287126ed8a3c3-0",
+        "16571287126ed8a3c3-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/SUPPLYSTORE_4d53a32e-3967-4b3f-8b97-8d408aca8ee7.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/SUPPLYSTORE_4d53a32e-3967-4b3f-8b97-8d408aca8ee7.jpg",
-        "make_logo_white": true,
-        "top_margin": false,
-        "desktop_text_box_position": "center",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": true,
-        "color_scheme": "white_text"
-      }
-    },
-    "1641296300a7b5094c": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Block printing supplies...",
-        "collection": "supply-store",
-        "products_to_show": 10,
-        "show_view_all": true,
-        "show_secondary_image": true
       }
     },
     "16348163341a2e5254": {
@@ -707,7 +554,7 @@
     "16348167313be3ffb8": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Blog posts",
+        "heading": "Discover more..",
         "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you<br\/>can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that<br\/>matter to her.<\/p>",
         "button_label": "See all Articles",
         "blog": "journal",
@@ -737,18 +584,13 @@
   "order": [
     "16352843092374a33e",
     "16348194267fffd3c9",
-    "16497981744fa28098",
-    "16348194457d3235ff",
+    "1657184159fa326193",
     "163481963822b4d1b3",
-    "16444081478c63d66f",
-    "1649408134ba922513",
     "1657125172969e3f3f",
-    "165712871247f6866c",
+    "1657185355c64083f9",
     "1634821627eaee293f",
-    "16456340821faebe9a",
     "164129687781f3cb6c",
-    "1634816369f8368cfa",
-    "1641296300a7b5094c",
+    "165712871247f6866c",
     "16348163341a2e5254",
     "16348167313be3ffb8",
     "main",
