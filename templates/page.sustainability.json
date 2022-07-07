@@ -1,0 +1,208 @@
+{
+  "sections": {
+    "1657198256089a7c52": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "About Us",
+        "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p>Our mission is to inspire and enable you to make your mark in your home.  <\/p><p>We are passionate about making a home a beautiful, colourful, joyful space to inspire all who dwell there, that will also stand the test of time, the feet of children and the paws of animals.  With that comes passion in all areas that we work in to create a sophisticated yet playful environment.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1649773735fabcedda": {
+      "type": "image-banner",
+      "blocks": {
+        "164977373582025f2d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Make yourself a home",
+            "heading_type": "header1"
+          }
+        },
+        "164977373582025f2d-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": false
+          }
+        },
+        "164977373582025f2d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164977373582025f2d-0",
+        "164977373582025f2d-1",
+        "164977373582025f2d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1657199219affcebfd": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>Why is home so important to us?<\/strong> <\/p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "16494230664438bb0a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1649423066017d47e1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meet Molly Mahon"
+          }
+        },
+        "1649423066017d47e1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There is something special about block printing that has stood the test of time.  To me it brings the fabric alive and this is exactly what it does to our homes.<\/p><p>Based in Sussex, I am a British printmaker whose block print originals are applied to fabrics, wallpapers and a growing range of<br\/>homewares or as we like to call it, functional arts.  So much goes in<br\/>to everything we make.  Inspired by nature, my travels to India and<br\/>things that I notice in my daily life,<br\/>I turn my images into repeat designs and carve them into a block (or sometimes I now get carved into wood while in India).<br\/> <\/p>"
+          }
+        },
+        "1649423066017d47e1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1649423066017d47e1-0",
+        "1649423066017d47e1-1",
+        "1649423066017d47e1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "end",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "165720007696eef0eb": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Creativity & Craftsmamship",
+        "text": "<p>The heart and soul of what we do is founded on creativity.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1657200203628ef58f": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Discover More about our Craftsmanship",
+        "link": "shopify:\/\/pages\/block-printing",
+        "color_scheme": "dark"
+      }
+    },
+    "1649421151e2286ae0": {
+      "type": "image-banner",
+      "blocks": {
+        "1649421151dae3f553-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We love block printering",
+            "heading_type": "header2"
+          }
+        },
+        "1649421151dae3f553-1": {
+          "type": "text",
+          "settings": {
+            "text": "\"We design to enrich our lives for the home by merging our British sensibility and love for bold aesthetics.\"",
+            "go_serif": true
+          }
+        },
+        "1649421151dae3f553-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1649421151dae3f553-0",
+        "1649421151dae3f553-1",
+        "1649421151dae3f553-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOLLY_BLOCKPRINTING_BODEN.jpg",
+        "make_logo_white": false,
+        "top_margin": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "16572005737a4e951b": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.<\/p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1657200715d6671ac0": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Discover our Workshops",
+        "link": "shopify:\/\/pages\/workshops-and-events",
+        "color_scheme": "dark"
+      }
+    },
+    "1649796058b0df534e": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
+        "alignment": "center"
+      }
+    }
+  },
+  "order": [
+    "1657198256089a7c52",
+    "main",
+    "1649773735fabcedda",
+    "1657199219affcebfd",
+    "16494230664438bb0a",
+    "165720007696eef0eb",
+    "1657200203628ef58f",
+    "1649421151e2286ae0",
+    "16572005737a4e951b",
+    "1657200715d6671ac0",
+    "1649796058b0df534e"
+  ]
+}
