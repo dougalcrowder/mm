@@ -69,44 +69,6 @@
         "alignment": "center"
       }
     },
-    "16494230664438bb0a": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1649423066017d47e1-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Meet Molly Mahon"
-          }
-        },
-        "1649423066017d47e1-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>There is something special about block printing that has stood the test of time.  To me it brings the fabric alive and this is exactly what it does to our homes.<\/p><p>Based in Sussex, I am a British printmaker whose block print originals are applied to fabrics, wallpapers and a growing range of<br\/>homewares or as we like to call it, functional arts.  So much goes in<br\/>to everything we make.  Inspired by nature, my travels to India and<br\/>things that I notice in my daily life,<br\/>I turn my images into repeat designs and carve them into a block (or sometimes I now get carved into wood while in India).<br\/> <\/p>"
-          }
-        },
-        "1649423066017d47e1-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1649423066017d47e1-0",
-        "1649423066017d47e1-1",
-        "1649423066017d47e1-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS.jpg",
-        "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "end",
-        "text_align": "center",
-        "layout": "image_first"
-      }
-    },
     "165720007696eef0eb": {
       "type": "single-title_and_text",
       "disabled": true,
@@ -170,6 +132,43 @@
         "color_scheme": "white_text"
       }
     },
+    "16494230664438bb0a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1649423066017d47e1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Next Generation"
+          }
+        },
+        "1649423066017d47e1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.<\/p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.<br\/> <\/p>"
+          }
+        },
+        "1649423066017d47e1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1649423066017d47e1-0",
+        "1649423066017d47e1-1",
+        "1649423066017d47e1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CREATIVITY4_9532821e-14bf-4524-b1e6-6241cad2e0c3.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "end",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
     "16572005737a4e951b": {
       "type": "single-title_and_text",
       "disabled": true,
@@ -203,10 +202,10 @@
     "1649773735fabcedda",
     "1657198256089a7c52",
     "1657199219affcebfd",
-    "16494230664438bb0a",
     "165720007696eef0eb",
     "1657200203628ef58f",
     "1649421151e2286ae0",
+    "16494230664438bb0a",
     "16572005737a4e951b",
     "1657200715d6671ac0",
     "1649796058b0df534e"
