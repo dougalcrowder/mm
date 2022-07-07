@@ -1,13 +1,5 @@
 {
   "sections": {
-    "1657198256089a7c52": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "About Us",
-        "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p>Our mission is to inspire and enable you to make your mark in your home.  <\/p><p>We are passionate about making a home a beautiful, colourful, joyful space to inspire all who dwell there, that will also stand the test of time, the feet of children and the paws of animals.  With that comes passion in all areas that we work in to create a sophisticated yet playful environment.<\/p>",
-        "alignment": "center"
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -20,7 +12,7 @@
         "164977373582025f2d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Make yourself a home",
+            "heading": "",
             "heading_type": "header1"
           }
         },
@@ -49,7 +41,7 @@
         "164977373582025f2d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -60,8 +52,17 @@
         "color_scheme": "white_text"
       }
     },
+    "1657198256089a7c52": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Sustainability",
+        "text": "<p>Rollo and I have three children and are conscious of the mark we might make on the planet while we are here and of the path we set for our children.  While we wish to show them the beauty of the planet we consciously respect how we tread; in both our work and our personal decisions.<\/p><p>We are conscious of the environmental impact we have in our industry and make key decisions on the products, manufacturers, printers and natural resources we use.  Right from the go we only use water based inks, where possible we use natural pigment.  We source organic cottons and use other plant based fibres including linens and viscose.  We pay above the average price as we feel we are paying a fair and reflective price.<\/p>",
+        "alignment": "center"
+      }
+    },
     "1657199219affcebfd": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "",
         "text": "<p><strong>Why is home so important to us?<\/strong> <\/p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.<\/p>",
@@ -70,6 +71,7 @@
     },
     "16494230664438bb0a": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1649423066017d47e1-0": {
           "type": "heading",
@@ -107,6 +109,7 @@
     },
     "165720007696eef0eb": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "Creativity & Craftsmamship",
         "text": "<p>The heart and soul of what we do is founded on creativity.<\/p>",
@@ -169,6 +172,7 @@
     },
     "16572005737a4e951b": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "",
         "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.<\/p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.<\/p>",
@@ -177,6 +181,7 @@
     },
     "1657200715d6671ac0": {
       "type": "simple-button",
+      "disabled": true,
       "settings": {
         "label": "Discover our Workshops",
         "link": "shopify:\/\/pages\/workshops-and-events",
@@ -185,6 +190,7 @@
     },
     "1649796058b0df534e": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "",
         "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
@@ -193,9 +199,9 @@
     }
   },
   "order": [
-    "1657198256089a7c52",
     "main",
     "1649773735fabcedda",
+    "1657198256089a7c52",
     "1657199219affcebfd",
     "16494230664438bb0a",
     "165720007696eef0eb",
