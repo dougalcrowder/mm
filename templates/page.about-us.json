@@ -1,0 +1,368 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16493410663ec373b3": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "settings": {
+        "title": "Boden loves Molly Mahon",
+        "text": "",
+        "alignment": "center"
+      }
+    },
+    "1649421151e2286ae0": {
+      "type": "image-banner",
+      "blocks": {
+        "1649421151dae3f553-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Boden Loves Molly Mahon",
+            "heading_type": "header2"
+          }
+        },
+        "1649421151dae3f553-1": {
+          "type": "text",
+          "settings": {
+            "text": "\"Together we've merged our British sensibility and love for bold aesthetics.\"",
+            "go_serif": true
+          }
+        },
+        "1649421151dae3f553-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1649421151dae3f553-0",
+        "1649421151dae3f553-1",
+        "1649421151dae3f553-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "16497531215a72524d": {
+      "type": "text-banner",
+      "settings": {
+        "title": "<p>Boden x Molly Mahon Collaboration<\/p>",
+        "link": "",
+        "bg_pattern": "pattern_01",
+        "color_scheme": "blue_text"
+      }
+    },
+    "16493238884c9fcdae": {
+      "type": "instagram-grid",
+      "blocks": {
+        "164932388858ea7541-0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/FLORAL_MINI_BODEN_TOP.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "97a9166d-7659-4352-9373-ef473ed7019d": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/BODEN_WOMENS_SHIRTS_LIFESTYLE_c522f3cf-2b4d-457a-b260-e57ba0a86449.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "14dbb7ae-3596-4b14-93f1-ee75d80a6faf": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/BODEN_WOMEN_DAYDRESS_LIFESTYLE.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "870beb09-aaf5-4f12-aa7e-1fac508d4434": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MOLLY_BLOCKPRINTING_BODEN.jpg",
+            "author": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164932388858ea7541-0",
+        "97a9166d-7659-4352-9373-ef473ed7019d",
+        "14dbb7ae-3596-4b14-93f1-ee75d80a6faf",
+        "870beb09-aaf5-4f12-aa7e-1fac508d4434"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "16494230664438bb0a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1649423066017d47e1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Molly Mahon the designer"
+          }
+        },
+        "1649423066017d47e1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Creating two hand blocked designs felt so streamline across our brands; it has been a really fun collaboration to work on and it's wonderful to see our patterns transfer across from my usual range of fabrics and wallpaper to clothing: I am thrilled that we can now all wear them too\"<\/em><\/p><p>Find out more in our journal and follow the links to Boden's Molly Mahon range.<\/p>"
+          }
+        },
+        "1649423066017d47e1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read our Journal",
+            "button_link": "shopify:\/\/blogs\/journal\/boden-loves-molly-mahon"
+          }
+        }
+      },
+      "block_order": [
+        "1649423066017d47e1-0",
+        "1649423066017d47e1-1",
+        "1649423066017d47e1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "1649168475c1efc613": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Get the Molly Mahon look....",
+        "collection": "boden",
+        "products_to_show": 10,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
+    "16497737851f5354fa": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "164977378502e4984d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "164977378502e4984d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "164977378502e4984d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164977378502e4984d-0",
+        "164977378502e4984d-1",
+        "164977378502e4984d-2"
+      ],
+      "settings": {
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "16497799051a062744": {
+      "type": "multicolumn",
+      "blocks": {
+        "16497799055c4635c9-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
+            "title": "Fabric",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Fabric",
+            "button_link": "shopify:\/\/collections\/fabric"
+          }
+        },
+        "16497799055c4635c9-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/DEERHYRST_QUILT_BEDROOM.jpg",
+            "title": "Wallpaper",
+            "subtitle": "",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Wallpaper",
+            "button_link": "shopify:\/\/collections\/wallpaper"
+          }
+        }
+      },
+      "block_order": [
+        "16497799055c4635c9-0",
+        "16497799055c4635c9-1"
+      ],
+      "settings": {
+      }
+    },
+    "164977386398db0550": {
+      "type": "instagram-grid",
+      "blocks": {
+        "43d8bdf2-16c6-459d-9d9f-b19550ffe9f8": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/EASTER_TRELLIS_TABLECLOTH.jpg",
+            "author": "Kitchen & Dining",
+            "link": "shopify:\/\/collections\/kitchen"
+          }
+        },
+        "c059f240-6e9d-45c8-b540-0970f9547ca4": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE.jpg",
+            "author": "House & home",
+            "link": "shopify:\/\/collections\/home-goods"
+          }
+        },
+        "1649773863be6fd834-0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MOTHERSDAYMAR22.jpg",
+            "author": "Lighting",
+            "link": "shopify:\/\/collections\/lighting"
+          }
+        },
+        "000023e3-0db9-4ba6-8e43-4627b1bce0c3": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22.jpg",
+            "author": "Printing & Stationery",
+            "link": "shopify:\/\/collections\/supply-store"
+          }
+        }
+      },
+      "block_order": [
+        "43d8bdf2-16c6-459d-9d9f-b19550ffe9f8",
+        "c059f240-6e9d-45c8-b540-0970f9547ca4",
+        "1649773863be6fd834-0",
+        "000023e3-0db9-4ba6-8e43-4627b1bce0c3"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "1649773735fabcedda": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "164977373582025f2d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "164977373582025f2d-1": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "164977373582025f2d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164977373582025f2d-0",
+        "164977373582025f2d-1",
+        "164977373582025f2d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1649796058b0df534e": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
+        "alignment": "center"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16493410663ec373b3",
+    "1649421151e2286ae0",
+    "16497531215a72524d",
+    "16493238884c9fcdae",
+    "16494230664438bb0a",
+    "1649168475c1efc613",
+    "16497737851f5354fa",
+    "16497799051a062744",
+    "164977386398db0550",
+    "1649773735fabcedda",
+    "1649796058b0df534e"
+  ]
+}
