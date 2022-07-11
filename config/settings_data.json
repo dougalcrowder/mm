@@ -253,14 +253,14 @@
             "type": "four_menus",
             "settings": {
               "fl_title": "New in",
-              "label1": "New Fabric & Wallpaper",
-              "link1": "shopify:\/\/collections\/new-fabric-wallpaper",
-              "label2": "New Quilts",
-              "link2": "shopify:\/\/collections\/new-quilts",
-              "label3": "New Cushions",
-              "link3": "shopify:\/\/collections\/new-cushions",
-              "label4": "New Rug",
-              "link4": "shopify:\/\/collections\/new-rug"
+              "label1": "New Table Linen",
+              "link1": "shopify:\/\/collections\/new-table-linen",
+              "label2": "New Rug",
+              "link2": "shopify:\/\/collections\/new-rug",
+              "label3": "",
+              "link3": "",
+              "label4": "",
+              "link4": ""
             }
           },
           "04ebb945-d839-4141-86d1-017268a2d6a4": {
