@@ -336,15 +336,15 @@
             "narrow": false,
             "image": "shopify:\/\/shop_images\/FOREST_OYSTER_GREEN_SITTINGROOM_KEANE.jpg",
             "title": "",
-            "subtitle": "",
+            "subtitle": "Deerhyrst Collection",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "View",
+            "button_link": "shopify:\/\/collections\/deerhyrst-collection",
             "subtext": ""
           }
         },
