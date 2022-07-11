@@ -60,39 +60,13 @@
         "alignment": "center"
       }
     },
-    "1657199219affcebfd": {
-      "type": "single-title_and_text",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "text": "<p><strong>Why is home so important to us?<\/strong> <\/p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.<\/p>",
-        "alignment": "center"
-      }
-    },
-    "165720007696eef0eb": {
-      "type": "single-title_and_text",
-      "disabled": true,
-      "settings": {
-        "title": "Creativity & Craftsmamship",
-        "text": "<p>The heart and soul of what we do is founded on creativity.<\/p>",
-        "alignment": "center"
-      }
-    },
-    "1657200203628ef58f": {
-      "type": "simple-button",
-      "settings": {
-        "label": "Discover More about our Craftsmanship",
-        "link": "shopify:\/\/pages\/block-printing",
-        "color_scheme": "dark"
-      }
-    },
     "1649421151e2286ae0": {
       "type": "image-banner",
       "blocks": {
         "1649421151dae3f553-0": {
           "type": "heading",
           "settings": {
-            "heading": "We love block printering",
+            "heading": "We love block printing",
             "heading_type": "header2"
           }
         },
@@ -121,15 +95,115 @@
         "1649421151dae3f553-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOLLY_BLOCKPRINTING_BODEN.jpg",
+        "image": "shopify:\/\/shop_images\/269611342_313979097124189_10294121352655617_n.jpg",
         "make_logo_white": false,
-        "top_margin": true,
+        "top_margin": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text"
+      }
+    },
+    "1657199219affcebfd": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p>By working with artisans, production is small and we have a personal understanding on how each of our products are being produced. <\/p><p><strong>Printing and making in India: <\/strong><\/p><p>We are proud to be involved in key decisions with working with our producers who are making similar shifts in their approach to the waste and pollution that is made.  We are also very conscious of the cultures we cross and the people we employee which is reflected by paying above the average price as we feel we are paying a fair and reflective price.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "165720007696eef0eb": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "settings": {
+        "title": "Creativity & Craftsmamship",
+        "text": "<p>The heart and soul of what we do is founded on creativity.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1657200203628ef58f": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Discover More about our Craftsmanship",
+        "link": "shopify:\/\/pages\/block-printing",
+        "color_scheme": "dark"
+      }
+    },
+    "1657554766c55377b3": {
+      "type": "multicolumn",
+      "blocks": {
+        "165755476682de038b-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "165755476682de038b-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "165755476682de038b-0",
+        "165755476682de038b-1"
+      ],
+      "settings": {
+      }
+    },
+    "16572005737a4e951b": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>UK industry:<\/strong><\/p><p>We are the biggest fans of our producers here in the UK.  Where there are no highly skilled block printers like our Indian craftsman, we locally source first to help us make our products.  UK industry is highly skilled and we use like minded producers in many varying industries.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1657200715d6671ac0": {
+      "type": "simple-button",
+      "disabled": true,
+      "settings": {
+        "label": "Discover our Workshops",
+        "link": "shopify:\/\/pages\/workshops-and-events",
+        "color_scheme": "dark"
+      }
+    },
+    "1649796058b0df534e": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
+        "alignment": "center"
       }
     },
     "16494230664438bb0a": {
@@ -168,46 +242,20 @@
         "text_align": "center",
         "layout": "image_first"
       }
-    },
-    "16572005737a4e951b": {
-      "type": "single-title_and_text",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.<\/p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.<\/p>",
-        "alignment": "center"
-      }
-    },
-    "1657200715d6671ac0": {
-      "type": "simple-button",
-      "disabled": true,
-      "settings": {
-        "label": "Discover our Workshops",
-        "link": "shopify:\/\/pages\/workshops-and-events",
-        "color_scheme": "dark"
-      }
-    },
-    "1649796058b0df534e": {
-      "type": "single-title_and_text",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
-        "alignment": "center"
-      }
     }
   },
   "order": [
     "main",
     "1649773735fabcedda",
     "1657198256089a7c52",
+    "1649421151e2286ae0",
     "1657199219affcebfd",
     "165720007696eef0eb",
     "1657200203628ef58f",
-    "1649421151e2286ae0",
-    "16494230664438bb0a",
+    "1657554766c55377b3",
     "16572005737a4e951b",
     "1657200715d6671ac0",
-    "1649796058b0df534e"
+    "1649796058b0df534e",
+    "16494230664438bb0a"
   ]
 }
