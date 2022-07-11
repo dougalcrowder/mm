@@ -105,6 +105,22 @@
         "layout": "image_first"
       }
     },
+    "16575248265ae56784": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p>Molly runs her business with her husband Rollo and their children and their dog Bramble who are all very much involved.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1649796058b0df534e": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
+        "alignment": "center"
+      }
+    },
     "165720007696eef0eb": {
       "type": "single-title_and_text",
       "settings": {
@@ -183,11 +199,12 @@
         "color_scheme": "dark"
       }
     },
-    "1649796058b0df534e": {
+    "1657525778565a7c98": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
-        "title": "",
-        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
+        "title": "Giving Back",
+        "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.<\/p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.<\/p>",
         "alignment": "center"
       }
     }
@@ -198,11 +215,13 @@
     "1649773735fabcedda",
     "1657199219affcebfd",
     "16494230664438bb0a",
+    "16575248265ae56784",
+    "1649796058b0df534e",
     "165720007696eef0eb",
     "1657200203628ef58f",
     "1649421151e2286ae0",
     "16572005737a4e951b",
     "1657200715d6671ac0",
-    "1649796058b0df534e"
+    "1657525778565a7c98"
   ]
 }
