@@ -195,7 +195,7 @@
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
-            "desktop_text_box_position": "between",
+            "desktop_text_box_position": "start",
             "text_align": "center",
             "button_label": "Shop Lighting",
             "button_link": "shopify:\/\/collections\/lighting",
