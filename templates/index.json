@@ -355,15 +355,15 @@
             "narrow": false,
             "image": "shopify:\/\/shop_images\/GCGARMS-2_ea7bb47c-700a-4feb-859d-01077089cb01.jpg",
             "title": "",
-            "subtitle": "",
+            "subtitle": "Greencombe Collections",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "white_text",
+            "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "View",
+            "button_link": "shopify:\/\/collections\/greencombe",
             "subtext": ""
           }
         }
