@@ -277,53 +277,6 @@
         "color_scheme": "white_text"
       }
     },
-    "1657190769aa0240ea": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "1657190769ac3e705c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Handmade Rug",
-            "heading_type": "header1"
-          }
-        },
-        "1657190769ac3e705c-1": {
-          "type": "text",
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false
-          }
-        },
-        "1657190769ac3e705c-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1657190769ac3e705c-0",
-        "1657190769ac3e705c-1",
-        "1657190769ac3e705c-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/RUG_CIRCLES_PINK_1800X900_aa1f287d-46b4-4eb5-8f35-ab9fe0b9c59c.jpg",
-        "make_logo_white": false,
-        "top_margin": true,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text"
-      }
-    },
     "16571921305b28430e": {
       "type": "multicolumn",
       "blocks": {
@@ -683,7 +636,6 @@
     "1657184159fa326193",
     "163481963822b4d1b3",
     "1657125172969e3f3f",
-    "1657190769aa0240ea",
     "16571921305b28430e",
     "1657185355c64083f9",
     "1634821627eaee293f",
