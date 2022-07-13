@@ -5,12 +5,14 @@
       "blocks": {
         "featured_image": {
           "type": "featured_image",
+          "disabled": true,
           "settings": {
             "image_height": "adapt"
           }
         },
         "title": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "blog_show_date": false,
             "blog_show_author": false
@@ -49,10 +51,157 @@
         "show_view_all": true,
         "show_secondary_image": false
       }
+    },
+    "16577300071f976c5e": {
+      "type": "image-banner",
+      "blocks": {
+        "1657730007a25f7230-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Greencombe Collection",
+            "heading_type": "header1"
+          }
+        },
+        "1657730007a25f7230-1": {
+          "type": "text",
+          "settings": {
+            "text": "Designed in Sussex, hand blocked in Rajasthan",
+            "go_serif": true
+          }
+        },
+        "1657730007a25f7230-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Click here to order your brochure",
+            "button_link_1": "shopify:\/\/products\/fabric-greencombe-brochure-freesample",
+            "button_style_secondary_1": true,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657730007a25f7230-0",
+        "1657730007a25f7230-1",
+        "1657730007a25f7230-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GCSEEI-2_a4244011-1a17-475b-ae48-d1dd016ce087.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1657730156eeff869f": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657730156412eb3fd-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/DIANTHUS_GARDENPATH_1600x_d4849115-0857-4911-b35e-1f54e1b8943c.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1657730156412eb3fd-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/HORSE_DIANTHUS_1600x_11d87c30-ab29-4ec7-87d3-51d0f7bcd3c6.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657730156412eb3fd-0",
+        "1657730156412eb3fd-1"
+      ],
+      "settings": {
+      }
+    },
+    "1657730380748266d7": {
+      "type": "image-banner",
+      "blocks": {
+        "1657730379dcd0a206-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1657730379dcd0a206-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "1657730379dcd0a206-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657730379dcd0a206-0",
+        "1657730379dcd0a206-1",
+        "1657730379dcd0a206-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DIANTHUSFOURPOSTER_3500x_f5491aa4-9a90-4f21-8f81-df98aad59971.jpg",
+        "make_logo_white": false,
+        "top_margin": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
     }
   },
   "order": [
     "main",
-    "164975103076740208"
+    "164975103076740208",
+    "16577300071f976c5e",
+    "1657730156eeff869f",
+    "1657730380748266d7"
   ]
 }
