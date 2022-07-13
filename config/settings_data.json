@@ -253,14 +253,14 @@
             "type": "four_menus",
             "settings": {
               "fl_title": "New in",
-              "label1": "New Fabric & Wallpaper",
-              "link1": "shopify:\/\/collections\/new-fabric-wallpaper",
-              "label2": "New Quilts",
-              "link2": "shopify:\/\/collections\/new-quilts",
-              "label3": "New Cushions",
-              "link3": "shopify:\/\/collections\/new-cushions",
-              "label4": "New Rug",
-              "link4": "shopify:\/\/collections\/new-rug"
+              "label1": "New Table Linen",
+              "link1": "shopify:\/\/collections\/new-table-linen",
+              "label2": "New Rug",
+              "link2": "shopify:\/\/collections\/new-rug",
+              "label3": "",
+              "link3": "",
+              "label4": "",
+              "link4": ""
             }
           },
           "04ebb945-d839-4141-86d1-017268a2d6a4": {
@@ -340,7 +340,7 @@
           "45b8cf5e-2b43-43c7-8e2c-e610a15a8bca": {
             "type": "nav_columns",
             "settings": {
-              "title": "Shop Printing & Stationary",
+              "title": "Shop Printing & Stationery",
               "col_nav_1a": "nav-printing-supplies",
               "col_nav_1b": "",
               "col_nav_2a": "nav-stationary",
@@ -395,8 +395,8 @@
             "settings": {
               "title": "MM World",
               "col_nav_1a": "nav-about",
-              "col_nav_1b": "nav-block-printing",
-              "col_nav_2a": "nav-journal",
+              "col_nav_1b": "nav-journal",
+              "col_nav_2a": "nav-block-printing",
               "col_nav_2b": "",
               "col_nav_3a": "",
               "col_nav_3b": "",

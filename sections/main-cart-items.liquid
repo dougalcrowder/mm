@@ -3,6 +3,15 @@
 <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
 {% endcomment %}
 <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
+
+{% assign coffeedup = false %}
+{%- for item in cart.items -%}
+  {%- if item.product.handle == "coffee-reads-peru-organic" -%}
+  {%- assign coffeedup = true -%}
+  {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+
 <cart-items class="inner{% if cart == empty %} is-empty{% endif %}">
   <div class="title-wrapper-with-link">
     <h1 class="visually-hidden">{{ 'sections.cart.title' | t }}</h1>
@@ -14,7 +23,7 @@
       <a class="button nude" href="javascript:if(window.print)window.print()" aria-label="Print (like it is 1997)">{% render 'icon-print' %} Print</a>
     </div>
     {% endcomment %}
-    <div class="gofrit">
+    <div class="gofrit{% unless coffeedup %} hidden{% endunless %}">
         <div id="main-cart-header">
             <div class="totals flex">
               <p class="totals__subtotal">{{ 'sections.cart.subtotal' | t }}:</p>
@@ -307,6 +316,7 @@
                 </div>
               {%- endfor -%}
             </div>
+          
         </div>
         {%- endif -%}
       </div>
@@ -320,6 +330,27 @@
     {% endcomment %}
   </form>
 </cart-items>
+
+
+
+{%- unless coffeedup -%}
+{%- for item in cart.items -%}
+{%- for collect in item.product.collections -%}
+{%- if collect.handle == 'kitchen' -%}
+  <div class="offer_prompt inner flex">
+    <p>Hurrah! Your order qualifies for a free bag of coffee</p>
+    <form method="post" action="/cart/add" id="product-form-template--14284550864954__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="39628816416826">
+      <div class="product-form__buttons">
+          <input type="submit" name="add" value="Add to cart" class="button green small">
+        </div>
+      </form>
+  </div>
+{%- break -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+{%- endunless -%}
+
 <div class="empty-cart inner narrow center">
   <h2>Oh no, your cart is empty!</h2>
   <br>
