@@ -50,10 +50,10 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
+            "narrow": true,
             "title": "",
             "subtitle": "In this vibrant online course, Molly explores the fundamentals of block printing, revealing her sources of inspiration and creative process so you can be empowered to start your own block printing projects at home.",
-            "subtitle_size": "small",
+            "subtitle_size": "large",
             "text": "",
             "button_color": "red",
             "color_scheme": "red_text",
