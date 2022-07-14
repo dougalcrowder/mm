@@ -47,10 +47,19 @@
         "show_view_all": true,
         "show_secondary_image": false
       }
+    },
+    "165780769577c12393": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Back to the Journal",
+        "link": "shopify:\/\/blogs\/journal",
+        "color_scheme": "red"
+      }
     }
   },
   "order": [
     "main",
-    "164975103076740208"
+    "164975103076740208",
+    "165780769577c12393"
   ]
 }
