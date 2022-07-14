@@ -3,7 +3,9 @@
 <h1 class="visually-hidden">{{ blog.title | escape }}</h1>
  
   <div class="main-blog"">
+    {%- if blog.handle == 'journal' -%}
     {% include 'mm-world-nav' %}
+    {%- endif -%}
     {%- if section.settings.blog_header != blank or section.settings.blog_intro != blank -%}
     <div class="blog_intro inner intros">
       {%- if section.settings.blog_header != blank -%}
