@@ -330,6 +330,124 @@
       ],
       "settings": {
       }
+    },
+    "1657786524439edeb4": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657786524a4b5ca65-0": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "1657786524a4b5ca65-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Culminating nostalgic depicitions of Strawberries and Tulips, reworkings of the majestic Mughal flower design, playing with visions of stripes left behind a plough, and a little seeds denoting hope and new beginnings.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1657786524a4b5ca65-0",
+        "1657786524a4b5ca65-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GCGARMS-2_ea7bb47c-700a-4feb-859d-01077089cb01.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "1657786602be65cc53": {
+      "type": "multicolumn",
+      "blocks": {
+        "165778660260e93d17-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/GCTULII-2_1600x_c41fbb0d-9e43-4b72-aeba-e6bf45a8cce7.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "165778660260e93d17-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/GCBERGS-2_1600x_3cfb1186-a379-4049-9033-d26cbf8c6c21.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "165778660260e93d17-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BAGSTANDS_ARMCHAIR_1600x_019c2412-72c5-4510-b5f3-fcab40659e43.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "165afc99-a4c5-4a63-9cbe-df911ba644e8": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/STRAWBERRY_CURTAIN_1600x_a144b500-79c3-4668-b192-c2128c4a83b0.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "165778660260e93d17-0",
+        "165778660260e93d17-1",
+        "165778660260e93d17-2",
+        "165afc99-a4c5-4a63-9cbe-df911ba644e8"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -340,6 +458,8 @@
     "1657730380748266d7",
     "16577858874502d623",
     "1657786090cc89e628",
-    "165778620611418523"
+    "165778620611418523",
+    "1657786524439edeb4",
+    "1657786602be65cc53"
   ]
 }
