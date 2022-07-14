@@ -624,6 +624,94 @@
         "text_align": "center",
         "layout": "image_first"
       }
+    },
+    "16577883639ab33180": {
+      "type": "image-banner",
+      "blocks": {
+        "16577883634e8747c8-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "16577883634e8747c8-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "16577883634e8747c8-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16577883634e8747c8-0",
+        "16577883634e8747c8-1",
+        "16577883634e8747c8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/POPPY_CURTAIN_SITTINGROOM_3500x_81426930-76e0-499b-96be-3c7785969692.jpg",
+        "make_logo_white": false,
+        "top_margin": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1657788484c1ce8251": {
+      "type": "image-with-text",
+      "blocks": {
+        "16577884832ae4f504-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16577884832ae4f504-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>"
+          }
+        },
+        "16577884832ae4f504-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16577884832ae4f504-0",
+        "16577884832ae4f504-1",
+        "16577884832ae4f504-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -640,6 +728,8 @@
     "16577876993a1651a0",
     "165778780802bdc2a5",
     "16577879925ee322e6",
-    "1657788189ba81a92f"
+    "1657788189ba81a92f",
+    "16577883639ab33180",
+    "1657788484c1ce8251"
   ]
 }
