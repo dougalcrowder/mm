@@ -489,7 +489,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/STRAWBERRY_MAINCURTAIN_3500x_2ed47fdc-376f-4325-a358-ea150b0c31a4.jpg",
         "make_logo_white": false,
-        "top_margin": false,
+        "top_margin": true,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -712,6 +712,14 @@
         "text_align": "center",
         "layout": "text_first"
       }
+    },
+    "1657807750e4739f83": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Back to the Look Books",
+        "link": "shopify:\/\/blogs\/look-books",
+        "color_scheme": "red"
+      }
     }
   },
   "order": [
@@ -730,6 +738,7 @@
     "16577879925ee322e6",
     "1657788189ba81a92f",
     "16577883639ab33180",
-    "1657788484c1ce8251"
+    "1657788484c1ce8251",
+    "1657807750e4739f83"
   ]
 }
