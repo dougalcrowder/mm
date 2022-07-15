@@ -60,55 +60,6 @@
         "alignment": "center"
       }
     },
-    "1657554766c55377b3": {
-      "type": "multicolumn",
-      "blocks": {
-        "165755476682de038b-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "165755476682de038b-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "165755476682de038b-0",
-        "165755476682de038b-1"
-      ],
-      "settings": {
-      }
-    },
     "1657811114f24b0af2": {
       "type": "multicolumn",
       "blocks": {
@@ -181,6 +132,55 @@
         "label": "Discover More about our Craftsmanship",
         "link": "shopify:\/\/pages\/block-printing",
         "color_scheme": "dark"
+      }
+    },
+    "1657554766c55377b3": {
+      "type": "multicolumn",
+      "blocks": {
+        "165755476682de038b-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "165755476682de038b-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "165755476682de038b-0",
+        "165755476682de038b-1"
+      ],
+      "settings": {
       }
     },
     "1649421151e2286ae0": {
@@ -297,11 +297,11 @@
     "main",
     "1649773735fabcedda",
     "1657198256089a7c52",
-    "1657554766c55377b3",
     "1657811114f24b0af2",
     "1657199219affcebfd",
     "165720007696eef0eb",
     "1657200203628ef58f",
+    "1657554766c55377b3",
     "1649421151e2286ae0",
     "16572005737a4e951b",
     "1657200715d6671ac0",
