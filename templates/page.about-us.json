@@ -137,14 +137,14 @@
         "165789457062446127-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "",
             "heading_type": "header1"
           }
         },
         "165789457062446127-1": {
           "type": "text",
           "settings": {
-            "text": "Make yourself a home.",
+            "text": "",
             "go_serif": false
           }
         },
