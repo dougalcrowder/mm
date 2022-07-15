@@ -157,12 +157,21 @@
               "heading": "Trade & Press",
               "menu": "press"
             }
+          },
+          "c9bbf522-e899-4cc9-9fe2-978674985d1d": {
+            "type": "link_list",
+            "disabled": true,
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "b5dac7b8-367b-40cc-b268-8c06c9d8b635",
-          "d4e833a1-a2e4-4972-af43-171c7f65982e"
+          "d4e833a1-a2e4-4972-af43-171c7f65982e",
+          "c9bbf522-e899-4cc9-9fe2-978674985d1d"
         ],
         "settings": {
           "color_scheme": "background-1",
@@ -418,6 +427,78 @@
           "15b6216d-35a5-4aa6-b3eb-88af24ae9c10"
         ],
         "settings": {
+        }
+      },
+      "multicolumn": {
+        "type": "multicolumn",
+        "blocks": {
+          "6b210781-0668-445a-9d11-2b909bb26598": {
+            "type": "column",
+            "settings": {
+              "width": "one_third",
+              "narrow": false,
+              "image": "shopify:\/\/shop_images\/MM_FABRIC_WASHING_LIFE_1300x1300_bbc873a8-e257-4513-8af1-cf98061be49a.jpg",
+              "title": "Column",
+              "subtitle": "Under the stars in style",
+              "subtitle_size": "small",
+              "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+              "button_color": "white",
+              "color_scheme": "white_text",
+              "desktop_text_box_position": "center",
+              "text_align": "center",
+              "button_label": "Button label",
+              "button_link": "",
+              "subtext": ""
+            }
+          },
+          "d71a2ae9-06f5-427a-b953-9691a3affb80": {
+            "type": "column",
+            "settings": {
+              "width": "one_third",
+              "narrow": false,
+              "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
+              "title": "Column",
+              "subtitle": "Under the stars in style",
+              "subtitle_size": "small",
+              "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+              "button_color": "white",
+              "color_scheme": "white_text",
+              "desktop_text_box_position": "center",
+              "text_align": "center",
+              "button_label": "Button label",
+              "button_link": "",
+              "subtext": ""
+            }
+          },
+          "c03841f0-f2e7-4fc2-95da-4a898113305e": {
+            "type": "column",
+            "settings": {
+              "width": "one_third",
+              "narrow": false,
+              "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+              "title": "Column",
+              "subtitle": "Under the stars in style",
+              "subtitle_size": "small",
+              "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+              "button_color": "white",
+              "color_scheme": "white_text",
+              "desktop_text_box_position": "center",
+              "text_align": "center",
+              "button_label": "Button label",
+              "button_link": "",
+              "subtext": ""
+            }
+          }
+        },
+        "block_order": [
+          "6b210781-0668-445a-9d11-2b909bb26598",
+          "d71a2ae9-06f5-427a-b953-9691a3affb80",
+          "c03841f0-f2e7-4fc2-95da-4a898113305e"
+        ],
+        "settings": {
+          "mc_title": "Discover More",
+          "show_title": true,
+          "add_spacing": true
         }
       }
     },
