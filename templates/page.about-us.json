@@ -70,23 +70,85 @@
     },
     "1657534986eb08901e": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "16575349860982ab1b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Meet Molly Mahon",
             "heading_type": "header1"
           }
         },
         "16575349860982ab1b-1": {
           "type": "text",
           "settings": {
-            "text": "Make yourself a home.",
+            "text": "",
             "go_serif": false
           }
         },
         "16575349860982ab1b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16575349860982ab1b-0",
+        "16575349860982ab1b-1",
+        "16575349860982ab1b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_MOBILE_1300x1300_243b2461-51ef-41f9-8a6e-75317dd70895.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "16575248265ae56784": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p><em>\"I never tire of lifting the block and seeing the impression that has been left, the slight movement that you get from a hand print is what I enthusiastically call ‘perfect imperfections.\"<\/em><\/p><p>There is something special about block printing that has stood the test of time.  To me it brings the fabric alive and this is exactly what it does to our homes.<\/p><p>I am a British printmaker who started at my kitchen table and now runs a design studio which distributes our designs globally.  Having partnered with Christies, Firmdale Hotels, Cabbages & Roses and more recently Boden amongst others we understand the power of pretty print and we aim to offer the most modern and fresh prints and colours amongst our community.  With all our designs being design in house we can offer originality and a very bespoke handwriting with Molly overseeing all elements of design.<\/p><p>Molly runs her business with her husband Rollo and their children and their dog Bramble who are all very much involved.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1649796058b0df534e": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
+        "alignment": "center"
+      }
+    },
+    "16578945700c2c5ca5": {
+      "type": "image-banner",
+      "blocks": {
+        "165789457062446127-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "165789457062446127-1": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "165789457062446127-2": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Button label",
@@ -99,11 +161,12 @@
         }
       },
       "block_order": [
-        "16575349860982ab1b-0",
-        "16575349860982ab1b-1",
-        "16575349860982ab1b-2"
+        "165789457062446127-0",
+        "165789457062446127-1",
+        "165789457062446127-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50_9462433f-6c8e-4884-b866-6c7fa035e7f2.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -112,59 +175,6 @@
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text"
-      }
-    },
-    "16494230664438bb0a": {
-      "type": "image-with-text",
-      "blocks": {
-        "1649423066017d47e1-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Meet Molly Mahon"
-          }
-        },
-        "1649423066017d47e1-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>There is something special about block printing that has stood the test of time.  To me it brings the fabric alive and this is exactly what it does to our homes.<\/p><p>I am a British printmaker who started at my kitchen table and now runs a design studio which distributes our designs globally.  Having partnered with Christies, Firmdale Hotels, Cabbages & Roses and more recently Boden amongst others we understand the power of pretty print and we aim to offer the most modern and fresh prints and colours amongst our community.  With all our designs being design in house we can offer originality and a very bespoke handwriting with Molly overseeing all elements of design.<br\/> <\/p>"
-          }
-        },
-        "1649423066017d47e1-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1649423066017d47e1-0",
-        "1649423066017d47e1-1",
-        "1649423066017d47e1-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS.jpg",
-        "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "end",
-        "text_align": "center",
-        "layout": "image_first"
-      }
-    },
-    "16575248265ae56784": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "",
-        "text": "<p>Molly runs her business with her husband Rollo and their children and their dog Bramble who are all very much involved.<\/p>",
-        "alignment": "center"
-      }
-    },
-    "1649796058b0df534e": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "",
-        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
-        "alignment": "center"
       }
     },
     "165720007696eef0eb": {
@@ -232,8 +242,8 @@
     "16572005737a4e951b": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "",
-        "text": "<p>Creative acts are very inclusive, they create camaraderie, spark the imagination, allow us to realise our capabilities as humans.  If we create we can experience pride, delight and the feeling of being physical.  <\/p><p><em>\"My studio is my special space; while it bustles and hums with books, paint, blocks, scrapbooks, paper and a plethora of artists tools its also a place of calm, free of technology, a private and personal space where I can be completely ‘me’.\" Molly Mahon<\/em><\/p>",
+        "title": "Creativity",
+        "text": "<p>The heart and soul of what we do is founded on creativity.<\/p><p>Creative acts are very inclusive, they create camaraderie, spark the imagination, allow us to realise our capabilities as humans.  If we create we can experience pride, delight and the feeling of being physical.  <\/p><p><em>\"My studio is my special space; while it bustles and hums with books, paint, blocks, scrapbooks, paper and a plethora of artists tools its also a place of calm, free of technology, a private and personal space where I can be completely ‘me’.\" Molly Mahon<\/em><\/p>",
         "alignment": "center"
       }
     },
@@ -261,9 +271,9 @@
     "1649773735fabcedda",
     "1657199219affcebfd",
     "1657534986eb08901e",
-    "16494230664438bb0a",
     "16575248265ae56784",
     "1649796058b0df534e",
+    "16578945700c2c5ca5",
     "165720007696eef0eb",
     "1657200203628ef58f",
     "1649421151e2286ae0",
