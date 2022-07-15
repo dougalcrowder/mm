@@ -68,7 +68,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
+            "image": "shopify:\/\/shop_images\/MM_INDIA_BLOCK_CARVER.jpg",
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -87,7 +87,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+            "image": "shopify:\/\/shop_images\/MASTEROFCOLOUR_BOOKMARK_PINK_LIFE_1300x1300_c92a8039-6e6f-43af-8134-b26179923e76.jpg",
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -117,7 +117,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
+            "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -156,6 +156,14 @@
         "165755476682de038b-1"
       ],
       "settings": {
+      }
+    },
+    "1657884730d012c5eb": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p>Happening alongside this is the growing of the cotton or flax and the weaving down in the South of India for we need something upon which to carry the print.  This cloth is in turn pinned meticulously to 25m print tables and we are ready to print.<\/p>",
+        "alignment": "center"
       }
     },
     "1657199219affcebfd": {
@@ -299,6 +307,7 @@
     "1657198256089a7c52",
     "165788432850e37d07",
     "1657554766c55377b3",
+    "1657884730d012c5eb",
     "1657199219affcebfd",
     "1649421151e2286ae0",
     "165720007696eef0eb",
