@@ -1,9 +1,12 @@
-<div class="multicolumn inner">
-    <ul class="multicolumn grid">
-      {%- for block in section.blocks -%}
-        {%- include 'multi-column' -%}
-      {%- endfor -%}
-    </ul>
+<div class="multicolumn inner{% if section.settings.add_spacing %} padd_top{% endif %}">
+  {%- if section.settings.show_title -%}
+    <h3 class="h2 center">{{ section.settings.mc_title }}</h3>
+  {%- endif -%}
+  <ul class="multicolumn grid">
+    {%- for block in section.blocks -%}
+      {%- include 'multi-column' -%}
+    {%- endfor -%}
+  </ul>
 </div>
 
 {% schema %}
@@ -13,7 +16,23 @@
 "class": "multicolumn-section",
 "tag": "section",
 "settings": [
-  
+   {
+     "type": "text",
+     "id": "mc_title",
+     "label": "Title"
+   },
+   {
+     "type": "checkbox",
+     "id": "show_title",
+     "default": false,
+     "label": "Show the title"
+   },
+   {
+      "type": "checkbox",
+      "id": "add_spacing",
+      "default": false,
+      "label": "Add extra space above"
+    }
 ],
 "blocks": [
   {
