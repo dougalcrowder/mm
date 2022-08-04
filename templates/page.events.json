@@ -74,23 +74,6 @@
             "event_buy_btn": ""
           }
         },
-        "739546b9-6ea3-463f-8b73-9e613947c2d8": {
-          "type": "event",
-          "disabled": true,
-          "settings": {
-            "event_title": "Block printing cushion covers at Daylesford",
-            "event_intro": "Join printmaker Molly Mahon in the Glasshouse at Daylesford for a morning workshop, experiencing the joy of block printing and making your own cushion cover. Celebrating the launch of her new fabric collection 'Bloom'  you will use Molly’s floral carved wooden blocks, experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.",
-            "event_description": "<p>The workshop includes all materials, welcome coffee and pastries and refreshments throughout the morning.<br\/><\/p>",
-            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
-            "event_date": "Tuesday, 1st November 2022",
-            "event_extras": "",
-            "event_price": "",
-            "event_button_text": "",
-            "event_button_text_2": "",
-            "event_external_link": "https:\/\/www.daylesford.com\/shop\/events\/block-printing-cushions-with-molly-mahon",
-            "event_buy_btn": ""
-          }
-        },
         "74a99284-5e9e-499a-b2e2-c5fcd6bba903": {
           "type": "event",
           "settings": {
@@ -107,8 +90,25 @@
             "event_buy_btn": ""
           }
         },
+        "739546b9-6ea3-463f-8b73-9e613947c2d8": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block printing cushion covers at Daylesford",
+            "event_intro": "Join printmaker Molly Mahon in the Glasshouse at Daylesford for a morning workshop, experiencing the joy of block printing and making your own cushion cover. Celebrating the launch of her new fabric collection 'Bloom'  you will use Molly’s floral carved wooden blocks, experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.",
+            "event_description": "<p>The workshop includes all materials, welcome coffee and pastries and refreshments throughout the morning.<br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
+            "event_date": "Tuesday, 1st November 2022",
+            "event_extras": "Timings: 0930am - 1pm",
+            "event_price": "",
+            "event_button_text": "Book here via Daylesford",
+            "event_button_text_2": "",
+            "event_external_link": "https:\/\/www.daylesford.com\/shop\/events\/block-printing-cushions-with-molly-mahon",
+            "event_buy_btn": ""
+          }
+        },
         "86e614b8-e8c2-491e-832a-3e23d40baa3f": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "Block printing Linen tea towels at Thyme, Cotswolds",
             "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
@@ -125,6 +125,7 @@
         },
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "Block printing Cards & Envelopes at Thyme, Cotswolds",
             "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
@@ -174,8 +175,8 @@
       },
       "block_order": [
         "16352620842faf27c4-0",
-        "739546b9-6ea3-463f-8b73-9e613947c2d8",
         "74a99284-5e9e-499a-b2e2-c5fcd6bba903",
+        "739546b9-6ea3-463f-8b73-9e613947c2d8",
         "86e614b8-e8c2-491e-832a-3e23d40baa3f",
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
         "519cccd8-5c39-4a42-9387-5286d373629a",
