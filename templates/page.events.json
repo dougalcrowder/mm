@@ -93,18 +93,17 @@
         },
         "74a99284-5e9e-499a-b2e2-c5fcd6bba903": {
           "type": "event",
-          "disabled": true,
           "settings": {
-            "event_title": "Felt Exhibition",
-            "event_intro": "Molly Mahon is delighted to be showcasing three new and unique wall hangings at this year's Felt Exhibition.\n\nLovingly hand block printed and hand sewn by Molly, these vibrant works of art will be sitting alongside some fabulous fellow artists and designers this May.",
-            "event_description": "",
-            "image": "shopify:\/\/shop_images\/INVITATION_FELT_COLLECTION_02.jpg",
-            "event_date": "Wednesday 4th May - Saturday 7th May",
-            "event_extras": "Safehouse 1, Peckham.",
-            "event_price": "",
-            "event_button_text": "RSVP",
+            "event_title": "Ashbrook Workshop",
+            "event_intro": "Join Molly for a one-day workshop at Ashbrook House near Banbury, experiencing the joy of block printing and making your own lampshade for your home. Using Molly’s carved wooden blocks, you will experiment with colour and pattern in the morning, and finish by printing your own 30cm lampshade in the afternoon with a delicious, organic lunch in between!\nThis course is suitable for all levels with no experience necessary.",
+            "event_description": "<p>Block Print & make your own lampshade<\/p>",
+            "image": "shopify:\/\/shop_images\/ASBROOK_WORKSHOP.jpg",
+            "event_date": "Friday, 29th September (10am-3pm)",
+            "event_extras": "Ashbrook House, Moreton Pinkney.  NN11 3SN",
+            "event_price": "£220.00 pp",
+            "event_button_text": "Book your Place",
             "event_button_text_2": "",
-            "event_external_link": "mailto:info@felt-collections.com",
+            "event_external_link": "",
             "event_buy_btn": ""
           }
         },
