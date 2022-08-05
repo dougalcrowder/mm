@@ -236,7 +236,6 @@
     },
     "1659710052c951616a": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "16597100523beda7b8-0": {
           "type": "heading",
@@ -255,7 +254,7 @@
         "16597100523beda7b8-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "",
+            "button_label_1": "Shop Here",
             "button_link_1": "shopify:\/\/collections\/summer-sale",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -270,7 +269,8 @@
         "16597100523beda7b8-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mmsale_banner.jpg",
+        "image": "shopify:\/\/shop_images\/mmsale_banner_0edccc1a-69c4-49e8-af65-587a778c10ce.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/SUMMERSALE_MOBILEBANNER_1300x1300_da17b9f1-295b-45ee-9694-0d47441c08f0.jpg",
         "make_logo_white": false,
         "top_margin": true,
         "desktop_text_box_position": "middle",
