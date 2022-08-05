@@ -229,6 +229,55 @@
         "163481963822b4d1b3-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
+      }
+    },
+    "1659710052c951616a": {
+      "type": "image-banner",
+      "blocks": {
+        "16597100523beda7b8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        },
+        "16597100523beda7b8-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": false
+          }
+        },
+        "16597100523beda7b8-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections\/summer-sale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16597100523beda7b8-0",
+        "16597100523beda7b8-1",
+        "16597100523beda7b8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mmsale_banner.jpg",
+        "make_logo_white": false,
+        "top_margin": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
       }
     },
     "1657125172969e3f3f": {
@@ -324,6 +373,9 @@
         "16571921300faede58-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
       }
     },
     "1657185355c64083f9": {
@@ -373,6 +425,9 @@
         "1657185355f4da2f74-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
       }
     },
     "1634821627eaee293f": {
@@ -513,6 +568,9 @@
         "16571287126ed8a3c3-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
       }
     },
     "16348163341a2e5254": {
@@ -635,6 +693,7 @@
     "16348194267fffd3c9",
     "1657184159fa326193",
     "163481963822b4d1b3",
+    "1659710052c951616a",
     "1657125172969e3f3f",
     "16571921305b28430e",
     "1657185355c64083f9",
