@@ -266,8 +266,8 @@
               "link1": "shopify:\/\/collections\/new-table-linen",
               "label2": "New Rug",
               "link2": "shopify:\/\/collections\/new-rug",
-              "label3": "",
-              "link3": "",
+              "label3": "Summer Sale",
+              "link3": "shopify:\/\/collections\/summer-sale",
               "label4": "",
               "link4": ""
             }
@@ -499,6 +499,9 @@
           "c03841f0-f2e7-4fc2-95da-4a898113305e"
         ],
         "settings": {
+          "mc_title": "",
+          "show_title": false,
+          "add_spacing": false
         }
       }
     },
