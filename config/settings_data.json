@@ -140,30 +140,29 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Customer Service",
-              "menu": "customer-service"
+              "heading": "About us",
+              "menu": "footer-1"
             }
           },
           "b5dac7b8-367b-40cc-b268-8c06c9d8b635": {
             "type": "link_list",
             "settings": {
-              "heading": "Explore",
-              "menu": "footer"
+              "heading": "Services",
+              "menu": "footer-2"
             }
           },
           "d4e833a1-a2e4-4972-af43-171c7f65982e": {
             "type": "link_list",
             "settings": {
-              "heading": "Trade & Press",
-              "menu": "press"
+              "heading": "Explore",
+              "menu": "footer-3"
             }
           },
           "c9bbf522-e899-4cc9-9fe2-978674985d1d": {
             "type": "link_list",
-            "disabled": true,
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Media",
+              "menu": "footer-4"
             }
           }
         },
