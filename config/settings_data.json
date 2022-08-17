@@ -265,8 +265,8 @@
               "link1": "shopify:\/\/collections\/new-table-linen",
               "label2": "New Rug",
               "link2": "shopify:\/\/collections\/new-rug",
-              "label3": "",
-              "link3": "",
+              "label3": "Summer Sale",
+              "link3": "shopify:\/\/collections\/summer-sale",
               "label4": "",
               "link4": ""
             }
@@ -433,6 +433,7 @@
         "blocks": {
           "6b210781-0668-445a-9d11-2b909bb26598": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
               "narrow": false,
@@ -452,6 +453,7 @@
           },
           "d71a2ae9-06f5-427a-b953-9691a3affb80": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
               "narrow": false,
@@ -471,6 +473,7 @@
           },
           "c03841f0-f2e7-4fc2-95da-4a898113305e": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
               "narrow": false,
@@ -495,9 +498,9 @@
           "c03841f0-f2e7-4fc2-95da-4a898113305e"
         ],
         "settings": {
-          "mc_title": "Discover More",
-          "show_title": true,
-          "add_spacing": true
+          "mc_title": "",
+          "show_title": false,
+          "add_spacing": false
         }
       }
     },
