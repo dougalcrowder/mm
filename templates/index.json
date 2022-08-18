@@ -86,16 +86,16 @@
     },
     "16348194267fffd3c9": {
       "type": "text-banner",
-      "disabled": true,
       "settings": {
         "title": "<p>New Indian Summer Table Linen<\/p>",
         "link": "shopify:\/\/collections\/new-table-linen",
-        "bg_pattern": "pattern_02",
-        "color_scheme": "white_text"
+        "bg_pattern": "pattern_01",
+        "color_scheme": "red_text"
       }
     },
     "1657184159fa326193": {
       "type": "instagram-grid",
+      "disabled": true,
       "blocks": {
         "2083da8c-9e54-4ca2-a9f0-cd5d1ff98534": {
           "type": "Instalink",
@@ -151,7 +151,7 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/TULIP_TRELLIS_GREEN_BED_5409d88e-127f-4b14-8d75-b536de5ad320.jpg",
+            "image": "shopify:\/\/shop_images\/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
             "title": "Fabric",
             "subtitle": "",
             "subtitle_size": "small",
