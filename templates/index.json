@@ -86,6 +86,7 @@
     },
     "16348194267fffd3c9": {
       "type": "text-banner",
+      "disabled": true,
       "settings": {
         "title": "<p>New Indian Summer Table Linen<\/p>",
         "link": "shopify:\/\/collections\/new-table-linen",
@@ -207,7 +208,7 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/WMGPINBLULIFE_8854a44b-ab00-463d-8c58-471b560ebeb3.jpg",
+            "image": "shopify:\/\/shop_images\/CORALBLUE_DEERHYRST_f3fb55ab-e77c-4058-ace5-30b3dd4ca349.jpg",
             "title": "Wallpaper",
             "subtitle": "",
             "subtitle_size": "small",
