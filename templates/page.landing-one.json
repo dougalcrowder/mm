@@ -119,6 +119,55 @@
         "link": "shopify:\/\/collections\/wallpaper",
         "color_scheme": "dark"
       }
+    },
+    "1661849859e0926466": {
+      "type": "instagram-grid",
+      "blocks": {
+        "1661849858b64f9e37-0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_PEONY_PROD1_1300x1300_6987c4f8-2659-4652-9838-fe9d27f2e987.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "780263ca-4c38-4ece-b039-d88daa5e2215": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_FLOWER_PROD1_1300x1300_f880c81d-835f-436b-b694-71b262d3b5c1.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "f4e854a8-6ea4-4727-9610-8d55001696bf": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_PROD1_1300x1300_9012d0a5-be81-4419-98fa-56795c7d09b1.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "3f98f755-05be-4110-a22b-ccc8f3b793ab": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_CHERRY_PROD1_1300x1300_1d91d1ba-2a3b-4f3f-ba79-d05308957af7.jpg",
+            "author": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1661849858b64f9e37-0",
+        "780263ca-4c38-4ece-b039-d88daa5e2215",
+        "f4e854a8-6ea4-4727-9610-8d55001696bf",
+        "3f98f755-05be-4110-a22b-ccc8f3b793ab"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "button_label": "",
+        "button_link": ""
+      }
     }
   },
   "order": [
@@ -126,6 +175,7 @@
     "16421993483b631460",
     "1642200428ac6075d8",
     "16618497380d90ac74",
-    "16618497599dbd86b2"
+    "16618497599dbd86b2",
+    "1661849859e0926466"
   ]
 }
