@@ -103,11 +103,29 @@
         "show_title": false,
         "add_spacing": false
       }
+    },
+    "16618497380d90ac74": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Explore our Best Selling Designer Wallpapers",
+        "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.<\/p>",
+        "alignment": "left"
+      }
+    },
+    "16618497599dbd86b2": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Shop all designer wallpapers",
+        "link": "shopify:\/\/collections\/wallpaper",
+        "color_scheme": "dark"
+      }
     }
   },
   "order": [
     "main",
     "16421993483b631460",
-    "1642200428ac6075d8"
+    "1642200428ac6075d8",
+    "16618497380d90ac74",
+    "16618497599dbd86b2"
   ]
 }
