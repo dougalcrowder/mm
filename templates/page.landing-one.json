@@ -168,6 +168,56 @@
         "button_label": "",
         "button_link": ""
       }
+    },
+    "166185006250e61d34": {
+      "type": "multicolumn",
+      "blocks": {
+        "1661850061a2187548-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "title": "",
+            "subtitle": "Discover a World of Print, Colour and Pattern with Molly Mahon",
+            "subtitle_size": "large",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1661850061a2187548-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "<p>Molly Mahon is a celebrated printmaker in the British textiles<br\/>industry whose block print originals are applied to luxury<br\/>wallpapers, quality fabrics and functional items for the<br\/>home, from napkins to oven gloves!<br\/><\/p><p>Each piece is carefully crafted by artisans in India, using<br\/>hand carved wooden blocks and premium, eco-conscious<br\/>products that combine to create a lifetime of joy. Playful<br\/>prints and vibrant colours are the essence of our designer<br\/>wallpaper patterns, available with matching material and<br\/>accessories to craft your perfect home.<br\/><\/p><p>From Boden to Anthropologie, Molly has collaborated with<br\/>an impressive feast of beloved brands and continues to<br\/>bring delight with her truly British designs, each inspired by<br\/>her love of nature and travel.<br\/><\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "left",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1661850061a2187548-1",
+        "1661850061a2187548-0"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
+      }
     }
   },
   "order": [
@@ -176,6 +226,7 @@
     "1642200428ac6075d8",
     "16618497380d90ac74",
     "16618497599dbd86b2",
-    "1661849859e0926466"
+    "1661849859e0926466",
+    "166185006250e61d34"
   ]
 }
