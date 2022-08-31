@@ -253,6 +253,14 @@
         "margin_top": "none",
         "margin_bot": "m"
       }
+    },
+    "166196159906fadd3f": {
+      "type": "simple_quote",
+      "settings": {
+        "quote": "<p>Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work<\/p>",
+        "cite": "- Cath Kidston MBE",
+        "bg": "green"
+      }
     }
   },
   "order": [
@@ -263,6 +271,7 @@
     "1661950917ca5910a9",
     "1661951966294ab962",
     "16619593053301a27e",
-    "16619593508075d424"
+    "16619593508075d424",
+    "166196159906fadd3f"
   ]
 }
