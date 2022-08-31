@@ -1,0 +1,68 @@
+<div class="newsletter flex inner bg-{{ section.settings.bg }}">
+  {%- if section.settings.quote != blank -%}
+  <div class="quote">
+    <blockquote>
+      {{ section.settings.quote }}
+    </blockquote>
+    {%- if section.settings.cite != blank -%}
+    <cite>{{ section.settings.cite }}</cite>
+  {%- endif -%}
+  </div>
+  {%- endif -%}
+</div>
+
+{% schema %}
+{
+  "name": "Simple Quote",
+  "tag": "section",
+  "class": "quote-section",
+  "settings": [
+    {
+      "type": "richtext",
+      "id": "quote",
+      "default": "<p>Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work</p>",
+      "label": "Quote"
+    },
+    {
+      "type": "text",
+      "id": "cite",
+      "default": "- Cath Kidston MBE",
+      "label": "Citaton"
+    },
+    {
+      "type": "select",
+      "id": "bg",
+      "options": [
+        {
+          "value": "none",
+          "label": "Green"
+        },
+        {
+          "value": "green",
+          "label": "Green"
+        },
+        {
+          "value": "red",
+          "label": "Red"
+        },
+        {
+          "value": "pink",
+          "label": "Pink"
+        }
+      ],
+      "default": "green",
+      "label": "Background Colour"
+    },
+    {
+      "type": "image_picker",
+      "id": "bg-image",
+      "label": "Background Image"
+    },
+  ],
+  "presets": [
+    {
+      "name": "Simple Quote"
+    }
+  ]
+}
+{% endschema %}
