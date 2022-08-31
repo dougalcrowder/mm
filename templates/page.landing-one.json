@@ -188,6 +188,63 @@
       ],
       "settings": {
       }
+    },
+    "16619593053301a27e": {
+      "type": "2-column-text",
+      "blocks": {
+        "1661959305d8047f36-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Be Bold, be Beautiful",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "end",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1661959305d8047f36-0"
+      ],
+      "settings": {
+      }
+    },
+    "16619593508075d424": {
+      "type": "2-column-text",
+      "blocks": {
+        "1661959350df86ec22-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Image with text",
+            "text": "<p>Humans have expressed themselves through colour and pattern for centuries. And we’re no different at Molly Mahon. Each hand block printed wallpaper is thoughtfully designed to elevate your home and bring a smile to any who enter it. <\/p><p>Many of our colours have been inspired from the rich, bold palettes of India. Here Molly was drawn to the energy of rich, vibrant cities, each<br\/><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "b9a74b61-0fc6-4a4a-8eab-0fc854c2d6ff": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "text": "<p>dressed in rainbow shades from the buildings and bridges to the colourful clothing worn by the country’s wonderful people.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1661959350df86ec22-0",
+        "b9a74b61-0fc6-4a4a-8eab-0fc854c2d6ff"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -196,6 +253,8 @@
     "1642200428ac6075d8",
     "166195210128b91b49",
     "1661950917ca5910a9",
-    "1661951966294ab962"
+    "1661951966294ab962",
+    "16619593053301a27e",
+    "16619593508075d424"
   ]
 }
