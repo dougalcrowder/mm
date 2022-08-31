@@ -689,6 +689,92 @@
         "show_text_box": false,
         "color_scheme": "white_text"
       }
+    },
+    "1661966205272a43a2": {
+      "type": "image-banner",
+      "blocks": {
+        "1661966205b9d99aa4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Art of Block Printing",
+            "heading_type": "header1"
+          }
+        },
+        "1661966205b9d99aa4-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "1661966205b9d99aa4-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1661966205b9d99aa4-0",
+        "1661966205b9d99aa4-1",
+        "1661966205b9d99aa4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_MOBILE_1300x1300_243b2461-51ef-41f9-8a6e-75317dd70895.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "dark_text"
+      }
+    },
+    "16619662893284ef96": {
+      "type": "2-column-text",
+      "blocks": {
+        "16619662893dc6af32-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Perfect Imperfections",
+            "text": "<p> <\/p><p><\/p>",
+            "button_label": "Learn more about block printing",
+            "button_link": "shopify:\/\/pages\/the-art-of-block-printing-with-molly-mahon",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "6ef935d0-fc61-4b3f-89c2-ada42abc8f97": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "text": "<p>Block printing is an ancient form of transferring design to cloth that goes back over 4,500 years - and we still love it today. One of the many things that drew Molly to hand block printing was the personal connection with each and every piece. The odd movement between each print of paint gives the finished product a sense of authentic energy that can’t be achieved with a machine. Like the imperfections of real life, it’s what makes it beautiful.<\/p><p>The block printing process starts in Molly’s countryside studio where she turns doodles from nature, travels and her daily life into repeat designs. Each is then carved into a unique lino or wooden block, and brought to life on quality fabrics and paper by our team of master printers in India.<br\/><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16619662893dc6af32-0",
+        "6ef935d0-fc61-4b3f-89c2-ada42abc8f97"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "l"
+      }
     }
   },
   "order": [
@@ -714,6 +800,8 @@
     "16619651182f2f7237",
     "166196584422798e4f",
     "16619659543f81dd81",
-    "16619660998a9e934c"
+    "16619660998a9e934c",
+    "1661966205272a43a2",
+    "16619662893284ef96"
   ]
 }
