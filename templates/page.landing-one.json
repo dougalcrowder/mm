@@ -315,6 +315,147 @@
         "show_title": false,
         "add_spacing": false
       }
+    },
+    "1661963166db3ffe82": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "We have a penchant for vibrant colours here at Molly Mahon. But you’ll also find lighter pastels and a cosy palette of golds and sage to bring personality and passion to your home.",
+        "text": "",
+        "alignment": "left"
+      }
+    },
+    "1661964058633d317f": {
+      "type": "image-banner",
+      "blocks": {
+        "16619640584483b84f-1": {
+          "type": "text",
+          "settings": {
+            "text": "home shot - lighter pastels and a palette of gold showing personality and passion",
+            "go_serif": true
+          }
+        }
+      },
+      "block_order": [
+        "16619640584483b84f-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_House_Home_-_Bed_Bath.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1661964300e29a69df": {
+      "type": "2-column-text",
+      "blocks": {
+        "16619643001e6b54da-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Birds, Bees and Bindi, Oh My",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16619643001e6b54da-0"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    },
+    "1661964322bc4b19cb": {
+      "type": "2-column-text",
+      "blocks": {
+        "16619643222aee4981-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "text": "<p>Nature is at the heart of our designs. Molly’s favourite moments are often marked by natural symbols... ferns found on a family walk, coral for her Mother’s love of the coast, the trees of Ashdown Forest. We’re drawn to nature and feel comfort when it’s brought into our home.<\/p><p>From strawberry fields to starry skies, each print has been carefully<br\/><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "6bb5641a-6711-45f3-8a98-83090ba1f22a": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "text": "<p>chosen to bring joy, peace and plenty of personality. Discover our best selling designer floral wallpaper, Marigold. Or get inspired by Molly’s trips to India. Here you’ll find the rare Marwari Horse trotting along the streets of Rajasthan and our blue Bindi print from the Bagru Collection, a cheerful, subtle stripe that will uplift any space.<br\/><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16619643222aee4981-0",
+        "6bb5641a-6711-45f3-8a98-83090ba1f22a"
+      ],
+      "settings": {
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "16619644470639d01e": {
+      "type": "simple_quote",
+      "settings": {
+        "quote": "<p><em>‘I find it very easy to<br\/>find inspiration in<br\/>nature. Quite simply, I<br\/>love it!’ - Molly Mahon<\/em><\/p>",
+        "cite": "",
+        "bg": "none",
+        "bg-image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_1800x1000_0569705d-4963-4d04-89f2-6748f90c3e92.jpg"
+      }
+    },
+    "1661964515b80324f9": {
+      "type": "image-with-text",
+      "blocks": {
+        "1661964515c0a4239b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "New Kids on the Block"
+          }
+        },
+        "1661964515c0a4239b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Create a welcoming, warm home for you and your family with our newest and most popular designer wallpapers in the UK. Find your perfect print and stamp your mark with ease.<\/p>"
+          }
+        },
+        "1661964515c0a4239b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop new designer wallpapers",
+            "button_link": "shopify:\/\/collections\/wallpaper"
+          }
+        }
+      },
+      "block_order": [
+        "1661964515c0a4239b-0",
+        "1661964515c0a4239b-1",
+        "1661964515c0a4239b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WFEMUSTLIFE_470c250e-d310-4094-8343-dd0072829d1a.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -327,6 +468,12 @@
     "166196159906fadd3f",
     "16619593053301a27e",
     "16619593508075d424",
-    "166196276803731365"
+    "166196276803731365",
+    "1661963166db3ffe82",
+    "1661964058633d317f",
+    "1661964300e29a69df",
+    "1661964322bc4b19cb",
+    "16619644470639d01e",
+    "1661964515b80324f9"
   ]
 }
