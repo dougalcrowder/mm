@@ -517,6 +517,15 @@
         "margin_top": "none",
         "margin_bot": "s"
       }
+    },
+    "166196499121cbee63": {
+      "type": "simple_quote",
+      "settings": {
+        "quote": "<p><em>\"Real homes are not showrooms or magazine ready rooms. Real homes are spaces to be comfortable and relaxed in.\" - Molly Mahon<br\/><\/em><\/p>",
+        "cite": "",
+        "bg": "green",
+        "bg-image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_LIFE.jpg"
+      }
     }
   },
   "order": [
@@ -537,6 +546,7 @@
     "16619644470639d01e",
     "1661964515b80324f9",
     "1661964774b2c2d19c",
-    "1661964808823921f8"
+    "1661964808823921f8",
+    "166196499121cbee63"
   ]
 }
