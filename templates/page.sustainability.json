@@ -107,6 +107,9 @@
         "1657811114a245626f-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
       }
     },
     "1657199219affcebfd": {
@@ -181,6 +184,9 @@
         "165755476682de038b-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
       }
     },
     "1649421151e2286ae0": {
@@ -255,6 +261,14 @@
         "alignment": "center"
       }
     },
+    "16619385768307664a": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "The dirty word - Pollution",
+        "text": "<p>This is our biggest fear for the planet and as we are conscious of the details in our production line we work hard to move our industry away from harmful effects of pollution.<\/p><p>Our first step was using water based inks right from the outset of designing our products.  Our influence has been apllied in India to the standards we up hold where we print our fabric.<\/p><p>Secondly our decisions on what fabric bases to use.  The importance of keeping things natural is our highest quest.  After reading articles on the plastic pollution that is emmitted to our water supply and river ways just from our washing machines, killing the biodiversity in them whilst having an ill effect on us humans as well, is of great concern to us.  <\/p><p>These are just two of our big concerns we triffle with everyday with the decisions we make.  Where there is an argument for a multitude of decisions this is our road as we see it today.  We believe technology will help us in the next 10-50 years, especially in the distrubution of our products where lies another pollution of concern.  But natural waterbased products and working with like minded people we believe we will improve our industry.<\/p><p>Here are some product saving tips for you to think about when purchasing your fbrics from us.. <\/p>",
+        "alignment": "center"
+      }
+    },
     "16494230664438bb0a": {
       "type": "image-with-text",
       "blocks": {
@@ -306,6 +320,7 @@
     "16572005737a4e951b",
     "1657200715d6671ac0",
     "1649796058b0df534e",
+    "16619385768307664a",
     "16494230664438bb0a"
   ]
 }
