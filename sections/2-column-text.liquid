@@ -1,4 +1,4 @@
-<div class="text-with-text inner grid mtb-{{ section.settings.margins }}">
+<div class="text-with-text inner grid mt-{{ section.settings.margin_top }} mb-{{ section.settings.margin_bot }}">
   {%- for block in section.blocks -%}
   {% case block.type %}
   {%- when 'text' -%}
@@ -32,7 +32,7 @@
 "settings": [
   {
     "type": "select",
-    "id": "margins",
+    "id": "margin_top",
     "options": [
       {
         "value": "none",
@@ -52,7 +52,32 @@
       }
     ],
     "default": "m",
-    "label": "spacing above and below",
+    "label": "spacing above",
+    "info": "adjust the spacing for the panel"
+  },
+  {
+    "type": "select",
+    "id": "margin_bot",
+    "options": [
+      {
+        "value": "none",
+        "label": "None"
+      },
+      {
+        "value": "s",
+        "label": "Small"
+      },
+      {
+        "value": "m",
+        "label": "Medium"
+      },
+      {
+        "value": "l",
+        "label": "Large"
+      }
+    ],
+    "default": "m",
+    "label": "spacing below",
     "info": "adjust the spacing for the panel"
   }
 ],
