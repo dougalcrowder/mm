@@ -61,13 +61,14 @@
           "settings": {
             "width": "half",
             "narrow": true,
+            "auto_height": true,
             "title": "",
             "subtitle": "Title",
             "subtitle_size": "large",
             "text": "<p>Shop our colourful collection of handcrafted designer wallpaper, exclusively designed by British printmaker, Molly Mahon, in her East Sussex studio. From intricate leaves to bees and blossoms, there’s a pattern to suit every space - each ethically made from original block prints.<\/p>",
             "button_color": "white",
             "color_scheme": "dark_text",
-            "desktop_text_box_position": "end",
+            "desktop_text_box_position": "center",
             "text_align": "left",
             "button_label": "",
             "button_link": "",
@@ -80,6 +81,7 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS_baaeed55-fd64-453a-a634-df1b3be2a67c.jpg",
+            "auto_height": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -104,153 +106,83 @@
         "add_spacing": false
       }
     },
-    "16618497380d90ac74": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "Explore our Best Selling Designer Wallpapers",
-        "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.<\/p>",
-        "alignment": "left"
-      }
-    },
-    "16618497599dbd86b2": {
-      "type": "simple-button",
-      "settings": {
-        "label": "Shop all designer wallpapers",
-        "link": "shopify:\/\/collections\/wallpaper",
-        "color_scheme": "dark"
-      }
-    },
-    "1661849859e0926466": {
-      "type": "instagram-grid",
+    "1661950966259a0584": {
+      "type": "image-with-text",
       "blocks": {
-        "1661849858b64f9e37-0": {
-          "type": "Instalink",
+        "1661950966d750e1de-0": {
+          "type": "text",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_PEONY_PROD1_1300x1300_6987c4f8-2659-4652-9838-fe9d27f2e987.jpg",
-            "author": "",
-            "link": ""
+            "heading": "Explore our Best Selling Designer Wallpapers",
+            "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.<\/p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "780263ca-4c38-4ece-b039-d88daa5e2215": {
-          "type": "Instalink",
+        "1661950966d750e1de-1": {
+          "type": "text",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_FLOWER_PROD1_1300x1300_f880c81d-835f-436b-b694-71b262d3b5c1.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "f4e854a8-6ea4-4727-9610-8d55001696bf": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_PROD1_1300x1300_9012d0a5-be81-4419-98fa-56795c7d09b1.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "3f98f755-05be-4110-a22b-ccc8f3b793ab": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_CHERRY_PROD1_1300x1300_1d91d1ba-2a3b-4f3f-ba79-d05308957af7.jpg",
-            "author": "",
-            "link": ""
+            "heading": "",
+            "text": "",
+            "button_label": "Shop all designer wallpapers",
+            "button_link": "shopify:\/\/collections\/wallpaper"
           }
         }
       },
       "block_order": [
-        "1661849858b64f9e37-0",
-        "780263ca-4c38-4ece-b039-d88daa5e2215",
-        "f4e854a8-6ea4-4727-9610-8d55001696bf",
-        "3f98f755-05be-4110-a22b-ccc8f3b793ab"
+        "1661950966d750e1de-0",
+        "1661950966d750e1de-1"
       ],
       "settings": {
-        "title": "",
-        "subtitle": "",
-        "button_label": "",
-        "button_link": ""
+        "title": "A Seasonal Setting",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center"
       }
     },
-    "166185006250e61d34": {
-      "type": "multicolumn",
+    "1661950917ca5910a9": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "wallpaper-birdsbees-peagreen",
+          "wallpaper-lani-denim",
+          "wallpaper-marigold-pinkblue",
+          "wallpaper-marwarihorse-darkblue"
+        ],
+        "show_secondary_image": true,
+        "centred": true
+      }
+    },
+    "16619510972705e1a6": {
+      "type": "image-with-text",
       "blocks": {
-        "1661850061a2187548-1": {
-          "type": "column",
+        "1661951097046b6a65-0": {
+          "type": "text",
           "settings": {
-            "width": "half",
-            "narrow": false,
-            "title": "",
-            "subtitle": "Discover a World of Print, Colour and Pattern with Molly Mahon",
-            "subtitle_size": "large",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
+            "heading": "Discover a World of Print, Colour and Pattern with Molly Mahon",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "1661850061a2187548-0": {
-          "type": "column",
+        "1661951097046b6a65-1": {
+          "type": "text",
           "settings": {
-            "width": "half",
-            "narrow": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "<p>Molly Mahon is a celebrated printmaker in the British textiles<br\/>industry whose block print originals are applied to luxury<br\/>wallpapers, quality fabrics and functional items for the<br\/>home, from napkins to oven gloves!<br\/><\/p><p>Each piece is carefully crafted by artisans in India, using<br\/>hand carved wooden blocks and premium, eco-conscious<br\/>products that combine to create a lifetime of joy. Playful<br\/>prints and vibrant colours are the essence of our designer<br\/>wallpaper patterns, available with matching material and<br\/>accessories to craft your perfect home.<br\/><\/p><p>From Boden to Anthropologie, Molly has collaborated with<br\/>an impressive feast of beloved brands and continues to<br\/>bring delight with her truly British designs, each inspired by<br\/>her love of nature and travel.<br\/><\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "left",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
+            "heading": "Image with text",
+            "text": "<p>Molly Mahon is a celebrated printmaker in the British textiles industry whose block print originals are applied to luxury wallpapers, quality fabrics and functional items for the home, from napkins to oven gloves!<\/p><p>Each piece is carefully crafted by artisans in India, using hand carved wooden blocks and premium, eco conscious products that combine to create a lifetime of joy. Playful prints and vibrant colours are the essence of our designer wallpaper patterns, available with matching material and accessories to craft your perfect home.<\/p><p>From Boden to Anthropologie, Molly has collaborated with an impressive feast of beloved brands and continues to bring delight with her truly British designs, each inspired by her love of nature and travel.<\/p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "1661850061a2187548-1",
-        "1661850061a2187548-0"
+        "1661951097046b6a65-0",
+        "1661951097046b6a65-1"
       ],
       "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false
-      }
-    },
-    "1661850250e66644c0": {
-      "type": "mailchimp_newsletter",
-      "blocks": {
-        "16618502506f5ea96f-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Subscribe to our emails"
-          }
-        },
-        "16618502506f5ea96f-1": {
-          "type": "paragraph",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "16618502506f5ea96f-2": {
-          "type": "email_form",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16618502506f5ea96f-0",
-        "16618502506f5ea96f-1",
-        "16618502506f5ea96f-2"
-      ],
-      "settings": {
-        "quote": "<p>Molly Mahon's designs are AWESOME SAUCE<\/p>",
-        "cite": "Sum Onetrustworthy"
+        "title": "A Seasonal Setting",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center"
       }
     }
   },
@@ -258,10 +190,8 @@
     "main",
     "16421993483b631460",
     "1642200428ac6075d8",
-    "16618497380d90ac74",
-    "16618497599dbd86b2",
-    "1661849859e0926466",
-    "166185006250e61d34",
-    "1661850250e66644c0"
+    "1661950966259a0584",
+    "1661950917ca5910a9",
+    "16619510972705e1a6"
   ]
 }
