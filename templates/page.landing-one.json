@@ -526,6 +526,120 @@
         "bg": "green",
         "bg-image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_LIFE.jpg"
       }
+    },
+    "16619651182f2f7237": {
+      "type": "multicolumn",
+      "blocks": {
+        "16619651184c2ac895-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/MASTEROFCOLOUR_BOOKMARK_PINK_LIFE_1300x1300_c92a8039-6e6f-43af-8134-b26179923e76.jpg",
+            "auto_height": true,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "16619651184c2ac895-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "auto_height": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. <\/p><p>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our Mood Boards for more printspiration and dare to be adventurous!<br\/><\/p>",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "16619651184c2ac895-0",
+        "16619651184c2ac895-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
+      }
+    },
+    "166196584422798e4f": {
+      "type": "2-column-text",
+      "blocks": {
+        "1661965844bad8432e-0": {
+          "type": "text",
+          "settings": {
+            "heading": "To match or to Clash",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1661965844bad8432e-0"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    },
+    "16619659543f81dd81": {
+      "type": "2-column-text",
+      "blocks": {
+        "1661965954b1b4671d-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "text": "<p>Why have one pattern if you can have them all? The fabulous thing about patterns is that you don’t have to limit yourself to one. Mixing prints can give a home a contemporary, energising quality - and that way you won’t have to struggle to decide!<\/p><p>There are no rules when it comes to getting creative in the home. Clash abstract patterns with big blooming florals, or twin stripy designs with standout natural shapes such as Coral or Hawaiian themed Lani. The key is to pick complimenting colours... light blue and pale green, yellow and indigo, or bright pink and sage. <\/p><p>If matching is more your style, pick a patterned wallpaper for each room and pull out key colours to inject into your furnishings. From towels to bedspreads, highlighting one or two shades throughout your accessories will really make your pattern pop.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "c3e153d7-75d5-401b-aa46-d9e0aec26fb3": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "text": "<p>Why not take your matching designs one step further and go for the fully printed look? Matchimalism is all about embracing your favourite print and inserting it everywhere you can. Each of our interior design wallpapers have a matching fabric that turns perfectly into curtains or blinds. Pair with a set of matching cushions, a pleated lampshade or kitchen accessories such as a table cloth or tea towel for a super fun, extravagant touch.<\/p><p>Ready to give your home a splash of colour? Take a look at our collection of home goods or give your bedroom a pattern-inspired makeover with a set of bedroom accessories.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1661965954b1b4671d-0",
+        "c3e153d7-75d5-401b-aa46-d9e0aec26fb3"
+      ],
+      "settings": {
+        "margin_top": "none",
+        "margin_bot": "s"
+      }
     }
   },
   "order": [
@@ -547,6 +661,9 @@
     "1661964515b80324f9",
     "1661964774b2c2d19c",
     "1661964808823921f8",
-    "166196499121cbee63"
+    "166196499121cbee63",
+    "16619651182f2f7237",
+    "166196584422798e4f",
+    "16619659543f81dd81"
   ]
 }
