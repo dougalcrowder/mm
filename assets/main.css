@@ -1845,6 +1845,51 @@ fieldset {
   justify-content: flex-start;
 }
 
+.quote-section {
+  position: relative;
+}
+
+.quote-section .quote {
+  max-width: 600px;
+  padding: 24px 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .quote-section .quote blockquote p {
+    font-size: 225%;
+  }
+}
+
+.quote-section .quote cite {
+  border: 0;
+  padding-top: 4px;
+}
+
+.quote-section:before {
+  content: " ";
+  height: 7px;
+  display: block;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='7'%3E%3Cpath fill='%238DC687' fill-rule='evenodd' d='m7 0 7 7H0z'/%3E%3C/svg%3E");
+  background-repeat: repeat-x;
+  left: 0;
+  right: 0;
+  bottom: -7px;
+  position: absolute;
+  transform: rotate(180deg);
+}
+
+.quote-section:after {
+  content: " ";
+  height: 7px;
+  display: block;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='7'%3E%3Cpath fill='%238DC687' fill-rule='evenodd' d='m7 0 7 7H0z'/%3E%3C/svg%3E");
+  background-repeat: repeat-x;
+  left: 0;
+  right: 0;
+  top: -7px;
+  position: absolute;
+}
+
 .mt-s {
   margin-top: 8px;
 }
@@ -1911,6 +1956,18 @@ fieldset {
 
 .mb-none {
   margin-bottom: 0;
+}
+
+.bg-green {
+  background-color: var(--color-green);
+}
+
+.bg-pink {
+  background-color: var(--color-red);
+}
+
+.bg-red {
+  background-color: var(--color-pink);
 }
 
 .search_close {

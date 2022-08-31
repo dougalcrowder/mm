@@ -1,12 +1,14 @@
-<div class="newsletter flex inner bg-{{ section.settings.bg }}">
+<div class="bg-{{ section.settings.bg }}">
   {%- if section.settings.quote != blank -%}
-  <div class="quote">
-    <blockquote>
-      {{ section.settings.quote }}
-    </blockquote>
-    {%- if section.settings.cite != blank -%}
-    <cite>{{ section.settings.cite }}</cite>
-  {%- endif -%}
+  <div class="flex inner">
+    <div class="quote">
+      <blockquote class="color-white_text">
+        {{ section.settings.quote }}
+      </blockquote>
+      {%- if section.settings.cite != blank -%}
+      <cite class="color-white_text">{{ section.settings.cite }}</cite>
+    {%- endif -%}
+    </div>
   </div>
   {%- endif -%}
 </div>
