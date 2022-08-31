@@ -640,6 +640,55 @@
         "margin_top": "none",
         "margin_bot": "s"
       }
+    },
+    "16619660998a9e934c": {
+      "type": "image-banner",
+      "blocks": {
+        "16619660990ca3f16f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "16619660990ca3f16f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "16619660990ca3f16f-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16619660990ca3f16f-0",
+        "16619660990ca3f16f-1",
+        "16619660990ca3f16f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TABLELINEN_CHERRY_LIFE2_1200x900_0806a8bb-e62e-4dfd-a81f-acf0490f5e8f.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
     }
   },
   "order": [
@@ -664,6 +713,7 @@
     "166196499121cbee63",
     "16619651182f2f7237",
     "166196584422798e4f",
-    "16619659543f81dd81"
+    "16619659543f81dd81",
+    "16619660998a9e934c"
   ]
 }
