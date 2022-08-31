@@ -1833,6 +1833,59 @@ fieldset {
   }
 }
 
+.text-with-text .flex {
+  height: 100%;
+}
+
+.text-with-text .text .flex {
+  width: 100%;
+}
+
+.text-with-text .text .flex.align-left {
+  justify-content: flex-start;
+}
+
+.mtb-s {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+@media screen and (min-width: 560px) {
+  .mtb-s {
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+}
+
+.mtb-m {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+@media screen and (min-width: 560px) {
+  .mtb-m {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+}
+
+.mtb-l {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+@media screen and (min-width: 560px) {
+  .mtb-l {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+}
+
+.mtb-none {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .search_close {
   background-color: rgba(255, 255, 255, 0);
   appearance: none;

@@ -1,4 +1,4 @@
-<div class="text-with-text inner grid">
+<div class="text-with-text inner grid mtb-{{ section.settings.margins }}">
   {%- for block in section.blocks -%}
   {% case block.type %}
   {%- when 'text' -%}
@@ -30,7 +30,31 @@
 "name": "2 Column Text",
 "class": "spaced-section two_col-text",
 "settings": [
-
+  {
+    "type": "select",
+    "id": "margins",
+    "options": [
+      {
+        "value": "none",
+        "label": "None"
+      },
+      {
+        "value": "s",
+        "label": "Small"
+      },
+      {
+        "value": "m",
+        "label": "Medium"
+      },
+      {
+        "value": "l",
+        "label": "Large"
+      }
+    ],
+    "default": "m",
+    "label": "spacing above and below",
+    "info": "adjust the spacing for the panel"
+  }
 ],
 "blocks": [
   {
