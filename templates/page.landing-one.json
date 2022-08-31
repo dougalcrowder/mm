@@ -106,6 +106,41 @@
         "add_spacing": false
       }
     },
+    "166195210128b91b49": {
+      "type": "2-column-text",
+      "blocks": {
+        "16619521000b84ba87-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Explore our Best Selling Designer Wallpapers",
+            "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "16619521000b84ba87-1": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "text": "",
+            "button_label": "Shop all designer wallpapers",
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16619521000b84ba87-0",
+        "16619521000b84ba87-1"
+      ],
+      "settings": {
+      }
+    },
     "1661950917ca5910a9": {
       "type": "product-grid",
       "settings": {
@@ -153,49 +188,14 @@
       ],
       "settings": {
       }
-    },
-    "166195210128b91b49": {
-      "type": "2-column-text",
-      "blocks": {
-        "16619521000b84ba87-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Explore our Best Selling Designer Wallpapers",
-            "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "16619521000b84ba87-1": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "text": "",
-            "button_label": "Shop all designer wallpapers",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center"
-          }
-        }
-      },
-      "block_order": [
-        "16619521000b84ba87-0",
-        "16619521000b84ba87-1"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
     "main",
     "16421993483b631460",
     "1642200428ac6075d8",
+    "166195210128b91b49",
     "1661950917ca5910a9",
-    "1661951966294ab962",
-    "166195210128b91b49"
+    "1661951966294ab962"
   ]
 }
