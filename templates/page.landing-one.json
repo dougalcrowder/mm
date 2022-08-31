@@ -106,37 +106,39 @@
         "add_spacing": false
       }
     },
-    "1661950966259a0584": {
-      "type": "image-with-text",
+    "166195210128b91b49": {
+      "type": "2-column-text",
       "blocks": {
-        "1661950966d750e1de-0": {
+        "16619521000b84ba87-0": {
           "type": "text",
           "settings": {
             "heading": "Explore our Best Selling Designer Wallpapers",
             "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.<\/p>",
             "button_label": "",
-            "button_link": ""
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
           }
         },
-        "1661950966d750e1de-1": {
+        "16619521000b84ba87-1": {
           "type": "text",
           "settings": {
             "heading": "",
             "text": "",
             "button_label": "Shop all designer wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper"
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center"
           }
         }
       },
       "block_order": [
-        "1661950966d750e1de-0",
-        "1661950966d750e1de-1"
+        "16619521000b84ba87-0",
+        "16619521000b84ba87-1"
       ],
       "settings": {
-        "title": "A Seasonal Setting",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center"
       }
     },
     "1661950917ca5910a9": {
@@ -152,37 +154,39 @@
         "centred": true
       }
     },
-    "16619510972705e1a6": {
-      "type": "image-with-text",
+    "1661951966294ab962": {
+      "type": "2-column-text",
       "blocks": {
-        "1661951097046b6a65-0": {
+        "166195196658edcf74-0": {
           "type": "text",
           "settings": {
             "heading": "Discover a World of Print, Colour and Pattern with Molly Mahon",
             "text": "",
             "button_label": "",
-            "button_link": ""
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
           }
         },
-        "1661951097046b6a65-1": {
+        "166195196658edcf74-1": {
           "type": "text",
           "settings": {
-            "heading": "Image with text",
+            "heading": "",
             "text": "<p>Molly Mahon is a celebrated printmaker in the British textiles industry whose block print originals are applied to luxury wallpapers, quality fabrics and functional items for the home, from napkins to oven gloves!<\/p><p>Each piece is carefully crafted by artisans in India, using hand carved wooden blocks and premium, eco conscious products that combine to create a lifetime of joy. Playful prints and vibrant colours are the essence of our designer wallpaper patterns, available with matching material and accessories to craft your perfect home.<\/p><p>From Boden to Anthropologie, Molly has collaborated with an impressive feast of beloved brands and continues to bring delight with her truly British designs, each inspired by her love of nature and travel.<\/p>",
             "button_label": "",
-            "button_link": ""
+            "button_link": "",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
           }
         }
       },
       "block_order": [
-        "1661951097046b6a65-0",
-        "1661951097046b6a65-1"
+        "166195196658edcf74-0",
+        "166195196658edcf74-1"
       ],
       "settings": {
-        "title": "A Seasonal Setting",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center"
       }
     }
   },
@@ -190,8 +194,8 @@
     "main",
     "16421993483b631460",
     "1642200428ac6075d8",
-    "1661950966259a0584",
+    "166195210128b91b49",
     "1661950917ca5910a9",
-    "16619510972705e1a6"
+    "1661951966294ab962"
   ]
 }
