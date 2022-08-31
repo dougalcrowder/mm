@@ -115,7 +115,7 @@
     "1657199219affcebfd": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "",
+        "title": "The Printing Process",
         "text": "<p>By working with artisans, production is small and we have a personal understanding on how each of our products are being produced. <\/p><p><strong>Printing and making in India: <\/strong><\/p><p>We are proud to be involved in key decisions with working with our producers who are making similar shifts in their approach to the waste and pollution that is made.  We are also very conscious of the cultures we cross and the people we employee which is reflected by paying above the average price as we feel we are paying a fair and reflective price.<\/p>",
         "alignment": "center"
       }
@@ -239,7 +239,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "",
-        "text": "<p><strong>UK industry:<\/strong><\/p><p>We are the biggest fans of our producers here in the UK.  Where there are no highly skilled block printers like our Indian craftsman, we locally source first to help us make our products.  UK industry is highly skilled and we use like minded producers in many varying industries.<\/p>",
+        "text": "<p><strong>UK & European industry:<\/strong><\/p><p>We are the biggest fans of our producers here in the UK and our neighbouring Europe.  It is important to keep in touch, invest and support in our talented local industry.<\/p><p>Where there are no highly skilled block printers localy to us like our Indian craftsman, we locally source first to help us make our products.  UK industry is highly skilled and we use like minded producers in many varying industries.<\/p><p>Our interiors industry in the Uk is one of the best in the world and is a huge assest which we proudly support.<\/p>",
         "alignment": "center"
       }
     },
@@ -265,8 +265,24 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "The dirty word - Pollution",
-        "text": "<p>This is our biggest fear for the planet and as we are conscious of the details in our production line we work hard to move our industry away from harmful effects of pollution.<\/p><p>Our first step was using water based inks right from the outset of designing our products.  Our influence has been apllied in India to the standards we up hold where we print our fabric.<\/p><p>Secondly our decisions on what fabric bases to use.  The importance of keeping things natural is our highest quest.  After reading articles on the plastic pollution that is emmitted to our water supply and river ways just from our washing machines, killing the biodiversity in them whilst having an ill effect on us humans as well, is of great concern to us.  <\/p><p>These are just two of our big concerns we triffle with everyday with the decisions we make.  Where there is an argument for a multitude of decisions this is our road as we see it today.  We believe technology will help us in the next 10-50 years, especially in the distrubution of our products where lies another pollution of concern.  But natural waterbased products and working with like minded people we believe we will improve our industry.<\/p><p>Here are some product saving tips for you to think about when purchasing your fbrics from us.. <\/p>",
+        "text": "<p>This is our biggest fear for the planet and as we are conscious of the details in our production line we work hard to move our industry away from harmful effects of pollution.<\/p><p>Our first step was using water based inks right from the outset of designing our products.  Our influence has been applied in India to the standards we up hold where we print our fabric.<\/p><p>Secondly our decisions on what fabric bases to use.  The importance of keeping things natural is our highest quest.  After reading articles on the plastic pollution that is emmitted to our water supply and river ways just from our washing machines, killing the biodiversity in them whilst having an ill effect on us humans as well, is of great concern to us.  <\/p><p>These are just two of our big concerns we triffle with everyday with the decisions we make.  Where there is an argument for a multitude of decisions this is our road as we see fit today.  We believe technology will help us in the next 10-50 years, especially in the distrubution of our products where lies another pollution of concern.  But natural waterbased products and working with like minded people, we believe we have already improved our industry and strive to do more.<\/p>",
         "alignment": "center"
+      }
+    },
+    "166196110625f59f44": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Techniques to help make natural products last longer",
+        "text": "<p>Discover useful techniques to make your decoration decisions last longer.  We all know that the sun shining through our windows attacks and fades our most precious items.  Use these useful tips to help you make good use of your new fabric.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "16619623419ac7353e": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Discover more on Fabric care",
+        "link": "",
+        "color_scheme": "dark"
       }
     },
     "16494230664438bb0a": {
@@ -275,13 +291,13 @@
         "1649423066017d47e1-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Next Generation"
+            "heading": "The Future"
           }
         },
         "1649423066017d47e1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.<\/p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.<br\/> <\/p>"
+            "text": "<p>While we admit we are not perfect we endeavour to remain open, thoughtful, caring and connected.  We endeavour to make items with care and attention.  We endeavour to keep a close connection to all that we work with and only work with businesses that align with our outlook.  We promise to be transparent and honest. <\/p><p>Most importaly we endeavour to continue help people take real care in making home.  To us this is the centre of each individuals universe and to take care of this is to take care of its surrounding environment.  <br\/> <\/p>"
           }
         },
         "1649423066017d47e1-2": {
@@ -321,6 +337,8 @@
     "1657200715d6671ac0",
     "1649796058b0df534e",
     "16619385768307664a",
+    "166196110625f59f44",
+    "16619623419ac7353e",
     "16494230664438bb0a"
   ]
 }
