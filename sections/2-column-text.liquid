@@ -1,20 +1,28 @@
-<div class="image-with-text text-with-text inner grid">
+<div class="text-with-text inner grid">
+  {%- for block in section.blocks -%}
+  {% case block.type %}
+  {%- when 'text' -%}
     <div class="text">
-      <div class="flex">
-        {%- for block in section.blocks -%}
-          {% case block.type %}
-            {%- when 'text' -%}
-              <div class="rte vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }} color-{{ block.settings.color_scheme }}" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
-              {%- if block.settings.button_label != blank -%}
-                <a{% if block.settings.button_link != blank %} href="{{ block.settings.button_link }}"{% endif %} class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}"{% if block.settings.button_link == blank %} aria-disabled="true"{% endif %} {{ block.shopify_attributes }}>
-                  {{ block.settings.button_label | escape }}
-                </a>
-              {%- endif -%}
-            {%- when 'button' -%}
-          {%- endcase -%}
-        {%- endfor -%}
+      <div class="flex vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }} color-{{ block.settings.color_scheme }}" {{ block.shopify_attributes }}>
+        {%- if block.settings.heading != blank -%}
+          <span class="h2">{{ block.settings.heading }}</span>
+        {%- endif -%}
+        {%- if block.settings.text != blank -%}
+        <div class="rte">
+        {{ block.settings.text }}
+        </div>
+        {%- endif -%}
+        {%- if block.settings.button_label != blank -%}
+          <a{% if block.settings.button_link != blank %} href="{{ block.settings.button_link }}"{% endif %} class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}"{% if block.settings.button_link == blank %} aria-disabled="true"{% endif %}>
+            {{ block.settings.button_label | escape }}
+          </a>
+        {%- endif -%}
+          
+        
       </div>
     </div>
+    {%- endcase -%}
+    {%- endfor -%}
 </div>
 
 {% schema %}
@@ -45,7 +53,6 @@
       {
         "type": "text",
         "id": "button_label",
-        "default": "Button label",
         "label": "t:sections.image-with-text.blocks.button.settings.button_label.label",
         "info": "t:sections.image-with-text.blocks.button.settings.button_label.info"
       },
@@ -96,7 +103,7 @@
             "label": "t:sections.image-banner.settings.desktop_text_box_position.options__3.label"
           }
         ],
-        "default": "top",
+        "default": "start",
         "label": "t:sections.image-banner.settings.desktop_text_box_position.label"
       },
       {
