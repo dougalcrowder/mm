@@ -1,17 +1,17 @@
 {
   "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
     "1657198256089a7c52": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Services",
         "text": "<p>Firstly we are a family run business and provide a friendly open and informative service to all our clients and customers.<\/p><p>Molly Mahon offers a range of service alongside its retail offering.<\/p>",
         "alignment": "center"
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
       }
     },
     "1662033198f876a3de": {
@@ -28,7 +28,7 @@
         "164977373582025f2d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Make yourself a home",
+            "heading": "About Us",
             "heading_type": "header1"
           }
         },
@@ -42,8 +42,8 @@
         "164977373582025f2d-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Discover more",
+            "button_link_1": "shopify:\/\/pages\/about-us",
             "button_style_secondary_1": false,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -70,6 +70,7 @@
     },
     "1657199219affcebfd": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "Making Home",
         "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.<\/p><p><strong>Why is home so important to us?<\/strong> <\/p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.<\/p>",
@@ -78,6 +79,7 @@
     },
     "1657534986eb08901e": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16575349860982ab1b-0": {
           "type": "heading",
@@ -125,6 +127,7 @@
     },
     "16575248265ae56784": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "",
         "text": "<p><em>\"I never tire of lifting the block and seeing the impression that has been left, the slight movement that you get from a hand print is what I enthusiastically call ‘perfect imperfections.\"<\/em><\/p><p>There is something special about block printing that has stood the test of time.  To me it brings the fabric alive and this is exactly what it does to our homes.<\/p><p>I am a British printmaker who started at my kitchen table and now runs a design studio which distributes our designs globally.  Having partnered with Christies, Firmdale Hotels, Cabbages & Roses and more recently Boden amongst others we understand the power of pretty print and we aim to offer the most modern and fresh prints and colours amongst our community.  With all our designs being designed in house we can offer originality and a very bespoke signature with Molly overseeing all elements of design.<\/p><p>Molly runs her business with her husband Rollo and their children and their dog Bramble who are all very much involved.<\/p>",
@@ -133,6 +136,7 @@
     },
     "1649796058b0df534e": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "",
         "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
@@ -141,6 +145,7 @@
     },
     "16578945700c2c5ca5": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "165789457062446127-0": {
           "type": "heading",
@@ -187,6 +192,7 @@
     },
     "165720007696eef0eb": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "Craftsmanship",
         "text": "<p>‘The quality of design and work shown in something made by hand; artistry.'<\/p><p>We get to meet craftsman all over the world and champion our area of expertise in block printing.  When sourcing the people we want to align and work with, we take into consideration the quality they bring in their craftsmanship and that they have a similar love of producing products that will stand the test of time.<\/p><p>From hand block printing our fabrics to surface printing our wallpaper we use an array of techniques to bring unique product to you.<\/p>",
@@ -195,6 +201,7 @@
     },
     "1657200203628ef58f": {
       "type": "simple-button",
+      "disabled": true,
       "settings": {
         "label": "Discover More about our Craftsmanship",
         "link": "shopify:\/\/pages\/block-printing",
@@ -203,6 +210,7 @@
     },
     "1649421151e2286ae0": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1649421151dae3f553-0": {
           "type": "heading",
@@ -249,6 +257,7 @@
     },
     "16572005737a4e951b": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "Creativity",
         "text": "<p>The heart and soul of what we do is founded on creativity.<\/p><p>Creative acts are very inclusive, they create camaraderie, spark the imagination, allow us to realise our capabilities as humans.  If we create we can experience pride, delight and the feeling of being physical.  <\/p><p><em>\"My studio is my special space; while it bustles and hums with books, paint, blocks, scrapbooks, paper and a plethora of artists tools its also a place of calm, free of technology, a private and personal space where I can be completely ‘me’.\" Molly Mahon<\/em><\/p>",
@@ -257,6 +266,7 @@
     },
     "1657200715d6671ac0": {
       "type": "simple-button",
+      "disabled": true,
       "settings": {
         "label": "Discover our Workshops",
         "link": "shopify:\/\/pages\/workshops-and-events",
@@ -274,8 +284,8 @@
     }
   },
   "order": [
-    "1657198256089a7c52",
     "main",
+    "1657198256089a7c52",
     "1662033198f876a3de",
     "1649773735fabcedda",
     "1657199219affcebfd",
