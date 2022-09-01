@@ -118,7 +118,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "The Printing Process",
-        "text": "<p>By working with artisans, production is small and we have a personal understanding on how each of our products are being produced. <\/p><p><strong>Printing and making in India: <\/strong><\/p><p>We are proud to be involved in key decisions with working with our producers who are making similar shifts in their approach to the waste and pollution that is made.  We are also very conscious of the cultures we cross and the people we employee which is reflected by paying above the average price as we feel we are paying a fair and reflective price.<\/p>",
+        "text": "<p>By working directly with artisans around the world, production is connected and we have a personal understanding between us and all our suppliers. <\/p><p><strong>Printing and making in India: <\/strong><\/p><p>We are proud to be working with block printers who like us are always searching for the cleanest method of production while maintaning the highest level of their craft.<\/p>",
         "alignment": "center"
       }
     },
@@ -206,7 +206,7 @@
         "1649421151dae3f553-1": {
           "type": "text",
           "settings": {
-            "text": "\"We design to enrich our lives for the home by merging our British sensibility and love for bold aesthetics.\"",
+            "text": "\"There is something special about the art of bock print that has stood the test of time.\"",
             "go_serif": true
           }
         },
