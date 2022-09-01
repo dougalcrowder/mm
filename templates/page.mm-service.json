@@ -3,8 +3,8 @@
     "1657198256089a7c52": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "About Us",
-        "text": "<p>We are a family run business that have a particular passion for creating warm, enticing, comfortable and welcoming homes.  We also have a particular passion for pattern, colour and good craftmanship.<\/p><p>Based in Sussex in the heart of the Ashdown Forest, UK we start with hand drawn designs that in turn become beautiful wooden blocks, our printing tools for the plethora of fabrics, wallpapers and homewares we create.<\/p>",
+        "title": "Services",
+        "text": "<p>Firstly we are a family run business and provide a friendly open and informative service to all our clients and customers.<\/p><p>Molly Mahon offers a range of service alongside its retail offering.<\/p>",
         "alignment": "center"
       }
     },
@@ -12,6 +12,14 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
+      }
+    },
+    "1662033198f876a3de": {
+      "type": "simple-button",
+      "settings": {
+        "label": "MM Trade",
+        "link": "",
+        "color_scheme": "red"
       }
     },
     "1649773735fabcedda": {
@@ -268,6 +276,7 @@
   "order": [
     "1657198256089a7c52",
     "main",
+    "1662033198f876a3de",
     "1649773735fabcedda",
     "1657199219affcebfd",
     "1657534986eb08901e",
