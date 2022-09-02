@@ -51,7 +51,7 @@
       "settings": {
         "show_image": true,
         "blog_header": "",
-        "blog_intro": "<p><em>‘The quality of design and work shown in something made by hand; artistry.’<\/em><\/p>",
+        "blog_intro": "",
         "show_date": false,
         "show_author": false
       }
