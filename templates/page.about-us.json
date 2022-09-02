@@ -1,5 +1,10 @@
 {
   "sections": {
+    "166213453935b473b3": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "1657198256089a7c52": {
       "type": "single-title_and_text",
       "settings": {
@@ -17,6 +22,17 @@
     "1649773735fabcedda": {
       "type": "image-banner",
       "blocks": {
+        "164977373582025f2d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
         "164977373582025f2d-0": {
           "type": "heading",
           "settings": {
@@ -30,23 +46,12 @@
             "text": "",
             "go_serif": false
           }
-        },
-        "164977373582025f2d-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
+        "164977373582025f2d-2",
         "164977373582025f2d-0",
-        "164977373582025f2d-1",
-        "164977373582025f2d-2"
+        "164977373582025f2d-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
@@ -266,6 +271,7 @@
     }
   },
   "order": [
+    "166213453935b473b3",
     "1657198256089a7c52",
     "main",
     "1649773735fabcedda",
