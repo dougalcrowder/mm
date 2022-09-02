@@ -238,14 +238,6 @@
         "add_spacing": false
       }
     },
-    "16620509289736141d": {
-      "type": "simple-button",
-      "settings": {
-        "label": "Explore more of our Craftsmanship",
-        "link": "shopify:\/\/blogs\/craftsmanship",
-        "color_scheme": "dark"
-      }
-    },
     "16620510245132dc26": {
       "type": "single-title_and_text",
       "settings": {
@@ -313,12 +305,12 @@
         "show_secondary_image": false
       }
     },
-    "1657807750e4739f83": {
+    "16620509289736141d": {
       "type": "simple-button",
       "settings": {
-        "label": "Back to the Look Books",
-        "link": "shopify:\/\/blogs\/look-books",
-        "color_scheme": "red"
+        "label": "Explore more of our Craftsmanship",
+        "link": "shopify:\/\/blogs\/craftsmanship",
+        "color_scheme": "dark"
       }
     }
   },
@@ -330,10 +322,9 @@
     "1657786090cc89e628",
     "16577858874502d623",
     "1657730156eeff869f",
-    "16620509289736141d",
     "16620510245132dc26",
     "1657730380748266d7",
     "164975103076740208",
-    "1657807750e4739f83"
+    "16620509289736141d"
   ]
 }
