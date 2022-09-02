@@ -251,6 +251,15 @@
         "alignment": "center"
       }
     },
+    "16621119659ca3d590": {
+      "type": "simple-button",
+      "disabled": true,
+      "settings": {
+        "label": "Fabric Care",
+        "link": "",
+        "color_scheme": "white"
+      }
+    },
     "16621112250266f39e": {
       "type": "image-banner",
       "blocks": {
@@ -326,6 +335,7 @@
     "1649421151e2286ae0",
     "16572005737a4e951b",
     "1662105763569a8dd2",
+    "16621119659ca3d590",
     "16621112250266f39e",
     "1649796058b0df534e",
     "1657200715d6671ac0"
