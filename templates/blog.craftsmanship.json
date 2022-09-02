@@ -1,5 +1,51 @@
 {
   "sections": {
+    "166211734227b7e858": {
+      "type": "image-banner",
+      "blocks": {
+        "1662117342ae43a78c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1662117342ae43a78c-1": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "1662117342ae43a78c-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1662117342ae43a78c-0",
+        "1662117342ae43a78c-1",
+        "1662117342ae43a78c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/269611342_313979097124189_10294121352655617_n.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
     "main": {
       "type": "main-blog",
       "blocks": {
@@ -24,6 +70,7 @@
     }
   },
   "order": [
+    "166211734227b7e858",
     "main"
   ]
 }
