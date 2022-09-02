@@ -56,7 +56,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Sustainability",
-        "text": "<p>We’re conscious of our impact on the environment and the mark we might make, aside from our patterned prints.  So respecting how we treat our planet is just as important to us as creating joy. Every element of our business is thoroughly researched to make sure it’s the best it can be and fills us with pride – from the materials we use to the process of creation.<\/p><p>Everything we make is done in small batches allowing us to focus on the details and creating higher quality products with no waste.  Where possible we use the cleanest water based paints we can find and organic or plant based cloth.  We never throw away even a snippet of cloth, always finding a way to use it up.   <\/p>",
+        "text": "<p>We’re conscious of our impact on the environment and the mark we make on our planet.  Respecting how we create our products is just as important to us as creating joy in the home. Every element of our business is thoroughly researched to make sure it’s the best it can be – from the materials we use to the process of creation.  This is something we are incredibly proud of.<\/p><p>Everything we make is done in small batches allowing us to focus on the details and creating higher quality products with no waste.  Where possible we use the cleanest water based paints and organic or plant based cloth.  We never throw away even a snippet of cloth; always finding a way to use it up.   <\/p>",
         "alignment": "center"
       }
     },
@@ -107,13 +107,16 @@
         "1657811114a245626f-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
       }
     },
     "1657199219affcebfd": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "",
-        "text": "<p>By working with artisans, production is small and we have a personal understanding on how each of our products are being produced. <\/p><p><strong>Printing and making in India: <\/strong><\/p><p>We are proud to be involved in key decisions with working with our producers who are making similar shifts in their approach to the waste and pollution that is made.  We are also very conscious of the cultures we cross and the people we employee which is reflected by paying above the average price as we feel we are paying a fair and reflective price.<\/p>",
+        "title": "Our Process",
+        "text": "<p>By working directly with artisans around the world, production is connected and we have a personal understanding between us and all our suppliers. <\/p><p><strong>Printing and making in India: <\/strong><\/p><p>We are proud to be working with block printers who like us are always searching for the cleanest method of production while maintaning the highest level of their craft.<\/p><p><strong>Printing and making in the UK & Europe:<\/strong><\/p><p>We are the biggest fans of our producers here in the UK and our neighbouring Europe.  <\/p><p>It is important to us to keep in touch, invest and support in our talented local industry as well as working in our beloved India.<\/p><p>While once the UK was busy with block printing too, there are very few hand printers left (watch this space), however there are still many highly skilled industries and like minded producers that help us achieve near replica's of Molly's original block prints here in the UK.  Lampsahdes made by hand, water saving digital prints, paper made from recycled cotton for prints, all of these elements are in the fore front of our minds when we look for suppliers.<\/p>",
         "alignment": "center"
       }
     },
@@ -181,6 +184,9 @@
         "165755476682de038b-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
       }
     },
     "1649421151e2286ae0": {
@@ -196,7 +202,7 @@
         "1649421151dae3f553-1": {
           "type": "text",
           "settings": {
-            "text": "\"We design to enrich our lives for the home by merging our British sensibility and love for bold aesthetics.\"",
+            "text": "\"There is something special about the art of bock print that has stood the test of time.\"",
             "go_serif": true
           }
         },
@@ -232,8 +238,16 @@
     "16572005737a4e951b": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "",
-        "text": "<p><strong>UK industry:<\/strong><\/p><p>We are the biggest fans of our producers here in the UK.  Where there are no highly skilled block printers like our Indian craftsman, we locally source first to help us make our products.  UK industry is highly skilled and we use like minded producers in many varying industries.<\/p>",
+        "title": "Showing how we care",
+        "text": "<p>We are always asking ourselves 'are we doing the best for ourselves, our clients, our suppliers and the planet'.<\/p><p>One of Molly's biggest dreams is to see the whole block print industry do away with chemical based paints.  After intensive research and commitment we are proud to now be printing in a water-based only studio with lots of lovely natural light and space.<\/p><p>Molly's ongoing dedication to printing by hand ensures a beautiful industry of skilled crafts people can continue and exist alongside the ever increasing machine prints.  Nothing compares to the energy and life of something made by hand and Molly believes that we as humans need this sort of creativity and artistic connection in our lives in order to feel nourished, inspired and worthy.  <\/p><p>We take great consideration over the fabrics that we print on, staying as close to a natural fibre as we can.    By maintaining the simplest procedure througout from the weaving, dying and printing we feel we are respecting the planet as best we can.   <\/p><p>Our use of plastics is at an all time low and we are always working on avoiding it all together.<\/p><p>In principle by keeping our processes simple, small scale, exciting, inspiring and realisitic we feel we can create not only beautiful product, but thoughtful sustainable product that it worth investing in.<\/p><p>Anything that leaves our HQ has been made with love, dedication, thought and of an exceedingly high quality.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1662105763569a8dd2": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Ensuring a Long Life",
+        "text": "<p>We are working towards sharing tips on how to build a home using our fabrics and products and sustaining the longest life with those items as possible.  This can include planning for a room effectively, adding a leading edge to a curtain, protecting fabrics from sun damage, using eco washing powders and more.  We look forward to sharing our tips and tricks very soon to make the most of a MM purchase.<\/p>",
         "alignment": "center"
       }
     },
@@ -304,6 +318,7 @@
     "1657554766c55377b3",
     "1649421151e2286ae0",
     "16572005737a4e951b",
+    "1662105763569a8dd2",
     "1657200715d6671ac0",
     "1649796058b0df534e",
     "16494230664438bb0a"
