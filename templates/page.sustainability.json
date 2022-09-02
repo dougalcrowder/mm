@@ -239,33 +239,6 @@
         "color_scheme": "white_text"
       }
     },
-    "16572005737a4e951b": {
-      "type": "single-title_and_text",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "text": "<p><strong>UK & European industry:<\/strong><\/p><p>We are the biggest fans of our producers here in the UK and our neighbouring Europe.  <\/p><p><\/p><p>It is important to us to keep in touch, invest and support in our talented local industry as well as working in our beloved India.<\/p><p>While once the UK was busy with block printing too, there are very few hand printers left (watch this space), however there are still many highly skilled industries and like minded producers that help us acheive<\/p><p> digital print uses much <\/p><p><\/p>",
-        "alignment": "center"
-      }
-    },
-    "1657200715d6671ac0": {
-      "type": "simple-button",
-      "disabled": true,
-      "settings": {
-        "label": "Discover our Workshops",
-        "link": "shopify:\/\/pages\/workshops-and-events",
-        "color_scheme": "dark"
-      }
-    },
-    "1649796058b0df534e": {
-      "type": "single-title_and_text",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
-        "alignment": "center"
-      }
-    },
     "16619385768307664a": {
       "type": "single-title_and_text",
       "settings": {
@@ -302,7 +275,7 @@
         "1649423066017d47e1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Finding block print has changed Molly's path in life.  It has become her world.  With this in mind Molly wants to pass on the joy of creativity to as many people as possible and offers a growing schedule of workshops in the Art of Block Printing.  Not only does it allow a more connected understanding of block printing and why it is important, but it allows people to refind a creativity in themselves that they may well have left behind at school.  When this is found effectively, we experience JOY.  To Molly this is incremental to a happy sustainable life.   Not only do they learn to appreciate this beautiful craft, but they also make something to be proud of, to treasure and to add a thoughtful touch to thwir home.<\/p><p><\/p><p><\/p><p><\/p><p>THE FUTURE:<\/p><p>While we admit we are not perfect we endeavour to remain open, thoughtful, caring and connected.  We endeavour to make items with care and attention.  We endeavour to keep a close connection to all that we work with and only work with businesses that align with our outlook.  We promise to be transparent and honest. <\/p><p>Most importantly we endeavour to help our customers make good decisions that they won't regret.  We offer support so they can make savy decisions and cherish the items that they invest in. <\/p><p><\/p><p><\/p>"
+            "text": "<p>Finding block print has changed Molly's path in life.  It has become her world.  With this in mind Molly wants to pass on the joy of creativity to as many people as possible and offers a growing schedule of workshops in the Art of Block Printing.  Not only does it allow a more connected understanding of block printing and why it is important, but it allows people to refind a creativity in themselves that they may well have left behind at school.  When this is found effectively, we experience JOY.  To Molly this is incremental to a happy sustainable life.   Not only do they learn to appreciate this beautiful craft, but they also make something to be proud of, to treasure and to add a thoughtful touch to thwir home.<\/p><p><\/p><p><\/p><p><\/p><p>THE FUTURE:<\/p><p>While we admit we are not perfect we endeavour to remain open, thoughtful, caring and connected.  We endeavour to make items with care and attention.  We endeavour to keep a close connection to all that we work with and only work with businesses that align with our outlook.  We promise to be transparent and honest. <\/p><p>Most importantly we endeavour to help our customers make good decisions that they won't regret.  We offer support so they can make savy decisions and cherish the items that they invest in. <\/p>"
           }
         },
         "1649423066017d47e1-2": {
@@ -338,9 +311,6 @@
     "1657200203628ef58f",
     "1657554766c55377b3",
     "1649421151e2286ae0",
-    "16572005737a4e951b",
-    "1657200715d6671ac0",
-    "1649796058b0df534e",
     "16619385768307664a",
     "166196110625f59f44",
     "16619623419ac7353e",
