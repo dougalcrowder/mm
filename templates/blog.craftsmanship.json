@@ -2,10 +2,22 @@
   "sections": {
     "main": {
       "type": "main-blog",
+      "blocks": {
+        "5a0a4fd2-ec4f-42f9-b7e0-9dc06e35823b": {
+          "type": "tag_text",
+          "settings": {
+            "title": "",
+            "tag_desc": ""
+          }
+        }
+      },
+      "block_order": [
+        "5a0a4fd2-ec4f-42f9-b7e0-9dc06e35823b"
+      ],
       "settings": {
         "show_image": true,
-        "blog_header": "Molly Mahon Look books",
-        "blog_intro": "<p>Vivamus interdum libero ac mauris aliquam feugiat. Duis sit amet vulputate diam. Morbi eget ipsum vestibulum quam interdum pharetra. Nulla nunc lorem, vestibulum nec mattis ac, pharetra ut libero.<\/p>",
+        "blog_header": "Craftsmanship",
+        "blog_intro": "<p><em>‘The quality of design and work shown in something made by hand; artistry.’<\/em><\/p>",
         "show_date": false,
         "show_author": false
       }
