@@ -241,8 +241,8 @@
     "16620509289736141d": {
       "type": "simple-button",
       "settings": {
-        "label": "Discover our Craftsmanship",
-        "link": "",
+        "label": "Explore more of our Craftsmanship",
+        "link": "shopify:\/\/blogs\/craftsmanship",
         "color_scheme": "dark"
       }
     },
