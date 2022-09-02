@@ -6,14 +6,14 @@
         "1662117342ae43a78c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Craftsmanship",
             "heading_type": "header1"
           }
         },
         "1662117342ae43a78c-1": {
           "type": "text",
           "settings": {
-            "text": "Make yourself a home.",
+            "text": "‘The quality of design and work shown in something made by hand; artistry.’",
             "go_serif": false
           }
         },
@@ -48,21 +48,9 @@
     },
     "main": {
       "type": "main-blog",
-      "blocks": {
-        "5a0a4fd2-ec4f-42f9-b7e0-9dc06e35823b": {
-          "type": "tag_text",
-          "settings": {
-            "title": "",
-            "tag_desc": ""
-          }
-        }
-      },
-      "block_order": [
-        "5a0a4fd2-ec4f-42f9-b7e0-9dc06e35823b"
-      ],
       "settings": {
         "show_image": true,
-        "blog_header": "Craftsmanship",
+        "blog_header": "",
         "blog_intro": "<p><em>‘The quality of design and work shown in something made by hand; artistry.’<\/em><\/p>",
         "show_date": false,
         "show_author": false
