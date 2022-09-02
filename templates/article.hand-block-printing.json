@@ -245,9 +245,9 @@
     "1657807750e4739f83": {
       "type": "simple-button",
       "settings": {
-        "label": "Discover our Craftsmanship",
+        "label": "Discover more about our Craftsmanship",
         "link": "shopify:\/\/pages\/craftsmanship",
-        "color_scheme": "red"
+        "color_scheme": "dark"
       }
     },
     "166205336832864fa7": {
