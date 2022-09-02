@@ -188,8 +188,8 @@
     "1657200203628ef58f": {
       "type": "simple-button",
       "settings": {
-        "label": "Discover More about our Craftsmanship",
-        "link": "shopify:\/\/pages\/block-printing",
+        "label": "Discover more about our Craftsmanship",
+        "link": "shopify:\/\/blogs\/craftsmanship",
         "color_scheme": "dark"
       }
     },
