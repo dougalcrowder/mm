@@ -262,35 +262,15 @@
         "margin_bot": "m"
       }
     },
-    "166196276803731365": {
+    "16623666085d16bec1": {
       "type": "multicolumn",
       "blocks": {
-        "1661962768c5e9d315-0": {
+        "1662366608ecf28ed6-0": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BODEN_WOMEN_DAYDRESS_LIFESTYLE.jpg",
-            "auto_height": true,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "red",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Boden Loves Molly Mahon",
-            "button_link": "shopify:\/\/blogs\/journal\/boden-loves-molly-mahon",
-            "subtext": ""
-          }
-        },
-        "1661962768c5e9d315-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/ANTHRO_PAINT_DISPLAY_1300x1300_81eaed96-ba85-4feb-971d-351d93da9f28.jpg",
+            "image": "shopify:\/\/shop_images\/BLOCKPRINTTABLE_ROSE_BLUE_LIFE_1300x1300_2f01cc32-fe25-41cd-8700-6e078565781c.jpg",
             "auto_height": true,
             "title": "",
             "subtitle": "",
@@ -300,480 +280,40 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Molly Mahon @ Anthropologie",
+            "button_label": "Anthropologie",
             "button_link": "shopify:\/\/pages\/anthropologie-craft-week-molly-mahon",
             "subtext": ""
           }
-        }
-      },
-      "block_order": [
-        "1661962768c5e9d315-0",
-        "1661962768c5e9d315-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false
-      }
-    },
-    "1661963166db3ffe82": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "We have a penchant for vibrant colours here at Molly Mahon. But you’ll also find lighter pastels and a cosy palette of golds and sage to bring personality and passion to your home.",
-        "text": "",
-        "alignment": "left"
-      }
-    },
-    "1661964058633d317f": {
-      "type": "image-banner",
-      "blocks": {
-        "16619640584483b84f-1": {
-          "type": "text",
-          "settings": {
-            "text": "home shot - lighter pastels and a palette of gold showing personality and passion",
-            "go_serif": true
-          }
-        }
-      },
-      "block_order": [
-        "16619640584483b84f-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_House_Home_-_Bed_Bath.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text"
-      }
-    },
-    "1661964300e29a69df": {
-      "type": "2-column-text",
-      "blocks": {
-        "16619643001e6b54da-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Birds, Bees and Bindi, Oh My",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "16619643001e6b54da-0"
-      ],
-      "settings": {
-        "margin_top": "l",
-        "margin_bot": "none"
-      }
-    },
-    "1661964322bc4b19cb": {
-      "type": "2-column-text",
-      "blocks": {
-        "16619643222aee4981-0": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "text": "<p>Nature is at the heart of our designs. Molly’s favourite moments are often marked by natural symbols... ferns found on a family walk, coral for her Mother’s love of the coast, the trees of Ashdown Forest. We’re drawn to nature and feel comfort when it’s brought into our home.<\/p><p>From strawberry fields to starry skies, each print has been carefully<br\/><\/p>",
-            "button_label": "",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
         },
-        "6bb5641a-6711-45f3-8a98-83090ba1f22a": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "text": "<p>chosen to bring joy, peace and plenty of personality. Discover our best selling designer floral wallpaper, Marigold. Or get inspired by Molly’s trips to India. Here you’ll find the rare Marwari Horse trotting along the streets of Rajasthan and our blue Bindi print from the Bagru Collection, a cheerful, subtle stripe that will uplift any space.<br\/><\/p>",
-            "button_label": "",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "16619643222aee4981-0",
-        "6bb5641a-6711-45f3-8a98-83090ba1f22a"
-      ],
-      "settings": {
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "16619644470639d01e": {
-      "type": "simple_quote",
-      "settings": {
-        "quote": "<p><em>‘I find it very easy to<br\/>find inspiration in<br\/>nature. Quite simply, I<br\/>love it!’ - Molly Mahon<\/em><\/p>",
-        "cite": "",
-        "bg": "none",
-        "bg-image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_1800x1000_0569705d-4963-4d04-89f2-6748f90c3e92.jpg"
-      }
-    },
-    "1661964515b80324f9": {
-      "type": "image-with-text",
-      "blocks": {
-        "1661964515c0a4239b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "New Kids on the Block"
-          }
-        },
-        "1661964515c0a4239b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Create a welcoming, warm home for you and your family with our newest and most popular designer wallpapers in the UK. Find your perfect print and stamp your mark with ease.<\/p>"
-          }
-        },
-        "1661964515c0a4239b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop new designer wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper"
-          }
-        }
-      },
-      "block_order": [
-        "1661964515c0a4239b-0",
-        "1661964515c0a4239b-1",
-        "1661964515c0a4239b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/WFEMUSTLIFE_470c250e-d310-4094-8343-dd0072829d1a.jpg",
-        "title": "",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first"
-      }
-    },
-    "1661964774b2c2d19c": {
-      "type": "2-column-text",
-      "blocks": {
-        "1661964774e6e45ade-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Making A House A Colourful Home",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "1661964774e6e45ade-0"
-      ],
-      "settings": {
-        "margin_top": "l",
-        "margin_bot": "none"
-      }
-    },
-    "1661964808823921f8": {
-      "type": "2-column-text",
-      "blocks": {
-        "1661964808bcdf674a-0": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "text": "<p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.<\/p><p>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home to.<br\/><\/p>",
-            "button_label": "",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "d2281a0e-4386-4b26-a648-c458a649aa41": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. <\/p><p>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our Mood Boards for more printspiration and dare to be adventurous!<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "1661964808bcdf674a-0",
-        "d2281a0e-4386-4b26-a648-c458a649aa41"
-      ],
-      "settings": {
-        "margin_top": "none",
-        "margin_bot": "s"
-      }
-    },
-    "166196499121cbee63": {
-      "type": "simple_quote",
-      "settings": {
-        "quote": "<p><em>\"Real homes are not showrooms or magazine ready rooms. Real homes are spaces to be comfortable and relaxed in.\" - Molly Mahon<br\/><\/em><\/p>",
-        "cite": "",
-        "bg": "green",
-        "bg-image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_LIFE.jpg"
-      }
-    },
-    "16619651182f2f7237": {
-      "type": "multicolumn",
-      "blocks": {
-        "16619651184c2ac895-0": {
+        "1662366608ecf28ed6-1": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MASTEROFCOLOUR_BOOKMARK_PINK_LIFE_1300x1300_c92a8039-6e6f-43af-8134-b26179923e76.jpg",
+            "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_51f962e5-f1fc-4573-ae84-608dbddfc0ae.jpg",
             "auto_height": true,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "white_text",
+            "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "16619651184c2ac895-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "auto_height": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. <\/p><p>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our Mood Boards for more printspiration and dare to be adventurous!<br\/><\/p>",
-            "button_color": "white",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Boden",
+            "button_link": "shopify:\/\/pages\/boden-molly-mahon",
             "subtext": ""
           }
         }
       },
       "block_order": [
-        "16619651184c2ac895-0",
-        "16619651184c2ac895-1"
+        "1662366608ecf28ed6-0",
+        "1662366608ecf28ed6-1"
       ],
       "settings": {
         "mc_title": "",
         "show_title": false,
         "add_spacing": false
-      }
-    },
-    "166196584422798e4f": {
-      "type": "2-column-text",
-      "blocks": {
-        "1661965844bad8432e-0": {
-          "type": "text",
-          "settings": {
-            "heading": "To match or to Clash",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "1661965844bad8432e-0"
-      ],
-      "settings": {
-        "margin_top": "l",
-        "margin_bot": "none"
-      }
-    },
-    "16619659543f81dd81": {
-      "type": "2-column-text",
-      "blocks": {
-        "1661965954b1b4671d-0": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "text": "<p>Why have one pattern if you can have them all? The fabulous thing about patterns is that you don’t have to limit yourself to one. Mixing prints can give a home a contemporary, energising quality - and that way you won’t have to struggle to decide!<\/p><p>There are no rules when it comes to getting creative in the home. Clash abstract patterns with big blooming florals, or twin stripy designs with standout natural shapes such as Coral or Hawaiian themed Lani. The key is to pick complimenting colours... light blue and pale green, yellow and indigo, or bright pink and sage. <\/p><p>If matching is more your style, pick a patterned wallpaper for each room and pull out key colours to inject into your furnishings. From towels to bedspreads, highlighting one or two shades throughout your accessories will really make your pattern pop.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "c3e153d7-75d5-401b-aa46-d9e0aec26fb3": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "text": "<p>Why not take your matching designs one step further and go for the fully printed look? Matchimalism is all about embracing your favourite print and inserting it everywhere you can. Each of our interior design wallpapers have a matching fabric that turns perfectly into curtains or blinds. Pair with a set of matching cushions, a pleated lampshade or kitchen accessories such as a table cloth or tea towel for a super fun, extravagant touch.<\/p><p>Ready to give your home a splash of colour? Take a look at our collection of home goods or give your bedroom a pattern-inspired makeover with a set of bedroom accessories.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "1661965954b1b4671d-0",
-        "c3e153d7-75d5-401b-aa46-d9e0aec26fb3"
-      ],
-      "settings": {
-        "margin_top": "none",
-        "margin_bot": "s"
-      }
-    },
-    "16619660998a9e934c": {
-      "type": "image-banner",
-      "blocks": {
-        "16619660990ca3f16f-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "16619660990ca3f16f-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false
-          }
-        },
-        "16619660990ca3f16f-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16619660990ca3f16f-0",
-        "16619660990ca3f16f-1",
-        "16619660990ca3f16f-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/TABLELINEN_CHERRY_LIFE2_1200x900_0806a8bb-e62e-4dfd-a81f-acf0490f5e8f.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text"
-      }
-    },
-    "1661966205272a43a2": {
-      "type": "image-banner",
-      "blocks": {
-        "1661966205b9d99aa4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Art of Block Printing",
-            "heading_type": "header1"
-          }
-        },
-        "1661966205b9d99aa4-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false
-          }
-        },
-        "1661966205b9d99aa4-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1661966205b9d99aa4-0",
-        "1661966205b9d99aa4-1",
-        "1661966205b9d99aa4-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_MOBILE_1300x1300_243b2461-51ef-41f9-8a6e-75317dd70895.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "dark_text"
-      }
-    },
-    "16619662893284ef96": {
-      "type": "2-column-text",
-      "blocks": {
-        "16619662893dc6af32-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Perfect Imperfections",
-            "text": "<p> <\/p><p><\/p>",
-            "button_label": "Learn more about block printing",
-            "button_link": "shopify:\/\/pages\/the-art-of-block-printing-with-molly-mahon",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "6ef935d0-fc61-4b3f-89c2-ada42abc8f97": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "text": "<p>Block printing is an ancient form of transferring design to cloth that goes back over 4,500 years - and we still love it today. One of the many things that drew Molly to hand block printing was the personal connection with each and every piece. The odd movement between each print of paint gives the finished product a sense of authentic energy that can’t be achieved with a machine. Like the imperfections of real life, it’s what makes it beautiful.<\/p><p>The block printing process starts in Molly’s countryside studio where she turns doodles from nature, travels and her daily life into repeat designs. Each is then carved into a unique lino or wooden block, and brought to life on quality fabrics and paper by our team of master printers in India.<br\/><\/p>",
-            "button_label": "",
-            "button_link": "",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "16619662893dc6af32-0",
-        "6ef935d0-fc61-4b3f-89c2-ada42abc8f97"
-      ],
-      "settings": {
-        "margin_top": "l",
-        "margin_bot": "l"
       }
     }
   },
@@ -787,21 +327,6 @@
     "166196159906fadd3f",
     "16619593053301a27e",
     "16619593508075d424",
-    "166196276803731365",
-    "1661963166db3ffe82",
-    "1661964058633d317f",
-    "1661964300e29a69df",
-    "1661964322bc4b19cb",
-    "16619644470639d01e",
-    "1661964515b80324f9",
-    "1661964774b2c2d19c",
-    "1661964808823921f8",
-    "166196499121cbee63",
-    "16619651182f2f7237",
-    "166196584422798e4f",
-    "16619659543f81dd81",
-    "16619660998a9e934c",
-    "1661966205272a43a2",
-    "16619662893284ef96"
+    "16623666085d16bec1"
   ]
 }
