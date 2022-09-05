@@ -59,7 +59,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Hospitality",
-        "text": "<p>We have been approached from various hospitality trades including hotels, restaurants, rural pubs to television series.  We love working with these projects to bring our colour and pattern into commercial spaces.  If you are looking to create a warm, friendly, joyful and inspiring environment, contact us to discuss how we can work with you. <\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to talk through  on +44 (0) 1342 825700.<\/p>",
+        "text": "<p>We have been approached from various hospitality trades including hotels, restaurants, rural pubs to television series.  We love working with these projects to bring our colour and pattern into commercial spaces.  If you are looking to create a unique, joyful and inspiring environment, contact us to discuss how we can work with you. <\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to talk through  on +44 (0) 1342 825700.<\/p>",
         "alignment": "center"
       }
     },
@@ -122,12 +122,32 @@
             "button_link": "",
             "subtext": ""
           }
+        },
+        "a5870e5b-af92-4d96-8da9-791998a311d2": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/SOPHIEROBINSON_REVEALS_LANI_WALLPAPER_1300X1300_16482c2f-f42a-4919-8b82-d8138f1aef0e.jpg",
+            "title": "",
+            "subtitle": "Sophie Robinson's television sweries - reveal",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "View",
+            "button_link": "",
+            "subtext": ""
+          }
         }
       },
       "block_order": [
         "1662372635bce63b35-0",
         "1662372635bce63b35-2",
-        "1662372635bce63b35-1"
+        "1662372635bce63b35-1",
+        "a5870e5b-af92-4d96-8da9-791998a311d2"
       ],
       "settings": {
         "mc_title": "",
