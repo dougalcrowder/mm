@@ -49,9 +49,23 @@
         "color_scheme": "white_text"
       }
     },
+    "166213711761e7d20e": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
+      }
+    },
+    "166213715796e396a1": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "text": "",
+        "alignment": "center"
       }
     },
     "16352620842faf27c4": {
@@ -225,7 +239,9 @@
   },
   "order": [
     "1635330929a8d9324e",
+    "166213711761e7d20e",
     "main",
+    "166213715796e396a1",
     "16352620842faf27c4",
     "1635263281959956a1",
     "163526328406ed0926"

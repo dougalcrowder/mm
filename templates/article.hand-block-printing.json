@@ -1,0 +1,330 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "share"
+      ],
+      "settings": {
+      }
+    },
+    "16577300071f976c5e": {
+      "type": "image-banner",
+      "blocks": {
+        "1657730007a25f7230-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Block Printing",
+            "heading_type": "header1"
+          }
+        },
+        "1657730007a25f7230-1": {
+          "type": "text",
+          "settings": {
+            "text": "An age old technique in a modern world",
+            "go_serif": true
+          }
+        },
+        "1657730007a25f7230-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657730007a25f7230-0",
+        "1657730007a25f7230-1",
+        "1657730007a25f7230-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mm_vid.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "166213410581340c6d": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
+    "1662051804a5f184e4": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p>Block printing is the most wonderful physical form of creativity as well as being a means to create important, beautiful and practical items for our homes.  I have been blown away by the talent I have encountered and will strive to do my best to keep the craft alive and viable.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1657730156eeff869f": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657730156412eb3fd-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/140201_MollyMahon-113.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1657730156412eb3fd-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657730156412eb3fd-0",
+        "1657730156412eb3fd-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
+      }
+    },
+    "16620529066687c736": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Designed in Sussex",
+        "text": "<p>Inspired by nature, my travels to India and things that I notice in my daily life, I turn my images into repeat designs and carve them into a block.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1657730380748266d7": {
+      "type": "image-banner",
+      "blocks": {
+        "1657730379dcd0a206-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1657730379dcd0a206-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "1657730379dcd0a206-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657730379dcd0a206-0",
+        "1657730379dcd0a206-1",
+        "1657730379dcd0a206-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
+        "make_logo_white": false,
+        "top_margin": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1657788484c1ce8251": {
+      "type": "image-with-text",
+      "blocks": {
+        "16577884832ae4f504-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Printing Process"
+          }
+        },
+        "16577884832ae4f504-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every block placed is unique. The skill these master block printers have is remarkable. The accuracy is mesmerising and the action brings the fabric alive.<\/p>"
+          }
+        },
+        "16577884832ae4f504-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16577884832ae4f504-0",
+        "16577884832ae4f504-1",
+        "16577884832ae4f504-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "1657807750e4739f83": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Discover more about our Craftsmanship",
+        "link": "shopify:\/\/pages\/craftsmanship",
+        "color_scheme": "dark"
+      }
+    },
+    "166205336832864fa7": {
+      "type": "image-banner",
+      "blocks": {
+        "16620533688bedc960-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "16620533688bedc960-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "16620533688bedc960-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16620533688bedc960-0",
+        "16620533688bedc960-1",
+        "16620533688bedc960-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MM_BLOCKPRINTING_INDIA.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "164975103076740208": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop hand block printed fabric",
+        "collection": "hand-block-printed-fabric",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16577300071f976c5e",
+    "166213410581340c6d",
+    "1662051804a5f184e4",
+    "1657730156eeff869f",
+    "16620529066687c736",
+    "1657730380748266d7",
+    "1657788484c1ce8251",
+    "1657807750e4739f83",
+    "166205336832864fa7",
+    "164975103076740208"
+  ]
+}

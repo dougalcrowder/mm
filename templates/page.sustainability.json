@@ -52,6 +52,11 @@
         "color_scheme": "white_text"
       }
     },
+    "166213362824d8104f": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "1657198256089a7c52": {
       "type": "single-title_and_text",
       "settings": {
@@ -69,7 +74,6 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
-            "auto_height": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -89,7 +93,6 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/MM_FABRIC_WASHING_LIFE_1300x1300_bbc873a8-e257-4513-8af1-cf98061be49a.jpg",
-            "auto_height": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -148,7 +151,6 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
-            "auto_height": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -168,7 +170,6 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
-            "auto_height": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -239,7 +240,7 @@
         "color_scheme": "white_text"
       }
     },
-    "16619385768307664a": {
+    "16572005737a4e951b": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Showing how we care",
@@ -247,41 +248,41 @@
         "alignment": "center"
       }
     },
-    "166196110625f59f44": {
+    "1662105763569a8dd2": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Ensuring a Long Life",
-        "text": "<p>We are working towards sharing tips on how to build a home using our fabrics and products and sustaining the longest life with those items as possible.  This can include planning for a room effectively, adding a leading edge to a curtain, protecting fabrics from sun damage, using eco washing powders and more.  We look forward to sharing our tips and tricks very soon to make the most of a MM purchase.<\/p><p><\/p>",
+        "text": "<p>We are working towards sharing tips on how to build a home using our fabrics and products and sustaining the longest life with those items as possible.  This can include planning for a room effectively, adding a leading edge to a curtain, protecting fabrics from sun damage, using eco washing powders and more.  We look forward to sharing our tips and tricks very soon to make the most of a MM purchase.<\/p>",
         "alignment": "center"
       }
     },
-    "16619623419ac7353e": {
+    "16621119659ca3d590": {
       "type": "simple-button",
       "disabled": true,
       "settings": {
-        "label": "Discover more on Fabric care",
+        "label": "Fabric Care",
         "link": "",
-        "color_scheme": "dark"
+        "color_scheme": "white"
       }
     },
-    "1662112251d7cb3486": {
+    "16621112250266f39e": {
       "type": "image-banner",
       "blocks": {
-        "16621122519adc79be-0": {
+        "1662111225182f2e59-0": {
           "type": "heading",
           "settings": {
             "heading": "Sharing the Love",
             "heading_type": "header1"
           }
         },
-        "16621122519adc79be-1": {
+        "1662111225182f2e59-1": {
           "type": "text",
           "settings": {
             "text": "Learn the joy in being creative for your home",
             "go_serif": false
           }
         },
-        "16621122519adc79be-2": {
+        "1662111225182f2e59-2": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Button label",
@@ -294,9 +295,9 @@
         }
       },
       "block_order": [
-        "16621122519adc79be-0",
-        "16621122519adc79be-1",
-        "16621122519adc79be-2"
+        "1662111225182f2e59-0",
+        "1662111225182f2e59-1",
+        "1662111225182f2e59-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/HANDBLOCK_YELLOWFLOWER.jpg",
@@ -310,7 +311,7 @@
         "color_scheme": "white_text"
       }
     },
-    "166211243848fe5518": {
+    "1649796058b0df534e": {
       "type": "single-title_and_text",
       "settings": {
         "title": "",
@@ -318,7 +319,7 @@
         "alignment": "center"
       }
     },
-    "1662112284c1db0bbb": {
+    "1657200715d6671ac0": {
       "type": "simple-button",
       "settings": {
         "label": "Discover our Workshops",
@@ -330,6 +331,7 @@
   "order": [
     "main",
     "1649773735fabcedda",
+    "166213362824d8104f",
     "1657198256089a7c52",
     "1657811114f24b0af2",
     "1657199219affcebfd",
@@ -337,11 +339,11 @@
     "1657200203628ef58f",
     "1657554766c55377b3",
     "1649421151e2286ae0",
-    "16619385768307664a",
-    "166196110625f59f44",
-    "16619623419ac7353e",
-    "1662112251d7cb3486",
-    "166211243848fe5518",
-    "1662112284c1db0bbb"
+    "16572005737a4e951b",
+    "1662105763569a8dd2",
+    "16621119659ca3d590",
+    "16621112250266f39e",
+    "1649796058b0df534e",
+    "1657200715d6671ac0"
   ]
 }

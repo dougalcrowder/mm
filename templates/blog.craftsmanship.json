@@ -1,26 +1,24 @@
 {
   "sections": {
-    "16354416148d3a6fb7": {
+    "166211734227b7e858": {
       "type": "image-banner",
       "blocks": {
-        "16354416148d3a6fb7-0": {
+        "1662117342ae43a78c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome",
+            "heading": "Craftsmanship",
             "heading_type": "header1"
           }
         },
-        "16354416148d3a6fb7-1": {
+        "1662117342ae43a78c-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Make yourself a home.",
+            "text": "‘The quality of design and work shown in something made by hand; artistry.’",
             "go_serif": false
           }
         },
-        "16354416148d3a6fb7-2": {
+        "1662117342ae43a78c-2": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
             "button_label_1": "Button label",
             "button_link_1": "",
@@ -32,13 +30,12 @@
         }
       },
       "block_order": [
-        "16354416148d3a6fb7-0",
-        "16354416148d3a6fb7-1",
-        "16354416148d3a6fb7-2"
+        "1662117342ae43a78c-0",
+        "1662117342ae43a78c-1",
+        "1662117342ae43a78c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_MM_Community.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_MM_Community.jpg",
+        "image": "shopify:\/\/shop_images\/269611342_313979097124189_10294121352655617_n.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -49,19 +46,25 @@
         "color_scheme": "white_text"
       }
     },
+    "1662133548e10f7f5d": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-blog",
       "settings": {
         "show_image": true,
-        "blog_header": "Our Journal",
-        "blog_intro": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.<\/p>",
+        "blog_header": "",
+        "blog_intro": "<p>Molly started from her kitchen table and in her journey crafted the designs you see today.  We highly value the importance of things made by hand and the craft that produces its outcome.  This is not to say we do not value the machines that produce beautiful things also as you will see.<\/p><p>Discover more of the crafts we use to deliver the products to you....<\/p>",
         "show_date": false,
         "show_author": false
       }
     }
   },
   "order": [
-    "16354416148d3a6fb7",
+    "166211734227b7e858",
+    "1662133548e10f7f5d",
     "main"
   ]
 }

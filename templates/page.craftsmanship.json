@@ -52,6 +52,11 @@
         "color_scheme": "white_text"
       }
     },
+    "1662133469ec9a1c3f": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "1657198256089a7c52": {
       "type": "single-title_and_text",
       "settings": {
@@ -107,6 +112,9 @@
         "1657884328381b57c0-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
       }
     },
     "1657554766c55377b3": {
@@ -156,6 +164,9 @@
         "165755476682de038b-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
       }
     },
     "1657884730d012c5eb": {
@@ -304,6 +315,7 @@
   "order": [
     "main",
     "1649773735fabcedda",
+    "1662133469ec9a1c3f",
     "1657198256089a7c52",
     "165788432850e37d07",
     "1657554766c55377b3",
