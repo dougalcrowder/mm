@@ -1,5 +1,54 @@
 {
   "sections": {
+    "1649773735fabcedda": {
+      "type": "image-banner",
+      "blocks": {
+        "164977373582025f2d-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "About Us",
+            "heading_type": "header1"
+          }
+        },
+        "164977373582025f2d-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "go_serif": false
+          }
+        },
+        "164977373582025f2d-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Discover more",
+            "button_link_1": "shopify:\/\/pages\/about-us",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164977373582025f2d-0",
+        "164977373582025f2d-1",
+        "164977373582025f2d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FIRMDALE_SOHO_LEAF_1800x900_518aa660-2b7f-43fd-88c8-9d18c6b68ff4.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -9,8 +58,8 @@
     "1657198256089a7c52": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "Services",
-        "text": "<p>We are a family run business and provide a friendly open and informative service to all our clients and customers.<\/p><p>Molly Mahon offers a range of services alongside its retail offering.  We have a department specifically to cater for the trade industry.  We cross over further to work with the hospitality industry on exciting projects and Molly herself works on bespoke licensing designs in collaboration with other companies.<\/p><p>We also offer a bespoke colour service on our digitally printed fabrics & wallpapers.  Allowing customers to mix and match some of our designs (Deerhyrst Collection) to their colour specific schemes.  <\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to talk through  on +44 (0) 1342 825700.<\/p>",
+        "title": "Hospitality",
+        "text": "<p>We have been approached from various hospitality trades including hotels, restaurants, rural pubs and television series.  We love working with these projects to bring our colour and pattern into commercial spaces.  If you are looking to create a warm, friendly and inspiring environent, contact us to discuss how we can work with you. <\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to talk through  on +44 (0) 1342 825700.<\/p>",
         "alignment": "center"
       }
     },
@@ -24,15 +73,15 @@
             "narrow": false,
             "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
             "title": "",
-            "subtitle": "Trade",
+            "subtitle": "Bombay Bustle",
             "subtitle_size": "large",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Open an Account",
-            "button_link": "shopify:\/\/pages\/trade",
+            "button_label": "View",
+            "button_link": "",
             "subtext": ""
           }
         },
@@ -43,14 +92,14 @@
             "narrow": false,
             "image": "shopify:\/\/shop_images\/LEAF_GRASS_FIRMDALEHOTEL.jpg",
             "title": "",
-            "subtitle": "Hospitality",
+            "subtitle": "Firmdale Hotels",
             "subtitle_size": "large",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Button label",
+            "button_label": "View",
             "button_link": "",
             "subtext": ""
           }
@@ -60,16 +109,16 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FLORAL_MINI_BODEN_TOP.jpg",
+            "image": "shopify:\/\/shop_images\/THESWAN_BIRDS_BEES_BEDROOM_1300x1300_730cf24e-5a03-4381-abac-9478f1a0efc8.jpg",
             "title": "",
-            "subtitle": "Licensing",
+            "subtitle": "The Swan",
             "subtitle_size": "large",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Past Collaborations",
+            "button_label": "View Project",
             "button_link": "",
             "subtext": ""
           }
@@ -93,52 +142,6 @@
         "label": "MM Trade",
         "link": "",
         "color_scheme": "red"
-      }
-    },
-    "1649773735fabcedda": {
-      "type": "image-banner",
-      "blocks": {
-        "164977373582025f2d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "About Us",
-            "heading_type": "header1"
-          }
-        },
-        "164977373582025f2d-1": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "go_serif": false
-          }
-        },
-        "164977373582025f2d-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Discover more",
-            "button_link_1": "shopify:\/\/pages\/about-us",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "164977373582025f2d-0",
-        "164977373582025f2d-1",
-        "164977373582025f2d-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text"
       }
     },
     "1657199219affcebfd": {
@@ -357,11 +360,11 @@
     }
   },
   "order": [
+    "1649773735fabcedda",
     "main",
     "1657198256089a7c52",
     "16623726363d1c454c",
     "1662033198f876a3de",
-    "1649773735fabcedda",
     "1657199219affcebfd",
     "1657534986eb08901e",
     "16575248265ae56784",
