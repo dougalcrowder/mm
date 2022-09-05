@@ -6,99 +6,12 @@
       "settings": {
       }
     },
-    "1657198256089a7c52": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "Services",
-        "text": "<p>We are a family run business and provide a friendly open and informative service to all our clients and customers.<\/p><p>Molly Mahon offers a range of services alongside its retail offering.  We have a department specifically to cater for the trade industry.  We cross over further to work with the hospitality industry on exciting projects and Molly herself works on bespoke licensing designs in collaboration with other companies.<\/p><p>We also offer a bespoke colour service on our digitally printed fabrics & wallpapers.  Allowing customers to mix and match some of our designs (Deerhyrst Collection) to their colour specific schemes.  <\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to talk through  on +44 (0) 1342 825700.<\/p>",
-        "alignment": "center"
-      }
-    },
-    "16623726363d1c454c": {
-      "type": "multicolumn",
-      "blocks": {
-        "1662372635bce63b35-0": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
-            "title": "",
-            "subtitle": "Trade",
-            "subtitle_size": "large",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Open an Account",
-            "button_link": "shopify:\/\/pages\/trade",
-            "subtext": ""
-          }
-        },
-        "1662372635bce63b35-2": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/LEAF_GRASS_FIRMDALEHOTEL.jpg",
-            "title": "",
-            "subtitle": "Hospitality",
-            "subtitle_size": "large",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "1662372635bce63b35-1": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/FLORAL_MINI_BODEN_TOP.jpg",
-            "title": "",
-            "subtitle": "Licensing",
-            "subtitle_size": "large",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Past Collaborations",
-            "button_link": "",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "1662372635bce63b35-0",
-        "1662372635bce63b35-2",
-        "1662372635bce63b35-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false
-      }
-    },
-    "1662033198f876a3de": {
-      "type": "simple-button",
-      "settings": {
-        "label": "MM Trade",
-        "link": "",
-        "color_scheme": "red"
-      }
-    },
     "1649773735fabcedda": {
       "type": "image-banner",
       "blocks": {
         "164977373582025f2d-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "About Us",
             "heading_type": "header1"
@@ -106,6 +19,7 @@
         },
         "164977373582025f2d-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "",
             "go_serif": false
@@ -113,6 +27,7 @@
         },
         "164977373582025f2d-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Discover more",
             "button_link_1": "shopify:\/\/pages\/about-us",
@@ -129,7 +44,7 @@
         "164977373582025f2d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "image": "shopify:\/\/shop_images\/BB_RESTAURANT_LUNAPINK_1800X900_a36efb7e-e169-4d17-a464-8308183390ea.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -138,6 +53,135 @@
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text"
+      }
+    },
+    "1657198256089a7c52": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Bombay Bustle",
+        "text": "<p>Working closely with Bombay Bustle this fun bombastic burst of our pinks brought us together.  Molly injected just the right touch to bring a deep warmth of colour, sophistication and fun into the space serving the most delicious food along with a lovely true Indian culture service.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "16623726363d1c454c": {
+      "type": "multicolumn",
+      "blocks": {
+        "1662372635bce63b35-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BB_BOOTH_1300X1300_5a17e5b1-3b5a-4342-b52f-87821ab1ab0f.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1662372635bce63b35-2": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BB_BAR_2600X1300_bdd511ca-3bb3-44c1-b2ad-475f2119f235.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1662372635bce63b35-1": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BB_MENU_1300X1300_fb040d36-86cc-46a5-8f12-3a7af8f15a94.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "d2f03e07-eb37-4734-8cdd-7d621a947d80": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BB_COLLABORATION_1300X1300_8e2942e2-54af-4d6f-a613-ba1cfd321418.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "7553c61b-67f6-4c58-906c-f5adadf18357": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BB_APERITIF_1300X1300_aeed2e55-d7de-480a-9b38-46f00e386a0b.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662372635bce63b35-0",
+        "1662372635bce63b35-2",
+        "1662372635bce63b35-1",
+        "d2f03e07-eb37-4734-8cdd-7d621a947d80",
+        "7553c61b-67f6-4c58-906c-f5adadf18357"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
+      }
+    },
+    "1662033198f876a3de": {
+      "type": "simple-button",
+      "disabled": true,
+      "settings": {
+        "label": "MM Trade",
+        "link": "",
+        "color_scheme": "red"
       }
     },
     "1657199219affcebfd": {
@@ -166,16 +210,54 @@
         "link": "shopify:\/\/pages\/workshops-and-events",
         "color_scheme": "dark"
       }
+    },
+    "1662389758f70f63ef": {
+      "type": "image-with-text",
+      "blocks": {
+        "1662389758409db467-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1662389758409db467-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1662389758409db467-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662389758409db467-0",
+        "1662389758409db467-1",
+        "1662389758409db467-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FOYSLUPINK1_df6147a0-59a8-44fc-9fd4-e619d31c4b1b.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "main",
+    "1649773735fabcedda",
     "1657198256089a7c52",
     "16623726363d1c454c",
     "1662033198f876a3de",
-    "1649773735fabcedda",
     "1657199219affcebfd",
     "1657200203628ef58f",
-    "1657200715d6671ac0"
+    "1657200715d6671ac0",
+    "1662389758f70f63ef"
   ]
 }

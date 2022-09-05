@@ -88,7 +88,6 @@
     },
     "1662033198f876a3de": {
       "type": "simple-button",
-      "disabled": true,
       "settings": {
         "label": "MM Trade",
         "link": "",
@@ -150,128 +149,6 @@
         "alignment": "center"
       }
     },
-    "1657534986eb08901e": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "16575349860982ab1b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Meet Molly Mahon",
-            "heading_type": "header1"
-          }
-        },
-        "16575349860982ab1b-1": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "go_serif": false
-          }
-        },
-        "16575349860982ab1b-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16575349860982ab1b-0",
-        "16575349860982ab1b-1",
-        "16575349860982ab1b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_MOBILE_1300x1300_243b2461-51ef-41f9-8a6e-75317dd70895.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text"
-      }
-    },
-    "16575248265ae56784": {
-      "type": "single-title_and_text",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "text": "<p><em>\"I never tire of lifting the block and seeing the impression that has been left, the slight movement that you get from a hand print is what I enthusiastically call ‘perfect imperfections.\"<\/em><\/p><p>There is something special about block printing that has stood the test of time.  To me it brings the fabric alive and this is exactly what it does to our homes.<\/p><p>I am a British printmaker who started at my kitchen table and now runs a design studio which distributes our designs globally.  Having partnered with Christies, Firmdale Hotels, Cabbages & Roses and more recently Boden amongst others we understand the power of pretty print and we aim to offer the most modern and fresh prints and colours amongst our community.  With all our designs being designed in house we can offer originality and a very bespoke signature with Molly overseeing all elements of design.<\/p><p>Molly runs her business with her husband Rollo and their children and their dog Bramble who are all very much involved.<\/p>",
-        "alignment": "center"
-      }
-    },
-    "1649796058b0df534e": {
-      "type": "single-title_and_text",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
-        "alignment": "center"
-      }
-    },
-    "16578945700c2c5ca5": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "165789457062446127-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_type": "header1"
-          }
-        },
-        "165789457062446127-1": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "go_serif": false
-          }
-        },
-        "165789457062446127-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "165789457062446127-0",
-        "165789457062446127-1",
-        "165789457062446127-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50_9462433f-6c8e-4884-b866-6c7fa035e7f2.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text"
-      }
-    },
-    "165720007696eef0eb": {
-      "type": "single-title_and_text",
-      "disabled": true,
-      "settings": {
-        "title": "Craftsmanship",
-        "text": "<p>‘The quality of design and work shown in something made by hand; artistry.'<\/p><p>We get to meet craftsman all over the world and champion our area of expertise in block printing.  When sourcing the people we want to align and work with, we take into consideration the quality they bring in their craftsmanship and that they have a similar love of producing products that will stand the test of time.<\/p><p>From hand block printing our fabrics to surface printing our wallpaper we use an array of techniques to bring unique product to you.<\/p>",
-        "alignment": "center"
-      }
-    },
     "1657200203628ef58f": {
       "type": "simple-button",
       "disabled": true,
@@ -279,62 +156,6 @@
         "label": "Discover More about our Craftsmanship",
         "link": "shopify:\/\/pages\/block-printing",
         "color_scheme": "dark"
-      }
-    },
-    "1649421151e2286ae0": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "1649421151dae3f553-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "We love block printing",
-            "heading_type": "header2"
-          }
-        },
-        "1649421151dae3f553-1": {
-          "type": "text",
-          "settings": {
-            "text": "\"We design to enrich our lives for the home by merging our British sensibility and love for bold aesthetics.\"",
-            "go_serif": true
-          }
-        },
-        "1649421151dae3f553-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1649421151dae3f553-0",
-        "1649421151dae3f553-1",
-        "1649421151dae3f553-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/MOLLY_BLOCKPRINTING_BODEN.jpg",
-        "make_logo_white": false,
-        "top_margin": true,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "dark_text"
-      }
-    },
-    "16572005737a4e951b": {
-      "type": "single-title_and_text",
-      "disabled": true,
-      "settings": {
-        "title": "Creativity",
-        "text": "<p>The heart and soul of what we do is founded on creativity.<\/p><p>Creative acts are very inclusive, they create camaraderie, spark the imagination, allow us to realise our capabilities as humans.  If we create we can experience pride, delight and the feeling of being physical.  <\/p><p><em>\"My studio is my special space; while it bustles and hums with books, paint, blocks, scrapbooks, paper and a plethora of artists tools its also a place of calm, free of technology, a private and personal space where I can be completely ‘me’.\" Molly Mahon<\/em><\/p>",
-        "alignment": "center"
       }
     },
     "1657200715d6671ac0": {
@@ -345,15 +166,6 @@
         "link": "shopify:\/\/pages\/workshops-and-events",
         "color_scheme": "dark"
       }
-    },
-    "1657525778565a7c98": {
-      "type": "single-title_and_text",
-      "disabled": true,
-      "settings": {
-        "title": "Giving Back",
-        "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.<\/p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.<\/p>",
-        "alignment": "center"
-      }
     }
   },
   "order": [
@@ -363,15 +175,7 @@
     "1662033198f876a3de",
     "1649773735fabcedda",
     "1657199219affcebfd",
-    "1657534986eb08901e",
-    "16575248265ae56784",
-    "1649796058b0df534e",
-    "16578945700c2c5ca5",
-    "165720007696eef0eb",
     "1657200203628ef58f",
-    "1649421151e2286ae0",
-    "16572005737a4e951b",
-    "1657200715d6671ac0",
-    "1657525778565a7c98"
+    "1657200715d6671ac0"
   ]
 }
