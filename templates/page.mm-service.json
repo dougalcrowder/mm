@@ -10,12 +10,85 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Services",
-        "text": "<p>Firstly we are a family run business and provide a friendly open and informative service to all our clients and customers.<\/p><p>Molly Mahon offers a range of service alongside its retail offering.  We have a department specifically to supply for the trade industry.  We cross over further to work with the hospitality industry on exciting projects and Molly herself works on bespoke licensing designs in collaboration with other companies.<\/p><p>We also offer a bespoke colour service on our digitally printed fabrics & wallpapers.  Allowing customers to mix and match some of our designs (Deerhyrst Collection) to their colour specific schemes.  <\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to talk through  on +44 (0) 1342 825700.<\/p>",
+        "text": "<p>We are a family run business and provide a friendly open and informative service to all our clients and customers.<\/p><p>Molly Mahon offers a range of services alongside its retail offering.  We have a department specifically to cater for the trade industry.  We cross over further to work with the hospitality industry on exciting projects and Molly herself works on bespoke licensing designs in collaboration with other companies.<\/p><p>We also offer a bespoke colour service on our digitally printed fabrics & wallpapers.  Allowing customers to mix and match some of our designs (Deerhyrst Collection) to their colour specific schemes.  <\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to talk through  on +44 (0) 1342 825700.<\/p>",
         "alignment": "center"
+      }
+    },
+    "16623726363d1c454c": {
+      "type": "multicolumn",
+      "blocks": {
+        "1662372635bce63b35-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
+            "title": "",
+            "subtitle": "Trade",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Open an Account",
+            "button_link": "shopify:\/\/pages\/trade",
+            "subtext": ""
+          }
+        },
+        "1662372635bce63b35-1": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/FLORAL_MINI_BODEN_TOP.jpg",
+            "title": "",
+            "subtitle": "Licensing",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Past Collaborations",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1662372635bce63b35-2": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/LEAF_GRASS_FIRMDALEHOTEL.jpg",
+            "title": "",
+            "subtitle": "Hospitality",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662372635bce63b35-0",
+        "1662372635bce63b35-1",
+        "1662372635bce63b35-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
       }
     },
     "1662033198f876a3de": {
       "type": "simple-button",
+      "disabled": true,
       "settings": {
         "label": "MM Trade",
         "link": "",
@@ -286,6 +359,7 @@
   "order": [
     "main",
     "1657198256089a7c52",
+    "16623726363d1c454c",
     "1662033198f876a3de",
     "1649773735fabcedda",
     "1657199219affcebfd",
