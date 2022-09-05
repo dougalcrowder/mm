@@ -1,0 +1,181 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1657198256089a7c52": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Services",
+        "text": "<p>We are a family run business and provide a friendly open and informative service to all our clients and customers.<\/p><p>Molly Mahon offers a range of services alongside its retail offering.  We have a department specifically to cater for the trade industry.  We cross over further to work with the hospitality industry on exciting projects and Molly herself works on bespoke licensing designs in collaboration with other companies.<\/p><p>We also offer a bespoke colour service on our digitally printed fabrics & wallpapers.  Allowing customers to mix and match some of our designs (Deerhyrst Collection) to their colour specific schemes.  <\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to talk through  on +44 (0) 1342 825700.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "16623726363d1c454c": {
+      "type": "multicolumn",
+      "blocks": {
+        "1662372635bce63b35-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
+            "title": "",
+            "subtitle": "Trade",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Open an Account",
+            "button_link": "shopify:\/\/pages\/trade",
+            "subtext": ""
+          }
+        },
+        "1662372635bce63b35-2": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/LEAF_GRASS_FIRMDALEHOTEL.jpg",
+            "title": "",
+            "subtitle": "Hospitality",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1662372635bce63b35-1": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/FLORAL_MINI_BODEN_TOP.jpg",
+            "title": "",
+            "subtitle": "Licensing",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Past Collaborations",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662372635bce63b35-0",
+        "1662372635bce63b35-2",
+        "1662372635bce63b35-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
+      }
+    },
+    "1662033198f876a3de": {
+      "type": "simple-button",
+      "settings": {
+        "label": "MM Trade",
+        "link": "",
+        "color_scheme": "red"
+      }
+    },
+    "1649773735fabcedda": {
+      "type": "image-banner",
+      "blocks": {
+        "164977373582025f2d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_type": "header1"
+          }
+        },
+        "164977373582025f2d-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": false
+          }
+        },
+        "164977373582025f2d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Discover more",
+            "button_link_1": "shopify:\/\/pages\/about-us",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164977373582025f2d-0",
+        "164977373582025f2d-1",
+        "164977373582025f2d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1657199219affcebfd": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "settings": {
+        "title": "Making Home",
+        "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.<\/p><p><strong>Why is home so important to us?<\/strong> <\/p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1657200203628ef58f": {
+      "type": "simple-button",
+      "disabled": true,
+      "settings": {
+        "label": "Discover More about our Craftsmanship",
+        "link": "shopify:\/\/pages\/block-printing",
+        "color_scheme": "dark"
+      }
+    },
+    "1657200715d6671ac0": {
+      "type": "simple-button",
+      "disabled": true,
+      "settings": {
+        "label": "Discover our Workshops",
+        "link": "shopify:\/\/pages\/workshops-and-events",
+        "color_scheme": "dark"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1657198256089a7c52",
+    "16623726363d1c454c",
+    "1662033198f876a3de",
+    "1649773735fabcedda",
+    "1657199219affcebfd",
+    "1657200203628ef58f",
+    "1657200715d6671ac0"
+  ]
+}
