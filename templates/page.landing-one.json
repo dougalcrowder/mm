@@ -854,7 +854,7 @@
       ],
       "settings": {
         "margin_top": "none",
-        "margin_bot": "l"
+        "margin_bot": "s"
       }
     },
     "1662458991952405b6": {
@@ -864,6 +864,59 @@
         "cite": "",
         "bg": "green",
         "image": "shopify:\/\/shop_images\/ASBROOK_WORKSHOP.jpg"
+      }
+    },
+    "1662459109977d7639": {
+      "type": "multicolumn",
+      "blocks": {
+        "16624591092e15125f-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/FOYSLUPINK1_df6147a0-59a8-44fc-9fd4-e619d31c4b1b.jpg",
+            "auto_height": false,
+            "title": "Example Moodboard",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "16624591092e15125f-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": true,
+            "auto_height": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. <br\/>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our Mood Boards for more printspiration and dare to be adventurous!<\/p>",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "16624591092e15125f-0",
+        "16624591092e15125f-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
       }
     }
   },
@@ -891,6 +944,7 @@
     "1661964515b80324f9",
     "16624588134f702e5c",
     "16624588823d2d3f75",
-    "1662458991952405b6"
+    "1662458991952405b6",
+    "1662459109977d7639"
   ]
 }
