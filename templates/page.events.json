@@ -49,9 +49,23 @@
         "color_scheme": "white_text"
       }
     },
+    "166213711761e7d20e": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
+      }
+    },
+    "166213715796e396a1": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "text": "",
+        "alignment": "center"
       }
     },
     "16352620842faf27c4": {
@@ -74,42 +88,41 @@
             "event_buy_btn": ""
           }
         },
-        "739546b9-6ea3-463f-8b73-9e613947c2d8": {
+        "74a99284-5e9e-499a-b2e2-c5fcd6bba903": {
           "type": "event",
-          "disabled": true,
           "settings": {
-            "event_title": "Molly Mahon coming to Kings Road, London",
-            "event_intro": "To celebrate London Craft Week 2022, Anthropologie is delighted to announce their partnership with British Textile Designer, Molly Mahon.\n‘The Modern Block Printer’ Molly will be taking over the King’s Road Gallery from the 5th to the 15th of May. Celebrating her fascination in block printing and her love for Rajasthan, the gallery will feature an eclectic mix of block-printed designs. From homewares to fabric and wallpapers, she’ll create a world of colour and pattern, available to shop.",
-            "event_description": "<p>To celebrate the new artist in residence, on Thursday 12th May at Anthropologie King’s Road, journalist Cosmo Brockway will be in conversation with Molly Mahon. Joining her on the panel will be co-founder of fashion retailer East, Penny Oliver and British fashion<br\/>designer Lucinda Chambers as they discuss the art and history of block printing and how it’s used in the 21st Century.<br\/><\/p>",
-            "image": "shopify:\/\/shop_images\/MM_INVITE_1.jpg",
-            "event_date": "Talk event on Thursday 12th May, 2022",
-            "event_extras": "Molly's Shop will be open from 5th to the 15th of May.  Monday - Saturday 10am - 7pm and Sunday 12pm - 6pm",
-            "event_price": "",
-            "event_button_text": "Google Map",
-            "event_button_text_2": "131-141 King's Road, London, SW3 4PW",
-            "event_external_link": "https:\/\/goo.gl\/maps\/ca4Z1tUtk5zSxWH88",
+            "event_title": "Block Printing Lampshade Workshop at Ashbrook",
+            "event_intro": "Join Molly for a one-day workshop at Ashbrook House near Banbury, experiencing the joy of block printing and making your own lampshade for your home. Using Molly’s carved wooden blocks, you will experiment with colour and pattern in the morning, and finish by printing your own 30cm lampshade in the afternoon with a delicious, organic lunch in between!\nThis course is suitable for all levels with no experience necessary.",
+            "event_description": "<p>Block Print & make your own lampshade<\/p>",
+            "image": "shopify:\/\/shop_images\/ASBROOK_WORKSHOP.jpg",
+            "event_date": "Friday, 30th September (10am-3pm)",
+            "event_extras": "Ashbrook House, Moreton Pinkney.  NN11 3SN",
+            "event_price": "£220.00 pp",
+            "event_button_text": "Book your Place",
+            "event_button_text_2": "",
+            "event_external_link": "shopify:\/\/products\/copy-of-block-print-cafe-print-your-own",
             "event_buy_btn": ""
           }
         },
-        "74a99284-5e9e-499a-b2e2-c5fcd6bba903": {
+        "739546b9-6ea3-463f-8b73-9e613947c2d8": {
           "type": "event",
-          "disabled": true,
           "settings": {
-            "event_title": "Felt Exhibition",
-            "event_intro": "Molly Mahon is delighted to be showcasing three new and unique wall hangings at this year's Felt Exhibition.\n\nLovingly hand block printed and hand sewn by Molly, these vibrant works of art will be sitting alongside some fabulous fellow artists and designers this May.",
-            "event_description": "",
-            "image": "shopify:\/\/shop_images\/INVITATION_FELT_COLLECTION_02.jpg",
-            "event_date": "Wednesday 4th May - Saturday 7th May",
-            "event_extras": "Safehouse 1, Peckham.",
-            "event_price": "",
-            "event_button_text": "RSVP",
+            "event_title": "Block printing cushion covers at Daylesford",
+            "event_intro": "Join printmaker Molly Mahon in the Glasshouse at Daylesford for a morning workshop, experiencing the joy of block printing and making your own cushion cover. Celebrating the launch of her new fabric collection 'Bloom'  you will use Molly’s floral carved wooden blocks, experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.",
+            "event_description": "<p>The workshop includes all materials, welcome coffee and pastries and refreshments throughout the morning.<br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
+            "event_date": "Tuesday, 1st November 2022",
+            "event_extras": "Timings: 0930am - 1pm",
+            "event_price": "£185.00",
+            "event_button_text": "Book here via Daylesford",
             "event_button_text_2": "",
-            "event_external_link": "mailto:info@felt-collections.com",
+            "event_external_link": "https:\/\/www.daylesford.com\/shop\/events\/block-printing-cushions-with-molly-mahon",
             "event_buy_btn": ""
           }
         },
         "86e614b8-e8c2-491e-832a-3e23d40baa3f": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "Block printing Linen tea towels at Thyme, Cotswolds",
             "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
@@ -126,6 +139,7 @@
         },
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "Block printing Cards & Envelopes at Thyme, Cotswolds",
             "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
@@ -175,8 +189,8 @@
       },
       "block_order": [
         "16352620842faf27c4-0",
-        "739546b9-6ea3-463f-8b73-9e613947c2d8",
         "74a99284-5e9e-499a-b2e2-c5fcd6bba903",
+        "739546b9-6ea3-463f-8b73-9e613947c2d8",
         "86e614b8-e8c2-491e-832a-3e23d40baa3f",
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
         "519cccd8-5c39-4a42-9387-5286d373629a",
@@ -225,7 +239,9 @@
   },
   "order": [
     "1635330929a8d9324e",
+    "166213711761e7d20e",
     "main",
+    "166213715796e396a1",
     "16352620842faf27c4",
     "1635263281959956a1",
     "163526328406ed0926"

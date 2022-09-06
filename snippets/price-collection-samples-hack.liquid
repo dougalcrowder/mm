@@ -68,6 +68,7 @@
       </dd>
     </div>
     <div class="price__sale">
+      {%- unless product.tags contains 'bundle' -%}
       <dt class="price__compare">
         <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
       </dt>
@@ -80,12 +81,14 @@
           {% endif %}
         </s>
       </dd>
+      {%- endunless -%}
       <dt>
         <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.sale_price' | t }}</span>
       </dt>
+      {%- assign saving = price | minus: compare_at_price -%}
       <dd {% if show_badges == false %}class="price__last"{% endif %}>
         <span class="price-item price-item--sale">
-          {{ money_price }}
+          {{ money_price }}{% if product.tags contains 'bundle' %} <span class="saving">Save:{{ saving | money_with_currency | remove: "-"  }}{% endif %}</span>
         </span>
       </dd>
     </div>

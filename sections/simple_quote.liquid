@@ -1,0 +1,89 @@
+<div class="bg-{{ section.settings.bg }}">
+  <div class="{% if section.settings.image != blank %}image-bg{% else %}bunting{% endif %}">
+    {%- if section.settings.quote != blank -%}
+    <div class="flex inner">
+      <div class="quote">
+        <blockquote class="color-white_text">
+          {{ section.settings.quote }}
+        </blockquote>
+        {%- if section.settings.cite != blank -%}
+        <cite class="color-white_text">{{ section.settings.cite }}</cite>
+      {%- endif -%}
+      </div>
+    </div>
+    {%- endif -%}
+    {%- if block.settings.image != blank -%}
+    
+    {%- assign landscape_image = block.settings.image -%} 
+      
+    {%- if block.settings.mobile_image != blank -%}
+      {%- assign square_image = block.settings.mobile_image -%}
+    {%- else -%}
+      {%- assign square_image = block.settings.image -%}
+    {%- endif -%}
+    
+      {% include 'image-hero' %}
+    {%- endif -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Simple Quote",
+  "tag": "section",
+  "class": "quote-section",
+  "settings": [
+    {
+      "type": "richtext",
+      "id": "quote",
+      "default": "<p>Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work</p>",
+      "label": "Quote"
+    },
+    {
+      "type": "text",
+      "id": "cite",
+      "default": "- Cath Kidston MBE",
+      "label": "Citaton"
+    },
+    {
+      "type": "select",
+      "id": "bg",
+      "options": [
+        {
+          "value": "none",
+          "label": "Green"
+        },
+        {
+          "value": "green",
+          "label": "Green"
+        },
+        {
+          "value": "red",
+          "label": "Red"
+        },
+        {
+          "value": "pink",
+          "label": "Pink"
+        }
+      ],
+      "default": "green",
+      "label": "Background Colour"
+    },
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Background Image"
+    },
+    {
+      "type": "image_picker",
+      "id": "mobile_image",
+      "label": "Background Image"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Simple Quote"
+    }
+  ]
+}
+{% endschema %}

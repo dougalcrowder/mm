@@ -1,0 +1,72 @@
+{{ 'collections.css' | asset_url | stylesheet_tag }}
+
+<div class="manual-products" data-section-id="{{ section.id }}" data-section-type="products">
+  {% if section.settings.title != blank %}
+    <h2>{{ section.settings.title | escape }}</h2>
+  {% endif %}
+  {% if section.settings.subtitle != blank %}
+    <p class="subtitle">{{ section.settings.subtitle | escape }}</p>
+  {% endif %}
+      <ul class="grid product_grid{% if section.settings.centred %} centered_grid{% endif %}">
+        {% for product in section.settings.product_list %}
+        <li class="product_card">
+          {% if section.settings.centred %}
+            {% render 'product-card-minimal',
+              product_card_product: product,
+              show_secondary_image: section.settings.show_secondary_image
+            %}
+          {% else %}
+          {% render 'product-card',
+            product_card_product: product,
+            show_secondary_image: section.settings.show_secondary_image
+          %}
+          {% endif %}
+        </li>
+        {% endfor %} 
+      </ul>
+  
+  {%- if section.settings.button_link != blank -%}
+  <div class="center">
+    <a class="button {{ block.settings.button_position }}"{% if section.settings.button_link != blank %} href="{{ section.settings.button_link }}"{% endif %} {% if section.settings.button_link == blank %} aria-disabled="true"{% endif %}>{{ section.settings.button_label | escape }}</a>
+  </div>
+  {%- endif -%}
+ 
+</div>
+
+
+
+{% schema %}
+{
+  "name": {
+    "en": "Product Grid"
+  },
+  "class": "index-section insta-section grid-section",
+  "settings": [
+    {
+      "type": "product_list",
+      "id": "product_list",
+      "label": "Products",
+      "limit": 20
+    },
+    {
+    "type": "checkbox",
+    "id": "show_secondary_image",
+    "label": "Show secondary image",
+    "default": true
+    },
+    {
+    "type": "checkbox",
+    "id": "centred",
+    "label": "enable centred grid",
+    "default": false
+    }
+  ],
+  "presets": [
+    {
+      "name": {
+        "en": "Product Grid"
+      }
+    }
+  ]
+}
+{% endschema %}

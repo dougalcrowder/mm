@@ -1,0 +1,323 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "166195210128b91b49": {
+      "type": "2-column-text",
+      "blocks": {
+        "16619521000b84ba87-0": {
+          "type": "text",
+          "settings": {
+            "heading": "To match or to Clash",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16619521000b84ba87-0"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    },
+    "1661951966294ab962": {
+      "type": "2-column-text",
+      "blocks": {
+        "166195196658edcf74-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Why have one pattern if you can have them all? The fabulous thing about patterns is that you don’t have to limit yourself to one. Mixing prints can give a home a contemporary, energising quality - and that way you won’t have to struggle to decide!There are no rules when it comes to getting creative in the home. Clash abstract patterns with big blooming florals, or twin stripy designs with standout natural shapes such as Coral or Hawaiian themed Lani. The key is to pick complimenting colours... light blue and pale green, yellow and indigo, or bright pink and sage. If matching is more your style, pick a patterned wallpaper for each room and pull out key colours to inject into your furnishings. From towels to bedspreads, highlighting one or two shades throughout your accessories will really make your pattern pop.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "166195196658edcf74-1": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Why not take your matching designs one step further and go for the fully printed look? Matchimalism is all about embracing your favourite print and inserting it everywhere you can. Each of our interior design wallpapers have a matching fabric that turns perfectly into curtains or blinds. Pair with a set of matching cushions, a pleated lampshade or kitchen accessories such as a table cloth or tea towel for a super fun, extravagant touch.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "166195196658edcf74-0",
+        "166195196658edcf74-1"
+      ],
+      "settings": {
+        "margin_top": "s",
+        "margin_bot": "m"
+      }
+    },
+    "1662459560c712da85": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GREENCOMBE_ATTIC_BEDROOM_MOBILE_d21373c7-eed6-448b-91fa-b65238eb118b.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "16624596458beebd65": {
+      "type": "image-banner",
+      "blocks": {
+        "1662459645f6c4403f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Art of Block Printing",
+            "heading_type": "header1"
+          }
+        }
+      },
+      "block_order": [
+        "1662459645f6c4403f-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
+        "make_logo_white": false,
+        "top_margin": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "dark_text"
+      }
+    },
+    "16624601935a72d91c": {
+      "type": "2-column-text",
+      "blocks": {
+        "16624601934254c4eb-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Perfect Imperfections",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "Learn more about block printing",
+            "button_link": "shopify:\/\/pages\/the-art-of-block-printing-with-molly-mahon",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "71fff75f-42c3-4fa1-95f9-2f1ad345a9ff": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Block printing is an ancient form of transferring design to cloth that goes back over 4,500 years - and we still love it today. One of the many things that drew Molly to hand block printing was the personal connection with each and every piece. The odd movement between each print of paint gives the finished product a sense of authentic energy that can’t be achieved with a machine. Like the imperfections of real life, it’s what makes it beautiful.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16624601934254c4eb-0",
+        "71fff75f-42c3-4fa1-95f9-2f1ad345a9ff"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "m"
+      }
+    },
+    "1662460405df288b40": {
+      "type": "image-with-text",
+      "blocks": {
+        "16624604050219494f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Keeping Traditions Alive"
+          }
+        },
+        "16624604050219494f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Human connection is key to us, from the joy our designs evoke to the people responsible for their creation. We know every single artisan we work with in India and the UK - and their skills are second to none!<\/p><p>By partnering with crafts people in Jaipur, we’re able to support rich traditions that connect communities and keep the inimitable quality of handmade art alive. Each piece of block-printed cloth and paper is passed through multiple skilled hands, making it a treasured story to pass down through generations.<\/p><p>Recently we’ve experimented with another form of block printing to create our Strawberry and Bindi designs. Using surface printing, we’re able to create a wonderful, textured wallpaper with water based inks that ooze luxury and charm.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16624604050219494f-0",
+        "16624604050219494f-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "1662460807a5c1e07c": {
+      "type": "2-column-text",
+      "blocks": {
+        "1662460807ec456fee-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Small Batch Sustainability",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1662460807ec456fee-0"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    },
+    "166246081478f8026c": {
+      "type": "2-column-text",
+      "blocks": {
+        "1662460814a3956d0c-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>We’re conscious of our impact on the environment and the mark we might make, aside from our patterned prints. So respecting how we treat our planet is just as important to us as creating joy. Every element of our business is thoroughly researched to make sure it’s the best it can be and fills us with pride - from the materials we use to the process of creation.<\/p><p>Each collection is made in small batches which allows us to focus on the details and create higher quality products. It also helps us to avoid waste whilst using water based ingredients and natural pigments where possible. We only use organic cottons and plant based fibres, ensuring your wallpaper, fabrics and furniture last for decades of fun. And every leftover snippet is used somewhere along the journey - nothing goes to waste if it doesn’t have to.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "02b27ed6-5dce-4717-a909-5d83be9fe5f2": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>When it comes to packaging, you won’t see any plastic. And whilst we’re mindful of air miles, we’ve balanced this with supporting local communities to thrive who are often under threat from bulk manufacturing. Block printing is sadly in danger due to the rise of machine-printed fabric, yet this traditional craft creates hundreds of employment opportunities and is integral to India’s culture and wellbeing.<\/p><p><strong><br\/><\/strong><a href=\"\/collections\/wallpaper\" title=\"Wallpaper\"><strong>Ready to shop? Take a look at our collection of designer wallpapers and get colourful!<\/strong><\/a><br\/><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1662460814a3956d0c-0",
+        "02b27ed6-5dce-4717-a909-5d83be9fe5f2"
+      ],
+      "settings": {
+        "margin_top": "s",
+        "margin_bot": "m"
+      }
+    },
+    "1662460822b5aebe5f": {
+      "type": "image-banner",
+      "blocks": {
+        "1662460822f6d48925-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Eco Banner",
+            "heading_type": "header2"
+          }
+        }
+      },
+      "block_order": [
+        "1662460822f6d48925-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1662460891a9868814": {
+      "type": "image-with-text",
+      "blocks": {
+        "16624608914c9ec9ba-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inspired to get creative? Join Molly at one of her immersive block printing workshops and learn how to make your very own printed piece. You’ll experiment with colour, pattern and material before going home with a beautiful product to display in your home.<\/p>"
+          }
+        },
+        "b85838e0-05f4-4b7a-bae5-0f2d2d46f23a": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out more about workshops and events",
+            "button_link": "shopify:\/\/pages\/workshops-and-events"
+          }
+        }
+      },
+      "block_order": [
+        "16624608914c9ec9ba-1",
+        "b85838e0-05f4-4b7a-bae5-0f2d2d46f23a"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ORLANDO_BLOCK_PRINTING_BODEN_SHIRT.jpg",
+        "title": "Get Crafty",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166195210128b91b49",
+    "1661951966294ab962",
+    "1662459560c712da85",
+    "16624596458beebd65",
+    "16624601935a72d91c",
+    "1662460405df288b40",
+    "1662460807a5c1e07c",
+    "166246081478f8026c",
+    "1662460822b5aebe5f",
+    "1662460891a9868814"
+  ]
+}

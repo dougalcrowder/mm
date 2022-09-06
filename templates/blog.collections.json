@@ -1,0 +1,17 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "show_image": true,
+        "blog_header": "Design Collections",
+        "blog_intro": "<p>Molly has been introducing fabric and wallpaper collections since 2014 from here first launch of Deerhyrst.  Enjoy looking through reach collection to give a real life view of how her designs bring such joy to the home setting.<\/p>",
+        "show_date": false,
+        "show_author": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

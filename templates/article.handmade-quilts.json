@@ -1,0 +1,330 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "share"
+      ],
+      "settings": {
+      }
+    },
+    "16577300071f976c5e": {
+      "type": "image-banner",
+      "blocks": {
+        "1657730007a25f7230-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Handmade Quilts",
+            "heading_type": "header1"
+          }
+        },
+        "1657730007a25f7230-1": {
+          "type": "text",
+          "settings": {
+            "text": "Designed in Sussex, hand blocked and handmade in Rajasthan",
+            "go_serif": true
+          }
+        },
+        "1657730007a25f7230-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657730007a25f7230-0",
+        "1657730007a25f7230-1",
+        "1657730007a25f7230-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/QUILT_HAND_STITCHING.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "16621341621a411ecc": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
+    "1662049711a6d1b6a3": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Some ways don't change",
+        "text": "<p>Every stage of our quilt production is done by hand - they are handwoven, hand block printed, hand carded and hand stitched in Jaipur pretty much as they would have been 300 years ago.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1657786090cc89e628": {
+      "type": "image-banner",
+      "blocks": {
+        "1657786090a56f700f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1657786090a56f700f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "1657786090a56f700f-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657786090a56f700f-0",
+        "1657786090a56f700f-1",
+        "1657786090a56f700f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MM_INDIA_BLOCK_CARVER.jpg",
+        "make_logo_white": false,
+        "top_margin": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "16577858874502d623": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657785887e07c69d0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Skilled Artisans"
+          }
+        },
+        "1657785887e07c69d0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>First, the wooden blocks for the block printing need to be carved. Then the very fine, gauzy cotton called Mulmul (which becomes the soft outer shell) needs to be handwoven and hand block printed.<\/p>"
+          }
+        },
+        "1657785887e07c69d0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657785887e07c69d0-0",
+        "1657785887e07c69d0-1",
+        "1657785887e07c69d0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "1657730156eeff869f": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657730156412eb3fd-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1657730156412eb3fd-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/FILLING_THE_QUILT.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657730156412eb3fd-1",
+        "1657730156412eb3fd-0"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
+      }
+    },
+    "16620510245132dc26": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "We are very proud of all the amazing people involved",
+        "text": "<p>Each stage is carried out by artisans using skills and tools that have been handed down through the generations.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1657730380748266d7": {
+      "type": "image-banner",
+      "blocks": {
+        "1657730379dcd0a206-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1657730379dcd0a206-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "1657730379dcd0a206-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657730379dcd0a206-0",
+        "1657730379dcd0a206-1",
+        "1657730379dcd0a206-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SEAMSTRESSES_HAND_STITCHING_QUILT_196c899b-780e-4801-8648-7e6fedd7597e.jpg",
+        "make_logo_white": false,
+        "top_margin": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "164975103076740208": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop Quilts",
+        "collection": "bedding-1",
+        "products_to_show": 6,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
+    "16620509289736141d": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Explore more of our Craftsmanship",
+        "link": "shopify:\/\/blogs\/craftsmanship",
+        "color_scheme": "dark"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16577300071f976c5e",
+    "16621341621a411ecc",
+    "1662049711a6d1b6a3",
+    "1657786090cc89e628",
+    "16577858874502d623",
+    "1657730156eeff869f",
+    "16620510245132dc26",
+    "1657730380748266d7",
+    "164975103076740208",
+    "16620509289736141d"
+  ]
+}

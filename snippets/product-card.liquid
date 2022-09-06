@@ -50,11 +50,16 @@
       {% render 'price-collection-samples-hack', product: product_card_product, price_class: '' %}
 
         {%- if product_card_product.available == false -%}
-          <span class="availability soldout">{{ 'products.product.sold_out' | t }}</span>
+          <span class="availability soldout badge">{{ 'products.product.sold_out' | t }}</span>
         {%- elsif product_card_product.compare_at_price > product_card_product.price and product_card_product.available -%}
-          <span class="availability sale">{{ 'products.product.on_sale' | t }}</span>
+          {%- if product_card_product.tags contains 'bundle' -%}
+            <span class="availability bundle badge green">Bundle</span>
+          {%- else -%}
+          <span class="availability sale badge">{{ 'products.product.on_sale' | t }}</span>
+          {%- endif -%}
+        {%- elsif product_card_product.tags contains 'bundle' -%}
+          <span class="availability bundle badge green">Bundle</span>
         {%- endif -%}
-
     </div>
     <div class="image">
       <a href="{{ product_card_product.url | default: '#' }}" alt="Get more details of {{ product_card_product.title | escape }}">

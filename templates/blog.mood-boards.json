@@ -1,0 +1,17 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "show_image": true,
+        "blog_header": "Mood Boards",
+        "blog_intro": "<p>An 18th century Safavid embroidery was the source of inspiration for Safavid Carnation. The hand screen printed fabric reinterprets the intricate gilt metal embroidered flower heads of the original through a detailed, hand-drawn design.<\/p>",
+        "show_date": false,
+        "show_author": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

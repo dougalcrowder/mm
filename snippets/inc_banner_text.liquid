@@ -10,6 +10,10 @@
           <div class="text{% if block.settings.go_serif %} large serif{% endif %}" {{ block.shopify_attributes }}> 
             <span>{{ block.settings.text }}</span>
           </div>
+          {%- when 'link' -%}
+          <nav class="link"> 
+            <a href="{{ block.settings.bread_url }}" class="breadcrumb color-{{ section.settings.color_scheme }}">{{ block.settings.bread_label }}</a>
+          </nav>
         {%- when 'buttons' -%}
           <div class="buttons color-{{ section.settings.color_scheme }} {% if block.settings.button_label_1 != blank and block.settings.button_link_1 != blank and block.settings.button_label_2 != blank and block.settings.button_link_2 != blank %} banner__buttons--multiple{% endif %}" {{ block.shopify_attributes }}>
             {%- if block.settings.button_label_1 != blank -%}

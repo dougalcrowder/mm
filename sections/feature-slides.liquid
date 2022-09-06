@@ -1,0 +1,332 @@
+<div style="background-color:{{ section.settings.background }}" class="pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }}">
+<div class="text-with-text inner grid">
+  {%- for block in section.blocks -%}
+  {% case block.type %}
+  {%- when 'text' -%}
+    <div class="text">
+      <div class="flex vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }} color-{{ block.settings.color_scheme }}{% if block.settings.inset %} inset{% endif %}" {{ block.shopify_attributes }}>
+        {%- if block.settings.heading != blank -%}
+          <h2 class="{{ block.settings.heading_size }}">{{ block.settings.heading }}</h2>
+        {%- endif -%}
+        {%- if block.settings.text != blank -%}
+        <div class="rte">
+        {{ block.settings.text }}
+        </div>
+        {%- endif -%}
+        {%- if block.settings.button_label != blank -%}
+          <a{% if block.settings.button_link != blank %} href="{{ block.settings.button_link }}"{% endif %} class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}"{% if block.settings.button_link == blank %} aria-disabled="true"{% endif %}>
+            {{ block.settings.button_label | escape }}
+          </a>
+        {%- endif -%}
+          
+        
+      </div>
+    </div>
+    {%- endcase -%}
+    {%- endfor -%}
+</div>
+<div class="slides">
+  <div class="slides_title inner color-dark_text">
+  <strong>{{ section.settings.slides_title }}</strong>
+  </div>
+  {%- assign owmuch = 0 -%}
+  {%- for block in section.blocks -%}
+  {% case block.type %}
+  {%- when 'image' -%}
+  {% assign owmuch = owmuch | plus:1 %}
+  {% assign outside = 94 | times: owmuch %}
+  {%- endcase -%}
+  {%- endfor -%}
+  <div class="slideshow">
+    <div class="carousel flex" style="width:{{outside}}%">
+  {%- for block in section.blocks -%}
+  {% case block.type %}
+  {%- when 'image' -%}
+  <div class="slide-image"  style="width:calc({{outside}}% / {{ owmuch }})">
+    {%- if block.settings.link != blank -%}
+    <a href="{{ block.settings.link }}" alt="{{ block.settings.title }}">
+    {%- endif -%}
+    
+    {%- if block.settings.image != blank -%}
+    
+    {%- assign landscape_image = block.settings.image -%} 
+      
+    {%- if block.settings.mobile_image != blank -%}
+      {%- assign square_image = block.settings.mobile_image -%}
+    {%- else -%}
+      {%- assign square_image = block.settings.image -%}
+    {%- endif -%}
+    
+      {% include 'image-hero' %}
+    {%- endif -%}
+    
+    {%- if block.settings.title != blank -%}
+    <div class="caption flex color-dark_text">
+      <span class="h0">{{ block.settings.title }}</span>
+    </div>
+    {%- endif -%}
+    
+    {%- if block.settings.link != blank -%}
+    </a>
+    {%- endif -%}
+  </div>
+  {%- endcase -%}
+  {%- endfor -%}
+  </div>
+  </div> 
+</div>
+</div>
+{% schema %}
+{
+"name": "Feature Slides",
+"class": "spaced-section feature-slides two_col-text",
+"settings": [
+  {
+    "type": "color",
+    "id": "background",
+    "label": "Background Colour"
+  },
+  {
+    "type": "select",
+    "id": "margin_top",
+    "options": [
+      {
+        "value": "none",
+        "label": "None"
+      },
+      {
+        "value": "s",
+        "label": "Small"
+      },
+      {
+        "value": "m",
+        "label": "Medium"
+      },
+      {
+        "value": "l",
+        "label": "Large"
+      }
+    ],
+    "default": "m",
+    "label": "spacing above",
+    "info": "adjust the spacing for the panel"
+  },
+  {
+    "type": "select",
+    "id": "margin_bot",
+    "options": [
+      {
+        "value": "none",
+        "label": "None"
+      },
+      {
+        "value": "s",
+        "label": "Small"
+      },
+      {
+        "value": "m",
+        "label": "Medium"
+      },
+      {
+        "value": "l",
+        "label": "Large"
+      }
+    ],
+    "default": "m",
+    "label": "spacing below",
+    "info": "adjust the spacing for the panel"
+  },
+  {
+    "type": "text",
+    "id": "slides_title",
+    "default": "Check these out",
+    "label": "Slide Title / Intro"
+  }
+],
+"blocks": [
+  {
+    "type": "text",
+    "name": "t:sections.image-with-text.blocks.text.name",
+    "limit": 2,
+    "settings": [
+      {
+        "type": "text",
+        "id": "heading",
+        "default": "Image with text",
+        "label": "t:sections.image-with-text.blocks.heading.settings.heading.label"
+      },
+      {
+        "type": "select",
+        "id": "heading_size",
+        "options": [
+          {
+            "value": "small",
+            "label": "Small"
+          },
+          {
+            "value": "medium",
+            "label": "Medium"
+          },
+          {
+            "value": "large",
+            "label": "Large"
+          }
+        ],
+        "default": "medium",
+        "label": "Header Size"
+      },
+      {
+        "type": "richtext",
+        "id": "text",
+        "default": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "label": "t:sections.image-with-text.blocks.text.settings.text.label"
+      },
+      {
+        "type": "text",
+        "id": "button_label",
+        "label": "t:sections.image-with-text.blocks.button.settings.button_label.label",
+        "info": "t:sections.image-with-text.blocks.button.settings.button_label.info"
+      },
+      {
+        "type": "url",
+        "id": "button_link",
+        "label": "t:sections.image-with-text.blocks.button.settings.button_link.label"
+      },
+      {
+        "type": "checkbox",
+        "id": "inset",
+        "label": "Inset text on desktop"
+      },
+      {
+        "type": "select",
+        "id": "color_scheme",
+        "options": [
+          {
+            "value": "white_text",
+            "label": "white text"
+          },
+          {
+            "value": "red_text",
+            "label": "Red Text"
+          },
+          {
+            "value": "dark_text",
+            "label": "Dark Text"
+          },
+          {
+            "value": "blue_text",
+            "label": "Blue Text"
+          }
+        ],
+        "default": "dark_text",
+        "label": "t:sections.image-banner.settings.color_scheme.label",
+        "info": "t:sections.image-banner.settings.color_scheme.info"
+      },
+      {
+        "type": "select",
+        "id": "desktop_text_box_position",
+        "options": [
+          {
+            "value": "start",
+            "label": "t:sections.image-banner.settings.desktop_text_box_position.options__1.label"
+          },
+          {
+            "value": "center",
+            "label": "t:sections.image-banner.settings.desktop_text_box_position.options__2.label"
+          },
+          {
+            "value": "end",
+            "label": "t:sections.image-banner.settings.desktop_text_box_position.options__3.label"
+          }
+        ],
+        "default": "start",
+        "label": "t:sections.image-banner.settings.desktop_text_box_position.label"
+      },
+      {
+        "type": "select",
+        "id": "text_align",
+        "options": [
+          {
+            "value": "left",
+            "label": "Left"
+          },
+          {
+            "value": "center",
+            "label": "Centre"
+          },
+          {
+            "value": "right",
+            "label": "Right"
+          }
+        ],
+        "default": "left",
+        "label": "text Alignment"
+      }
+    ]
+  },
+  {
+    "type": "image",
+    "name": "Slide Image",
+    "limit": 8,
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      },
+      {
+        "type": "image_picker",
+        "id": "mobile_image",
+        "label": "Mobile Image"
+      },
+      {
+        "type": "text",
+        "id": "title",
+        "default": "Caption Here",
+        "label": "Image Caption"
+      },
+      {
+        "type": "url",
+        "id": "link",
+        "label": "Link"
+      },
+      {
+        "type": "select",
+        "id": "color_scheme",
+        "options": [
+          {
+            "value": "white_text",
+            "label": "white text"
+          },
+          {
+            "value": "red_text",
+            "label": "Red Text"
+          },
+          {
+            "value": "dark_text",
+            "label": "Dark Text"
+          },
+          {
+            "value": "blue_text",
+            "label": "Blue Text"
+          }
+        ],
+        "default": "dark_text",
+        "label": "t:sections.image-banner.settings.color_scheme.label",
+        "info": "t:sections.image-banner.settings.color_scheme.info"
+      }
+    ]
+  }
+],
+"presets": [
+  {
+    "name": "Feature Slides",
+    "blocks": [
+      {
+        "type": "text"
+      }
+    ]
+  }
+]
+}
+{% endschema %}
