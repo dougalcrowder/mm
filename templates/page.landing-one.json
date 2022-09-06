@@ -352,7 +352,7 @@
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Shop all blue designer wallpapers",
             "button_link": "shopify:\/\/collections\/wallpaper",
-            "inset": false,
+            "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
             "text_align": "left"
@@ -366,7 +366,7 @@
             "text": "<p>Bright blue is prominent in our range of block prints, inspired<br\/>by the iconic Indian colour that results from the fermentation<br\/>of Indigofera leaves. The inky dye is especially important in Bagru, a small village where we work,  and creates a rich, long-lasting hue that’s very pleasing to the eye. <\/p><p>Our Denim collection features a bold indigo shade that sits well in most rooms, as calming as our beautiful blue oceans and sky. You’ll also discover deep navy for a contrasting look, and brilliant pale blue best suited to an airy light space.<br\/><\/p>",
             "button_label": "",
             "button_link": "",
-            "inset": false,
+            "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
             "text_align": "left"
@@ -668,7 +668,7 @@
         "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_House_Home_-_Bed_Bath.jpg",
         "make_logo_white": false,
         "top_margin": false,
-        "constrain": false,
+        "constrain": true,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -793,6 +793,62 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
+      }
+    },
+    "166247809277b0daea": {
+      "type": "multicolumn",
+      "blocks": {
+        "166247809265536edd-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": true,
+            "auto_height": false,
+            "title": "",
+            "subtitle": "New Kids on the Block",
+            "subtitle_size": "large",
+            "text": "<p>Create a welcoming, warm home for you and your family with our newest and most popular designer wallpapers in the UK. Find your perfect print and stamp your mark with ease.<\/p>",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left",
+            "button_label": "Shop new designer wallpapers",
+            "button_link": "shopify:\/\/collections\/wallpaper",
+            "subtext": ""
+          }
+        },
+        "166247809265536edd-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/THESWAN_BIRDS_BEES_BEDROOM_1300x1300_730cf24e-5a03-4381-abac-9478f1a0efc8.jpg",
+            "auto_height": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "166247809265536edd-0",
+        "166247809265536edd-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "l",
+        "margin_bot": "m"
       }
     },
     "16624588134f702e5c": {
@@ -953,6 +1009,7 @@
     "1661964322bc4b19cb",
     "16619644470639d01e",
     "1661964515b80324f9",
+    "166247809277b0daea",
     "16624588134f702e5c",
     "16624588823d2d3f75",
     "1662458991952405b6",
