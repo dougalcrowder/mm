@@ -28,7 +28,7 @@
         "16619521000b84ba87-0"
       ],
       "settings": {
-        "margin_top": "m",
+        "margin_top": "l",
         "margin_bot": "none"
       }
     },
@@ -71,6 +71,58 @@
       "settings": {
         "margin_top": "none",
         "margin_bot": "m"
+      }
+    },
+    "1662459560c712da85": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GREENCOMBE_ATTIC_BEDROOM_MOBILE_d21373c7-eed6-448b-91fa-b65238eb118b.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "16624596458beebd65": {
+      "type": "image-banner",
+      "blocks": {
+        "1662459645f6c4403f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Art of Block Printing",
+            "heading_type": "header1"
+          }
+        },
+        "1662459645f6c4403f-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "View the Course",
+            "button_link_1": "shopify:\/\/pages\/the-art-of-block-printing-with-molly-mahon",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1662459645f6c4403f-0",
+        "1662459645f6c4403f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
+        "make_logo_white": false,
+        "top_margin": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "dark_text"
       }
     },
     "1661950917ca5910a9": {
@@ -293,6 +345,8 @@
     "main",
     "166195210128b91b49",
     "1661951966294ab962",
+    "1662459560c712da85",
+    "16624596458beebd65",
     "1661950917ca5910a9",
     "166196159906fadd3f",
     "16619593053301a27e",
