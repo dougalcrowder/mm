@@ -45,6 +45,7 @@
         "image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_MOBILE_LIFE_1300x1300_e28a0169-65be-4207-a71d-c69a9505f653.jpg",
         "make_logo_white": true,
         "top_margin": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "start",
         "text_align": "left",
@@ -103,7 +104,10 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "l"
       }
     },
     "166195210128b91b49": {
@@ -206,7 +210,11 @@
       "settings": {
         "quote": "<p>\"Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work\"<\/p>",
         "cite": "- Cath Kidston MBE",
-        "bg": "green"
+        "bg": "green",
+        "heading_size": "medium",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "white_text"
       }
     },
     "16619593053301a27e": {
@@ -327,18 +335,10 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
-      }
-    },
-    "1661963166db3ffe82": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "We have a penchant for vibrant colours here at Molly Mahon. But you’ll also find lighter pastels and a cosy palette of golds and sage to bring personality and passion to your home.",
-        "heading_size": "medium",
-        "text": "",
-        "vertical_alignment": "start",
-        "alignment": "left",
-        "color_scheme": "dark_text"
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "166245704164214430": {
@@ -410,8 +410,8 @@
       ],
       "settings": {
         "background": "#90bbe4",
-        "margin_top": "m",
-        "margin_bot": "m",
+        "margin_top": "l",
+        "margin_bot": "none",
         "slides_title": "Our favourite blue designer wallpapers"
       }
     },
@@ -473,8 +473,8 @@
       ],
       "settings": {
         "background": "#cec367",
-        "margin_top": "m",
-        "margin_bot": "m",
+        "margin_top": "l",
+        "margin_bot": "none",
         "slides_title": "Our favourite yellow designer wallpapers"
       }
     },
@@ -554,8 +554,8 @@
       ],
       "settings": {
         "background": "#77a96b",
-        "margin_top": "m",
-        "margin_bot": "m",
+        "margin_top": "l",
+        "margin_bot": "none",
         "slides_title": "Our favourite green designer wallpapers"
       }
     },
@@ -634,8 +634,8 @@
       ],
       "settings": {
         "background": "#ffc7ca",
-        "margin_top": "m",
-        "margin_bot": "m",
+        "margin_top": "l",
+        "margin_bot": "none",
         "slides_title": "Our favourite pink designer wallpapers"
       }
     },
@@ -668,6 +668,7 @@
         "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_House_Home_-_Bed_Bath.jpg",
         "make_logo_white": false,
         "top_margin": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -750,7 +751,11 @@
         "cite": "",
         "bg": "none",
         "image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_MODILE_1300x1300_84ecfc8d-1e30-4193-bfc7-5162487c591b.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/BOMBAYBUSTLE_TUKTUK_1300x1300_45cdc535-e7f0-44f7-90dd-61d8943e21b4.jpg"
+        "mobile_image": "shopify:\/\/shop_images\/BOMBAYBUSTLE_TUKTUK_1300x1300_45cdc535-e7f0-44f7-90dd-61d8943e21b4.jpg",
+        "heading_size": "medium",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "white_text"
       }
     },
     "1661964515b80324f9": {
@@ -863,7 +868,11 @@
         "quote": "<p><em>\"Real homes are not showrooms or magazine ready rooms. Real homes are spaces to be comfortable and relaxed in.\" - Molly Mahon<\/em><\/p>",
         "cite": "",
         "bg": "green",
-        "image": "shopify:\/\/shop_images\/ASBROOK_WORKSHOP.jpg"
+        "image": "shopify:\/\/shop_images\/ASBROOK_WORKSHOP.jpg",
+        "heading_size": "medium",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "white_text"
       }
     },
     "1662459109977d7639": {
@@ -916,7 +925,10 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     }
   },
@@ -931,7 +943,6 @@
     "16619593053301a27e",
     "16619593508075d424",
     "166196276803731365",
-    "1661963166db3ffe82",
     "166245704164214430",
     "16624574182228dbc7",
     "16624577622fefe57b",
