@@ -516,12 +516,21 @@
             "link": "",
             "color_scheme": "dark_text"
           }
+        },
+        "723e08e6-6d71-47ff-93b5-0342281bce7d": {
+          "type": "image",
+          "settings": {
+            "title": "Caption Here",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
         }
       },
       "block_order": [
         "16624577610885c164-0",
         "c352ccf3-a84e-4338-be78-f7c420e28e91",
-        "3575bee4-d630-4afd-9664-0c5e726147e2"
+        "3575bee4-d630-4afd-9664-0c5e726147e2",
+        "723e08e6-6d71-47ff-93b5-0342281bce7d"
       ],
       "settings": {
         "background": "#7eb96f",
