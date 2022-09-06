@@ -17,6 +17,8 @@
   <div class="myhero{% if section.settings.top_margin %} margery{% endif %}{% if section.settings.constrain %} inner{% endif %}">
     {% if section.settings.constrain %}
     {% include 'image-hero-constrained' %}
+    {% elsif section.settings.letterbox %}
+    {% include 'image-hero-constrained' %}
     {% else %}
     {% include 'image-hero' %}
     {% endif %}
@@ -38,6 +40,12 @@
       "type": "image_picker",
       "id": "image",
       "label": "Landscape Image for Large devices"
+    },
+    {
+      "type": "checkbox",
+      "id": "letterbox",
+      "default": false,
+      "label": "Letterbox image on desktop"
     },
     {
       "type": "image_picker",
