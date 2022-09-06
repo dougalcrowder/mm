@@ -187,125 +187,33 @@
         "bg": "green"
       }
     },
-    "16619593053301a27e": {
-      "type": "2-column-text",
+    "1662460405df288b40": {
+      "type": "image-with-text",
       "blocks": {
-        "1661959305d8047f36-0": {
-          "type": "text",
+        "16624604050219494f-0": {
+          "type": "heading",
           "settings": {
-            "heading": "Be Bold, be Beautiful",
-            "heading_size": "medium",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "end",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "1661959305d8047f36-0"
-      ],
-      "settings": {
-        "margin_top": "l",
-        "margin_bot": "none"
-      }
-    },
-    "16619593508075d424": {
-      "type": "2-column-text",
-      "blocks": {
-        "1661959350df86ec22-0": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>Humans have expressed themselves through colour and pattern for centuries. And we’re no different at Molly Mahon. Each hand block printed wallpaper is thoughtfully designed to elevate your home and bring a smile to any who enter it. <\/p><p>Many of our colours have been inspired from the rich, bold palettes of India. Here Molly was drawn to the energy of rich, vibrant cities, each<br\/><\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
+            "heading": "Keeping Traditions Alive"
           }
         },
-        "b9a74b61-0fc6-4a4a-8eab-0fc854c2d6ff": {
+        "16624604050219494f-1": {
           "type": "text",
           "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>dressed in rainbow shades from the buildings and bridges to the colourful clothing worn by the country’s wonderful people.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
+            "text": "<p>Human connection is key to us, from the joy our designs evoke to the people responsible for their creation. We know every single artisan we work with in India and the UK - and their skills are second to none!<\/p><p>By partnering with crafts people in Jaipur, we’re able to support rich traditions that connect communities and keep the inimitable quality of handmade art alive. Each piece of block-printed cloth and paper is passed through multiple skilled hands, making it a treasured story to pass down through generations.<\/p><p>Recently we’ve experimented with another form of block printing to create our Strawberry and Bindi designs. Using surface printing, we’re able to create a wonderful, textured wallpaper with water based inks that ooze luxury and charm.<\/p>"
           }
         }
       },
       "block_order": [
-        "1661959350df86ec22-0",
-        "b9a74b61-0fc6-4a4a-8eab-0fc854c2d6ff"
+        "16624604050219494f-0",
+        "16624604050219494f-1"
       ],
       "settings": {
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "16623666085d16bec1": {
-      "type": "multicolumn",
-      "blocks": {
-        "1662366608ecf28ed6-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/BLOCKPRINTTABLE_ROSE_BLUE_LIFE_1300x1300_2f01cc32-fe25-41cd-8700-6e078565781c.jpg",
-            "auto_height": true,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Anthropologie",
-            "button_link": "shopify:\/\/pages\/anthropologie-craft-week-molly-mahon",
-            "subtext": ""
-          }
-        },
-        "1662366608ecf28ed6-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_51f962e5-f1fc-4573-ae84-608dbddfc0ae.jpg",
-            "auto_height": true,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Boden",
-            "button_link": "shopify:\/\/pages\/boden-molly-mahon",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "1662366608ecf28ed6-0",
-        "1662366608ecf28ed6-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false
+        "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
       }
     }
   },
@@ -318,8 +226,6 @@
     "16624601935a72d91c",
     "1661950917ca5910a9",
     "166196159906fadd3f",
-    "16619593053301a27e",
-    "16619593508075d424",
-    "16623666085d16bec1"
+    "1662460405df288b40"
   ]
 }
