@@ -1,12 +1,12 @@
-<div style="background-color:{{ section.settings.background }}">
-<div class="text-with-text inner grid mt-{{ section.settings.margin_top }} mb-{{ section.settings.margin_bot }}">
+<div style="background-color:{{ section.settings.background }}" class="pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }}">
+<div class="text-with-text inner grid">
   {%- for block in section.blocks -%}
   {% case block.type %}
   {%- when 'text' -%}
     <div class="text">
-      <div class="flex vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }} color-{{ block.settings.color_scheme }}" {{ block.shopify_attributes }}>
+      <div class="flex vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }} color-{{ block.settings.color_scheme }}{% if block.settings.inset %} inset{% endif %}" {{ block.shopify_attributes }}>
         {%- if block.settings.heading != blank -%}
-          <span class="h2">{{ block.settings.heading }}</span>
+          <h2 class="{{ block.settings.heading_size }}">{{ block.settings.heading }}</h2>
         {%- endif -%}
         {%- if block.settings.text != blank -%}
         <div class="rte">
@@ -24,6 +24,56 @@
     </div>
     {%- endcase -%}
     {%- endfor -%}
+</div>
+<div class="slides">
+  <div class="slides_title inner color-dark_text">
+  <strong>{{ section.settings.slides_title }}</strong>
+  </div>
+  {%- assign owmuch = 0 -%}
+  {%- for block in section.blocks -%}
+  {% case block.type %}
+  {%- when 'image' -%}
+  {% assign owmuch = owmuch | plus:1 %}
+  {% assign outside = 94 | times: owmuch %}
+  {%- endcase -%}
+  {%- endfor -%}
+  <div class="slideshow">
+    <div class="carousel flex" style="width:{{outside}}%">
+  {%- for block in section.blocks -%}
+  {% case block.type %}
+  {%- when 'image' -%}
+  <div class="slide-image"  style="width:calc({{outside}}% / {{ owmuch }})">
+    {%- if block.settings.link != blank -%}
+    <a href="{{ block.settings.link }}" alt="{{ block.settings.title }}">
+    {%- endif -%}
+    
+    {%- if block.settings.image != blank -%}
+    
+    {%- assign landscape_image = block.settings.image -%} 
+      
+    {%- if block.settings.mobile_image != blank -%}
+      {%- assign square_image = block.settings.mobile_image -%}
+    {%- else -%}
+      {%- assign square_image = block.settings.image -%}
+    {%- endif -%}
+    
+      {% include 'image-hero' %}
+    {%- endif -%}
+    
+    {%- if block.settings.title != blank -%}
+    <div class="caption flex color-dark_text">
+      <span class="h0">{{ block.settings.title }}</span>
+    </div>
+    {%- endif -%}
+    
+    {%- if block.settings.link != blank -%}
+    </a>
+    {%- endif -%}
+  </div>
+  {%- endcase -%}
+  {%- endfor -%}
+  </div>
+  </div> 
 </div>
 </div>
 {% schema %}
@@ -106,6 +156,26 @@
         "label": "t:sections.image-with-text.blocks.heading.settings.heading.label"
       },
       {
+        "type": "select",
+        "id": "heading_size",
+        "options": [
+          {
+            "value": "small",
+            "label": "Small"
+          },
+          {
+            "value": "medium",
+            "label": "Medium"
+          },
+          {
+            "value": "large",
+            "label": "Large"
+          }
+        ],
+        "default": "medium",
+        "label": "Header Size"
+      },
+      {
         "type": "richtext",
         "id": "text",
         "default": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -121,6 +191,11 @@
         "type": "url",
         "id": "button_link",
         "label": "t:sections.image-with-text.blocks.button.settings.button_link.label"
+      },
+      {
+        "type": "checkbox",
+        "id": "inset",
+        "label": "Inset text on desktop"
       },
       {
         "type": "select",
@@ -198,6 +273,11 @@
         "type": "image_picker",
         "id": "image",
         "label": "Image"
+      },
+      {
+        "type": "image_picker",
+        "id": "mobile_image",
+        "label": "Mobile Image"
       },
       {
         "type": "text",
