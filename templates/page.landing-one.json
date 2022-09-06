@@ -509,14 +509,6 @@
             "text_align": "left"
           }
         },
-        "63d24b92-aaa1-4749-834e-c2e91ec79ff3": {
-          "type": "image",
-          "settings": {
-            "title": "Caption Here",
-            "link": "",
-            "color_scheme": "dark_text"
-          }
-        },
         "3575bee4-d630-4afd-9664-0c5e726147e2": {
           "type": "image",
           "settings": {
@@ -525,10 +517,27 @@
             "color_scheme": "dark_text"
           }
         },
-        "723e08e6-6d71-47ff-93b5-0342281bce7d": {
+        "d15617b8-79cc-4df6-ba7f-064afc94463c": {
           "type": "image",
           "settings": {
-            "title": "Caption Here",
+            "image": "shopify:\/\/shop_images\/FABRIC_TULIP_ROSEGRASS_1300X1300_fa5ff282-96ed-455a-858e-d4a1e94dddbf.jpg",
+            "title": "Fern * Sage",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        },
+        "63d24b92-aaa1-4749-834e-c2e91ec79ff3": {
+          "type": "image",
+          "settings": {
+            "title": "Spot & Star * Pea Green",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        },
+        "f90ce464-e414-4a80-97c1-ae2fa3e35776": {
+          "type": "image",
+          "settings": {
+            "title": "Leaf * Grass Green",
             "link": "",
             "color_scheme": "dark_text"
           }
@@ -537,9 +546,10 @@
       "block_order": [
         "16624577610885c164-0",
         "c352ccf3-a84e-4338-be78-f7c420e28e91",
-        "63d24b92-aaa1-4749-834e-c2e91ec79ff3",
         "3575bee4-d630-4afd-9664-0c5e726147e2",
-        "723e08e6-6d71-47ff-93b5-0342281bce7d"
+        "d15617b8-79cc-4df6-ba7f-064afc94463c",
+        "63d24b92-aaa1-4749-834e-c2e91ec79ff3",
+        "f90ce464-e414-4a80-97c1-ae2fa3e35776"
       ],
       "settings": {
         "background": "#77a96b",
