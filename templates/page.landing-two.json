@@ -125,6 +125,47 @@
         "color_scheme": "dark_text"
       }
     },
+    "16624601935a72d91c": {
+      "type": "2-column-text",
+      "blocks": {
+        "16624601934254c4eb-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Perfect Imperfections",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "Learn more about block printing",
+            "button_link": "shopify:\/\/pages\/the-art-of-block-printing-with-molly-mahon",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "71fff75f-42c3-4fa1-95f9-2f1ad345a9ff": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Block printing is an ancient form of transferring design to cloth that goes back over 4,500 years - and we still love it today. One of the many things that drew Molly to hand block printing was the personal connection with each and every piece. The odd movement between each print of paint gives the finished product a sense of authentic energy that can’t be achieved with a machine. Like the imperfections of real life, it’s what makes it beautiful.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16624601934254c4eb-0",
+        "71fff75f-42c3-4fa1-95f9-2f1ad345a9ff"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "1661950917ca5910a9": {
       "type": "product-grid",
       "settings": {
@@ -266,79 +307,6 @@
         "show_title": false,
         "add_spacing": false
       }
-    },
-    "16623684011f9064d5": {
-      "type": "feature-slides",
-      "blocks": {
-        "1662368401fb9a1e12-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Blue Hues",
-            "heading_size": "medium",
-            "text": "",
-            "button_label": "Shop all blue designer wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "3af74187-a808-41e7-901d-f6f9f91cc330": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>Bright blue is prominent in our range of block prints, inspired by the iconic Indian colour that results from the fermentation of Indigofera leaves. The inky dye is especially important in Bagru, a small village where we work, and creates a rich, long-lasting hue that’s very pleasing to the eye.<\/p><p> Our Denim collection features a bold indigo shade that sits well in most rooms, as calming as our beautiful blue oceans and sky. You’ll also discover deep navy for a contrasting look, and brilliant pale blue best suited to an airy light space.<br\/><\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "1b16c65d-b9f0-43ba-9854-6f725e417d97": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_51f962e5-f1fc-4573-ae84-608dbddfc0ae.jpg",
-            "title": "Caption Here",
-            "link": "shopify:\/\/blogs\/mood-boards",
-            "color_scheme": "dark_text"
-          }
-        },
-        "632d552f-4c3c-42aa-9409-fa557000443e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/TABLELINEN_CHERRY_LIFE_1800x1000_e240bbd1-f2bd-48c5-934f-649ae2da00cd.jpg",
-            "title": "Caption Here",
-            "link": "",
-            "color_scheme": "dark_text"
-          }
-        },
-        "553157e1-6b98-4460-a6e3-d6fc927e4610": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ASBROOK_WORKSHOP.jpg",
-            "title": "Caption Here",
-            "link": "",
-            "color_scheme": "dark_text"
-          }
-        }
-      },
-      "block_order": [
-        "1662368401fb9a1e12-0",
-        "3af74187-a808-41e7-901d-f6f9f91cc330",
-        "1b16c65d-b9f0-43ba-9854-6f725e417d97",
-        "632d552f-4c3c-42aa-9409-fa557000443e",
-        "553157e1-6b98-4460-a6e3-d6fc927e4610"
-      ],
-      "settings": {
-        "background": "#90bbe4",
-        "margin_top": "l",
-        "margin_bot": "none",
-        "slides_title": "Our favourite blue designer wallpapers"
-      }
     }
   },
   "order": [
@@ -347,11 +315,11 @@
     "1661951966294ab962",
     "1662459560c712da85",
     "16624596458beebd65",
+    "16624601935a72d91c",
     "1661950917ca5910a9",
     "166196159906fadd3f",
     "16619593053301a27e",
     "16619593508075d424",
-    "16623666085d16bec1",
-    "16623684011f9064d5"
+    "16623666085d16bec1"
   ]
 }
