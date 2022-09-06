@@ -512,6 +512,7 @@
         "3575bee4-d630-4afd-9664-0c5e726147e2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_1800x1000_0569705d-4963-4d04-89f2-6748f90c3e92.jpg",
             "title": "Birds & Bees * Pea Green",
             "link": "",
             "color_scheme": "dark_text"
@@ -558,6 +559,97 @@
         "slides_title": "Our favourite green designer wallpapers"
       }
     },
+    "16624584107026dd5b": {
+      "type": "feature-slides",
+      "blocks": {
+        "166245841038818ab0-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Pink Hues",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "Shop all pink designer wallpapers",
+            "button_link": "shopify:\/\/collections\/wallpaper",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "68a4c837-71fc-4f14-a8d0-2331f53945f8": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Pink is a naturally friendly colour that lends itself to any room in the house. Our range of rosy pink wallpapers are inspired by Jaipur, affectionately known as the Pink City of India. Made from the Indian madder plant, the paste results in a subtle, dusty tone that can brighten up any wall.<\/p><p>Don’t be afraid to put pink front and centre of your home. This powerful, elegant shade is super cosy for bedrooms, bathrooms and kitchens, no matter your gender. Pair our pretty pink with a classic Hearts print, or couple with blue or green in our Marigold collection.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "502dd316-ce69-44eb-a5a6-80d9c83a54d2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FCOTTUPINK_de2fa848-360c-4817-8487-54b495dd6163.jpg",
+            "title": "Lani Pnk",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        },
+        "1d102fae-f42f-4d68-8565-3757e0d3daa3": {
+          "type": "image",
+          "settings": {
+            "title": "Marigold Pink Blue",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        },
+        "14b20cad-67c6-4e14-876b-f0d527e87dc9": {
+          "type": "image",
+          "settings": {
+            "title": "Marigold Pink",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        },
+        "e993385f-b8a8-4787-9326-6f15c826fd82": {
+          "type": "image",
+          "settings": {
+            "title": "Marwari Horse Pink",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        }
+      },
+      "block_order": [
+        "166245841038818ab0-0",
+        "68a4c837-71fc-4f14-a8d0-2331f53945f8",
+        "502dd316-ce69-44eb-a5a6-80d9c83a54d2",
+        "1d102fae-f42f-4d68-8565-3757e0d3daa3",
+        "14b20cad-67c6-4e14-876b-f0d527e87dc9",
+        "e993385f-b8a8-4787-9326-6f15c826fd82"
+      ],
+      "settings": {
+        "background": "#ffc7ca",
+        "margin_top": "m",
+        "margin_bot": "m",
+        "slides_title": "Our favourite pink designer wallpapers"
+      }
+    },
+    "1662458692da6f89ec": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "We have a penchant for vibrant colours here at Molly Mahon. But you’ll also find lighter pastels and a cosy palette of golds and sage to bring personality and passion to your home.",
+        "heading_size": "medium",
+        "text": "",
+        "vertical_alignment": "start",
+        "alignment": "left",
+        "color_scheme": "dark_text"
+      }
+    },
     "1661964058633d317f": {
       "type": "image-banner",
       "blocks": {
@@ -595,7 +687,7 @@
             "text": "",
             "button_label": "",
             "button_link": "",
-            "inset": false,
+            "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
             "text_align": "left"
@@ -621,7 +713,7 @@
             "text": "<p>Nature is at the heart of our designs. Molly’s favourite moments are often marked by natural symbols... ferns found on a family walk, coral for her Mother’s love of the coast, the trees of Ashdown Forest. We’re drawn to nature and feel comfort when it’s brought into our home.<\/p><p>From strawberry fields to starry skies, each print has been carefully<\/p>",
             "button_label": "",
             "button_link": "",
-            "inset": false,
+            "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
             "text_align": "left"
@@ -635,7 +727,7 @@
             "text": "<p>chosen to bring joy, peace and plenty of personality. Discover our best selling designer floral wallpaper, Marigold. Or get inspired by Molly’s trips to India. Here you’ll find the rare Marwari Horse trotting along the streets of Rajasthan and our blue Bindi print from the Bagru Collection, a cheerful, subtle stripe that will uplift any space.<br\/><\/p>",
             "button_label": "",
             "button_link": "",
-            "inset": false,
+            "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
             "text_align": "left"
@@ -697,6 +789,82 @@
         "text_align": "center",
         "layout": "text_first"
       }
+    },
+    "16624588134f702e5c": {
+      "type": "2-column-text",
+      "blocks": {
+        "16624588135e33e230-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Making A House A Colourful Home",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16624588135e33e230-0"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    },
+    "16624588823d2d3f75": {
+      "type": "2-column-text",
+      "blocks": {
+        "166245888132734c47-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.<br\/>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home to.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "d940beb2-eee4-481e-be33-4b219ff0a03f": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our Mood Boards for more printspiration and dare to be adventurous!<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "166245888132734c47-0",
+        "d940beb2-eee4-481e-be33-4b219ff0a03f"
+      ],
+      "settings": {
+        "margin_top": "none",
+        "margin_bot": "l"
+      }
+    },
+    "1662458991952405b6": {
+      "type": "simple_quote",
+      "settings": {
+        "quote": "<p><em>\"Real homes are not showrooms or magazine ready rooms. Real homes are spaces to be comfortable and relaxed in.\" - Molly Mahon<\/em><\/p>",
+        "cite": "",
+        "bg": "green",
+        "image": "shopify:\/\/shop_images\/ASBROOK_WORKSHOP.jpg"
+      }
     }
   },
   "order": [
@@ -714,10 +882,15 @@
     "166245704164214430",
     "16624574182228dbc7",
     "16624577622fefe57b",
+    "16624584107026dd5b",
+    "1662458692da6f89ec",
     "1661964058633d317f",
     "1661964300e29a69df",
     "1661964322bc4b19cb",
     "16619644470639d01e",
-    "1661964515b80324f9"
+    "1661964515b80324f9",
+    "16624588134f702e5c",
+    "16624588823d2d3f75",
+    "1662458991952405b6"
   ]
 }
