@@ -104,6 +104,25 @@
             "subtext": ""
           }
         },
+        "7a732933-f307-4761-9515-0074b87b501a": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/DAPHNES_DIANTHUS_OUTSIDESEATING_1300X1300_8e2d5812-4c2a-44e1-b17d-56aa7cbaa7dc.jpg",
+            "title": "",
+            "subtitle": "Daphnes",
+            "subtitle_size": "medium",
+            "text": "<p>Walton Street, London<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "coming soon",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
         "1662372635bce63b35-2": {
           "type": "column",
           "settings": {
@@ -146,6 +165,7 @@
       "block_order": [
         "1662372635bce63b35-0",
         "a5870e5b-af92-4d96-8da9-791998a311d2",
+        "7a732933-f307-4761-9515-0074b87b501a",
         "1662372635bce63b35-2",
         "1662372635bce63b35-1"
       ],
