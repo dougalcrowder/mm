@@ -162,29 +162,8 @@
         "71fff75f-42c3-4fa1-95f9-2f1ad345a9ff"
       ],
       "settings": {
-        "margin_top": "m",
+        "margin_top": "l",
         "margin_bot": "m"
-      }
-    },
-    "1661950917ca5910a9": {
-      "type": "product-grid",
-      "settings": {
-        "product_list": [
-          "wallpaper-birdsbees-peagreen",
-          "wallpaper-lani-denim",
-          "wallpaper-marigold-pinkblue",
-          "wallpaper-marwarihorse-darkblue"
-        ],
-        "show_secondary_image": true,
-        "centred": true
-      }
-    },
-    "166196159906fadd3f": {
-      "type": "simple_quote",
-      "settings": {
-        "quote": "<p>\"Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work\"<\/p>",
-        "cite": "- Cath Kidston MBE",
-        "bg": "green"
       }
     },
     "1662460405df288b40": {
@@ -215,6 +194,139 @@
         "text_align": "center",
         "layout": "text_first"
       }
+    },
+    "1662460807a5c1e07c": {
+      "type": "2-column-text",
+      "blocks": {
+        "1662460807ec456fee-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "medium",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1662460807ec456fee-0"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "166246081478f8026c": {
+      "type": "2-column-text",
+      "blocks": {
+        "1662460814a3956d0c-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "medium",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1662460814a3956d0c-0"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "1662460822b5aebe5f": {
+      "type": "image-banner",
+      "blocks": {
+        "1662460822f6d48925-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1662460822f6d48925-1": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
+        "1662460822f6d48925-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1662460822f6d48925-0",
+        "1662460822f6d48925-1",
+        "1662460822f6d48925-2"
+      ],
+      "settings": {
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1662460891a9868814": {
+      "type": "image-with-text",
+      "blocks": {
+        "16624608914c9ec9ba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16624608914c9ec9ba-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16624608914c9ec9ba-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16624608914c9ec9ba-0",
+        "16624608914c9ec9ba-1",
+        "16624608914c9ec9ba-2"
+      ],
+      "settings": {
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -224,8 +336,10 @@
     "1662459560c712da85",
     "16624596458beebd65",
     "16624601935a72d91c",
-    "1661950917ca5910a9",
-    "166196159906fadd3f",
-    "1662460405df288b40"
+    "1662460405df288b40",
+    "1662460807a5c1e07c",
+    "166246081478f8026c",
+    "1662460822b5aebe5f",
+    "1662460891a9868814"
   ]
 }
