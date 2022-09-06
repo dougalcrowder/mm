@@ -1,4 +1,4 @@
-<div class="multicolumn inner{% if section.settings.add_spacing %} padd_top{% endif %}">
+<div class="multicolumn inner{% if section.settings.add_spacing %} padd_top{% endif %}{% if section.settings.border %} border{% endif %} pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }}">
   {%- if section.settings.show_title -%}
     <h3 class="h2 center">{{ section.settings.mc_title }}</h3>
   {%- endif -%}
@@ -32,6 +32,62 @@
       "id": "add_spacing",
       "default": false,
       "label": "Add extra space above"
+    },
+    {
+      "type": "checkbox",
+      "id": "border",
+      "default": false,
+      "label": "Add a big border"
+    },
+    {
+      "type": "select",
+      "id": "margin_top",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "s",
+          "label": "Small"
+        },
+        {
+          "value": "m",
+          "label": "Medium"
+        },
+        {
+          "value": "l",
+          "label": "Large"
+        }
+      ],
+      "default": "none",
+      "label": "spacing above",
+      "info": "adjust the spacing for the panel"
+    },
+    {
+      "type": "select",
+      "id": "margin_bot",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "s",
+          "label": "Small"
+        },
+        {
+          "value": "m",
+          "label": "Medium"
+        },
+        {
+          "value": "l",
+          "label": "Large"
+        }
+      ],
+      "default": "m",
+      "label": "spacing below",
+      "info": "adjust the spacing for the panel"
     }
 ],
 "blocks": [

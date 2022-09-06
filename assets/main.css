@@ -1882,6 +1882,20 @@ fieldset {
   }
 }
 
+.quote-section .image-bg {
+  position: relative;
+}
+
+.quote-section .image-bg img {
+  display: block;
+}
+
+.quote-section .image-bg .absolute .inner {
+  height: 100%;
+  align-items: center;
+  align-content: center;
+}
+
 .quote-section .quote {
   max-width: 600px;
   padding: 24px 16px;
@@ -1890,6 +1904,30 @@ fieldset {
 @media screen and (min-width: 768px) {
   .quote-section .quote blockquote p {
     font-size: 225%;
+  }
+}
+
+.quote-section .quote blockquote.text-small p {
+  font-size: 200%;
+}
+
+.quote-section .quote blockquote.text-large p {
+  font-size: 275%;
+}
+
+@media screen and (min-width: 768px) {
+  .quote-section .quote blockquote.text-large p {
+    font-size: 300%;
+  }
+}
+
+.quote-section .quote blockquote.text-extra_large p {
+  font-size: 350%;
+}
+
+@media screen and (min-width: 768px) {
+  .quote-section .quote blockquote.text-extra_large p {
+    font-size: 375%;
   }
 }
 
@@ -1929,6 +1967,7 @@ fieldset {
 
 .feature-slides .slides {
   overflow: hidden;
+  margin-top: 24px;
 }
 
 .feature-slides .slides_title {
@@ -2128,6 +2167,11 @@ fieldset {
 
 .bg-red {
   background-color: var(--color-pink);
+}
+
+.absolute {
+  position: absolute;
+  inset: 0;
 }
 
 .search_close {
