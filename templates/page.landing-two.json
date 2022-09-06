@@ -305,7 +305,7 @@
       ],
       "settings": {
         "margin_top": "s",
-        "margin_bot": "m"
+        "margin_bot": "l"
       }
     },
     "1662460822b5aebe5f": {
@@ -326,43 +326,13 @@
         "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
         "make_logo_white": false,
         "top_margin": false,
-        "constrain": false,
+        "constrain": true,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text"
-      }
-    },
-    "1662460891a9868814": {
-      "type": "image-with-text",
-      "blocks": {
-        "16624608914c9ec9ba-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Inspired to get creative? Join Molly at one of her immersive block printing workshops and learn how to make your very own printed piece. You’ll experiment with colour, pattern and material before going home with a beautiful product to display in your home.<\/p>"
-          }
-        },
-        "b85838e0-05f4-4b7a-bae5-0f2d2d46f23a": {
-          "type": "button",
-          "settings": {
-            "button_label": "Find out more about workshops and events",
-            "button_link": "shopify:\/\/pages\/workshops-and-events"
-          }
-        }
-      },
-      "block_order": [
-        "16624608914c9ec9ba-1",
-        "b85838e0-05f4-4b7a-bae5-0f2d2d46f23a"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ORLANDO_BLOCK_PRINTING_BODEN_SHIRT.jpg",
-        "title": "Get Crafty",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first"
       }
     },
     "1662478779064ab062": {
@@ -434,7 +404,6 @@
     "1662460807a5c1e07c",
     "166246081478f8026c",
     "1662460822b5aebe5f",
-    "1662460891a9868814",
     "1662478779064ab062"
   ]
 }
