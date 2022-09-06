@@ -1,28 +1,36 @@
 <div class="bg-{{ section.settings.bg }}">
-  <div class="{% if section.settings.image != blank %}image-bg{% else %}bunting{% endif %}">
-    {%- if section.settings.quote != blank -%}
-    <div class="flex inner">
-      <div class="quote">
-        <blockquote class="color-white_text">
-          {{ section.settings.quote }}
-        </blockquote>
-        {%- if section.settings.cite != blank -%}
-        <cite class="color-white_text">{{ section.settings.cite }}</cite>
-      {%- endif -%}
-      </div>
-    </div>
-    {%- endif -%}
-    {%- if block.settings.image != blank -%}
+  <div class="{% if section.settings.image != blank %}image-bg inner{% else %}bunting{% endif %}">
+    <div class="quote_hero">
+    {%- if section.settings.image != blank -%}
     
-    {%- assign landscape_image = block.settings.image -%} 
+    {%- assign landscape_image = section.settings.image -%} 
       
-    {%- if block.settings.mobile_image != blank -%}
-      {%- assign square_image = block.settings.mobile_image -%}
+    {%- if section.settings.mobile_image != blank -%}
+      {%- assign square_image = section.settings.mobile_image -%}
     {%- else -%}
-      {%- assign square_image = block.settings.image -%}
+      {%- assign square_image = section.settings.image -%}
     {%- endif -%}
     
-      {% include 'image-hero' %}
+      {% include 'image-hero-constrained' %}
+    {%- endif -%}
+    </div>
+    {%- if section.settings.quote != blank -%}
+      {% if section.settings.image != blank %}
+      <div class="absolute">
+      {% endif %}
+        <div class="flex inner vertical-{{ section.settings.desktop_text_box_position }} align-{{ section.settings.text_align }} color-{{ section.settings.color_scheme }}">
+        <div class="quote">
+          <blockquote class="color-{{ section.settings.color_scheme }} text-{{ section.settings.heading_size }}">
+            {{ section.settings.quote }}
+          </blockquote>
+          {%- if section.settings.cite != blank -%}
+          <cite class="color-{{ section.settings.color_scheme }}">{{ section.settings.cite }}</cite>
+        {%- endif -%}
+        </div>
+      </div>
+      {% if section.settings.image != blank %} 
+      </div>
+      {% endif %}
     {%- endif -%}
   </div>
 </div>
@@ -51,7 +59,7 @@
       "options": [
         {
           "value": "none",
-          "label": "Green"
+          "label": "Transparent"
         },
         {
           "value": "green",
@@ -78,6 +86,95 @@
       "type": "image_picker",
       "id": "mobile_image",
       "label": "Background Image"
+    },
+    {
+      "type": "select",
+      "id": "heading_size",
+      "options": [
+        {
+          "value": "small",
+          "label": "Small"
+        },
+        {
+          "value": "medium",
+          "label": "Medium"
+        },
+        {
+          "value": "large",
+          "label": "Large"
+        },
+        {
+          "value": "extra_large",
+          "label": "Extra Large"
+        }
+      ],
+      "default": "medium",
+      "label": "Quote Text Size"
+    },
+    {
+    "type": "select",
+    "id": "vertical_alignment",
+    "options": [
+        {
+          "value": "start",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Centre"
+        },
+        {
+          "value": "end",
+          "label": "Right"
+        }
+      ],
+      "default": "center",
+      "label": "Text Block Position on desktop"
+    },
+    {
+    "type": "select",
+    "id": "alignment",
+    "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Centre"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center",
+      "label": "Text Justification"
+    },
+    {
+      "type": "select",
+      "id": "color_scheme",
+      "options": [
+        {
+          "value": "white_text",
+          "label": "white text"
+        },
+        {
+          "value": "red_text",
+          "label": "Red Text"
+        },
+        {
+          "value": "dark_text",
+          "label": "Dark Text"
+        },
+        {
+          "value": "blue_text",
+          "label": "Blue Text"
+        }
+      ],
+      "default": "white_text",
+      "label": "t:sections.image-banner.settings.color_scheme.label",
+      "info": "t:sections.image-banner.settings.color_scheme.info"
     }
   ],
   "presets": [

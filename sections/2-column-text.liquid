@@ -2,8 +2,8 @@
   {%- for block in section.blocks -%}
   {% case block.type %}
   {%- when 'text' -%}
-    <div class="text">
-      <div class="flex vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }} color-{{ block.settings.color_scheme }}{% if block.settings.inset %} inset{% endif %}" {{ block.shopify_attributes }}>
+    <div class="text{% if block.settings.inset %} inset{% endif %}">
+      <div class="flex vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }} color-{{ block.settings.color_scheme }}" {{ block.shopify_attributes }}>
         {%- if block.settings.heading != blank -%}
           <h2 class="{{ block.settings.heading_size }}">{{ block.settings.heading }}</h2>
         {%- endif -%}
