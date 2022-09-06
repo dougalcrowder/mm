@@ -417,8 +417,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
+        "margin_top": "l",
+        "margin_bot": "l"
       }
     }
   },
