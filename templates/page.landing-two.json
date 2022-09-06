@@ -96,22 +96,10 @@
             "heading": "The Art of Block Printing",
             "heading_type": "header1"
           }
-        },
-        "1662459645f6c4403f-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "View the Course",
-            "button_link_1": "shopify:\/\/pages\/the-art-of-block-printing-with-molly-mahon",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "1662459645f6c4403f-0",
-        "1662459645f6c4403f-2"
+        "1662459645f6c4403f-0"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
