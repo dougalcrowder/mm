@@ -1,0 +1,313 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1649773735fabcedda": {
+      "type": "image-banner",
+      "blocks": {
+        "164977373582025f2d-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "About Us",
+            "heading_type": "header1"
+          }
+        },
+        "164977373582025f2d-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "go_serif": false
+          }
+        },
+        "164977373582025f2d-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164977373582025f2d-0",
+        "164977373582025f2d-1",
+        "164977373582025f2d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BB_RESTAURANT_LUNAPINK_1800X900_a36efb7e-e169-4d17-a464-8308183390ea.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1657198256089a7c52": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Bombay Bustle",
+        "text": "<p>Our fun bombastic pinks brought us together.  Working closely with Bombay Bustle Molly injected just the right touch to bring a deep warmth of colour, sophistication and fun into the restaurant space.  Here they serve mouth watering authentic food along with a lovely true Indian cultural service.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "16623726363d1c454c": {
+      "type": "multicolumn",
+      "blocks": {
+        "1662372635bce63b35-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BB_BOOTH_1300X1300_5a17e5b1-3b5a-4342-b52f-87821ab1ab0f.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1662372635bce63b35-2": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BB_BAR_2600X1300_bdd511ca-3bb3-44c1-b2ad-475f2119f235.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1662372635bce63b35-1": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BB_MENU_1300X1300_fb040d36-86cc-46a5-8f12-3a7af8f15a94.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "large",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "d2f03e07-eb37-4734-8cdd-7d621a947d80": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BB_COLLABORATION_1300X1300_8e2942e2-54af-4d6f-a613-ba1cfd321418.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "7553c61b-67f6-4c58-906c-f5adadf18357": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/BB_APERITIF_1300X1300_aeed2e55-d7de-480a-9b38-46f00e386a0b.jpg",
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662372635bce63b35-0",
+        "1662372635bce63b35-2",
+        "1662372635bce63b35-1",
+        "d2f03e07-eb37-4734-8cdd-7d621a947d80",
+        "7553c61b-67f6-4c58-906c-f5adadf18357"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false
+      }
+    },
+    "1662033198f876a3de": {
+      "type": "simple-button",
+      "disabled": true,
+      "settings": {
+        "label": "MM Trade",
+        "link": "",
+        "color_scheme": "red"
+      }
+    },
+    "1657199219affcebfd": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "settings": {
+        "title": "Making Home",
+        "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.<\/p><p><strong>Why is home so important to us?<\/strong> <\/p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.<\/p>",
+        "alignment": "center"
+      }
+    },
+    "1657200203628ef58f": {
+      "type": "simple-button",
+      "disabled": true,
+      "settings": {
+        "label": "Discover More about our Craftsmanship",
+        "link": "shopify:\/\/pages\/block-printing",
+        "color_scheme": "dark"
+      }
+    },
+    "1662389758f70f63ef": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1662389758409db467-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Luna Pink"
+          }
+        },
+        "1662389758409db467-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A captivating and playful, go-with-anything graphic pattern. Hand-block printed in Rajasthan by master craftsmen.<\/p>"
+          }
+        },
+        "1662389758409db467-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View fabric swatch",
+            "button_link": "shopify:\/\/products\/fabric-luna-oyster-pink"
+          }
+        }
+      },
+      "block_order": [
+        "1662389758409db467-0",
+        "1662389758409db467-1",
+        "1662389758409db467-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FOYSLUPINK1_df6147a0-59a8-44fc-9fd4-e619d31c4b1b.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "1662393642a649c856": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1662393642a9dbe710-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tuk Tuk Pink"
+          }
+        },
+        "1662393642a9dbe710-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A charming small-scale inspired by the decorations on India's beloved tuk tuks.  Hand-block printed in India by master craftsmen.<\/p>"
+          }
+        },
+        "1662393642a9dbe710-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Fabric Swatch",
+            "button_link": "shopify:\/\/products\/fabric-tuk-tuk-cotton-pink"
+          }
+        }
+      },
+      "block_order": [
+        "1662393642a9dbe710-0",
+        "1662393642a9dbe710-1",
+        "1662393642a9dbe710-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FCOTTUPINK_de2fa848-360c-4817-8487-54b495dd6163.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "16623944519856e80f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Pink Red Fabric collection",
+        "collection": "fabric-pinkred",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
+    "1657200715d6671ac0": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Back to Hospitality",
+        "link": "",
+        "color_scheme": "dark"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1649773735fabcedda",
+    "1657198256089a7c52",
+    "16623726363d1c454c",
+    "1662033198f876a3de",
+    "1657199219affcebfd",
+    "1657200203628ef58f",
+    "1662389758f70f63ef",
+    "1662393642a649c856",
+    "16623944519856e80f",
+    "1657200715d6671ac0"
+  ]
+}
