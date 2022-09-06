@@ -38,7 +38,7 @@
         "164977373582025f2d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FIRMDALE_SOHO_LEAF_1800x900_518aa660-2b7f-43fd-88c8-9d18c6b68ff4.jpg",
+        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -58,8 +58,8 @@
     "1657198256089a7c52": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "Hospitality",
-        "text": "<p>We have been approached from various hospitality trades including hotels, restaurants, rural pubs to television series.  We love working with these projects to bring our colour and pattern into commercial spaces.  If you are looking to create a unique, joyful and inspiring environment, contact us to discuss how we can work with you. <\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to talk through  on +44 (0) 1342 825700.<\/p>",
+        "title": "Licensing",
+        "text": "<p>Molly's design asthetic has reached far and wide.  Her keen eye and creative impluse can now be shared and employed to create the design other brands seek for their customers.<\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to find out more on +44 (0) 1342 825700.<\/p>",
         "alignment": "center"
       }
     },
@@ -71,9 +71,9 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BOMBAYBUSTLE_TUKTUK_1300x1300_45cdc535-e7f0-44f7-90dd-61d8943e21b4.jpg",
+            "image": "shopify:\/\/shop_images\/PORTRAIT_MOLLYMAHON_BODEN_COLLAB_CLOTHES_RAIL_1300x1300_3b1c27c8-255f-435b-91b5-ee33d2ab0dd4.jpg",
             "title": "",
-            "subtitle": "Bombay Bustle",
+            "subtitle": "Boden",
             "subtitle_size": "medium",
             "text": "",
             "button_color": "white",
@@ -81,12 +81,13 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "View",
-            "button_link": "shopify:\/\/pages\/hospitality-bombay-bustle",
+            "button_link": "shopify:\/\/pages\/boden-molly-mahon",
             "subtext": ""
           }
         },
         "a5870e5b-af92-4d96-8da9-791998a311d2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "one_third",
             "narrow": false,
@@ -106,6 +107,7 @@
         },
         "1662372635bce63b35-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "one_third",
             "narrow": false,
@@ -125,6 +127,7 @@
         },
         "1662372635bce63b35-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "one_third",
             "narrow": false,
