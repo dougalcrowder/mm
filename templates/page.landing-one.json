@@ -509,6 +509,14 @@
             "text_align": "left"
           }
         },
+        "63d24b92-aaa1-4749-834e-c2e91ec79ff3": {
+          "type": "image",
+          "settings": {
+            "title": "Caption Here",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        },
         "3575bee4-d630-4afd-9664-0c5e726147e2": {
           "type": "image",
           "settings": {
@@ -529,6 +537,7 @@
       "block_order": [
         "16624577610885c164-0",
         "c352ccf3-a84e-4338-be78-f7c420e28e91",
+        "63d24b92-aaa1-4749-834e-c2e91ec79ff3",
         "3575bee4-d630-4afd-9664-0c5e726147e2",
         "723e08e6-6d71-47ff-93b5-0342281bce7d"
       ],
@@ -678,81 +687,6 @@
         "text_align": "center",
         "layout": "text_first"
       }
-    },
-    "1661964774b2c2d19c": {
-      "type": "2-column-text",
-      "blocks": {
-        "1661964774e6e45ade-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Making A House A Colourful Home",
-            "heading_size": "medium",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "1661964774e6e45ade-0"
-      ],
-      "settings": {
-        "margin_top": "l",
-        "margin_bot": "none"
-      }
-    },
-    "1661964808823921f8": {
-      "type": "2-column-text",
-      "blocks": {
-        "1661964808bcdf674a-0": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.<\/p><p>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home to.<br\/><\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "d2281a0e-4386-4b26-a648-c458a649aa41": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. <\/p><p>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our Mood Boards for more printspiration and dare to be adventurous!<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "1661964808bcdf674a-0",
-        "d2281a0e-4386-4b26-a648-c458a649aa41"
-      ],
-      "settings": {
-        "margin_top": "none",
-        "margin_bot": "s"
-      }
-    },
-    "166196499121cbee63": {
-      "type": "simple_quote",
-      "settings": {
-        "quote": "<p><em>\"Real homes are not showrooms or magazine ready rooms. Real homes are spaces to be comfortable and relaxed in.\" - Molly Mahon<br\/><\/em><\/p>",
-        "cite": "",
-        "bg": "green"
-      }
     }
   },
   "order": [
@@ -774,9 +708,6 @@
     "1661964300e29a69df",
     "1661964322bc4b19cb",
     "16619644470639d01e",
-    "1661964515b80324f9",
-    "1661964774b2c2d19c",
-    "1661964808823921f8",
-    "166196499121cbee63"
+    "1661964515b80324f9"
   ]
 }
