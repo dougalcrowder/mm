@@ -201,12 +201,12 @@
         "1662460807ec456fee-0": {
           "type": "text",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Small Batch Sustainability",
             "heading_size": "medium",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "button_label": "",
             "button_link": "",
-            "inset": false,
+            "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
             "text_align": "left"
@@ -217,8 +217,8 @@
         "1662460807ec456fee-0"
       ],
       "settings": {
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "l",
+        "margin_bot": "none"
       }
     },
     "166246081478f8026c": {
@@ -227,12 +227,26 @@
         "1662460814a3956d0c-0": {
           "type": "text",
           "settings": {
-            "heading": "Image with text",
+            "heading": "",
             "heading_size": "medium",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>We’re conscious of our impact on the environment and the mark we might make, aside from our patterned prints. So respecting how we treat our planet is just as important to us as creating joy. Every element of our business is thoroughly researched to make sure it’s the best it can be and fills us with pride - from the materials we use to the process of creation.<\/p><p>Each collection is made in small batches which allows us to focus on the details and create higher quality products. It also helps us to avoid waste whilst using water based ingredients and natural pigments where possible. We only use organic cottons and plant based fibres, ensuring your wallpaper, fabrics and furniture last for decades of fun. And every leftover snippet is used somewhere along the journey - nothing goes to waste if it doesn’t have to.<\/p>",
             "button_label": "",
             "button_link": "",
-            "inset": false,
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "02b27ed6-5dce-4717-a909-5d83be9fe5f2": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>When it comes to packaging, you won’t see any plastic. And whilst we’re mindful of air miles, we’ve balanced this with supporting local communities to thrive who are often under threat from bulk manufacturing. Block printing is sadly in danger due to the rise of machine-printed fabric, yet this traditional craft creates hundreds of employment opportunities and is integral to India’s culture and wellbeing.<\/p><p><strong><br\/><\/strong><a href=\"\/collections\/wallpaper\" title=\"Wallpaper\"><strong>Ready to shop? Take a look at our collection of designer wallpapers and get colourful!<\/strong><\/a><br\/><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
             "text_align": "left"
@@ -240,10 +254,11 @@
         }
       },
       "block_order": [
-        "1662460814a3956d0c-0"
+        "1662460814a3956d0c-0",
+        "02b27ed6-5dce-4717-a909-5d83be9fe5f2"
       ],
       "settings": {
-        "margin_top": "m",
+        "margin_top": "s",
         "margin_bot": "m"
       }
     },
@@ -253,35 +268,16 @@
         "1662460822f6d48925-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "1662460822f6d48925-1": {
-          "type": "text",
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false
-          }
-        },
-        "1662460822f6d48925-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading": "Eco Banner",
+            "heading_type": "header2"
           }
         }
       },
       "block_order": [
-        "1662460822f6d48925-0",
-        "1662460822f6d48925-1",
-        "1662460822f6d48925-2"
+        "1662460822f6d48925-0"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -295,34 +291,27 @@
     "1662460891a9868814": {
       "type": "image-with-text",
       "blocks": {
-        "16624608914c9ec9ba-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
         "16624608914c9ec9ba-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Inspired to get creative? Join Molly at one of her immersive block printing workshops and learn how to make your very own printed piece. You’ll experiment with colour, pattern and material before going home with a beautiful product to display in your home.<\/p>"
           }
         },
-        "16624608914c9ec9ba-2": {
+        "b85838e0-05f4-4b7a-bae5-0f2d2d46f23a": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Find out more about workshops and events",
+            "button_link": "shopify:\/\/pages\/workshops-and-events"
           }
         }
       },
       "block_order": [
-        "16624608914c9ec9ba-0",
         "16624608914c9ec9ba-1",
-        "16624608914c9ec9ba-2"
+        "b85838e0-05f4-4b7a-bae5-0f2d2d46f23a"
       ],
       "settings": {
-        "title": "A Seasonal Setting",
-        "color_scheme": "white_text",
+        "title": "Get Crafty",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
