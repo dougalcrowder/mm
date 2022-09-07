@@ -870,13 +870,26 @@ fieldset {
   }
 }
 
+.column.no-image .text_wrap:not(.under) {
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .column.narrow.no-image .text_wrap:not(.under) {
+    left: 0;
+    right: 0;
+  }
+}
+
 .text_wrap {
   z-index: 2;
 }
 
-.text_wrap h2,
-.text_wrap h3,
-.text_wrap .h2,
 .text_wrap .h3 {
   font-weight: 700;
 }
@@ -934,10 +947,11 @@ fieldset {
 }
 
 .column .image img {
-  height: 100%;
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+  height: auto;
+  display: block;
 }
 
 .column .button {
@@ -952,23 +966,29 @@ fieldset {
 .column h2,
 .column h3,
 .column h4,
+.column .h2,
+.column .h3,
+.column .h4,
 .column p,
 .column .buttons,
 .column small {
   flex: 1 1 100%;
 }
 
-.column h2,
-.column h3 {
+.column .h3 {
   font-weight: 700;
 }
 
-.column h4.medium {
-  font-size: 2rem;
+.column h3.h2.extrasmall {
+  font-size: 150%;
 }
 
-.column h4.large {
-  font-size: 2.6rem;
+.column h3.h2.small {
+  font-size: 200%;
+}
+
+.column h3.h2.medium {
+  font-size: 250%;
 }
 
 @media screen and (min-width: 768px) {

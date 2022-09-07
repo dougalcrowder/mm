@@ -8,7 +8,7 @@
     {%- endfor -%}
   </ul>
 </div>
-
+ 
 {% schema %}
 
 {
@@ -128,10 +128,28 @@
         "label": "t:sections.multicolumn.blocks.column.settings.image.label"
       },
       {
-        "type": "checkbox",
+        "type": "select",
         "id": "auto_height",
-        "label": "removes image crop",
-        "default": false
+        "options": [
+          {
+            "value": "landscape",
+            "label": "Landscape"
+          },
+          {
+            "value": "portrait",
+            "label": "Portrait"
+          },
+          {
+            "value": "square",
+            "label": "Square"
+          },
+          {
+            "value": "none",
+            "label": "Uploaded image ratio"
+          }
+        ],
+        "default": "none",
+        "label": "Image Aspect Ratio"
       },
       {
         "type": "text",
@@ -149,6 +167,10 @@
         "type": "select",
         "id": "subtitle_size",
         "options": [
+          {
+            "value": "extrasmall",
+            "label": "Extra Small"
+          },
           {
             "value": "small",
             "label": "Small"
