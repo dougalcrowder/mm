@@ -783,43 +783,6 @@
         "color_scheme": "white_text"
       }
     },
-    "1661964515b80324f9": {
-      "type": "image-with-text",
-      "blocks": {
-        "1661964515c0a4239b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "New Kids on the Block"
-          }
-        },
-        "1661964515c0a4239b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Create a welcoming, warm home for you and your family with our newest and most popular designer wallpapers in the UK. Find your perfect print and stamp your mark with ease.<\/p>"
-          }
-        },
-        "1661964515c0a4239b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop new designer wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper"
-          }
-        }
-      },
-      "block_order": [
-        "1661964515c0a4239b-0",
-        "1661964515c0a4239b-1",
-        "1661964515c0a4239b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/WFEMUSTLIFE_470c250e-d310-4094-8343-dd0072829d1a.jpg",
-        "title": "",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first"
-      }
-    },
     "166247809277b0daea": {
       "type": "multicolumn",
       "blocks": {
@@ -1033,7 +996,6 @@
     "1661964300e29a69df",
     "1661964322bc4b19cb",
     "16619644470639d01e",
-    "1661964515b80324f9",
     "166247809277b0daea",
     "16624588134f702e5c",
     "16624588823d2d3f75",
