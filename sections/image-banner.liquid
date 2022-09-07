@@ -14,7 +14,7 @@
   {%- else -%}
     {%- assign square_image = section.settings.image -%}
   {%- endif -%}
-  <div class="myhero{% if section.settings.top_margin %} margery{% endif %}{% if section.settings.constrain or if section.settings.constrain %} letterbox{% endif %}">
+  <div class="myhero{% if section.settings.top_margin %} margery{% endif %}{% if section.settings.constrain or section.settings.letterbox %} inner{% endif %}">
     {% if section.settings.constrain %}
     {% include 'image-hero-constrained' %}
     {% elsif section.settings.letterbox %}
