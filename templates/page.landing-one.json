@@ -531,6 +531,15 @@
             "text_align": "left"
           }
         },
+        "f90ce464-e414-4a80-97c1-ae2fa3e35776": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WALLPAPER_LEAF_DEERHYRST_1200X900_e67e2053-a9de-4a52-aad6-24b0e203c13f.jpg",
+            "title": "Leaf Grass Green",
+            "link": "shopify:\/\/products\/wallpaper-leaf-grassgreen",
+            "color_scheme": "dark_text"
+          }
+        },
         "3575bee4-d630-4afd-9664-0c5e726147e2": {
           "type": "image",
           "settings": {
@@ -556,23 +565,15 @@
             "link": "",
             "color_scheme": "dark_text"
           }
-        },
-        "f90ce464-e414-4a80-97c1-ae2fa3e35776": {
-          "type": "image",
-          "settings": {
-            "title": "Leaf * Grass Green",
-            "link": "",
-            "color_scheme": "dark_text"
-          }
         }
       },
       "block_order": [
         "16624577610885c164-0",
         "c352ccf3-a84e-4338-be78-f7c420e28e91",
+        "f90ce464-e414-4a80-97c1-ae2fa3e35776",
         "3575bee4-d630-4afd-9664-0c5e726147e2",
         "d15617b8-79cc-4df6-ba7f-064afc94463c",
-        "63d24b92-aaa1-4749-834e-c2e91ec79ff3",
-        "f90ce464-e414-4a80-97c1-ae2fa3e35776"
+        "63d24b92-aaa1-4749-834e-c2e91ec79ff3"
       ],
       "settings": {
         "background": "#77a96b",
