@@ -192,7 +192,7 @@
             "width": "one_third",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/LBBFLBUTPIN12-3_51dc0d07-0458-49b3-acb1-0f8b6f0ac839.jpg",
-            "auto_height": "none",
+            "auto_height": "portrait",
             "title": "Lighting",
             "subtitle": "",
             "subtitle_size": "small",
@@ -394,7 +394,7 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "none"
       }
     },
     "1657185355c64083f9": {
@@ -406,7 +406,7 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/FOREST_OYSTER_GREEN_SITTINGROOM_KEANE.jpg",
-            "auto_height": "none",
+            "auto_height": "square",
             "title": "",
             "subtitle": "Deerhyrst Collection",
             "subtitle_size": "small",
@@ -426,7 +426,7 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/GCGARMS-2_ea7bb47c-700a-4feb-859d-01077089cb01.jpg",
-            "auto_height": "none",
+            "auto_height": "square",
             "title": "",
             "subtitle": "Greencombe Collections",
             "subtitle_size": "small",
@@ -554,7 +554,7 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
-            "auto_height": "false",
+            "auto_height": "square",
             "title": "Workshops",
             "subtitle": "Get Creative",
             "subtitle_size": "small",
@@ -574,7 +574,7 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
-            "auto_height": "false",
+            "auto_height": "square",
             "title": "Printing Supplies",
             "subtitle": "For the budding Block printer",
             "subtitle_size": "small",
