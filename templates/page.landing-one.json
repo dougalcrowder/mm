@@ -42,7 +42,8 @@
         "1642199348d668b6b2-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_MOBILE_LIFE_1300x1300_e28a0169-65be-4207-a71d-c69a9505f653.jpg",
+        "image": "shopify:\/\/shop_images\/0E6048ED-2181-4BAE-8771-4D138EB57F40_1_105_c.jpg",
+        "letterbox": false,
         "make_logo_white": true,
         "top_margin": false,
         "constrain": false,
@@ -64,7 +65,7 @@
             "narrow": true,
             "auto_height": true,
             "title": "",
-            "subtitle": "Title",
+            "subtitle": "",
             "subtitle_size": "large",
             "text": "<p>Shop our colourful collection of handcrafted designer wallpaper, exclusively designed by British printmaker, Molly Mahon, in her East Sussex studio. From intricate leaves to bees and blossoms, there’s a pattern to suit every space - each ethically made from original block prints.<\/p>",
             "button_color": "white",
@@ -81,7 +82,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS_baaeed55-fd64-453a-a634-df1b3be2a67c.jpg",
+            "image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
             "auto_height": false,
             "title": "",
             "subtitle": "",
@@ -155,10 +156,10 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-birdsbees-peagreen",
-          "wallpaper-lani-denim",
-          "wallpaper-marigold-pinkblue",
-          "wallpaper-marwarihorse-darkblue"
+          "wallpaper-marigold-yellow",
+          "wallpaper-marwarihorse-darkblue",
+          "wallpaper-lani-gold",
+          "wallpaper-fern-mustard"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -286,6 +287,7 @@
     },
     "166196276803731365": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1661962768c5e9d315-0": {
           "type": "column",
@@ -378,25 +380,34 @@
             "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_51f962e5-f1fc-4573-ae84-608dbddfc0ae.jpg",
             "mobile_image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_51f962e5-f1fc-4573-ae84-608dbddfc0ae.jpg",
             "title": "Coral Blue",
-            "link": "",
+            "link": "shopify:\/\/products\/wallpaper-coral-blue",
             "color_scheme": "dark_text"
           }
         },
         "c8053bd5-35af-4c35-af46-24bb286cd53d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89.jpg",
-            "title": "Caption Here",
-            "link": "",
+            "image": "shopify:\/\/shop_images\/MARIGOLD_PINK_BEDROOM_WALLPAPER.jpg",
+            "title": "Marigold Pink\/Blue",
+            "link": "shopify:\/\/products\/wallpaper-marigold-pinkblue",
             "color_scheme": "dark_text"
           }
         },
         "81d6ecdf-6022-4d32-bd67-0bb39128c5a2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DEERHYRST_MAINBEDROOM_1800x900_21e61bf5-c042-412a-b53b-a0c0143a95e9.jpg",
-            "title": "Caption Here",
-            "link": "",
+            "image": "shopify:\/\/shop_images\/WALLPAPER_BINDI_DEERHYRST_1200X900_c2484dbd-6cf6-4f8d-b6c0-7e86536281d5.jpg",
+            "title": "Bindi Blue",
+            "link": "shopify:\/\/products\/wallpaper-bindi-blue",
+            "color_scheme": "dark_text"
+          }
+        },
+        "319622a2-fefb-4e50-aaf1-5369cbeede0b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_ZETLAND_1200X900_71bd2123-97d6-4f48-afb9-b113f7beee51.jpg",
+            "title": "Birds & Bees Blue",
+            "link": "shopify:\/\/products\/wallpaper-birdsbees-blue",
             "color_scheme": "dark_text"
           }
         }
@@ -406,7 +417,8 @@
         "6c1fad14-10b7-4a53-ab28-74050d8bd26c",
         "985db019-352d-4d21-9b79-825eacd805f9",
         "c8053bd5-35af-4c35-af46-24bb286cd53d",
-        "81d6ecdf-6022-4d32-bd67-0bb39128c5a2"
+        "81d6ecdf-6022-4d32-bd67-0bb39128c5a2",
+        "319622a2-fefb-4e50-aaf1-5369cbeede0b"
       ],
       "settings": {
         "background": "#90bbe4",
@@ -449,18 +461,18 @@
         "9433d050-5fbc-4539-9d64-8c9b697d5785": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_1800x1000_0569705d-4963-4d04-89f2-6748f90c3e92.jpg",
-            "title": "Caption Here",
-            "link": "",
+            "image": "shopify:\/\/shop_images\/FERNTURMERICKEALIFE2_446cc717-0a7a-409d-852c-41b86bcb8eb3.jpg",
+            "title": "Fern Mustard",
+            "link": "shopify:\/\/products\/wallpaper-fern-mustard",
             "color_scheme": "dark_text"
           }
         },
         "85ffb669-eec7-4216-a711-0e20358a3334": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TABLELINEN_CHERRY_LIFE_1800x1000_e240bbd1-f2bd-48c5-934f-649ae2da00cd.jpg",
-            "title": "Caption Here",
-            "link": "",
+            "image": "shopify:\/\/shop_images\/WALLPAPER_LANI_BOOKSHELF_1200X900_74e7ebfc-0c56-419f-b36d-88f49df46f94.jpg",
+            "title": "Lani Gold",
+            "link": "shopify:\/\/products\/wallpaper-lani-gold",
             "color_scheme": "dark_text"
           }
         }
@@ -666,9 +678,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_House_Home_-_Bed_Bath.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
-        "constrain": true,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
