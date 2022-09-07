@@ -14,11 +14,11 @@
   {%- else -%}
     {%- assign square_image = section.settings.image -%}
   {%- endif -%}
-  <div class="myhero{% if section.settings.top_margin %} margery{% endif %}{% if section.settings.constrain %} inner{% endif %}">
+  <div class="myhero{% if section.settings.top_margin %} margery{% endif %}{% if section.settings.constrain or section.settings.letterbox %} inner{% endif %}">
     {% if section.settings.constrain %}
     {% include 'image-hero-constrained' %}
     {% elsif section.settings.letterbox %}
-    {% include 'image-hero-constrained' %}
+    {% include 'image-hero-letterbox' %}
     {% else %}
     {% include 'image-hero' %}
     {% endif %}
@@ -45,7 +45,7 @@
       "type": "checkbox",
       "id": "letterbox",
       "default": false,
-      "label": "Letterbox image on desktop"
+      "label": "Strip image on desktop"
     },
     {
       "type": "image_picker",
