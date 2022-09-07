@@ -43,6 +43,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_MOBILE_LIFE_1300x1300_e28a0169-65be-4207-a71d-c69a9505f653.jpg",
+        "letterbox": false,
         "make_logo_white": true,
         "top_margin": false,
         "constrain": false,
@@ -62,7 +63,7 @@
           "settings": {
             "width": "half",
             "narrow": true,
-            "auto_height": true,
+            "auto_height": "true",
             "title": "",
             "subtitle": "Title",
             "subtitle_size": "large",
@@ -82,7 +83,7 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS_baaeed55-fd64-453a-a634-df1b3be2a67c.jpg",
-            "auto_height": false,
+            "auto_height": "none",
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -293,7 +294,7 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/BODEN_WOMEN_DAYDRESS_LIFESTYLE.jpg",
-            "auto_height": true,
+            "auto_height": "none",
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -313,7 +314,7 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/ANTHRO_PAINT_DISPLAY_1300x1300_81eaed96-ba85-4feb-971d-351d93da9f28.jpg",
-            "auto_height": true,
+            "auto_height": "none",
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -666,6 +667,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_House_Home_-_Bed_Bath.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
         "constrain": true,
@@ -758,43 +760,6 @@
         "color_scheme": "white_text"
       }
     },
-    "1661964515b80324f9": {
-      "type": "image-with-text",
-      "blocks": {
-        "1661964515c0a4239b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "New Kids on the Block"
-          }
-        },
-        "1661964515c0a4239b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Create a welcoming, warm home for you and your family with our newest and most popular designer wallpapers in the UK. Find your perfect print and stamp your mark with ease.<\/p>"
-          }
-        },
-        "1661964515c0a4239b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop new designer wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper"
-          }
-        }
-      },
-      "block_order": [
-        "1661964515c0a4239b-0",
-        "1661964515c0a4239b-1",
-        "1661964515c0a4239b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/WFEMUSTLIFE_470c250e-d310-4094-8343-dd0072829d1a.jpg",
-        "title": "",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first"
-      }
-    },
     "166247809277b0daea": {
       "type": "multicolumn",
       "blocks": {
@@ -803,7 +768,7 @@
           "settings": {
             "width": "half",
             "narrow": true,
-            "auto_height": false,
+            "auto_height": "false",
             "title": "",
             "subtitle": "New Kids on the Block",
             "subtitle_size": "large",
@@ -823,7 +788,7 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/THESWAN_BIRDS_BEES_BEDROOM_1300x1300_730cf24e-5a03-4381-abac-9478f1a0efc8.jpg",
-            "auto_height": false,
+            "auto_height": "none",
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -940,7 +905,7 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/FOYSLUPINK1_df6147a0-59a8-44fc-9fd4-e619d31c4b1b.jpg",
-            "auto_height": false,
+            "auto_height": "none",
             "title": "Example Moodboard",
             "subtitle": "",
             "subtitle_size": "small",
@@ -959,7 +924,7 @@
           "settings": {
             "width": "half",
             "narrow": true,
-            "auto_height": false,
+            "auto_height": "false",
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -1008,7 +973,6 @@
     "1661964300e29a69df",
     "1661964322bc4b19cb",
     "16619644470639d01e",
-    "1661964515b80324f9",
     "166247809277b0daea",
     "16624588134f702e5c",
     "16624588823d2d3f75",
