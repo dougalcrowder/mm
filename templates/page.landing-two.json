@@ -6,6 +6,14 @@
       "settings": {
       }
     },
+    "1662583646935a63eb": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
     "166195210128b91b49": {
       "type": "2-column-text",
       "blocks": {
@@ -77,7 +85,7 @@
       "type": "image-banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/GREENCOMBE_ATTIC_BEDROOM_MOBILE_d21373c7-eed6-448b-91fa-b65238eb118b.jpg",
-        "letterbox": false,
+        "letterbox": true,
         "make_logo_white": false,
         "top_margin": false,
         "constrain": true,
@@ -158,6 +166,14 @@
         "margin_bot": "m"
       }
     },
+    "166258375996ca2554": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "l",
+        "hr": true
+      }
+    },
     "1662478609382f904c": {
       "type": "multicolumn",
       "blocks": {
@@ -167,6 +183,7 @@
             "width": "half",
             "narrow": true,
             "auto_height": "false",
+            "cover": false,
             "title": "",
             "subtitle": "Keeping Traditions Alive",
             "subtitle_size": "large",
@@ -187,6 +204,7 @@
             "narrow": false,
             "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
             "auto_height": "portrait",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -212,6 +230,14 @@
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
+      }
+    },
+    "1662583786b9fd5625": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
       }
     },
     "1662460807a5c1e07c": {
@@ -278,7 +304,7 @@
       ],
       "settings": {
         "margin_top": "s",
-        "margin_bot": "l"
+        "margin_bot": "s"
       }
     },
     "1662460822b5aebe5f": {
@@ -319,6 +345,7 @@
             "narrow": false,
             "image": "shopify:\/\/shop_images\/mm_lampshades-35.jpg",
             "auto_height": "portrait",
+            "cover": false,
             "title": "Get Crafty",
             "subtitle": "",
             "subtitle_size": "large",
@@ -338,6 +365,7 @@
             "width": "half",
             "narrow": false,
             "auto_height": "false",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -368,12 +396,15 @@
   },
   "order": [
     "main",
+    "1662583646935a63eb",
     "166195210128b91b49",
     "1661951966294ab962",
     "1662459560c712da85",
     "16624596458beebd65",
     "16624601935a72d91c",
+    "166258375996ca2554",
     "1662478609382f904c",
+    "1662583786b9fd5625",
     "1662460807a5c1e07c",
     "166246081478f8026c",
     "1662460822b5aebe5f",
