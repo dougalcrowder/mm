@@ -549,19 +549,20 @@
             "color_scheme": "dark_text"
           }
         },
-        "d15617b8-79cc-4df6-ba7f-064afc94463c": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FABRIC_TULIP_ROSEGRASS_1300X1300_fa5ff282-96ed-455a-858e-d4a1e94dddbf.jpg",
-            "title": "Fern Sage",
-            "link": "",
-            "color_scheme": "dark_text"
-          }
-        },
         "63d24b92-aaa1-4749-834e-c2e91ec79ff3": {
           "type": "image",
           "settings": {
             "title": "Spot & Star * Pea Green",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        },
+        "d15617b8-79cc-4df6-ba7f-064afc94463c": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FABRIC_TULIP_ROSEGRASS_1300X1300_fa5ff282-96ed-455a-858e-d4a1e94dddbf.jpg",
+            "title": "Fern Sage",
             "link": "",
             "color_scheme": "dark_text"
           }
@@ -572,8 +573,8 @@
         "c352ccf3-a84e-4338-be78-f7c420e28e91",
         "f90ce464-e414-4a80-97c1-ae2fa3e35776",
         "3575bee4-d630-4afd-9664-0c5e726147e2",
-        "d15617b8-79cc-4df6-ba7f-064afc94463c",
-        "63d24b92-aaa1-4749-834e-c2e91ec79ff3"
+        "63d24b92-aaa1-4749-834e-c2e91ec79ff3",
+        "d15617b8-79cc-4df6-ba7f-064afc94463c"
       ],
       "settings": {
         "background": "#77a96b",
