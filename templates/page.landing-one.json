@@ -475,13 +475,23 @@
             "link": "shopify:\/\/products\/wallpaper-lani-gold",
             "color_scheme": "dark_text"
           }
+        },
+        "25af32f0-758c-4eae-bc62-d02be117501f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_BEDROOM_1200X900_bb58ffcb-f968-4a02-9c74-7f524d72fe63.jpg",
+            "title": "Marwari Horse Gold",
+            "link": "shopify:\/\/products\/wallpaper-marwarihorse-gold",
+            "color_scheme": "dark_text"
+          }
         }
       },
       "block_order": [
         "1662457418f867cbaa-0",
         "15b79bcd-cc34-44f0-9f52-3425ff495a27",
         "9433d050-5fbc-4539-9d64-8c9b697d5785",
-        "85ffb669-eec7-4216-a711-0e20358a3334"
+        "85ffb669-eec7-4216-a711-0e20358a3334",
+        "25af32f0-758c-4eae-bc62-d02be117501f"
       ],
       "settings": {
         "background": "#cec367",
@@ -524,7 +534,7 @@
         "3575bee4-d630-4afd-9664-0c5e726147e2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_1800x1000_0569705d-4963-4d04-89f2-6748f90c3e92.jpg",
+            "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_WINDOW_1200X900_56c8829e-ceb9-462d-8840-6574689ebb63.jpg",
             "title": "Birds & Bees * Pea Green",
             "link": "",
             "color_scheme": "dark_text"
