@@ -1,8 +1,8 @@
 <li class="column {{ block.settings.width }}{% if block.settings.narrow %} narrow{% endif %}{% if block.settings.image == blank %} no-image{% endif %}" {{ block.shopify_attributes }}>
     {%- if block.settings.image != blank -%}
-      <div class="image{% if block.settings.desktop_text_box_position == 'under' %} respect{% endif %} {{ block.settings.auto_height }}">
+      <div class="image{% if block.settings.desktop_text_box_position == 'under' %} respect{% endif %}{% if block.settings.cover %} cover{% endif %} {{ block.settings.auto_height }}">
         {%- assign image = block.settings.image -%}
-        {%- if block.settings.auto_height == 'none' -%}
+        {%- if block.settings.auto_height == 'none' or block.settings.auto_height == false -%}
           <picture>
             <source srcset="{{ image | img_url: '820x', scale: 2 }} 2x, {{ image | img_url: '820x' }} 1x" media="(min-width: 1270px)" />
             <source srcset="{{ image | img_url: '600x', scale: 2 }} 2x, {{ image | img_url: '600x' }} 1x" media="(min-width: 1100px)" />

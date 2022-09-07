@@ -906,6 +906,7 @@ fieldset {
   grid-template-columns: repeat(6, minmax(0, 1fr));
   list-style-type: none;
   margin: 40px 0 0 0;
+  margin: 0;
   padding: 0;
 }
 
@@ -952,6 +953,10 @@ fieldset {
      object-fit: cover;
   height: auto;
   display: block;
+}
+
+.column .image.cover img {
+  height: 100%;
 }
 
 .column .button {
@@ -2119,6 +2124,16 @@ fieldset {
   }
 }
 
+.pt-sm {
+  padding-top: 16px;
+}
+
+@media screen and (min-width: 560px) {
+  .pt-sm {
+    padding-top: 24px;
+  }
+}
+
 .pt-m {
   padding-top: 24px;
 }
@@ -2144,12 +2159,22 @@ fieldset {
 }
 
 .pb-s {
-  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 @media screen and (min-width: 560px) {
   .pb-s {
     padding-bottom: 16px;
+  }
+}
+
+.pb-sm {
+  padding-bottom: 16px;
+}
+
+@media screen and (min-width: 560px) {
+  .pb-sm {
+    padding-bottom: 24px;
   }
 }
 
