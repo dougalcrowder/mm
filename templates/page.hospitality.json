@@ -142,25 +142,6 @@
             "subtext": ""
           }
         },
-        "1662372635bce63b35-1": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/THESWAN_BIRDS_BEES_BEDROOM_1300x1300_730cf24e-5a03-4381-abac-9478f1a0efc8.jpg",
-            "title": "",
-            "subtitle": "The Swan",
-            "subtitle_size": "medium",
-            "text": "<p>Chipping Norton, UK<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "coming soon",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
         "1bd7708e-555e-4cd8-af16-f376207ca842": {
           "type": "column",
           "settings": {
@@ -171,6 +152,25 @@
             "subtitle": "Christie's Auction",
             "subtitle_size": "small",
             "text": "<p>London<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "coming soon",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1662372635bce63b35-1": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/THESWAN_BIRDS_BEES_BEDROOM_1300x1300_730cf24e-5a03-4381-abac-9478f1a0efc8.jpg",
+            "title": "",
+            "subtitle": "The Swan",
+            "subtitle_size": "medium",
+            "text": "<p>Chipping Norton, UK<\/p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -206,8 +206,8 @@
         "a5870e5b-af92-4d96-8da9-791998a311d2",
         "7a732933-f307-4761-9515-0074b87b501a",
         "1662372635bce63b35-2",
-        "1662372635bce63b35-1",
         "1bd7708e-555e-4cd8-af16-f376207ca842",
+        "1662372635bce63b35-1",
         "f63c0514-232e-4589-9b59-64ce327fe342"
       ],
       "settings": {
