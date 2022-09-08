@@ -179,6 +179,26 @@
             "button_link": "",
             "subtext": ""
           }
+        },
+        "f63c0514-232e-4589-9b59-64ce327fe342": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/LOMAX_GOLD_FERN_1300x1300_0032fc91-4bf9-4b22-b101-e0816952d97d.jpg",
+            "title": "",
+            "subtitle": "Forbes & Lomax",
+            "subtitle_size": "medium",
+            "text": "<p>UK<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Coming soon",
+            "button_link": "",
+            "subtext": ""
+          }
         }
       },
       "block_order": [
@@ -187,7 +207,8 @@
         "7a732933-f307-4761-9515-0074b87b501a",
         "1662372635bce63b35-2",
         "1662372635bce63b35-1",
-        "1bd7708e-555e-4cd8-af16-f376207ca842"
+        "1bd7708e-555e-4cd8-af16-f376207ca842",
+        "f63c0514-232e-4589-9b59-64ce327fe342"
       ],
       "settings": {
         "mc_title": "",
