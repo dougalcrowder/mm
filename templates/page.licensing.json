@@ -87,14 +87,13 @@
         },
         "a5870e5b-af92-4d96-8da9-791998a311d2": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SOPHIEROBINSON_REVEALS_LANI_WALLPAPER_1300X1300_16482c2f-f42a-4919-8b82-d8138f1aef0e.jpg",
+            "image": "shopify:\/\/shop_images\/CABBAGES_ROSES.jpg",
             "title": "",
-            "subtitle": "Sophie Robinson's television series - reveal",
-            "subtitle_size": "small",
+            "subtitle": "Cabbages & Roses",
+            "subtitle_size": "medium",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
