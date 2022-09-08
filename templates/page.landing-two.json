@@ -388,7 +388,7 @@
         "mc_title": "",
         "show_title": false,
         "add_spacing": false,
-        "border": false,
+        "border": true,
         "margin_top": "l",
         "margin_bot": "l"
       }
