@@ -556,8 +556,9 @@
         "63d24b92-aaa1-4749-834e-c2e91ec79ff3": {
           "type": "image",
           "settings": {
-            "title": "Spot & Star * Pea Green",
-            "link": "",
+            "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_SWATCH_1200X900_68b17ef9-3fd9-42cc-a499-36d9767e792e.jpg",
+            "title": "Spot & Star Pea Green",
+            "link": "shopify:\/\/products\/wallpaper-spotstar-peagreen",
             "color_scheme": "dark_text"
           }
         },
