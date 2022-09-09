@@ -698,7 +698,7 @@
         "16619640584483b84f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL_DEERHYRSTBATHROOM_1800X900_de845711-3da9-4e61-b5e2-35ed7b03565c.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -938,10 +938,10 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FOYSLUPINK1_df6147a0-59a8-44fc-9fd4-e619d31c4b1b.jpg",
+            "image": "shopify:\/\/shop_images\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3.jpg",
             "auto_height": "none",
             "cover": false,
-            "title": "Example Moodboard",
+            "title": "",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -969,8 +969,8 @@
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
             "text_align": "left",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Explore more mood board ideas from Molly",
+            "button_link": "shopify:\/\/pages\/wallpaper-mood-boards",
             "subtext": ""
           }
         }
