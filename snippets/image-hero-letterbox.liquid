@@ -1,10 +1,10 @@
-<picture class="heroshot letterbox">
+<picture class="super-letterbox">
   <source srcset="{{ landscape_image | img_url: '1240x333', crop: 'center', format: 'pjpg' }}" media="(min-width: 1200px)" />
   <source srcset="{{ landscape_image | img_url: '1200x322', crop: 'center', format: 'pjpg' }}" media="(min-width: 1024px)" />
   <source srcset="{{ landscape_image | img_url: '1024x275', crop: 'center', format: 'pjpg' }}" media="(min-width: 880px)" />
   
-  <source srcset="{{ square_image | img_url: '880x880', crop: 'center', format: 'pjpg' }}" media="(min-width: 768px)" />
-  <source srcset="{{ square_image | img_url: '768x768', crop: 'center', format: 'pjpg' }}" media="(min-width: 480px)" />
-  <source srcset="{{ square_image | img_url: '480x480', crop: 'center', format: 'pjpg' }}" media="(min-width: 320px)" />
-  <img{% unless forloop.index == 1 %} loading="lazy"{% endunless %} class="heroshot_image lazyimage" src="{{ square_image | img_url: '320x320' }}" alt="{{ square_image.alt | escape }}" />
+  <source srcset="{{ square_image | img_url: '880x236', crop: 'center', format: 'pjpg' }}" media="(min-width: 768px)" />
+  <source srcset="{{ square_image | img_url: '768x206', crop: 'center', format: 'pjpg' }}" media="(min-width: 480px)" />
+  <source srcset="{{ square_image | img_url: '480x300', crop: 'center', format: 'pjpg' }}" media="(min-width: 320px)" />
+  <img{% unless forloop.index == 1 %} loading="lazy"{% endunless %} class="heroshot_image lazyimage" src="{{ square_image | img_url: '320x200' }}" alt="{{ square_image.alt | escape }}" width="320" height="200" />
 </picture>
