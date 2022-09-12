@@ -84,7 +84,7 @@
     "1662459560c712da85": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/GREENCOMBE_ATTIC_BEDROOM_MOBILE_d21373c7-eed6-448b-91fa-b65238eb118b.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_FERN_DEERHYRST_1800X900_d4e54199-8936-4860-8687-a551c878d469.jpg",
         "letterbox": true,
         "make_logo_white": false,
         "top_margin": false,
@@ -112,7 +112,7 @@
         "1662459645f6c4403f-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
+        "image": "shopify:\/\/shop_images\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -313,7 +313,7 @@
         "1662460822f6d48925-0": {
           "type": "heading",
           "settings": {
-            "heading": "Eco Banner",
+            "heading": "",
             "heading_type": "header2"
           }
         }
@@ -322,7 +322,7 @@
         "1662460822f6d48925-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
+        "image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -343,7 +343,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/mm_lampshades-35.jpg",
+            "image": "shopify:\/\/shop_images\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57.jpg",
             "auto_height": "portrait",
             "cover": false,
             "title": "Get Crafty",
