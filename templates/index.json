@@ -152,7 +152,8 @@
             "width": "two_thirds",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
-            "auto_height": false,
+            "auto_height": "landscape",
+            "cover": false,
             "title": "Fabric",
             "subtitle": "",
             "subtitle_size": "small",
@@ -172,7 +173,8 @@
             "width": "one_third",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/QUILT_PEGGY_PINK_LIFESTLE.jpg",
-            "auto_height": false,
+            "auto_height": "none",
+            "cover": true,
             "title": "Quilts",
             "subtitle": "",
             "subtitle_size": "small",
@@ -192,7 +194,8 @@
             "width": "one_third",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/LBBFLBUTPIN12-3_51dc0d07-0458-49b3-acb1-0f8b6f0ac839.jpg",
-            "auto_height": false,
+            "auto_height": "none",
+            "cover": true,
             "title": "Lighting",
             "subtitle": "",
             "subtitle_size": "small",
@@ -212,7 +215,8 @@
             "width": "two_thirds",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/CORALBLUE_DEERHYRST_f3fb55ab-e77c-4058-ace5-30b3dd4ca349.jpg",
-            "auto_height": false,
+            "auto_height": "landscape",
+            "cover": false,
             "title": "Wallpaper",
             "subtitle": "",
             "subtitle_size": "small",
@@ -236,7 +240,10 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "m",
+        "margin_bot": "s"
       }
     },
     "1659710052c951616a": {
@@ -276,9 +283,11 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/mmsale_banner_0edccc1a-69c4-49e8-af65-587a778c10ce.jpg",
+        "letterbox": false,
         "mobile_image": "shopify:\/\/shop_images\/SUMMERSALE_MOBILEBANNER_1300x1300_da17b9f1-295b-45ee-9694-0d47441c08f0.jpg",
         "make_logo_white": false,
         "top_margin": true,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -323,8 +332,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/269611342_313979097124189_10294121352655617_n.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -342,7 +353,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/RUG_CIRCLES_PINK_1800X900_aa1f287d-46b4-4eb5-8f35-ab9fe0b9c59c.jpg",
-            "auto_height": false,
+            "auto_height": "square",
+            "cover": false,
             "title": "",
             "subtitle": "The New Bloomsbury Rug",
             "subtitle_size": "small",
@@ -362,7 +374,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/SEAMSTRESSES_HAND_STITCHING_QUILT.jpg",
-            "auto_height": false,
+            "auto_height": "square",
+            "cover": false,
             "title": "",
             "subtitle": "The Softest Bed Quilts",
             "subtitle_size": "small",
@@ -384,7 +397,10 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "m",
+        "margin_bot": "s"
       }
     },
     "1657185355c64083f9": {
@@ -396,7 +412,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/FOREST_OYSTER_GREEN_SITTINGROOM_KEANE.jpg",
-            "auto_height": false,
+            "auto_height": "square",
+            "cover": false,
             "title": "",
             "subtitle": "Deerhyrst Collection",
             "subtitle_size": "small",
@@ -416,7 +433,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/GCGARMS-2_ea7bb47c-700a-4feb-859d-01077089cb01.jpg",
-            "auto_height": false,
+            "auto_height": "square",
+            "cover": false,
             "title": "",
             "subtitle": "Greencombe Collections",
             "subtitle_size": "small",
@@ -438,7 +456,10 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "m"
       }
     },
     "1634821627eaee293f": {
@@ -541,7 +562,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
-            "auto_height": false,
+            "auto_height": "square",
+            "cover": false,
             "title": "Workshops",
             "subtitle": "Get Creative",
             "subtitle_size": "small",
@@ -561,7 +583,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
-            "auto_height": false,
+            "auto_height": "square",
+            "cover": false,
             "title": "Printing Supplies",
             "subtitle": "For the budding Block printer",
             "subtitle_size": "small",
@@ -583,7 +606,10 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "16348163341a2e5254": {

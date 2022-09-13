@@ -1,0 +1,14 @@
+<picture class="heroshot">
+  {%- if landscape_image.width >= 1240 and landscape_image.height >= 729 -%}
+  <source srcset="{{ landscape_image | img_url: '1240x729', crop: 'center', format: 'pjpg' }}" media="(min-width: 1200px)" />
+  {%- endif -%}
+  {%- if landscape_image.width >= 1200 and landscape_image.height >= 706 -%}
+  <source srcset="{{ landscape_image | img_url: '1200x706', crop: 'center', format: 'pjpg' }}" media="(min-width: 1024px)" />
+  {%- endif -%}
+  <source srcset="{{ landscape_image | img_url: '1024x602', crop: 'center', format: 'pjpg' }}" media="(min-width: 880px)" />
+  
+  <source srcset="{{ square_image | img_url: '880x880', crop: 'center', format: 'pjpg' }}" media="(min-width: 768px)" />
+  <source srcset="{{ square_image | img_url: '768x768', crop: 'center', format: 'pjpg' }}" media="(min-width: 480px)" />
+  <source srcset="{{ square_image | img_url: '480x480', crop: 'center', format: 'pjpg' }}" media="(min-width: 320px)" />
+  <img{% unless forloop.index == 1 %} loading="lazy"{% endunless %} class="heroshot_image lazyimage" src="{{ square_image | img_url: '320x320' }}" alt="{{ square_image.alt | escape }}" width="{{ square_image.width }}" height="{{ square_image.height }}"/>
+</picture>

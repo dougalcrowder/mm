@@ -14,13 +14,19 @@
   {%- else -%}
     {%- assign square_image = section.settings.image -%}
   {%- endif -%}
-  {%- if section.settings.top_margin -%}
-    <div class="margery">
-      {% include 'image-hero' %}
-    </div>
-    {%- else -%}
+  <div class="myhero{% if section.settings.top_margin %} margery{% endif %}{% if section.settings.constrain or section.settings.letterbox %} inner{% endif %}">
+    {% if section.settings.constrain %}
+      {% if section.settings.letterbox %}
+      {% include 'image-hero-letterbox' %}
+      {% else %}
+      {% include 'image-hero-constrained' %}
+      {% endif %}
+    {% else %}
     {% include 'image-hero' %}
-  {%- endif -%}
+    {% endif %}
+   
+  </div>
+
 
   {%- endif -%}
   
@@ -38,6 +44,12 @@
       "label": "Landscape Image for Large devices"
     },
     {
+      "type": "checkbox",
+      "id": "letterbox",
+      "default": false,
+      "label": "Strip image on desktop"
+    },
+    {
       "type": "image_picker",
       "id": "mobile_image",
       "label": "Square Image for Small devices"
@@ -53,6 +65,12 @@
       "id": "top_margin",
       "default": false,
       "label": "Add a top margin"
+    },
+    {
+      "type": "checkbox",
+      "id": "constrain",
+      "default": false,
+      "label": "Constrain to same width as content"
     },
     {
       "type": "select",

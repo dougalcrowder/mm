@@ -6,80 +6,205 @@
       "settings": {
       }
     },
-    "16421993483b631460": {
-      "type": "image-banner",
+    "1662583646935a63eb": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "166195210128b91b49": {
+      "type": "2-column-text",
       "blocks": {
-        "1642199348d668b6b2-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Designer Wallpaper by British Printmaker Molly Mahon",
-            "heading_type": "header1"
-          }
-        },
-        "1642199348d668b6b2-1": {
+        "16619521000b84ba87-0": {
           "type": "text",
           "settings": {
-            "text": "Shop our collection of colourful designer wallpaper, \nexclusively designed by British printmaker, Molly Mahon. \nEthically handcrafted in the UK and India.",
-            "go_serif": false
-          }
-        },
-        "1642199348d668b6b2-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Click here to order your brochure",
-            "button_link_1": "shopify:\/\/products\/fabric-greencombe-brochure",
-            "button_style_secondary_1": true,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading": "To match or to Clash",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
           }
         }
       },
       "block_order": [
-        "1642199348d668b6b2-0",
-        "1642199348d668b6b2-1",
-        "1642199348d668b6b2-2"
+        "16619521000b84ba87-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_MOBILE_LIFE_1300x1300_e28a0169-65be-4207-a71d-c69a9505f653.jpg",
-        "make_logo_white": true,
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    },
+    "1661951966294ab962": {
+      "type": "2-column-text",
+      "blocks": {
+        "166195196658edcf74-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Why have one pattern if you can have them all? The fabulous thing about patterns is that you don’t have to limit yourself to one. Mixing prints can give a home a contemporary, energising quality - and that way you won’t have to struggle to decide!There are no rules when it comes to getting creative in the home. Clash abstract patterns with big blooming florals, or twin stripy designs with standout natural shapes such as Coral or Hawaiian themed Lani. The key is to pick complimenting colours... light blue and pale green, yellow and indigo, or bright pink and sage. If matching is more your style, pick a patterned wallpaper for each room and pull out key colours to inject into your furnishings. From towels to bedspreads, highlighting one or two shades throughout your accessories will really make your pattern pop.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "166195196658edcf74-1": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Why not take your matching designs one step further and go for the fully printed look? Matchimalism is all about embracing your favourite print and inserting it everywhere you can. Each of our interior design wallpapers have a matching fabric that turns perfectly into curtains or blinds. Pair with a set of matching cushions, a pleated lampshade or kitchen accessories such as a table cloth or tea towel for a super fun, extravagant touch.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "166195196658edcf74-0",
+        "166195196658edcf74-1"
+      ],
+      "settings": {
+        "margin_top": "s",
+        "margin_bot": "m"
+      }
+    },
+    "1662459560c712da85": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WALLPAPER_FERN_DEERHYRST_1800X900_d4e54199-8936-4860-8687-a551c878d469.jpg",
+        "letterbox": true,
+        "make_logo_white": false,
         "top_margin": false,
+        "constrain": true,
         "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "start",
-        "text_align": "left",
-        "text_box_max_width": "900",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text"
       }
     },
-    "1642200428ac6075d8": {
+    "16624596458beebd65": {
+      "type": "image-banner",
+      "blocks": {
+        "1662459645f6c4403f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Art of Block Printing",
+            "heading_type": "header1"
+          }
+        }
+      },
+      "block_order": [
+        "1662459645f6c4403f-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": true,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "dark_text"
+      }
+    },
+    "16624601935a72d91c": {
+      "type": "2-column-text",
+      "blocks": {
+        "16624601934254c4eb-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Perfect Imperfections",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "Learn more about block printing",
+            "button_link": "shopify:\/\/pages\/the-art-of-block-printing-with-molly-mahon",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "71fff75f-42c3-4fa1-95f9-2f1ad345a9ff": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Block printing is an ancient form of transferring design to cloth that goes back over 4,500 years - and we still love it today. One of the many things that drew Molly to hand block printing was the personal connection with each and every piece. The odd movement between each print of paint gives the finished product a sense of authentic energy that can’t be achieved with a machine. Like the imperfections of real life, it’s what makes it beautiful.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16624601934254c4eb-0",
+        "71fff75f-42c3-4fa1-95f9-2f1ad345a9ff"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "m"
+      }
+    },
+    "166258375996ca2554": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "l",
+        "hr": true
+      }
+    },
+    "1662478609382f904c": {
       "type": "multicolumn",
       "blocks": {
-        "16422004280af4e324-0": {
+        "166247860934ac7357-0": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": true,
+            "auto_height": "false",
+            "cover": false,
             "title": "",
-            "subtitle": "Title",
+            "subtitle": "Keeping Traditions Alive",
             "subtitle_size": "large",
-            "text": "<p>Shop our colourful collection of handcrafted designer wallpaper, exclusively designed by British printmaker, Molly Mahon, in her East Sussex studio. From intricate leaves to bees and blossoms, there’s a pattern to suit every space - each ethically made from original block prints.<\/p>",
-            "button_color": "white",
+            "text": "<p>Human connection is key to us, from the joy our designs evoke to the people responsible for their creation. We know every single artisan we work with in India and the UK - and their skills are second to none!<\/p><p>By partnering with crafts people in Jaipur, we’re able to support rich traditions that connect communities and keep the inimitable quality of handmade art alive. Each piece of block-printed cloth and paper is passed through multiple skilled hands, making it a treasured story to pass down through generations.<\/p><p>Recently we’ve experimented with another form of block printing to create our Strawberry and Bindi designs. Using surface printing, we’re able to create a wonderful, textured wallpaper with water based inks that ooze luxury and charm.<\/p>",
+            "button_color": "dark",
             "color_scheme": "dark_text",
-            "desktop_text_box_position": "end",
+            "desktop_text_box_position": "start",
             "text_align": "left",
             "button_label": "",
             "button_link": "",
             "subtext": ""
           }
         },
-        "16422004280af4e324-1": {
+        "166247860934ac7357-1": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS_baaeed55-fd64-453a-a634-df1b3be2a67c.jpg",
+            "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+            "auto_height": "portrait",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -95,173 +220,194 @@
         }
       },
       "block_order": [
-        "16422004280af4e324-0",
-        "16422004280af4e324-1"
+        "166247860934ac7357-0",
+        "166247860934ac7357-1"
       ],
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
-    "16618497380d90ac74": {
-      "type": "single-title_and_text",
+    "1662583786b9fd5625": {
+      "type": "divider",
       "settings": {
-        "title": "Explore our Best Selling Designer Wallpapers",
-        "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.<\/p>",
-        "alignment": "left"
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
       }
     },
-    "16618497599dbd86b2": {
-      "type": "simple-button",
-      "settings": {
-        "label": "Shop all designer wallpapers",
-        "link": "shopify:\/\/collections\/wallpaper",
-        "color_scheme": "dark"
-      }
-    },
-    "1661849859e0926466": {
-      "type": "instagram-grid",
+    "1662460807a5c1e07c": {
+      "type": "2-column-text",
       "blocks": {
-        "1661849858b64f9e37-0": {
-          "type": "Instalink",
+        "1662460807ec456fee-0": {
+          "type": "text",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_PEONY_PROD1_1300x1300_6987c4f8-2659-4652-9838-fe9d27f2e987.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "780263ca-4c38-4ece-b039-d88daa5e2215": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_FLOWER_PROD1_1300x1300_f880c81d-835f-436b-b694-71b262d3b5c1.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "f4e854a8-6ea4-4727-9610-8d55001696bf": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_PROD1_1300x1300_9012d0a5-be81-4419-98fa-56795c7d09b1.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "3f98f755-05be-4110-a22b-ccc8f3b793ab": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_CHERRY_PROD1_1300x1300_1d91d1ba-2a3b-4f3f-ba79-d05308957af7.jpg",
-            "author": "",
-            "link": ""
+            "heading": "Small Batch Sustainability",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
           }
         }
       },
       "block_order": [
-        "1661849858b64f9e37-0",
-        "780263ca-4c38-4ece-b039-d88daa5e2215",
-        "f4e854a8-6ea4-4727-9610-8d55001696bf",
-        "3f98f755-05be-4110-a22b-ccc8f3b793ab"
+        "1662460807ec456fee-0"
       ],
       "settings": {
-        "title": "",
-        "subtitle": "",
-        "button_label": "",
-        "button_link": ""
+        "margin_top": "l",
+        "margin_bot": "none"
       }
     },
-    "166185006250e61d34": {
+    "166246081478f8026c": {
+      "type": "2-column-text",
+      "blocks": {
+        "1662460814a3956d0c-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>We’re conscious of our impact on the environment and the mark we might make, aside from our patterned prints. So respecting how we treat our planet is just as important to us as creating joy. Every element of our business is thoroughly researched to make sure it’s the best it can be and fills us with pride - from the materials we use to the process of creation.<\/p><p>Each collection is made in small batches which allows us to focus on the details and create higher quality products. It also helps us to avoid waste whilst using water based ingredients and natural pigments where possible. We only use organic cottons and plant based fibres, ensuring your wallpaper, fabrics and furniture last for decades of fun. And every leftover snippet is used somewhere along the journey - nothing goes to waste if it doesn’t have to.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "02b27ed6-5dce-4717-a909-5d83be9fe5f2": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>When it comes to packaging, you won’t see any plastic. And whilst we’re mindful of air miles, we’ve balanced this with supporting local communities to thrive who are often under threat from bulk manufacturing. Block printing is sadly in danger due to the rise of machine-printed fabric, yet this traditional craft creates hundreds of employment opportunities and is integral to India’s culture and wellbeing.<\/p><p><strong><br\/><\/strong><a href=\"\/collections\/wallpaper\" title=\"Wallpaper\"><strong>Ready to shop? Take a look at our collection of designer wallpapers and get colourful!<\/strong><\/a><br\/><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1662460814a3956d0c-0",
+        "02b27ed6-5dce-4717-a909-5d83be9fe5f2"
+      ],
+      "settings": {
+        "margin_top": "s",
+        "margin_bot": "s"
+      }
+    },
+    "1662460822b5aebe5f": {
+      "type": "image-banner",
+      "blocks": {
+        "1662460822f6d48925-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header2"
+          }
+        }
+      },
+      "block_order": [
+        "1662460822f6d48925-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text"
+      }
+    },
+    "1662478779064ab062": {
       "type": "multicolumn",
       "blocks": {
-        "1661850061a2187548-1": {
+        "166247877914dcec3c-0": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
-            "title": "",
-            "subtitle": "Discover a World of Print, Colour and Pattern with Molly Mahon",
+            "image": "shopify:\/\/shop_images\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57.jpg",
+            "auto_height": "portrait",
+            "cover": false,
+            "title": "Get Crafty",
+            "subtitle": "",
             "subtitle_size": "large",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "subtext": ""
           }
         },
-        "1661850061a2187548-0": {
+        "166247877914dcec3c-1": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
+            "auto_height": "false",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Molly Mahon is a celebrated printmaker in the British textiles<br\/>industry whose block print originals are applied to luxury<br\/>wallpapers, quality fabrics and functional items for the<br\/>home, from napkins to oven gloves!<br\/><\/p><p>Each piece is carefully crafted by artisans in India, using<br\/>hand carved wooden blocks and premium, eco-conscious<br\/>products that combine to create a lifetime of joy. Playful<br\/>prints and vibrant colours are the essence of our designer<br\/>wallpaper patterns, available with matching material and<br\/>accessories to craft your perfect home.<br\/><\/p><p>From Boden to Anthropologie, Molly has collaborated with<br\/>an impressive feast of beloved brands and continues to<br\/>bring delight with her truly British designs, each inspired by<br\/>her love of nature and travel.<br\/><\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
+            "text": "<p>Inspired to get creative? Join Molly at one of her immersive block printing workshops and learn how to make your very own printed piece. You’ll experiment with colour, pattern and material before going home with a beautiful product to display in your home.<\/p>",
+            "button_color": "dark",
+            "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
             "text_align": "left",
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Find out more about workshops and events",
+            "button_link": "shopify:\/\/pages\/workshops-and-events",
             "subtext": ""
           }
         }
       },
       "block_order": [
-        "1661850061a2187548-1",
-        "1661850061a2187548-0"
+        "166247877914dcec3c-0",
+        "166247877914dcec3c-1"
       ],
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
-      }
-    },
-    "1661850250e66644c0": {
-      "type": "mailchimp_newsletter",
-      "blocks": {
-        "16618502506f5ea96f-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Subscribe to our emails"
-          }
-        },
-        "16618502506f5ea96f-1": {
-          "type": "paragraph",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "16618502506f5ea96f-2": {
-          "type": "email_form",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16618502506f5ea96f-0",
-        "16618502506f5ea96f-1",
-        "16618502506f5ea96f-2"
-      ],
-      "settings": {
-        "quote": "<p>Molly Mahon's designs are AWESOME SAUCE<\/p>",
-        "cite": "Sum Onetrustworthy"
+        "add_spacing": false,
+        "border": true,
+        "margin_top": "l",
+        "margin_bot": "l"
       }
     }
   },
   "order": [
     "main",
-    "16421993483b631460",
-    "1642200428ac6075d8",
-    "16618497380d90ac74",
-    "16618497599dbd86b2",
-    "1661849859e0926466",
-    "166185006250e61d34",
-    "1661850250e66644c0"
+    "1662583646935a63eb",
+    "166195210128b91b49",
+    "1661951966294ab962",
+    "1662459560c712da85",
+    "16624596458beebd65",
+    "16624601935a72d91c",
+    "166258375996ca2554",
+    "1662478609382f904c",
+    "1662583786b9fd5625",
+    "1662460807a5c1e07c",
+    "166246081478f8026c",
+    "1662460822b5aebe5f",
+    "1662478779064ab062"
   ]
 }

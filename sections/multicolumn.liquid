@@ -1,14 +1,20 @@
-<div class="multicolumn inner{% if section.settings.add_spacing %} padd_top{% endif %}">
-  {%- if section.settings.show_title -%}
-    <h3 class="h2 center">{{ section.settings.mc_title }}</h3>
-  {%- endif -%}
-  <ul class="multicolumn grid">
-    {%- for block in section.blocks -%}
-      {%- include 'multi-column' -%}
-    {%- endfor -%}
-  </ul>
+<div class="multicolumn inner{% if section.settings.add_spacing %} padd_top{% endif %} pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }}">
+  {% if section.settings.border %}
+  <div class="border">
+  {% endif %}
+    {%- if section.settings.show_title -%}
+      <h3 class="h2 center">{{ section.settings.mc_title }}</h3>
+    {%- endif -%}
+    <ul class="multicolumn grid">
+      {%- for block in section.blocks -%}
+        {%- include 'multi-column' -%}
+      {%- endfor -%}
+    </ul>
+  {% if section.settings.border %}
+  </div>
+  {% endif %}
 </div>
-
+ 
 {% schema %}
 
 {
@@ -32,6 +38,62 @@
       "id": "add_spacing",
       "default": false,
       "label": "Add extra space above"
+    },
+    {
+      "type": "checkbox",
+      "id": "border",
+      "default": false,
+      "label": "Add a big border"
+    },
+    {
+      "type": "select",
+      "id": "margin_top",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "s",
+          "label": "Small"
+        },
+        {
+          "value": "m",
+          "label": "Medium"
+        },
+        {
+          "value": "l",
+          "label": "Large"
+        }
+      ],
+      "default": "none",
+      "label": "spacing above",
+      "info": "adjust the spacing for the panel"
+    },
+    {
+      "type": "select",
+      "id": "margin_bot",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "s",
+          "label": "Small"
+        },
+        {
+          "value": "m",
+          "label": "Medium"
+        },
+        {
+          "value": "l",
+          "label": "Large"
+        }
+      ],
+      "default": "m",
+      "label": "spacing below",
+      "info": "adjust the spacing for the panel"
     }
 ],
 "blocks": [
@@ -72,9 +134,33 @@
         "label": "t:sections.multicolumn.blocks.column.settings.image.label"
       },
       {
-        "type": "checkbox",
+        "type": "select",
         "id": "auto_height",
-        "label": "removes image crop",
+        "options": [
+          {
+            "value": "landscape",
+            "label": "Landscape"
+          },
+          {
+            "value": "portrait",
+            "label": "Portrait"
+          },
+          {
+            "value": "square",
+            "label": "Square"
+          },
+          {
+            "value": "none",
+            "label": "Original image ratio"
+          }
+        ],
+        "default": "none",
+        "label": "Image Aspect Ratio"
+      },
+      {
+        "type": "checkbox",
+        "id": "cover",
+        "label": "make image fill the available space",
         "default": false
       },
       {
@@ -93,6 +179,10 @@
         "type": "select",
         "id": "subtitle_size",
         "options": [
+          {
+            "value": "extrasmall",
+            "label": "Extra Small"
+          },
           {
             "value": "small",
             "label": "Small"

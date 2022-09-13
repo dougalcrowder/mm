@@ -1,0 +1,23 @@
+{%- if section.settings.code != blank -%}
+  {{ section.settings.code }}
+{%- endif -%}
+
+
+{% schema %}
+{
+  "name": "Code",
+  "tag": "section",
+  "settings": [
+    {
+      "type": "liquid",
+      "id": "code",
+      "label": "Code"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Code"
+    }
+  ]
+}
+{% endschema %}

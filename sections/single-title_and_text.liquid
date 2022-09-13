@@ -1,6 +1,8 @@
-<div class="text {{ section.settings.alignment }}">
+
+<div class="flex justify-{{ section.settings.vertical_alignment }} align-{{ section.settings.alignment }}">
+<div class="text color-{{ section.settings.color_scheme }} inset">
   {%- if section.settings.title != blank -%}
-  <h2>{{ section.settings.title }}</h2>
+  <h2 class="{{ section.settings.heading_size }}">{{ section.settings.title }}</h2>
   {%- endif -%}
   {%- if section.settings.text != blank -%}
   <div class="rte">
@@ -8,12 +10,13 @@
   </div>
   {%- endif -%}
 </div>
+</div>
 
 {% schema %}
 {
   "name": "Title and Text",
   "tag": "section",
-  "class": "text inner narrow",
+  "class": "text inner",
   "settings": [
     {
     "type": "text",
@@ -22,10 +25,50 @@
     "label": "Title"
     },
     {
+      "type": "select",
+      "id": "heading_size",
+      "options": [
+        {
+          "value": "small",
+          "label": "Small"
+        },
+        {
+          "value": "medium",
+          "label": "Medium"
+        },
+        {
+          "value": "large",
+          "label": "Large"
+        }
+      ],
+      "default": "medium",
+      "label": "Header Size"
+    },
+    {
     "type": "richtext",
     "id": "text",
     "default": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
     "label": "Text"
+    },
+    {
+    "type": "select",
+    "id": "vertical_alignment",
+    "options": [
+        {
+          "value": "start",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Centre"
+        },
+        {
+          "value": "end",
+          "label": "Right"
+        }
+      ],
+      "default": "center",
+      "label": "Text Block Position on desktop"
     },
     {
     "type": "select",
@@ -45,7 +88,32 @@
         }
       ],
       "default": "center",
-      "label": "Text Alignment"
+      "label": "Text Justification"
+    },
+    {
+      "type": "select",
+      "id": "color_scheme",
+      "options": [
+        {
+          "value": "white_text",
+          "label": "white text"
+        },
+        {
+          "value": "red_text",
+          "label": "Red Text"
+        },
+        {
+          "value": "dark_text",
+          "label": "Dark Text"
+        },
+        {
+          "value": "blue_text",
+          "label": "Blue Text"
+        }
+      ],
+      "default": "red_text",
+      "label": "t:sections.image-banner.settings.color_scheme.label",
+      "info": "t:sections.image-banner.settings.color_scheme.info"
     }
   ],
   "presets": [
