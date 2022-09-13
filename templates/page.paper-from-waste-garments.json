@@ -198,7 +198,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Back to Craftsmanship",
-        "link": "shopify:\/\/pages\/craftsmanship",
+        "link": "shopify:\/\/blogs\/craftsmanship",
         "color_scheme": "dark"
       }
     }
