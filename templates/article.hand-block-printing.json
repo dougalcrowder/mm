@@ -89,6 +89,7 @@
     },
     "166213410581340c6d": {
       "type": "mm_nav",
+      "disabled": true,
       "settings": {
       }
     },
@@ -209,6 +210,44 @@
         "color_scheme": "white_text"
       }
     },
+    "16630674257f7d7888": {
+      "type": "image-with-text",
+      "blocks": {
+        "166306742534a56c4d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Block carving in India"
+          }
+        },
+        "166306742534a56c4d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Is an art in itself! This is my passion seeing my designs come alive through this hands on process and the skill of other artisans.<\/p>"
+          }
+        },
+        "166306742534a56c4d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166306742534a56c4d-0",
+        "166306742534a56c4d-1",
+        "166306742534a56c4d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MM_INDIA_BLOCK_CARVER.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
     "1657788484c1ce8251": {
       "type": "image-with-text",
       "blocks": {
@@ -251,7 +290,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Discover more about our Craftsmanship",
-        "link": "shopify:\/\/pages\/craftsmanship",
+        "link": "shopify:\/\/blogs\/craftsmanship",
         "color_scheme": "dark"
       }
     },
@@ -322,6 +361,7 @@
     "1657730156eeff869f",
     "16620529066687c736",
     "1657730380748266d7",
+    "16630674257f7d7888",
     "1657788484c1ce8251",
     "1657807750e4739f83",
     "166205336832864fa7",

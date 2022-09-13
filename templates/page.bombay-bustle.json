@@ -232,7 +232,7 @@
         "1662389758409db467-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FOYSLUPINK1_df6147a0-59a8-44fc-9fd4-e619d31c4b1b.jpg",
+        "image": "shopify:\/\/shop_images\/FOYSLUPINK10.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -292,7 +292,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Back to Hospitality",
-        "link": "",
+        "link": "shopify:\/\/pages\/hospitality",
         "color_scheme": "dark"
       }
     }

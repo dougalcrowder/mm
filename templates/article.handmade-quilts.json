@@ -89,6 +89,7 @@
     },
     "16621341621a411ecc": {
       "type": "mm_nav",
+      "disabled": true,
       "settings": {
       }
     },

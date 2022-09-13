@@ -47,14 +47,14 @@
         "1657730007a25f7230-0": {
           "type": "heading",
           "settings": {
-            "heading": "Surface Printing",
+            "heading": "Paper handmade from Waste Garments",
             "heading_type": "header1"
           }
         },
         "1657730007a25f7230-1": {
           "type": "text",
           "settings": {
-            "text": "An age old technique brought to the machine world",
+            "text": "",
             "go_serif": true
           }
         },
@@ -76,7 +76,7 @@
         "1657730007a25f7230-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_SURFACEPRINT_STRAWBERRY_FOLDING_1800x900_d1aa69bd-2bc1-4904-9d29-c8c2d659147b.jpg",
+        "image": "shopify:\/\/shop_images\/JOTTER_GARMENT_PAPER_1800x900_ef9bc05f-ad97-47bb-8739-b78d62181957.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -91,8 +91,46 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "",
-        "text": "<p>The heritage technique of surface printing is unique and gives a luxurious, tactile finish and feels closer to the beautiful craft of block printing, and how wallpaper used to be made.<\/p>",
+        "text": "<p>Making paper out of cotton waste garments is a technique that has been used in India and around the world for decades and the quality of the paper is perfect for the creative artist and the journal keeper.  <\/p>",
         "alignment": "center"
+      }
+    },
+    "1657788484c1ce8251": {
+      "type": "image-with-text",
+      "blocks": {
+        "16577884832ae4f504-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cotton Garment Pulp"
+          }
+        },
+        "16577884832ae4f504-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nothing goes to waste! Here the cutting waste from the fashion industry is pulped so it is ready to be made into paper.<\/p>"
+          }
+        },
+        "16577884832ae4f504-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16577884832ae4f504-0",
+        "16577884832ae4f504-1",
+        "16577884832ae4f504-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_PULP_1300X1300_a72be225-c4c9-4575-9baf-3e4c70e29aef.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
       }
     },
     "1657730156eeff869f": {
@@ -103,9 +141,9 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_BINDI_PORTRAIT_1300x1300_f5d30fc5-ce41-4f6e-a841-89bb90dfb39d.jpg",
+            "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_WASTE_1300X1300_1c7cde28-524a-4802-891d-79ab3683032d.jpg",
             "title": "",
-            "subtitle": "",
+            "subtitle": "Cutting waste from the fashion industry",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
@@ -122,9 +160,9 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_STRAWBERRY_PRINTING_1300X1300_35f51d0f-607b-4d6e-830f-bba110ac9ee6.jpg",
+            "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_PAPER_MAKING_1300X1300_868ba0b8-bd26-4386-8b82-228566e7301b.jpg",
             "title": "",
-            "subtitle": "",
+            "subtitle": "The mixing process to creating cotton paper",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
@@ -136,37 +174,37 @@
             "subtext": ""
           }
         },
-        "9c616d7c-bfc5-45c2-8027-c20992bc5b4d": {
-          "type": "column",
-          "settings": {
-            "width": "two_thirds",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/BLOG_SURFACEPRINT_BINDI_PRINT_ROLLER_BLOCK_09.jpg",
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "d2427bde-cdda-47e2-96f8-970ba804c589": {
+        "a233fcdc-6d71-41f2-b415-654d1795cbc5": {
           "type": "column",
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_BINDI_PRINTING_1300X1300_c519be8d-3f38-4ee7-bf6b-d754939d3696.jpg",
+            "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_PRESSING_1300X1300_d4f9c68d-67ea-4d5c-a6d5-7c16ec86d2ae.jpg",
             "title": "",
-            "subtitle": "",
+            "subtitle": "The pressing process",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "2519d09c-29f4-4181-ace3-7ef1ad8a6015": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_PAPER_2600X1300_2d020e97-f02a-46aa-b049-cb013eb2fedd.jpg",
+            "title": "",
+            "subtitle": "The finished cotton paper sheets",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
@@ -178,90 +216,21 @@
       "block_order": [
         "1657730156412eb3fd-0",
         "1657730156412eb3fd-1",
-        "9c616d7c-bfc5-45c2-8027-c20992bc5b4d",
-        "d2427bde-cdda-47e2-96f8-970ba804c589"
+        "a233fcdc-6d71-41f2-b415-654d1795cbc5",
+        "2519d09c-29f4-4181-ace3-7ef1ad8a6015"
       ],
       "settings": {
         "mc_title": "",
         "show_title": false,
         "add_spacing": false
-      }
-    },
-    "16620529066687c736": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "",
-        "text": "<p>The first surface-printing machine was invented in 1838, in Lancashire, which is still the centre of British wallpaper today, and also where our new designs are being printed - on those very same machines. <\/p><p>The technique copies the same process as hand block printing, by the roller block pulling the paint from the felt that is soaked in the water based printing ink.  It then rolls onto the paper in all its circular magic.  It’s absolutely mesmerising to watch.<\/p><p>Each colour has a different rubber roller, and they’ll all be going at once, layering on the different colours one after the other. <\/p>",
-        "alignment": "center"
-      }
-    },
-    "1663084331c1038c46": {
-      "type": "multicolumn",
-      "blocks": {
-        "1663084331246d9cc7-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_BINDI_DEERHYRST_1300x1300_f3eb2ae0-06d7-45bf-b332-9ff78279a9f3.jpg",
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Bindi Wallpaper",
-            "button_link": "shopify:\/\/products\/wallpaper-bindi-blue",
-            "subtext": ""
-          }
-        },
-        "1663084331246d9cc7-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_STRAWBERRY_COTTROOM_1300X1300_fa0a7946-6c00-4c25-b11f-432e78f4a594.jpg",
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Strawberry Wallpaper",
-            "button_link": "shopify:\/\/products\/wallpaper-strawberry-grass",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "1663084331246d9cc7-0",
-        "1663084331246d9cc7-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false
-      }
-    },
-    "16630853350fec4243": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "Outstanding Prints",
-        "text": "<p>When it's up on your wall, the paper - now textured with paint - gives the design more of an energy, a depth. And thanks to the tiny variations in how the paint lands on the paper, the result looks more like it might have been hand block printed - it has a beautifully nostalgic feel. <\/p>",
-        "alignment": "center"
       }
     },
     "164975103076740208": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
-        "title": "Shop hand block printed fabric",
-        "collection": "hand-block-printed-fabric",
-        "products_to_show": 12,
+        "title": "Shop Journals & Jotters",
+        "collection": "journals-jotters",
+        "products_to_show": 6,
         "show_view_all": true,
         "show_secondary_image": false
       }
@@ -269,8 +238,8 @@
     "1657807750e4739f83": {
       "type": "simple-button",
       "settings": {
-        "label": "Explore more of Craftsmanship",
-        "link": "shopify:\/\/blogs\/craftsmanship",
+        "label": "Back to Craftsmanship",
+        "link": "shopify:\/\/pages\/craftsmanship",
         "color_scheme": "red"
       }
     }
@@ -279,10 +248,8 @@
     "main",
     "16577300071f976c5e",
     "1662051804a5f184e4",
+    "1657788484c1ce8251",
     "1657730156eeff869f",
-    "16620529066687c736",
-    "1663084331c1038c46",
-    "16630853350fec4243",
     "164975103076740208",
     "1657807750e4739f83"
   ]
