@@ -89,6 +89,7 @@
     },
     "166213410581340c6d": {
       "type": "mm_nav",
+      "disabled": true,
       "settings": {
       }
     },
@@ -251,7 +252,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Discover more about our Craftsmanship",
-        "link": "shopify:\/\/pages\/craftsmanship",
+        "link": "shopify:\/\/blogs\/craftsmanship",
         "color_scheme": "dark"
       }
     },
