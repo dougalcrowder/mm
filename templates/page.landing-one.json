@@ -414,6 +414,15 @@
             "link": "shopify:\/\/products\/wallpaper-birdsbees-blue",
             "color_scheme": "dark_text"
           }
+        },
+        "b2c9aaa4-7822-482e-ad0c-35d58a355e55": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
+            "title": "Spot & Star Denim",
+            "link": "shopify:\/\/products\/wallpaper-spotstar-denim",
+            "color_scheme": "dark_text"
+          }
         }
       },
       "block_order": [
@@ -422,7 +431,8 @@
         "985db019-352d-4d21-9b79-825eacd805f9",
         "c8053bd5-35af-4c35-af46-24bb286cd53d",
         "81d6ecdf-6022-4d32-bd67-0bb39128c5a2",
-        "319622a2-fefb-4e50-aaf1-5369cbeede0b"
+        "319622a2-fefb-4e50-aaf1-5369cbeede0b",
+        "b2c9aaa4-7822-482e-ad0c-35d58a355e55"
       ],
       "settings": {
         "background": "#90bbe4",
