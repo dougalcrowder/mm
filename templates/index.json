@@ -93,56 +93,6 @@
         "color_scheme": "red_text"
       }
     },
-    "1657184159fa326193": {
-      "type": "instagram-grid",
-      "disabled": true,
-      "blocks": {
-        "2083da8c-9e54-4ca2-a9f0-cd5d1ff98534": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_FLOWER_LIFE_1300x1300_81635d70-75be-4163-8f10-86cd39698680.jpg",
-            "author": "",
-            "link": "shopify:\/\/collections\/new-table-linen"
-          }
-        },
-        "5517a185-f119-458f-803a-f5b1a7a02b63": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_CHERRY_LIFE_1300x1300_2c657c92-b67e-4d65-9a1f-844d47bae46f.jpg",
-            "author": "",
-            "link": "shopify:\/\/collections\/new-table-linen"
-          }
-        },
-        "1657184159371987b0-0": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_PEONY_LIFE_1300x1300_e2f80140-880f-483b-b5d1-b177eea1a5e2.jpg",
-            "author": "",
-            "link": "shopify:\/\/collections\/new-table-linen"
-          }
-        },
-        "ef674c23-71e1-4620-8d7d-48384d89fb1a": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_LIFE_1300x1300_ad0a7c79-7f6c-44a6-b39f-6908213670d4.jpg",
-            "author": "",
-            "link": "shopify:\/\/collections\/new-table-linen"
-          }
-        }
-      },
-      "block_order": [
-        "2083da8c-9e54-4ca2-a9f0-cd5d1ff98534",
-        "5517a185-f119-458f-803a-f5b1a7a02b63",
-        "1657184159371987b0-0",
-        "ef674c23-71e1-4620-8d7d-48384d89fb1a"
-      ],
-      "settings": {
-        "title": "",
-        "subtitle": "",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
     "163481963822b4d1b3": {
       "type": "multicolumn",
       "blocks": {
@@ -172,7 +122,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_PINK_LIFESTLE.jpg",
+            "image": "shopify:\/\/shop_images\/quilt_marwari_horse_flowerfactory_1000x1500_1f357871-2ae0-4f9f-8cb6-f7ea2f9b27e3.jpg",
             "auto_height": "none",
             "cover": true,
             "title": "Quilts",
@@ -193,7 +143,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/LBBFLBUTPIN12-3_51dc0d07-0458-49b3-acb1-0f8b6f0ac839.jpg",
+            "image": "shopify:\/\/shop_images\/lighting_flirtsquirt_strawberry_stem_pink_1000x1500_68338a2d-4040-467d-8507-54781b44495d.jpg",
             "auto_height": "none",
             "cover": true,
             "title": "Lighting",
@@ -202,7 +152,7 @@
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
-            "desktop_text_box_position": "start",
+            "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "Shop Lighting",
             "button_link": "shopify:\/\/collections\/lighting",
@@ -214,7 +164,7 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/CORALBLUE_DEERHYRST_f3fb55ab-e77c-4058-ace5-30b3dd4ca349.jpg",
+            "image": "shopify:\/\/shop_images\/wallpaper_fern_deerhyrst_tent_2600x1300_0f84c3ba-cc3d-4c06-b63f-6477048e8d28.jpg",
             "auto_height": "landscape",
             "cover": false,
             "title": "Wallpaper",
@@ -222,7 +172,7 @@
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "red_text",
+            "color_scheme": "white_text",
             "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "View all",
@@ -730,7 +680,6 @@
   "order": [
     "16352843092374a33e",
     "16348194267fffd3c9",
-    "1657184159fa326193",
     "163481963822b4d1b3",
     "1659710052c951616a",
     "1657125172969e3f3f",
