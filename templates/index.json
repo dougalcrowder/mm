@@ -284,8 +284,8 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Shop Quilts",
-            "button_link": "shopify:\/\/collections\/bedding-1",
+            "button_label": "Discover more",
+            "button_link": "shopify:\/\/blogs\/craftsmanship\/handmade-quilts",
             "subtext": ""
           }
         }
