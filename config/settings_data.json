@@ -265,8 +265,8 @@
               "link1": "shopify:\/\/collections\/new-table-linen",
               "label2": "New Rug",
               "link2": "shopify:\/\/collections\/new-rug",
-              "label3": "",
-              "link3": "",
+              "label3": "Christmas Edit",
+              "link3": "shopify:\/\/collections\/christmas-edit",
               "label4": "",
               "link4": ""
             }
@@ -438,6 +438,8 @@
               "width": "one_third",
               "narrow": false,
               "image": "shopify:\/\/shop_images\/MM_FABRIC_WASHING_LIFE_1300x1300_bbc873a8-e257-4513-8af1-cf98061be49a.jpg",
+              "auto_height": "none",
+              "cover": false,
               "title": "Our Journal",
               "subtitle": "Discover what Molly has been up too...",
               "subtitle_size": "small",
@@ -458,6 +460,8 @@
               "width": "one_third",
               "narrow": false,
               "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
+              "auto_height": "none",
+              "cover": false,
               "title": "Column",
               "subtitle": "Under the stars in style",
               "subtitle_size": "small",
@@ -478,6 +482,8 @@
               "width": "one_third",
               "narrow": false,
               "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+              "auto_height": "none",
+              "cover": false,
               "title": "Column",
               "subtitle": "Under the stars in style",
               "subtitle_size": "small",
@@ -500,7 +506,10 @@
         "settings": {
           "mc_title": "",
           "show_title": false,
-          "add_spacing": false
+          "add_spacing": false,
+          "border": false,
+          "margin_top": "none",
+          "margin_bot": "m"
         }
       }
     },
