@@ -196,56 +196,6 @@
         "margin_bot": "s"
       }
     },
-    "1659710052c951616a": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "16597100523beda7b8-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_type": "header1"
-          }
-        },
-        "16597100523beda7b8-1": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "go_serif": false
-          }
-        },
-        "16597100523beda7b8-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Here",
-            "button_link_1": "shopify:\/\/collections\/summer-sale",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16597100523beda7b8-0",
-        "16597100523beda7b8-1",
-        "16597100523beda7b8-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/mmsale_banner_0edccc1a-69c4-49e8-af65-587a778c10ce.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/SUMMERSALE_MOBILEBANNER_1300x1300_da17b9f1-295b-45ee-9694-0d47441c08f0.jpg",
-        "make_logo_white": false,
-        "top_margin": true,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "blue_text"
-      }
-    },
     "1657125172969e3f3f": {
       "type": "image-banner",
       "blocks": {
@@ -302,7 +252,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/RUG_CIRCLES_PINK_1800X900_aa1f287d-46b4-4eb5-8f35-ab9fe0b9c59c.jpg",
+            "image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_3.jpg",
             "auto_height": "square",
             "cover": false,
             "title": "",
@@ -681,7 +631,6 @@
     "16352843092374a33e",
     "16348194267fffd3c9",
     "163481963822b4d1b3",
-    "1659710052c951616a",
     "1657125172969e3f3f",
     "16571921305b28430e",
     "1657185355c64083f9",
