@@ -77,7 +77,7 @@
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_1800x1000_0569705d-4963-4d04-89f2-6748f90c3e92.jpg",
+        "image": "shopify:\/\/shop_images\/fabric_isabella_pink_deerhyrst_sofa_1800x1000_5af6ce9c-b244-4ab9-84e3-c2333611c650.jpg",
         "square_image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_MODILE_1300x1300_84ecfc8d-1e30-4193-bfc7-5162487c591b.jpg",
         "make_logo_white": false,
         "title": "MAKE YOURSELF AT HOME",
@@ -87,7 +87,7 @@
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>Indian Summer Table Linen<\/p>",
+        "title": "<p>Feels like Autumn<\/p>",
         "link": "shopify:\/\/collections\/new-table-linen",
         "bg_pattern": "pattern_01",
         "color_scheme": "red_text"
@@ -151,7 +151,7 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
+            "image": "shopify:\/\/shop_images\/fabric_tulip_greencombe_curtain_1300x1300_9735fbfe-e7f2-44b2-8b8f-b520e0384edf.jpg",
             "auto_height": "landscape",
             "cover": false,
             "title": "Fabric",
@@ -159,7 +159,7 @@
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "white_text",
+            "color_scheme": "dark_text",
             "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "View all",
