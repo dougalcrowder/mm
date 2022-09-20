@@ -52,7 +52,7 @@
         "text_align": "left",
         "text_box_max_width": "900",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "blue_text"
       }
     },
     "1642200428ac6075d8": {
@@ -355,7 +355,7 @@
           "settings": {
             "heading": "Blue Hues",
             "heading_size": "medium",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "button_label": "Shop all blue designer wallpapers",
             "button_link": "shopify:\/\/collections\/wallpaper",
             "inset": true,
@@ -934,7 +934,7 @@
         "cite": "",
         "bg": "none",
         "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
-        "heading_size": "medium",
+        "heading_size": "large",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "white_text"
