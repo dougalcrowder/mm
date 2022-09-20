@@ -7,7 +7,7 @@
             <span>{{ block.settings.heading | escape }}</span>
           </h2>
         {%- when 'text' -%}
-          <div class="text{% if block.settings.go_serif %} large serif{% endif %}" {{ block.shopify_attributes }}> 
+          <div class="text{% if block.settings.go_serif %} large serif{% endif %}{% if block.settings.constrain_text %} constrain_text{% endif %}" {{ block.shopify_attributes }}> 
             <span>{{ block.settings.text }}</span>
           </div>
           {%- when 'link' -%}
