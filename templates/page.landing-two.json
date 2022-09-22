@@ -6,12 +6,169 @@
       "settings": {
       }
     },
+    "1663848843f7b405b3": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "l",
+        "hr": true
+      }
+    },
+    "16638488395105d119": {
+      "type": "2-column-text",
+      "blocks": {
+        "16638488395ab74f90-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Making a House a Colourful Home",
+            "heading_size": "large",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16638488395ab74f90-0"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    },
+    "166384890286d7e330": {
+      "type": "2-column-text",
+      "blocks": {
+        "1663848901f2345316-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "b3ea4ea2-f724-4cc1-ba52-75f3617082bd": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home to.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1663848901f2345316-0",
+        "b3ea4ea2-f724-4cc1-ba52-75f3617082bd"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "s"
+      }
+    },
+    "1663848964e69d2817": {
+      "type": "simple_quote",
+      "settings": {
+        "quote": "<p><em>\"Real homes are not showrooms or magazine ready rooms. Real homes are spaces to be comfortable and relaxed in.\" - Molly Mahon<\/em><\/p>",
+        "cite": "",
+        "bg": "none",
+        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "heading_size": "large",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "white_text",
+        "bg_color_scheme": "darken",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "1663849157a1e59ca1": {
+      "type": "multicolumn",
+      "blocks": {
+        "16638491573dc0b7e1-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "16638491573dc0b7e1-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": true,
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "<p>Light up your living room with a roll of <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-birdsbees-peagreen\">Birds & Bees<\/a>, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-tree-green\">Tree<\/a><em> <\/em>pattern inspired by Molly’s local forest.<\/p><p>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our <a href=\"https:\/\/mollymahon.com\/pages\/fabric-mood-boards\">Mood Boards<\/a> for more printspiration and dare to be adventurous!<\/p>",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left",
+            "button_label": "Explore more mood board ideas from Molly",
+            "button_link": "shopify:\/\/pages\/wallpaper-mood-boards",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "16638491573dc0b7e1-0",
+        "16638491573dc0b7e1-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "m",
+        "margin_bot": "l"
+      }
+    },
     "1662583646935a63eb": {
       "type": "divider",
       "settings": {
         "margin_top": "m",
         "margin_bot": "m",
         "hr": true
+      }
+    },
+    "16638491601531a041": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "l",
+        "hr": false
       }
     },
     "166195210128b91b49": {
@@ -94,7 +251,9 @@
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     },
     "16624596458beebd65": {
@@ -115,14 +274,16 @@
         "image": "shopify:\/\/shop_images\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a.jpg",
         "letterbox": false,
         "make_logo_white": false,
-        "top_margin": true,
+        "top_margin": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "dark_text"
+        "color_scheme": "dark_text",
+        "margin_top": "l",
+        "margin_bot": "none"
       }
     },
     "16624601935a72d91c": {
@@ -324,7 +485,9 @@
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     },
     "1662478779064ab062": {
@@ -388,7 +551,13 @@
   },
   "order": [
     "main",
+    "1663848843f7b405b3",
+    "16638488395105d119",
+    "166384890286d7e330",
+    "1663848964e69d2817",
+    "1663849157a1e59ca1",
     "1662583646935a63eb",
+    "16638491601531a041",
     "166195210128b91b49",
     "1661951966294ab962",
     "1662459560c712da85",
