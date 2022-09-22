@@ -223,7 +223,7 @@
         "color_scheme": "white_text",
         "bg_color_scheme": "none",
         "margin_top": "none",
-        "margin_bot": "none"
+        "margin_bot": "l"
       }
     },
     "16619593053301a27e": {
@@ -719,7 +719,7 @@
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
-        "constrain": false,
+        "constrain": true,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -727,7 +727,7 @@
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "none",
-        "margin_bot": "l"
+        "margin_bot": "m"
       }
     },
     "1661964300e29a69df": {
