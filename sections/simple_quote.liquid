@@ -18,7 +18,7 @@
       {% if section.settings.image != blank %}
       <div class="absolute">
       {% endif %}
-        <div class="flex inner vertical-{{ section.settings.desktop_text_box_position }} align-{{ section.settings.text_align }} color-{{ section.settings.color_scheme }}">
+        <div class="flex inner bg-{{ section.settings.bg_color_scheme }}  vertical-{{ section.settings.desktop_text_box_position }} align-{{ section.settings.text_align }} color-{{ section.settings.color_scheme }}">
         <div class="quote">
           <blockquote class="color-{{ section.settings.color_scheme }} text-{{ section.settings.heading_size }}">
             {{ section.settings.quote }}
@@ -175,6 +175,26 @@
       "default": "white_text",
       "label": "t:sections.image-banner.settings.color_scheme.label",
       "info": "t:sections.image-banner.settings.color_scheme.info"
+    },
+    {
+      "type": "select",
+      "id": "bg_color_scheme",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "darken",
+          "label": "Darken"
+        },
+        {
+          "value": "lighten",
+          "label": "Lighten"
+        }
+      ],
+      "default": "none",
+      "label": "Text and image background adjust"
     }
   ],
   "presets": [

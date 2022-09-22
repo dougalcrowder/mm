@@ -24,19 +24,23 @@
     {%- endfor -%}
 </div>
 <div class="slides">
-  <div class="slides_title inner color-dark_text">
+  <div class="slides_title inner color-white_text">
   <strong>{{ section.settings.slides_title }}</strong>
   </div>
+  {% comment %}
   {%- assign owmuch = 0 -%}
   {%- for block in section.blocks -%}
   {% case block.type %}
   {%- when 'image' -%}
   {% assign owmuch = owmuch | plus:1 %}
-  {% assign outside = 94 | times: owmuch %}
+  {% assign outside = 75 | times: owmuch %}
   {%- endcase -%}
   {%- endfor -%}
+  {% endcomment %}
+  
   <div class="slideshow">
-    <div class="carousel flex" style="width:{{outside}}%">
+    {% comment %}
+    <div id="shlide{{ block.id }}" class="carousel flex" style="width:{{outside}}%">
   {%- for block in section.blocks -%}
   {% case block.type %}
   {%- when 'image' -%}
@@ -71,6 +75,68 @@
   {%- endcase -%}
   {%- endfor -%}
   </div>
+    {% endcomment %}
+    <div class="swiffy-slider slider-item-reveal slider-item-nogap slider-nav-scrollbar slider-nav-visible slider-indicators-round slider-nav-animation slider-nav-animation-fadein">
+      <ul class="slider-container carousel">
+        {%- for block in section.blocks -%}
+        {% case block.type %}
+        {%- when 'image' -%}
+      <li class="slide-image">
+          <div id="slide{{ forloop.index }}">
+            {%- if block.settings.link != blank -%}
+            <a href="{{ block.settings.link }}" alt="{{ block.settings.title }}">
+            {%- endif -%}
+            
+            {%- if block.settings.image != blank -%}
+            
+            {%- assign landscape_image = block.settings.image -%} 
+              
+            {%- if block.settings.mobile_image != blank -%}
+              {%- assign square_image = block.settings.mobile_image -%}
+            {%- else -%}
+              {%- assign square_image = block.settings.image -%}
+            {%- endif -%}
+            
+            <picture class="heroshot">
+              {%- if landscape_image.width >= 1240 and landscape_image.height >= 640 -%}
+              <source srcset="{{ landscape_image | img_url: '1240x640', crop: 'center', format: 'pjpg' }}" media="(min-width: 1800px)" />
+              {%- endif -%}
+              {%- if landscape_image.width >= 1680 and landscape_image.height >= 867 -%}
+              <source srcset="{{ landscape_image | img_url: '1680x867', crop: 'center', format: 'pjpg' }}" media="(min-width: 1440px)" />
+              {%- endif -%}
+              {%- if landscape_image.width >= 1240 and landscape_image.height >= 640 -%}
+              <source srcset="{{ landscape_image | img_url: '1240x640', crop: 'center', format: 'pjpg' }}" media="(min-width: 1200px)" />
+              {%- endif -%}
+              {%- if landscape_image.width >= 1200 and landscape_image.height >= 620 -%}
+              <source srcset="{{ landscape_image | img_url: '1200x620', crop: 'center', format: 'pjpg' }}" media="(min-width: 1024px)" />
+              {%- endif -%}
+              <source srcset="{{ landscape_image | img_url: '1024x528', crop: 'center', format: 'pjpg' }}" media="(min-width: 880px)" />
+              
+              <source srcset="{{ square_image | img_url: '880x586', crop: 'center', format: 'pjpg' }}" media="(min-width: 768px)" />
+              <source srcset="{{ square_image | img_url: '768x512', crop: 'center', format: 'pjpg' }}" media="(min-width: 480px)" />
+              <source srcset="{{ square_image | img_url: '480x320', crop: 'center', format: 'pjpg' }}" media="(min-width: 320px)" />
+              <img{% unless forloop.index == 1 %} loading="lazy"{% endunless %} class="heroshot_image lazyimage" src="{{ square_image | img_url: '320x213' }}" alt="{{ square_image.alt | escape }}" width="{{ square_image.width }}" height="{{ square_image.height }}"/>
+            </picture>
+            
+            {%- endif -%}
+            
+            {%- if block.settings.title != blank -%}
+            <div class="caption flex color-dark_text">
+              <span class="h0">{{ block.settings.title }}</span>
+            </div>
+            {%- endif -%}
+            
+            {%- if block.settings.link != blank -%}
+            </a>
+            {%- endif -%}
+          </div>
+      </li>
+      {%- endcase -%}
+      {%- endfor -%}
+      </ul>
+      <button type="button" class="slider-nav"></button>
+      <button type="button" class="slider-nav slider-nav-next"></button>
+    </div>
   </div> 
 </div>
 </div>
