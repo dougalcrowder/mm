@@ -20,7 +20,8 @@
           "type": "text",
           "settings": {
             "text": "Shop our collection of colourful designer wallpaper, \nexclusively designed by British printmaker, Molly Mahon. \nEthically handcrafted in the UK and India.",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "1642199348d668b6b2-2": {
@@ -189,7 +190,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Molly Mahon is a celebrated printmaker in the British textiles industry whose block print originals are applied to luxury wallpapers, quality fabrics and functional items for the home, from napkins to oven gloves!<\/p><p>Each piece is carefully crafted by artisans in India, using hand carved wooden blocks and premium, eco conscious products that combine to create a lifetime of joy. Playful prints and vibrant colours are the essence of our designer wallpaper patterns, available with matching material and accessories to craft your perfect home.<\/p><p>From Boden to Anthropologie, Molly has collaborated with an impressive feast of beloved brands and continues to bring delight with her truly British designs, each inspired by her love of nature and travel.<\/p>",
+            "text": "<p>Molly Mahon is a celebrated printmaker in the British textiles industry whose block print originals are applied to luxury wallpapers, quality <a href=\"\/collections\/fabric\" title=\"Fabric\">fabrics<\/a> and functional items for the home, from napkins to oven gloves!<\/p><p>Each piece is carefully crafted by artisans in India, using hand carved wooden blocks and premium, eco conscious products that combine to create a lifetime of joy. Playful prints and vibrant colours are the essence of our designer wallpaper patterns, available with matching material and accessories to craft your perfect home.<\/p><p>From <a href=\"\/pages\/boden-molly-mahon\" title=\"Boden\">Boden<\/a> to <a href=\"\/pages\/anthropologie-craft-week-molly-mahon\" title=\"Anthropologie\">Anthropologie<\/a>, Molly has collaborated with an impressive feast of beloved brands and continues to bring delight with her truly British designs, each inspired by her love of nature and travel.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -217,7 +218,8 @@
         "heading_size": "medium",
         "vertical_alignment": "center",
         "alignment": "center",
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "bg_color_scheme": "none"
       }
     },
     "16619593053301a27e": {
@@ -254,7 +256,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Humans have expressed themselves through colour and pattern for centuries. And we’re no different at Molly Mahon. Each hand block printed wallpaper is thoughtfully designed to elevate your home and bring a smile to any who enter it. <\/p>",
+            "text": "<p>Humans have expressed themselves through colour and pattern for centuries. And we’re no different at Molly Mahon. Each hand block printed wallpaper is thoughtfully designed to elevate your home and bring a smile to any who enter it. <\/p><p>Many of our colours have been inspired from the rich, bold palettes of India. Here Molly was drawn to the energy of rich, vibrant cities, each<br\/><\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -268,7 +270,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Many of our colours have been inspired from the rich, bold palettes of India. Here Molly was drawn to the energy of rich, vibrant cities, each dressed in rainbow shades from the buildings and bridges to the colourful clothing worn by the country’s wonderful people.<br\/><\/p>",
+            "text": "<p>dressed in rainbow shades from the buildings and bridges to the colourful clothing worn by the country’s wonderful people.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -369,7 +371,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Bright blue is prominent in our range of block prints, inspired by the iconic Indian colour that results from the fermentation of Indigofera leaves. The inky dye is especially important in Bagru, a small village where we work,  and creates a rich, long-lasting hue that’s very pleasing to the eye. <\/p><p>Our Denim collection features a bold indigo shade that sits well in most rooms, as calming as our beautiful blue oceans and sky. You’ll also discover deep navy for a contrasting look, and brilliant pale blue best suited to an airy light space.<br\/><\/p>",
+            "text": "<p>Bright blue is prominent in our range of block prints, inspired<br\/>by the iconic Indian colour that results from the fermentation<br\/>of Indigofera leaves. The inky dye is especially important in Bagru, a small village where we work,  and creates a rich, long-lasting hue that’s very pleasing to the eye. <\/p><p>Our Denim collection features a bold indigo shade that sits well in most rooms, as calming as our beautiful blue oceans and sky. You’ll also discover deep navy for a contrasting look, and brilliant pale blue best suited to an airy light space.<br\/><\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -700,7 +702,8 @@
           "disabled": true,
           "settings": {
             "text": "home shot - lighter pastels and a palette of gold showing personality and passion",
-            "go_serif": true
+            "go_serif": true,
+            "constrain_text": false
           }
         }
       },
@@ -727,7 +730,7 @@
         "16619643001e6b54da-0": {
           "type": "text",
           "settings": {
-            "heading": "Birds, Bees and Bindi, Oh My",
+            "heading": "Birds, Bees and Bindi, Oh My",
             "heading_size": "medium",
             "text": "",
             "button_label": "",
@@ -795,11 +798,12 @@
         "cite": "",
         "bg": "none",
         "image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_MODILE_1300x1300_84ecfc8d-1e30-4193-bfc7-5162487c591b.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/BOMBAYBUSTLE_TUKTUK_1300x1300_45cdc535-e7f0-44f7-90dd-61d8943e21b4.jpg",
-        "heading_size": "extra_large",
+        "mobile_image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_LIFE2_1200x900_5dac9d3e-cb89-4aa0-8923-b6ee44257890.jpg",
+        "heading_size": "large",
         "vertical_alignment": "center",
         "alignment": "center",
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "bg_color_scheme": "darken"
       }
     },
     "166247809277b0daea": {
@@ -894,7 +898,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.<\/p><p>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home to.<\/p>",
+            "text": "<p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.<br\/>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home to.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -908,7 +912,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. <\/p><p>Take a look at our Mood Boards for more printspiration and dare to be adventurous!<\/p>",
+            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our Mood Boards for more printspiration and dare to be adventurous!<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -937,7 +941,8 @@
         "heading_size": "large",
         "vertical_alignment": "center",
         "alignment": "center",
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "bg_color_scheme": "none"
       }
     },
     "1662459109977d7639": {
@@ -974,7 +979,7 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. <\/p><p>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our Mood Boards for more printspiration and dare to be adventurous!<\/p>",
+            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. <br\/>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our Mood Boards for more printspiration and dare to be adventurous!<\/p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
