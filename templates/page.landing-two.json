@@ -239,7 +239,7 @@
           "type": "text",
           "settings": {
             "heading": "Small Batch Sustainability",
-            "heading_size": "medium",
+            "heading_size": "small",
             "text": "",
             "button_label": "",
             "button_link": "",
