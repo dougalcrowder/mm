@@ -14,7 +14,7 @@
   {%- else -%}
     {%- assign square_image = section.settings.image -%}
   {%- endif -%}
-  <div class="myhero{% if section.settings.top_margin %} margery{% endif %}{% if section.settings.constrain or section.settings.letterbox %} inner{% endif %}">
+  <div class="myhero{% if section.settings.top_margin %} margery{% endif %}{% if section.settings.constrain or section.settings.letterbox %} inner{% endif %} pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }} bg-{{ section.settings.bg_color_scheme }}">
     {% if section.settings.constrain %}
       {% if section.settings.letterbox %}
       {% include 'image-hero-letterbox' %}
@@ -192,8 +192,82 @@
       "label": "Text Colour"
     },
     {
-      "type": "header",
-      "content": "t:sections.image-banner.settings.header.content"
+      "type": "select",
+      "id": "margin_top",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "s",
+          "label": "Small"
+        },
+        {
+          "value": "m",
+          "label": "Medium"
+        },
+        {
+          "value": "l",
+          "label": "Large"
+        },
+        {
+          "value": "xl",
+          "label": "X Large"
+        }
+      ],
+      "default": "none",
+      "label": "spacing above",
+      "info": "Top Margin"
+    },
+    {
+      "type": "select",
+      "id": "margin_bot",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "s",
+          "label": "Small"
+        },
+        {
+          "value": "m",
+          "label": "Medium"
+        },
+        {
+          "value": "l",
+          "label": "Large"
+        },
+        {
+          "value": "xl",
+          "label": "X Large"
+        }
+      ],
+      "default": "none",
+      "label": "spacing below",
+      "info": "Bottom Margin"
+    },
+    {
+      "type": "select",
+      "id": "bg_color_scheme",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "darken",
+          "label": "Darken"
+        },
+        {
+          "value": "lighten",
+          "label": "Lighten"
+        }
+      ],
+      "default": "none",
+      "label": "Text and image background adjust"
     }
   ],
   "blocks": [
