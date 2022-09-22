@@ -1,4 +1,4 @@
-<div class="bg-{{ section.settings.bg }}">
+<div class="bg-{{ section.settings.bg }} mt-{{ section.settings.margin_top }} mb-{{ section.settings.margin_bot }}">
   <div class="{% if section.settings.image != blank %}image-bg inner{% else %}bunting{% endif %}">
     <div class="quote_hero">
     {%- if section.settings.image != blank -%}
@@ -195,6 +195,56 @@
       ],
       "default": "none",
       "label": "Text and image background adjust"
+    },
+    {
+      "type": "select",
+      "id": "margin_top",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "s",
+          "label": "Small"
+        },
+        {
+          "value": "m",
+          "label": "Medium"
+        },
+        {
+          "value": "l",
+          "label": "Large"
+        }
+      ],
+      "default": "none,
+      "label": "spacing above",
+      "info": "adjust the spacing for the divider"
+    },
+    {
+      "type": "select",
+      "id": "margin_bot",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "s",
+          "label": "Small"
+        },
+        {
+          "value": "m",
+          "label": "Medium"
+        },
+        {
+          "value": "none",
+          "label": "Large"
+        }
+      ],
+      "default": "m",
+      "label": "spacing below",
+      "info": "adjust the spacing for the divider"
     }
   ],
   "presets": [
