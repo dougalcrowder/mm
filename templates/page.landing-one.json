@@ -21,7 +21,7 @@
           "settings": {
             "text": "Shop our collection of colourful designer wallpaper, \nexclusively designed by British printmaker, Molly Mahon. \nEthically handcrafted in the UK and India.",
             "go_serif": false,
-            "constrain_text": false
+            "constrain_text": true
           }
         },
         "1642199348d668b6b2-2": {
@@ -122,7 +122,7 @@
           "settings": {
             "heading": "Explore our Best Selling Designer Wallpapers",
             "heading_size": "medium",
-            "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.<\/p>",
+            "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -229,7 +229,7 @@
           "type": "text",
           "settings": {
             "heading": "Be Bold, be Beautiful",
-            "heading_size": "medium",
+            "heading_size": "large",
             "text": "",
             "button_label": "",
             "button_link": "",
@@ -256,7 +256,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Humans have expressed themselves through colour and pattern for centuries. And we’re no different at Molly Mahon. Each hand block printed wallpaper is thoughtfully designed to elevate your home and bring a smile to any who enter it. <\/p><p>Many of our colours have been inspired from the rich, bold palettes of India. Here Molly was drawn to the energy of rich, vibrant cities, each<br\/><\/p>",
+            "text": "<p>Humans have expressed themselves through colour and pattern for centuries. And we’re no different at Molly Mahon. Each hand block printed wallpaper is thoughtfully designed to elevate your home and bring a smile to any who enter it.<br\/><\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -270,7 +270,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>dressed in rainbow shades from the buildings and bridges to the colourful clothing worn by the country’s wonderful people.<\/p>",
+            "text": "<p>Many of our colours have been inspired from the rich, bold palettes of India. Here Molly was drawn to the energy of rich, vibrant cities, each dressed in rainbow shades from the buildings and bridges to the colourful clothing worn by the country’s wonderful people.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -286,7 +286,7 @@
       ],
       "settings": {
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "sm"
       }
     },
     "166196276803731365": {
@@ -371,7 +371,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Bright blue is prominent in our range of block prints, inspired<br\/>by the iconic Indian colour that results from the fermentation<br\/>of Indigofera leaves. The inky dye is especially important in Bagru, a small village where we work,  and creates a rich, long-lasting hue that’s very pleasing to the eye. <\/p><p>Our Denim collection features a bold indigo shade that sits well in most rooms, as calming as our beautiful blue oceans and sky. You’ll also discover deep navy for a contrasting look, and brilliant pale blue best suited to an airy light space.<br\/><\/p>",
+            "text": "<p>Bright blue is prominent in our range of block prints, inspired by the iconic Indian colour that results from the fermentation of Indigofera leaves. The inky dye is especially important in Bagru, a small village where we work,  and creates a rich, long-lasting hue that’s very pleasing to the eye. <\/p><p>Our Denim collection features a bold indigo shade that sits well in most rooms, as calming as our beautiful blue oceans and sky. You’ll also discover deep navy for a contrasting look, and brilliant pale blue best suited to an airy light space.<br\/><\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -465,7 +465,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Yellow is a symbol of hope, joy and happiness across India - three things Molly loves to evoke through her designs. You’ll see a multitude of shades everywhere you go, from deep turmeric-dyed fabrics to canary coloured marigold fields.<\/p><p>No matter the shade, yellow is an instantly jolly colour that can cheer up any room. Pops of rich mustard and light lemon yellow absorb the rays of the sun to create a warm, glowy feeling even in the colder months.<br\/><\/p>",
+            "text": "<p>Yellow is a symbol of hope, joy and happiness across India - three things Molly loves to evoke through her designs. You’ll see a multitude of shades everywhere you go, from deep turmeric-dyed fabrics to canary coloured marigold fields.<\/p><p>No matter the shade, yellow is an instantly jolly colour that can cheer up any room. Pops of rich mustard and light lemon yellow absorb the rays of the sun to create a warm, glowy feeling even in the colder months.<br\/><\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -730,7 +730,7 @@
         "16619643001e6b54da-0": {
           "type": "text",
           "settings": {
-            "heading": "Birds, Bees and Bindi, Oh My",
+            "heading": "Birds, Bees and Bindi, Oh My",
             "heading_size": "medium",
             "text": "",
             "button_label": "",
@@ -758,7 +758,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Nature is at the heart of our designs. Molly’s favourite moments are often marked by natural symbols... ferns found on a family walk, coral for her Mother’s love of the coast, the trees of Ashdown Forest. We’re drawn to nature and feel comfort when it’s brought into our home.<\/p><p>From strawberry fields to starry skies, each print has been carefully<\/p>",
+            "text": "<p>Nature is at the heart of our designs. Molly’s favourite moments are often marked by natural symbols... ferns found on a family walk, coral for her Mother’s love of the coast, the trees of Ashdown Forest. We’re drawn to nature and feel comfort when it’s brought into our home.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -772,7 +772,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>chosen to bring joy, peace and plenty of personality. Discover our best selling designer floral wallpaper, Marigold. Or get inspired by Molly’s trips to India. Here you’ll find the rare Marwari Horse trotting along the streets of Rajasthan and our blue Bindi print from the Bagru Collection, a cheerful, subtle stripe that will uplift any space.<br\/><\/p>",
+            "text": "<p>From strawberry fields to starry skies, each print has been carefully chosen to bring joy, peace and plenty of personality. Discover our best selling designer floral wallpaper, <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-marigold-pinkblue\">Marigold<\/a>. Or get inspired by Molly’s trips to India. Here you’ll find the rare <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-marwarihorse-darkblue\">Marwari Horse<\/a> trotting along the streets of Rajasthan and our blue <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-bindi-blue\">Bindi print<\/a> from the Bagru Collection, a cheerful, subtle stripe that will uplift any space.<br\/><\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -799,7 +799,7 @@
         "bg": "none",
         "image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_MODILE_1300x1300_84ecfc8d-1e30-4193-bfc7-5162487c591b.jpg",
         "mobile_image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_LIFE2_1200x900_5dac9d3e-cb89-4aa0-8923-b6ee44257890.jpg",
-        "heading_size": "large",
+        "heading_size": "extra_large",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "white_text",
@@ -898,7 +898,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.<br\/>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home to.<\/p>",
+            "text": "<p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -912,7 +912,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our Mood Boards for more printspiration and dare to be adventurous!<\/p>",
+            "text": "<p>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home to.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -979,7 +979,7 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Light up your living room with a roll of Birds & Bees, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated Tree pattern inspired by Molly’s local forest. <br\/>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our Mood Boards for more printspiration and dare to be adventurous!<\/p>",
+            "text": "<p>Light up your living room with a roll of <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-birdsbees-peagreen\">Birds & Bees<\/a>, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-tree-green\">Tree<\/a><em> <\/em>pattern inspired by Molly’s local forest.<\/p><p>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our <a href=\"https:\/\/mollymahon.com\/pages\/fabric-mood-boards\">Mood Boards<\/a> for more printspiration and dare to be adventurous!<\/p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
