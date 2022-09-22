@@ -152,13 +152,13 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "m",
-        "margin_bot": "l"
+        "margin_bot": "none"
       }
     },
     "1662583646935a63eb": {
       "type": "divider",
       "settings": {
-        "margin_top": "m",
+        "margin_top": "l",
         "margin_bot": "m",
         "hr": true
       }
@@ -324,7 +324,7 @@
       ],
       "settings": {
         "margin_top": "l",
-        "margin_bot": "l"
+        "margin_bot": "none"
       }
     },
     "166258375996ca2554": {
