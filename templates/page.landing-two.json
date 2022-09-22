@@ -152,7 +152,7 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "m",
-        "margin_bot": "none"
+        "margin_bot": "m"
       }
     },
     "1662583646935a63eb": {
@@ -253,7 +253,8 @@
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "none",
-        "margin_bot": "none"
+        "margin_bot": "none",
+        "bg_color_scheme": "none"
       }
     },
     "16624596458beebd65": {
@@ -283,7 +284,8 @@
         "show_text_box": false,
         "color_scheme": "dark_text",
         "margin_top": "l",
-        "margin_bot": "none"
+        "margin_bot": "none",
+        "bg_color_scheme": "none"
       }
     },
     "16624601935a72d91c": {
@@ -308,7 +310,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Block printing is an ancient form of transferring design to cloth that goes back over 4,500 years - and we still love it today. One of the many things that drew Molly to hand block printing was the personal connection with each and every piece. The odd movement between each print of paint gives the finished product a sense of authentic energy that can’t be achieved with a machine. Like the imperfections of real life, it’s what makes it beautiful.<\/p><p>The block printing process starts in Molly’s countryside studio where she turns doodles from nature, travels and her daily life into repeat designs. Each is then carved into a unique lino or wooden block, and brought to life on quality fabrics and paper by our team of master printers in India. <\/p>",
+            "text": "<p>Block printing is an ancient form of transferring design to cloth that goes back over 4,500 years - and we still love it today. One of the many things that drew Molly to hand block printing was the personal connection with each and every piece. The odd movement between each print of paint gives the finished product a sense of authentic energy that can’t be achieved with a machine. Like the imperfections of real life, it’s what makes it beautiful.<\/p><p>The block printing process starts in Molly’s countryside studio where she turns doodles from nature, travels and her daily life into repeat designs. Each is then carved into a unique lino or wooden block, and brought to life on quality fabrics and paper by our team of master printers in India. <\/p><p><\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -324,7 +326,7 @@
       ],
       "settings": {
         "margin_top": "l",
-        "margin_bot": "none"
+        "margin_bot": "l"
       }
     },
     "166258375996ca2554": {
@@ -389,7 +391,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "m",
+        "margin_top": "s",
         "margin_bot": "s"
       }
     },
@@ -487,7 +489,8 @@
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "none",
-        "margin_bot": "none"
+        "margin_bot": "l",
+        "bg_color_scheme": "none"
       }
     },
     "1662478779064ab062": {
@@ -544,7 +547,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": true,
-        "margin_top": "l",
+        "margin_top": "s",
         "margin_bot": "l"
       }
     }
