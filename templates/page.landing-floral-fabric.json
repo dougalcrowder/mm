@@ -398,6 +398,7 @@
         },
         "c8053bd5-35af-4c35-af46-24bb286cd53d": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/MARIGOLD_PINK_BEDROOM_WALLPAPER.jpg",
             "title": "Marigold Pink\/Blue",
@@ -407,6 +408,7 @@
         },
         "81d6ecdf-6022-4d32-bd67-0bb39128c5a2": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/WALLPAPER_BINDI_DEERHYRST_1200X900_c2484dbd-6cf6-4f8d-b6c0-7e86536281d5.jpg",
             "title": "Bindi Blue",
@@ -416,6 +418,7 @@
         },
         "319622a2-fefb-4e50-aaf1-5369cbeede0b": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_ZETLAND_1200X900_71bd2123-97d6-4f48-afb9-b113f7beee51.jpg",
             "title": "Birds & Bees Blue",
@@ -425,6 +428,7 @@
         },
         "b2c9aaa4-7822-482e-ad0c-35d58a355e55": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
             "title": "Spot & Star Denim",
