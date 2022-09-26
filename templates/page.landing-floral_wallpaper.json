@@ -12,14 +12,14 @@
         "1642199348d668b6b2-0": {
           "type": "heading",
           "settings": {
-            "heading": "Floral Fabric by British Printmaker Molly Mahon",
+            "heading": "Floral Wallpaper By British Printmaker Molly Mahon",
             "heading_type": "header1"
           }
         },
         "1642199348d668b6b2-1": {
           "type": "text",
           "settings": {
-            "text": "Shop our collection of floral patterned fabric, \nexclusively designed by British printmaker, Molly Mahon. \nEthically handcrafted in the UK and India.",
+            "text": "Shop our wonderful collection of designer floral wallpaper, \nexclusively designed by British printmaker, Molly Mahon. \nEthically printed in the UK .",
             "go_serif": false,
             "constrain_text": true
           }
@@ -43,7 +43,7 @@
         "1642199348d668b6b2-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/fabric_primrose_seed_trellis_pulpit_bedroom_greencombe_1800x1000_96777fef-620f-476b-886b-1151a27b817f.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_FERN_DEERHYRST_KIDSBEDROOM_1800X1000_94ea07ba-1436-4e52-9755-f93831dc7509.jpg",
         "letterbox": false,
         "make_logo_white": true,
         "top_margin": false,
@@ -72,7 +72,7 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "large",
-            "text": "<p>Shop our colourful collection of floral patterned fabric, with roots that can be found in Molly’s travels throughout India and her strolls in nature near her Sussex home. The collection includes fabrics adorned with bright bunches of classic English flowers to delicate ditsy prints inspired by the architecture of Jaipur.<\/p>",
+            "text": "<p>Shop our wonderful collection of designer floral wallpaper, inspired by nature near Molly’s Sussex home. From bold leaf prints to intricate scenes of summer, every design celebrates flora and fauna. Each roll is ethically printed in the UK and made from original block prints.<\/p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
@@ -87,7 +87,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_MOBILE.jpg",
+            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_STRAWBERRY_COTTROOM_1300X1300_fa0a7946-6c00-4c25-b11f-432e78f4a594.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -123,9 +123,9 @@
         "16619521000b84ba87-0": {
           "type": "text",
           "settings": {
-            "heading": "Discover our most popular floral fabrics",
+            "heading": "Explore our Best-selling Floral Wallpapers",
             "heading_size": "large",
-            "text": "<p>Taking inspiration from the British countryside and trips to India, Molly Mahon’s range of floral print fabric has been created so that you can bring the vividness, variety, and joy found in nature into your home.<\/p>",
+            "text": "<p>Inspired by the beauty that is found in our natural world, these bright floral wallpapers from Molly Mahon are designed to spark joy and give you the same sense of tranquillity and peace in your home as stepping into the outdoors.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -162,12 +162,12 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "fabric-primrose-oyster-grasssky",
-          "fabric-poppy-oyster-mustardsky-sample",
-          "fabric-marigold-natural-pink-sample",
-          "fabric-tulip-oyster-rosegrass-freesample",
-          "fabric-rose-oyster-pink-sample",
-          "fabric-wildcarrot-oyster-indigo"
+          "wallpaper-fern-mustard",
+          "wallpaper-birdsbees-blue",
+          "wallpaper-strawberry-grass",
+          "wallpaper-tree-green",
+          "wallpaper-leaf-grassgreen",
+          "wallpaper-marigold-yellow"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -181,7 +181,7 @@
           "settings": {
             "heading": "Discover a World of Print, Colour and Pattern with Molly Mahon",
             "heading_size": "small",
-            "text": "<p>Molly Mahon is a British printmaker who is well-known in the industry for her bold use of colour and application of heritage techniques. <\/p><p>Her stunning designs have appeared in publications such as House & Garden, The World of Interiors and Country Life, and she has collaborated with clothing company<a href=\"https:\/\/mollymahon.com\/pages\/boden-molly-mahon\"> <span style=\"text-decoration:underline\">Boden<\/span><\/a> on a spring print range for both women and children.<\/p>",
+            "text": "<p>Molly Mahon is a renowned British printmaker whose block print originals are applied to quality fabrics, luxury wallpaper and a whole host of homewares such as mugs, aprons,<a href=\"https:\/\/mollymahon.com\/collections\/cushions\"> <span style=\"text-decoration:underline\">cushions<\/span><\/a>, and wash bags.<\/p><p>Every item starts as a sketch which is then brought to life by Indian artisans who hand carve the designs into wooden blocks. These are then used by master block printers who apply the patterns with stunning accuracy to eco-conscious, premium textiles. Bold, fun prints and vivid colours are combined to create our floral wallpaper patterns, and there are matching materials and accessories available so that you can style each room in your home exactly how you like.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -195,7 +195,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Alongside fabrics and wallpaper, Molly's designs are also available on a range of other homewares including<a href=\"https:\/\/mollymahon.com\/collections\/mugs\"> <span style=\"text-decoration:underline\">mugs<\/span><\/a>,<a href=\"https:\/\/mollymahon.com\/collections\/cushions\"><span style=\"text-decoration:underline\"> cushions<\/span><\/a> and<a href=\"https:\/\/mollymahon.com\/collections\/bedding-1\"> <span style=\"text-decoration:underline\">quilts<\/span><\/a>.<\/p><p>Each print is designed by Molly Mahon before being brought to life using traditional block printing techniques. Skilled Indian craftspeople hand carve Molly’s designs into wooden blocks before expertly applying them manually onto premium organic cotton and other plant-based fibres including viscose and linen.  <\/p><p>Akin to nature itself, Molly’s fabrics allow your imagination to run wild in creating innovative interiors, practical accessories and vibrant, bespoke apparel.<\/p>",
+            "text": "<p>Molly has collaborated with a variety of well-known brands including<a href=\"https:\/\/mollymahon.com\/pages\/boden-molly-mahon\"> <span style=\"text-decoration:underline\">Boden<\/span><\/a> and Anthropologie.<\/p><p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\" -  <\/em>Johnnie Boden<\/p><p>Her playful and charming designs showcase the best of the British countryside and allow you to create unique and exciting spaces.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -235,7 +235,7 @@
         "1661959305d8047f36-0": {
           "type": "text",
           "settings": {
-            "heading": "Let your creativity blossom",
+            "heading": "Bring the Outside In",
             "heading_size": "large",
             "text": "",
             "button_label": "",
@@ -263,7 +263,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Flowers have long represented renewal and beauty. They have the power to invoke memories of spring times gone by, uplift spirits and inject delight into any setting. Fresh bouquets are often given as a gift to friends and loved ones, and flowers are known to feature heavily in celebrations across the globe.<\/p><p>In India, flowers and the natural world have a particularly special significance. For example, in Hinduism, one of the most widely followed religions in the country, it is believed that humans and nature are intrinsically linked as we rely on our natural world for survival.<br\/><\/p>",
+            "text": "<p>For many of us, our home is our sanctuary and the place where we can truly be ourselves. Nature also allows us to feel free. Molly Mahon has drawn on influences from around her Sussex home such as the nearby woods and Ashdown Forest to create a bright floral wallpaper range that makes it easy to blur the lines between the two and bring the outside in.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -277,7 +277,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Molly Mahon has expertly captured the lifeblood of the most beautiful flowers found on our planet with a range of block-printed fabrics that can be used in any way that your heart desires. Whether you want a fresh, tranquil space finished with curtains and soft furnishings in blue hues, or a colour-filled bedroom with clashing prints featured in the bedding, lampshades and finishing touches, Molly’s fabrics will speak to your creative side.<\/p>",
+            "text": "<p>The colours used in this collection echo those found in nature from the fresh greens of the fern leaf and the blush pink of ripening fruits, to the pale blue of a morning sky and the joyful yellow hue of flowers in bloom.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -362,10 +362,10 @@
         "1662457041351d627c-0": {
           "type": "text",
           "settings": {
-            "heading": "Bagru",
+            "heading": "Strawberry Grass",
             "heading_size": "medium",
             "text": "",
-            "button_label": "Shop the Bagru collection",
+            "button_label": "Shop here",
             "button_link": "shopify:\/\/collections\/bagru-collection",
             "inset": true,
             "color_scheme": "dark_text",
@@ -378,7 +378,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>This fresh, botanical pattern features a bright, solid colour background with the floral fronds encompassing the white space of the design. The small hand block print comes in two colourways, dark blue and pink, and has been applied to 100% floral cotton fabric.<\/p>",
+            "text": "<p>Eating ripe, juicy strawberries with a dollop of fresh cream is a quintessential British summertime treat. With this exclusive ditsy floral wallpaper from Molly Mahon, you can now bring the sweetness of the season into your home décor. Featuring a beautiful four-colour block print, this textured wallpaper is made using the heritage technique of surface printing. For an extra flourish of British nostalgia, it can be paired with matching hand-blocked fabric.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -453,86 +453,13 @@
         "slides_title": "Our favourite Bagru collection in use"
       }
     },
-    "16624574182228dbc7": {
-      "type": "feature-slides",
-      "blocks": {
-        "1662457418f867cbaa-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Yellow Hues",
-            "heading_size": "medium",
-            "text": "<p><\/p><p><\/p>",
-            "button_label": "Shop all yellow designer wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "15b79bcd-cc34-44f0-9f52-3425ff495a27": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>Yellow is a symbol of hope, joy and happiness across India - three things Molly loves to evoke through her designs. You’ll see a multitude of shades everywhere you go, from deep turmeric-dyed fabrics to canary coloured marigold fields.<\/p><p>No matter the shade, yellow is an instantly jolly colour that can cheer up any room. Pops of rich mustard and light lemon yellow absorb the rays of the sun to create a warm, glowy feeling even in the colder months.<br\/><\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "9433d050-5fbc-4539-9d64-8c9b697d5785": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FERNTURMERICKEALIFE2_446cc717-0a7a-409d-852c-41b86bcb8eb3.jpg",
-            "title": "Fern Mustard",
-            "link": "shopify:\/\/products\/wallpaper-fern-mustard",
-            "color_scheme": "dark_text"
-          }
-        },
-        "85ffb669-eec7-4216-a711-0e20358a3334": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_LANI_BOOKSHELF_1200X900_74e7ebfc-0c56-419f-b36d-88f49df46f94.jpg",
-            "title": "Lani Gold",
-            "link": "shopify:\/\/products\/wallpaper-lani-gold",
-            "color_scheme": "dark_text"
-          }
-        },
-        "25af32f0-758c-4eae-bc62-d02be117501f": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_BEDROOM_1200X900_bb58ffcb-f968-4a02-9c74-7f524d72fe63.jpg",
-            "title": "Marwari Horse Gold",
-            "link": "shopify:\/\/products\/wallpaper-marwarihorse-gold",
-            "color_scheme": "dark_text"
-          }
-        }
-      },
-      "block_order": [
-        "1662457418f867cbaa-0",
-        "15b79bcd-cc34-44f0-9f52-3425ff495a27",
-        "9433d050-5fbc-4539-9d64-8c9b697d5785",
-        "85ffb669-eec7-4216-a711-0e20358a3334",
-        "25af32f0-758c-4eae-bc62-d02be117501f"
-      ],
-      "settings": {
-        "background": "#cec367",
-        "margin_top": "l",
-        "margin_bot": "none",
-        "slides_title": "Our favourite yellow designer wallpapers"
-      }
-    },
     "16624577622fefe57b": {
       "type": "feature-slides",
       "blocks": {
         "16624577610885c164-0": {
           "type": "text",
           "settings": {
-            "heading": "Green Hues",
+            "heading": "Birds & Bees",
             "heading_size": "medium",
             "text": "",
             "button_label": "Shop all green designer wallpapers",
@@ -548,7 +475,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Shades of green are a classic nod to nature and are said to automatically make us relax and destress - perfect for injecting into a busy home! So it’s not surprising that we have a fair few hues in our designer wallpaper collection. <\/p><p>Crisp grassy tones match our classic Leaf block print whilst our minty pea green is a cooler shade that creates a welcoming space. Mix with hints of bright yellows and pinks to add excitement and charm, or keep it cool with complimentary blue.<\/p>",
+            "text": "<p>Based on Molly’s walks in the stunning English countryside, our mono-colour Birds & Bees luxury floral wallpaper breathes life into any area. It features interwoven vines of mixed leaves and flowers and an array of English wildlife including birds, bees, and butterflies. It is available in a calming blue colour or an uplifting pea green.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -610,16 +537,89 @@
         "slides_title": "Our favourite green designer wallpapers"
       }
     },
+    "16624574182228dbc7": {
+      "type": "feature-slides",
+      "blocks": {
+        "1662457418f867cbaa-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Fern",
+            "heading_size": "medium",
+            "text": "<p><\/p><p><\/p>",
+            "button_label": "Shop here",
+            "button_link": "shopify:\/\/collections\/wallpaper",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "15b79bcd-cc34-44f0-9f52-3425ff495a27": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>The fern design of this wallpaper was born from the pressed leaves that Molly had in her journal, plucked from nature on some of the many walks she has taken in her local woods. The print showcases the distinctive long, thin silhouette of the hardy, evergreen leaf, complete with a central midrib and feather-like fronds. It comes in two colours: calming sage green and vibrant mustard.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "9433d050-5fbc-4539-9d64-8c9b697d5785": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FERNTURMERICKEALIFE2_446cc717-0a7a-409d-852c-41b86bcb8eb3.jpg",
+            "title": "Fern Mustard",
+            "link": "shopify:\/\/products\/wallpaper-fern-mustard",
+            "color_scheme": "dark_text"
+          }
+        },
+        "85ffb669-eec7-4216-a711-0e20358a3334": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WALLPAPER_LANI_BOOKSHELF_1200X900_74e7ebfc-0c56-419f-b36d-88f49df46f94.jpg",
+            "title": "Lani Gold",
+            "link": "shopify:\/\/products\/wallpaper-lani-gold",
+            "color_scheme": "dark_text"
+          }
+        },
+        "25af32f0-758c-4eae-bc62-d02be117501f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_BEDROOM_1200X900_bb58ffcb-f968-4a02-9c74-7f524d72fe63.jpg",
+            "title": "Marwari Horse Gold",
+            "link": "shopify:\/\/products\/wallpaper-marwarihorse-gold",
+            "color_scheme": "dark_text"
+          }
+        }
+      },
+      "block_order": [
+        "1662457418f867cbaa-0",
+        "15b79bcd-cc34-44f0-9f52-3425ff495a27",
+        "9433d050-5fbc-4539-9d64-8c9b697d5785",
+        "85ffb669-eec7-4216-a711-0e20358a3334",
+        "25af32f0-758c-4eae-bc62-d02be117501f"
+      ],
+      "settings": {
+        "background": "#cec367",
+        "margin_top": "l",
+        "margin_bot": "none",
+        "slides_title": "Our favourite yellow designer wallpapers"
+      }
+    },
     "16624584107026dd5b": {
       "type": "feature-slides",
       "blocks": {
         "166245841038818ab0-0": {
           "type": "text",
           "settings": {
-            "heading": "Pink Hues",
+            "heading": "Marigold",
             "heading_size": "medium",
             "text": "",
-            "button_label": "Shop all pink designer wallpapers",
+            "button_label": "Shop here",
             "button_link": "shopify:\/\/collections\/wallpaper",
             "inset": true,
             "color_scheme": "dark_text",
@@ -632,7 +632,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Pink is a naturally friendly colour that lends itself to any room in the house. Our range of rosy pink wallpapers are inspired by Jaipur, affectionately known as the Pink City of India. Made from the Indian madder plant, the paste results in a subtle, dusty tone that can brighten up any wall.<\/p><p>Don’t be afraid to put pink front and centre of your home. This powerful, elegant shade is super cosy for bedrooms, bathrooms and kitchens, no matter your gender. Pair our pretty pink with a classic Hearts print, or couple with blue or green in our Marigold collection.<\/p>",
+            "text": "<p>Available in three beautiful colourways, our graphic Marigold wallpaper is an ode to one of Molly’s favourite flowers. Marigolds are a symbol of passion and creativity on the subcontinent which makes them a fitting motif for this bold floral wallpaper. The pattern of large, fluffy flowers is guaranteed to make an impact and leave you smiling any time you enter the room. Choose from pink and blue, pink and green or our sunshine yellow.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -691,6 +691,110 @@
         "margin_top": "l",
         "margin_bot": "none",
         "slides_title": "Our favourite pink designer wallpapers"
+      }
+    },
+    "1664204379a6a5a50c": {
+      "type": "feature-slides",
+      "blocks": {
+        "1664204379dbec3874-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Tree",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "Shop here",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "a42817ed-9256-44f2-80ae-77ed80491bd5": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Our Tree wallpaper celebrates the trees in Ashdown Forest, an area of outstanding beauty located 30 miles south of London. This magical woodland has been a source of inspiration for many, with some of the world's best-loved children's stories based on its stunning scenery. This design from Molly Mahon also tells a story of the forest's rich heritage and of the plants that have stood in the area for thousands of years.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "ed464450-fa32-40fe-af70-39942719bc05": {
+          "type": "image",
+          "settings": {
+            "title": "Caption Here",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        }
+      },
+      "block_order": [
+        "1664204379dbec3874-0",
+        "a42817ed-9256-44f2-80ae-77ed80491bd5",
+        "ed464450-fa32-40fe-af70-39942719bc05"
+      ],
+      "settings": {
+        "background": "#77a96b",
+        "margin_top": "m",
+        "margin_bot": "m",
+        "slides_title": "Check these out"
+      }
+    },
+    "166420468915cfe575": {
+      "type": "feature-slides",
+      "blocks": {
+        "1664204689c61a56f3-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Leaf",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "Shop here",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "982184a5-9fa0-4128-a5e8-8e0d331c09d4": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>This Leaf print wallpaper is based on those last few green leaves that fall from the trees right outside Molly’s door at the end of summer in England, signifying a change in season is on its way and Autumn is about to step in. The placement of the leaves on each roll creates a beautiful harmony of nature and geometry, with the blank space behind the foliage revealing a gentle criss-cross pattern.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "609ca7a3-8d08-4867-9497-853b172093c0": {
+          "type": "image",
+          "settings": {
+            "title": "Caption Here",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        }
+      },
+      "block_order": [
+        "1664204689c61a56f3-0",
+        "982184a5-9fa0-4128-a5e8-8e0d331c09d4",
+        "609ca7a3-8d08-4867-9497-853b172093c0"
+      ],
+      "settings": {
+        "background": "#90bbe4",
+        "margin_top": "m",
+        "margin_bot": "m",
+        "slides_title": "Check these out"
       }
     },
     "1662458692da6f89ec": {
@@ -914,9 +1018,11 @@
     "16619593508075d424",
     "166196276803731365",
     "166245704164214430",
-    "16624574182228dbc7",
     "16624577622fefe57b",
+    "16624574182228dbc7",
     "16624584107026dd5b",
+    "1664204379a6a5a50c",
+    "166420468915cfe575",
     "1662458692da6f89ec",
     "1661964058633d317f",
     "166384958812b2d580",
