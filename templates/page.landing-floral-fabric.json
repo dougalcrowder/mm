@@ -365,9 +365,9 @@
             "heading": "Bagru",
             "heading_size": "medium",
             "text": "",
-            "button_label": "Shop the Bagru collection",
-            "button_link": "shopify:\/\/collections\/bagru-collection",
-            "inset": true,
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
             "text_align": "left"
@@ -391,18 +391,17 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/FBAPINLIFECHAIR_f1bf1ab8-3200-4d2c-982c-a5b99b0d9837.jpg",
-            "title": "Coral Blue",
-            "link": "shopify:\/\/products\/wallpaper-coral-blue",
+            "title": "Bagru Pink",
+            "link": "shopify:\/\/products\/fabric-bagru-cotton-pink",
             "color_scheme": "dark_text"
           }
         },
         "c8053bd5-35af-4c35-af46-24bb286cd53d": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/MARIGOLD_PINK_BEDROOM_WALLPAPER.jpg",
-            "title": "Marigold Pink\/Blue",
-            "link": "shopify:\/\/products\/wallpaper-marigold-pinkblue",
+            "image": "shopify:\/\/shop_images\/FCOTBADARBLU_1300x1300_23e1d8d5-49d8-40c7-bf04-06089929794e.jpg",
+            "title": "Bagru Dark Blue",
+            "link": "shopify:\/\/products\/fabric-bagru-cotton-darkblue",
             "color_scheme": "dark_text"
           }
         },
@@ -459,11 +458,11 @@
         "1662457418f867cbaa-0": {
           "type": "text",
           "settings": {
-            "heading": "Yellow Hues",
+            "heading": "Buti",
             "heading_size": "medium",
             "text": "<p><\/p><p><\/p>",
-            "button_label": "Shop all yellow designer wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper",
+            "button_label": "",
+            "button_link": "",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
@@ -475,7 +474,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Yellow is a symbol of hope, joy and happiness across India - three things Molly loves to evoke through her designs. You’ll see a multitude of shades everywhere you go, from deep turmeric-dyed fabrics to canary coloured marigold fields.<\/p><p>No matter the shade, yellow is an instantly jolly colour that can cheer up any room. Pops of rich mustard and light lemon yellow absorb the rays of the sun to create a warm, glowy feeling even in the colder months.<br\/><\/p>",
+            "text": "<p>This floral fabric combines geometric lines with the curves found in nature for a delightful, small-scale print. The 100% cotton fabric is available in pink and blue, with each design making use of two shades so that the modest flowers really stand out against the background diamond pattern.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -487,9 +486,9 @@
         "9433d050-5fbc-4539-9d64-8c9b697d5785": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FERNTURMERICKEALIFE2_446cc717-0a7a-409d-852c-41b86bcb8eb3.jpg",
-            "title": "Fern Mustard",
-            "link": "shopify:\/\/products\/wallpaper-fern-mustard",
+            "image": "shopify:\/\/shop_images\/fabric_buti_blue_printingtable_bagru_1800x1000_57db19c7-8fd0-4eb9-aee9-be8ac767b380.jpg",
+            "title": "Buti Blue",
+            "link": "shopify:\/\/products\/fabric-buti-cotton-blue",
             "color_scheme": "dark_text"
           }
         },
