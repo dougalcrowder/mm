@@ -12,14 +12,14 @@
         "1642199348d668b6b2-0": {
           "type": "heading",
           "settings": {
-            "heading": "Designer Wallpaper by British Printmaker Molly Mahon",
+            "heading": "100 days to Christmas",
             "heading_type": "header1"
           }
         },
         "1642199348d668b6b2-1": {
           "type": "text",
           "settings": {
-            "text": "Shop our collection of colourful designer wallpaper, \nexclusively designed by British printmaker, Molly Mahon. \nEthically handcrafted in the UK and India.",
+            "text": "\"I aim to make Christmas as homemade as possible, full of delightful thoughtful gifts with an element of care.  Follow me as i share my journey to Christmas\" Molly Mahon",
             "go_serif": false,
             "constrain_text": true
           }
@@ -72,7 +72,7 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "large",
-            "text": "<p>Shop our colourful collection of handcrafted designer wallpaper, exclusively designed by British printmaker, Molly Mahon, in her East Sussex studio. From intricate leaves to bees and blossoms, there’s a pattern to suit every space - each ethically made from original block prints.<\/p>",
+            "text": "<p>The reason I wanted to share this count down with you all is because this time of year for me picks up the pace and I feel like I am hurtling towards Christmas like a meteor through space.  The result of that is often rash decisions, missing out on events, not laying firm plans with friends and family and panic buying.  So this year, I am going to make things fun and joyous, relaxed and calm; I want to make this Christmas truly special. I aim to make this Christmas as homemade as possible, full of delightful thoughtful gifts with an element of care.<\/p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
@@ -123,9 +123,9 @@
         "16619521000b84ba87-0": {
           "type": "text",
           "settings": {
-            "heading": "Explore our Best Selling Designer Wallpapers",
+            "heading": "Make your Mark this Christmas",
             "heading_size": "large",
-            "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.<\/p>",
+            "text": "<p>As a company we also want to help you make your Christmas as meaningful as possible and so we thought it would be fun and helpful to start a countdown, to share some of the things I am doing along the way.  To show you what we can offer you in terms of what you can block print and make for yourselves and your homes as well as what we offer that would make great gifts.  I am going to share tips and tricks for decorating the home, how to use block printing to your advantage.  I am going to meet with friends and family along the way to show how this doesn’t have to be a one person thing! <\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -139,13 +139,13 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "",
+            "text": "<p>We are going to be sending small surprises in orders and X8 golden crackers at random between now and Christmas with a Molly Mahon voucher worth from £20 to £150 to spend at your will.  I am busy making videos for Instagram to show you how my printing kits work, how to fold napkins for the Christmas table, make name cards, print bunting and more.<\/p>",
             "button_label": "Shop all designer wallpapers",
             "button_link": "shopify:\/\/collections\/wallpaper",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
-            "text_align": "center"
+            "text_align": "left"
           }
         }
       },
