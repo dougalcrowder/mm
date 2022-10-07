@@ -94,9 +94,11 @@
             </picture>
             </a>
           </li>
+          {% capture used %}{{ used }} {{ variant.option1 }}{% endcapture %}
           {% endunless %}
           {% endfor %}
           </ul>
+          {% assign used = '' %}
             <div class="slider-indicators">
             {% for variant in product_card_product.variants %}
             {% unless used contains variant.option1 %}
@@ -139,9 +141,11 @@
             </picture>
             </a>
           </li>
+          {% capture used %}{{ used }} {{ variant.option2 }}{% endcapture %}
           {% endunless %}
           {% endfor %}
           </ul>
+          {% assign used = '' %}
             <div class="slider-indicators">
             {% for variant in product_card_product.variants %}
             {% unless used contains variant.option2 %}
@@ -186,9 +190,11 @@
             </picture>
             </a>
           </li>
+          {% capture used %}{{ used }} {{ variant.option3 }}{% endcapture %}
           {% endunless %}
           {% endfor %}
           </ul>
+          {% assign used = '' %}
             <div class="slider-indicators">
             {% for variant in product_card_product.variants %}
             {% unless used contains variant.option3 %}
