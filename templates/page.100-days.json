@@ -386,12 +386,13 @@
       "settings": {
         "quote": "<p>Last year we recieved some joyous photos from customers who got together with friends and made a great big crafting session together.<\/p>",
         "cite": "",
-        "bg": "red",
+        "bg": "none",
+        "image": "shopify:\/\/shop_images\/ABOUTWORKSHOPS_54521b1f-e122-4cdb-b7eb-1ded2795b9a0.jpg",
         "heading_size": "medium",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "white_text",
-        "bg_color_scheme": "none",
+        "bg_color_scheme": "darken",
         "margin_top": "none",
         "margin_bot": "none"
       }
