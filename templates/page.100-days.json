@@ -520,6 +520,7 @@
     },
     "1661964058633d317f": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16619640584483b84f-1": {
           "type": "text",
@@ -551,6 +552,22 @@
         "bg_color_scheme": "none"
       }
     },
+    "3ddf935d-7c2f-47e4-82e5-492d55c709af": {
+      "type": "simple_quote",
+      "settings": {
+        "quote": "<p><em>\" Real homes are not showrooms or magazine ready rooms.  Real homes are spaces to be comfortable and relaxed in.\" <\/em> - <em>Molly Mahon<\/em><\/p>",
+        "cite": "",
+        "bg": "none",
+        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "heading_size": "large",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "white_text",
+        "bg_color_scheme": "none",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
     "16638497253d676a31": {
       "type": "divider",
       "settings": {
@@ -580,6 +597,7 @@
     "1661951966294ab962",
     "16619593053301a27e",
     "1661964058633d317f",
+    "3ddf935d-7c2f-47e4-82e5-492d55c709af",
     "16638497253d676a31",
     "1662741707adb69b90"
   ]
