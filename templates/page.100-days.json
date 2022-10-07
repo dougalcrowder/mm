@@ -141,7 +141,7 @@
             "heading_size": "medium",
             "text": "<p>We are going to be sending small surprises in orders and X8 golden crackers at random between now and Christmas with a Molly Mahon voucher worth from £20 to £150 to spend at your will.  I am busy making videos for Instagram to show you how my printing kits work, how to fold napkins for the Christmas table, make name cards, print bunting and more.<\/p>",
             "button_label": "Subscribe and Join Molly on her count down",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/subscribe",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
@@ -345,8 +345,8 @@
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
             "text_align": "left",
-            "button_label": "Shop new designer wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper",
+            "button_label": "",
+            "button_link": "",
             "subtext": ""
           }
         }
@@ -383,7 +383,7 @@
             "desktop_text_box_position": "center",
             "text_align": "left",
             "button_label": "Subscribe",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/subscribe",
             "subtext": ""
           }
         },
@@ -483,9 +483,9 @@
         "1661959305d8047f36-0": {
           "type": "text",
           "settings": {
-            "heading": "Be Bold, be Beautiful",
+            "heading": "Making a House a Colourful Home",
             "heading_size": "large",
-            "text": "",
+            "text": "<p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -493,18 +493,67 @@
             "desktop_text_box_position": "end",
             "text_align": "left"
           }
+        },
+        "acedb9c0-d288-451f-b16c-aa2dc61f65c4": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home to.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "end",
+            "text_align": "left"
+          }
         }
       },
       "block_order": [
-        "1661959305d8047f36-0"
+        "1661959305d8047f36-0",
+        "acedb9c0-d288-451f-b16c-aa2dc61f65c4"
       ],
       "settings": {
         "margin_top": "l",
         "margin_bot": "none"
       }
     },
+    "1661964058633d317f": {
+      "type": "image-banner",
+      "blocks": {
+        "16619640584483b84f-1": {
+          "type": "text",
+          "settings": {
+            "text": "\" Real homes are not showrooms or magazine ready rooms.  Real homes are spaces to be comfortable and relaxed in.\" Molly Mahon",
+            "go_serif": true,
+            "constrain_text": true
+          }
+        }
+      },
+      "block_order": [
+        "16619640584483b84f-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify:\/\/shop_images\/GREENCOMBE_ATTIC_BEDROOM_MOBILE_d21373c7-eed6-448b-91fa-b65238eb118b.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "l",
+        "bg_color_scheme": "none"
+      }
+    },
     "16619593508075d424": {
       "type": "2-column-text",
+      "disabled": true,
       "blocks": {
         "1661959350df86ec22-0": {
           "type": "text",
@@ -546,6 +595,7 @@
     },
     "1662458692da6f89ec": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "We have a penchant for vibrant colours here at Molly Mahon. But you’ll also find lighter pastels and a cosy palette of golds and sage to bring personality and passion to your home.",
         "heading_size": "medium",
@@ -555,41 +605,9 @@
         "color_scheme": "dark_text"
       }
     },
-    "1661964058633d317f": {
-      "type": "image-banner",
-      "blocks": {
-        "16619640584483b84f-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "home shot - lighter pastels and a palette of gold showing personality and passion",
-            "go_serif": true,
-            "constrain_text": false
-          }
-        }
-      },
-      "block_order": [
-        "16619640584483b84f-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL_DEERHYRSTBATHROOM_1800X900_de845711-3da9-4e61-b5e2-35ed7b03565c.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": false,
-        "constrain": true,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "l",
-        "bg_color_scheme": "none"
-      }
-    },
     "166384958812b2d580": {
       "type": "divider",
+      "disabled": true,
       "settings": {
         "margin_top": "m",
         "margin_bot": "l",
@@ -598,6 +616,7 @@
     },
     "1661964322bc4b19cb": {
       "type": "2-column-text",
+      "disabled": true,
       "blocks": {
         "16619643222aee4981-0": {
           "type": "text",
@@ -639,6 +658,7 @@
     },
     "16619644470639d01e": {
       "type": "simple_quote",
+      "disabled": true,
       "settings": {
         "quote": "<p><em>‘I find it very easy to<br\/>find inspiration in<br\/>nature. Quite simply, I<br\/>love it!’ - Molly Mahon<\/em><\/p>",
         "cite": "",
@@ -709,9 +729,9 @@
     "166196159906fadd3f",
     "1661951966294ab962",
     "16619593053301a27e",
+    "1661964058633d317f",
     "16619593508075d424",
     "1662458692da6f89ec",
-    "1661964058633d317f",
     "166384958812b2d580",
     "1661964322bc4b19cb",
     "16619644470639d01e",
