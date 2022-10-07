@@ -563,7 +563,7 @@
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "white_text",
-        "bg_color_scheme": "none",
+        "bg_color_scheme": "darken",
         "margin_top": "none",
         "margin_bot": "none"
       }
