@@ -6,31 +6,130 @@
       "settings": {
       }
     },
-    "16421993483b631460": {
+    "1661964058633d317f": {
       "type": "image-banner",
       "blocks": {
-        "1642199348d668b6b2-0": {
-          "type": "heading",
+        "16619640584483b84f-1": {
+          "type": "text",
+          "disabled": true,
           "settings": {
-            "heading": "Floral Wallpaper By British Printmaker Molly Mahon",
+            "text": "home shot - lighter pastels and a palette of gold showing personality and passion",
+            "go_serif": true,
+            "constrain_text": false
+          }
+        }
+      },
+      "block_order": [
+        "16619640584483b84f-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22_b6ef7b13-8d5d-438d-9c29-51383c8fb6fa.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none"
+      }
+    },
+    "166245704164214430": {
+      "type": "feature-slides",
+      "blocks": {
+        "1662457041351d627c-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Strawberry Grass",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "6c1fad14-10b7-4a53-ab28-74050d8bd26c": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Eating ripe, juicy strawberries with a dollop of fresh cream is a quintessential British summertime treat. With this exclusive ditsy floral wallpaper from Molly Mahon, you can now bring the sweetness of the season into your home décor. Featuring a beautiful four-colour block print, this textured wallpaper is made using the heritage technique of surface printing. For an extra flourish of British nostalgia, it can be paired with matching hand-blocked fabric.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "985db019-352d-4d21-9b79-825eacd805f9": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22_b6ef7b13-8d5d-438d-9c29-51383c8fb6fa.jpg",
+            "title": "Strawberry Grass",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        }
+      },
+      "block_order": [
+        "1662457041351d627c-0",
+        "6c1fad14-10b7-4a53-ab28-74050d8bd26c",
+        "985db019-352d-4d21-9b79-825eacd805f9"
+      ],
+      "settings": {
+        "background": "#90bbe4",
+        "margin_top": "l",
+        "margin_bot": "none",
+        "slides_title": "Explore our Strawberry design"
+      }
+    },
+    "93a5ee46-ba5d-40e7-a4a9-f5086958e716": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "wallpaper-strawberry-grass"
+        ],
+        "show_secondary_image": true,
+        "centred": true
+      }
+    },
+    "4d9a2905-2446-4eb2-a371-23a5868035cb": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
             "heading_type": "header1"
           }
         },
-        "1642199348d668b6b2-1": {
+        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "Shop our wonderful collection of designer floral wallpaper, \nexclusively designed by British printmaker, Molly Mahon. \nEthically printed in the UK .",
+            "text": "Make yourself a home.",
             "go_serif": false,
-            "constrain_text": true
+            "constrain_text": false
           }
         },
-        "1642199348d668b6b2-2": {
+        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-2": {
           "type": "buttons",
           "disabled": true,
           "settings": {
-            "button_label_1": "Click here to order your brochure",
-            "button_link_1": "shopify:\/\/products\/fabric-greencombe-brochure",
-            "button_style_secondary_1": true,
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
             "button_label_2": "Button label",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -38,25 +137,79 @@
         }
       },
       "block_order": [
-        "1642199348d668b6b2-0",
-        "1642199348d668b6b2-1",
-        "1642199348d668b6b2-2"
+        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-0",
+        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-1",
+        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_FERN_DEERHYRST_KIDSBEDROOM_1800X1000_94ea07ba-1436-4e52-9755-f93831dc7509.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_WINDOW_1200X900_5f18bf47-2d02-4c93-a648-aad72cedf751.jpg",
         "letterbox": false,
-        "make_logo_white": true,
+        "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "start",
-        "text_align": "left",
-        "text_box_max_width": "900",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "darken"
+        "bg_color_scheme": "none"
+      }
+    },
+    "16624577622fefe57b": {
+      "type": "feature-slides",
+      "blocks": {
+        "16624577610885c164-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Birds & Bees",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "c352ccf3-a84e-4338-be78-f7c420e28e91": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Based on Molly’s walks in the stunning English countryside, our mono-colour Birds & Bees luxury floral wallpaper breathes life into any area. It features interwoven vines of mixed leaves and flowers and an array of English wildlife including birds, bees, and butterflies. It is available in a calming blue colour or an uplifting pea green.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "3575bee4-d630-4afd-9664-0c5e726147e2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_WINDOW_1200X900_56c8829e-ceb9-462d-8840-6574689ebb63.jpg",
+            "title": "Birds & Bees Pea Green",
+            "link": "shopify:\/\/products\/wallpaper-birdsbees-peagreen",
+            "color_scheme": "dark_text"
+          }
+        }
+      },
+      "block_order": [
+        "16624577610885c164-0",
+        "c352ccf3-a84e-4338-be78-f7c420e28e91",
+        "3575bee4-d630-4afd-9664-0c5e726147e2"
+      ],
+      "settings": {
+        "background": "#77a96b",
+        "margin_top": "l",
+        "margin_bot": "none",
+        "slides_title": "Explore our Birds & Bees swatches"
       }
     },
     "1642200428ac6075d8": {
@@ -294,212 +447,6 @@
       "settings": {
         "margin_top": "none",
         "margin_bot": "sm"
-      }
-    },
-    "1661964058633d317f": {
-      "type": "image-banner",
-      "blocks": {
-        "16619640584483b84f-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "home shot - lighter pastels and a palette of gold showing personality and passion",
-            "go_serif": true,
-            "constrain_text": false
-          }
-        }
-      },
-      "block_order": [
-        "16619640584483b84f-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22_b6ef7b13-8d5d-438d-9c29-51383c8fb6fa.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none"
-      }
-    },
-    "166245704164214430": {
-      "type": "feature-slides",
-      "blocks": {
-        "1662457041351d627c-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Strawberry Grass",
-            "heading_size": "medium",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "6c1fad14-10b7-4a53-ab28-74050d8bd26c": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>Eating ripe, juicy strawberries with a dollop of fresh cream is a quintessential British summertime treat. With this exclusive ditsy floral wallpaper from Molly Mahon, you can now bring the sweetness of the season into your home décor. Featuring a beautiful four-colour block print, this textured wallpaper is made using the heritage technique of surface printing. For an extra flourish of British nostalgia, it can be paired with matching hand-blocked fabric.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "985db019-352d-4d21-9b79-825eacd805f9": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22_b6ef7b13-8d5d-438d-9c29-51383c8fb6fa.jpg",
-            "title": "Strawberry Grass",
-            "link": "",
-            "color_scheme": "dark_text"
-          }
-        }
-      },
-      "block_order": [
-        "1662457041351d627c-0",
-        "6c1fad14-10b7-4a53-ab28-74050d8bd26c",
-        "985db019-352d-4d21-9b79-825eacd805f9"
-      ],
-      "settings": {
-        "background": "#90bbe4",
-        "margin_top": "l",
-        "margin_bot": "none",
-        "slides_title": "Explore our Strawberry design"
-      }
-    },
-    "93a5ee46-ba5d-40e7-a4a9-f5086958e716": {
-      "type": "product-grid",
-      "settings": {
-        "product_list": [
-          "wallpaper-strawberry-grass"
-        ],
-        "show_secondary_image": true,
-        "centred": true
-      }
-    },
-    "4d9a2905-2446-4eb2-a371-23a5868035cb": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-0",
-        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-1",
-        "template--14416261283898__4d9a2905-2446-4eb2-a371-23a5868035cb-1665488575cf2b9212-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_WINDOW_1200X900_5f18bf47-2d02-4c93-a648-aad72cedf751.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none"
-      }
-    },
-    "16624577622fefe57b": {
-      "type": "feature-slides",
-      "blocks": {
-        "16624577610885c164-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Birds & Bees",
-            "heading_size": "medium",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "c352ccf3-a84e-4338-be78-f7c420e28e91": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>Based on Molly’s walks in the stunning English countryside, our mono-colour Birds & Bees luxury floral wallpaper breathes life into any area. It features interwoven vines of mixed leaves and flowers and an array of English wildlife including birds, bees, and butterflies. It is available in a calming blue colour or an uplifting pea green.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "3575bee4-d630-4afd-9664-0c5e726147e2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_WINDOW_1200X900_56c8829e-ceb9-462d-8840-6574689ebb63.jpg",
-            "title": "Birds & Bees Pea Green",
-            "link": "shopify:\/\/products\/wallpaper-birdsbees-peagreen",
-            "color_scheme": "dark_text"
-          }
-        }
-      },
-      "block_order": [
-        "16624577610885c164-0",
-        "c352ccf3-a84e-4338-be78-f7c420e28e91",
-        "3575bee4-d630-4afd-9664-0c5e726147e2"
-      ],
-      "settings": {
-        "background": "#77a96b",
-        "margin_top": "l",
-        "margin_bot": "none",
-        "slides_title": "Explore our Birds & Bees swatches"
       }
     },
     "4509f34a-1980-433a-8892-17ab0802d496": {
@@ -902,7 +849,11 @@
   },
   "order": [
     "main",
-    "16421993483b631460",
+    "1661964058633d317f",
+    "166245704164214430",
+    "93a5ee46-ba5d-40e7-a4a9-f5086958e716",
+    "4d9a2905-2446-4eb2-a371-23a5868035cb",
+    "16624577622fefe57b",
     "1642200428ac6075d8",
     "166195210128b91b49",
     "1661950917ca5910a9",
@@ -910,11 +861,6 @@
     "166196159906fadd3f",
     "16619593053301a27e",
     "16619593508075d424",
-    "1661964058633d317f",
-    "166245704164214430",
-    "93a5ee46-ba5d-40e7-a4a9-f5086958e716",
-    "4d9a2905-2446-4eb2-a371-23a5868035cb",
-    "16624577622fefe57b",
     "4509f34a-1980-433a-8892-17ab0802d496",
     "d1a11954-ce32-4eeb-9e52-c026cd0290b8",
     "16624574182228dbc7",
