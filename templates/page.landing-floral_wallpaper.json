@@ -296,64 +296,59 @@
         "margin_bot": "sm"
       }
     },
-    "166196276803731365": {
-      "type": "multicolumn",
-      "disabled": true,
+    "11635f87-ea7f-40cc-9f8d-b0e32124cc95": {
+      "type": "image-banner",
       "blocks": {
-        "1661962768c5e9d315-0": {
-          "type": "column",
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0": {
+          "type": "heading",
+          "disabled": true,
           "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/BODEN_WOMEN_DAYDRESS_LIFESTYLE.jpg",
-            "auto_height": "true",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "red",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Boden Loves Molly Mahon",
-            "button_link": "shopify:\/\/blogs\/journal\/boden-loves-molly-mahon",
-            "subtext": ""
+            "heading": "Image banner",
+            "heading_type": "header1"
           }
         },
-        "1661962768c5e9d315-1": {
-          "type": "column",
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1": {
+          "type": "text",
+          "disabled": true,
           "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/ANTHRO_PAINT_DISPLAY_1300x1300_81eaed96-ba85-4feb-971d-351d93da9f28.jpg",
-            "auto_height": "true",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Molly Mahon @ Anthropologie",
-            "button_link": "shopify:\/\/pages\/anthropologie-craft-week-molly-mahon",
-            "subtext": ""
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "1661962768c5e9d315-0",
-        "1661962768c5e9d315-1"
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0",
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1",
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2"
       ],
       "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
+        "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22_b6ef7b13-8d5d-438d-9c29-51383c8fb6fa.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "none",
+        "bg_color_scheme": "none"
       }
     },
     "166245704164214430": {
@@ -386,71 +381,27 @@
             "desktop_text_box_position": "start",
             "text_align": "left"
           }
-        },
-        "985db019-352d-4d21-9b79-825eacd805f9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FBAPINLIFECHAIR_f1bf1ab8-3200-4d2c-982c-a5b99b0d9837.jpg",
-            "title": "Coral Blue",
-            "link": "shopify:\/\/products\/wallpaper-coral-blue",
-            "color_scheme": "dark_text"
-          }
-        },
-        "c8053bd5-35af-4c35-af46-24bb286cd53d": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MARIGOLD_PINK_BEDROOM_WALLPAPER.jpg",
-            "title": "Marigold Pink\/Blue",
-            "link": "shopify:\/\/products\/wallpaper-marigold-pinkblue",
-            "color_scheme": "dark_text"
-          }
-        },
-        "81d6ecdf-6022-4d32-bd67-0bb39128c5a2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_BINDI_DEERHYRST_1200X900_c2484dbd-6cf6-4f8d-b6c0-7e86536281d5.jpg",
-            "title": "Bindi Blue",
-            "link": "shopify:\/\/products\/wallpaper-bindi-blue",
-            "color_scheme": "dark_text"
-          }
-        },
-        "319622a2-fefb-4e50-aaf1-5369cbeede0b": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_ZETLAND_1200X900_71bd2123-97d6-4f48-afb9-b113f7beee51.jpg",
-            "title": "Birds & Bees Blue",
-            "link": "shopify:\/\/products\/wallpaper-birdsbees-blue",
-            "color_scheme": "dark_text"
-          }
-        },
-        "b2c9aaa4-7822-482e-ad0c-35d58a355e55": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
-            "title": "Spot & Star Denim",
-            "link": "shopify:\/\/products\/wallpaper-spotstar-denim",
-            "color_scheme": "dark_text"
-          }
         }
       },
       "block_order": [
         "1662457041351d627c-0",
-        "6c1fad14-10b7-4a53-ab28-74050d8bd26c",
-        "985db019-352d-4d21-9b79-825eacd805f9",
-        "c8053bd5-35af-4c35-af46-24bb286cd53d",
-        "81d6ecdf-6022-4d32-bd67-0bb39128c5a2",
-        "319622a2-fefb-4e50-aaf1-5369cbeede0b",
-        "b2c9aaa4-7822-482e-ad0c-35d58a355e55"
+        "6c1fad14-10b7-4a53-ab28-74050d8bd26c"
       ],
       "settings": {
         "background": "#90bbe4",
         "margin_top": "l",
         "margin_bot": "none",
-        "slides_title": "Our favourite Bagru collection in use"
+        "slides_title": "Explore our Strawberry design"
+      }
+    },
+    "f83b84d3-1e21-45cd-8f08-515c2dfaf423": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "wallpaper-strawberry-grass"
+        ],
+        "show_secondary_image": true,
+        "centred": true
       }
     },
     "16624577622fefe57b": {
@@ -483,52 +434,11 @@
             "desktop_text_box_position": "start",
             "text_align": "left"
           }
-        },
-        "f90ce464-e414-4a80-97c1-ae2fa3e35776": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_LEAF_DEERHYRST_1200X900_e67e2053-a9de-4a52-aad6-24b0e203c13f.jpg",
-            "title": "Leaf Grass Green",
-            "link": "shopify:\/\/products\/wallpaper-leaf-grassgreen",
-            "color_scheme": "dark_text"
-          }
-        },
-        "3575bee4-d630-4afd-9664-0c5e726147e2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_WINDOW_1200X900_56c8829e-ceb9-462d-8840-6574689ebb63.jpg",
-            "title": "Birds & Bees Pea Green",
-            "link": "shopify:\/\/products\/wallpaper-birdsbees-peagreen",
-            "color_scheme": "dark_text"
-          }
-        },
-        "63d24b92-aaa1-4749-834e-c2e91ec79ff3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_SWATCH_1200X900_68b17ef9-3fd9-42cc-a499-36d9767e792e.jpg",
-            "title": "Spot & Star Pea Green",
-            "link": "shopify:\/\/products\/wallpaper-spotstar-peagreen",
-            "color_scheme": "dark_text"
-          }
-        },
-        "d15617b8-79cc-4df6-ba7f-064afc94463c": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FABRIC_TULIP_ROSEGRASS_1300X1300_fa5ff282-96ed-455a-858e-d4a1e94dddbf.jpg",
-            "title": "Fern Sage",
-            "link": "",
-            "color_scheme": "dark_text"
-          }
         }
       },
       "block_order": [
         "16624577610885c164-0",
-        "c352ccf3-a84e-4338-be78-f7c420e28e91",
-        "f90ce464-e414-4a80-97c1-ae2fa3e35776",
-        "3575bee4-d630-4afd-9664-0c5e726147e2",
-        "63d24b92-aaa1-4749-834e-c2e91ec79ff3",
-        "d15617b8-79cc-4df6-ba7f-064afc94463c"
+        "c352ccf3-a84e-4338-be78-f7c420e28e91"
       ],
       "settings": {
         "background": "#77a96b",
@@ -567,41 +477,11 @@
             "desktop_text_box_position": "start",
             "text_align": "left"
           }
-        },
-        "9433d050-5fbc-4539-9d64-8c9b697d5785": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FERNTURMERICKEALIFE2_446cc717-0a7a-409d-852c-41b86bcb8eb3.jpg",
-            "title": "Fern Mustard",
-            "link": "shopify:\/\/products\/wallpaper-fern-mustard",
-            "color_scheme": "dark_text"
-          }
-        },
-        "85ffb669-eec7-4216-a711-0e20358a3334": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_LANI_BOOKSHELF_1200X900_74e7ebfc-0c56-419f-b36d-88f49df46f94.jpg",
-            "title": "Lani Gold",
-            "link": "shopify:\/\/products\/wallpaper-lani-gold",
-            "color_scheme": "dark_text"
-          }
-        },
-        "25af32f0-758c-4eae-bc62-d02be117501f": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_BEDROOM_1200X900_bb58ffcb-f968-4a02-9c74-7f524d72fe63.jpg",
-            "title": "Marwari Horse Gold",
-            "link": "shopify:\/\/products\/wallpaper-marwarihorse-gold",
-            "color_scheme": "dark_text"
-          }
         }
       },
       "block_order": [
         "1662457418f867cbaa-0",
-        "15b79bcd-cc34-44f0-9f52-3425ff495a27",
-        "9433d050-5fbc-4539-9d64-8c9b697d5785",
-        "85ffb669-eec7-4216-a711-0e20358a3334",
-        "25af32f0-758c-4eae-bc62-d02be117501f"
+        "15b79bcd-cc34-44f0-9f52-3425ff495a27"
       ],
       "settings": {
         "background": "#cec367",
@@ -641,33 +521,6 @@
             "text_align": "left"
           }
         },
-        "e993385f-b8a8-4787-9326-6f15c826fd82": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_PINK_BATHROOM_1200X900_518cbfea-a7b7-452a-8800-766d08e85c9c.jpg",
-            "title": "Marwari Horse Pink",
-            "link": "shopify:\/\/products\/wallpaper-marwarihorse-pink",
-            "color_scheme": "dark_text"
-          }
-        },
-        "502dd316-ce69-44eb-a5a6-80d9c83a54d2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WLACOLPINK_8fd60aaa-1fa7-4db5-9795-a5a104f5d85d.jpg",
-            "title": "Lani Pnk",
-            "link": "shopify:\/\/products\/wallpaper-lani-pink",
-            "color_scheme": "dark_text"
-          }
-        },
-        "1d102fae-f42f-4d68-8565-3757e0d3daa3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WMGCOLPINGREN_e74f992d-2b50-4aa9-9221-b90776afcfbe.jpg",
-            "title": "Marigold Pink Green",
-            "link": "shopify:\/\/products\/wallpaper-marigold-pinkgreen",
-            "color_scheme": "dark_text"
-          }
-        },
         "14b20cad-67c6-4e14-876b-f0d527e87dc9": {
           "type": "image",
           "disabled": true,
@@ -681,9 +534,6 @@
       "block_order": [
         "166245841038818ab0-0",
         "68a4c837-71fc-4f14-a8d0-2331f53945f8",
-        "e993385f-b8a8-4787-9326-6f15c826fd82",
-        "502dd316-ce69-44eb-a5a6-80d9c83a54d2",
-        "1d102fae-f42f-4d68-8565-3757e0d3daa3",
         "14b20cad-67c6-4e14-876b-f0d527e87dc9"
       ],
       "settings": {
@@ -745,202 +595,6 @@
         "slides_title": "Check these out"
       }
     },
-    "166420468915cfe575": {
-      "type": "feature-slides",
-      "blocks": {
-        "1664204689c61a56f3-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Leaf",
-            "heading_size": "medium",
-            "text": "",
-            "button_label": "Shop here",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "982184a5-9fa0-4128-a5e8-8e0d331c09d4": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>This Leaf print wallpaper is based on those last few green leaves that fall from the trees right outside Molly’s door at the end of summer in England, signifying a change in season is on its way and Autumn is about to step in. The placement of the leaves on each roll creates a beautiful harmony of nature and geometry, with the blank space behind the foliage revealing a gentle criss-cross pattern.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "609ca7a3-8d08-4867-9497-853b172093c0": {
-          "type": "image",
-          "settings": {
-            "title": "Caption Here",
-            "link": "",
-            "color_scheme": "dark_text"
-          }
-        }
-      },
-      "block_order": [
-        "1664204689c61a56f3-0",
-        "982184a5-9fa0-4128-a5e8-8e0d331c09d4",
-        "609ca7a3-8d08-4867-9497-853b172093c0"
-      ],
-      "settings": {
-        "background": "#90bbe4",
-        "margin_top": "m",
-        "margin_bot": "m",
-        "slides_title": "Check these out"
-      }
-    },
-    "1662458692da6f89ec": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "We have a penchant for vibrant colours here at Molly Mahon. But you’ll also find lighter pastels and a cosy palette of golds and sage to bring personality and passion to your home.",
-        "heading_size": "medium",
-        "text": "",
-        "vertical_alignment": "start",
-        "alignment": "left",
-        "color_scheme": "dark_text"
-      }
-    },
-    "1661964058633d317f": {
-      "type": "image-banner",
-      "blocks": {
-        "16619640584483b84f-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "home shot - lighter pastels and a palette of gold showing personality and passion",
-            "go_serif": true,
-            "constrain_text": false
-          }
-        }
-      },
-      "block_order": [
-        "16619640584483b84f-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL_DEERHYRSTBATHROOM_1800X900_de845711-3da9-4e61-b5e2-35ed7b03565c.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": false,
-        "constrain": true,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "l",
-        "bg_color_scheme": "none"
-      }
-    },
-    "166384958812b2d580": {
-      "type": "divider",
-      "settings": {
-        "margin_top": "m",
-        "margin_bot": "l",
-        "hr": true
-      }
-    },
-    "1661964300e29a69df": {
-      "type": "2-column-text",
-      "blocks": {
-        "16619643001e6b54da-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Birds, Bees and Bindi, Oh My",
-            "heading_size": "large",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "16619643001e6b54da-0"
-      ],
-      "settings": {
-        "margin_top": "l",
-        "margin_bot": "none"
-      }
-    },
-    "1661964322bc4b19cb": {
-      "type": "2-column-text",
-      "blocks": {
-        "16619643222aee4981-0": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>Nature is at the heart of our designs. Molly’s favourite moments are often marked by natural symbols... ferns found on a family walk, coral for her Mother’s love of the coast, the trees of Ashdown Forest. We’re drawn to nature and feel comfort when it’s brought into our home.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "6bb5641a-6711-45f3-8a98-83090ba1f22a": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>From strawberry fields to starry skies, each print has been carefully chosen to bring joy, peace and plenty of personality. Discover our best selling designer floral wallpaper, <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-marigold-pinkblue\">Marigold<\/a>. Or get inspired by Molly’s trips to India. Here you’ll find the rare <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-marwarihorse-darkblue\">Marwari Horse<\/a> trotting along the streets of Rajasthan and our blue <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-bindi-blue\">Bindi print<\/a> from the Bagru Collection, a cheerful, subtle stripe that will uplift any space.<br\/><\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "16619643222aee4981-0",
-        "6bb5641a-6711-45f3-8a98-83090ba1f22a"
-      ],
-      "settings": {
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "16619644470639d01e": {
-      "type": "simple_quote",
-      "settings": {
-        "quote": "<p><em>‘I find it very easy to<br\/>find inspiration in<br\/>nature. Quite simply, I<br\/>love it!’ - Molly Mahon<\/em><\/p>",
-        "cite": "",
-        "bg": "none",
-        "image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_MODILE_1300x1300_84ecfc8d-1e30-4193-bfc7-5162487c591b.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_LIFE2_1200x900_5dac9d3e-cb89-4aa0-8923-b6ee44257890.jpg",
-        "heading_size": "extra_large",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "white_text",
-        "bg_color_scheme": "darken",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "16638497253d676a31": {
-      "type": "divider",
-      "settings": {
-        "margin_top": "m",
-        "margin_bot": "l",
-        "hr": true
-      }
-    },
     "1662741707adb69b90": {
       "type": "code",
       "settings": {
@@ -958,20 +612,13 @@
     "166196159906fadd3f",
     "16619593053301a27e",
     "16619593508075d424",
-    "166196276803731365",
+    "11635f87-ea7f-40cc-9f8d-b0e32124cc95",
     "166245704164214430",
+    "f83b84d3-1e21-45cd-8f08-515c2dfaf423",
     "16624577622fefe57b",
     "16624574182228dbc7",
     "16624584107026dd5b",
     "1664204379a6a5a50c",
-    "166420468915cfe575",
-    "1662458692da6f89ec",
-    "1661964058633d317f",
-    "166384958812b2d580",
-    "1661964300e29a69df",
-    "1661964322bc4b19cb",
-    "16619644470639d01e",
-    "16638497253d676a31",
     "1662741707adb69b90"
   ]
 }
