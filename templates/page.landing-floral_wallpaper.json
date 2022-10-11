@@ -404,6 +404,61 @@
         "centred": true
       }
     },
+    "816ce147-5685-4ccb-ba2f-9d32702464e3": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-0",
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-1",
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_WINDOW_1200X900_5f18bf47-2d02-4c93-a648-aad72cedf751.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none"
+      }
+    },
     "16624577622fefe57b": {
       "type": "feature-slides",
       "blocks": {
@@ -447,6 +502,72 @@
         "slides_title": "Our favourite green designer wallpapers"
       }
     },
+    "ebba0c62-55e1-4e84-bcaf-68b132fcbe13": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "wallpaper-birdsbees-blue",
+          "wallpaper-birdsbees-peagreen"
+        ],
+        "show_secondary_image": true,
+        "centred": true
+      }
+    },
+    "36223d1d-da61-4d6a-b5f2-14a93659da00": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-0",
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-1",
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FERNTURMERICKEALIFE2_bc1a6894-473a-4397-bd1b-d66c5d81319d.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none"
+      }
+    },
     "16624574182228dbc7": {
       "type": "feature-slides",
       "blocks": {
@@ -488,6 +609,71 @@
         "margin_top": "l",
         "margin_bot": "none",
         "slides_title": "Our favourite yellow designer wallpapers"
+      }
+    },
+    "d52e8c56-9b9a-4ae5-901f-619cf84f0f43": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "wallpaper-fern-mustard"
+        ],
+        "show_secondary_image": true,
+        "centred": true
+      }
+    },
+    "200327e8-1073-4a44-8585-cb6a7c972e66": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-0",
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-1",
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wallpaper_marigold_pink_bedroom_deerhyrst_1600x900_5a84aa23-b2cc-445a-9316-f96fa5ca1fb2.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none"
       }
     },
     "16624584107026dd5b": {
@@ -541,6 +727,18 @@
         "margin_top": "l",
         "margin_bot": "none",
         "slides_title": "Our favourite pink designer wallpapers"
+      }
+    },
+    "a6a54246-430f-46e1-af48-3c1c7508fa61": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "wallpaper-marigold-pinkblue",
+          "wallpaper-marigold-yellow",
+          "wallpaper-marigold-pinkgreen"
+        ],
+        "show_secondary_image": true,
+        "centred": true
       }
     },
     "1664204379a6a5a50c": {
@@ -615,9 +813,15 @@
     "11635f87-ea7f-40cc-9f8d-b0e32124cc95",
     "166245704164214430",
     "f83b84d3-1e21-45cd-8f08-515c2dfaf423",
+    "816ce147-5685-4ccb-ba2f-9d32702464e3",
     "16624577622fefe57b",
+    "ebba0c62-55e1-4e84-bcaf-68b132fcbe13",
+    "36223d1d-da61-4d6a-b5f2-14a93659da00",
     "16624574182228dbc7",
+    "d52e8c56-9b9a-4ae5-901f-619cf84f0f43",
+    "200327e8-1073-4a44-8585-cb6a7c972e66",
     "16624584107026dd5b",
+    "a6a54246-430f-46e1-af48-3c1c7508fa61",
     "1664204379a6a5a50c",
     "1662741707adb69b90"
   ]
