@@ -247,12 +247,30 @@
             "button_link": "",
             "subtext": ""
           }
-        },
-        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-2": {
+        }
+      },
+      "block_order": [
+        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-0",
+        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "d7ffdf86-dd2c-4976-9e1b-38cb7062f4b9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14443596480570__d7ffdf86-dd2c-4976-9e1b-38cb7062f4b9-166550412611c50358-0": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
+            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_BINDI_PRINTING_1300X1300_c519be8d-3f38-4ee7-bf6b-d754939d3696.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "Column",
@@ -267,12 +285,31 @@
             "button_link": "",
             "subtext": ""
           }
+        },
+        "template--14443596480570__d7ffdf86-dd2c-4976-9e1b-38cb7062f4b9-166550412611c50358-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "Age Old Techniques",
+            "subtitle_size": "medium",
+            "text": "<p>For us, the human component is a pivotal part of all our products. We aim to invoke emotions with our designs but we also value each and every skilled person that is involved with bringing Molly’s initial doodles to life. <\/p><p>By partnering with talented people in Jaipur, we’re able to support traditional skills that are woven into communities and keep artisanal products at the forefront of the creative arts arena. Each piece of block-printed cloth and paper goes on a journey that is moulded by many skilled hands, giving every item a story that started generations ago.<\/p><p>Until recently, our wallpaper was digitally printed in the UK as an innovative and small-scale way of replicating the craft of hand block printing. However, we’ve utilised another form of block printing to create our<a href=\"https:\/\/mollymahon.com\/products\/wallpaper-strawberry-grass\"> <span style=\"text-decoration:underline\">Strawberry<\/span><\/a> and<a href=\"https:\/\/mollymahon.com\/products\/wallpaper-bindi-blue\"> <span style=\"text-decoration:underline\">Bindi<\/span><\/a> designs. These wallpapers are produced using surface printing, which is a heritage technique dating back to the 1800s. Using this method, we’re able to create a wonderful, textured wallpaper that gives a special depth and energy to the design. What’s more, during the printing process, there are tiny variations in how the paint lands on the paper and this gives it a result that is exceptionally close to hand block printing. <\/p>",
+            "button_color": "dark",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "left",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
         }
       },
       "block_order": [
-        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-0",
-        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-1",
-        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-2"
+        "template--14443596480570__d7ffdf86-dd2c-4976-9e1b-38cb7062f4b9-166550412611c50358-0",
+        "template--14443596480570__d7ffdf86-dd2c-4976-9e1b-38cb7062f4b9-166550412611c50358-1"
       ],
       "settings": {
         "mc_title": "",
@@ -299,6 +336,7 @@
     "166195210128b91b49",
     "166196159906fadd3f",
     "07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f",
+    "d7ffdf86-dd2c-4976-9e1b-38cb7062f4b9",
     "1662741707adb69b90"
   ]
 }
