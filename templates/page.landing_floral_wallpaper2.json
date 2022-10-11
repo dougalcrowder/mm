@@ -189,48 +189,6 @@
         "margin_bot": "none"
       }
     },
-    "1661951966294ab962": {
-      "type": "2-column-text",
-      "disabled": true,
-      "blocks": {
-        "166195196658edcf74-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Discover a World of Print, Colour and Pattern with Molly Mahon",
-            "heading_size": "small",
-            "text": "<p>Molly Mahon is a renowned British printmaker whose block print originals are applied to quality fabrics, luxury wallpaper and a whole host of homewares such as mugs, aprons,<a href=\"https:\/\/mollymahon.com\/collections\/cushions\"> <span style=\"text-decoration:underline\">cushions<\/span><\/a>, and wash bags.<\/p><p>Every item starts as a sketch which is then brought to life by Indian artisans who hand carve the designs into wooden blocks. These are then used by master block printers who apply the patterns with stunning accuracy to eco-conscious, premium textiles. Bold, fun prints and vivid colours are combined to create our floral wallpaper patterns, and there are matching materials and accessories available so that you can style each room in your home exactly how you like.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "166195196658edcf74-1": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>Molly has collaborated with a variety of well-known brands including<a href=\"https:\/\/mollymahon.com\/pages\/boden-molly-mahon\"> <span style=\"text-decoration:underline\">Boden<\/span><\/a> and Anthropologie.<\/p><p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\" -  <\/em>Johnnie Boden<\/p><p>Her playful and charming designs showcase the best of the British countryside and allow you to create unique and exciting spaces.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "166195196658edcf74-0",
-        "166195196658edcf74-1"
-      ],
-      "settings": {
-        "margin_top": "sm",
-        "margin_bot": "m"
-      }
-    },
     "166196159906fadd3f": {
       "type": "simple_quote",
       "settings": {
@@ -242,34 +200,87 @@
         "alignment": "center",
         "color_scheme": "white_text",
         "bg_color_scheme": "none",
-        "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
-    "16619593053301a27e": {
-      "type": "2-column-text",
+    "07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f": {
+      "type": "multicolumn",
       "blocks": {
-        "1661959305d8047f36-0": {
-          "type": "text",
+        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-0": {
+          "type": "column",
           "settings": {
-            "heading": "Block Printing: Artisan Creativity",
-            "heading_size": "large",
+            "width": "half",
+            "narrow": true,
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "Block Printing: Artisan Creativity",
+            "subtitle_size": "medium",
             "text": "<p>Block printing is an ancient method of transferring a design to cloth. It originated some 4,500 years ago and is a technique that is still revered and admired today.<\/p><p>One aspect that drew Molly to hand block printing of her designs was the personal touch and human connection that is embedded into every single piece. The slight movement between each print and the unique differences give the items a finish and quality that just cannot be replicated by more modern techniques. It is these minute imperfections in each print that make them so special, much like the blemishes that can be found in nature. You only have to look at the four-leaf clover, which is the result of a mutation but a world-known symbol of luck to see how much beauty and joy can be found in the imperfect.<\/p><p>The block printing begins in Molly’s East Sussex studio where she transforms her sketches inspired by nature, travels, and her daily life into repeat designs. Each design is then hand carved into a unique lino or wooden block before the pattern is applied by our team of expert craftsmen in India onto quality fabrics and paper. Once the pattern is finalised, it is printed onto premium wallpaper here in the UK.<\/p>",
-            "button_label": "Discover more about block printing",
-            "button_link": "shopify:\/\/pages\/block-printing",
-            "inset": true,
+            "button_color": "dark",
             "color_scheme": "dark_text",
-            "desktop_text_box_position": "end",
-            "text_align": "left"
+            "desktop_text_box_position": "center",
+            "text_align": "left",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
           }
         }
       },
       "block_order": [
-        "1661959305d8047f36-0"
+        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-0",
+        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-1",
+        "template--14443596480570__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f-166550412611c50358-2"
       ],
       "settings": {
-        "margin_top": "l",
-        "margin_bot": "none"
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1662741707adb69b90": {
@@ -286,9 +297,8 @@
     "93a5ee46-ba5d-40e7-a4a9-f5086958e716",
     "43bd090c-92a5-4618-b4e5-f921fa3c3445",
     "166195210128b91b49",
-    "1661951966294ab962",
     "166196159906fadd3f",
-    "16619593053301a27e",
+    "07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f",
     "1662741707adb69b90"
   ]
 }
