@@ -468,8 +468,8 @@
             "heading": "Birds & Bees",
             "heading_size": "medium",
             "text": "",
-            "button_label": "Shop all green designer wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper",
+            "button_label": "",
+            "button_link": "",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
@@ -499,7 +499,7 @@
         "background": "#77a96b",
         "margin_top": "l",
         "margin_bot": "none",
-        "slides_title": "Our favourite green designer wallpapers"
+        "slides_title": "Explore our Birds & Bees swatches"
       }
     },
     "ebba0c62-55e1-4e84-bcaf-68b132fcbe13": {
@@ -577,8 +577,8 @@
             "heading": "Fern",
             "heading_size": "medium",
             "text": "<p><\/p><p><\/p>",
-            "button_label": "Shop here",
-            "button_link": "shopify:\/\/collections\/wallpaper",
+            "button_label": "",
+            "button_link": "",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
@@ -608,14 +608,15 @@
         "background": "#cec367",
         "margin_top": "l",
         "margin_bot": "none",
-        "slides_title": "Our favourite yellow designer wallpapers"
+        "slides_title": "Explore our Fern Swatches"
       }
     },
     "d52e8c56-9b9a-4ae5-901f-619cf84f0f43": {
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-fern-mustard"
+          "wallpaper-fern-mustard",
+          "wallpaper-fern-sage"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -685,8 +686,8 @@
             "heading": "Marigold",
             "heading_size": "medium",
             "text": "",
-            "button_label": "Shop here",
-            "button_link": "shopify:\/\/collections\/wallpaper",
+            "button_label": "",
+            "button_link": "",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
@@ -726,7 +727,7 @@
         "background": "#ffc7ca",
         "margin_top": "l",
         "margin_bot": "none",
-        "slides_title": "Our favourite pink designer wallpapers"
+        "slides_title": "Explore our Marigold swatches"
       }
     },
     "a6a54246-430f-46e1-af48-3c1c7508fa61": {
@@ -741,6 +742,61 @@
         "centred": true
       }
     },
+    "11439af8-ec1b-4368-b736-49b6f99047b7": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14416261283898__11439af8-ec1b-4368-b736-49b6f99047b7-166550225967022816-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14416261283898__11439af8-ec1b-4368-b736-49b6f99047b7-166550225967022816-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14416261283898__11439af8-ec1b-4368-b736-49b6f99047b7-166550225967022816-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14416261283898__11439af8-ec1b-4368-b736-49b6f99047b7-166550225967022816-0",
+        "template--14416261283898__11439af8-ec1b-4368-b736-49b6f99047b7-166550225967022816-1",
+        "template--14416261283898__11439af8-ec1b-4368-b736-49b6f99047b7-166550225967022816-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wallpaper_tree_green_attic_bedroom_1600x900_cbeb6a92-8162-4697-aef9-511e782bea92.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none"
+      }
+    },
     "1664204379a6a5a50c": {
       "type": "feature-slides",
       "blocks": {
@@ -750,7 +806,7 @@
             "heading": "Tree",
             "heading_size": "medium",
             "text": "",
-            "button_label": "Shop here",
+            "button_label": "",
             "button_link": "",
             "inset": false,
             "color_scheme": "dark_text",
@@ -790,7 +846,17 @@
         "background": "#77a96b",
         "margin_top": "m",
         "margin_bot": "m",
-        "slides_title": "Check these out"
+        "slides_title": "Explore our Tree design"
+      }
+    },
+    "54ecf56d-98fa-447d-b168-876d68c4ca2a": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "wallpaper-tree-green"
+        ],
+        "show_secondary_image": true,
+        "centred": true
       }
     },
     "1662741707adb69b90": {
@@ -822,7 +888,9 @@
     "200327e8-1073-4a44-8585-cb6a7c972e66",
     "16624584107026dd5b",
     "a6a54246-430f-46e1-af48-3c1c7508fa61",
+    "11439af8-ec1b-4368-b736-49b6f99047b7",
     "1664204379a6a5a50c",
+    "54ecf56d-98fa-447d-b168-876d68c4ca2a",
     "1662741707adb69b90"
   ]
 }
