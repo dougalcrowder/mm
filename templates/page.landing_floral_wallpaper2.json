@@ -270,18 +270,18 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_BINDI_PRINTING_1300X1300_c519be8d-3f38-4ee7-bf6b-d754939d3696.jpg",
+            "image": "shopify:\/\/shop_images\/surface_print_wallpaper_strawberry_machine_1000x1500_de16be5b-7924-425b-b097-3e5b1226a188.jpg",
             "auto_height": "none",
             "cover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
+            "title": "",
+            "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "subtext": ""
           }
@@ -301,8 +301,8 @@
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
             "text_align": "left",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Discover more about our Craftsmanship",
+            "button_link": "shopify:\/\/blogs\/craftsmanship",
             "subtext": ""
           }
         }
