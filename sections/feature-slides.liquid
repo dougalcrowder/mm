@@ -134,8 +134,17 @@
       {%- endcase -%}
       {%- endfor -%}
       </ul>
+      {%- assign blockcount = 0 -%}
+      {%- for block in section.blocks -%}
+      {% case block.type %}
+      {%- when 'image' -%}
+        {%- assign blockcount = blockcount | plus: 1 -%}
+      {%- endcase -%}
+      {%- endfor -%}
+      {% if blockcount >= 2 %}
       <button type="button" class="slider-nav"></button>
       <button type="button" class="slider-nav slider-nav-next"></button>
+      {% endif %}
     </div>
   </div> 
 </div>
