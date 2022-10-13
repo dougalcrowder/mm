@@ -148,13 +148,39 @@
         "bg_color_scheme": "none"
       }
     },
+    "9e8bffb4-d8b2-4736-9b0c-d895f5ca6e5e": {
+      "type": "2-column-text",
+      "blocks": {
+        "template--14443596480570__9e8bffb4-d8b2-4736-9b0c-d895f5ca6e5e-1665663748a9ffd2e5-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Matchimalism, Minimalism or Maximalism?",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "end",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14443596480570__9e8bffb4-d8b2-4736-9b0c-d895f5ca6e5e-1665663748a9ffd2e5-0"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    },
     "166195210128b91b49": {
       "type": "2-column-text",
       "blocks": {
         "16619521000b84ba87-0": {
           "type": "text",
           "settings": {
-            "heading": "Matchimalism, Minimalism or Maximalism?",
+            "heading": "",
             "heading_size": "medium",
             "text": "<p>One of the best things about home décor is that the boundaries are limitless. You can truly impart your own personality with the way that you style your home. That might mean neutral tones with pops of colour, bold, clashing prints or matching patterns across surfaces and accessories.<\/p><p>Matchimalism is the concept of picking a pattern you adore and using it in as many ways as you can in any given space. That’s why our floral wallpapers have matching fabrics. With this fabric, you can create curtains, cushions, table runners, placemats and so much more to create a room where every aspect is in perfect, pattern-matched harmony. <\/p><p>If you are someone that prefers experimenting with different textures, shapes, colours and prints then maximalism might be for you. Maximalism throws out the notion of ‘less is more’ by using well-thought-out layering, contrast, and objects to create a space that is visually stimulating and keeps your eyes wandering. So, for instance, you might pair floral pastel wallpaper with geometric patterns but tie them together by using complementary colours such as blue and yellow or green and pink.<\/p>",
             "button_label": "",
@@ -175,8 +201,8 @@
             "button_link": "",
             "inset": true,
             "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center"
+            "desktop_text_box_position": "start",
+            "text_align": "left"
           }
         }
       },
@@ -185,8 +211,8 @@
         "16619521000b84ba87-1"
       ],
       "settings": {
-        "margin_top": "sm",
-        "margin_bot": "none"
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "166196159906fadd3f": {
@@ -258,7 +284,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
+        "margin_top": "l",
         "margin_bot": "m"
       }
     },
@@ -316,8 +342,34 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
+        "margin_top": "m",
         "margin_bot": "m"
+      }
+    },
+    "79fb8341-c269-4e2b-868d-cc0a0ff3d85a": {
+      "type": "2-column-text",
+      "blocks": {
+        "template--14443596480570__79fb8341-c269-4e2b-868d-cc0a0ff3d85a-16656636773669f8ba-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Thinking Green",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14443596480570__79fb8341-c269-4e2b-868d-cc0a0ff3d85a-16656636773669f8ba-0"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "none"
       }
     },
     "34f6827f-1203-4a4b-95d4-239efb82aa3a": {
@@ -326,7 +378,7 @@
         "template--14443596480570__34f6827f-1203-4a4b-95d4-239efb82aa3a-1665573957a419a813-0": {
           "type": "text",
           "settings": {
-            "heading": "Thinking Green",
+            "heading": "",
             "heading_size": "medium",
             "text": "<p>Our wallpapers might come in a wonderful array of colours but when it comes to our business choices and the materials we use, we’re all about staying green. Our environmental impact is carefully considered - just like the human aspect of our products is important to us, so is the way in which we treat our planet. Nature is woven into so many of Molly’s designs that it was obvious to us that our processes make sure we look after it.<\/p><p>Each collection is made in small batches. This allows us to focus on the details and create higher quality products, whilst avoiding waste. We use water-based ingredients and natural pigments where possible and only use organic cottons and plant-based fibres. This ensures your wallpaper, fabrics and furniture are long-lasting and can add happiness to your home for years to come. In addition, every leftover scrap of fabric is used somewhere along the journey - we avoid anything going to waste where we can.<\/p>",
             "button_label": "",
@@ -347,7 +399,7 @@
             "button_link": "",
             "inset": false,
             "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
+            "desktop_text_box_position": "start",
             "text_align": "left"
           }
         }
@@ -357,8 +409,8 @@
         "a2257735-a269-40f4-aff9-41c1c3323b46"
       ],
       "settings": {
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "l"
       }
     },
     "1662741707adb69b90": {
@@ -378,7 +430,7 @@
             "narrow": false,
             "image": "shopify:\/\/shop_images\/MOLLY_BLOCKPRINTING_BODEN.jpg",
             "auto_height": "none",
-            "cover": false,
+            "cover": true,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -387,7 +439,7 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "subtext": ""
           }
@@ -433,10 +485,12 @@
     "166245704164214430",
     "93a5ee46-ba5d-40e7-a4a9-f5086958e716",
     "43bd090c-92a5-4618-b4e5-f921fa3c3445",
+    "9e8bffb4-d8b2-4736-9b0c-d895f5ca6e5e",
     "166195210128b91b49",
     "166196159906fadd3f",
     "07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f",
     "d7ffdf86-dd2c-4976-9e1b-38cb7062f4b9",
+    "79fb8341-c269-4e2b-868d-cc0a0ff3d85a",
     "34f6827f-1203-4a4b-95d4-239efb82aa3a",
     "1662741707adb69b90",
     "7163ab39-5d0b-4df4-909f-2cc90e752cd6"
