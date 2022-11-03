@@ -87,7 +87,7 @@
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>Autumn Colours<\/p>",
+        "title": "<p>Winter is coming<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
         "color_scheme": "red_text"
@@ -249,6 +249,65 @@
         "bg_color_scheme": "none"
       }
     },
+    "1657185355c64083f9": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657185355f4da2f74-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/supply_store_crafting_kitchentable_1300x1300_0107be0a-a540-40bc-9f11-d98f60109523.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "title": "",
+            "subtitle": "Make you Mark",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore More",
+            "button_link": "shopify:\/\/collections\/supply-store",
+            "subtext": ""
+          }
+        },
+        "1657185355f4da2f74-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/fabric_bagru_chair_lottiecole_1300x1300_40fc7410-fb88-43e3-8d86-ab594e0b94f3.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "title": "",
+            "subtitle": "Bagru Collection",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "View",
+            "button_link": "shopify:\/\/collections\/bagru-collection",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657185355f4da2f74-0",
+        "1657185355f4da2f74-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "16571921305b28430e": {
       "type": "multicolumn",
       "blocks": {
@@ -260,8 +319,8 @@
             "image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_3.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "",
-            "subtitle": "The New Bloomsbury Rug",
+            "title": "Bloomsbury Rug",
+            "subtitle": "Our Softest Rug Yet",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
@@ -304,67 +363,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "m",
+        "margin_top": "none",
         "margin_bot": "s"
-      }
-    },
-    "1657185355c64083f9": {
-      "type": "multicolumn",
-      "blocks": {
-        "1657185355f4da2f74-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/FLUBLUPINLIFESOFA_8c136c3c-686c-4235-82e7-a3c0334315a8.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "title": "",
-            "subtitle": "Jaipur Collection",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "View",
-            "button_link": "shopify:\/\/collections\/jaipur-collection",
-            "subtext": ""
-          }
-        },
-        "1657185355f4da2f74-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/fabric_bagru_chair_lottiecole_1300x1300_40fc7410-fb88-43e3-8d86-ab594e0b94f3.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "title": "",
-            "subtitle": "Bagru Collection",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "View",
-            "button_link": "shopify:\/\/collections\/bagru-collection",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "1657185355f4da2f74-0",
-        "1657185355f4da2f74-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "s",
-        "margin_bot": "m"
       }
     },
     "1634821627eaee293f": {
@@ -637,8 +637,8 @@
     "16348194267fffd3c9",
     "163481963822b4d1b3",
     "1657125172969e3f3f",
-    "16571921305b28430e",
     "1657185355c64083f9",
+    "16571921305b28430e",
     "1634821627eaee293f",
     "164129687781f3cb6c",
     "165712871247f6866c",
