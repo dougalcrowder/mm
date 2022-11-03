@@ -59,6 +59,11 @@
         "bg_color_scheme": "darken"
       }
     },
+    "06b1d863-acc6-4e5c-abc9-d8dbe5d80278": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "1642200428ac6075d8": {
       "type": "multicolumn",
       "blocks": {
@@ -450,6 +455,7 @@
   "order": [
     "main",
     "16421993483b631460",
+    "06b1d863-acc6-4e5c-abc9-d8dbe5d80278",
     "1642200428ac6075d8",
     "166195210128b91b49",
     "abdb9a41-917e-4d1b-a39b-e000c06eac8d",
