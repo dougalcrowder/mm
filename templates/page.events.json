@@ -80,6 +80,38 @@
     "16352620842faf27c4": {
       "type": "events",
       "blocks": {
+        "739546b9-6ea3-463f-8b73-9e613947c2d8": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block printing Workshops 2023 coming soon",
+            "event_intro": "That is it for this year folks!  And a special thank you to everyone who has joined us this year.  It really has been a delight.  We are now posting workshops for 2023 as we arrange our schedule so do keep an eye on this page.  We do like to give a least 3 months notice in most cases?!",
+            "event_description": "<p>Join printmaker Molly Mahon for a workshop, experiencing the joy of block printing and making your own mark with our blocks. We will be celebrating the launch of Molly's new fabric collection 'Bloom' by using Molly’s floral carved wooden blocks, experiment with colour and pattern and finish by printing your own item depending on which workshop you choose.<br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
+            "event_date": "",
+            "event_extras": "Check below for new workshops in 2023",
+            "event_price": "",
+            "event_button_text": "",
+            "event_button_text_2": "",
+            "event_external_link": "",
+            "event_buy_btn": ""
+          }
+        },
+        "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block printing Workshop at Water Lane Walled Gardens",
+            "event_intro": "Join printmaker Molly Mahon for her workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
+            "event_description": "<p>Date for your diary.  More details to come <\/p>",
+            "image": "shopify:\/\/shop_images\/handmade_molly_mahon_lino_block_star_1600x900_81b65dec-3874-4cbf-ae0d-6cb6ca4246ac.jpg",
+            "event_date": "Wednesday, 3rd May, 2023",
+            "event_extras": "",
+            "event_price": "TBC",
+            "event_button_text": "",
+            "event_button_text_2": "",
+            "event_external_link": "",
+            "event_buy_btn": ""
+          }
+        },
         "16352620842faf27c4-0": {
           "type": "event",
           "disabled": true,
@@ -114,22 +146,6 @@
             "event_buy_btn": ""
           }
         },
-        "739546b9-6ea3-463f-8b73-9e613947c2d8": {
-          "type": "event",
-          "settings": {
-            "event_title": "Block printing Workshops 2023 coming soon",
-            "event_intro": "That is it for this year folks!  And a special thank you to everyone who has joined us this year.  It really has been a delight.  We are now posting workshops for 2023 as we arrange our schedule so do keep an eye on this page.  We do like to give a least 3 months notice in most cases?!",
-            "event_description": "<p>Join printmaker Molly Mahon for a workshop, experiencing the joy of block printing and making your own mark with our blocks. We will be celebrating the launch of Molly's new fabric collection 'Bloom' by using Molly’s floral carved wooden blocks, experiment with colour and pattern and finish by printing your own item depending on which workshop you choose.<br\/><\/p>",
-            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
-            "event_date": "",
-            "event_extras": "Check below for new workshops in 2023",
-            "event_price": "",
-            "event_button_text": "",
-            "event_button_text_2": "",
-            "event_external_link": "",
-            "event_buy_btn": ""
-          }
-        },
         "86e614b8-e8c2-491e-832a-3e23d40baa3f": {
           "type": "event",
           "disabled": true,
@@ -147,25 +163,9 @@
             "event_buy_btn": ""
           }
         },
-        "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25": {
-          "type": "event",
-          "disabled": true,
-          "settings": {
-            "event_title": "Block printing Cards & Envelopes at Thyme, Cotswolds",
-            "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
-            "event_description": "<p>Thyme, a beautifully restored Manor House & Farm in the Cotswolds. The workshop will include a welcome from Thyme followed by an introduction to block printing by Molly. Using Molly’s garden inspired hand carved wooden blocks, you will experiment with colour and pattern and finish by printing your own set of beautiful cards and envelopes.<\/p>",
-            "image": "shopify:\/\/shop_images\/Water_Meadow_041_-_Sussie_Bell_-_June_21_copy.jpg",
-            "event_date": "Tuesday, 14th June, 2022 at  3pm-5pm",
-            "event_extras": "The price includes a welcome coffee and all materials.",
-            "event_price": "£95 per person",
-            "event_button_text": "Book your place",
-            "event_button_text_2": "Via Thyme",
-            "event_external_link": "https:\/\/www.thyme.co.uk\/thyme-events\/block-printing-cards-and-envelopes",
-            "event_buy_btn": ""
-          }
-        },
         "519cccd8-5c39-4a42-9387-5286d373629a": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "Block Printing Lampshade Workshop at Charleston, Firle",
             "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own lampshade.",
@@ -182,6 +182,7 @@
         },
         "384caa00-334f-4ab3-a93d-275d2d0fd2fb": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "Block Printing Cushion Workshop at Charleston, Firle",
             "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own cushion cover",
@@ -198,11 +199,11 @@
         }
       },
       "block_order": [
+        "739546b9-6ea3-463f-8b73-9e613947c2d8",
+        "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
         "16352620842faf27c4-0",
         "74a99284-5e9e-499a-b2e2-c5fcd6bba903",
-        "739546b9-6ea3-463f-8b73-9e613947c2d8",
         "86e614b8-e8c2-491e-832a-3e23d40baa3f",
-        "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
         "519cccd8-5c39-4a42-9387-5286d373629a",
         "384caa00-334f-4ab3-a93d-275d2d0fd2fb"
       ],
