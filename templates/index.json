@@ -117,27 +117,6 @@
             "subtext": ""
           }
         },
-        "163481963822b4d1b3-0": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/lighting_honey_pot_shade_strawberry_1000x1500_6aef7367-93a8-4488-ad01-7911c48763b8.jpg",
-            "auto_height": "none",
-            "cover": true,
-            "title": "Promotion",
-            "subtitle": "40% off a lampshade with every lamp base purchased",
-            "subtitle_size": "small",
-            "text": "<p><strong>Subscribe to get the code<\/strong><\/p>",
-            "button_color": "white",
-            "color_scheme": "red_text",
-            "desktop_text_box_position": "end",
-            "text_align": "center",
-            "button_label": "Get your Code",
-            "button_link": "shopify:\/\/pages\/subscribe",
-            "subtext": ""
-          }
-        },
         "637ecfd1-532c-4aeb-94da-9b272c15f9de": {
           "type": "column",
           "settings": {
@@ -146,7 +125,7 @@
             "image": "shopify:\/\/shop_images\/QUILT_PEGGY_PINK_LIFESTLE.jpg",
             "auto_height": "none",
             "cover": true,
-            "title": "Quilts",
+            "title": "Warm Cosy Quilts",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -156,6 +135,27 @@
             "text_align": "center",
             "button_label": "View all",
             "button_link": "shopify:\/\/collections\/bedding-1",
+            "subtext": ""
+          }
+        },
+        "163481963822b4d1b3-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/FLANTURLIFECURTAIN_7f1c74a2-ed55-4c55-a580-7b0569424fba.jpg",
+            "auto_height": "none",
+            "cover": true,
+            "title": "Fabric",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "end",
+            "text_align": "center",
+            "button_label": "Explore more",
+            "button_link": "shopify:\/\/collections\/fabric",
             "subtext": ""
           }
         },
@@ -183,8 +183,8 @@
       },
       "block_order": [
         "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd",
-        "163481963822b4d1b3-0",
         "637ecfd1-532c-4aeb-94da-9b272c15f9de",
+        "163481963822b4d1b3-0",
         "163481963822b4d1b3-1"
       ],
       "settings": {
@@ -249,65 +249,6 @@
         "bg_color_scheme": "none"
       }
     },
-    "1657185355c64083f9": {
-      "type": "multicolumn",
-      "blocks": {
-        "1657185355f4da2f74-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/supply_store_crafting_kitchentable_1300x1300_0107be0a-a540-40bc-9f11-d98f60109523.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "title": "",
-            "subtitle": "Make you Mark",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Explore More",
-            "button_link": "shopify:\/\/collections\/supply-store",
-            "subtext": ""
-          }
-        },
-        "1657185355f4da2f74-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/fabric_bagru_chair_lottiecole_1300x1300_40fc7410-fb88-43e3-8d86-ab594e0b94f3.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "title": "",
-            "subtitle": "Bagru Collection",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "View",
-            "button_link": "shopify:\/\/collections\/bagru-collection",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "1657185355f4da2f74-0",
-        "1657185355f4da2f74-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "m",
-        "margin_bot": "m"
-      }
-    },
     "16571921305b28430e": {
       "type": "multicolumn",
       "blocks": {
@@ -316,19 +257,19 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_3.jpg",
+            "image": "shopify:\/\/shop_images\/supply_store_crafting_kitchentable_1300x1300_0107be0a-a540-40bc-9f11-d98f60109523.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "Bloomsbury Rug",
-            "subtitle": "Our Softest Rug Yet",
+            "title": "Printing & Stationery",
+            "subtitle": "Make your Mark this Christmas",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Shop Rugs",
-            "button_link": "shopify:\/\/collections\/rugs",
+            "button_label": "Explore more",
+            "button_link": "shopify:\/\/collections\/supply-store",
             "subtext": ""
           }
         },
@@ -337,19 +278,19 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SEAMSTRESSES_HAND_STITCHING_QUILT.jpg",
+            "image": "shopify:\/\/shop_images\/fabric_isabella_sofa_deerhyrst_1300x1300_663f1656-d6d1-4b5b-9e2d-63333fafb0aa.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "",
-            "subtitle": "The Softest Bed Quilts",
+            "title": "Cushions",
+            "subtitle": "The finishing touches this Christmas",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Discover more",
-            "button_link": "shopify:\/\/blogs\/craftsmanship\/handmade-quilts",
+            "button_label": "Shop Cushions",
+            "button_link": "shopify:\/\/collections\/cushions",
             "subtext": ""
           }
         }
@@ -363,8 +304,67 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
+        "margin_top": "m",
         "margin_bot": "s"
+      }
+    },
+    "1657185355c64083f9": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657185355f4da2f74-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/scarf_soap_chequers_b_1300x1300_3e208584-f8a3-4dcf-b895-3203e634994a.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "title": "",
+            "subtitle": "Bundles create great Gifts",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore More",
+            "button_link": "shopify:\/\/collections\/christmas-edit",
+            "subtext": ""
+          }
+        },
+        "1657185355f4da2f74-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/LBBPLSEEIRO14-5_1f6dffc9-04ca-40bf-94c1-3edee5849453.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "title": "Lighting Promotion",
+            "subtitle": "40% off a lampshade with every lamp base purchased",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Promotion Code",
+            "button_link": "shopify:\/\/pages\/subscribe",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657185355f4da2f74-0",
+        "1657185355f4da2f74-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1634821627eaee293f": {
@@ -637,8 +637,8 @@
     "16348194267fffd3c9",
     "163481963822b4d1b3",
     "1657125172969e3f3f",
-    "1657185355c64083f9",
     "16571921305b28430e",
+    "1657185355c64083f9",
     "1634821627eaee293f",
     "164129687781f3cb6c",
     "165712871247f6866c",
