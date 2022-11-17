@@ -77,8 +77,8 @@
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TULIPCURTAIN_901c1a1d-858e-4ccc-8656-b510966eaaa7.jpg",
-        "square_image": "shopify:\/\/shop_images\/fabric_tulip_greencombe_curtain_1300x1300_9735fbfe-e7f2-44b2-8b8f-b520e0384edf.jpg",
+        "image": "shopify:\/\/shop_images\/kitchen_table_cloth_flower_1800x1000_37ad34e1-a7be-4992-9cc7-9ed5b835ec7c.jpg",
+        "square_image": "shopify:\/\/shop_images\/TABLELINEN_FLOWER_LIFE1_1300x1300_5252a7aa-6a13-40c6-a66c-00f86a885620.jpg",
         "make_logo_white": false,
         "title": "MAKE YOURSELF AT HOME",
         "header_tag": "h2"
@@ -87,7 +87,7 @@
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>Winter is coming<\/p>",
+        "title": "<p>Bold & Beautiful Entertaining - Happy Thanks Giving<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
         "color_scheme": "red_text"
@@ -105,7 +105,7 @@
             "auto_height": "landscape",
             "cover": false,
             "title": "Christmas Edit",
-            "subtitle": "",
+            "subtitle": "Bundles Galore for Gift ideas",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
