@@ -77,8 +77,8 @@
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/STRAWBERRY_COPPER_CURTAINS_1800x1000_ff4a9046-e734-4324-bfdc-243088529457.jpg",
-        "square_image": "shopify:\/\/shop_images\/STRAWBERRY_COPPER_CURTAINS_1300x1300_6a94dad6-1c55-4691-97c5-ef358dd2b6a2.jpg",
+        "image": "shopify:\/\/shop_images\/kitchen_table_cloth_flower_1800x1000_37ad34e1-a7be-4992-9cc7-9ed5b835ec7c.jpg",
+        "square_image": "shopify:\/\/shop_images\/TABLELINEN_FLOWER_LIFE1_1300x1300_5252a7aa-6a13-40c6-a66c-00f86a885620.jpg",
         "make_logo_white": false,
         "title": "MAKE YOURSELF AT HOME",
         "header_tag": "h2"
@@ -87,7 +87,7 @@
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>Autumn Colours<\/p>",
+        "title": "<p>'Bold & Beautiful - Colour & Joy'<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
         "color_scheme": "red_text"
@@ -101,19 +101,19 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/fabric_tulip_greencombe_curtain_1300x1300_9735fbfe-e7f2-44b2-8b8f-b520e0384edf.jpg",
+            "image": "shopify:\/\/shop_images\/molly_mahon_christmas_edit_1200x600_eecb4915-82ed-4a1c-af93-3b4d0d4a602d.jpg",
             "auto_height": "landscape",
             "cover": false,
-            "title": "Fabric",
-            "subtitle": "",
+            "title": "Christmas Edit",
+            "subtitle": "Bundles Galore for Gift ideas",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "dark_text",
+            "color_scheme": "white_text",
             "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "View all",
-            "button_link": "shopify:\/\/collections\/fabric",
+            "button_link": "shopify:\/\/collections\/christmas-edit",
             "subtext": ""
           }
         },
@@ -122,10 +122,10 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/LeafSpareRoom_86544e89-2d2c-45cf-b2d8-a47d8ff2ecc0.jpg",
+            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_PINK_LIFESTLE.jpg",
             "auto_height": "none",
             "cover": true,
-            "title": "Wallpaper",
+            "title": "Warm Cosy Quilts",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -134,7 +134,7 @@
             "desktop_text_box_position": "start",
             "text_align": "center",
             "button_label": "View all",
-            "button_link": "shopify:\/\/collections\/wallpaper",
+            "button_link": "shopify:\/\/collections\/bedding-1",
             "subtext": ""
           }
         },
@@ -143,19 +143,19 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/lighting_flirtsquirt_strawberry_stem_pink_1000x1500_68338a2d-4040-467d-8507-54781b44495d.jpg",
+            "image": "shopify:\/\/shop_images\/FLANTURLIFECURTAIN_7f1c74a2-ed55-4c55-a580-7b0569424fba.jpg",
             "auto_height": "none",
             "cover": true,
-            "title": "Promotion",
-            "subtitle": "40% off a lampshade with every lamp base purchased",
+            "title": "Fabric",
+            "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p><strong>Subscribe to get the code<\/strong><\/p>",
+            "text": "",
             "button_color": "white",
-            "color_scheme": "blue_text",
+            "color_scheme": "white_text",
             "desktop_text_box_position": "end",
             "text_align": "center",
-            "button_label": "Get your Code",
-            "button_link": "shopify:\/\/pages\/subscribe",
+            "button_label": "Explore more",
+            "button_link": "shopify:\/\/collections\/fabric",
             "subtext": ""
           }
         },
@@ -164,10 +164,10 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE_4f2b91f4-a0ad-40ec-b699-c4bc02f79d86.jpg",
+            "image": "shopify:\/\/shop_images\/WALLPAPER_BINDI_DEERHYRST_1200X900_efe58608-2b83-4b30-a032-4f6ade3d12c0.jpg",
             "auto_height": "landscape",
             "cover": false,
-            "title": "Lighting",
+            "title": "Wallpaper",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -176,7 +176,7 @@
             "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "View all",
-            "button_link": "shopify:\/\/collections\/lighting",
+            "button_link": "shopify:\/\/collections\/wallpaper",
             "subtext": ""
           }
         }
@@ -202,7 +202,7 @@
         "165712517240961444-0": {
           "type": "heading",
           "settings": {
-            "heading": "Handmade",
+            "heading": "Handmade this Christmas",
             "heading_type": "header1"
           }
         },
@@ -218,7 +218,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Discover more",
-            "button_link_1": "shopify:\/\/blogs\/craftsmanship",
+            "button_link_1": "shopify:\/\/pages\/100-days-to-christmas",
             "button_style_secondary_1": false,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -232,8 +232,9 @@
         "165712517240961444-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/269611342_313979097124189_10294121352655617_n.jpg",
+        "image": "shopify:\/\/shop_images\/handmade_molly_mahon_lino_block_star_1600x900_81b65dec-3874-4cbf-ae0d-6cb6ca4246ac.jpg",
         "letterbox": false,
+        "mobile_image": "shopify:\/\/shop_images\/block_print_star_studio_1300x1300_c4e0abd1-1b02-482a-af68-9eb89df5f7c4.jpg",
         "make_logo_white": false,
         "top_margin": true,
         "constrain": false,
@@ -256,19 +257,19 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_3.jpg",
+            "image": "shopify:\/\/shop_images\/supply_store_crafting_kitchentable_1300x1300_0107be0a-a540-40bc-9f11-d98f60109523.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "",
-            "subtitle": "The New Bloomsbury Rug",
+            "title": "Printing & Stationery",
+            "subtitle": "Make your Mark this Christmas",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Shop Rugs",
-            "button_link": "shopify:\/\/collections\/rugs",
+            "button_label": "Explore more",
+            "button_link": "shopify:\/\/collections\/supply-store",
             "subtext": ""
           }
         },
@@ -277,19 +278,19 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SEAMSTRESSES_HAND_STITCHING_QUILT.jpg",
+            "image": "shopify:\/\/shop_images\/fabric_isabella_sofa_deerhyrst_1300x1300_663f1656-d6d1-4b5b-9e2d-63333fafb0aa.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "",
-            "subtitle": "The Softest Bed Quilts",
+            "title": "Cushions",
+            "subtitle": "The finishing touches this Christmas",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Discover more",
-            "button_link": "shopify:\/\/blogs\/craftsmanship\/handmade-quilts",
+            "button_label": "Shop Cushions",
+            "button_link": "shopify:\/\/collections\/cushions",
             "subtext": ""
           }
         }
@@ -315,19 +316,19 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FLUBLUPINLIFESOFA_8c136c3c-686c-4235-82e7-a3c0334315a8.jpg",
+            "image": "shopify:\/\/shop_images\/scarf_soap_chequers_b_1300x1300_3e208584-f8a3-4dcf-b895-3203e634994a.jpg",
             "auto_height": "square",
             "cover": false,
             "title": "",
-            "subtitle": "Jaipur Collection",
+            "subtitle": "Bundles create great Gifts",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "white_text",
+            "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "View",
-            "button_link": "shopify:\/\/collections\/jaipur-collection",
+            "button_label": "Explore More",
+            "button_link": "shopify:\/\/collections\/christmas-edit",
             "subtext": ""
           }
         },
@@ -336,19 +337,19 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/fabric_bagru_chair_lottiecole_1300x1300_40fc7410-fb88-43e3-8d86-ab594e0b94f3.jpg",
+            "image": "shopify:\/\/shop_images\/LBBPLSEEIRO14-5_1f6dffc9-04ca-40bf-94c1-3edee5849453.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "",
-            "subtitle": "Bagru Collection",
+            "title": "Lighting Promotion",
+            "subtitle": "40% off a lampshade with every lamp base purchased",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "white_text",
+            "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "View",
-            "button_link": "shopify:\/\/collections\/bagru-collection",
+            "button_label": "Promotion Code",
+            "button_link": "shopify:\/\/pages\/subscribe",
             "subtext": ""
           }
         }
@@ -362,7 +363,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "s",
+        "margin_top": "none",
         "margin_bot": "m"
       }
     },
