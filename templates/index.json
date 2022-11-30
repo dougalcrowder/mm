@@ -1,5 +1,14 @@
 {
   "sections": {
+    "5952b80b-42de-4667-9f7c-7ca9d36e71c7": {
+      "type": "text-banner",
+      "settings": {
+        "title": "<p>Last Christmas parcel Shipping dates- click here<\/p>",
+        "link": "shopify:\/\/pages\/latest-posting-dates-christmas-delivery",
+        "bg_pattern": "pattern_01",
+        "color_scheme": "blue_text"
+      }
+    },
     "16352843092374a33e": {
       "type": "hotspots",
       "blocks": {
@@ -633,6 +642,7 @@
     }
   },
   "order": [
+    "5952b80b-42de-4667-9f7c-7ca9d36e71c7",
     "16352843092374a33e",
     "16348194267fffd3c9",
     "163481963822b4d1b3",
