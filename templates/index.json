@@ -86,8 +86,8 @@
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/kitchen_table_cloth_flower_1800x1000_37ad34e1-a7be-4992-9cc7-9ed5b835ec7c.jpg",
-        "square_image": "shopify:\/\/shop_images\/TABLELINEN_FLOWER_LIFE1_1300x1300_5252a7aa-6a13-40c6-a66c-00f86a885620.jpg",
+        "image": "shopify:\/\/shop_images\/tablescape_stars_fabric_christmas22_1800x1000_3bc948ba-382c-4db0-a416-b80ff772f6f2.jpg",
+        "square_image": "shopify:\/\/shop_images\/tablescape_stars_fabric_christmas22_mobile_1300x1300_e614894c-10a0-4538-b65d-220565dbf6d7.jpg",
         "make_logo_white": false,
         "title": "MAKE YOURSELF AT HOME",
         "header_tag": "h2"
@@ -96,7 +96,7 @@
     "16348194267fffd3c9": {
       "type": "text-banner",
       "settings": {
-        "title": "<p>'Bold & Beautiful - Colour & Joy'<\/p>",
+        "title": "<p>'Bold & Beautiful - Comfort & Joy'<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
         "color_scheme": "red_text"
@@ -131,10 +131,10 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_PINK_LIFESTLE.jpg",
+            "image": "shopify:\/\/shop_images\/apron_tuktuk_1000x1500_586e8a73-e46e-44dc-99d2-76bdb3be48cf.jpg",
             "auto_height": "none",
             "cover": true,
-            "title": "Warm Cosy Quilts",
+            "title": "Colourful Gifts",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -143,7 +143,7 @@
             "desktop_text_box_position": "start",
             "text_align": "center",
             "button_label": "View all",
-            "button_link": "shopify:\/\/collections\/bedding-1",
+            "button_link": "shopify:\/\/collections\/kitchen",
             "subtext": ""
           }
         },
@@ -325,7 +325,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/scarf_soap_chequers_b_1300x1300_3e208584-f8a3-4dcf-b895-3203e634994a.jpg",
+            "image": "shopify:\/\/shop_images\/20220713MM2272_V2.jpg",
             "auto_height": "square",
             "cover": false,
             "title": "",
@@ -333,8 +333,8 @@
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "Explore More",
             "button_link": "shopify:\/\/collections\/christmas-edit",
@@ -354,7 +354,7 @@
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "dark_text",
+            "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Promotion Code",
