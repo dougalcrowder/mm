@@ -164,7 +164,6 @@
         },
         "74a99284-5e9e-499a-b2e2-c5fcd6bba903": {
           "type": "event",
-          "disabled": true,
           "settings": {
             "event_title": "Block Printing Napkins Workshop at Ashbrook, Banbury",
             "event_intro": "Join printmaker Molly Mahon for a one-day workshop, experiencing the joy of block printing and making a set of 4 napkins.",
@@ -181,7 +180,6 @@
         },
         "041d34df-409e-464d-a2d2-a847e1962d87": {
           "type": "event",
-          "disabled": true,
           "settings": {
             "event_title": "Block Printing Apron Workshop at Ashbrook, Banbury",
             "event_intro": "Join printmaker Molly Mahon for a one-day workshop, experiencing the joy of block printing and making an apron.",
@@ -192,7 +190,7 @@
             "event_price": "£180 per person",
             "event_button_text": "Boo your Place",
             "event_button_text_2": "Here",
-            "event_external_link": "",
+            "event_external_link": "shopify:\/\/products\/copy-of-workshop-ashbrook-7th-june-2023",
             "event_buy_btn": ""
           }
         },
