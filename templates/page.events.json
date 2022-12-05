@@ -130,7 +130,6 @@
         },
         "ccc4ebf6-686c-4e1b-bc10-57a5872d5a30": {
           "type": "event",
-          "disabled": true,
           "settings": {
             "event_title": "Block printing PYO Workshop at Water Lane Walled Garden, Kent",
             "event_intro": "Join printmaker Molly Mahon for PYO (print your own!) block printing sessions at Water Lane.  On the day you will have the choice to print one of the following options: tea towel, tote bag, drawstring bag, pack of notecards.",
@@ -147,7 +146,6 @@
         },
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25": {
           "type": "event",
-          "disabled": true,
           "settings": {
             "event_title": "Block printing PYO Workshop at Water Lane Walled Garden, Kent",
             "event_intro": "Join printmaker Molly Mahon for PYO (print your own!) block printing sessions at Water Lane.  On the day you will have the choice to print one of the following options: tea towel, tote bag, drawstring bag, pack of notecards",
@@ -158,7 +156,7 @@
             "event_price": "£30 per person",
             "event_button_text": "Book here",
             "event_button_text_2": "12noon-1.30pm",
-            "event_external_link": "",
+            "event_external_link": "shopify:\/\/products\/copy-of-workshop-water-lane-3rd-may-2023-10am-11-30am",
             "event_buy_btn": ""
           }
         },
