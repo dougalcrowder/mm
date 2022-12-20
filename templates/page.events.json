@@ -96,6 +96,22 @@
             "event_buy_btn": ""
           }
         },
+        "3f1665d0-a6e9-4a78-8f69-d9cbf7e3830b": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block Printing Cushion Workshop at Fritton Lake, Somerleyton Hall, Suffolk",
+            "event_intro": "Join printmaker Molly Mahon for a one-day workshop, experiencing the joy of block printing and making your own cushion.  The day-long course will include a talk from Lady Somerleyton and Molly Mahon, followed by an introduction to block printing with Molly in The Loggia of Somerleyton Hall.",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.<\/p>",
+            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
+            "event_date": "Thursday 20th April, 2023. (10am-4pm)",
+            "event_extras": "The price includes all materials, refreshments and a delicious lunch.",
+            "event_price": "£144 per person",
+            "event_button_text": "Book here",
+            "event_button_text_2": "via Fritton Lake",
+            "event_external_link": "",
+            "event_buy_btn": ""
+          }
+        },
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25": {
           "type": "event",
           "settings": {
@@ -230,6 +246,7 @@
       },
       "block_order": [
         "739546b9-6ea3-463f-8b73-9e613947c2d8",
+        "3f1665d0-a6e9-4a78-8f69-d9cbf7e3830b",
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
         "5018ff30-8aeb-4d6e-b79e-525bc24a038a",
         "8c918cce-0287-450b-a11a-aa721d58827b",
