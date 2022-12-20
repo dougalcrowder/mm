@@ -99,16 +99,80 @@
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25": {
           "type": "event",
           "settings": {
-            "event_title": "Block printing Workshop at Water Lane Walled Gardens",
-            "event_intro": "Join printmaker Molly Mahon for her workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
-            "event_description": "<p>Date for your diary.  More details to come <\/p>",
-            "image": "shopify:\/\/shop_images\/handmade_molly_mahon_lino_block_star_1600x900_81b65dec-3874-4cbf-ae0d-6cb6ca4246ac.jpg",
-            "event_date": "Wednesday, 3rd May, 2023",
+            "event_title": "Block printing PYO Workshop at Water Lane Walled Garden, Kent",
+            "event_intro": "Join printmaker Molly Mahon for PYO (print your own!) block printing sessions at Water Lane.  On the day you will have the choice to print one of the following options: tea towel, tote bag, drawstring bag, pack of notecards.",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you’ll print your own item to take home and cherish – or gift to a loved one!  <\/p>",
+            "image": "shopify:\/\/shop_images\/GETCREATIVE20_13180fef-6e0c-44e9-82c7-8594563fba65.jpg",
+            "event_date": "Wednesday 3rd May, 2023 (10am-11.30am)",
             "event_extras": "",
-            "event_price": "TBC",
-            "event_button_text": "",
+            "event_price": "£30 per person",
+            "event_button_text": "Book here",
             "event_button_text_2": "",
-            "event_external_link": "",
+            "event_external_link": "shopify:\/\/products\/copy-of-workshop-ashbrook-28th-september-2023",
+            "event_buy_btn": ""
+          }
+        },
+        "5018ff30-8aeb-4d6e-b79e-525bc24a038a": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block printing PYO Workshop at Water Lane Walled Garden, Kent",
+            "event_intro": "Join printmaker Molly Mahon for PYO (print your own!) block printing sessions at Water Lane.  On the day you will have the choice to print one of the following options: tea towel, tote bag, drawstring bag, pack of notecards",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you’ll print your own item to take home and cherish – or gift to a loved one!  <\/p>",
+            "image": "shopify:\/\/shop_images\/GETCREATIVE20_13180fef-6e0c-44e9-82c7-8594563fba65.jpg",
+            "event_date": "Wednesday, 3rd May, 2023 (12noon-1.30pm)",
+            "event_extras": "",
+            "event_price": "£30 per person",
+            "event_button_text": "Book here",
+            "event_button_text_2": "12noon-1.30pm",
+            "event_external_link": "shopify:\/\/products\/copy-of-workshop-water-lane-3rd-may-2023-10am-11-30am",
+            "event_buy_btn": ""
+          }
+        },
+        "8c918cce-0287-450b-a11a-aa721d58827b": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block Printing Napkins Workshop at Ashbrook, Banbury",
+            "event_intro": "Join printmaker Molly Mahon for a one-day workshop, experiencing the joy of block printing and making a set of 4 napkins.",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern in the morning, and finish by printing your napkins in the afternoon.  A delicious, organic lunch will be served in between!  (Ashbrook House, Moreton Pinkney.  NN11 3SN).<\/p>",
+            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
+            "event_date": "Wednesday, 7th June (10am-3pm)",
+            "event_extras": "The price includes all materials, refreshments, and lunch.",
+            "event_price": "£220.00 pp",
+            "event_button_text": "Book your Place",
+            "event_button_text_2": "Here",
+            "event_external_link": "shopify:\/\/products\/copy-of-workshop-ashbrook-30th-september-2022",
+            "event_buy_btn": ""
+          }
+        },
+        "74a99284-5e9e-499a-b2e2-c5fcd6bba903": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block Printing Apron Workshop at Ashbrook, Banbury",
+            "event_intro": "Join printmaker Molly Mahon for a one-day workshop, experiencing the joy of block printing and making an apron.",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern in the morning, and finish by printing your apron in the afternoon. A delicious, organic lunch will be served in between! <\/p>",
+            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
+            "event_date": "Thursday 28th September, 2023 (10am-3pm)",
+            "event_extras": "The price includes all materials, refreshments, and lunch.",
+            "event_price": "£220 per person",
+            "event_button_text": "Book your Place",
+            "event_button_text_2": "Here",
+            "event_external_link": "shopify:\/\/products\/copy-of-workshop-ashbrook-7th-june-2023",
+            "event_buy_btn": ""
+          }
+        },
+        "519cccd8-5c39-4a42-9387-5286d373629a": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block Printing Lampshade Workshop at Charleston, Firle",
+            "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own lampshade.",
+            "event_description": "<p>The day-long course will include a private tour of Charleston house, followed by an introduction to block printing by Molly.<br\/>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern and finish by printing your own 30cm drum lampshade.<\/p>",
+            "image": "shopify:\/\/shop_images\/MM_at_Charleston_294_copy.jpg",
+            "event_date": "Tuesday 21st November 2023, 10am-3.30pm",
+            "event_extras": "The price includes all materials, refreshments and a delicious lunch",
+            "event_price": "£180 pp",
+            "event_button_text": "Book Here",
+            "event_button_text_2": "Via Charleston",
+            "event_external_link": "https:\/\/www.charleston.org.uk\/event\/block-printed-lampshades-with-molly-mahon-2\/",
             "event_buy_btn": ""
           }
         },
@@ -129,23 +193,6 @@
             "event_buy_btn": ""
           }
         },
-        "74a99284-5e9e-499a-b2e2-c5fcd6bba903": {
-          "type": "event",
-          "disabled": true,
-          "settings": {
-            "event_title": "Block Printing Lampshade Workshop at Ashbrook",
-            "event_intro": "Join Molly for a one-day workshop at Ashbrook House near Banbury, experiencing the joy of block printing and making your own lampshade for your home. Using Molly’s carved wooden blocks, you will experiment with colour and pattern in the morning, and finish by printing your own 30cm lampshade in the afternoon with a delicious, organic lunch in between!\nThis course is suitable for all levels with no experience necessary.",
-            "event_description": "<p>Block Print & make your own lampshade<\/p>",
-            "image": "shopify:\/\/shop_images\/ASBROOK_WORKSHOP.jpg",
-            "event_date": "Friday, 30th September (10am-3pm)",
-            "event_extras": "Ashbrook House, Moreton Pinkney.  NN11 3SN",
-            "event_price": "£220.00 pp",
-            "event_button_text": "Book your Place",
-            "event_button_text_2": "",
-            "event_external_link": "shopify:\/\/products\/copy-of-block-print-cafe-print-your-own",
-            "event_buy_btn": ""
-          }
-        },
         "86e614b8-e8c2-491e-832a-3e23d40baa3f": {
           "type": "event",
           "disabled": true,
@@ -160,23 +207,6 @@
             "event_button_text": "Book your place",
             "event_button_text_2": "Via Thyme",
             "event_external_link": "https:\/\/www.thyme.co.uk\/thyme-events\/block-printing-tea-towels",
-            "event_buy_btn": ""
-          }
-        },
-        "519cccd8-5c39-4a42-9387-5286d373629a": {
-          "type": "event",
-          "disabled": true,
-          "settings": {
-            "event_title": "Block Printing Lampshade Workshop at Charleston, Firle",
-            "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own lampshade.",
-            "event_description": "<p>The day-long course will include a private tour of the house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks, you will experiment with colour and pattern and finish by printing and making your own lampshade.<\/p>",
-            "image": "shopify:\/\/shop_images\/MM_at_Charleston_294_copy.jpg",
-            "event_date": "Monday 3rd October 2022, 10am-3.30pm",
-            "event_extras": "The price includes all materials, refreshments and a delicious lunch",
-            "event_price": "£200 pp",
-            "event_button_text": "Book Here",
-            "event_button_text_2": "Via Charleston",
-            "event_external_link": "https:\/\/www.charleston.org.uk\/event\/block-printed-lampshades-with-molly-mahon\/",
             "event_buy_btn": ""
           }
         },
@@ -201,10 +231,12 @@
       "block_order": [
         "739546b9-6ea3-463f-8b73-9e613947c2d8",
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
-        "16352620842faf27c4-0",
+        "5018ff30-8aeb-4d6e-b79e-525bc24a038a",
+        "8c918cce-0287-450b-a11a-aa721d58827b",
         "74a99284-5e9e-499a-b2e2-c5fcd6bba903",
-        "86e614b8-e8c2-491e-832a-3e23d40baa3f",
         "519cccd8-5c39-4a42-9387-5286d373629a",
+        "16352620842faf27c4-0",
+        "86e614b8-e8c2-491e-832a-3e23d40baa3f",
         "384caa00-334f-4ab3-a93d-275d2d0fd2fb"
       ],
       "settings": {
