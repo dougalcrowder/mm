@@ -96,6 +96,22 @@
             "event_buy_btn": ""
           }
         },
+        "384caa00-334f-4ab3-a93d-275d2d0fd2fb": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block Printing Cushion Workshop at Charleston, Firle",
+            "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own cushion cover",
+            "event_description": "<p>The day-long course will include a private tour of Charleston house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.<\/p>",
+            "image": "shopify:\/\/shop_images\/MM_at_Charleston_294_copy.jpg",
+            "event_date": "Tuesday 28th March 2023, 10am-3.30pm",
+            "event_extras": "The price includes all materials, refreshments and a delicious lunch.",
+            "event_price": "£180 pp",
+            "event_button_text": "Book Here",
+            "event_button_text_2": "Via Charleston",
+            "event_external_link": "https:\/\/www.charleston.org.uk\/event\/block-printing-on-cushion-covers-with-molly-mahon-3\/",
+            "event_buy_btn": ""
+          }
+        },
         "3f1665d0-a6e9-4a78-8f69-d9cbf7e3830b": {
           "type": "event",
           "settings": {
@@ -225,27 +241,11 @@
             "event_external_link": "https:\/\/www.thyme.co.uk\/thyme-events\/block-printing-tea-towels",
             "event_buy_btn": ""
           }
-        },
-        "384caa00-334f-4ab3-a93d-275d2d0fd2fb": {
-          "type": "event",
-          "disabled": true,
-          "settings": {
-            "event_title": "Block Printing Cushion Workshop at Charleston, Firle",
-            "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own cushion cover",
-            "event_description": "<p>The day-long course will include a private tour of the house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks, you will experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.<\/p>",
-            "image": "shopify:\/\/shop_images\/MM_at_Charleston_294_copy.jpg",
-            "event_date": "Tuesday 4th October 2022, 10am-3.30pm",
-            "event_extras": "The price includes all materials, refreshments and a delicious lunch.",
-            "event_price": "£180 pp",
-            "event_button_text": "Book Here",
-            "event_button_text_2": "Via Charleston",
-            "event_external_link": "https:\/\/www.charleston.org.uk\/event\/block-printing-on-cushion-covers-with-molly-mahon-2\/",
-            "event_buy_btn": ""
-          }
         }
       },
       "block_order": [
         "739546b9-6ea3-463f-8b73-9e613947c2d8",
+        "384caa00-334f-4ab3-a93d-275d2d0fd2fb",
         "3f1665d0-a6e9-4a78-8f69-d9cbf7e3830b",
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
         "5018ff30-8aeb-4d6e-b79e-525bc24a038a",
@@ -253,8 +253,7 @@
         "74a99284-5e9e-499a-b2e2-c5fcd6bba903",
         "519cccd8-5c39-4a42-9387-5286d373629a",
         "16352620842faf27c4-0",
-        "86e614b8-e8c2-491e-832a-3e23d40baa3f",
-        "384caa00-334f-4ab3-a93d-275d2d0fd2fb"
+        "86e614b8-e8c2-491e-832a-3e23d40baa3f"
       ],
       "settings": {
         "title": ""
