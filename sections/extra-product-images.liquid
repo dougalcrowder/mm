@@ -1,0 +1,121 @@
+ {% if product.images.size > 1 %}
+ {%- if section.settings.skip -%}
+ {%- for image in product.images | offset:1 -%}
+ {%- else -%}
+ {%- for image in product.images -%}
+ {%- endif -%}
+   <picture class="productShots">
+     {% assign image = product.featured_image %}
+     <source srcset="{{ image | img_url: '734x', scale: 2 }} 2x, {{ image | img_url: '734x' }}" media="(min-width: 1440px)" />
+     <source srcset="{{ image | img_url: '734x', scale: 2 }} 2x, {{ image | img_url: '734x' }}" media="(min-width: 1200px)" />
+     <source srcset="{{ image | img_url: '734x', scale: 2 }} 2x, {{ image | img_url: '734x' }}" media="(min-width: 1024px)" />
+     <source srcset="{{ image | img_url: '651x', scale: 2 }} 2x, {{ image | img_url: '651x' }}" media="(min-width: 769px)" />
+     <source srcset="{{ image | img_url: '735x', scale: 2 }} 2x, {{ image | img_url: '735x' }}" media="(min-width: 660px)" />
+     <source srcset="{{ image | img_url: '644x', scale: 2 }} 2x, {{ image | img_url: '644x' }}" media="(min-width: 550px)" />
+     <source srcset="{{ image | img_url: '534x', scale: 2 }} 2x, {{ image | img_url: '534x' }}" media="(min-width: 450px)" />
+     <source srcset="{{ image | img_url: '434x', scale: 2 }} 2x, {{ image | img_url: '644x' }}" media="(min-width: 344px)" />
+     <source srcset="{{ image | img_url: '328x', scale: 2 }} 2x, {{ image | img_url: '328x' }}" media="(min-width: 320px)" />
+     <img class="prod-shot"{% if forloop.index > 1 %} loading="lazy"{% endif %} src="{{ image | img_url: '304x', crop: 'center' }}" alt="{{ image.alt | escape }}" width="{{image.width}}" height="{{image.height}}" />
+   </picture>
+ {%- endfor -%}
+ {%- endif -%}
+   
+ {% schema %}
+ {
+   "name": "Extra product images",
+   "tag": "product",
+   "class": "event_images",
+   "settings": [
+ 
+     {
+       "type": "checkbox",
+       "id": "skip",
+       "default": false,
+       "label": "Skip first image"
+     },
+     {
+       "type": "select",
+       "id": "margin_top",
+       "options": [
+         {
+           "value": "none",
+           "label": "None"
+         },
+         {
+           "value": "s",
+           "label": "Small"
+         },
+         {
+           "value": "m",
+           "label": "Medium"
+         },
+         {
+           "value": "l",
+           "label": "Large"
+         },
+         {
+           "value": "xl",
+           "label": "X Large"
+         }
+       ],
+       "default": "none",
+       "label": "spacing above",
+       "info": "Top Margin"
+     },
+     {
+       "type": "select",
+       "id": "margin_bot",
+       "options": [
+         {
+           "value": "none",
+           "label": "None"
+         },
+         {
+           "value": "s",
+           "label": "Small"
+         },
+         {
+           "value": "m",
+           "label": "Medium"
+         },
+         {
+           "value": "l",
+           "label": "Large"
+         },
+         {
+           "value": "xl",
+           "label": "X Large"
+         }
+       ],
+       "default": "none",
+       "label": "spacing below",
+       "info": "Bottom Margin"
+     },
+     {
+       "type": "select",
+       "id": "bg_color_scheme",
+       "options": [
+         {
+           "value": "none",
+           "label": "None"
+         },
+         {
+           "value": "darken",
+           "label": "Darken"
+         },
+         {
+           "value": "lighten",
+           "label": "Lighten"
+         }
+       ],
+       "default": "none",
+       "label": "Text and image background adjust"
+     }
+   ],
+   "presets": [
+     {
+       "name": "Event Product Images"
+     }
+   ]
+ }
+ {% endschema %}
