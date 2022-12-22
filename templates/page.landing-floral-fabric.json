@@ -19,7 +19,7 @@
         "1642199348d668b6b2-1": {
           "type": "text",
           "settings": {
-            "text": "Shop our collection of floral patterned fabric, \nexclusively designed by British printmaker, Molly Mahon. \nEthically handcrafted in the UK and India.",
+            "text": "Shop our collection of floral patterned fabric, \nexclusively designed by British printmaker, Molly Mahon and\nEthically block printed in India by expert craftspeople.",
             "go_serif": false,
             "constrain_text": true
           }
@@ -79,7 +79,7 @@
             "text_align": "left",
             "button_label": "",
             "button_link": "",
-            "subtext": ""
+            "subtext": "<p><\/p>"
           }
         },
         "16422004280af4e324-1": {
@@ -93,14 +93,14 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p><\/p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
             "button_link": "",
-            "subtext": ""
+            "subtext": "<p><\/p>"
           }
         }
       },
@@ -139,7 +139,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "",
+            "text": "<p><\/p>",
             "button_label": "Shop all our Floral fabric designs",
             "button_link": "",
             "inset": true,
@@ -237,7 +237,7 @@
           "settings": {
             "heading": "Let your creativity blossom",
             "heading_size": "large",
-            "text": "",
+            "text": "<p><\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -359,7 +359,7 @@
           "settings": {
             "heading": "Bagru",
             "heading_size": "medium",
-            "text": "",
+            "text": "<p><\/p>",
             "button_label": "",
             "button_link": "",
             "inset": false,
@@ -555,7 +555,7 @@
           "settings": {
             "heading": "Clover",
             "heading_size": "medium",
-            "text": "",
+            "text": "<p><\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -609,7 +609,7 @@
           "settings": {
             "heading": "Pink Hues",
             "heading_size": "medium",
-            "text": "",
+            "text": "<p><\/p>",
             "button_label": "Shop all pink designer wallpapers",
             "button_link": "shopify:\/\/collections\/wallpaper",
             "inset": true,
@@ -689,7 +689,7 @@
       "settings": {
         "title": "We have a penchant for vibrant colours here at Molly Mahon. But you’ll also find lighter pastels and a cosy palette of golds and sage to bring personality and passion to your home.",
         "heading_size": "medium",
-        "text": "",
+        "text": "<p><\/p>",
         "vertical_alignment": "start",
         "alignment": "left",
         "color_scheme": "dark_text"

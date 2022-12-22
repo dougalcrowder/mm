@@ -1,5 +1,14 @@
 {
   "sections": {
+    "5952b80b-42de-4667-9f7c-7ca9d36e71c7": {
+      "type": "text-banner",
+      "settings": {
+        "title": "<p>Last Christmas parcel Shipping dates- click here<\/p>",
+        "link": "shopify:\/\/pages\/latest-posting-dates-christmas-delivery",
+        "bg_pattern": "pattern_01",
+        "color_scheme": "blue_text"
+      }
+    },
     "16352843092374a33e": {
       "type": "hotspots",
       "blocks": {
@@ -77,8 +86,8 @@
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/STRAWBERRY_COPPER_CURTAINS_1800x1000_ff4a9046-e734-4324-bfdc-243088529457.jpg",
-        "square_image": "shopify:\/\/shop_images\/STRAWBERRY_COPPER_CURTAINS_1300x1300_6a94dad6-1c55-4691-97c5-ef358dd2b6a2.jpg",
+        "image": "shopify:\/\/shop_images\/CHRISTMAS20LIFE1_84bdd184-efbc-4269-b90c-25f6b9e2ae99.jpg",
+        "square_image": "shopify:\/\/shop_images\/CHRISTMAS20_Bramble_1300x1300_7ed003cb-3ce8-43dc-a424-e2a31eb4f2c8.jpg",
         "make_logo_white": false,
         "title": "MAKE YOURSELF AT HOME",
         "header_tag": "h2"
@@ -86,8 +95,9 @@
     },
     "16348194267fffd3c9": {
       "type": "text-banner",
+      "disabled": true,
       "settings": {
-        "title": "<p>Autumn Colours<\/p>",
+        "title": "<p>Colour & Joy<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
         "color_scheme": "red_text"
@@ -96,24 +106,66 @@
     "163481963822b4d1b3": {
       "type": "multicolumn",
       "blocks": {
+        "163481963822b4d1b3-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/deerhyrst_isabella_pink_marwari_cushion_sittingroom_1100x1500_6d83449a-c276-4285-b5e7-48d4eb2c43b2.jpg",
+            "auto_height": "portrait",
+            "cover": false,
+            "title": "Greencombe Home",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "end",
+            "text_align": "center",
+            "button_label": "View all",
+            "button_link": "shopify:\/\/collections\/greencombe-home",
+            "subtext": ""
+          }
+        },
+        "163481963822b4d1b3-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/FLANTURLIFECURTAIN_7f1c74a2-ed55-4c55-a580-7b0569424fba.jpg",
+            "auto_height": "portrait",
+            "cover": true,
+            "title": "Deerhyrst Collection",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "end",
+            "text_align": "center",
+            "button_label": "Explore more",
+            "button_link": "shopify:\/\/collections\/deerhyrst-collection",
+            "subtext": ""
+          }
+        },
         "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd": {
           "type": "column",
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/fabric_tulip_greencombe_curtain_1300x1300_9735fbfe-e7f2-44b2-8b8f-b520e0384edf.jpg",
+            "image": "shopify:\/\/shop_images\/greencombe_soft_furnishing_studio_1000x1400_0bca7168-ed6b-4a00-b3d3-e84960848702.jpg",
             "auto_height": "landscape",
             "cover": false,
-            "title": "Fabric",
-            "subtitle": "",
+            "title": "Finishing Touches",
+            "subtitle": "making Home",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "dark_text",
+            "color_scheme": "white_text",
             "desktop_text_box_position": "end",
             "text_align": "center",
-            "button_label": "View all",
-            "button_link": "shopify:\/\/collections\/fabric",
+            "button_label": "Explore here",
+            "button_link": "shopify:\/\/collections\/soft-furnishing-lighting",
             "subtext": ""
           }
         },
@@ -122,10 +174,10 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/LeafSpareRoom_86544e89-2d2c-45cf-b2d8-a47d8ff2ecc0.jpg",
             "auto_height": "none",
             "cover": true,
-            "title": "Wallpaper",
+            "image": "shopify:\/\/shop_images\/apron_tuktuk_1000x1500_586e8a73-e46e-44dc-99d2-76bdb3be48cf.jpg",
+            "title": "Colourful Gifts",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -134,65 +186,23 @@
             "desktop_text_box_position": "start",
             "text_align": "center",
             "button_label": "View all",
-            "button_link": "shopify:\/\/collections\/wallpaper",
-            "subtext": ""
-          }
-        },
-        "163481963822b4d1b3-0": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/lighting_flirtsquirt_strawberry_stem_pink_1000x1500_68338a2d-4040-467d-8507-54781b44495d.jpg",
-            "auto_height": "none",
-            "cover": true,
-            "title": "Promotion",
-            "subtitle": "40% off a lampshade with every lamp base purchased",
-            "subtitle_size": "small",
-            "text": "<p><strong>Subscribe to get the code<\/strong><\/p>",
-            "button_color": "white",
-            "color_scheme": "blue_text",
-            "desktop_text_box_position": "end",
-            "text_align": "center",
-            "button_label": "Get your Code",
-            "button_link": "shopify:\/\/pages\/subscribe",
-            "subtext": ""
-          }
-        },
-        "163481963822b4d1b3-1": {
-          "type": "column",
-          "settings": {
-            "width": "two_thirds",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE_4f2b91f4-a0ad-40ec-b699-c4bc02f79d86.jpg",
-            "auto_height": "landscape",
-            "cover": false,
-            "title": "Lighting",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "end",
-            "text_align": "center",
-            "button_label": "View all",
-            "button_link": "shopify:\/\/collections\/lighting",
+            "button_link": "shopify:\/\/collections\/kitchen",
             "subtext": ""
           }
         }
       },
       "block_order": [
-        "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd",
-        "637ecfd1-532c-4aeb-94da-9b272c15f9de",
+        "163481963822b4d1b3-1",
         "163481963822b4d1b3-0",
-        "163481963822b4d1b3-1"
+        "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd",
+        "637ecfd1-532c-4aeb-94da-9b272c15f9de"
       ],
       "settings": {
         "mc_title": "",
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "m",
+        "margin_top": "s",
         "margin_bot": "s"
       }
     },
@@ -202,7 +212,7 @@
         "165712517240961444-0": {
           "type": "heading",
           "settings": {
-            "heading": "Handmade",
+            "heading": "Handmade this Christmas",
             "heading_type": "header1"
           }
         },
@@ -218,7 +228,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Discover more",
-            "button_link_1": "shopify:\/\/blogs\/craftsmanship",
+            "button_link_1": "shopify:\/\/pages\/100-days-to-christmas",
             "button_style_secondary_1": false,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -232,8 +242,9 @@
         "165712517240961444-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/269611342_313979097124189_10294121352655617_n.jpg",
+        "image": "shopify:\/\/shop_images\/handmade_molly_mahon_lino_block_star_1600x900_81b65dec-3874-4cbf-ae0d-6cb6ca4246ac.jpg",
         "letterbox": false,
+        "mobile_image": "shopify:\/\/shop_images\/block_print_star_studio_1300x1300_c4e0abd1-1b02-482a-af68-9eb89df5f7c4.jpg",
         "make_logo_white": false,
         "top_margin": true,
         "constrain": false,
@@ -256,19 +267,19 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_3.jpg",
+            "image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_LIFE1_1300x1300_15de8f88-1e88-4fc2-a74f-cadcf9ceaf35.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "",
-            "subtitle": "The New Bloomsbury Rug",
+            "title": "Kitchen & Dining",
+            "subtitle": "",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Shop Rugs",
-            "button_link": "shopify:\/\/collections\/rugs",
+            "button_label": "Explore more",
+            "button_link": "shopify:\/\/collections\/kitchen",
             "subtext": ""
           }
         },
@@ -277,19 +288,19 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SEAMSTRESSES_HAND_STITCHING_QUILT.jpg",
+            "image": "shopify:\/\/shop_images\/fabric_isabella_sofa_deerhyrst_1300x1300_663f1656-d6d1-4b5b-9e2d-63333fafb0aa.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "",
-            "subtitle": "The Softest Bed Quilts",
+            "title": "Cushions",
+            "subtitle": "The finishing touches this Christmas",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Discover more",
-            "button_link": "shopify:\/\/blogs\/craftsmanship\/handmade-quilts",
+            "button_label": "Shop Cushions",
+            "button_link": "shopify:\/\/collections\/cushions",
             "subtext": ""
           }
         }
@@ -315,19 +326,19 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FLUBLUPINLIFESOFA_8c136c3c-686c-4235-82e7-a3c0334315a8.jpg",
+            "image": "shopify:\/\/shop_images\/20210714MM0792.jpg",
             "auto_height": "square",
             "cover": false,
             "title": "",
-            "subtitle": "Jaipur Collection",
+            "subtitle": "Great handmade Gifts",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "View",
-            "button_link": "shopify:\/\/collections\/jaipur-collection",
+            "button_label": "Explore More",
+            "button_link": "shopify:\/\/collections\/christmas-edit",
             "subtext": ""
           }
         },
@@ -336,19 +347,19 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/fabric_bagru_chair_lottiecole_1300x1300_40fc7410-fb88-43e3-8d86-ab594e0b94f3.jpg",
+            "image": "shopify:\/\/shop_images\/lighting_seed_twig_1300x1300_83582815-e9d7-4c41-969e-7f5394601ba4.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "",
-            "subtitle": "Bagru Collection",
+            "title": "Lighting Promotion",
+            "subtitle": "40% off a lampshade with every lamp base purchased",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "View",
-            "button_link": "shopify:\/\/collections\/bagru-collection",
+            "button_label": "Promotion Code",
+            "button_link": "shopify:\/\/pages\/subscribe",
             "subtext": ""
           }
         }
@@ -362,7 +373,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "s",
+        "margin_top": "none",
         "margin_bot": "m"
       }
     },
@@ -522,15 +533,7 @@
         "b3638c37-80b2-4963-9497-730c5a8367d7": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-11-58-10_ef5078df-bd2a-4ec5-abbb-e24ed242b539.jpg",
-            "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
-          }
-        },
-        "ab89f639-6764-4639-b1e4-d7b36eaa5147": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-11-58-10.jpg",
+            "insta_image": "shopify:\/\/shop_images\/insta_soap_nicholson_workshop_1300x1300_09df9949-400f-4f75-a9d3-3c868ff9b53c.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
@@ -538,7 +541,7 @@
         "16348163341a2e5254-0": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MARIGOLD_SHEPHERDSHUT_AMLY.jpg",
+            "insta_image": "shopify:\/\/shop_images\/BOMBAYBUSTLE_TUKTUK_1300x1300_45cdc535-e7f0-44f7-90dd-61d8943e21b4.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
@@ -546,7 +549,15 @@
         "9fd0fb9e-76fd-49db-a4dc-c17f50c6914d": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/269611342_313979097124189_10294121352655617_n.jpg",
+            "insta_image": "shopify:\/\/shop_images\/FBAPINLIFECHAIR_f1bf1ab8-3200-4d2c-982c-a5b99b0d9837.jpg",
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+          }
+        },
+        "ab89f639-6764-4639-b1e4-d7b36eaa5147": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/STARRYSKBLOCK_1300x1300_2280062c-9627-426e-a4c7-da6b48949c4b.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
@@ -554,7 +565,15 @@
         "366ce4bd-d678-476b-b6ce-e1f69e984969": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50_9462433f-6c8e-4884-b866-6c7fa035e7f2.jpg",
+            "insta_image": "shopify:\/\/shop_images\/wallpaper_fern_deerhyrst_tent_2600x1300_0f84c3ba-cc3d-4c06-b63f-6477048e8d28.jpg",
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+          }
+        },
+        "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/LBBFLBUTPIN12-3_51dc0d07-0458-49b3-acb1-0f8b6f0ac839.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
@@ -562,7 +581,7 @@
         "e029c48d-6777-47fa-8c59-1eb07ea60a54": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-11-58-10_0bdc2fa5-a2ec-4b5d-846e-fb459f51067c.jpg",
+            "insta_image": "shopify:\/\/shop_images\/fabric_tulip_greencombe_curtain_1300x1300_9735fbfe-e7f2-44b2-8b8f-b520e0384edf.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
@@ -574,25 +593,17 @@
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
-        },
-        "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50.jpg",
-            "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
-          }
         }
       },
       "block_order": [
         "b3638c37-80b2-4963-9497-730c5a8367d7",
-        "ab89f639-6764-4639-b1e4-d7b36eaa5147",
         "16348163341a2e5254-0",
         "9fd0fb9e-76fd-49db-a4dc-c17f50c6914d",
+        "ab89f639-6764-4639-b1e4-d7b36eaa5147",
         "366ce4bd-d678-476b-b6ce-e1f69e984969",
+        "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32",
         "e029c48d-6777-47fa-8c59-1eb07ea60a54",
-        "c5462cbc-a60b-4b23-b26e-1522064bd96b",
-        "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32"
+        "c5462cbc-a60b-4b23-b26e-1522064bd96b"
       ],
       "settings": {
         "title": "#mollymahonblockprinting",
@@ -632,6 +643,7 @@
     }
   },
   "order": [
+    "5952b80b-42de-4667-9f7c-7ca9d36e71c7",
     "16352843092374a33e",
     "16348194267fffd3c9",
     "163481963822b4d1b3",
