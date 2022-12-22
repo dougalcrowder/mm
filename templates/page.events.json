@@ -83,8 +83,8 @@
         "739546b9-6ea3-463f-8b73-9e613947c2d8": {
           "type": "event",
           "settings": {
-            "event_title": "Block printing Workshops 2023 - Book below",
-            "event_intro": "That is it for this year folks!  And a special thank you to everyone who has joined us this year.  It really has been a delight.  We are now posting workshops for 2023 as we arrange our schedule so do keep an eye on this page.  We do like to give a least 3 months notice in most cases?!",
+            "event_title": "Block printing Workshops 2023 coming soon",
+            "event_intro": "That is it for 2022 folks!  And a special thank you to everyone who has joined us this year.  It really has been a delight.  We are now posting workshops for 2023 as we arrange our schedule so do keep an eye on this page.  We do like to give a least 3 months notice in most cases?!",
             "event_description": "<p>Join printmaker Molly Mahon for a workshop, experiencing the joy of block printing and making your own mark with our blocks. We will be celebrating the launch of Molly's new fabric collection 'Bloom' by using Molly’s floral carved wooden blocks, experiment with colour and pattern and finish by printing your own item depending on which workshop you choose.<br\/><\/p>",
             "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
             "event_date": "",
@@ -100,7 +100,7 @@
           "type": "event",
           "settings": {
             "event_title": "Block Printing Cushion Workshop at Charleston, Firle",
-            "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own cushion cover.",
+            "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own cushion cover",
             "event_description": "<p>The day-long course will include a private tour of Charleston house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.<\/p>",
             "image": "shopify:\/\/shop_images\/MM_at_Charleston_294_copy.jpg",
             "event_date": "Tuesday 28th March 2023, 10am-3.30pm",
@@ -112,35 +112,19 @@
             "event_buy_btn": ""
           }
         },
-        "2df3d84b-fd35-4cfd-96ba-431e45b72260": {
+        "3f1665d0-a6e9-4a78-8f69-d9cbf7e3830b": {
           "type": "event",
           "settings": {
             "event_title": "Block Printing Cushion Workshop at Fritton Lake, Somerleyton Hall, Suffolk",
             "event_intro": "Join printmaker Molly Mahon for a one-day workshop, experiencing the joy of block printing and making your own cushion.  The day-long course will include a talk from Lady Somerleyton and Molly Mahon, followed by an introduction to block printing with Molly in The Loggia of Somerleyton Hall.",
             "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.<\/p>",
-            "image": "shopify:\/\/shop_images\/handmade_molly_mahon_lino_block_star_1600x900_81b65dec-3874-4cbf-ae0d-6cb6ca4246ac.jpg",
+            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
             "event_date": "Thursday 20th April, 2023. (10am-4pm)",
             "event_extras": "The price includes all materials, refreshments and a delicious lunch.",
             "event_price": "£144 per person",
             "event_button_text": "Book here",
             "event_button_text_2": "via Fritton Lake",
-            "event_external_link": "https:\/\/beyonk.com\/uk\/e8aog2p3\/molly-mahon-cushion-printing-workshop?portal=true&_ga=2.101565313.1868672526.1670259926-1425971940.1670259926",
-            "event_buy_btn": ""
-          }
-        },
-        "ccc4ebf6-686c-4e1b-bc10-57a5872d5a30": {
-          "type": "event",
-          "settings": {
-            "event_title": "Block printing PYO Workshop at Water Lane Walled Garden, Kent",
-            "event_intro": "Join printmaker Molly Mahon for PYO (print your own!) block printing sessions at Water Lane.  On the day you will have the choice to print one of the following options: tea towel, tote bag, drawstring bag, pack of notecards.",
-            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you’ll print your own item to take home and cherish – or gift to a loved one!  <\/p>",
-            "image": "shopify:\/\/shop_images\/handmade_molly_mahon_lino_block_star_1600x900_81b65dec-3874-4cbf-ae0d-6cb6ca4246ac.jpg",
-            "event_date": "Wednesday 3rd May, 2023 (10am-11.30am)",
-            "event_extras": "",
-            "event_price": "£30 per person",
-            "event_button_text": "Book here",
-            "event_button_text_2": "10am-11.30am",
-            "event_external_link": "shopify:\/\/products\/copy-of-workshop-ashbrook-28th-september-2023",
+            "event_external_link": "",
             "event_buy_btn": ""
           }
         },
@@ -148,9 +132,25 @@
           "type": "event",
           "settings": {
             "event_title": "Block printing PYO Workshop at Water Lane Walled Garden, Kent",
+            "event_intro": "Join printmaker Molly Mahon for PYO (print your own!) block printing sessions at Water Lane.  On the day you will have the choice to print one of the following options: tea towel, tote bag, drawstring bag, pack of notecards.",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you’ll print your own item to take home and cherish – or gift to a loved one!  <\/p>",
+            "image": "shopify:\/\/shop_images\/GETCREATIVE20_13180fef-6e0c-44e9-82c7-8594563fba65.jpg",
+            "event_date": "Wednesday 3rd May, 2023 (10am-11.30am)",
+            "event_extras": "",
+            "event_price": "£30 per person",
+            "event_button_text": "Book here",
+            "event_button_text_2": "",
+            "event_external_link": "shopify:\/\/products\/copy-of-workshop-ashbrook-28th-september-2023",
+            "event_buy_btn": ""
+          }
+        },
+        "5018ff30-8aeb-4d6e-b79e-525bc24a038a": {
+          "type": "event",
+          "settings": {
+            "event_title": "Block printing PYO Workshop at Water Lane Walled Garden, Kent",
             "event_intro": "Join printmaker Molly Mahon for PYO (print your own!) block printing sessions at Water Lane.  On the day you will have the choice to print one of the following options: tea towel, tote bag, drawstring bag, pack of notecards",
-            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you’ll print your own item to take home and cherish – or gift to a loved one!  <br\/><\/p>",
-            "image": "shopify:\/\/shop_images\/handmade_molly_mahon_lino_block_star_1600x900_81b65dec-3874-4cbf-ae0d-6cb6ca4246ac.jpg",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you’ll print your own item to take home and cherish – or gift to a loved one!  <\/p>",
+            "image": "shopify:\/\/shop_images\/GETCREATIVE20_13180fef-6e0c-44e9-82c7-8594563fba65.jpg",
             "event_date": "Wednesday, 3rd May, 2023 (12noon-1.30pm)",
             "event_extras": "",
             "event_price": "£30 per person",
@@ -160,13 +160,13 @@
             "event_buy_btn": ""
           }
         },
-        "74a99284-5e9e-499a-b2e2-c5fcd6bba903": {
+        "8c918cce-0287-450b-a11a-aa721d58827b": {
           "type": "event",
           "settings": {
             "event_title": "Block Printing Napkins Workshop at Ashbrook, Banbury",
             "event_intro": "Join printmaker Molly Mahon for a one-day workshop, experiencing the joy of block printing and making a set of 4 napkins.",
             "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern in the morning, and finish by printing your napkins in the afternoon.  A delicious, organic lunch will be served in between!  (Ashbrook House, Moreton Pinkney.  NN11 3SN).<\/p>",
-            "image": "shopify:\/\/shop_images\/ASBROOK_WORKSHOP.jpg",
+            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
             "event_date": "Wednesday, 7th June (10am-3pm)",
             "event_extras": "The price includes all materials, refreshments, and lunch.",
             "event_price": "£220.00 pp",
@@ -176,13 +176,13 @@
             "event_buy_btn": ""
           }
         },
-        "041d34df-409e-464d-a2d2-a847e1962d87": {
+        "74a99284-5e9e-499a-b2e2-c5fcd6bba903": {
           "type": "event",
           "settings": {
             "event_title": "Block Printing Apron Workshop at Ashbrook, Banbury",
             "event_intro": "Join printmaker Molly Mahon for a one-day workshop, experiencing the joy of block printing and making an apron.",
             "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern in the morning, and finish by printing your apron in the afternoon. A delicious, organic lunch will be served in between! <\/p>",
-            "image": "shopify:\/\/shop_images\/ASBROOK_WORKSHOP_93aa849c-a9b7-401c-a3a4-ff3be0d87309.jpg",
+            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
             "event_date": "Thursday 28th September, 2023 (10am-3pm)",
             "event_extras": "The price includes all materials, refreshments, and lunch.",
             "event_price": "£220 per person",
@@ -246,11 +246,11 @@
       "block_order": [
         "739546b9-6ea3-463f-8b73-9e613947c2d8",
         "384caa00-334f-4ab3-a93d-275d2d0fd2fb",
-        "2df3d84b-fd35-4cfd-96ba-431e45b72260",
-        "ccc4ebf6-686c-4e1b-bc10-57a5872d5a30",
+        "3f1665d0-a6e9-4a78-8f69-d9cbf7e3830b",
         "0d5aaf4e-cd1f-40a5-8d8d-a62bc1f29e25",
+        "5018ff30-8aeb-4d6e-b79e-525bc24a038a",
+        "8c918cce-0287-450b-a11a-aa721d58827b",
         "74a99284-5e9e-499a-b2e2-c5fcd6bba903",
-        "041d34df-409e-464d-a2d2-a847e1962d87",
         "519cccd8-5c39-4a42-9387-5286d373629a",
         "16352620842faf27c4-0",
         "86e614b8-e8c2-491e-832a-3e23d40baa3f"
