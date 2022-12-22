@@ -25,7 +25,7 @@
       "settings": {
         "image": "{{ product.metafields.my_fields.product_info_image.value }}",
         "title": "",
-        "color_scheme": "dark_text",
+        "color_scheme": "red_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
