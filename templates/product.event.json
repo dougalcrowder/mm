@@ -8,6 +8,37 @@
         "share_label": "Share"
       }
     },
+    "10f29d07-aa0e-4468-b713-8a67a0d99eae": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14494911627322__10f29d07-aa0e-4468-b713-8a67a0d99eae-167172543532a87229-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "code": "{{ product.description }}"
+          }
+        }
+      },
+      "block_order": [
+        "template--14494911627322__10f29d07-aa0e-4468-b713-8a67a0d99eae-167172543532a87229-1"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.my_fields.product_info_image.value }}",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "0994aa82-b786-4fd8-9c55-b2de6e2cd354": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "l",
+        "hr": true
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -23,6 +54,8 @@
   },
   "order": [
     "main",
+    "10f29d07-aa0e-4468-b713-8a67a0d99eae",
+    "0994aa82-b786-4fd8-9c55-b2de6e2cd354",
     "product-recommendations",
     "sticky-share"
   ]
