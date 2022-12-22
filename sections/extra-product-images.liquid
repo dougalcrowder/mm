@@ -1,9 +1,7 @@
  {% if product.images.size > 1 %}
- {%- if section.settings.skip -%}
+
  {%- for image in product.images offset:1 -%}
- {%- else -%}
- {%- for image in product.images -%}
- {%- endif -%}
+
    <picture class="productShots">
      {% assign image = product.featured_image %}
      <source srcset="{{ image | img_url: '734x', scale: 2 }} 2x, {{ image | img_url: '734x' }}" media="(min-width: 1440px)" />
