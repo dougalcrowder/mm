@@ -1,0 +1,29 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product-event",
+      "settings": {
+        "show_dynamic_checkout": true,
+        "enable_sticky_info": true,
+        "share_label": "Share"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like"
+      }
+    },
+    "sticky-share": {
+      "type": "sticky-share",
+      "settings": {
+        "share_label": "Share"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "sticky-share"
+  ]
+}

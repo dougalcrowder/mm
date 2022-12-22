@@ -28,6 +28,10 @@
           <li class="breadcrumbs__item breadcrumb_product">
             {{ collection.title | link_to: collection.url }}
           </li>
+          {%- elsif collection.title == 'Workshops and Events' -%}
+          <li class="breadcrumbs__item breadcrumb_product">
+            {{ collection.title | link_to: collection.url }}
+          </li>
           {%- endif -%}
         {%- endfor -%}
         <li class="breadcrumbs__item breadcrumb_product">

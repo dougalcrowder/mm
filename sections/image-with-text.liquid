@@ -37,7 +37,7 @@
                 {{ block.settings.heading | escape }}
               </h2>
             {%- when 'text' -%}
-              <div class="rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
+              <div class="rte" {{ block.shopify_attributes }}>{{ block.settings.text }}{{ block.settings.code }}</div>
             {%- when 'button' -%}
               {%- if block.settings.button_label != blank -%}
                 <a{% if block.settings.button_link != blank %} href="{{ block.settings.button_link }}"{% endif %} class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}"{% if block.settings.button_link == blank %} aria-disabled="true"{% endif %} {{ block.shopify_attributes }}>
@@ -173,6 +173,11 @@
         "id": "text",
         "default": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
         "label": "t:sections.image-with-text.blocks.text.settings.text.label"
+      },
+      {
+        "type": "liquid",
+        "id": "code",
+        "label": "Liquid Code"
       }
     ]
   },
