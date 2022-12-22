@@ -31,6 +31,15 @@
         "layout": "text_first"
       }
     },
+    "4487d5ac-cc4f-4b18-bd26-f90adee96758": {
+      "type": "extra-product-images",
+      "settings": {
+        "skip": true,
+        "margin_top": "s",
+        "margin_bot": "l",
+        "bg_color_scheme": "none"
+      }
+    },
     "0994aa82-b786-4fd8-9c55-b2de6e2cd354": {
       "type": "divider",
       "settings": {
@@ -55,6 +64,7 @@
   "order": [
     "main",
     "10f29d07-aa0e-4468-b713-8a67a0d99eae",
+    "4487d5ac-cc4f-4b18-bd26-f90adee96758",
     "0994aa82-b786-4fd8-9c55-b2de6e2cd354",
     "product-recommendations",
     "sticky-share"
