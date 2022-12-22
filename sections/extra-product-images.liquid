@@ -1,6 +1,6 @@
  {% if product.images.size > 1 %}
  {%- if section.settings.skip -%}
- {%- for image in product.images | offset:1 -%}
+ {%- for image in product.images offset:1 -%}
  {%- else -%}
  {%- for image in product.images -%}
  {%- endif -%}
