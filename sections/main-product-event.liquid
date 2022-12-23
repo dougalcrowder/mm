@@ -26,7 +26,7 @@
           <img class="prod-shot"{% if forloop.index > 1 %} loading="lazy"{% endif %} src="{{ image | img_url: '304x', crop: 'center' }}" alt="{{ image.alt | escape }}" width="{{image.width}}" height="{{image.height}}" />
         </picture>
       </div>
-      
+      {%- endif -%}
       </div>
     </div>
     
