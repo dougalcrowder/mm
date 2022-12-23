@@ -2,6 +2,7 @@
   "sections": {
     "5952b80b-42de-4667-9f7c-7ca9d36e71c7": {
       "type": "text-banner",
+      "disabled": true,
       "settings": {
         "title": "<p>Last Christmas parcel Shipping dates- click here<\/p>",
         "link": "shopify:\/\/pages\/latest-posting-dates-christmas-delivery",
