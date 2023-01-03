@@ -1,7 +1,7 @@
 {{ 'collections.css' | asset_url | stylesheet_tag }}
 
 
-<div id="ProductGridContainer" class="events_page inner pt-l">
+<div id="ProductGridContainer" class="events_page inner">
   {%- paginate collection.products by section.settings.products_per_page -%}
     {%- if collection.products.size == 0 -%}
       <div class="collection collection--empty inner" id="product-grid" data-id="{{ section.id }}">
@@ -51,7 +51,7 @@
 
 {% schema %}
 {
-  "name": "t:sections.main-collection-product-grid.name events",
+  "name": "Events Product Grid",
   "class": "collection-grid-section events-collection",
   "settings": [
     {

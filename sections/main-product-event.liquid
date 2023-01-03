@@ -234,6 +234,9 @@
   
               {%- form 'product', product, id: product_form_id, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' -%}
                 <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
+                {%- if product.metafields.custom.event_date != blank -%}
+                <input type="hidden" name="properties[Date]" value="{{ product.metafields.custom.event_date }}" />
+                {%- endif -%}
                 <div class="product-form__buttons">
                   <button
                     type="submit"
