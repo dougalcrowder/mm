@@ -26,7 +26,7 @@
           <img class="prod-shot"{% if forloop.index > 1 %} loading="lazy"{% endif %} src="{{ image | img_url: '304x', crop: 'center' }}" alt="{{ image.alt | escape }}" width="{{image.width}}" height="{{image.height}}" />
         </picture>
       </div>
-      
+      {%- endif -%}
       </div>
     </div>
     
@@ -42,11 +42,17 @@
         </h1>
         <!-- End Title -->
         
+        {%- if product.metafields.custom.event_date != blank -%}
+        <div class="product_description rte">
+        <strong>{{ product.metafields.custom.event_date }}</strong>
+        </div>
+        {%- endif -%}
+        
         <!-- Short Description -->
         {% assign short_desc = product.metafields.my_fields.product_info %}
         {%- if short_desc != blank -%}
         <div class="product_description rte" {{ section.shopify_attributes }}>
-          {{ short_desc }} <a href="#panel-1a">View details</a>
+          {{ short_desc }}
         </div>
         {%- endif -%}
         <!-- End  -->
@@ -196,8 +202,9 @@
         <!-- Price -->
         <div class="prod_price"> 
           <div class="no-js-hidden" id="price-{{ section.id }}" {{ section.shopify_attributes }}>
-            {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price_prod' -%}
+              {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price_prod' -%}
           </div>
+          
           <div {{ section.shopify_attributes }}>
             {%- form 'product', product, id: 'product-form-installment', class: 'installment caption-large' -%}
               <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
@@ -206,13 +213,13 @@
           </div>
         </div>
         <!-- Ends Price -->
-
         
         <!-- Buy Buttons -->
         <div class="buy {{ product.type }}">
           <div>
             {%- if product.metafields.custom.event_booking_url != blank -%}
-            <a href="{{ product.metafields.custom.event_booking_url }}" target="_blank" rel="nofollow" class="button fill button--full-width button--secondary">{{ product.metafields.custom.event_booking_button_label }}</a>
+            <a href="{{ product.metafields.custom.event_booking_url }}" target="_blank" rel="nofollow" class="button fill button--full-width button--secondary">
+              {{ product.metafields.custom.event_booking_button_label }}</a>
             {%- else -%}
             <product-form class="product-form">
               <div class="product-form__error-message-wrapper" role="alert" hidden>
@@ -298,6 +305,13 @@
         </div>
       </div>
         <!-- ends buy buttons -->
+        
+        {%- if product.metafields.custom.event_price_includes_text != blank -%}
+        <div class="product_description rte price_info">
+        {{ product.metafields.custom.event_price_includes_text }}
+        </div>
+        {%- endif -%}
+        
         {%- if product.metafields.custom.event_booking_url == blank -%}
         <div class="product__tax caption rte">
           {%- if shop.taxes_included or shop.shipping_policy.body != blank -%}

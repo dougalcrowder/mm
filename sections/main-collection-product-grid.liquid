@@ -25,7 +25,7 @@
       <div class="collection outer collection_loader">
         <div class="loading-overlay gradient"></div>
 
-        <ul id="product-grid" data-id="{{ section.id }}" class="grid product_grid">
+        <ul id="product-grid" data-id="{{ section.id }}" class="grid product_grid {{ collection.handle }}">
           {%- for product in collection.products -%}
           
             <li class="product_card">

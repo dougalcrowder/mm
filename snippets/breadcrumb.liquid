@@ -14,6 +14,7 @@
           <a class="breadcrumbs__link" href="{{ page.url }}" aria-current="page">{{ page.title }}</a>
         </li>
       {%- when 'product' -%}
+        {%- assign wkshops = false -%}
         {%- if collection.url -%}
           <li class="breadcrumbs__item breadcrumb_product">
             {{ collection.title | link_to: collection.url }}
@@ -29,14 +30,17 @@
             {{ collection.title | link_to: collection.url }}
           </li>
           {%- elsif collection.title == 'Workshops and Events' -%}
+          {%- assign wkshops = true -%}
           <li class="breadcrumbs__item breadcrumb_product">
             {{ collection.title | link_to: collection.url }}
           </li>
           {%- endif -%}
         {%- endfor -%}
+        {%- if wkshops == false -%}
         <li class="breadcrumbs__item breadcrumb_product">
           <a class="breadcrumbs__link" href="{{ product.url }}" aria-current="page">{{ product.title }}</a>
         </li>
+        {%- endif -%}
       {%- when 'collection' and collection.handle -%}
         {% for vendor in shop.vendors %}
           {% if vendor == collection.title %}

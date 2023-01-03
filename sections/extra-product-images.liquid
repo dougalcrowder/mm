@@ -1,7 +1,8 @@
  {% if product.images.size > 1 %}
-
+<div class="inner pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }}">
+  <div class="extra_images{% if grid %} grid{% endif %}">
  {%- for image in product.images offset:1 -%}
-
+  <div>
    <picture class="productShots">
      {% assign image = product.featured_image %}
      <source srcset="{{ image | img_url: '734x', scale: 2 }} 2x, {{ image | img_url: '734x' }}" media="(min-width: 1440px)" />
@@ -15,7 +16,13 @@
      <source srcset="{{ image | img_url: '328x', scale: 2 }} 2x, {{ image | img_url: '328x' }}" media="(min-width: 320px)" />
      <img class="prod-shot"{% if forloop.index > 1 %} loading="lazy"{% endif %} src="{{ image | img_url: '304x', crop: 'center' }}" alt="{{ image.alt | escape }}" width="{{image.width}}" height="{{image.height}}" />
    </picture>
+   {%- if image.alt != blank -%}
+   <div class="caption"><p>{{ image.alt | escape }}</p></div>
+   {%- endif -%}
+  </div>
  {%- endfor -%}
+  </div>
+</div>
  {%- endif -%}
    
  {% schema %}
@@ -26,9 +33,9 @@
  
      {
        "type": "checkbox",
-       "id": "skip",
+       "id": "grid",
        "default": false,
-       "label": "Skip first image"
+       "label": "Show in a 2 column grid on larger screens"
      },
      {
        "type": "select",
