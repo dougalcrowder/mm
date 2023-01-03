@@ -20,6 +20,7 @@
 
 .product_grid.workshops-and-events {
   grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 48px;
 }
 
 @media screen and (min-width: 768px) {
@@ -31,6 +32,14 @@
 @media screen and (min-width: 1024px) {
   .product_grid.workshops-and-events {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 56px;
+  }
+}
+
+@media screen and (min-width: 1360px) {
+  .product_grid.workshops-and-events {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 64px;
   }
 }
 
@@ -587,5 +596,42 @@ button.reset {
   font-size: 100%;
   text-align: center;
   margin-top: 12px;
+}
+
+.events_page.inner {
+  max-width: 1648px;
+}
+
+.events_page.inner .product_card {
+  border-bottom: 1px solid var(--color-red);
+}
+
+.product_card .flex.event_card .image img {
+  -webkit-mask-image: url("data:image/svg+xml,%0A%3Csvg viewBox='0 0 410 260' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cg id='Page-1' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'%3E%3Cpath d='M374,0 C374,19.882251 390.117749,36 410,36 L410,224 C390.117749,224 374,240.117749 374,260 L36,260 C36,240.117749 19.882251,224 0,224 L0,36 C19.882251,36 36,19.882251 36,0 L374,0 Z' id='Path' fill='%23000000'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml,%0A%3Csvg viewBox='0 0 410 260' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cg id='Page-1' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'%3E%3Cpath d='M374,0 C374,19.882251 390.117749,36 410,36 L410,224 C390.117749,224 374,240.117749 374,260 L36,260 C36,240.117749 19.882251,224 0,224 L0,36 C19.882251,36 36,19.882251 36,0 L374,0 Z' id='Path' fill='%23000000'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.product_card .flex.event_card .text h3.h5 {
+  margin-bottom: 8px;
+  line-height: 1.3;
+  font-size: 112%;
+}
+
+.product_card .flex.event_card .text .rte {
+  border-top: 1px solid var(--color-red);
+  font-size: 92.5%;
+  padding: 8px 0 4px 0;
+  font-family: var(--font-heading-family);
+}
+
+.product_card .flex.event_card .text small {
+  display: block;
+  padding: 4px 0 4px 0;
+  margin: 3px 0;
+  border-width: 1px 0;
+  font-size: 75%;
+  font-weight: 600;
 }
 
