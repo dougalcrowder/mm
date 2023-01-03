@@ -265,8 +265,8 @@
               "link1": "shopify:\/\/collections\/new-table-linen",
               "label2": "New Rug",
               "link2": "shopify:\/\/collections\/new-rug",
-              "label3": "Christmas Edit",
-              "link3": "shopify:\/\/collections\/christmas-edit",
+              "label3": "",
+              "link3": "",
               "label4": "",
               "link4": ""
             }
@@ -275,8 +275,8 @@
             "type": "four_menus",
             "settings": {
               "fl_title": "Inspiration",
-              "label1": "100 days to Christmas",
-              "link1": "shopify:\/\/pages\/100-days-to-christmas",
+              "label1": "",
+              "link1": "",
               "label2": "Workshops and Events",
               "link2": "shopify:\/\/pages\/workshops-and-events",
               "label3": "Look Book - Greencombe",
