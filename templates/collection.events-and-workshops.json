@@ -62,6 +62,11 @@
         "subtitle": ""
       }
     },
+    "4935b228-84d8-49a0-8b71-092d9ddd9c53": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "d35ce5b8-ad67-40b3-8669-c44a175c980a": {
       "type": "single-title_and_text",
       "settings": {
@@ -87,6 +92,7 @@
   "order": [
     "4303a565-ec1b-4b2c-ab2e-2746766f44f2",
     "banner",
+    "4935b228-84d8-49a0-8b71-092d9ddd9c53",
     "d35ce5b8-ad67-40b3-8669-c44a175c980a",
     "product-grid"
   ]
