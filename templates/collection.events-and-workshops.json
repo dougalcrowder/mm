@@ -1,9 +1,76 @@
 {
   "sections": {
+    "4303a565-ec1b-4b2c-ab2e-2746766f44f2": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14494590206010__4303a565-ec1b-4b2c-ab2e-2746766f44f2-1672759671fc9cf9af-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Workshops and Events",
+            "heading_type": "header1"
+          }
+        },
+        "template--14494590206010__4303a565-ec1b-4b2c-ab2e-2746766f44f2-1672759671fc9cf9af-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make a day of it and come and join Molly at one of her fun and immersive workshops.  Also watch this space for upcoming talks and events with Molly.\n\n\"We need to make time to be creative. It feeds and nourishes the soul.” Molly Mahon",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14494590206010__4303a565-ec1b-4b2c-ab2e-2746766f44f2-1672759671fc9cf9af-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14494590206010__4303a565-ec1b-4b2c-ab2e-2746766f44f2-1672759671fc9cf9af-0",
+        "template--14494590206010__4303a565-ec1b-4b2c-ab2e-2746766f44f2-1672759671fc9cf9af-1",
+        "template--14494590206010__4303a565-ec1b-4b2c-ab2e-2746766f44f2-1672759671fc9cf9af-2"
+      ],
+      "settings": {
+        "image": "{{ collection.image }}",
+        "letterbox": false,
+        "mobile_image": "{{ collection.metafields.my_fields.collection_mobile_image.value }}",
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "blue_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none"
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "subtitle": ""
+      }
+    },
+    "d35ce5b8-ad67-40b3-8669-c44a175c980a": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "heading_size": "small",
+        "text": "<p>Make a day of it and come and join Molly at one of her fun and immersive workshops.  Also watch this space for upcoming talks and events with Molly.<br\/><em>\"We need to make time to be creative. It feeds and nourishes the soul.”<\/em>Molly Mahon<\/p>",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "red_text"
       }
     },
     "product-grid": {
@@ -18,7 +85,9 @@
     }
   },
   "order": [
+    "4303a565-ec1b-4b2c-ab2e-2746766f44f2",
     "banner",
+    "d35ce5b8-ad67-40b3-8669-c44a175c980a",
     "product-grid"
   ]
 }
