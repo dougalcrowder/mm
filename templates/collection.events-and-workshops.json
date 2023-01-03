@@ -88,6 +88,15 @@
         "collapse_on_larger_devices": false
       }
     },
+    "bc80127c-1617-463c-8cb2-4b8ffe73395a": {
+      "type": "text-banner",
+      "settings": {
+        "title": "<p><strong>How about giving a workshop as a gift?<\/strong><\/p>",
+        "link": "",
+        "bg_pattern": "pattern_01",
+        "color_scheme": "blue_text"
+      }
+    },
     "a8d232d1-7bf0-4644-b831-8580e2694cb4": {
       "type": "events",
       "blocks": {
@@ -122,6 +131,7 @@
     "4935b228-84d8-49a0-8b71-092d9ddd9c53",
     "d35ce5b8-ad67-40b3-8669-c44a175c980a",
     "product-grid",
+    "bc80127c-1617-463c-8cb2-4b8ffe73395a",
     "a8d232d1-7bf0-4644-b831-8580e2694cb4"
   ]
 }
