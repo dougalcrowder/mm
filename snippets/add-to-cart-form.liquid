@@ -1,0 +1,282 @@
+{% comment %}
+{% assign shipping_time =  product.metafields.custom.shipping_time.value %}
+{% if shipping_time != blank %}
+<div class="shipping_time uppercase">{{ shipping_time }}</div>
+{% endif %}
+
+{% assign alt_colours =  product.metafields.custom.alt_colours.value %}
+{% if product.metafields.custom.alt_colours != blank %}
+  <div class="alt_colours">
+    <div class="title uppercase">Colour</div>
+    <div class="flex justify-start">
+    {% for producter in alt_colours %}
+    {% assign titsize =  producter.title | size %}
+    {% assign tipsize =  's' %}
+    {% if titsize > 40 %}{% assign tipsize =  'xl' %}
+    {% elsif titsize > 30 %}{% assign tipsize =  'l' %}
+    {% elsif titsize > 20 %}{% assign tipsize =  'ml' %}
+    {% elsif titsize > 15 %}{% assign tipsize =  'm' %}
+    {% elsif titsize > 10 %}{% assign tipsize =  'sm' %}
+    {% endif %}
+      <a href="{{ producter.url }}" class="alternative_colour tool-{{ tipsize }}{% if producter.title == product.title %} current{% endif %}" title="{{ producter.title }}">
+        {% assign colour_ref = producter.metafields.custom.colour_ref.value %}
+        {% if colour_ref != blank %}
+        <div class="swatch" style="background-color: {{ colour_ref }}"></div>
+        {% else %}
+        <div class="swatch simage">
+          {% assign alt_image =  producter.featured_image %}
+          <picture>
+            <source srcset="{{ alt_image | img_url: '32x32', crop: 'center', scale: 2 }} 2x, {{ alt_image | img_url: '32x32', crop: 'center' }} 1x" media="(min-width: 768px)" />
+            <source srcset="{{ alt_image | img_url: '32x32', crop: 'center', scale: 2 }} 2x, {{ alt_image | img_url: '32x32', crop: 'center' }} 1x" media="(min-width: 375px)" />
+            <source srcset="{{ alt_image | img_url: '32x32', crop: 'center', scale: 2 }} 2x, {{ alt_image | img_url: '32x32', crop: 'center' }} 1x" media="(min-width: 200px)" />
+            <img loading="lazy" class="lazyloadthisatsomepoint" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="image of {{ navProduct.title }}" width="32" height="32" />
+          </picture>
+        </div>
+        {% endif %}
+      </a>
+    {% endfor %}
+    </div>
+  </div>
+{% endif %}
+{% endcomment %}
+
+{%- assign current_variant = product.selected_or_first_available_variant -%}
+
+<form action="/cart/add" method="post" enctype="multipart/form-data" id="add-to-cart-{{ product.handle }}">  
+  {% if product.variants.size > 1 %}
+  <div class="variant_options">
+    {% if product.options[0] %}
+    {% assign used = '' %}
+    {% assign optionName0 = product.options[0] | handleize %}
+    <div class="radio_container {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' %} hidden{% endif %}">
+      <strong class="title">{{ product.options[0] }}</strong>
+      <fieldset id='select-one' onchange="letsDoThis()">
+        {% for variant in product.variants %}
+        {% unless used contains variant.option1 %}
+        <input name="select-one" type="radio" value="{{ variant.option1 }}" id="{{ variant.option1 }}-{{ product.handle }}" 
+        {% if forloop.index == 1 %}
+          checked
+        {% endif %}>
+        <label class="{{ variant.option1 | handleize }}" for="{{ variant.option1 }}-{{ product.handle }}" {% if optionName0 == 'color' or optionName0 == 'colour' %} data-tooltip="{{ variant.option1 }}">{% endif %}<span class="label_text">{{ variant.option1 }}</span></label>
+        {% capture used %}{{ used }} {{ variant.option1 }}{% endcapture %}
+        {% endunless %}
+        {% endfor %}
+      </fieldset>
+    </div>
+    {% endif %}
+    
+    {% if product.options[1] %}
+    {% assign used = '' %}
+    {% assign optionName1 = product.options[1] | handleize %}
+    <div class="radio_container {{ product.options[1] | handleize }}{% if section.settings.ownline %} flex{% endif %}">
+      <strong class="title">{{ product.options[1] }}</strong>
+      <fieldset id='select-two' onchange="letsDoThis()">
+        {% for variant in product.variants %}
+        {% unless used contains variant.option2 %}
+        <input name="select-two" type="radio" value="{{ variant.option2 }}" id="{{ variant.option2 }}-{{ product.handle }}" 
+        {% if forloop.index == 1 %}
+          checked
+        {% endif %}>
+        <label class="{{ variant.option2 | handleize }}" for="{{ variant.option2 }}-{{ product.handle }}" {% if optionName1 == 'color' or optionName1 == 'colour' %} title="{{ variant.option2 }}">{% endif %}<span class="label_text">{{ variant.option2 }}</span></label>
+        {% capture used %}{{ used }} {{ variant.option2 }}{% endcapture %}
+        {% endunless %}
+        {% endfor %}
+      </fieldset>
+    </div>
+    {% endif %}
+    {% if product.options[2] %}
+    {% assign used = '' %}
+    {% assign optionName2 = product.options[2] | handleize %}
+    <div class="radio_container {{ product.options[2] | handleize }}{% if section.settings.ownline %} flex{% endif %}">
+      <strong class="title">{{ product.options[2] }}</strong>
+      <select id='select-three' onchange="letsDoThis()">
+        {% for variant in product.variants %}
+        {% unless used contains variant.option3 %}
+        <input name="select-three" type="radio" value="{{ variant.option3 }}" id="{{ variant.option3 }}-{{ product.handle }}" 
+        {% if forloop.index == 1 %}
+          checked
+        {% endif %}>
+        <label class="{{ variant.option3 | handleize }}" for="{{ variant.option3 }}-{{ product.handle }}" {% if optionName2 == 'color' or optionName2 == 'colour' %} title="{{ variant.option3 }}">{% endif %}<span class="label_text">{{ variant.option3 }}</span></label>
+        {% capture used %}{{ used }} {{ variant.option3 }}{% endcapture %}
+        {% endunless %}
+        {% endfor %}
+      </select>
+    </div>
+    {% endif %}
+
+    
+    </div>
+  {% endif %}
+  
+  <input type="hidden" name="id" id="product-select" value="{{ product.variants.first.id }}" />
+ 
+  <div class="quantity">
+    <div class="product-form__input product-form__quantity" {{ section.shopify_attributes }}>
+      <label class="form__label" for="Quantity-{{ section.id }}">
+        {%- if product.type == 'Fabric' -%}
+        Quantity (per metre)
+        {%- elsif product.type == 'Wallpaper' -%}
+        Quantity (per roll)
+        {%- else -%}
+        {{ 'products.product.quantity.label' | t }}
+        {%- endif -%}
+      </label>
+  
+      <quantity-input class="quantity_inp">
+        <button class="quantity__button no-js-hidden" name="minus" type="button">
+          <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
+          {% render 'icon-minus' %}
+        </button>
+        <input type="number" id="Quantity" name="quantity" value="1" min="1" class="product-form__quantity quantity__input" />
+        <button class="quantity__button no-js-hidden" name="plus" type="button">
+          <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: product.title | escape }}</span>
+          {% render 'icon-plus' %}
+        </button> 
+      </quantity-input>
+    </div>
+  </div>
+ 
+ {%- liquid
+ if product.title
+   assign compare_at_price = product.compare_at_price
+   assign price = product.price
+   assign available = product.available
+   assign variant = product.variants.first
+ else
+   assign compare_at_price = 1999
+   assign price = 1999
+   assign available = true
+ endif
+ 
+ assign money_price = price | money
+ -%}
+ <div class="price prod_price">
+ {%- if product.price_varies -%}
+ <span id="price">{{ product.price_min | money_with_currency }}</span>
+ {%- else -%}
+ {% assign variant = product.selected_or_first_available_variant %}
+ {% if product.compare_at_price > product.price %}
+   <span class="product-price on-sale" id="price">{{ variant.price | money_with_currency }}</span>
+   <s class="product-compare-price">{{ variant.compare_at_price | money }}</s>
+ {% else %}
+   <span class="product-price" id="price">{{ variant.price | money_with_currency }}</span>
+ {% endif %}
+ {%- endif -%}
+ </div>
+ 
+  <button  
+   type="submit" 
+   name="add" 
+   data-add-to-cart 
+   class="button addtocart fill button--full-width button--secondary"
+   {%- unless current_variant.available -%}disabled="disabled"{%- endunless -%}> 
+     <span data-add-to-cart-text> 
+        {%- if current_variant.available -%} 
+
+          {%- if current_variant.incoming and current_variant.inventory_policy == 'continue' -%}
+          Preorder
+          {%- else -%} 
+          Add to cart
+          {%- endif -%} 
+          
+        {%- else -%} 
+            {{- 'products.product.sold_out' | t -}} 
+        {%- endif -%} 
+     </span>
+   </button> 
+   <div data-ajax-cart-messages="form" > 
+     <!-- Errors and messages appear here --> 
+   </div>
+</form>
+ {%- if current_variant.incoming and current_variant.inventory_policy == 'continue' -%}
+<p class="preorder">Estimated shipping date: {{ product.variants.first.next_incoming_date | date: "%b %d, %Y"}}</p>
+ {%- endif -%} 
+ 
+ 
+{% comment %}
+<div class="actions flex">
+  <input type="number" id="Quantity" name="quantity" value="1" min="1" class="product-form__quantity">
+  <button  type="submit" name="add" data-add-to-cart class="js-go-cart-add-to-cart button"
+ {%- unless current_variant.available -%}disabled="disabled"{%- endunless -%}> 
+   <span data-add-to-cart-text> 
+      {%- if current_variant.available -%} 
+          {{- 'products.product.add_to_cart' | t -}} 
+      {%- else -%} 
+          {{- 'products.product.sold_out' | t -}} 
+      {%- endif -%} 
+   </span>
+  </button>
+</div>
+{% endcomment %}
+
+{% assign current_variant = product.selected_or_first_available_variant %}
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": {{ product.title | json }},
+  "url": {{ shop.url | append: product.url | json }},
+  {%- if product.featured_media -%}
+    {%- assign media_size = product.featured_media.preview_image.width | append: 'x' -%}
+    "image": [
+      {{ product.featured_media | img_url: media_size | prepend: "https:" | json }}
+    ],
+  {%- endif -%}
+  "description": {{ product.description | strip_html | json }},
+  {%- if current_variant.sku != blank -%}
+    "sku": {{ current_variant.sku | json }},
+  {%- endif -%}
+  "brand": {
+    "@type": "Brand",
+    "name": {{ product.vendor | json }}
+  },
+  "offers": [
+    {%- for variant in product.variants -%}
+      {
+        "@type" : "Offer",
+        {%- if variant.sku != blank -%}
+          "sku": {{ variant.sku | json }},
+        {%- endif -%}
+        "availability" : "http://schema.org/{% if variant.available %}InStock{% else %}OutOfStock{% endif %}",
+        "price" : {{ variant.price | divided_by: 100.00 | json }},
+        "priceCurrency" : {{ cart.currency.iso_code | json }},
+        "url" : {{ shop.url | append: variant.url | json }}
+      }{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+  ]
+}
+</script>
+
+<script>
+
+function letsDoThis() { 
+  {% if product.options[0] %}var opt1 = document.querySelector('input[name="select-one"]:checked').value;{% endif %}
+  {% if product.options[1] %}var opt2 = document.querySelector('input[name="select-two"]:checked').value;{% endif %}
+  {% if product.options[2] %}var opt3 = document.querySelector('input[name="select-three"]:checked').value;{% endif %}
+  var id = '';
+  {% for v in product.variants %}
+  if(opt1=="{{ v.option1 }}"{% if product.options[1] %} && opt2=="{{ v.option2 }}"{% endif %}{% if product.options[2] %} && opt3=="{{ v.option3 }}"{% endif %}) {
+  var id = {{ v.id }};
+  var price = "{{ v.price | money }}";
+  var image = "{{ v.image | img_url }}";
+  }
+  {% endfor %}
+  if(id!='') {
+  document.getElementById('product-select').value = id;
+  document.getElementById('price').innerHTML = price;
+  } else {
+  document.getElementById('product-select').value = '';
+  document.getElementById('price').innerHTML = 'Unavailable';
+  }
+  
+  // console.log(id);
+  // console.log(price);
+  // console.log(image);
+  
+}
+</script>
+
+{% comment %}
+<script src="{{ 'products.js' | asset_url }}" async="async"></script>
+{% endcomment %}

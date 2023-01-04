@@ -1,10 +1,8 @@
 {{ 'products.css' | asset_url | stylesheet_tag }}
+{% comment %}
 <script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
+{% endcomment %}
 
-{%- assign variants_available_arr = product.variants | map: 'available' -%}
-{%- assign variants_option1_arr = product.variants | map: 'option1' -%}
-{%- assign variants_option2_arr = product.variants | map: 'option2' -%}
-{%- assign variants_option3_arr = product.variants | map: 'option3' -%}
 
 <section class="outer">
   <div class="product grid product_page">
@@ -162,6 +160,7 @@
           {%- endif -%}
         </ul>
         
+        {% comment %}
         <!-- Variants -->
         <div class="variants">
           {%- unless product.has_only_default_variant -%}
@@ -281,7 +280,7 @@
         </div>
         <!-- Ends Quantity selector -->
           
-
+        
         <!-- Price -->
         <div class="prod_price"> 
           <div class="no-js-hidden" id="price-{{ section.id }}" {{ section.shopify_attributes }}>
@@ -296,7 +295,7 @@
         </div>
         <!-- Ends Price -->
 
-        
+     
         <!-- Buy Buttons -->
         <div class="buy {{ product.type }}">
           {%- if product.type == 'Fabric' or product.type == 'Wallpaper' -%}
@@ -415,6 +414,23 @@
         </div>
       </div>
         <!-- ends buy buttons -->
+        {% endcomment %}
+        
+        {% capture "form_classes" -%}
+          product-form product-form-{{ section.id }}
+          {%- unless section.settings.show_variant_labels %} product-form--hide-variant-labels {% endunless %}
+          {%- if section.settings.enable_payment_button and product.has_only_default_variant %} product-form--payment-button-no-variants {%- endif -%}
+          {%- if current_variant.available == false %} product-form--variant-sold-out {%- endif -%}
+        {%- endcapture %}
+        
+        {%- if product.type == 'Fabric' or product.type == 'Wallpaper' -%}
+        <div class="sample_time flex">
+        {%- else -%}
+        <div>
+        {%- endif -%}
+        
+        {% include 'add-to-cart-form' %}
+        
         <div class="product__tax caption rte">
           {%- if shop.taxes_included or shop.shipping_policy.body != blank -%}
           {%- if shop.taxes_included -%}
@@ -425,6 +441,52 @@
         {%- if shop.shipping_policy.body != blank -%}
           {{ 'products.product.shipping_policy_html' | t: link: shop.shipping_policy.url }}
         {%- endif -%}
+        </div>
+        
+        {% include 'product_page_samples' %}
+        
+        {%- assign comp_1 = product.metafields.products.companion_product_1.value -%}
+        {%- assign comp_2 = product.metafields.products.companion_product_2.value -%}
+        {%- assign comp_3 = product.metafields.products.companion_product_3.value -%}
+        {%- assign comp_4 = product.metafields.products.companion_product_4.value -%}
+        {%- assign comp_title = product.metafields.products.companion_products_title -%}
+        
+        {%- if comp_1 != blank -%}
+        <div class="companion_products">
+          
+        {%- if comp_title != blank -%}
+          <strong>
+            {{ comp_title }}
+          </strong>
+        {%- endif -%}
+        <div class="flex">
+          <a href="{{ comp_1.url }}" class="prod prod_1">
+              <img src="{{ comp_1.featured_image | img_url: '120x120', crop: 'center' }}" alt="{{ comp_1.title }}"  width="60" height="60"/>
+            {{ comp_1.title }}
+          </a>
+          {%- if comp_2 != blank -%}
+          <a href="{{ comp_2.url }}" class="prod prod_2">
+              <img src="{{ comp_2.featured_image | img_url: '120x120', crop: 'center' }}" alt="{{ comp_2.title }}" width="60" height="60" />
+            {{ comp_2.title }}
+          </a>
+          {%- endif -%}
+          {%- if comp_3 != blank -%}
+          <a href="{{ comp_3.url }}" class="prod prod_3">
+              <img src="{{ comp_3.featured_image | img_url: '120x120', crop: 'center' }}" alt="{{ comp_3.title }}" width="60" height="60" />
+            {{ comp_3.title }}
+          </a>
+          {%- endif -%}
+          {%- if comp_4 != blank -%}
+          <a href="{{ comp_4.url }}" class="prod prod_4">
+              <img src="{{ comp_4.featured_image | img_url: '120x120', crop: 'center' }}" alt="{{ comp_4.title }}" width="60" height="60" />
+            {{ comp_4.title }}
+          </a>
+          {%- endif -%}
+        </div>
+        
+        </div>
+        {%- endif -%}
+        
         </div>
         
         {% include 'product_features_tags' %}

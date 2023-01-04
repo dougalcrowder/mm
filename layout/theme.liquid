@@ -229,5 +229,54 @@
         }
       </script>
       
+      {% section 'sidecart' %}
+      
+      <script type="application/json" data-ajax-cart-initial-state >
+        {{ cart | json }}
+      </script>
+       
+      <script type="module">
+        import { subscribeToCartAjaxRequests } from '{{ "liquid-ajax-cart-v1.10.3.js" | asset_url }}';
+        
+        subscribeToCartAjaxRequests(( requestState, subscribeToResult ) => {
+        
+          // If the request is 'Add to cart'
+          if ( requestState.requestType === 'add' ) {
+            
+            // Define a callback that will be called after the request is finished
+            subscribeToResult( requestState => {
+        
+              // If the request is successful 
+              if ( requestState.responseData?.ok ) {
+              
+              let sideCart= document.getElementById('sidecart');
+              
+              document.body.classList.add("sidecart-active");
+              sideCart.classList.add('alive');
+              setTimeout(function() {
+                sideCart.classList.add('active');
+              }, 50);
+                
+              }
+            });
+          }
+        });
+        
+      </script>
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
+      <script>
+        window.addEventListener('load', () => {
+          quicklink.listen({
+             ignores: [
+              /\/cart\/?/,
+              /\/checkout\/?/,
+            uri => uri.includes('.zip'),
+            (uri, elem) => elem.hasAttribute('noprefetch')
+            ]
+          });
+        });
+      </script>
+      
   </body>
 </html>
