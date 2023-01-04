@@ -12,8 +12,8 @@
         "products_per_page": 48,
         "show_rating": false,
         "enable_filtering": true,
-        "enable_sorting": true,
-        "enable_quick_add": true,
+        "enable_sorting": false,
+        "enable_quick_add": false,
         "collapse_on_larger_devices": false
       }
     }
