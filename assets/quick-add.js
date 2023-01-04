@@ -69,23 +69,23 @@ if (!customElements.get('quick-add-modal')) {
 
     removeDOMElements() {
       
-//       const pickupAvailability = this.productElement.querySelector('pickup-availability');
-//       if (pickupAvailability) pickupAvailability.remove();
-// 
-//       const productModal = this.productElement.querySelector('product-modal');
-//       if (productModal) productModal.remove();
-// 
-//       const modalDialog = this.productElement.querySelectorAll('modal-dialog');
-//       if (modalDialog) modalDialog.forEach(modal => modal.remove());
+      const pickupAvailability = this.productElement.querySelector('pickup-availability');
+      if (pickupAvailability) pickupAvailability.remove();
+
+      const productModal = this.productElement.querySelector('product-modal');
+      if (productModal) productModal.remove();
+
+      const modalDialog = this.productElement.querySelectorAll('modal-dialog');
+      if (modalDialog) modalDialog.forEach(modal => modal.remove());
     }
 
-    // preventDuplicatedIDs() {
-    //   const sectionId = this.productElement.dataset.section;
-    //   this.productElement.innerHTML = this.productElement.innerHTML.replaceAll(sectionId, `quickadd-${ sectionId }`);
-    //   this.productElement.querySelectorAll('variant-selects, variant-radios').forEach((variantSelect) => {
-    //     variantSelect.dataset.originalSection = sectionId;
-    //   });
-    // }
+    preventDuplicatedIDs() {
+      const sectionId = this.productElement.dataset.section;
+      this.productElement.innerHTML = this.productElement.innerHTML.replaceAll(sectionId, `quickadd-${ sectionId }`);
+      this.productElement.querySelectorAll('variant-selects, variant-radios').forEach((variantSelect) => {
+        variantSelect.dataset.originalSection = sectionId;
+      });
+    }
 
     removeGalleryListSemantic() {
       const galleryList = this.modalContent.querySelector('[id^="Slider-Gallery"]');
