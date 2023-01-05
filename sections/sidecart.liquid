@@ -4,6 +4,11 @@
   when the cart gets changed -->
   <div data-ajax-cart-section>
     <p class="intro">Item added to your cart</small>
+    {% comment %}
+    <div class="sample_alert">
+      <p>You have 5 Free samples in your cart. Samples will now cost £1 (still pretty great we reckon)</p>
+    </div>
+    {% endcomment %}
     <div class="my-cart__items" data-ajax-cart-section-scroll>
       {% for item in cart.items %}
         {% assign item_index = forloop.index %}

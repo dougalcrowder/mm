@@ -1,2 +1,75 @@
-footer.footer{margin-top:40px;padding:40px 0;font-size:87.5%}footer.footer .footer-block>strong{display:block;padding-bottom:8px}footer.footer ul{list-style-type:none;padding:0;margin:0 0 24px}footer.footer ul li{padding:4px 0}footer.footer .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}@media screen and (min-width:600px){footer.footer .grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media screen and (min-width:768px){footer.footer .grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:24px}}.prefooter.prefooter{display:block;height:88px}.footer_bottom{border-bottom:32px solid var(--color-foreground)}.footer_bottom .footer__copyright{text-align:center;font-size:12px;margin-bottom:32px}.footer__payment{margin-bottom:40px}.footer__payment ul{margin:0;padding:0;text-align:center;list-style-type:none}.footer__payment ul li{display:inline-block;margin:2px 4px}.copyright__content a{color:var(--color-foreground)}
-/*# sourceMappingURL=footer.css.map*/
+footer.footer {
+  margin-top: 40px;
+  padding: 40px 0;
+  font-size: 87.5%;
+}
+
+footer.footer .footer-block > strong {
+  display: block;
+  padding-bottom: 8px;
+}
+
+footer.footer ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 24px 0;
+}
+
+footer.footer ul li {
+  padding: 4px 0;
+}
+
+footer.footer .grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+@media screen and (min-width: 600px) {
+  footer.footer .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media screen and (min-width: 768px) {
+  footer.footer .grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 24px;
+  }
+}
+
+.prefooter.prefooter {
+  display: block;
+  height: 88px;
+}
+
+.footer_bottom {
+  border-bottom: 32px solid var(--color-foreground);
+}
+
+.footer_bottom .footer__copyright {
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 32px;
+}
+
+.footer__payment {
+  margin-bottom: 40px;
+}
+
+.footer__payment ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  list-style-type: none;
+}
+
+.footer__payment ul li {
+  display: inline-block;
+  margin: 2px 4px;
+}
+
+.copyright__content a {
+  color: var(--color-foreground);
+}
+
