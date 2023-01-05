@@ -141,7 +141,7 @@
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "white_text",
+            "color_scheme": "red_text",
             "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "Explore more",
