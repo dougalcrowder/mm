@@ -1,5 +1,5 @@
 <li class="column {{ block.settings.width }}{% if block.settings.narrow %} narrow{% endif %}{% if block.settings.image == blank %} no-image{% endif %} bg-for-{{ block.settings.color_scheme }}" {{ block.shopify_attributes }}>
-  <div class="text_wrap flex vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }} color-{{ block.settings.color_scheme }}">
+  <div class="text_wrap flex vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }}{% if block.settings.text_align == 'left' %} justify-start{% endif %} {% if block.settings.text_align == 'right' %} justify-end{% endif %} color-{{ block.settings.color_scheme }}">
     
     {%- if block.settings.title != blank -%}
       <h2 class="h3">{{ block.settings.title | escape }}</h2>
@@ -8,7 +8,7 @@
       <h3 class="h2 {{ block.settings.subtitle_size }}">{{ block.settings.subtitle | escape }}</h3>
     {%- endif -%}
     {%- if block.settings.text != blank -%}
-      <div class="rte">{{ block.settings.text }}</div>
+      <div class="rte prose">{{ block.settings.text }}</div>
     {%- endif -%}
     {% if block.settings.desktop_text_box_position != 'under' %}
     <div class="buttons {{ block.settings.button_color }}">
