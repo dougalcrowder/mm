@@ -16,9 +16,11 @@
      <source srcset="{{ image | img_url: '328x', scale: 2 }} 2x, {{ image | img_url: '328x' }}" media="(min-width: 320px)" />
      <img class="prod-shot"{% if forloop.index > 1 %} loading="lazy"{% endif %} src="{{ image | img_url: '304x', crop: 'center' }}" alt="{{ image.alt | escape }}" width="{{image.width}}" height="{{image.height}}" />
    </picture>
+    {% comment %}
    {%- if image.alt != blank -%}
    <div class="caption"><p>{{ image.alt | escape }}</p></div>
    {%- endif -%}
+   {% endcomment %}
   </div>
  {%- endfor -%}
   </div>
