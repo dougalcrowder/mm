@@ -254,7 +254,7 @@
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text",
-        "margin_top": "s",
+        "margin_top": "sm",
         "margin_bot": "none",
         "bg_color_scheme": "darken",
         "hover_text": true
@@ -315,8 +315,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "m",
-        "margin_bot": "s"
+        "margin_top": "sm",
+        "margin_bot": "sm"
       }
     },
     "1657185355c64083f9": {
@@ -375,7 +375,7 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "none"
       }
     },
     "1634821627eaee293f": {
@@ -524,7 +524,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
+        "margin_top": "s",
         "margin_bot": "m"
       }
     },
