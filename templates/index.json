@@ -12,6 +12,7 @@
     },
     "51c5a37a-54ba-4f6f-88b9-9c8de0d4c377": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--14237679845434__51c5a37a-54ba-4f6f-88b9-9c8de0d4c377-167295554233e75b86-0": {
           "type": "heading",
@@ -67,7 +68,6 @@
     },
     "16352843092374a33e": {
       "type": "hotspots",
-      "disabled": true,
       "blocks": {
         "16352843092374a33e-0": {
           "type": "Tooltip",
@@ -84,6 +84,7 @@
         },
         "148881e0-9bcf-4a7c-b669-ce41df894331": {
           "type": "Tooltip",
+          "disabled": true,
           "settings": {
             "title": "Lighting",
             "content": "<p><a href=\"\/collections\/lighting\" title=\"Lighting\">Lampshades & Lamp bases<\/a><\/p>",
