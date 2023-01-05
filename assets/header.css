@@ -2186,6 +2186,26 @@ nav.link {
   padding-top: 0;
 }
 
+.hover .ratio_banner .hover_text.bg-darken:after,
+.hover .ratio_banner .hover_text.bg-lighten:after {
+  opacity: 0;
+  transition: var(--transition-slow);
+}
+
+.hover .ratio_banner .hover_text + .cta {
+  transition: var(--transition-slow);
+  opacity: 0;
+}
+
+.hover .ratio_banner:hover .hover_text + .cta {
+  opacity: 1;
+}
+
+.hover .ratio_banner:hover .hover_text.bg-darken:after,
+.hover .ratio_banner:hover .hover_text.bg-lighten:after {
+  opacity: 1;
+}
+
 .swiffy-slider {
   position: relative;
   display: block;
