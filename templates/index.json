@@ -246,7 +246,7 @@
         "image": "shopify:\/\/shop_images\/BLOCKPRINTING_RASA_POLKADOT_1800X900_da959bee-9f3a-422f-864b-45df94b4aeb4.jpg",
         "letterbox": false,
         "make_logo_white": false,
-        "top_margin": true,
+        "top_margin": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
