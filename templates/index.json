@@ -16,20 +16,21 @@
         "template--14237679845434__51c5a37a-54ba-4f6f-88b9-9c8de0d4c377-167295554233e75b86-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Colour Life Love",
             "heading_type": "header1"
           }
         },
         "template--14237679845434__51c5a37a-54ba-4f6f-88b9-9c8de0d4c377-167295554233e75b86-1": {
           "type": "text",
           "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
+            "text": "Welcome to the wonderfull world of Molly Mahon",
+            "go_serif": true,
             "constrain_text": false
           }
         },
         "template--14237679845434__51c5a37a-54ba-4f6f-88b9-9c8de0d4c377-167295554233e75b86-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Button label",
             "button_link_1": "",
@@ -48,6 +49,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
         "letterbox": false,
+        "mobile_image": "shopify:\/\/shop_images\/GREENCOMBE_ATTIC_BEDROOM_MOBILE.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
@@ -65,6 +67,7 @@
     },
     "16352843092374a33e": {
       "type": "hotspots",
+      "disabled": true,
       "blocks": {
         "16352843092374a33e-0": {
           "type": "Tooltip",
