@@ -1,8 +1,4 @@
 {{ 'products.css' | asset_url | stylesheet_tag }}
-{% comment %}
-<script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
-{% endcomment %}
-
 
 <section class="outer">
   <div class="product grid product_page">
@@ -83,14 +79,14 @@
          let doti = entry.target.dataset.dot;
          
          let butto = document.querySelector("."+doti);
-         console.log(butto);
+         //console.log(butto);
          
          if (entry.isIntersecting) {
            entry.target.classList.add("intersecting");
            butto.classList.add("intersecting");
-           console.log("intersecting")
+           //console.log("intersecting")
          } else {
-           console.log("not intersecting");
+           //console.log("not intersecting");
            butto.classList.remove("intersecting");
            entry.target.classList.remove("intersecting");
          }
@@ -424,12 +420,15 @@
         {%- endcapture %}
         
         {%- if product.type == 'Fabric' or product.type == 'Wallpaper' -%}
-        <div class="sample_time flex">
+        <div class="sample_time relative">
         {%- else -%}
         <div>
         {%- endif -%}
         
         {% include 'add-to-cart-form' %}
+        {% include 'product_page_samples' %}
+        
+        </div>
         
         <div class="product__tax caption rte">
           {%- if shop.taxes_included or shop.shipping_policy.body != blank -%}
@@ -443,7 +442,7 @@
         {%- endif -%}
         </div>
         
-        {% include 'product_page_samples' %}
+        
         
         {%- assign comp_1 = product.metafields.products.companion_product_1.value -%}
         {%- assign comp_2 = product.metafields.products.companion_product_2.value -%}
@@ -483,8 +482,7 @@
           </a>
           {%- endif -%}
         </div>
-        
-        </div>
+
         {%- endif -%}
         
         </div>

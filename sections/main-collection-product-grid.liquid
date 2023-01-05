@@ -43,6 +43,11 @@
                 show_quick_add: section.settings.enable_quick_add,
                 show_rating: section.settings.show_rating
               %}
+              {%- if product.type == 'Fabric' or product.type == 'Wallpaper' -%}
+              <div class="sample_time">
+                {% include 'product_page_samples' %}
+              </div>
+              {%- endif -%}
             </li>
           {%- endfor -%}
         </ul>

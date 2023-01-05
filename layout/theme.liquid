@@ -83,7 +83,7 @@
 <!-- Coming Soon code end. Do not change GSEND -->
 <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.5.3/dist/js/swiffy-slider.min.js" defer>
 </head>
-<body class="template-{{ request.page_type | handle }} template-{{ template | handleize }} gradient">
+<body class="template-{{ request.page_type | handle }} template-{{ template | handleize }} gradient paid">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFT5HLQ"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -236,6 +236,48 @@
       </script>
        
       <script type="module">
+        
+        function cartListen() {
+          fetch('/cart.js')
+          .then(response => response.json())
+          .then(data => {
+            let numero = data.item_count;
+            // console.log(data);
+            // if(numero === 0) {
+            //   console.log('numbers are nuffin: ' + numero)
+            // } else {
+            //   console.log('we have stuff: ' + numero)
+            // }
+            
+            console.log(data.item_count);
+            let freeSamples = 0;
+            let price = 0.00;
+            data.items.forEach( function(prods) {
+              // console.log(prods.id);
+              if (prods.product_type == 'Fabric Sample' || prods.product_type == 'Wallpaper Sample' && prods.original_price == 0 ) {
+                let qty = prods.quantity;
+                price = prods.original_price;
+                freeSamples += qty;
+                console.log('free samples: ' +freeSamples);
+                console.log(price);
+              }
+            });
+            
+            if(freeSamples > 4 ) {
+              console.log("No more freebies for you");
+              document.body.classList.add("paid");
+              document.body.classList.remove("free");
+            } else {
+              console.log("Ok, as you were");
+              document.body.classList.add("free");
+              document.body.classList.remove("paid");
+            }
+            
+          })
+        }
+        
+        cartListen();
+      
         import { subscribeToCartAjaxRequests } from '{{ "liquid-ajax-cart-v1.10.3.js" | asset_url }}';
         
         subscribeToCartAjaxRequests(( requestState, subscribeToResult ) => {
@@ -249,6 +291,8 @@
               // If the request is successful 
               if ( requestState.responseData?.ok ) {
               
+              cartListen();
+              
               let sideCart= document.getElementById('sidecart');
               
               document.body.classList.add("sidecart-active");
@@ -256,9 +300,10 @@
               setTimeout(function() {
                 sideCart.classList.add('active');
               }, 50);
-                
+              
               }
             });
+            
           }
         });
         
