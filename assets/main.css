@@ -1021,6 +1021,11 @@ fieldset {
   opacity: 0.4;
 }
 
+.column:not(.no-image):hover.bg-for-red_text .image:after,
+.column:not(.no-image):hover.bg-for-blue_text .image:after {
+  opacity: 0.6;
+}
+
 .text_wrap {
   z-index: 2;
 }
