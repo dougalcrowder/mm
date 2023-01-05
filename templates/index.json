@@ -137,13 +137,13 @@
             "auto_height": "portrait",
             "cover": true,
             "title": "Deerhyrst Collection",
-            "subtitle": "",
+            "subtitle": "Bringing it home",
             "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
+            "text": "<p>Discover a myriad of stuff her there and everywhere<\/p>",
+            "button_color": "red",
+            "color_scheme": "red_text",
             "desktop_text_box_position": "end",
-            "text_align": "center",
+            "text_align": "left",
             "button_label": "Explore more",
             "button_link": "shopify:\/\/collections\/deerhyrst-collection",
             "subtext": ""
@@ -160,11 +160,11 @@
             "title": "Finishing Touches",
             "subtitle": "making Home",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p>Molly has been dazzled by this revered and iconic image of the poppy, originally created by the Mughals<\/p>",
             "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "end",
-            "text_align": "center",
+            "color_scheme": "blue_text",
+            "desktop_text_box_position": "around",
+            "text_align": "right",
             "button_label": "Explore here",
             "button_link": "shopify:\/\/collections\/soft-furnishing-lighting",
             "subtext": ""
@@ -256,7 +256,7 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "none"
+        "bg_color_scheme": "darken"
       }
     },
     "16571921305b28430e": {
