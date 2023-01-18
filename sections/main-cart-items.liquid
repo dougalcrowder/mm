@@ -120,7 +120,7 @@
                     {% endif %}
                     <p class="{{ item.product.type }}">{{ finalTitle }} {% if item.final_price > 0 %}<span class="cart-item__price">{{ item.final_price | money }}</span>{% endif %}</p>
                     <div class="removals remove-button" data-qty="{{ item.quantity }}" data-id="{{ item.id }}" data-index="{{ item.index | plus: 1 }}">
-                      <a href="{{ item.url_to_remove }}" class="button" aria-label="{{ 'sections.cart.remove_title' | t: title: item.title }}">
+                      <a href="{{ item.url_to_remove }}" aria-label="{{ 'sections.cart.remove_title' | t: title: item.title }}">
                         {% render 'icon-remove' %}
                       </a>
                     </div>
