@@ -10,62 +10,6 @@
         "color_scheme": "blue_text"
       }
     },
-    "51c5a37a-54ba-4f6f-88b9-9c8de0d4c377": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--14237679845434__51c5a37a-54ba-4f6f-88b9-9c8de0d4c377-167295554233e75b86-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Colour Life Love",
-            "heading_type": "header1"
-          }
-        },
-        "template--14237679845434__51c5a37a-54ba-4f6f-88b9-9c8de0d4c377-167295554233e75b86-1": {
-          "type": "text",
-          "settings": {
-            "text": "Welcome to the wonderfull world of Molly Mahon",
-            "go_serif": true,
-            "constrain_text": false
-          }
-        },
-        "template--14237679845434__51c5a37a-54ba-4f6f-88b9-9c8de0d4c377-167295554233e75b86-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14237679845434__51c5a37a-54ba-4f6f-88b9-9c8de0d4c377-167295554233e75b86-0",
-        "template--14237679845434__51c5a37a-54ba-4f6f-88b9-9c8de0d4c377-167295554233e75b86-1",
-        "template--14237679845434__51c5a37a-54ba-4f6f-88b9-9c8de0d4c377-167295554233e75b86-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/GREENCOMBE_ATTIC_BEDROOM_MOBILE.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
     "16352843092374a33e": {
       "type": "hotspots",
       "blocks": {
@@ -147,7 +91,7 @@
         "square_image": "shopify:\/\/shop_images\/GREENCOMBE_ATTIC_BEDROOM_MOBILE_d21373c7-eed6-448b-91fa-b65238eb118b.jpg",
         "make_logo_white": false,
         "title": "MAKE YOURSELF AT HOME",
-        "header_tag": "h1"
+        "header_tag": "h2"
       }
     },
     "16348194267fffd3c9": {
@@ -178,7 +122,7 @@
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "end",
-            "text_align": "left",
+            "text_align": "center",
             "button_label": "View all",
             "button_link": "shopify:\/\/collections\/greencombe-home",
             "subtext": ""
@@ -196,10 +140,10 @@
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
-            "button_color": "red",
-            "color_scheme": "red_text",
+            "button_color": "white",
+            "color_scheme": "white_text",
             "desktop_text_box_position": "end",
-            "text_align": "left",
+            "text_align": "center",
             "button_label": "Explore more",
             "button_link": "shopify:\/\/collections\/deerhyrst-collection",
             "subtext": ""
@@ -214,12 +158,12 @@
             "auto_height": "landscape",
             "cover": false,
             "title": "Finishing Touches",
-            "subtitle": "",
+            "subtitle": "making Home",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
-            "color_scheme": "blue_text",
-            "desktop_text_box_position": "center",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "Explore here",
             "button_link": "shopify:\/\/collections\/soft-furnishing-lighting",
@@ -240,7 +184,7 @@
             "text": "<p>Wednesday 18th January<\/p><p>Trading Boundaries<\/p><p>East Sussex<\/p>",
             "button_color": "white",
             "color_scheme": "dark_text",
-            "desktop_text_box_position": "around",
+            "desktop_text_box_position": "start",
             "text_align": "center",
             "button_label": "Discover more",
             "button_link": "shopify:\/\/pages\/january-sales",
@@ -259,8 +203,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "sm",
-        "margin_bot": "sm"
+        "margin_top": "s",
+        "margin_bot": "s"
       }
     },
     "1657125172969e3f3f": {
@@ -302,7 +246,7 @@
         "image": "shopify:\/\/shop_images\/BLOCKPRINTING_RASA_POLKADOT_1800X900_da959bee-9f3a-422f-864b-45df94b4aeb4.jpg",
         "letterbox": false,
         "make_logo_white": false,
-        "top_margin": false,
+        "top_margin": true,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -312,8 +256,7 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "darken",
-        "hover_text": true
+        "bg_color_scheme": "none"
       }
     },
     "16571921305b28430e": {
@@ -371,8 +314,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "sm",
-        "margin_bot": "sm"
+        "margin_top": "m",
+        "margin_bot": "s"
       }
     },
     "1657185355c64083f9": {
@@ -383,11 +326,11 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/20210714MM0792.jpg",
+            "image": "shopify:\/\/shop_images\/BUNKITTUKPIN.jpg",
             "auto_height": "square",
             "cover": false,
             "title": "",
-            "subtitle": "Beautifully crafted handmade Gifts",
+            "subtitle": "Life in Colour",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
@@ -395,7 +338,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Explore More",
-            "button_link": "shopify:\/\/collections\/christmas-edit",
+            "button_link": "shopify:\/\/collections\/life-in-colour",
             "subtext": ""
           }
         },
@@ -407,16 +350,16 @@
             "image": "shopify:\/\/shop_images\/lighting_seed_twig_1300x1300_83582815-e9d7-4c41-969e-7f5394601ba4.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "",
-            "subtitle": "40% off a lampshade with every lamp base purchased",
+            "title": "Light up your Home",
+            "subtitle": "",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Promotion Code",
-            "button_link": "shopify:\/\/pages\/subscribe",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/collections\/lighting",
             "subtext": ""
           }
         }
@@ -431,7 +374,7 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "none",
-        "margin_bot": "none"
+        "margin_bot": "m"
       }
     },
     "1634821627eaee293f": {
@@ -560,7 +503,7 @@
             "title": "Printing Supplies",
             "subtitle": "For the budding Block printer",
             "subtitle_size": "small",
-            "text": "<p>Supplies to help you achieve block printing nirvana<\/p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -580,7 +523,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "s",
+        "margin_top": "none",
         "margin_bot": "m"
       }
     },
@@ -701,7 +644,6 @@
   },
   "order": [
     "5952b80b-42de-4667-9f7c-7ca9d36e71c7",
-    "51c5a37a-54ba-4f6f-88b9-9c8de0d4c377",
     "16352843092374a33e",
     "16348194267fffd3c9",
     "163481963822b4d1b3",
