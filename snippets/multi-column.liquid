@@ -24,7 +24,11 @@
     </small>
   </div>
     {%- if block.settings.image != blank -%}
-      <div class="image{% if block.settings.desktop_text_box_position == 'under' %} respect{% endif %}{% if block.settings.cover %} cover{% endif %} {{ block.settings.auto_height }}">
+    {%- assign textactive = 'notext' -%}
+    {%- if block.settings.title != blank or block.settings.subtitle != blank or block.settings.text != blank or block.settings.button_link != blank -%}
+    {%- assign textactive = 'sometext' -%}
+    {%- endif -%}
+      <div class="image{% if block.settings.desktop_text_box_position == 'under' %} respect{% endif %}{% if block.settings.cover %} cover{% endif %} {{ block.settings.auto_height }} {{ textactive }}">
         {%- assign image = block.settings.image -%}
         {%- if block.settings.auto_height == 'none' or block.settings.auto_height == false -%}
           <picture>
