@@ -1,5 +1,5 @@
 <li class="column {{ block.settings.width }}{% if block.settings.narrow %} narrow{% endif %}{% if block.settings.image == blank %} no-image{% endif %} bg-for-{{ block.settings.color_scheme }}" {{ block.shopify_attributes }}>
-  <div class="text_wrap flex vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }}{% if block.settings.text_align == 'left' %} justify-start{% endif %} {% if block.settings.text_align == 'right' %} justify-end{% endif %} color-{{ block.settings.color_scheme }}">
+  <div class="text_wrap flex vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }}{% if block.settings.text_align == 'left' %} justify-start{% endif %} {% if block.settings.text_align == 'right' %} justify-end{% endif %} color-{{ block.settings.color_scheme }}{% if block.settings.image != blank %} has-image{% endif %}">
     
     {%- if block.settings.title != blank -%}
       <h2 class="h3">{{ block.settings.title | escape }}</h2>
