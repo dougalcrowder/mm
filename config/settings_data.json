@@ -261,12 +261,12 @@
             "type": "four_menus",
             "settings": {
               "fl_title": "New in",
-              "label1": "New Table Linen",
-              "link1": "shopify:\/\/collections\/new-table-linen",
-              "label2": "New Rug",
-              "link2": "shopify:\/\/collections\/new-rug",
-              "label3": "",
-              "link3": "",
+              "label1": "Life in Colour",
+              "link1": "shopify:\/\/collections\/life-in-colour",
+              "label2": "Light up your Home",
+              "link2": "shopify:\/\/collections\/lighting",
+              "label3": "January Sale",
+              "link3": "shopify:\/\/collections\/sale",
               "label4": "",
               "link4": ""
             }
@@ -510,6 +510,11 @@
           "border": false,
           "margin_top": "none",
           "margin_bot": "m"
+        }
+      },
+      "sidecart": {
+        "type": "sidecart",
+        "settings": {
         }
       }
     },
