@@ -13,8 +13,7 @@
         "show_rating": false,
         "enable_filtering": true,
         "enable_sorting": false,
-        "enable_quick_add": false,
-        "collapse_on_larger_devices": false
+        "show_prices": false
       }
     }
   },
