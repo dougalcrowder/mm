@@ -203,7 +203,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "s",
+        "margin_top": "sm",
         "margin_bot": "s"
       }
     },
