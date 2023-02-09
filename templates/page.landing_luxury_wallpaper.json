@@ -12,14 +12,14 @@
         "1642199348d668b6b2-0": {
           "type": "heading",
           "settings": {
-            "heading": "Floral Wallpaper By British Printmaker Molly Mahon",
+            "heading": "Luxury Wallpaper By British Printmaker Molly Mahon",
             "heading_type": "header1"
           }
         },
         "1642199348d668b6b2-1": {
           "type": "text",
           "settings": {
-            "text": "Shop our wonderful collection of designer floral wallpaper, \nexclusively designed by British printmaker, Molly Mahon. \nEthically printed in the UK .",
+            "text": "Shop our collection of joyful luxury wallpaper, exclusively designed by British printmaker, Molly Mahon. Ethically handcrafted in the UK and India.",
             "go_serif": false,
             "constrain_text": true
           }
@@ -56,7 +56,8 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "darken"
+        "bg_color_scheme": "darken",
+        "hover_text": false
       }
     },
     "1642200428ac6075d8": {
@@ -72,7 +73,7 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "large",
-            "text": "<p>Shop our wonderful collection of designer floral wallpaper, inspired by nature near Molly’s Sussex home. From bold leaf prints to intricate scenes of summer, every design celebrates flora and fauna. Each roll is ethically printed in the UK and made from original block prints.<\/p>",
+            "text": "<p>Bring your home to life with our joyful collection of luxury wallpaper, designed with love by acclaimed British printmaker, Molly Mahon, in her East Sussex studio. <\/p><p>With an uplifting selection of unique designs to inspire lovers of colour and festivity, there’s a luxury wallpaper design to give any space true depth and heaps of personality.<\/p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
@@ -123,9 +124,9 @@
         "16619521000b84ba87-0": {
           "type": "text",
           "settings": {
-            "heading": "Explore our Best-selling Floral Wallpapers",
+            "heading": "Get Inspired by our Uplifting Luxury Wallpapers",
             "heading_size": "large",
-            "text": "<p>Inspired by the beauty that is found in our natural world, these bright floral wallpapers from Molly Mahon are designed to spark joy and give you the same sense of tranquillity and peace in your home as stepping into the outdoors.<\/p>",
+            "text": "<p>We believe that making a space that uplifts our spirits, reflects our vivid personalities and encourages love and happiness is the key to a fulfilled home.<\/p><p>Every space, no matter how big or small, deserves character and that personal touch. Our luxury wallpapers, inspired by the endless freedom of nature, will do this and more.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -137,11 +138,11 @@
         "16619521000b84ba87-1": {
           "type": "text",
           "settings": {
-            "heading": "",
+            "heading": "Brighten your home with jubilant prints and patterns by Molly Mahon",
             "heading_size": "medium",
             "text": "",
-            "button_label": "Shop all our Floral wallpaper designs",
-            "button_link": "shopify:\/\/collections\/floral-wallpaper",
+            "button_label": "",
+            "button_link": "",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
@@ -181,7 +182,7 @@
           "settings": {
             "heading": "Discover a World of Print, Colour and Pattern with Molly Mahon",
             "heading_size": "small",
-            "text": "<p>Molly Mahon is a renowned British printmaker whose block print originals are applied to quality fabrics, luxury wallpaper and a whole host of homewares such as mugs, aprons,<a href=\"https:\/\/mollymahon.com\/collections\/cushions\"> <span style=\"text-decoration:underline\">cushions<\/span><\/a>, and wash bags.<\/p><p>Every item starts as a sketch which is then brought to life by Indian artisans who hand carve the designs into wooden blocks. These are then used by master block printers who apply the patterns with stunning accuracy to eco-conscious, premium textiles. Bold, fun prints and vivid colours are combined to create our floral wallpaper patterns, and there are matching materials and accessories available so that you can style each room in your home exactly how you like.<\/p>",
+            "text": "<p>Molly Mahon is an independent British designer whose genuine love of fun patterns, the simple beauty of nature, and lush colours of India culminate in jubilant <a href=\"https:\/\/mollymahon.com\/collections\/home-goods\"><span style=\"text-decoration:underline\">homewares<\/span><\/a>, <a href=\"https:\/\/mollymahon.com\/collections\/fabric\"><span style=\"text-decoration:underline\">textiles<\/span><\/a> and luxury <a href=\"https:\/\/mollymahon.com\/collections\/wallpaper\"><span style=\"text-decoration:underline\">wallpapers<\/span><\/a>.<\/p><p>Each pattern starts life as a block print original. Skillful artisans in India create carved wooden blocks which are used to print patterns by hand. The perfect imperfections that this art form leads to is what gives Molly’s designs real heart and soul.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -195,7 +196,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Molly has collaborated with a variety of well-known brands including<a href=\"https:\/\/mollymahon.com\/pages\/boden-molly-mahon\"> <span style=\"text-decoration:underline\">Boden<\/span><\/a> and Anthropologie.<\/p><p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\" -  <\/em>Johnnie Boden<\/p><p>Her playful and charming designs showcase the best of the British countryside and allow you to create unique and exciting spaces.<\/p>",
+            "text": "<p>Happy, welcoming homes are all about human interaction and genuine connection, and so they lend themselves to the imperfectly perfect element of our block printed patterns. This, perhaps ironically, is also what gives our wallpapers that premium, luxurious feel that simply cannot be achieved by other forms of design.<\/p><p>The authentic charm of Molly’s designs has not gone unnoticed. It has instead led to exclusive collaborations with renowned brands including British design pioneers, <a href=\"https:\/\/www.boden.co.uk\/en-gb\"><span style=\"text-decoration:underline\">Boden<\/span><\/a>, and American favourite, Anthropoligie. <\/p><p>And with Molly Mahon luxury wallpapers, it can lead to your own home, too.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -235,7 +236,7 @@
         "1661959305d8047f36-0": {
           "type": "text",
           "settings": {
-            "heading": "Bring the Outside In",
+            "heading": "The Lasting Impact of Beautiful Patterns",
             "heading_size": "large",
             "text": "",
             "button_label": "",
@@ -263,7 +264,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>For many of us, our home is our sanctuary and the place where we can truly be ourselves. Nature also allows us to feel free. Molly Mahon has drawn on influences from around her Sussex home such as the nearby woods and Ashdown Forest to create a bright floral wallpaper range that makes it easy to blur the lines between the two and bring the outside in.<\/p>",
+            "text": "<p>Humankind has been drawn to expressive pattern design since ancient times. <\/p><p>The meander decorative borders of ancient Greece, the incredible mosaics of Ancient Rome, and in more recent history, the classic Art Nouveau designs of William Morris… <\/p><p>We are simply captivated by the impact that a bold and beautiful pattern can have in our homes and, because our homes are a huge part of our existence, in our lives as a whole.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -277,7 +278,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>The colours used in this collection echo those found in nature from the fresh greens of the fern leaf and the blush pink of ripening fruits, to the pale blue of a morning sky and the joyful yellow hue of flowers in bloom.<\/p>",
+            "text": "<p>The contemporary patterns of our luxury wallpapers are inspired by Molly’s authentic passions and interests. Most notably the abstract beauty of nature, especially in her locality of Ashdown Forest, and the rich colours of India, a country that provides Molly with endless stimulation and creative ideas. And creativity is an integral part of human nature.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -348,7 +349,8 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "none"
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "166245704164214430": {
@@ -456,7 +458,8 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "none"
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "16624577622fefe57b": {
@@ -565,7 +568,8 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "none"
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "16624574182228dbc7": {
@@ -674,7 +678,8 @@
         "color_scheme": "white_text",
         "margin_top": "m",
         "margin_bot": "none",
-        "bg_color_scheme": "none"
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "16624584107026dd5b": {
@@ -794,7 +799,8 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "none"
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "1664204379a6a5a50c": {
