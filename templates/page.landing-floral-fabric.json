@@ -56,7 +56,8 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "darken"
+        "bg_color_scheme": "darken",
+        "hover_text": false
       }
     },
     "1642200428ac6075d8": {
@@ -348,7 +349,8 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "none"
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "166245704164214430": {
@@ -435,7 +437,8 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "none"
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "16624574182228dbc7": {
@@ -531,7 +534,7 @@
         "template--14412154142778__c320e191-7705-4348-8726-846e423e03c5-16655851478a25dfa9-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/wallpaper_tree_green_attic_bedroom_1600x900_cbeb6a92-8162-4697-aef9-511e782bea92.jpg",
+        "image": "shopify:\/\/shop_images\/HenMol-5.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -544,7 +547,8 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "none"
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "16624577622fefe57b": {
@@ -601,17 +605,70 @@
         "centred": true
       }
     },
+    "c067a1a2-fbde-4207-b8c6-8047be144e96": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14412154142778__c067a1a2-fbde-4207-b8c6-8047be144e96-1676044712ca567e36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        },
+        "template--14412154142778__c067a1a2-fbde-4207-b8c6-8047be144e96-1676044712ca567e36-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14412154142778__c067a1a2-fbde-4207-b8c6-8047be144e96-1676044712ca567e36-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14412154142778__c067a1a2-fbde-4207-b8c6-8047be144e96-1676044712ca567e36-0",
+        "template--14412154142778__c067a1a2-fbde-4207-b8c6-8047be144e96-1676044712ca567e36-1",
+        "template--14412154142778__c067a1a2-fbde-4207-b8c6-8047be144e96-1676044712ca567e36-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DIANTHUS_FOURPOSTER_adcaab2f-9935-4e19-a522-382a1d9fa22a.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
     "16624584107026dd5b": {
       "type": "feature-slides",
       "blocks": {
         "166245841038818ab0-0": {
           "type": "text",
           "settings": {
-            "heading": "Pink Hues",
+            "heading": "Dianthus",
             "heading_size": "medium",
-            "text": "<p><\/p>",
-            "button_label": "Shop all pink designer wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
@@ -623,7 +680,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Pink is a naturally friendly colour that lends itself to any room in the house. Our range of rosy pink wallpapers are inspired by Jaipur, affectionately known as the Pink City of India. Made from the Indian madder plant, the paste results in a subtle, dusty tone that can brighten up any wall.<\/p><p>Don’t be afraid to put pink front and centre of your home. This powerful, elegant shade is super cosy for bedrooms, bathrooms and kitchens, no matter your gender. Pair our pretty pink with a classic Hearts print, or couple with blue or green in our Marigold collection.<\/p>",
+            "text": "<p>Dianthus uses rich, earthy tones and a large-scale pattern for a floral design that is refined yet cheerful. It comes in two wonderful varieties, rust & rose and indigo & iron, and features bunches of dianthus with their distinctive frilled petals and simple leaf shape.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -631,76 +688,17 @@
             "desktop_text_box_position": "start",
             "text_align": "left"
           }
-        },
-        "e993385f-b8a8-4787-9326-6f15c826fd82": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_PINK_BATHROOM_1200X900_518cbfea-a7b7-452a-8800-766d08e85c9c.jpg",
-            "title": "Marwari Horse Pink",
-            "link": "shopify:\/\/products\/wallpaper-marwarihorse-pink",
-            "color_scheme": "dark_text"
-          }
-        },
-        "502dd316-ce69-44eb-a5a6-80d9c83a54d2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WLACOLPINK_8fd60aaa-1fa7-4db5-9795-a5a104f5d85d.jpg",
-            "title": "Lani Pnk",
-            "link": "shopify:\/\/products\/wallpaper-lani-pink",
-            "color_scheme": "dark_text"
-          }
-        },
-        "1d102fae-f42f-4d68-8565-3757e0d3daa3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WMGCOLPINGREN_e74f992d-2b50-4aa9-9221-b90776afcfbe.jpg",
-            "title": "Marigold Pink Green",
-            "link": "shopify:\/\/products\/wallpaper-marigold-pinkgreen",
-            "color_scheme": "dark_text"
-          }
-        },
-        "14b20cad-67c6-4e14-876b-f0d527e87dc9": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "title": "Marigold Pink",
-            "link": "",
-            "color_scheme": "dark_text"
-          }
         }
       },
       "block_order": [
         "166245841038818ab0-0",
-        "68a4c837-71fc-4f14-a8d0-2331f53945f8",
-        "e993385f-b8a8-4787-9326-6f15c826fd82",
-        "502dd316-ce69-44eb-a5a6-80d9c83a54d2",
-        "1d102fae-f42f-4d68-8565-3757e0d3daa3",
-        "14b20cad-67c6-4e14-876b-f0d527e87dc9"
+        "68a4c837-71fc-4f14-a8d0-2331f53945f8"
       ],
       "settings": {
         "background": "#ffc7ca",
         "margin_top": "l",
         "margin_bot": "none",
-        "slides_title": "Our favourite pink designer wallpapers"
-      }
-    },
-    "1662458692da6f89ec": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "We have a penchant for vibrant colours here at Molly Mahon. But you’ll also find lighter pastels and a cosy palette of golds and sage to bring personality and passion to your home.",
-        "heading_size": "medium",
-        "text": "<p><\/p>",
-        "vertical_alignment": "start",
-        "alignment": "left",
-        "color_scheme": "dark_text"
-      }
-    },
-    "166384958812b2d580": {
-      "type": "divider",
-      "settings": {
-        "margin_top": "m",
-        "margin_bot": "l",
-        "hr": true
+        "slides_title": "Explore our Dianthus swatches"
       }
     },
     "1662741707adb69b90": {
@@ -730,9 +728,8 @@
     "c320e191-7705-4348-8726-846e423e03c5",
     "16624577622fefe57b",
     "84bf896f-a2f9-4fcf-8367-f747a1521ffe",
+    "c067a1a2-fbde-4207-b8c6-8047be144e96",
     "16624584107026dd5b",
-    "1662458692da6f89ec",
-    "166384958812b2d580",
     "1662741707adb69b90"
   ]
 }
