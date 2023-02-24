@@ -107,6 +107,48 @@
     "163481963822b4d1b3": {
       "type": "multicolumn",
       "blocks": {
+        "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_blockprinting_dahlia_1600x900_ecc3d0aa-46f1-4356-9cc0-e9d2843a7e4e.jpg",
+            "auto_height": "landscape",
+            "cover": false,
+            "title": "Finishing Touches",
+            "subtitle": "making Home",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "end",
+            "text_align": "center",
+            "button_label": "Explore here",
+            "button_link": "shopify:\/\/collections\/soft-furnishing-lighting",
+            "subtext": ""
+          }
+        },
+        "637ecfd1-532c-4aeb-94da-9b272c15f9de": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_blockprinting_dahlia_1000x1500_25a5e78f-45aa-45e1-b814-227b0d3f63ed.jpg",
+            "auto_height": "none",
+            "cover": true,
+            "title": "ONLINE SALE",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "SHOP SALE",
+            "button_link": "shopify:\/\/collections\/sale",
+            "subtext": ""
+          }
+        },
         "163481963822b4d1b3-1": {
           "type": "column",
           "settings": {
@@ -148,55 +190,13 @@
             "button_link": "shopify:\/\/collections\/deerhyrst-collection",
             "subtext": ""
           }
-        },
-        "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd": {
-          "type": "column",
-          "settings": {
-            "width": "two_thirds",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/greencombe_soft_furnishing_studio_1000x1400_0bca7168-ed6b-4a00-b3d3-e84960848702.jpg",
-            "auto_height": "landscape",
-            "cover": false,
-            "title": "Finishing Touches",
-            "subtitle": "making Home",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "end",
-            "text_align": "center",
-            "button_label": "Explore here",
-            "button_link": "shopify:\/\/collections\/soft-furnishing-lighting",
-            "subtext": ""
-          }
-        },
-        "637ecfd1-532c-4aeb-94da-9b272c15f9de": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/fabric_bolts_sale_JAN23_P1000x1500.jpg",
-            "auto_height": "none",
-            "cover": true,
-            "title": "ONLINE SALE",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "SHOP SALE",
-            "button_link": "shopify:\/\/collections\/sale",
-            "subtext": ""
-          }
         }
       },
       "block_order": [
-        "163481963822b4d1b3-1",
-        "163481963822b4d1b3-0",
         "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd",
-        "637ecfd1-532c-4aeb-94da-9b272c15f9de"
+        "637ecfd1-532c-4aeb-94da-9b272c15f9de",
+        "163481963822b4d1b3-1",
+        "163481963822b4d1b3-0"
       ],
       "settings": {
         "mc_title": "",
