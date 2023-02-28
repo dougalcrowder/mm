@@ -11,6 +11,8 @@
         {%- when 'email_form' -%}
           <div {{ block.shopify_attributes }}>
             <div class="mailchimp-newsletter">
+              <div class="klaviyo-form-QRhSfY"></div>
+              {% comment %}
               <form action="https://mollymahon.us10.list-manage.com/subscribe/post?u=97f9cc90b67785f171c4e5e7a&amp;id=03514ce382" method="post" id="mc-embedded-subscribe-form-news" name="mc-embedded-subscribe-form-news" class="validate" target="_blank">
                 <div>
                   <label class="visibility-hidden" for="mce-EMAIL">Email Address</label>
@@ -20,6 +22,7 @@
                   <div class="mc-status"></div>
                   <div><input type="submit" value="Sign me up!" name="subscribe" id="mc-embedded-subscribe-news" class="button small maily red"></div>
               </form>
+              {% endcomment %}
             </div>
           </div>
       {%- endcase -%}
