@@ -400,7 +400,10 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-strawberry-grass"
+          "wallpaper-strawberry-grass",
+          "wallpaper-leaf-grassgreen",
+          "wallpaper-marigold-yellow",
+          "wallpaper-coral-blue"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -509,7 +512,6 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-birdsbees-blue",
           "wallpaper-birdsbees-peagreen"
         ],
         "show_secondary_image": true,
