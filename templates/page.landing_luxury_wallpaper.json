@@ -399,9 +399,12 @@
       "settings": {
         "product_list": [
           "wallpaper-strawberry-grass",
-          "wallpaper-leaf-grassgreen",
           "wallpaper-marigold-yellow",
-          "wallpaper-coral-blue"
+          "wallpaper-leaf-grassgreen",
+          "wallpaper-marigold-pinkgreen",
+          "wallpaper-coral-blue",
+          "wallpaper-marigold-pinkblue",
+          "wallpaper-birdsbees-peagreen"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -489,7 +492,7 @@
         "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_WINDOW_1200X900_5f18bf47-2d02-4c93-a648-aad72cedf751.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_KEANE_BOOTROOM_1800x1000_2561f4a0-b2a1-4f63-9622-8add6d2e723d.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -510,7 +513,10 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-birdsbees-peagreen"
+          "wallpaper-marwarihorse-darkblue",
+          "wallpaper-bindi-blue",
+          "wallpaper-marigold-yellow",
+          "wallpaper-lani-gold"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -620,7 +626,9 @@
       "settings": {
         "product_list": [
           "wallpaper-fern-mustard",
-          "wallpaper-fern-sage"
+          "wallpaper-spotstar-denim",
+          "wallpaper-hearts-pink",
+          "wallpaper-strawberry-grass"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -718,7 +726,7 @@
         "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/wallpaper_marigold_pink_bedroom_deerhyrst_1600x900_5a84aa23-b2cc-445a-9316-f96fa5ca1fb2.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_BINDI_DEERHYRST_1200X900_c8829ece-6f52-4c97-a985-db723541122a.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -739,19 +747,8 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-marigold-pinkblue",
-          "wallpaper-marigold-yellow",
-          "wallpaper-marigold-pinkgreen"
-        ],
-        "show_secondary_image": true,
-        "centred": true
-      }
-    },
-    "54ecf56d-98fa-447d-b168-876d68c4ca2a": {
-      "type": "product-grid",
-      "settings": {
-        "product_list": [
-          "wallpaper-tree-green"
+          "wallpaper-bindi-blue",
+          "wallpaper-strawberry-grass"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -786,7 +783,6 @@
     "16624584107026dd5b",
     "200327e8-1073-4a44-8585-cb6a7c972e66",
     "a6a54246-430f-46e1-af48-3c1c7508fa61",
-    "54ecf56d-98fa-447d-b168-876d68c4ca2a",
     "1662741707adb69b90"
   ]
 }
