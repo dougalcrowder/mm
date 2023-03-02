@@ -245,75 +245,6 @@
         "margin_bot": "m"
       }
     },
-    "79fb8341-c269-4e2b-868d-cc0a0ff3d85a": {
-      "type": "2-column-text",
-      "disabled": true,
-      "blocks": {
-        "template--14443596480570__79fb8341-c269-4e2b-868d-cc0a0ff3d85a-16656636773669f8ba-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Thinking Green",
-            "heading_size": "medium",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "template--14443596480570__79fb8341-c269-4e2b-868d-cc0a0ff3d85a-16656636773669f8ba-0"
-      ],
-      "settings": {
-        "margin_top": "m",
-        "margin_bot": "sm"
-      }
-    },
-    "34f6827f-1203-4a4b-95d4-239efb82aa3a": {
-      "type": "2-column-text",
-      "disabled": true,
-      "blocks": {
-        "template--14443596480570__34f6827f-1203-4a4b-95d4-239efb82aa3a-1665573957a419a813-0": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>Our wallpapers might come in a wonderful array of colours but when it comes to our business choices and the materials we use, we’re all about staying green. Our environmental impact is carefully considered - just like the human aspect of our products is important to us, so is the way in which we treat our planet. Nature is woven into so many of Molly’s designs that it was obvious to us that our processes make sure we look after it.<\/p><p>Each collection is made in small batches. This allows us to focus on the details and create higher quality products, whilst avoiding waste. We use water-based ingredients and natural pigments where possible and only use organic cottons and plant-based fibres. This ensures your wallpaper, fabrics and furniture are long-lasting and can add happiness to your home for years to come. In addition, every leftover scrap of fabric is used somewhere along the journey - we avoid anything going to waste where we can.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "a2257735-a269-40f4-aff9-41c1c3323b46": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>We don’t use plastic to package any of our products. We're also mindful of our air miles and we’ve balanced this aspect of our business by supporting local communities and techniques that are often under threat from mass manufacturing. Unfortunately, block printing is a highly-skilled technique that is in danger of vanishing due to the rise of large-scale, machine-based printing yet this traditional craft provides employment opportunities to so many people across India and is a crucial part of the country’s culture and wellbeing.<\/p><p>Ready to shop? Browse our<a href=\"https:\/\/mollymahon.com\/collections\/wallpaper\"> <span style=\"text-decoration:underline\">collection of floral wallpapers<\/span><\/a> and allow your expressiveness to bloom!<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "template--14443596480570__34f6827f-1203-4a4b-95d4-239efb82aa3a-1665573957a419a813-0",
-        "a2257735-a269-40f4-aff9-41c1c3323b46"
-      ],
-      "settings": {
-        "margin_top": "none",
-        "margin_bot": "l"
-      }
-    },
     "1662741707adb69b90": {
       "type": "code",
       "disabled": true,
@@ -323,7 +254,6 @@
     },
     "7163ab39-5d0b-4df4-909f-2cc90e752cd6": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--14443596480570__7163ab39-5d0b-4df4-909f-2cc90e752cd6-16656603333f1f7737-0": {
           "type": "column",
@@ -356,7 +286,7 @@
             "title": "",
             "subtitle": "Are you a budding designer?",
             "subtitle_size": "small",
-            "text": "<p>If our flower print fabric has got you thinking about other ways you can take inspiration from nature in a creative capacity, why not come along to one of Molly's next workshops or events?<\/p><p>\"<em>We need to make time to be creative. It feeds and nourishes the soul<\/em>.” Molly Mahon<\/p><p>In taking part, you’ll learn all about the ancient art of block printing, including how to make a block carving and application techniques. You can enjoy experimenting with colour, shape, and textures to create something bespoke that is a true reflection of your own personal style.<\/p><p>Each workshop includes all the materials you need as well as refreshments throughout the day.<\/p>",
+            "text": "<p>If our wallpaper designs have got you thinking about other ways you can take inspiration from nature in a creative capacity, why not come along to one of Molly's next workshops or events?<\/p><p>\"<em>We need to make time to be creative. It feeds and nourishes the soul<\/em>.” Molly Mahon<\/p><p>In taking part, you’ll learn all about the ancient art of block printing, including how to make a block carving and application techniques. You can enjoy experimenting with colour, shape, and textures to create something bespoke that is a true reflection of your own personal style.<\/p><p>Each workshop includes all the materials you need as well as refreshments throughout the day.<\/p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
@@ -389,8 +319,6 @@
     "166196159906fadd3f",
     "07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f",
     "d7ffdf86-dd2c-4976-9e1b-38cb7062f4b9",
-    "79fb8341-c269-4e2b-868d-cc0a0ff3d85a",
-    "34f6827f-1203-4a4b-95d4-239efb82aa3a",
     "1662741707adb69b90",
     "7163ab39-5d0b-4df4-909f-2cc90e752cd6"
   ]
