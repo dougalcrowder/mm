@@ -55,18 +55,18 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/WALLPAPER_BINDI_DEERHYRST_1200X900_c8829ece-6f52-4c97-a985-db723541122a.jpg",
+            "image": "shopify:\/\/shop_images\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94.jpg",
             "auto_height": "none",
             "cover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
+            "title": "",
+            "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "subtext": ""
           }
@@ -76,18 +76,18 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_KEANE_BOOTROOM_1800x1000_2561f4a0-b2a1-4f63-9622-8add6d2e723d.jpg",
+            "image": "shopify:\/\/shop_images\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2.jpg",
             "auto_height": "none",
             "cover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
+            "title": "",
+            "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "subtext": ""
           }
@@ -208,7 +208,7 @@
             "desktop_text_box_position": "center",
             "text_align": "left",
             "button_label": "Learn more about block printing",
-            "button_link": "shopify:\/\/pages\/block-printing",
+            "button_link": "shopify:\/\/blogs\/craftsmanship\/hand-block-printing",
             "subtext": ""
           }
         },
