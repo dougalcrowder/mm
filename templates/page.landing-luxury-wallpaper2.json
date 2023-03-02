@@ -128,7 +128,7 @@
         "template--14443596480570__9e8bffb4-d8b2-4736-9b0c-d895f5ca6e5e-1665663748a9ffd2e5-0"
       ],
       "settings": {
-        "margin_top": "l",
+        "margin_top": "m",
         "margin_bot": "sm"
       }
     },
@@ -170,22 +170,6 @@
       ],
       "settings": {
         "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "166196159906fadd3f": {
-      "type": "simple_quote",
-      "disabled": true,
-      "settings": {
-        "quote": "<p>\"Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work\"<\/p>",
-        "cite": "- Cath Kidston MBE",
-        "bg": "green",
-        "heading_size": "medium",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "white_text",
-        "bg_color_scheme": "none",
-        "margin_top": "m",
         "margin_bot": "m"
       }
     },
@@ -377,7 +361,6 @@
     "36c0b62b-8931-4bb3-ab6f-6f787c6a3a3e",
     "9e8bffb4-d8b2-4736-9b0c-d895f5ca6e5e",
     "166195210128b91b49",
-    "166196159906fadd3f",
     "07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f",
     "d7ffdf86-dd2c-4976-9e1b-38cb7062f4b9",
     "1662741707adb69b90",
