@@ -175,19 +175,19 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/fabric_bolts_sale_JAN23_P1000x1500.jpg",
+            "image": "shopify:\/\/shop_images\/mothersday_hompage_washbag-soap_1000x1500_f2a037dc-d20a-4d6a-b296-0823f0c570c6.jpg",
             "auto_height": "none",
             "cover": true,
-            "title": "ONLINE SALE",
-            "subtitle": "",
+            "title": "Mothers Day",
+            "subtitle": "Gift ideas",
             "subtitle_size": "small",
             "text": "",
-            "button_color": "white",
-            "color_scheme": "dark_text",
+            "button_color": "red",
+            "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "SHOP SALE",
-            "button_link": "shopify:\/\/collections\/sale",
+            "button_label": "SHOP",
+            "button_link": "shopify:\/\/collections\/mothers-day-gifts",
             "subtext": ""
           }
         }
