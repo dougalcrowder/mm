@@ -67,7 +67,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/DIANTHUS_GARDENPATH_1600x_d4849115-0857-4911-b35e-1f54e1b8943c.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_chequer_blues_1000x1500_b6a06b42-d9ca-4c7e-99a1-ae0aa85bd21d.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -88,7 +88,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/HORSE_DIANTHUS_1600x_11d87c30-ab29-4ec7-87d3-51d0f7bcd3c6.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -114,8 +114,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
+        "margin_top": "s",
+        "margin_bot": "none"
       }
     },
     "164219987138634dcd": {
@@ -157,7 +157,7 @@
         "1642199871158d624e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DIANTHUSFOURPOSTER_3500x_f5491aa4-9a90-4f21-8f81-df98aad59971.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_barn_firepalce_curtains_chairs_1800x1000_212bdd4c-44d8-41a3-9148-9df40184b7e9.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -206,7 +206,7 @@
         "16421999526980f810-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
+        "image": "shopify:\/\/shop_images\/MM_Molesworth-55.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -253,7 +253,7 @@
         "1642200048d4224249-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PRIMROSE_DOUBLE_BEDROOM-1_3500x_133c37d9-81b8-4bf5-ad21-b4d5b7a2ee3e.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_curtain_cushion_dahlia_hotpink_1800x1000_77bda3d1-fa3c-4252-bd7b-8ece2f57cc8a.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -278,7 +278,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/STRAWBERRY_KITCHEN_CURTAINS_1600x_ef0466b7-bf6e-4ecb-a9aa-49300215800d.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_chequer_pinks_1000x1500_cac2ea56-e021-4215-8a0a-bb76a1193f15.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -299,7 +299,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GARDEN_PATH_ARMCHAIR_1600x_9ae8f5a2-4ece-416d-9334-b3b84c8c5b14.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_vase_blues_chair_1000x1500_8fe34fa0-09f6-49b4-959e-fe0e8819a33d.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -325,8 +325,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
+        "margin_top": "s",
+        "margin_bot": "none"
       }
     },
     "16422002304018d9ba": {
@@ -361,12 +361,12 @@
         "164220023081d30d46-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GARDEN_PATH_BLUE_CUSHION_WINDOWSEAT_1600x_fdbfe941-3b91-4e08-8059-834dc7f97269.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_block_printing_mughal_peach_sapgreen_1200x1500_10cc2741-6dc2-4475-bf29-891067929079.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     },
     "1642200330e9fc6655": {
@@ -377,7 +377,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GCTULII-2_1600x_c41fbb0d-9e43-4b72-aeba-e6bf45a8cce7.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_molesworthy_napkin_dahlia_crimson_indigo_1300x1300_ed9f4036-aff0-4196-9d4e-f0d7d96b329b.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -424,7 +424,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
+        "margin_top": "s",
         "margin_bot": "none"
       }
     },
