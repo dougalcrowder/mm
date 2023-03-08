@@ -261,11 +261,11 @@
             "type": "four_menus",
             "settings": {
               "fl_title": "New in",
-              "label1": "Life in Colour",
-              "link1": "shopify:\/\/collections\/life-in-colour",
-              "label2": "Light up your Home",
-              "link2": "shopify:\/\/collections\/lighting",
-              "label3": "Online Sale",
+              "label1": "New Bloom Fabric Collection",
+              "link1": "shopify:\/\/collections\/bloom",
+              "label2": "Mothering Sunday Gifts",
+              "link2": "shopify:\/\/collections\/mothers-day-gifts",
+              "label3": "Sale",
               "link3": "shopify:\/\/collections\/sale",
               "label4": "",
               "link4": ""
