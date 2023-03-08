@@ -1006,12 +1006,65 @@
         "16422008727ca7d834-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_blockprinting_widestripe_1200x1500_ad6eb0ac-b3fd-4fd8-b1a5-5b5f2e05e0e2.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
+      }
+    },
+    "91c3350c-fe1a-4a64-8da9-e3ce78120d48": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-1": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-0",
+        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-1",
+        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bloom_blockprinting_theprinters_1800x1000_1486cf5d-f1b6-4804-b614-42eaf7a41e93.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "s",
+        "margin_bot": "m",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     }
   },
@@ -1039,6 +1092,7 @@
     "164220072331e62d9d",
     "9508f3c4-fefd-409f-8e7e-0a27a0a7f08e",
     "925b8189-f52e-4ae2-b828-8bee79e1c604",
-    "16422008725e9ed78b"
+    "16422008725e9ed78b",
+    "91c3350c-fe1a-4a64-8da9-e3ce78120d48"
   ]
 }
