@@ -118,10 +118,10 @@
         "margin_bot": "none"
       }
     },
-    "164219987138634dcd": {
+    "1642200518a7fda8c2": {
       "type": "image-banner",
       "blocks": {
-        "1642199871158d624e-0": {
+        "1642200518d925fc5a-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
@@ -129,7 +129,7 @@
             "heading_type": "header1"
           }
         },
-        "1642199871158d624e-1": {
+        "1642200518d925fc5a-1": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -138,7 +138,7 @@
             "constrain_text": false
           }
         },
-        "1642199871158d624e-2": {
+        "1642200518d925fc5a-2": {
           "type": "buttons",
           "disabled": true,
           "settings": {
@@ -152,12 +152,12 @@
         }
       },
       "block_order": [
-        "1642199871158d624e-0",
-        "1642199871158d624e-1",
-        "1642199871158d624e-2"
+        "1642200518d925fc5a-0",
+        "1642200518d925fc5a-1",
+        "1642200518d925fc5a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_barn_firepalce_curtains_chairs_1800x1000_212bdd4c-44d8-41a3-9148-9df40184b7e9.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_fireplace_vase_stripe_chequers_mughal_1800x1000_88b23029-d46f-4c8f-a867-e20f80ff119d.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -314,11 +314,55 @@
             "button_link": "",
             "subtext": ""
           }
+        },
+        "401b5383-807d-44eb-b7d4-e48c4d8edb72": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_barn_fabric_collection_folded_chair_1300x1300_2a296c6f-5293-4b0d-a57b-648883f140d8.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "8980039a-0e1d-4c80-b3c5-97cb8d4d559a": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_molesworth_table_bread_dahlia_indigo_peach_1300x1300_b14fdd37-ceaa-4528-bb92-80464fabafe3.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
         }
       },
       "block_order": [
         "16422001204a1c609c-0",
-        "16422001204a1c609c-1"
+        "16422001204a1c609c-1",
+        "401b5383-807d-44eb-b7d4-e48c4d8edb72",
+        "8980039a-0e1d-4c80-b3c5-97cb8d4d559a"
       ],
       "settings": {
         "mc_title": "",
@@ -377,7 +421,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_molesworthy_napkin_dahlia_crimson_indigo_1300x1300_ed9f4036-aff0-4196-9d4e-f0d7d96b329b.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_mughal_peachsabgreen_1000x1500_d71c81e4-0657-4566-8efb-00b35880052b.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -398,7 +442,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GCBERGS-2_1600x_3cfb1186-a379-4049-9033-d26cbf8c6c21.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_mughal_sky_pistachio_1000x1500_9ec10d54-a8d0-4953-99ba-b3698db2a3df.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -428,119 +472,17 @@
         "margin_bot": "none"
       }
     },
-    "1642200428ac6075d8": {
-      "type": "multicolumn",
-      "blocks": {
-        "16422004280af4e324-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/BAGSTANDS_ARMCHAIR_1600x_019c2412-72c5-4510-b5f3-fcab40659e43.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "16422004280af4e324-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/STRAWBERRY_CURTAIN_1600x_a144b500-79c3-4668-b192-c2128c4a83b0.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "16422004280af4e324-0",
-        "16422004280af4e324-1"
-      ],
+    "ee10e473-5307-4bb9-acef-8b555c6131f3": {
+      "type": "product-grid",
       "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "1642200518a7fda8c2": {
-      "type": "image-banner",
-      "blocks": {
-        "1642200518d925fc5a-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "1642200518d925fc5a-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "1642200518d925fc5a-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1642200518d925fc5a-0",
-        "1642200518d925fc5a-1",
-        "1642200518d925fc5a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/STRAWBERRY_MAINCURTAIN_3500x_2ed47fdc-376f-4325-a358-ea150b0c31a4.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": true,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
+        "product_list": [
+          "fabric-berry-oyster-grasssky",
+          "fabric-berry-oyster-indigosky",
+          "fabric-berry-oyster-ironrose",
+          "wallpaper-bindi-blue"
+        ],
+        "show_secondary_image": true,
+        "centred": false
       }
     },
     "1642200577873a02a6": {
@@ -575,12 +517,212 @@
         "1642200577a5e23011-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PRIMROSE_COLLECTION_SHOT_1600x_d4fd4df4-0419-4163-8de1-a0417d567a74.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_flower_dahlia_indigo_peach_1300x1500_614d0bde-689a-4c76-831f-a871b32af081.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
+      }
+    },
+    "8488dff7-b45a-4717-8fb2-f701dbd6416a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14530599157818__8488dff7-b45a-4717-8fb2-f701dbd6416a-167827864047f1538e-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_dahlia_crimson_indigo_1000x1500_16f95043-0e49-47d3-aca6-698ff7ac182b.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14530599157818__8488dff7-b45a-4717-8fb2-f701dbd6416a-167827864047f1538e-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_molesworth_hat_hedge_dahlia_1000x1500_9677a270-c587-4e9d-971f-1f593b007bbc.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14530599157818__8488dff7-b45a-4717-8fb2-f701dbd6416a-167827864047f1538e-0",
+        "template--14530599157818__8488dff7-b45a-4717-8fb2-f701dbd6416a-167827864047f1538e-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "s"
+      }
+    },
+    "10162924-d581-4999-9f61-b3919d26d987": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "fabric-bagru-cotton-pink",
+          "fabric-berry-oyster-grasssky",
+          "fabric-berry-oyster-indigosky",
+          "fabric-berry-oyster-ironrose"
+        ],
+        "show_secondary_image": true,
+        "centred": false
+      }
+    },
+    "164219987138634dcd": {
+      "type": "image-banner",
+      "blocks": {
+        "1642199871158d624e-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1642199871158d624e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "1642199871158d624e-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1642199871158d624e-0",
+        "1642199871158d624e-1",
+        "1642199871158d624e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bloom_barn_firepalce_curtains_chairs_1800x1000_212bdd4c-44d8-41a3-9148-9df40184b7e9.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": true,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "1642200428ac6075d8": {
+      "type": "multicolumn",
+      "blocks": {
+        "16422004280af4e324-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_vase_blues_1000x1500_2f08c37b-0ace-4cd2-b0c1-6eb1fe7d36cc.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "16422004280af4e324-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_barn_chequers_1000x1500_e5bb20bf-4aa5-40fd-b2e4-bf2e48aa91db.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "16422004280af4e324-0",
+        "16422004280af4e324-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "m"
+      }
+    },
+    "e19bcade-d84a-469a-a77b-a6c4e0eacd88": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "fabric-berry-oyster-grasssky",
+          "fabric-berry-oyster-indigosky",
+          "fabric-berry-oyster-ironrose",
+          "wallpaper-bindi-blue"
+        ],
+        "show_secondary_image": true,
+        "centred": false
       }
     },
     "1642200654ed358408": {
@@ -591,7 +733,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/ATTICROOM_TULIP_1600x_bcf78a35-8c88-44fa-a340-5fbcba1fb28c.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_barn_armchair_widestripe_yellow_1000x1500_48714db0-d714-4de7-9c08-8a8ef8e523a1.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -612,7 +754,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GREENCOMBE_CUSHIONS_1600x_426adbda-c41e-4d1a-a5a4-a7844c49fd78.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_molesworth_gardenshed_apron_1000x1500_3bbf9cae-3f71-455e-b0de-97234f8efabf.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -638,8 +780,72 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
+        "margin_top": "s",
         "margin_bot": "m"
+      }
+    },
+    "4c147c01-d560-46ef-897e-86f30ce18731": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "fabric-bagru-cotton-darkblue",
+          "fabric-bagru-cotton-pink"
+        ],
+        "show_secondary_image": true,
+        "centred": false
+      }
+    },
+    "cfbc123e-42db-44df-9bd7-a4a15a12bfcd": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14530599157818__cfbc123e-42db-44df-9bd7-a4a15a12bfcd-16782844758a7f45eb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14530599157818__cfbc123e-42db-44df-9bd7-a4a15a12bfcd-16782844758a7f45eb-1": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14530599157818__cfbc123e-42db-44df-9bd7-a4a15a12bfcd-16782844758a7f45eb-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14530599157818__cfbc123e-42db-44df-9bd7-a4a15a12bfcd-16782844758a7f45eb-0",
+        "template--14530599157818__cfbc123e-42db-44df-9bd7-a4a15a12bfcd-16782844758a7f45eb-1",
+        "template--14530599157818__cfbc123e-42db-44df-9bd7-a4a15a12bfcd-16782844758a7f45eb-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bloom_barn_widestripe_mughal_flowers_1800x1000_22d83d16-9e4e-4027-bb97-26f67c4bb5bb.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "164220072331e62d9d": {
@@ -674,12 +880,111 @@
         "16422007231297c1ec-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ELLIES_BEDSKIRT_1600x_2df4e026-2388-46f7-80b0-4e5158f44580.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_cushion_collection_garden_1300x1300_54bb87cc-684b-45fe-8aa6-1d7b100e856c.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
+      }
+    },
+    "f996b954-9ccc-41a2-b3c8-ed6944f25f2e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_molesworth_table_dahlia_indigo_peach_1300x1300_c0b59f91-bb49-47e1-a73b-c4d9af4d7f9e.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_molesworth_portrait_wheelbarrow_1300x1300_cf3aad3b-a6ab-4a31-8b9b-dfb87b42ae00.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-0",
+        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "none"
+      }
+    },
+    "16422008725e9ed78b": {
+      "type": "image-with-text",
+      "blocks": {
+        "16422008727ca7d834-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16422008727ca7d834-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>",
+            "code": ""
+          }
+        },
+        "16422008727ca7d834-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16422008727ca7d834-0",
+        "16422008727ca7d834-1",
+        "16422008727ca7d834-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bloom_blockprinting_widestripe_1200x1500_ad6eb0ac-b3fd-4fd8-b1a5-5b5f2e05e0e2.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
       }
     },
     "164220080956567f6c": {
@@ -721,7 +1026,7 @@
         "1642200809c9ba0448-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/POPPY_CURTAIN_SITTINGROOM_3500x_81426930-76e0-499b-96be-3c7785969692.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_blockprinting_theprinters_1800x1000_1486cf5d-f1b6-4804-b614-42eaf7a41e93.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -733,49 +1038,9 @@
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "none",
-        "margin_bot": "none",
+        "margin_bot": "m",
         "bg_color_scheme": "none",
         "hover_text": false
-      }
-    },
-    "16422008725e9ed78b": {
-      "type": "image-with-text",
-      "blocks": {
-        "16422008727ca7d834-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "16422008727ca7d834-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>",
-            "code": ""
-          }
-        },
-        "16422008727ca7d834-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16422008727ca7d834-0",
-        "16422008727ca7d834-1",
-        "16422008727ca7d834-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
-        "title": "",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first"
       }
     }
   },
@@ -783,18 +1048,25 @@
     "main",
     "16421993483b631460",
     "1642199705a651e06d",
-    "164219987138634dcd",
+    "1642200518a7fda8c2",
     "1642199952e1e0a22d",
     "1642200048cc9bdbd0",
     "16422001205209dc50",
     "16422002304018d9ba",
     "1642200330e9fc6655",
-    "1642200428ac6075d8",
-    "1642200518a7fda8c2",
+    "ee10e473-5307-4bb9-acef-8b555c6131f3",
     "1642200577873a02a6",
+    "8488dff7-b45a-4717-8fb2-f701dbd6416a",
+    "10162924-d581-4999-9f61-b3919d26d987",
+    "164219987138634dcd",
+    "1642200428ac6075d8",
+    "e19bcade-d84a-469a-a77b-a6c4e0eacd88",
     "1642200654ed358408",
+    "4c147c01-d560-46ef-897e-86f30ce18731",
+    "cfbc123e-42db-44df-9bd7-a4a15a12bfcd",
     "164220072331e62d9d",
-    "164220080956567f6c",
-    "16422008725e9ed78b"
+    "f996b954-9ccc-41a2-b3c8-ed6944f25f2e",
+    "16422008725e9ed78b",
+    "164220080956567f6c"
   ]
 }
