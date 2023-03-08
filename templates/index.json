@@ -211,7 +211,7 @@
             "image": "shopify:\/\/shop_images\/bloom_barn_curtain_dahlia_hot_pink_1000x1500_c159b2bc-75ce-4bcf-a0e2-2cd908d87adb.jpg",
             "auto_height": "portrait",
             "cover": false,
-            "title": "Greencombe Home",
+            "title": "Bloom Collection",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -220,7 +220,7 @@
             "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "View all",
-            "button_link": "shopify:\/\/collections\/greencombe-home",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         },
@@ -232,7 +232,7 @@
             "image": "shopify:\/\/shop_images\/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
             "auto_height": "portrait",
             "cover": true,
-            "title": "Deerhyrst Collection",
+            "title": "Bloom Lookbook",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -241,7 +241,7 @@
             "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "Explore more",
-            "button_link": "shopify:\/\/collections\/deerhyrst-collection",
+            "button_link": "",
             "subtext": ""
           }
         }
@@ -325,7 +325,7 @@
             "image": "shopify:\/\/shop_images\/bloom_chair_chequer_pink_warehouse_1300x1300_03b825d6-4ab3-44cb-aac5-232fc68f9e99.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "Kitchen & Dining",
+            "title": "",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -333,8 +333,8 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Explore more",
-            "button_link": "shopify:\/\/collections\/kitchen",
+            "button_label": "",
+            "button_link": "",
             "subtext": ""
           }
         },
@@ -381,7 +381,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BUNKITTUKPIN.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_washbag_dahlia_hotpink_1300x1300_64dfff52-d5f3-4e95-b12e-e076a163b6a9.jpg",
             "auto_height": "square",
             "cover": false,
             "title": "",

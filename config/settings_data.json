@@ -260,9 +260,9 @@
           "f32f2494-2ae3-4e2a-ab4f-692b5ddbe758": {
             "type": "four_menus",
             "settings": {
-              "fl_title": "New in",
+              "fl_title": "New Bloom Fabric Collection",
               "label1": "Life in Colour",
-              "link1": "shopify:\/\/collections\/life-in-colour",
+              "link1": "shopify:\/\/collections\/bloom",
               "label2": "Light up your Home",
               "link2": "shopify:\/\/collections\/lighting",
               "label3": "Online Sale",
@@ -433,6 +433,7 @@
         "blocks": {
           "6b210781-0668-445a-9d11-2b909bb26598": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
               "narrow": false,
@@ -454,6 +455,7 @@
           },
           "d71a2ae9-06f5-427a-b953-9691a3affb80": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
               "narrow": false,
@@ -475,6 +477,7 @@
           },
           "c03841f0-f2e7-4fc2-95da-4a898113305e": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
               "narrow": false,
