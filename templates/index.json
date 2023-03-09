@@ -178,16 +178,16 @@
             "image": "shopify:\/\/shop_images\/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
             "auto_height": "portrait",
             "cover": true,
-            "title": "Bloom Lookbook",
-            "subtitle": "Order your new brochure",
+            "title": "",
+            "subtitle": "",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Explore more",
-            "button_link": "shopify:\/\/blogs\/look-books",
+            "button_label": "",
+            "button_link": "",
             "subtext": ""
           }
         }
