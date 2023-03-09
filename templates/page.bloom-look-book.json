@@ -969,7 +969,7 @@
       "type": "simple-button",
       "settings": {
         "label": "ORDER YOUR BROCHURE HERE",
-        "link": "",
+        "link": "shopify:\/\/products\/bloom-brochure",
         "color_scheme": "red"
       }
     },
