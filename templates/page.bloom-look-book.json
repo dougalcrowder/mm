@@ -879,7 +879,7 @@
         "16422007231297c1ec-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I have chosen a palette to incorporate some of the joyful colours that I so adore to work with along with some of the more earthy tones found in the India desert and English countryside. I believe this allows a range of options for those looking for something sophisticated with a touch of joyful charm.<\/p>",
+            "text": "<p>\"Everthing we make is done in small batches allowing us to focus on the details and creating higher quality products with no waste.  Where possible we use the cleanest water based paints and organic or plant based cloth.  We never throw away even a snippet of cloth: always finding a way to use it up.\"<\/p>",
             "code": ""
           }
         },
@@ -994,7 +994,7 @@
           "type": "button",
           "disabled": true,
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Explore more about block printing",
             "button_link": ""
           }
         }
