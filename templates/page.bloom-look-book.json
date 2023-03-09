@@ -400,7 +400,7 @@
         "164220023081d30d46-1": {
           "type": "text",
           "settings": {
-            "text": "<p>In this new collection Molly continues to celebrate the dynamic colour range that surrounds her life, pink saried ladies in India, sap greens in the forest, blue skies and of course, all the wonderful colour palette of a bed of Dahlias.<\/p>",
+            "text": "<p>Bright, bold and beautiful, Bloom is a collection both classic and playful in equal measure.<\/p>",
             "code": ""
           }
         },
@@ -512,7 +512,7 @@
         "1642200577a5e23011-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bringing to life the wonder of Primrose, Wild Carrot and Dianthus flowers and importantly highlighting the beauty of nature and the mighty great outdoors and recognising that it is a wonder to behold and to protect.<\/p><p><\/p><p>I have so much reverence for the power and beauty of nature and am thrilled to celebrate it in this new collection.<\/p>",
+            "text": "<p>In this new collection Molly continues to celebrate the dynamic colour range that surrounds her life, pink saried ladies in India, sap greens in the forest, blue skies and of course, all the wonderful colour palette of a bed of Dahlias.<\/p>",
             "code": ""
           }
         },
@@ -986,7 +986,7 @@
         "16422008727ca7d834-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>",
+            "text": "<p>Individual and intricately carved blocks are used to print each colour within a design.  The pattern comes to life as the printr works his way along the table, block by block.<\/p>",
             "code": ""
           }
         },
@@ -1018,6 +1018,7 @@
       "blocks": {
         "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_type": "header1"
@@ -1025,6 +1026,7 @@
         },
         "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Make yourself a home.",
             "go_serif": false,
@@ -1033,6 +1035,7 @@
         },
         "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Button label",
             "button_link_1": "",
