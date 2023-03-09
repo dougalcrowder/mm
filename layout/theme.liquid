@@ -82,7 +82,8 @@
 <script type="text/javascript"> gsProductByVariant = {}; {% if product.id > 1 %}{% for variant in product.variants %} gsProductByVariant[{{variant.id}}] = {% if variant.available %} 1 {% else %} 0 {% endif %}; {% endfor %}{% endif %}  gsProductCSID = "{{ product.id }}"; gsDefaultV = "{{ product.selected_or_first_available_variant.id }}"; </script><script  type="text/javascript" src="https://gravity-software.com/js/shopify/pac_shop21723.js?v=1852a6d9b38e226dceb7a79c54eb9a4f"></script>
 <!-- Coming Soon code end. Do not change GSEND -->
 <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.5.3/dist/js/swiffy-slider.min.js" defer>
-</head>
+{% include 'bucks-cc' %}
+            </head>
 <body class="template-{{ request.page_type | handle }} template-{{ template | handleize }} gradient paid">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFT5HLQ"
