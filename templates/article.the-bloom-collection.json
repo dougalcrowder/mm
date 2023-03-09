@@ -66,7 +66,8 @@
           "type": "text",
           "settings": {
             "text": "Designed in Sussex, hand blocked in Rajasthan",
-            "go_serif": true
+            "go_serif": true,
+            "constrain_text": false
           }
         },
         "1657730007a25f7230-2": {
@@ -87,15 +88,21 @@
         "1657730007a25f7230-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GCSEEI-2_a4244011-1a17-475b-ae48-d1dd016ce087.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_molesworth_gardentable_dahlia_tablecloth_1800x1000_68e6065b-47ac-4913-89c9-202078e1482f.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "1657730156eeff869f": {
@@ -107,6 +114,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/DIANTHUS_GARDENPATH_1600x_d4849115-0857-4911-b35e-1f54e1b8943c.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -126,6 +135,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/HORSE_DIANTHUS_1600x_11d87c30-ab29-4ec7-87d3-51d0f7bcd3c6.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -145,6 +156,12 @@
         "1657730156412eb3fd-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1657730380748266d7": {
@@ -163,7 +180,8 @@
           "disabled": true,
           "settings": {
             "text": "Make yourself a home.",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "1657730379dcd0a206-2": {
@@ -186,14 +204,20 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DIANTHUSFOURPOSTER_3500x_f5491aa4-9a90-4f21-8f81-df98aad59971.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "16577858874502d623": {
@@ -208,7 +232,8 @@
         "1657785887e07c69d0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Being outside has always been a place of great happiness to me. It is where I feel most inspired. Whether this is in my own garden, the hills of Scotland, the incredible flower fields of India or the wild hedgerows of the British countryside it's the joy of the colours and the beauty of nature's offerings that most inspire me. I am delighted to celebrate this in my collection Greencombe.<\/p>"
+            "text": "<p>Being outside has always been a place of great happiness to me. It is where I feel most inspired. Whether this is in my own garden, the hills of Scotland, the incredible flower fields of India or the wild hedgerows of the British countryside it's the joy of the colours and the beauty of nature's offerings that most inspire me. I am delighted to celebrate this in my collection Greencombe.<\/p>",
+            "code": ""
           }
         },
         "1657785887e07c69d0-2": {
@@ -249,7 +274,8 @@
           "disabled": true,
           "settings": {
             "text": "Make yourself a home.",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "1657786090a56f700f-2": {
@@ -272,14 +298,20 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PRIMROSE_DOUBLE_BEDROOM-1_f29ddd3a-acc5-4002-aa01-98df37d4cacf.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "165778620611418523": {
@@ -291,6 +323,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/STRAWBERRY_KITCHEN_CURTAINS_1600x_8ab5abb2-4a1e-43e5-9caa-0b6f96a651b1.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -310,6 +344,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/GARDEN_PATH_ARMCHAIR_1600x_9ae8f5a2-4ece-416d-9334-b3b84c8c5b14.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -329,6 +365,12 @@
         "1657786206ef221d2d-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1657786524439edeb4": {
@@ -343,7 +385,8 @@
         "1657786524a4b5ca65-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Culminating nostalgic depicitions of Strawberries and Tulips, reworkings of the majestic Mughal flower design, playing with visions of stripes left behind a plough, and a little seeds denoting hope and new beginnings.<\/p>"
+            "text": "<p>Culminating nostalgic depicitions of Strawberries and Tulips, reworkings of the majestic Mughal flower design, playing with visions of stripes left behind a plough, and a little seeds denoting hope and new beginnings.<\/p>",
+            "code": ""
           }
         }
       },
@@ -369,6 +412,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/GCTULII-2_1600x_c41fbb0d-9e43-4b72-aeba-e6bf45a8cce7.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -388,6 +433,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/GCBERGS-2_1600x_3cfb1186-a379-4049-9033-d26cbf8c6c21.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -407,6 +454,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/BAGSTANDS_ARMCHAIR_1600x_019c2412-72c5-4510-b5f3-fcab40659e43.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -426,6 +475,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/STRAWBERRY_CURTAIN_1600x_a144b500-79c3-4668-b192-c2128c4a83b0.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -447,6 +498,12 @@
         "165afc99-a4c5-4a63-9cbe-df911ba644e8"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "16577876993a1651a0": {
@@ -465,7 +522,8 @@
           "disabled": true,
           "settings": {
             "text": "Make yourself a home.",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "165778769900e92238-2": {
@@ -488,14 +546,20 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/STRAWBERRY_MAINCURTAIN_3500x_2ed47fdc-376f-4325-a358-ea150b0c31a4.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "165778780802bdc2a5": {
@@ -511,7 +575,8 @@
         "16577878084a1c05f7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bringing to life the wonder of Primrose, Wild Carrot and Dianthus flowers and importantly highlighting the beauty of nature and the mighty great outdoors and recognising that it is a wonder to behold and to protect.<\/p><p><\/p><p>I have so much reverence for the power and beauty of nature and am thrilled to celebrate it in this new collection.<\/p>"
+            "text": "<p>Bringing to life the wonder of Primrose, Wild Carrot and Dianthus flowers and importantly highlighting the beauty of nature and the mighty great outdoors and recognising that it is a wonder to behold and to protect.<\/p><p><\/p><p>I have so much reverence for the power and beauty of nature and am thrilled to celebrate it in this new collection.<\/p>",
+            "code": ""
           }
         },
         "16577878084a1c05f7-2": {
@@ -546,6 +611,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/ATTICROOM_TULIP_1600x_bcf78a35-8c88-44fa-a340-5fbcba1fb28c.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -565,6 +632,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/GREENCOMBE_CUSHIONS_1600x_426adbda-c41e-4d1a-a5a4-a7844c49fd78.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -584,6 +653,12 @@
         "16577879919d9ec7d4-1"
       ],
       "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1657788189ba81a92f": {
@@ -599,7 +674,8 @@
         "1657788189928b3f62-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I have chosen a palette to incorporate some of the joyful colours that I so adore to work with along with some of the more earthy tones found in the India desert and English countryside. I believe this allows a range of options for those looking for something sophisticated with a touch of joyful charm.<\/p>"
+            "text": "<p>I have chosen a palette to incorporate some of the joyful colours that I so adore to work with along with some of the more earthy tones found in the India desert and English countryside. I believe this allows a range of options for those looking for something sophisticated with a touch of joyful charm.<\/p>",
+            "code": ""
           }
         },
         "1657788189928b3f62-2": {
@@ -641,7 +717,8 @@
           "disabled": true,
           "settings": {
             "text": "Make yourself a home.",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "16577883634e8747c8-2": {
@@ -664,14 +741,20 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/POPPY_CURTAIN_SITTINGROOM_3500x_81426930-76e0-499b-96be-3c7785969692.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "1657788484c1ce8251": {
@@ -687,7 +770,8 @@
         "16577884832ae4f504-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>"
+            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>",
+            "code": ""
           }
         },
         "16577884832ae4f504-2": {
