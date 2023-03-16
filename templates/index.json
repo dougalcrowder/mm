@@ -10,8 +10,63 @@
         "color_scheme": "blue_text"
       }
     },
+    "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "BLOOM",
+            "heading_type": "header1"
+          }
+        },
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-1": {
+          "type": "text",
+          "settings": {
+            "text": "A celebration of Nature & Hand Block Printing",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-0",
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-1",
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1800x1000_d7cfe96d-0aa0-4aaa-b468-995de4b5f06c.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1300x1300_43a81568-9eb3-449f-8bc4-f16847edb451.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
     "16352843092374a33e": {
       "type": "hotspots",
+      "disabled": true,
       "blocks": {
         "16352843092374a33e-0": {
           "type": "Tooltip",
@@ -87,10 +142,10 @@
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
-        "square_image": "shopify:\/\/shop_images\/GREENCOMBE_ATTIC_BEDROOM_MOBILE_d21373c7-eed6-448b-91fa-b65238eb118b.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1800x1000_d7cfe96d-0aa0-4aaa-b468-995de4b5f06c.jpg",
+        "square_image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1300x1300_43a81568-9eb3-449f-8bc4-f16847edb451.jpg",
         "make_logo_white": false,
-        "title": "MAKE YOURSELF AT HOME",
+        "title": "New Bloom Fabric Collection",
         "header_tag": "h2"
       }
     },
@@ -107,66 +162,24 @@
     "163481963822b4d1b3": {
       "type": "multicolumn",
       "blocks": {
-        "163481963822b4d1b3-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/deerhyrst_isabella_pink_marwari_cushion_sittingroom_1100x1500_6d83449a-c276-4285-b5e7-48d4eb2c43b2.jpg",
-            "auto_height": "portrait",
-            "cover": false,
-            "title": "Greencombe Home",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "end",
-            "text_align": "center",
-            "button_label": "View all",
-            "button_link": "shopify:\/\/collections\/greencombe-home",
-            "subtext": ""
-          }
-        },
-        "163481963822b4d1b3-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/FLANTURLIFECURTAIN_7f1c74a2-ed55-4c55-a580-7b0569424fba.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "title": "Deerhyrst Collection",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "end",
-            "text_align": "center",
-            "button_label": "Explore more",
-            "button_link": "shopify:\/\/collections\/deerhyrst-collection",
-            "subtext": ""
-          }
-        },
         "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd": {
           "type": "column",
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/greencombe_soft_furnishing_studio_1000x1400_0bca7168-ed6b-4a00-b3d3-e84960848702.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_blockprinting_dahlia_1800x1500_eddb13bb-5395-4bc2-ab3b-42e51f89d77e.jpg",
             "auto_height": "landscape",
             "cover": false,
-            "title": "Finishing Touches",
-            "subtitle": "making Home",
+            "title": "Master Craftsmen",
+            "subtitle": "Celebrating the new Bloom Collection",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "end",
             "text_align": "center",
-            "button_label": "Explore here",
-            "button_link": "shopify:\/\/collections\/soft-furnishing-lighting",
+            "button_label": "",
+            "button_link": "",
             "subtext": ""
           }
         },
@@ -175,28 +188,88 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_block_printing_mughal_peach_sapgreen_1200x1500_10cc2741-6dc2-4475-bf29-891067929079.jpg",
+            "auto_height": "none",
+            "cover": true,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "desktop_text_box_position": "center",
+            "button_color": "red",
+            "color_scheme": "white_text",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd": {
+        "163481963822b4d1b3-1": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/greencombe_soft_furnishing_studio_1000x1400_0bca7168-ed6b-4a00-b3d3-e84960848702.jpg",
+            "auto_height": "landscape",
+            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_dahlia_hot_pink_1000x1500_c159b2bc-75ce-4bcf-a0e2-2cd908d87adb.jpg",
+            "auto_height": "portrait",
+            "cover": false,
+            "title": "Finishing Touches",
+            "subtitle": "making Home",
+            "title": "Bloom Fabric Collection",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "end",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore here",
+            "button_link": "shopify:\/\/collections\/soft-furnishing-lighting",
+            "button_label": "View all",
+            "button_link": "shopify:\/\/collections\/bloom",
+            "subtext": ""
+          }
+        },
+        "637ecfd1-532c-4aeb-94da-9b272c15f9de": {
+        "163481963822b4d1b3-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "width": "half",
+            "narrow": false,
             "image": "shopify:\/\/shop_images\/mothersday_hompage_washbag-soap_1000x1500_f2a037dc-d20a-4d6a-b296-0823f0c570c6.jpg",
             "auto_height": "none",
+            "image": "shopify:\/\/shop_images\/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
+            "auto_height": "portrait",
             "cover": true,
             "title": "Mothering Sunday",
             "subtitle": "Gift ideas",
+            "title": "Bloom Lookbook",
+            "subtitle": "",
             "subtitle_size": "small",
             "text": "",
             "button_color": "red",
+            "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "SHOP",
             "button_link": "shopify:\/\/collections\/mothers-day-gifts",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/lookbook-bloom",
             "subtext": ""
           }
         }
       },
       "block_order": [
-        "163481963822b4d1b3-1",
-        "163481963822b4d1b3-0",
         "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd",
-        "637ecfd1-532c-4aeb-94da-9b272c15f9de"
+        "637ecfd1-532c-4aeb-94da-9b272c15f9de",
+        "163481963822b4d1b3-1",
+        "163481963822b4d1b3-0"
       ],
       "settings": {
         "mc_title": "",
@@ -213,7 +286,7 @@
         "165712517240961444-0": {
           "type": "heading",
           "settings": {
-            "heading": "Handmade",
+            "heading": "unique",
             "heading_type": "header1"
           }
         },
@@ -243,7 +316,7 @@
         "165712517240961444-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BLOCKPRINTING_RASA_POLKADOT_1800X900_da959bee-9f3a-422f-864b-45df94b4aeb4.jpg",
+        "image": "shopify:\/\/shop_images\/handmade_taxi_bagru_pink_upholstery_1800x1000_1783cb3f-446f-411b-bd6f-f39e5b436f8d.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -268,10 +341,10 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE_f0bb3028-d66c-4635-9b35-f8d082af1341.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_chair_chequer_pink_warehouse_1300x1300_03b825d6-4ab3-44cb-aac5-232fc68f9e99.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "Cosy Bedroom",
+            "title": "",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -279,8 +352,8 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Explore more",
-            "button_link": "shopify:\/\/collections\/bedroom",
+            "button_label": "",
+            "button_link": "",
             "subtext": ""
           }
         },
@@ -289,7 +362,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/fabric_isabella_sofa_deerhyrst_1300x1300_663f1656-d6d1-4b5b-9e2d-63333fafb0aa.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_cushion_collection_garden_1300x1300_54bb87cc-684b-45fe-8aa6-1d7b100e856c.jpg",
             "auto_height": "square",
             "cover": false,
             "title": "Cushions",
@@ -327,11 +400,11 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BUNKITTUKPIN.jpg",
+            "image": "shopify:\/\/shop_images\/bloom_washbag_dahlia_hotpink_1300x1300_64dfff52-d5f3-4e95-b12e-e076a163b6a9.jpg",
             "auto_height": "square",
             "cover": false,
             "title": "",
-            "subtitle": "Life in Colour",
+            "subtitle": "Mothering Sunday gift ideas",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
@@ -339,7 +412,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Explore More",
-            "button_link": "shopify:\/\/collections\/life-in-colour",
+            "button_link": "shopify:\/\/collections\/mothers-day-gifts",
             "subtext": ""
           }
         },
@@ -645,6 +718,7 @@
   },
   "order": [
     "5952b80b-42de-4667-9f7c-7ca9d36e71c7",
+    "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "16352843092374a33e",
     "16348194267fffd3c9",
     "163481963822b4d1b3",
