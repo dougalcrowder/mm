@@ -58,14 +58,14 @@
         "1657730007a25f7230-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Greencombe Collection",
+            "heading": "Boden Press Release",
             "heading_type": "header1"
           }
         },
         "1657730007a25f7230-1": {
           "type": "text",
           "settings": {
-            "text": "Designed in Sussex, hand blocked in Rajasthan",
+            "text": "",
             "go_serif": true,
             "constrain_text": false
           }
@@ -73,8 +73,8 @@
         "1657730007a25f7230-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Click here to order your brochure",
-            "button_link_1": "shopify:\/\/products\/bloom-brochure",
+            "button_label_1": "",
+            "button_link_1": "",
             "button_style_secondary_1": true,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -88,7 +88,7 @@
         "1657730007a25f7230-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_molesworth_gardentable_dahlia_tablecloth_1800x1000_68e6065b-47ac-4913-89c9-202078e1482f.jpg",
+        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -113,7 +113,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_chequer_blues_1000x1500_b6a06b42-d9ca-4c7e-99a1-ae0aa85bd21d.jpg",
+            "image": "shopify:\/\/shop_images\/PORTRAIT_MOLLYMAHON_BODEN_COLLAB_CLOTHES_RAIL_1300x1300_3b1c27c8-255f-435b-91b5-ee33d2ab0dd4.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -134,7 +134,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
+            "image": "shopify:\/\/shop_images\/FLORAL_MINI_BODEN_TOP.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
