@@ -171,10 +171,10 @@
         "template--14237679845434__b749be76-26a9-4186-b9d3-2ba13ba36985-1677773271e364cc13-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/pages\/lookbook-bloom",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
