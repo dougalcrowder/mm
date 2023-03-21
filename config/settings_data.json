@@ -220,7 +220,7 @@
           "section_title": "Sign Up and get 10% off your next purchase.",
           "subheading": "<p>You will recieve Molly's monthly PRINTSPIRATION, her tastes of the month on top of new launches, offers and bundles of inspiration.<\/p>",
           "show_name": false,
-          "disable": false
+          "disable": true
         }
       },
       "mailchimp_newsletter": {
@@ -267,8 +267,8 @@
               "link2": "shopify:\/\/collections\/mothers-day-gifts",
               "label3": "Sale",
               "link3": "shopify:\/\/collections\/sale",
-              "label4": "Mothering Sunday Gifts",
-              "link4": "shopify:\/\/collections\/mothers-day-gifts"
+              "label4": "",
+              "link4": ""
             }
           },
           "04ebb945-d839-4141-86d1-017268a2d6a4": {
