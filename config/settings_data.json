@@ -220,7 +220,7 @@
           "section_title": "Sign Up and get 10% off your next purchase.",
           "subheading": "<p>You will recieve Molly's monthly PRINTSPIRATION, her tastes of the month on top of new launches, offers and bundles of inspiration.<\/p>",
           "show_name": false,
-          "disable": false
+          "disable": true
         }
       },
       "mailchimp_newsletter": {
