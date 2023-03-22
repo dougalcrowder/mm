@@ -31,10 +31,10 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/pages\/lookbook-bloom",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -171,10 +171,10 @@
         "template--14237679845434__b749be76-26a9-4186-b9d3-2ba13ba36985-1677773271e364cc13-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/pages\/lookbook-bloom",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -230,10 +230,10 @@
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
-            "desktop_text_box_position": "end",
+            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/greencombe",
             "subtext": ""
           }
         },
@@ -254,7 +254,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/lookbook-bloom",
             "subtext": ""
           }
         },
@@ -439,8 +439,8 @@
             "image": "shopify:\/\/shop_images\/bloom_washbag_dahlia_hotpink_1300x1300_64dfff52-d5f3-4e95-b12e-e076a163b6a9.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "",
-            "subtitle": "Mothering Sunday gift ideas",
+            "title": "Bloom Mania",
+            "subtitle": "In anticipation",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
@@ -448,7 +448,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Explore More",
-            "button_link": "shopify:\/\/collections\/mothers-day-gifts",
+            "button_link": "shopify:\/\/collections\/bloom-home-goods",
             "subtext": ""
           }
         },
