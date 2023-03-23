@@ -1,22 +1,68 @@
 {
   "sections": {
     "main": {
-      "type": "main-page",
-      "disabled": true,
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "share"
+      ],
       "settings": {
       }
     },
-    "16421993483b631460": {
+    "164975103076740208": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Shop Quilts",
+        "collection": "bedding-1",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
+    "16577300071f976c5e": {
       "type": "image-banner",
       "blocks": {
-        "1642199348d668b6b2-0": {
+        "1657730007a25f7230-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Bloom Collection",
+            "heading": "The Greencombe Collection",
             "heading_type": "header1"
           }
         },
-        "1642199348d668b6b2-1": {
+        "1657730007a25f7230-1": {
           "type": "text",
           "settings": {
             "text": "Designed in Sussex, hand blocked in Rajasthan",
@@ -24,7 +70,7 @@
             "constrain_text": false
           }
         },
-        "1642199348d668b6b2-2": {
+        "1657730007a25f7230-2": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Click here to order your brochure",
@@ -37,14 +83,14 @@
         }
       },
       "block_order": [
-        "1642199348d668b6b2-0",
-        "1642199348d668b6b2-1",
-        "1642199348d668b6b2-2"
+        "1657730007a25f7230-0",
+        "1657730007a25f7230-1",
+        "1657730007a25f7230-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_molesworth_gardentable_dahlia_tablecloth_1800x1000_68e6065b-47ac-4913-89c9-202078e1482f.jpg",
         "letterbox": false,
-        "make_logo_white": true,
+        "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
@@ -59,10 +105,10 @@
         "hover_text": false
       }
     },
-    "1642199705a651e06d": {
+    "1657730156eeff869f": {
       "type": "multicolumn",
       "blocks": {
-        "1642199705dfd20c49-0": {
+        "1657730156412eb3fd-0": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -83,7 +129,7 @@
             "subtext": ""
           }
         },
-        "1642199705dfd20c49-1": {
+        "1657730156412eb3fd-1": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -106,8 +152,8 @@
         }
       },
       "block_order": [
-        "1642199705dfd20c49-0",
-        "1642199705dfd20c49-1"
+        "1657730156412eb3fd-0",
+        "1657730156412eb3fd-1"
       ],
       "settings": {
         "mc_title": "",
@@ -115,13 +161,13 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "s",
-        "margin_bot": "s"
+        "margin_bot": "none"
       }
     },
-    "1642200518a7fda8c2": {
+    "1657730380748266d7": {
       "type": "image-banner",
       "blocks": {
-        "1642200518d925fc5a-0": {
+        "1657730379dcd0a206-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
@@ -129,7 +175,7 @@
             "heading_type": "header1"
           }
         },
-        "1642200518d925fc5a-1": {
+        "1657730379dcd0a206-1": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -138,7 +184,7 @@
             "constrain_text": false
           }
         },
-        "1642200518d925fc5a-2": {
+        "1657730379dcd0a206-2": {
           "type": "buttons",
           "disabled": true,
           "settings": {
@@ -152,9 +198,9 @@
         }
       },
       "block_order": [
-        "1642200518d925fc5a-0",
-        "1642200518d925fc5a-1",
-        "1642200518d925fc5a-2"
+        "1657730379dcd0a206-0",
+        "1657730379dcd0a206-1",
+        "1657730379dcd0a206-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_fireplace_vase_stripe_chequers_mughal_1800x1000_88b23029-d46f-4c8f-a867-e20f80ff119d.jpg",
@@ -174,49 +220,50 @@
         "hover_text": false
       }
     },
-    "1642199952e1e0a22d": {
+    "16577858874502d623": {
       "type": "image-with-text",
       "blocks": {
-        "16421999526980f810-0": {
+        "1657785887e07c69d0-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Introducing Bloom by Molly Mahon"
+            "heading": ""
           }
         },
-        "16421999526980f810-1": {
+        "1657785887e07c69d0-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>\"Each new collection starts with a seed of an idea and then, like a glorious bloom, it pokes its head out of the ground and starts to wind its way upwards, resulting in a full and open collection of colourful pattern, its face turned towards the sun bursting forth with joy and delight.\"<\/p><p>It was this notion that inspired the beginnings of bloom.  Originally called 'Dahlia Mania', the first of 5 new patterns Molly designed in this collection is a pure celebration of this wonderful flower in all her multitude of colour.<\/p>",
+            "text": "<p>Being outside has always been a place of great happiness to me. It is where I feel most inspired. Whether this is in my own garden, the hills of Scotland, the incredible flower fields of India or the wild hedgerows of the British countryside it's the joy of the colours and the beauty of nature's offerings that most inspire me. I am delighted to celebrate this in my collection Greencombe.<\/p>",
             "code": ""
           }
         },
-        "16421999526980f810-2": {
+        "1657785887e07c69d0-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "16421999526980f810-0",
-        "16421999526980f810-1",
-        "16421999526980f810-2"
+        "1657785887e07c69d0-0",
+        "1657785887e07c69d0-1",
+        "1657785887e07c69d0-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MM_Molesworth-55.jpg",
         "title": "",
-        "color_scheme": "dark_text",
+        "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
       }
     },
-    "1642200048cc9bdbd0": {
+    "1657786090cc89e628": {
       "type": "image-banner",
       "blocks": {
-        "1642200048d4224249-0": {
+        "1657786090a56f700f-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
@@ -224,7 +271,7 @@
             "heading_type": "header1"
           }
         },
-        "1642200048d4224249-1": {
+        "1657786090a56f700f-1": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -233,7 +280,7 @@
             "constrain_text": false
           }
         },
-        "1642200048d4224249-2": {
+        "1657786090a56f700f-2": {
           "type": "buttons",
           "disabled": true,
           "settings": {
@@ -247,9 +294,9 @@
         }
       },
       "block_order": [
-        "1642200048d4224249-0",
-        "1642200048d4224249-1",
-        "1642200048d4224249-2"
+        "1657786090a56f700f-0",
+        "1657786090a56f700f-1",
+        "1657786090a56f700f-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_curtain_cushion_dahlia_hotpink_1800x1000_77bda3d1-fa3c-4252-bd7b-8ece2f57cc8a.jpg",
@@ -269,10 +316,10 @@
         "hover_text": false
       }
     },
-    "16422001205209dc50": {
+    "165778620611418523": {
       "type": "multicolumn",
       "blocks": {
-        "16422001204a1c609c-0": {
+        "1657786206ef221d2d-0": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -288,12 +335,12 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "subtext": ""
           }
         },
-        "16422001204a1c609c-1": {
+        "1657786206ef221d2d-1": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -313,55 +360,11 @@
             "button_link": "",
             "subtext": ""
           }
-        },
-        "401b5383-807d-44eb-b7d4-e48c4d8edb72": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_fabric_collection_folded_chair_1300x1300_2a296c6f-5293-4b0d-a57b-648883f140d8.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "8980039a-0e1d-4c80-b3c5-97cb8d4d559a": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_molesworth_table_bread_dahlia_indigo_peach_1300x1300_b14fdd37-ceaa-4528-bb92-80464fabafe3.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
         }
       },
       "block_order": [
-        "16422001204a1c609c-0",
-        "16422001204a1c609c-1",
-        "401b5383-807d-44eb-b7d4-e48c4d8edb72",
-        "8980039a-0e1d-4c80-b3c5-97cb8d4d559a"
+        "1657786206ef221d2d-0",
+        "1657786206ef221d2d-1"
       ],
       "settings": {
         "mc_title": "",
@@ -369,13 +372,13 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "s",
-        "margin_bot": "s"
+        "margin_bot": "none"
       }
     },
-    "d1aef74e-0f3a-4606-8ab2-0e849c62788a": {
+    "cc253307-1a74-468a-a7d6-2b5cce7c66ad": {
       "type": "multicolumn",
       "blocks": {
-        "template--14528113541178__d1aef74e-0f3a-4606-8ab2-0e849c62788a-16783181480546dd39-0": {
+        "template--14536105099322__cc253307-1a74-468a-a7d6-2b5cce7c66ad-16783260918e3f6e47-0": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -396,7 +399,7 @@
             "subtext": ""
           }
         },
-        "template--14528113541178__d1aef74e-0f3a-4606-8ab2-0e849c62788a-16783181480546dd39-1": {
+        "template--14536105099322__cc253307-1a74-468a-a7d6-2b5cce7c66ad-16783260918e3f6e47-1": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -419,62 +422,52 @@
         }
       },
       "block_order": [
-        "template--14528113541178__d1aef74e-0f3a-4606-8ab2-0e849c62788a-16783181480546dd39-0",
-        "template--14528113541178__d1aef74e-0f3a-4606-8ab2-0e849c62788a-16783181480546dd39-1"
+        "template--14536105099322__cc253307-1a74-468a-a7d6-2b5cce7c66ad-16783260918e3f6e47-0",
+        "template--14536105099322__cc253307-1a74-468a-a7d6-2b5cce7c66ad-16783260918e3f6e47-1"
       ],
       "settings": {
         "mc_title": "",
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
+        "margin_top": "s",
+        "margin_bot": "none"
       }
     },
-    "16422002304018d9ba": {
+    "1657786524439edeb4": {
       "type": "image-with-text",
       "blocks": {
-        "164220023081d30d46-0": {
+        "1657786524a4b5ca65-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image with text"
+            "heading": ""
           }
         },
-        "164220023081d30d46-1": {
+        "1657786524a4b5ca65-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bright, bold and beautiful, Bloom is a collection both classic and playful in equal measure.<\/p>",
+            "text": "<p>Culminating nostalgic depicitions of Strawberries and Tulips, reworkings of the majestic Mughal flower design, playing with visions of stripes left behind a plough, and a little seeds denoting hope and new beginnings.<\/p>",
             "code": ""
-          }
-        },
-        "164220023081d30d46-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
           }
         }
       },
       "block_order": [
-        "164220023081d30d46-0",
-        "164220023081d30d46-1",
-        "164220023081d30d46-2"
+        "1657786524a4b5ca65-0",
+        "1657786524a4b5ca65-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_block_printing_mughal_peach_sapgreen_1200x1500_10cc2741-6dc2-4475-bf29-891067929079.jpg",
         "title": "",
-        "color_scheme": "dark_text",
+        "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
       }
     },
-    "1642200330e9fc6655": {
+    "1657786602be65cc53": {
       "type": "multicolumn",
       "blocks": {
-        "16422003301606d0eb-0": {
+        "165778660260e93d17-0": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -495,7 +488,7 @@
             "subtext": ""
           }
         },
-        "16422003301606d0eb-1": {
+        "165778660260e93d17-1": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -518,8 +511,8 @@
         }
       },
       "block_order": [
-        "16422003301606d0eb-0",
-        "16422003301606d0eb-1"
+        "165778660260e93d17-0",
+        "165778660260e93d17-1"
       ],
       "settings": {
         "mc_title": "",
@@ -527,10 +520,10 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "s",
-        "margin_bot": "s"
+        "margin_bot": "none"
       }
     },
-    "3e160ff3-d0fa-408b-aadd-ec28f50b52e3": {
+    "a052268b-875f-4e54-af95-1268e9c1b66a": {
       "type": "product-grid",
       "settings": {
         "product_list": [
@@ -543,24 +536,25 @@
         "centred": false
       }
     },
-    "1642200577873a02a6": {
+    "165778780802bdc2a5": {
       "type": "image-with-text",
       "blocks": {
-        "1642200577a5e23011-0": {
+        "16577878084a1c05f7-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
             "heading": "Image with text"
           }
         },
-        "1642200577a5e23011-1": {
+        "16577878084a1c05f7-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>In this new collection Molly continues to celebrate the dynamic colour range that surrounds her life, pink saried ladies in India, sap greens in the forest, blue skies and of course, all the wonderful colour palette of a bed of Dahlias.<\/p>",
+            "text": "<p>Bringing to life the wonder of Primrose, Wild Carrot and Dianthus flowers and importantly highlighting the beauty of nature and the mighty great outdoors and recognising that it is a wonder to behold and to protect.<\/p><p><\/p><p>I have so much reverence for the power and beauty of nature and am thrilled to celebrate it in this new collection.<\/p>",
             "code": ""
           }
         },
-        "1642200577a5e23011-2": {
+        "16577878084a1c05f7-2": {
           "type": "button",
           "disabled": true,
           "settings": {
@@ -570,23 +564,23 @@
         }
       },
       "block_order": [
-        "1642200577a5e23011-0",
-        "1642200577a5e23011-1",
-        "1642200577a5e23011-2"
+        "16577878084a1c05f7-0",
+        "16577878084a1c05f7-1",
+        "16577878084a1c05f7-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_flower_dahlia_indigo_peach_1300x1500_614d0bde-689a-4c76-831f-a871b32af081.jpg",
-        "title": "",
-        "color_scheme": "dark_text",
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     },
-    "1642200428ac6075d8": {
+    "16577879925ee322e6": {
       "type": "multicolumn",
       "blocks": {
-        "16422004280af4e324-0": {
+        "16577879919d9ec7d4-0": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -607,7 +601,7 @@
             "subtext": ""
           }
         },
-        "16422004280af4e324-1": {
+        "16577879919d9ec7d4-1": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -630,19 +624,19 @@
         }
       },
       "block_order": [
-        "16422004280af4e324-0",
-        "16422004280af4e324-1"
+        "16577879919d9ec7d4-0",
+        "16577879919d9ec7d4-1"
       ],
       "settings": {
         "mc_title": "",
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "s",
-        "margin_bot": "s"
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
-    "53df4fd2-2bab-4ec1-a2db-6ee3774e20e9": {
+    "a0077d01-6e8c-4c13-9ef2-9bf2bf0be5b5": {
       "type": "product-grid",
       "settings": {
         "product_list": [
@@ -655,10 +649,10 @@
         "centred": false
       }
     },
-    "1642200518a7fda8c2": {
+    "16577876993a1651a0": {
       "type": "image-banner",
       "blocks": {
-        "1642200518d925fc5a-0": {
+        "165778769900e92238-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
@@ -666,7 +660,7 @@
             "heading_type": "header1"
           }
         },
-        "1642200518d925fc5a-1": {
+        "165778769900e92238-1": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -675,7 +669,7 @@
             "constrain_text": false
           }
         },
-        "1642200518d925fc5a-2": {
+        "165778769900e92238-2": {
           "type": "buttons",
           "disabled": true,
           "settings": {
@@ -689,9 +683,9 @@
         }
       },
       "block_order": [
-        "1642200518d925fc5a-0",
-        "1642200518d925fc5a-1",
-        "1642200518d925fc5a-2"
+        "165778769900e92238-0",
+        "165778769900e92238-1",
+        "165778769900e92238-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_barn_firepalce_curtains_chairs_1800x1000_212bdd4c-44d8-41a3-9148-9df40184b7e9.jpg",
@@ -711,10 +705,10 @@
         "hover_text": false
       }
     },
-    "1642200654ed358408": {
+    "a6a4928c-9f03-44d6-8959-7d44dcc0ddf7": {
       "type": "multicolumn",
       "blocks": {
-        "1642200654a6815255-0": {
+        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-0": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -735,7 +729,7 @@
             "subtext": ""
           }
         },
-        "1642200654a6815255-1": {
+        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-1": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -758,8 +752,8 @@
         }
       },
       "block_order": [
-        "1642200654a6815255-0",
-        "1642200654a6815255-1"
+        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-0",
+        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-1"
       ],
       "settings": {
         "mc_title": "",
@@ -767,10 +761,10 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "s",
-        "margin_bot": "s"
+        "margin_bot": "none"
       }
     },
-    "3514c7e3-17c5-4cfa-9ae5-f33203aecb11": {
+    "380e9b3a-2d04-42e9-b980-bc03e7d9840f": {
       "type": "product-grid",
       "settings": {
         "product_list": [
@@ -783,10 +777,10 @@
         "centred": false
       }
     },
-    "38f7e5d6-be72-436d-b961-88da20013f98": {
+    "995c97be-2085-4ac0-9b5d-5c6fca04b06b": {
       "type": "multicolumn",
       "blocks": {
-        "template--14528113541178__38f7e5d6-be72-436d-b961-88da20013f98-16783181480546dd39-0": {
+        "template--14536105099322__995c97be-2085-4ac0-9b5d-5c6fca04b06b-16783260918e3f6e47-0": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -807,7 +801,7 @@
             "subtext": ""
           }
         },
-        "template--14528113541178__38f7e5d6-be72-436d-b961-88da20013f98-16783181480546dd39-1": {
+        "template--14536105099322__995c97be-2085-4ac0-9b5d-5c6fca04b06b-16783260918e3f6e47-1": {
           "type": "column",
           "settings": {
             "width": "half",
@@ -830,8 +824,8 @@
         }
       },
       "block_order": [
-        "template--14528113541178__38f7e5d6-be72-436d-b961-88da20013f98-16783181480546dd39-0",
-        "template--14528113541178__38f7e5d6-be72-436d-b961-88da20013f98-16783181480546dd39-1"
+        "template--14536105099322__995c97be-2085-4ac0-9b5d-5c6fca04b06b-16783260918e3f6e47-0",
+        "template--14536105099322__995c97be-2085-4ac0-9b5d-5c6fca04b06b-16783260918e3f6e47-1"
       ],
       "settings": {
         "mc_title": "",
@@ -842,7 +836,7 @@
         "margin_bot": "m"
       }
     },
-    "a61707a1-3af5-4027-a1de-bf6df104e883": {
+    "5f0f9513-b759-4cdb-af1d-3e615ca9c7b9": {
       "type": "product-grid",
       "settings": {
         "product_list": [
@@ -854,109 +848,10 @@
         "centred": false
       }
     },
-    "f996b954-9ccc-41a2-b3c8-ed6944f25f2e": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_molesworth_table_dahlia_indigo_peach_1300x1300_c0b59f91-bb49-47e1-a73b-c4d9af4d7f9e.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_molesworth_portrait_wheelbarrow_1300x1300_cf3aad3b-a6ab-4a31-8b9b-dfb87b42ae00.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-0",
-        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "s",
-        "margin_bot": "none"
-      }
-    },
-    "16422008725e9ed78b": {
-      "type": "image-with-text",
-      "blocks": {
-        "16422008727ca7d834-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "16422008727ca7d834-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>",
-            "code": ""
-          }
-        },
-        "16422008727ca7d834-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16422008727ca7d834-0",
-        "16422008727ca7d834-1",
-        "16422008727ca7d834-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_blockprinting_widestripe_1200x1500_ad6eb0ac-b3fd-4fd8-b1a5-5b5f2e05e0e2.jpg",
-        "title": "",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first"
-      }
-    },
-    "164220080956567f6c": {
+    "16577883639ab33180": {
       "type": "image-banner",
       "blocks": {
-        "1642200809c9ba0448-0": {
+        "16577883634e8747c8-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
@@ -964,7 +859,7 @@
             "heading_type": "header1"
           }
         },
-        "1642200809c9ba0448-1": {
+        "16577883634e8747c8-1": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -973,7 +868,7 @@
             "constrain_text": false
           }
         },
-        "1642200809c9ba0448-2": {
+        "16577883634e8747c8-2": {
           "type": "buttons",
           "disabled": true,
           "settings": {
@@ -987,9 +882,9 @@
         }
       },
       "block_order": [
-        "1642200809c9ba0448-0",
-        "1642200809c9ba0448-1",
-        "1642200809c9ba0448-2"
+        "16577883634e8747c8-0",
+        "16577883634e8747c8-1",
+        "16577883634e8747c8-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_barn_widestripe_mughal_flowers_1800x1000_22d83d16-9e4e-4027-bb97-26f67c4bb5bb.jpg",
@@ -1004,29 +899,30 @@
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "none",
-        "margin_bot": "m",
+        "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
       }
     },
-    "164220072331e62d9d": {
+    "1657788189ba81a92f": {
       "type": "image-with-text",
       "blocks": {
-        "16422007231297c1ec-0": {
+        "1657788189928b3f62-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
             "heading": "Image with text"
           }
         },
-        "16422007231297c1ec-1": {
+        "1657788189928b3f62-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>\"Everthing we make is done in small batches allowing us to focus on the details and creating higher quality products with no waste.  Where possible we use the cleanest water based paints and organic or plant based cloth.  We never throw away even a snippet of cloth: always finding a way to use it up.\"<\/p>",
+            "text": "<p>I have chosen a palette to incorporate some of the joyful colours that I so adore to work with along with some of the more earthy tones found in the India desert and English countryside. I believe this allows a range of options for those looking for something sophisticated with a touch of joyful charm.<\/p>",
             "code": ""
           }
         },
-        "16422007231297c1ec-2": {
+        "1657788189928b3f62-2": {
           "type": "button",
           "disabled": true,
           "settings": {
@@ -1036,130 +932,63 @@
         }
       },
       "block_order": [
-        "16422007231297c1ec-0",
-        "16422007231297c1ec-1",
-        "16422007231297c1ec-2"
+        "1657788189928b3f62-0",
+        "1657788189928b3f62-1",
+        "1657788189928b3f62-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_cushion_collection_garden_1300x1300_54bb87cc-684b-45fe-8aa6-1d7b100e856c.jpg",
         "title": "",
-        "color_scheme": "dark_text",
+        "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
       }
     },
-    "9508f3c4-fefd-409f-8e7e-0a27a0a7f08e": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14528113541178__9508f3c4-fefd-409f-8e7e-0a27a0a7f08e-16783181480546dd39-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_molesworth_table_dahlia_indigo_peach_1300x1300_c0b59f91-bb49-47e1-a73b-c4d9af4d7f9e.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "template--14528113541178__9508f3c4-fefd-409f-8e7e-0a27a0a7f08e-16783181480546dd39-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_molesworth_portrait_wheelbarrow_1300x1300_cf3aad3b-a6ab-4a31-8b9b-dfb87b42ae00.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14528113541178__9508f3c4-fefd-409f-8e7e-0a27a0a7f08e-16783181480546dd39-0",
-        "template--14528113541178__9508f3c4-fefd-409f-8e7e-0a27a0a7f08e-16783181480546dd39-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "s",
-        "margin_bot": "s"
-      }
-    },
-    "925b8189-f52e-4ae2-b828-8bee79e1c604": {
-      "type": "simple-button",
-      "settings": {
-        "label": "ORDER YOUR BROCHURE HERE",
-        "link": "shopify:\/\/products\/bloom-brochure",
-        "color_scheme": "dark"
-      }
-    },
-    "16422008725e9ed78b": {
+    "1657788484c1ce8251": {
       "type": "image-with-text",
       "blocks": {
-        "16422008727ca7d834-0": {
+        "16577884832ae4f504-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
             "heading": "Image with text"
           }
         },
-        "16422008727ca7d834-1": {
+        "16577884832ae4f504-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Individual and intricately carved blocks are used to print each colour within a design.  The pattern comes to life as the printr works his way along the table, block by block.<\/p>",
+            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>",
             "code": ""
           }
         },
-        "16422008727ca7d834-2": {
+        "16577884832ae4f504-2": {
           "type": "button",
           "disabled": true,
           "settings": {
-            "button_label": "Explore more about block printing",
+            "button_label": "Button label",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "16422008727ca7d834-0",
-        "16422008727ca7d834-1",
-        "16422008727ca7d834-2"
+        "16577884832ae4f504-0",
+        "16577884832ae4f504-1",
+        "16577884832ae4f504-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_blockprinting_widestripe_1200x1500_ad6eb0ac-b3fd-4fd8-b1a5-5b5f2e05e0e2.jpg",
         "title": "",
-        "color_scheme": "dark_text",
+        "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
       }
     },
-    "91c3350c-fe1a-4a64-8da9-e3ce78120d48": {
+    "2401e4c6-7a80-40cf-baa0-ac0f0eca4c7f": {
       "type": "image-banner",
       "blocks": {
-        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-0": {
+        "template--14536105099322__2401e4c6-7a80-40cf-baa0-ac0f0eca4c7f-167832709679f451dd-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
@@ -1167,7 +996,7 @@
             "heading_type": "header1"
           }
         },
-        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-1": {
+        "template--14536105099322__2401e4c6-7a80-40cf-baa0-ac0f0eca4c7f-167832709679f451dd-1": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -1176,7 +1005,7 @@
             "constrain_text": false
           }
         },
-        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-2": {
+        "template--14536105099322__2401e4c6-7a80-40cf-baa0-ac0f0eca4c7f-167832709679f451dd-2": {
           "type": "buttons",
           "disabled": true,
           "settings": {
@@ -1190,9 +1019,9 @@
         }
       },
       "block_order": [
-        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-0",
-        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-1",
-        "template--14528113541178__91c3350c-fe1a-4a64-8da9-e3ce78120d48-16783192355a1816f9-2"
+        "template--14536105099322__2401e4c6-7a80-40cf-baa0-ac0f0eca4c7f-167832709679f451dd-0",
+        "template--14536105099322__2401e4c6-7a80-40cf-baa0-ac0f0eca4c7f-167832709679f451dd-1",
+        "template--14536105099322__2401e4c6-7a80-40cf-baa0-ac0f0eca4c7f-167832709679f451dd-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_blockprinting_theprinters_1800x1000_1486cf5d-f1b6-4804-b614-42eaf7a41e93.jpg",
@@ -1207,37 +1036,45 @@
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "s",
-        "margin_bot": "m",
+        "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
+      }
+    },
+    "1657807750e4739f83": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Back to the Look Books",
+        "link": "shopify:\/\/blogs\/look-books",
+        "color_scheme": "red"
       }
     }
   },
   "order": [
     "main",
-    "16421993483b631460",
-    "1642199705a651e06d",
-    "1642200518a7fda8c2",
-    "1642199952e1e0a22d",
-    "1642200048cc9bdbd0",
-    "16422001205209dc50",
-    "d1aef74e-0f3a-4606-8ab2-0e849c62788a",
-    "16422002304018d9ba",
-    "1642200330e9fc6655",
-    "3e160ff3-d0fa-408b-aadd-ec28f50b52e3",
-    "1642200577873a02a6",
-    "1642200428ac6075d8",
-    "53df4fd2-2bab-4ec1-a2db-6ee3774e20e9",
-    "1642200518a7fda8c2",
-    "1642200654ed358408",
-    "3514c7e3-17c5-4cfa-9ae5-f33203aecb11",
-    "38f7e5d6-be72-436d-b961-88da20013f98",
-    "a61707a1-3af5-4027-a1de-bf6df104e883",
-    "164220080956567f6c",
-    "164220072331e62d9d",
-    "9508f3c4-fefd-409f-8e7e-0a27a0a7f08e",
-    "925b8189-f52e-4ae2-b828-8bee79e1c604",
-    "16422008725e9ed78b",
-    "91c3350c-fe1a-4a64-8da9-e3ce78120d48"
+    "164975103076740208",
+    "16577300071f976c5e",
+    "1657730156eeff869f",
+    "1657730380748266d7",
+    "16577858874502d623",
+    "1657786090cc89e628",
+    "165778620611418523",
+    "cc253307-1a74-468a-a7d6-2b5cce7c66ad",
+    "1657786524439edeb4",
+    "1657786602be65cc53",
+    "a052268b-875f-4e54-af95-1268e9c1b66a",
+    "165778780802bdc2a5",
+    "16577879925ee322e6",
+    "a0077d01-6e8c-4c13-9ef2-9bf2bf0be5b5",
+    "16577876993a1651a0",
+    "a6a4928c-9f03-44d6-8959-7d44dcc0ddf7",
+    "380e9b3a-2d04-42e9-b980-bc03e7d9840f",
+    "995c97be-2085-4ac0-9b5d-5c6fca04b06b",
+    "5f0f9513-b759-4cdb-af1d-3e615ca9c7b9",
+    "16577883639ab33180",
+    "1657788189ba81a92f",
+    "1657788484c1ce8251",
+    "2401e4c6-7a80-40cf-baa0-ac0f0eca4c7f",
+    "1657807750e4739f83"
   ]
 }

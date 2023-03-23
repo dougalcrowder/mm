@@ -10,8 +10,63 @@
         "color_scheme": "blue_text"
       }
     },
+    "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "BLOOM",
+            "heading_type": "header1"
+          }
+        },
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-1": {
+          "type": "text",
+          "settings": {
+            "text": "A celebration of Nature & Hand Block Printing",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/pages\/lookbook-bloom",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-0",
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-1",
+        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1800x1000_d7cfe96d-0aa0-4aaa-b468-995de4b5f06c.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1300x1300_43a81568-9eb3-449f-8bc4-f16847edb451.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
     "16352843092374a33e": {
       "type": "hotspots",
+      "disabled": true,
       "blocks": {
         "16352843092374a33e-0": {
           "type": "Tooltip",
@@ -90,7 +145,7 @@
         "image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1800x1000_d7cfe96d-0aa0-4aaa-b468-995de4b5f06c.jpg",
         "square_image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1300x1300_43a81568-9eb3-449f-8bc4-f16847edb451.jpg",
         "make_logo_white": false,
-        "title": "MAKE YOURSELF AT HOME",
+        "title": "New Bloom Fabric Collection",
         "header_tag": "h2"
       }
     },
@@ -116,10 +171,10 @@
         "template--14237679845434__b749be76-26a9-4186-b9d3-2ba13ba36985-1677773271e364cc13-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/pages\/lookbook-bloom",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -170,15 +225,15 @@
             "auto_height": "landscape",
             "cover": false,
             "title": "Master Craftsmen",
-            "subtitle": "",
+            "subtitle": "Celebrating the new Bloom Collection",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
-            "desktop_text_box_position": "end",
+            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/greencombe",
             "subtext": ""
           }
         },
@@ -199,7 +254,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/lookbook-bloom",
             "subtext": ""
           }
         },
@@ -211,13 +266,13 @@
             "image": "shopify:\/\/shop_images\/bloom_barn_curtain_dahlia_hot_pink_1000x1500_c159b2bc-75ce-4bcf-a0e2-2cd908d87adb.jpg",
             "auto_height": "portrait",
             "cover": false,
-            "title": "Bloom Collection",
+            "title": "Bloom Fabric Collection",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
-            "desktop_text_box_position": "end",
+            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "View all",
             "button_link": "shopify:\/\/collections\/bloom",
@@ -238,10 +293,10 @@
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
-            "desktop_text_box_position": "end",
+            "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Explore more",
-            "button_link": "",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/lookbook-bloom",
             "subtext": ""
           }
         }
@@ -267,7 +322,7 @@
         "165712517240961444-0": {
           "type": "heading",
           "settings": {
-            "heading": "Unique",
+            "heading": "unique",
             "heading_type": "header1"
           }
         },
@@ -384,8 +439,8 @@
             "image": "shopify:\/\/shop_images\/bloom_washbag_dahlia_hotpink_1300x1300_64dfff52-d5f3-4e95-b12e-e076a163b6a9.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "",
-            "subtitle": "Life in Colour",
+            "title": "Bloom Mania",
+            "subtitle": "In anticipation",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
@@ -393,7 +448,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Explore More",
-            "button_link": "shopify:\/\/collections\/life-in-colour",
+            "button_link": "shopify:\/\/collections\/bloom-home-goods",
             "subtext": ""
           }
         },
@@ -699,6 +754,7 @@
   },
   "order": [
     "5952b80b-42de-4667-9f7c-7ca9d36e71c7",
+    "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "16352843092374a33e",
     "b749be76-26a9-4186-b9d3-2ba13ba36985",
     "16348194267fffd3c9",

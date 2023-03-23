@@ -220,7 +220,7 @@
           "section_title": "Sign Up and get 10% off your next purchase.",
           "subheading": "<p>You will recieve Molly's monthly PRINTSPIRATION, her tastes of the month on top of new launches, offers and bundles of inspiration.<\/p>",
           "show_name": false,
-          "disable": false
+          "disable": true
         }
       },
       "mailchimp_newsletter": {
@@ -261,11 +261,11 @@
             "type": "four_menus",
             "settings": {
               "fl_title": "New in",
-              "label1": "Life in Colour",
+              "label1": "New Bloom Fabric Collection",
               "link1": "shopify:\/\/collections\/bloom",
-              "label2": "Light up your Home",
-              "link2": "shopify:\/\/collections\/lighting",
-              "label3": "Online Sale",
+              "label2": "Bloom Home",
+              "link2": "shopify:\/\/collections\/bloom-home-goods",
+              "label3": "Sale",
               "link3": "shopify:\/\/collections\/sale",
               "label4": "",
               "link4": ""
@@ -279,8 +279,8 @@
               "link1": "",
               "label2": "Workshops and Events",
               "link2": "shopify:\/\/pages\/workshops-and-events",
-              "label3": "Look Book - Greencombe",
-              "link3": "shopify:\/\/pages\/greencombe",
+              "label3": "Look Books",
+              "link3": "shopify:\/\/blogs\/look-books",
               "label4": "Mood Boards",
               "link4": "shopify:\/\/pages\/fabric-mood-boards"
             }
