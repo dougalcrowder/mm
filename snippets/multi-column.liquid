@@ -1,4 +1,7 @@
 <li class="column {{ block.settings.width }}{% if block.settings.narrow %} narrow{% endif %}{% if block.settings.image == blank %} no-image{% endif %} bg-for-{{ block.settings.color_scheme }}" {{ block.shopify_attributes }}>
+  {%- if block.settings.button_label == blank and if block.settings.button_link != blank -%}
+  <a class="col_link" href="{{ block.settings.button_link }}" aria-label="view more">
+  {% endif %}
   <div class="text_wrap flex vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }}{% if block.settings.text_align == 'left' %} justify-start{% endif %} {% if block.settings.text_align == 'right' %} justify-end{% endif %} color-{{ block.settings.color_scheme }}{% if block.settings.image != blank %} has-image{% endif %}">
     
     {%- if block.settings.title != blank -%}
@@ -74,11 +77,7 @@
             <img class="lazyimage" loading="lazy" src="{{ image | img_url: '320x320', crop: 'center' }}" alt="{{ image.alt | escape }}" width="320" height="320" />
           </picture>
         {%- endif -%}
-        {%- if block.settings.button_label == blank -%}
-          {% if block.settings.button_link != blank %}
-          <a class="col_link" href="{{ block.settings.button_link }}" aria-label="view more"> </a>
-          {% endif %}
-        {% endif %}
+        
         {% if block.settings.desktop_text_box_position == 'under' %}
         <div class="buttons {{ block.settings.button_color }}">
         {%- if block.settings.button_label != blank -%}
@@ -88,4 +87,7 @@
         {% endif %}
       </div>
     {%- endif -%}
+  {%- if block.settings.button_label == blank and if block.settings.button_link != blank -%}
+    </a>
+  {% endif %}
 </li>
