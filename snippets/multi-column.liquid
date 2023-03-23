@@ -74,6 +74,11 @@
             <img class="lazyimage" loading="lazy" src="{{ image | img_url: '320x320', crop: 'center' }}" alt="{{ image.alt | escape }}" width="320" height="320" />
           </picture>
         {%- endif -%}
+        {%- if block.settings.button_label == blank -%}
+          {% if block.settings.button_link != blank %}
+          <a class="col_link" href="{{ block.settings.button_link }}" aria-label="view more"> </a>
+          {% endif %}
+        {% endif %}
         {% if block.settings.desktop_text_box_position == 'under' %}
         <div class="buttons {{ block.settings.button_color }}">
         {%- if block.settings.button_label != blank -%}
