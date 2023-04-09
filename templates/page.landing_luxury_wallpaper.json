@@ -163,7 +163,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-fern-mustard",
+          "fern-wallpaper-mustard",
           "coral-wallpaper-blue",
           "wallpaper-strawberry-grass",
           "wallpaper-marigold-yellow"
@@ -516,7 +516,7 @@
           "wallpaper-marwarihorse-darkblue",
           "bindi-wallpaper-blue",
           "wallpaper-marigold-yellow",
-          "wallpaper-lani-gold"
+          "lani-wallpaper-gold"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -625,9 +625,9 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-fern-mustard",
+          "fern-wallpaper-mustard",
           "wallpaper-spotstar-denim",
-          "wallpaper-hearts-pink",
+          "hearts-wallpaper-pink",
           "wallpaper-strawberry-grass"
         ],
         "show_secondary_image": true,

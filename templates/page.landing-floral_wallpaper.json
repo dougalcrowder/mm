@@ -162,7 +162,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-fern-mustard",
+          "fern-wallpaper-mustard",
           "birds-bees-wallpaper-blue",
           "wallpaper-strawberry-grass",
           "wallpaper-tree-green",
@@ -615,8 +615,8 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-fern-mustard",
-          "wallpaper-fern-sage"
+          "fern-wallpaper-mustard",
+          "fern-wallpaper-sage"
         ],
         "show_secondary_image": true,
         "centred": true
