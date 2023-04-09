@@ -166,7 +166,7 @@
           "birds-bees-wallpaper-blue",
           "wallpaper-strawberry-grass",
           "wallpaper-tree-green",
-          "wallpaper-leaf-grassgreen",
+          "leaf-wallpaper-grass-green",
           "wallpaper-marigold-yellow"
         ],
         "show_secondary_image": true,
@@ -734,7 +734,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-marigold-pinkblue",
+          "marigold-wallpaper-pink-blue",
           "wallpaper-marigold-yellow",
           "wallpaper-marigold-pinkgreen"
         ],

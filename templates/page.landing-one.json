@@ -164,7 +164,7 @@
         "product_list": [
           "wallpaper-marigold-yellow",
           "wallpaper-marwarihorse-darkblue",
-          "wallpaper-lani-gold",
+          "lani-wallpaper-gold",
           "fern-wallpaper-mustard"
         ],
         "show_secondary_image": true,
@@ -400,7 +400,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/MARIGOLD_PINK_BEDROOM_WALLPAPER.jpg",
             "title": "Marigold Pink\/Blue",
-            "link": "shopify:\/\/products\/wallpaper-marigold-pinkblue",
+            "link": "shopify:\/\/products\/marigold-wallpaper-pink-blue",
             "color_scheme": "dark_text"
           }
         },
@@ -493,7 +493,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/WALLPAPER_LANI_BOOKSHELF_1200X900_74e7ebfc-0c56-419f-b36d-88f49df46f94.jpg",
             "title": "Lani Gold",
-            "link": "shopify:\/\/products\/wallpaper-lani-gold",
+            "link": "shopify:\/\/products\/lani-wallpaper-gold",
             "color_scheme": "dark_text"
           }
         },
@@ -557,7 +557,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/WALLPAPER_LEAF_DEERHYRST_1200X900_e67e2053-a9de-4a52-aad6-24b0e203c13f.jpg",
             "title": "Leaf Grass Green",
-            "link": "shopify:\/\/products\/wallpaper-leaf-grassgreen",
+            "link": "shopify:\/\/products\/leaf-wallpaper-grass-green",
             "color_scheme": "dark_text"
           }
         },
@@ -659,7 +659,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/WMGCOLPINGREN_e74f992d-2b50-4aa9-9221-b90776afcfbe.jpg",
             "title": "Marigold Pink Green",
-            "link": "shopify:\/\/products\/wallpaper-marigold-pinkgreen",
+            "link": "shopify:\/\/products\/marigold-wallpaper-pink-green",
             "color_scheme": "dark_text"
           }
         },
