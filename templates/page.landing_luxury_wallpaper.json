@@ -165,7 +165,7 @@
         "product_list": [
           "fern-wallpaper-mustard",
           "coral-wallpaper-blue",
-          "wallpaper-strawberry-grass",
+          "strawberry-wallpaper-grass",
           "marigold-wallpaper-yellow"
         ],
         "show_secondary_image": true,
@@ -398,7 +398,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-strawberry-grass",
+          "strawberry-wallpaper-grass",
           "marigold-wallpaper-yellow",
           "leaf-wallpaper-grass-green",
           "marigold-wallpaper-pink-green",
@@ -626,9 +626,9 @@
       "settings": {
         "product_list": [
           "fern-wallpaper-mustard",
-          "wallpaper-spotstar-denim",
+          "spot-star-wallpaper-denim",
           "hearts-wallpaper-pink",
-          "wallpaper-strawberry-grass"
+          "strawberry-wallpaper-grass"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -748,7 +748,7 @@
       "settings": {
         "product_list": [
           "bindi-wallpaper-blue",
-          "wallpaper-strawberry-grass"
+          "strawberry-wallpaper-grass"
         ],
         "show_secondary_image": true,
         "centred": true
