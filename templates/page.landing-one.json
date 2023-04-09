@@ -165,7 +165,7 @@
           "wallpaper-marigold-yellow",
           "wallpaper-marwarihorse-darkblue",
           "wallpaper-lani-gold",
-          "wallpaper-fern-mustard"
+          "fern-wallpaper-mustard"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -484,7 +484,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FERNTURMERICKEALIFE2_446cc717-0a7a-409d-852c-41b86bcb8eb3.jpg",
             "title": "Fern Mustard",
-            "link": "shopify:\/\/products\/wallpaper-fern-mustard",
+            "link": "shopify:\/\/products\/fern-wallpaper-mustard",
             "color_scheme": "dark_text"
           }
         },
