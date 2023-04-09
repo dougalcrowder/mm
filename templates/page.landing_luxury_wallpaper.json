@@ -166,7 +166,7 @@
           "fern-wallpaper-mustard",
           "coral-wallpaper-blue",
           "wallpaper-strawberry-grass",
-          "wallpaper-marigold-yellow"
+          "marigold-wallpaper-yellow"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -399,7 +399,7 @@
       "settings": {
         "product_list": [
           "wallpaper-strawberry-grass",
-          "wallpaper-marigold-yellow",
+          "marigold-wallpaper-yellow",
           "leaf-wallpaper-grass-green",
           "marigold-wallpaper-pink-green",
           "coral-wallpaper-blue",
@@ -513,9 +513,9 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-marwarihorse-darkblue",
+          "marwari-horse-wallpaper-blue",
           "bindi-wallpaper-blue",
-          "wallpaper-marigold-yellow",
+          "marigold-wallpaper-yellow",
           "lani-wallpaper-gold"
         ],
         "show_secondary_image": true,
