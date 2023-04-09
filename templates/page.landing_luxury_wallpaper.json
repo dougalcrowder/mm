@@ -400,10 +400,10 @@
         "product_list": [
           "wallpaper-strawberry-grass",
           "wallpaper-marigold-yellow",
-          "wallpaper-leaf-grassgreen",
+          "leaf-wallpaper-grass-green",
           "wallpaper-marigold-pinkgreen",
           "coral-wallpaper-blue",
-          "wallpaper-marigold-pinkblue",
+          "marigold-wallpaper-pink-blue",
           "birds-bees-wallpaper-pea-green"
         ],
         "show_secondary_image": true,
@@ -516,7 +516,7 @@
           "wallpaper-marwarihorse-darkblue",
           "bindi-wallpaper-blue",
           "wallpaper-marigold-yellow",
-          "wallpaper-lani-gold"
+          "lani-wallpaper-gold"
         ],
         "show_secondary_image": true,
         "centred": true

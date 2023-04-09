@@ -86,7 +86,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-leaf-grassgreen"
+          "leaf-wallpaper-grass-green"
         ],
         "show_secondary_image": true,
         "centred": true
