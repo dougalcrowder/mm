@@ -409,7 +409,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/WALLPAPER_BINDI_DEERHYRST_1200X900_c2484dbd-6cf6-4f8d-b6c0-7e86536281d5.jpg",
             "title": "Bindi Blue",
-            "link": "shopify:\/\/products\/wallpaper-bindi-blue",
+            "link": "shopify:\/\/products\/bindi-wallpaper-blue",
             "color_scheme": "dark_text"
           }
         },
@@ -418,7 +418,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_ZETLAND_1200X900_71bd2123-97d6-4f48-afb9-b113f7beee51.jpg",
             "title": "Birds & Bees Blue",
-            "link": "shopify:\/\/products\/wallpaper-birdsbees-blue",
+            "link": "shopify:\/\/products\/birds-bees-wallpaper-blue",
             "color_scheme": "dark_text"
           }
         },
@@ -566,7 +566,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_WINDOW_1200X900_56c8829e-ceb9-462d-8840-6574689ebb63.jpg",
             "title": "Birds & Bees Pea Green",
-            "link": "shopify:\/\/products\/wallpaper-birdsbees-peagreen",
+            "link": "shopify:\/\/products\/birds-bees-wallpaper-pea-green",
             "color_scheme": "dark_text"
           }
         },
