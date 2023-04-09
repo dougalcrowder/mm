@@ -476,9 +476,9 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "fabric-berry-oyster-grasssky",
-          "fabric-berry-oyster-indigosky",
-          "fabric-berry-oyster-ironrose",
+          "berry-block-printed-fabric-oyster-grass-sky",
+          "berry-block-printed-fabric-oyster-indigo-sky",
+          "berry-block-printed-fabric-oyster-iron-rose",
           "wallpaper-bindi-blue"
         ],
         "show_secondary_image": true,
@@ -588,10 +588,10 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "fabric-bagru-cotton-pink",
-          "fabric-berry-oyster-grasssky",
-          "fabric-berry-oyster-indigosky",
-          "fabric-berry-oyster-ironrose"
+          "bagru-block-printed-fabric-cotton-pink",
+          "berry-block-printed-fabric-oyster-grass-sky",
+          "berry-block-printed-fabric-oyster-indigo-sky",
+          "berry-block-printed-fabric-oyster-iron-rose"
         ],
         "show_secondary_image": true,
         "centred": false
@@ -716,9 +716,9 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "fabric-berry-oyster-grasssky",
-          "fabric-berry-oyster-indigosky",
-          "fabric-berry-oyster-ironrose",
+          "berry-block-printed-fabric-oyster-grass-sky",
+          "berry-block-printed-fabric-oyster-indigo-sky",
+          "berry-block-printed-fabric-oyster-iron-rose",
           "wallpaper-bindi-blue"
         ],
         "show_secondary_image": true,
@@ -789,7 +789,7 @@
       "settings": {
         "product_list": [
           "bagru-block-printed-fabric-cotton-darkblue",
-          "fabric-bagru-cotton-pink"
+          "bagru-block-printed-fabric-cotton-pink"
         ],
         "show_secondary_image": true,
         "centred": false
