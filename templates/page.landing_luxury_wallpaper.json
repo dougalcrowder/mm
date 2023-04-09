@@ -404,7 +404,7 @@
           "wallpaper-marigold-pinkgreen",
           "coral-wallpaper-blue",
           "wallpaper-marigold-pinkblue",
-          "wallpaper-birdsbees-peagreen"
+          "birds-bees-wallpaper-pea-green"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -514,7 +514,7 @@
       "settings": {
         "product_list": [
           "wallpaper-marwarihorse-darkblue",
-          "wallpaper-bindi-blue",
+          "bindi-wallpaper-blue",
           "wallpaper-marigold-yellow",
           "wallpaper-lani-gold"
         ],
@@ -747,7 +747,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-bindi-blue",
+          "bindi-wallpaper-blue",
           "wallpaper-strawberry-grass"
         ],
         "show_secondary_image": true,
