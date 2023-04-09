@@ -167,7 +167,7 @@
           "wallpaper-strawberry-grass",
           "wallpaper-tree-green",
           "leaf-wallpaper-grass-green",
-          "wallpaper-marigold-yellow"
+          "marigold-wallpaper-yellow"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -735,8 +735,8 @@
       "settings": {
         "product_list": [
           "marigold-wallpaper-pink-blue",
-          "wallpaper-marigold-yellow",
-          "wallpaper-marigold-pinkgreen"
+          "marigold-wallpaper-yellow",
+          "marigold-wallpaper-pink-green"
         ],
         "show_secondary_image": true,
         "centred": true

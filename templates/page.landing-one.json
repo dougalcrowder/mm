@@ -162,8 +162,8 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wallpaper-marigold-yellow",
-          "wallpaper-marwarihorse-darkblue",
+          "marigold-wallpaper-yellow",
+          "marwari-horse-wallpaper-blue",
           "lani-wallpaper-gold",
           "fern-wallpaper-mustard"
         ],
