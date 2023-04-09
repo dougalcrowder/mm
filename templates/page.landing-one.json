@@ -164,8 +164,8 @@
         "product_list": [
           "wallpaper-marigold-yellow",
           "wallpaper-marwarihorse-darkblue",
-          "wallpaper-lani-gold",
-          "wallpaper-fern-mustard"
+          "lani-wallpaper-gold",
+          "fern-wallpaper-mustard"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -484,7 +484,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FERNTURMERICKEALIFE2_446cc717-0a7a-409d-852c-41b86bcb8eb3.jpg",
             "title": "Fern Mustard",
-            "link": "shopify:\/\/products\/wallpaper-fern-mustard",
+            "link": "shopify:\/\/products\/fern-wallpaper-mustard",
             "color_scheme": "dark_text"
           }
         },
@@ -493,7 +493,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/WALLPAPER_LANI_BOOKSHELF_1200X900_74e7ebfc-0c56-419f-b36d-88f49df46f94.jpg",
             "title": "Lani Gold",
-            "link": "shopify:\/\/products\/wallpaper-lani-gold",
+            "link": "shopify:\/\/products\/lani-wallpaper-gold",
             "color_scheme": "dark_text"
           }
         },
