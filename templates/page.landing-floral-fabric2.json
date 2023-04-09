@@ -197,8 +197,8 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "fabric-buti-cotton-blue",
-          "fabric-buti-cotton-pink"
+          "buti-block-printed-fabric-cotton-blue",
+          "buti-block-printed-fabric-cotton-pink"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -307,8 +307,8 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "fabric-clover-oyster-duckegg",
-          "fabric-clover-oyster-blue"
+          "clover-printed-fabric-oyster-duck-egg",
+          "clover-printed-fabric-oyster-blue"
         ],
         "show_secondary_image": true,
         "centred": true
