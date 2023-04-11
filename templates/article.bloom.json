@@ -502,8 +502,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
+        "margin_top": "s",
+        "margin_bot": "s"
       }
     },
     "16577876993a1651a0": {
