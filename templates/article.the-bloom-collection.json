@@ -225,16 +225,14 @@
       "blocks": {
         "1657785887e07c69d0-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": ""
+            "heading": "Introducing Bloom by Molly Mahon"
           }
         },
         "1657785887e07c69d0-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Being outside has always been a place of great happiness to me. It is where I feel most inspired. Whether this is in my own garden, the hills of Scotland, the incredible flower fields of India or the wild hedgerows of the British countryside it's the joy of the colours and the beauty of nature's offerings that most inspire me. I am delighted to celebrate this in my collection Greencombe.<\/p>",
+            "text": "<p>\"Each new collection starts with a seed of an idea and then, like a glorious bloom, it pokes its head out of the ground and starts to wind its way upwards, resulting in a full and open collection of colourful pattern, its face turned towards the sun bursting forth with joy and delight.\"<\/p><p>It was this notion that inspired the beginnings of bloom. Originally called 'Dahlia Mania', the first of 5 new patterns Molly designed in this collection is a pure celebration of this wonderful flower in all her multitude of colour.<\/p>",
             "code": ""
           }
         },
@@ -254,7 +252,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/MM_Molesworth-55.jpg",
         "title": "",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
@@ -446,7 +444,7 @@
         "1657786524a4b5ca65-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Culminating nostalgic depicitions of Strawberries and Tulips, reworkings of the majestic Mughal flower design, playing with visions of stripes left behind a plough, and a little seeds denoting hope and new beginnings.<\/p>",
+            "text": "<p>Bright, bold and beautiful, Bloom is a collection both classic and playful in equal measure.<\/p>",
             "code": ""
           }
         }
@@ -458,7 +456,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_block_printing_mughal_peach_sapgreen_1200x1500_10cc2741-6dc2-4475-bf29-891067929079.jpg",
         "title": "",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
@@ -543,14 +541,13 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "Image with text"
+            "heading": ""
           }
         },
         "16577878084a1c05f7-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Bringing to life the wonder of Primrose, Wild Carrot and Dianthus flowers and importantly highlighting the beauty of nature and the mighty great outdoors and recognising that it is a wonder to behold and to protect.<\/p><p><\/p><p>I have so much reverence for the power and beauty of nature and am thrilled to celebrate it in this new collection.<\/p>",
+            "text": "<p>In this new collection Molly continues to celebrate the dynamic colour range that surrounds her life, pink saried ladies in India, sap greens in the forest, blue skies and of course, all the wonderful colour palette of a bed of Dahlias.<\/p>",
             "code": ""
           }
         },
@@ -570,8 +567,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_flower_dahlia_indigo_peach_1300x1500_614d0bde-689a-4c76-831f-a871b32af081.jpg",
-        "title": "A Seasonal Setting",
-        "color_scheme": "white_text",
+        "title": "",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
@@ -632,8 +629,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
+        "margin_top": "s",
+        "margin_bot": "none"
       }
     },
     "a0077d01-6e8c-4c13-9ef2-9bf2bf0be5b5": {
