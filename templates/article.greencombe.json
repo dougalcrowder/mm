@@ -314,6 +314,78 @@
         "hover_text": false
       }
     },
+    "d1429295-feaf-40bb-8145-3e150eed6282": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14304283263034__d1429295-feaf-40bb-8145-3e150eed6282-16814019819df3bd50-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/PRIMROSE_TRELLIS_BEDHEAD_GREENCOMBE_1.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14304283263034__d1429295-feaf-40bb-8145-3e150eed6282-16814019819df3bd50-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/PRIMROSE_TRELLIS_BEDHEAD_GREENCOMBE.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14304283263034__d1429295-feaf-40bb-8145-3e150eed6282-16814019819df3bd50-0",
+        "template--14304283263034__d1429295-feaf-40bb-8145-3e150eed6282-16814019819df3bd50-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "none"
+      }
+    },
+    "982275cf-6f95-41b8-a984-c4ece1ecccfe": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "primrose-block-printed-fabric-oyster-grass-sky",
+          "trellis-block-printed-fabric-oyster-grass-sky",
+          "seed-block-printed-fabric-oyster-grass",
+          "lampshade-pleated-seed-grass-large"
+        ],
+        "show_secondary_image": true,
+        "centred": false
+      }
+    },
     "165778620611418523": {
       "type": "multicolumn",
       "blocks": {
@@ -568,9 +640,7 @@
         "product_list": [
           "strawberry-block-printed-fabric-oyster-copper",
           "strawberry-block-printed-fabric-oyster-grass",
-          "trellis-block-printed-fabric-oyster-copper-rust",
-          "trellis-block-printed-fabric-oyster-grass-sky",
-          "trellis-block-printed-fabric-oyster-rose-midnight"
+          "trellis-block-printed-fabric-oyster-copper-rust"
         ],
         "show_secondary_image": true,
         "centred": false
@@ -828,6 +898,8 @@
     "1657730380748266d7",
     "16577858874502d623",
     "1657786090cc89e628",
+    "d1429295-feaf-40bb-8145-3e150eed6282",
+    "982275cf-6f95-41b8-a984-c4ece1ecccfe",
     "165778620611418523",
     "1657786524439edeb4",
     "1657786602be65cc53",
