@@ -275,9 +275,9 @@
             "type": "four_menus",
             "settings": {
               "fl_title": "Inspiration",
-              "label1": "",
-              "link1": "",
-              "label2": "Workshops and Events",
+              "label1": "Workshops and Events",
+              "link1": "shopify:\/\/pages\/block-printing-weekend-workshops",
+              "label2": "",
               "link2": "shopify:\/\/pages\/workshops-and-events",
               "label3": "Look Books",
               "link3": "shopify:\/\/blogs\/look-books",
