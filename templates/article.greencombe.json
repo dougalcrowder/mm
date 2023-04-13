@@ -226,7 +226,7 @@
         "1657785887e07c69d0-0": {
           "type": "heading",
           "settings": {
-            "heading": ""
+            "heading": "Welcome to Greencombe"
           }
         },
         "1657785887e07c69d0-1": {
@@ -562,6 +562,20 @@
         "hover_text": false
       }
     },
+    "6cda73ca-c1b0-4f11-8769-80fb2439241d": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "strawberry-block-printed-fabric-oyster-copper",
+          "strawberry-block-printed-fabric-oyster-grass",
+          "trellis-block-printed-fabric-oyster-copper-rust",
+          "trellis-block-printed-fabric-oyster-grass-sky",
+          "trellis-block-printed-fabric-oyster-rose-midnight"
+        ],
+        "show_secondary_image": true,
+        "centred": false
+      }
+    },
     "165778780802bdc2a5": {
       "type": "image-with-text",
       "blocks": {
@@ -818,6 +832,7 @@
     "1657786524439edeb4",
     "1657786602be65cc53",
     "16577876993a1651a0",
+    "6cda73ca-c1b0-4f11-8769-80fb2439241d",
     "165778780802bdc2a5",
     "16577879925ee322e6",
     "1657788189ba81a92f",
