@@ -595,8 +595,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PRIMROSE_COLLECTION_SHOT_1600x_d4fd4df4-0419-4163-8de1-a0417d567a74.jpg",
-        "title": "A Seasonal Setting",
-        "color_scheme": "white_text",
+        "title": "",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
@@ -657,7 +657,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
+        "margin_top": "sm",
         "margin_bot": "m"
       }
     },
@@ -695,7 +695,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/ELLIES_BEDSKIRT_1600x_2df4e026-2388-46f7-80b0-4e5158f44580.jpg",
         "title": "",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
@@ -791,7 +791,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
         "title": "",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
