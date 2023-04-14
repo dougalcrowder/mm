@@ -47,14 +47,14 @@
         "1657730007a25f7230-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Deerhyrst Collection",
+            "heading": "Jaipur & Bagru Fabric Collection",
             "heading_type": "header1"
           }
         },
         "1657730007a25f7230-1": {
           "type": "text",
           "settings": {
-            "text": "Designed in Sussex, hand blocked designs machine printed in the UK",
+            "text": "Designed in Sussex, Hand Block Printed in Rajasthan",
             "go_serif": true,
             "constrain_text": false
           }
@@ -78,7 +78,7 @@
         "1657730007a25f7230-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_FERN_DEERHYRST_KIDSBEDROOM_1800X1000_4267185c-1a3c-4d08-bc51-4eb7d1921445.jpg",
+        "image": "shopify:\/\/shop_images\/fabric_tuktuk_pink_drying_rasa_1800x1000_7fb4c493-9a65-43c4-a7a5-0f69fcb50a25.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -103,7 +103,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FOREST_OYSTER_GREEN_SITTINGROOM_KEANE.jpg",
+            "image": "shopify:\/\/shop_images\/fabric_bagru_chair_lottiecole_1300x1300_273e5d4f-a3de-47c8-92b3-6831c2aba07c.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
