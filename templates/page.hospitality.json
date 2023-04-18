@@ -88,7 +88,7 @@
             "subtitle": "Bombay Bustle",
             "subtitle_size": "medium",
             "text": "<p>London<\/p>",
-            "button_color": "white",
+            "button_color": "dark",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
