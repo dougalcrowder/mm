@@ -124,7 +124,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FLANTURLIFECURTAIN_7f1c74a2-ed55-4c55-a580-7b0569424fba.jpg",
+            "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_BABYROOM_1300X1300_8d571d1d-b764-4239-9470-30f6b88e6489.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -151,7 +151,7 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "s",
-        "margin_bot": "m"
+        "margin_bot": "none"
       }
     },
     "1657730380748266d7": {
@@ -193,7 +193,7 @@
         "1657730379dcd0a206-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FIRMDALE_SOHO_LEAF_1800x900_b75972d7-ecba-4e3d-bb46-1fbcc190edcc.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
