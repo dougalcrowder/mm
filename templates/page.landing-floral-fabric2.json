@@ -109,7 +109,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "bagru-block-printed-fabric-cotton-darkblue",
+          "bagru-block-printed-fabric-cotton-dark-blue",
           "bagru-block-printed-fabric-cotton-pink"
         ],
         "show_secondary_image": true,
