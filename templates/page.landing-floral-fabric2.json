@@ -114,7 +114,7 @@
           "pattee-block-printed-fabric-oyster-blue"
         ],
         "show_secondary_image": true,
-        "centred": true
+        "centred": false
       }
     },
     "1661964058633d317f": {
@@ -134,7 +134,7 @@
         "16619640584483b84f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/fabric_buti_blue_printingtable_bagru_1800x1000_57db19c7-8fd0-4eb9-aee9-be8ac767b380.jpg",
+        "image": "shopify:\/\/shop_images\/POPPYCURTAINS_080bdea6-c87a-4d24-bf45-7febc336b31d.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -157,7 +157,7 @@
         "1662457418f867cbaa-0": {
           "type": "text",
           "settings": {
-            "heading": "Buti",
+            "heading": "Poppy",
             "heading_size": "medium",
             "text": "<p><\/p><p><\/p>",
             "button_label": "",
@@ -173,7 +173,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>This floral fabric combines geometric lines with the curves found in nature for a delightful, small-scale print. The 100% cotton fabric is available in pink and blue, with each design making use of two shades so that the modest flowers really stand out against the background diamond pattern.<\/p>",
+            "text": "<p>Molly has long been in awe of this revered and iconic image of the poppy which was originally created by the Mughals and featured heavily in their art. Molly’s ode to this popular design comes in three stunning colour pairings: rose & sky, rose & grass, and mustard & sky. The design shows poppies in full bloom alongside small buds and the flower’s recognisable jagged leaves.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -191,18 +191,19 @@
         "background": "#cec367",
         "margin_top": "l",
         "margin_bot": "none",
-        "slides_title": "Get a free sample and explore our Buti swatches"
+        "slides_title": "Get a free sample and explore our Poppy swatches"
       }
     },
     "954b060a-da04-4393-92fd-e3b64cbdf74d": {
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "buti-block-printed-fabric-cotton-blue",
-          "buti-block-printed-fabric-cotton-pink"
+          "poppy-block-printed-fabric-oyster-mustard-sky",
+          "poppy-block-printed-fabric-oyster-rose-grass",
+          "poppy-block-printed-fabric-oyster-rose-sky"
         ],
         "show_secondary_image": true,
-        "centred": true
+        "centred": false
       }
     },
     "c320e191-7705-4348-8726-846e423e03c5": {
@@ -244,7 +245,7 @@
         "template--14412154142778__c320e191-7705-4348-8726-846e423e03c5-16655851478a25dfa9-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/HenMol-5.jpg",
+        "image": "shopify:\/\/shop_images\/fabric_primrose_trellis_greencombe_bedroom_1800x1000_dd330b43-3b3a-4fe0-a6fd-47df224929b5.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -267,9 +268,9 @@
         "16624577610885c164-0": {
           "type": "text",
           "settings": {
-            "heading": "Clover",
+            "heading": "Primrose",
             "heading_size": "medium",
-            "text": "<p><\/p>",
+            "text": "",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -283,7 +284,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Taking inspiration from one of Molly’s favourite necklaces, a four-leaf clover encased in glass, this design uses pastel tones to create a fresh and peaceful feeling. The pattern features repeating four-leaf clovers, which are a well-recognised symbol of luck, love, hope and faith against a spotty background. The fabric is a 51% linen 49% cotton blend and is printed in the UK.<\/p>",
+            "text": "<p>This delightfully sweet design perfectly captures the spirit of the primrose flower. The delicate petals are deep indigo and sit on a sprig of bold, green leaves. Silhouettes of the primrose sprawl across the background in a pale blue hue, reminiscent of a clear morning sky.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -301,18 +302,17 @@
         "background": "#77a96b",
         "margin_top": "l",
         "margin_bot": "none",
-        "slides_title": "Explore our Clover swatches"
+        "slides_title": "Explore our Primrose swatches"
       }
     },
     "84bf896f-a2f9-4fcf-8367-f747a1521ffe": {
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "clover-printed-fabric-oyster-duck-egg",
-          "clover-printed-fabric-oyster-blue"
+          "primrose-block-printed-fabric-oyster-grass-sky"
         ],
         "show_secondary_image": true,
-        "centred": true
+        "centred": false
       }
     },
     "c067a1a2-fbde-4207-b8c6-8047be144e96": {
