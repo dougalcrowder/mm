@@ -755,7 +755,7 @@
         "template--14412154142778__08a4aa74-87d2-4201-a989-437309193a70-168268338430804205-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_blockprinting_dahlia_1800x1000_8c5274e1-df52-4854-86a9-9fb440c6d8dd.jpg",
+        "image": "shopify:\/\/shop_images\/blockprinting_marigold_kewel_1600x900_1c532996-956c-4ad1-bbdd-d16dc3103e66.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -780,6 +780,20 @@
           "settings": {
             "heading": "Marigold",
             "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "27c9a427-407a-4f14-baa9-625cafc05e64": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
             "text": "<p>Available in two beautiful colourways, our graphic Marigold fabric pays homage to one of Molly’s favourite flowers. Marigolds are a symbol of passion and creativity on the subcontinent which makes them a fitting motif for this floral linen fabric. The pattern features large, fluffy flowers with small, delicate leaves in uplifting colours that are sure to invoke cheeriness.   <\/p>",
             "button_label": "",
             "button_link": "",
@@ -791,7 +805,8 @@
         }
       },
       "block_order": [
-        "template--14412154142778__fea9a170-9cff-45e4-be57-7a6f9d8cdf21-16829446991d4a640a-0"
+        "template--14412154142778__fea9a170-9cff-45e4-be57-7a6f9d8cdf21-16829446991d4a640a-0",
+        "27c9a427-407a-4f14-baa9-625cafc05e64"
       ],
       "settings": {
         "background": "#cec367",
