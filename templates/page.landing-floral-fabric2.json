@@ -68,9 +68,9 @@
         "1662457041351d627c-0": {
           "type": "text",
           "settings": {
-            "heading": "Bagru",
+            "heading": "Pattee",
             "heading_size": "medium",
-            "text": "<p><\/p>",
+            "text": "<p>Hand block printed in Rajasthan onto 100% linen fabric, our Pattee design is based on interlaced, decorative fretwork and is inspired by the architecture and Persian gardens of Amber Fort, which is located in Amer, Jaipur. It comes in four bright colourways; turmeric, khaki, pink and blue, with each featuring a close-knit repeating pattern of floral shapes in complementary colours.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": false,
@@ -84,7 +84,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>This fresh, botanical pattern features a bright, solid colour background with the floral fronds encompassing the white space of the design. The small hand block print comes in two colourways, dark blue and pink, and has been applied to 100% floral cotton fabric.<\/p>",
+            "text": "<p>The pink floral fabric and blue floral fabric varieties are even available in two different types of linen: oyster and natural. The oyster linen offers a paler backdrop whilst the natural linen has a darker undertone.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -102,15 +102,16 @@
         "background": "#90bbe4",
         "margin_top": "l",
         "margin_bot": "none",
-        "slides_title": "Explore our Bagru swatches"
+        "slides_title": "Explore our Pattee swatches"
       }
     },
     "1664290368cec53b99": {
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "bagru-block-printed-fabric-cotton-dark-blue",
-          "bagru-block-printed-fabric-cotton-pink"
+          "pattee-block-printed-fabric-oyster-khaki",
+          "pattee-block-printed-fabric-oyster-pink",
+          "pattee-block-printed-fabric-oyster-blue"
         ],
         "show_secondary_image": true,
         "centred": true
