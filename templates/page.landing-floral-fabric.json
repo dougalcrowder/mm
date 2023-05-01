@@ -755,6 +755,7 @@
         "template--14412154142778__08a4aa74-87d2-4201-a989-437309193a70-168268338430804205-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/bloom_blockprinting_dahlia_1800x1000_8c5274e1-df52-4854-86a9-9fb440c6d8dd.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -769,6 +770,44 @@
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
+      }
+    },
+    "fea9a170-9cff-45e4-be57-7a6f9d8cdf21": {
+      "type": "feature-slides",
+      "blocks": {
+        "template--14412154142778__fea9a170-9cff-45e4-be57-7a6f9d8cdf21-16829446991d4a640a-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Marigold",
+            "heading_size": "medium",
+            "text": "<p>Available in two beautiful colourways, our graphic Marigold fabric pays homage to one of Molly’s favourite flowers. Marigolds are a symbol of passion and creativity on the subcontinent which makes them a fitting motif for this floral linen fabric. The pattern features large, fluffy flowers with small, delicate leaves in uplifting colours that are sure to invoke cheeriness.   <\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14412154142778__fea9a170-9cff-45e4-be57-7a6f9d8cdf21-16829446991d4a640a-0"
+      ],
+      "settings": {
+        "background": "#cec367",
+        "margin_top": "m",
+        "margin_bot": "none",
+        "slides_title": "Explore our Marigold Swatches"
+      }
+    },
+    "4c8e330d-99b2-4b53-83a8-635108f8c68b": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "marigold-block-printed-fabric-oyster-yellow"
+        ],
+        "show_secondary_image": true,
+        "centred": false
       }
     }
   },
@@ -795,6 +834,8 @@
     "16624584107026dd5b",
     "1662741707adb69b90",
     "b47e613b-df55-48f1-9568-2dc60d9b2bdb",
-    "08a4aa74-87d2-4201-a989-437309193a70"
+    "08a4aa74-87d2-4201-a989-437309193a70",
+    "fea9a170-9cff-45e4-be57-7a6f9d8cdf21",
+    "4c8e330d-99b2-4b53-83a8-635108f8c68b"
   ]
 }
