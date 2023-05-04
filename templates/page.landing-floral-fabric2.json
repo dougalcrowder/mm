@@ -534,14 +534,14 @@
         "template--14520652333114__ef399e6e-003d-4c41-89f1-8b90c975d92e-168319499027cb845e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "",
             "heading_type": "header1"
           }
         },
         "template--14520652333114__ef399e6e-003d-4c41-89f1-8b90c975d92e-168319499027cb845e-1": {
           "type": "text",
           "settings": {
-            "text": "Make yourself a home.",
+            "text": "",
             "go_serif": false,
             "constrain_text": false
           }
@@ -564,6 +564,7 @@
         "template--14520652333114__ef399e6e-003d-4c41-89f1-8b90c975d92e-168319499027cb845e-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/fabric_tulip_curtain_1800x1000_fbcea8b5-fd6f-4b9d-8244-f90f9f3b920d.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -586,6 +587,112 @@
         "template--14520652333114__39a20ec5-f00a-4b95-9339-337ef98b8e84-168319501369347bca-0": {
           "type": "text",
           "settings": {
+            "heading": "Tulip",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "82874a7f-72d0-41d8-90bb-401808b2858b": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Large, eye-catching flowers appear to line up ready to dance on this fabric, mimicking the movement that tulips make when caught in a light breeze. The design uses simple shapes, but the result is incredibly impactful. You can opt for deep, rich colours for a sophisticated feel or choose lighter, brighter tones for more playfulness.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14520652333114__39a20ec5-f00a-4b95-9339-337ef98b8e84-168319501369347bca-0",
+        "82874a7f-72d0-41d8-90bb-401808b2858b"
+      ],
+      "settings": {
+        "background": "#77a96b",
+        "margin_top": "m",
+        "margin_bot": "none",
+        "slides_title": "Explore our Tulip Swatches"
+      }
+    },
+    "6c18179d-88d9-4b32-8296-2a3ea457ec49": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+
+        ],
+        "show_secondary_image": true,
+        "centred": false
+      }
+    },
+    "48a5e636-2540-4af3-818d-926fb85443c5": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14520652333114__48a5e636-2540-4af3-818d-926fb85443c5-168319499027cb845e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        },
+        "template--14520652333114__48a5e636-2540-4af3-818d-926fb85443c5-168319499027cb845e-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14520652333114__48a5e636-2540-4af3-818d-926fb85443c5-168319499027cb845e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14520652333114__48a5e636-2540-4af3-818d-926fb85443c5-168319499027cb845e-0",
+        "template--14520652333114__48a5e636-2540-4af3-818d-926fb85443c5-168319499027cb845e-1",
+        "template--14520652333114__48a5e636-2540-4af3-818d-926fb85443c5-168319499027cb845e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WILDCARROT_CURTAIN.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "dd28d6e8-3f9b-4489-a421-046588b3dedb": {
+      "type": "feature-slides",
+      "blocks": {
+        "template--14520652333114__dd28d6e8-3f9b-4489-a421-046588b3dedb-168319501369347bca-0": {
+          "type": "text",
+          "settings": {
             "heading": "Image with text",
             "heading_size": "medium",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -599,23 +706,13 @@
         }
       },
       "block_order": [
-        "template--14520652333114__39a20ec5-f00a-4b95-9339-337ef98b8e84-168319501369347bca-0"
+        "template--14520652333114__dd28d6e8-3f9b-4489-a421-046588b3dedb-168319501369347bca-0"
       ],
       "settings": {
         "background": "",
         "margin_top": "m",
         "margin_bot": "m",
         "slides_title": "Check these out"
-      }
-    },
-    "6c18179d-88d9-4b32-8296-2a3ea457ec49": {
-      "type": "product-grid",
-      "settings": {
-        "product_list": [
-
-        ],
-        "show_secondary_image": true,
-        "centred": false
       }
     },
     "166196159906fadd3f": {
@@ -729,6 +826,8 @@
     "ef399e6e-003d-4c41-89f1-8b90c975d92e",
     "39a20ec5-f00a-4b95-9339-337ef98b8e84",
     "6c18179d-88d9-4b32-8296-2a3ea457ec49",
+    "48a5e636-2540-4af3-818d-926fb85443c5",
+    "dd28d6e8-3f9b-4489-a421-046588b3dedb",
     "166196159906fadd3f",
     "16619593053301a27e",
     "16619593508075d424",
