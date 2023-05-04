@@ -140,9 +140,9 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p><\/p>",
+            "text": "",
             "button_label": "Shop all our Floral fabric designs",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/fabric",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
