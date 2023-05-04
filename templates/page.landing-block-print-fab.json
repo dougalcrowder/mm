@@ -12,14 +12,14 @@
         "1642199348d668b6b2-0": {
           "type": "heading",
           "settings": {
-            "heading": "Floral Fabric by British Printmaker Molly Mahon",
+            "heading": "Block Print Fabric By British Printmaker Molly Mahon",
             "heading_type": "header1"
           }
         },
         "1642199348d668b6b2-1": {
           "type": "text",
           "settings": {
-            "text": "Shop our collection of floral patterned fabric, \nexclusively designed by British printmaker, Molly Mahon and\nEthically block printed in India by expert craftspeople.",
+            "text": "Shop our collection of hand block printed fabric, designed by British printmaker, Molly Mahon and crafted by skilled Indian artists.",
             "go_serif": false,
             "constrain_text": true
           }
@@ -73,14 +73,14 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "large",
-            "text": "<p>Shop our colourful collection of floral patterned fabric, with roots that can be found in Molly’s travels throughout India and her strolls in nature near her Sussex home. The collection includes fabrics adorned with bright bunches of classic English flowers to delicate ditsy prints inspired by the architecture of Jaipur.<\/p>",
+            "text": "<p>Take a look at our range of block-printed fabrics which are inspired by Molly's life and travels. Each and every design combines Molly’s love of colour, appreciation of pattern and passion for the artisan printing technique. There is a huge variety of designs to choose from including bold geometrics, stunning depictions of flora and fauna, and timeless patterns influenced by Indian architecture. <\/p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
             "text_align": "left",
             "button_label": "",
             "button_link": "",
-            "subtext": "<p><\/p>"
+            "subtext": ""
           }
         },
         "16422004280af4e324-1": {
@@ -124,9 +124,9 @@
         "16619521000b84ba87-0": {
           "type": "text",
           "settings": {
-            "heading": "Discover our most popular floral fabrics",
+            "heading": "Discover our best-selling block-printed fabric",
             "heading_size": "large",
-            "text": "<p>Taking inspiration from the British countryside and trips to India, Molly Mahon’s range of floral print fabric has been created so that you can bring the vividness, variety, and joy found in nature into your home.<\/p>",
+            "text": "<p>Molly Mahon is a renowned printmaker who lives with her husband and three children in their home in Sussex. She has always drawn inspiration and energy from nature, taking walks in nearby woodlands to renew her spirits, getting out in the fresh air for exercise and enjoying downtime in her natural surroundings.<\/p><p>She uses the parallel of freedom in nature and creativity to persuade her designs and recognises the colours, textures and patterns that are so effortlessly found in our natural world. The landscape of India has also heavily influenced her craft, after a trip to Jaipur helped further her appreciation of block printing and forged a longstanding connection with both the area and the artisans that are based there.  <\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -140,13 +140,13 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p><\/p>",
-            "button_label": "Shop all our Floral fabric designs",
-            "button_link": "",
+            "text": "<p>Each of our block print fabric designs is based on one of Molly's initial sketches that have been transformed into unique block prints. As well as block-printed fabric, Molly's fun and exciting patterns can also be found on<a href=\"https:\/\/mollymahon.com\/collections\/wallpaper\"> <span style=\"text-decoration:underline\">wallpaper<\/span><\/a>,<a href=\"https:\/\/mollymahon.com\/collections\/bed-bath\"> <span style=\"text-decoration:underline\">bedroom and bath accessories<\/span><\/a>, and<a href=\"https:\/\/mollymahon.com\/collections\/kitchen\"> <span style=\"text-decoration:underline\">kitchenware<\/span><\/a>.<\/p><p>Molly has also collaborated with well-known brands. For example, she partnered with<a href=\"https:\/\/mollymahon.com\/pages\/anthropologie-craft-week-molly-mahon\"> <span style=\"text-decoration:underline\">Anthropologie<\/span><\/a> for London Craft Week 2022, with a pop-up shop in the capital. She has also collaborated with<a href=\"https:\/\/mollymahon.com\/pages\/boden-molly-mahon\"> <span style=\"text-decoration:underline\">Boden<\/span><\/a> on a clothing range.<\/p><p>\"<em>Together we've merged our British sensibility and love for bold aesthetics<\/em>.\"<\/p>",
+            "button_label": "Meet Molly",
+            "button_link": "shopify:\/\/pages\/molly-mahon",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
-            "text_align": "center"
+            "text_align": "left"
           }
         }
       },
@@ -157,21 +157,6 @@
       "settings": {
         "margin_top": "sm",
         "margin_bot": "none"
-      }
-    },
-    "1661950917ca5910a9": {
-      "type": "product-grid",
-      "settings": {
-        "product_list": [
-          "primrose-block-printed-fabric-oyster-grass-sky",
-          "poppy-block-printed-fabric-oyster-mustard-sky-sample",
-          "tulip-block-printed-fabric-oyster-rose-grass-freesample",
-          "rose-block-printed-fabric-oyster-pink-sample",
-          "wild-carrot-block-printed-fabric-oyster-indigo",
-          "bagru-block-printed-fabric-cotton-pink"
-        ],
-        "show_secondary_image": true,
-        "centred": true
       }
     },
     "1661951966294ab962": {
@@ -213,6 +198,21 @@
       "settings": {
         "margin_top": "sm",
         "margin_bot": "m"
+      }
+    },
+    "1661950917ca5910a9": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "primrose-block-printed-fabric-oyster-grass-sky",
+          "poppy-block-printed-fabric-oyster-mustard-sky-sample",
+          "tulip-block-printed-fabric-oyster-rose-grass-freesample",
+          "rose-block-printed-fabric-oyster-pink-sample",
+          "wild-carrot-block-printed-fabric-oyster-indigo",
+          "bagru-block-printed-fabric-cotton-pink"
+        ],
+        "show_secondary_image": true,
+        "centred": true
       }
     },
     "166196159906fadd3f": {
@@ -831,8 +831,8 @@
     "16421993483b631460",
     "1642200428ac6075d8",
     "166195210128b91b49",
-    "1661950917ca5910a9",
     "1661951966294ab962",
+    "1661950917ca5910a9",
     "166196159906fadd3f",
     "16619593053301a27e",
     "16619593508075d424",
