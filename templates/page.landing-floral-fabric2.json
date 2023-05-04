@@ -45,7 +45,7 @@
         "16642902392f0d0d4b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FBAPINLIFECHAIR_f1bf1ab8-3200-4d2c-982c-a5b99b0d9837.jpg",
+        "image": "shopify:\/\/shop_images\/fabric_pattee_folded_1600x900_2b08116d-b9d1-4332-b1ac-158ad2c1589f.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -351,7 +351,7 @@
         "template--14412154142778__c067a1a2-fbde-4207-b8c6-8047be144e96-1676044712ca567e36-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DIANTHUS_FOURPOSTER_adcaab2f-9935-4e19-a522-382a1d9fa22a.jpg",
+        "image": "shopify:\/\/shop_images\/fabric_rose_pink_lauchshot_1600x900_c824744e-dceb-4257-a215-40019b5bc4e4.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -374,7 +374,7 @@
         "166245841038818ab0-0": {
           "type": "text",
           "settings": {
-            "heading": "Dianthus",
+            "heading": "Rose",
             "heading_size": "medium",
             "text": "",
             "button_label": "",
@@ -390,7 +390,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Dianthus uses rich, earthy tones and a large-scale pattern for a floral design that is refined yet cheerful. It comes in two wonderful varieties, rust & rose and indigo & iron, and features bunches of dianthus with their distinctive frilled petals and simple leaf shape.<\/p>",
+            "text": "<p>Roses have held heavy symbolism for centuries and are known for their beauty and fragrance. For some, they are seen as a metaphor for overcoming difficulties; their thorny stems representing hardships and the flower representing the reward of perseverance. For others, they represent romance and love. They have appeared in art and literature throughout the ages and now feature on this stunning fabric in the form of timeless, bold, repeating rosettes.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -408,7 +408,214 @@
         "background": "#ffc7ca",
         "margin_top": "l",
         "margin_bot": "none",
-        "slides_title": "Explore our Dianthus swatches"
+        "slides_title": "Explore our Rose swatches"
+      }
+    },
+    "e27a45d0-d5c0-4e2d-8acd-25228d2c0fac": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "rose-block-printed-fabric-oyster-pink"
+        ],
+        "show_secondary_image": true,
+        "centred": false
+      }
+    },
+    "1886a2f6-3f10-4cd9-8658-e9f9d6898d95": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14520652333114__1886a2f6-3f10-4cd9-8658-e9f9d6898d95-168319499027cb845e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        },
+        "template--14520652333114__1886a2f6-3f10-4cd9-8658-e9f9d6898d95-168319499027cb845e-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14520652333114__1886a2f6-3f10-4cd9-8658-e9f9d6898d95-168319499027cb845e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14520652333114__1886a2f6-3f10-4cd9-8658-e9f9d6898d95-168319499027cb845e-0",
+        "template--14520652333114__1886a2f6-3f10-4cd9-8658-e9f9d6898d95-168319499027cb845e-1",
+        "template--14520652333114__1886a2f6-3f10-4cd9-8658-e9f9d6898d95-168319499027cb845e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22_ac0320bc-2a3e-41fe-97a1-8015638a382e.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "3e218c25-3325-4a0d-b002-7e724c278356": {
+      "type": "feature-slides",
+      "blocks": {
+        "template--14520652333114__3e218c25-3325-4a0d-b002-7e724c278356-168319501369347bca-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Strawberry",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "8b4859cb-4940-4aa3-9faf-be08c52881d3": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>This ditsy print fabric is guaranteed to bring a touch of sweetness to your life. Packed full of British charm, the pattern features runners of strawberry fruits, delicate flowers, and toothed leaves. The nostalgic design is available in two varieties; grass, which uses vivid green, blush pink and rich red, and copper, which combines earthy and pastel tones.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14520652333114__3e218c25-3325-4a0d-b002-7e724c278356-168319501369347bca-0",
+        "8b4859cb-4940-4aa3-9faf-be08c52881d3"
+      ],
+      "settings": {
+        "background": "#90bbe4",
+        "margin_top": "m",
+        "margin_bot": "none",
+        "slides_title": "Check out our Strawberry swatches"
+      }
+    },
+    "e5a9a73e-3cc5-4909-89fa-b6535a2b8ca4": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "strawberry-block-printed-fabric-oyster-copper",
+          "strawberry-block-printed-fabric-oyster-grass"
+        ],
+        "show_secondary_image": true,
+        "centred": false
+      }
+    },
+    "ef399e6e-003d-4c41-89f1-8b90c975d92e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14520652333114__ef399e6e-003d-4c41-89f1-8b90c975d92e-168319499027cb845e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14520652333114__ef399e6e-003d-4c41-89f1-8b90c975d92e-168319499027cb845e-1": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14520652333114__ef399e6e-003d-4c41-89f1-8b90c975d92e-168319499027cb845e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14520652333114__ef399e6e-003d-4c41-89f1-8b90c975d92e-168319499027cb845e-0",
+        "template--14520652333114__ef399e6e-003d-4c41-89f1-8b90c975d92e-168319499027cb845e-1",
+        "template--14520652333114__ef399e6e-003d-4c41-89f1-8b90c975d92e-168319499027cb845e-2"
+      ],
+      "settings": {
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "39a20ec5-f00a-4b95-9339-337ef98b8e84": {
+      "type": "feature-slides",
+      "blocks": {
+        "template--14520652333114__39a20ec5-f00a-4b95-9339-337ef98b8e84-168319501369347bca-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "medium",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14520652333114__39a20ec5-f00a-4b95-9339-337ef98b8e84-168319501369347bca-0"
+      ],
+      "settings": {
+        "background": "",
+        "margin_top": "m",
+        "margin_bot": "m",
+        "slides_title": "Check these out"
+      }
+    },
+    "6c18179d-88d9-4b32-8296-2a3ea457ec49": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+
+        ],
+        "show_secondary_image": true,
+        "centred": false
       }
     },
     "166196159906fadd3f": {
@@ -515,6 +722,13 @@
     "84bf896f-a2f9-4fcf-8367-f747a1521ffe",
     "c067a1a2-fbde-4207-b8c6-8047be144e96",
     "16624584107026dd5b",
+    "e27a45d0-d5c0-4e2d-8acd-25228d2c0fac",
+    "1886a2f6-3f10-4cd9-8658-e9f9d6898d95",
+    "3e218c25-3325-4a0d-b002-7e724c278356",
+    "e5a9a73e-3cc5-4909-89fa-b6535a2b8ca4",
+    "ef399e6e-003d-4c41-89f1-8b90c975d92e",
+    "39a20ec5-f00a-4b95-9339-337ef98b8e84",
+    "6c18179d-88d9-4b32-8296-2a3ea457ec49",
     "166196159906fadd3f",
     "16619593053301a27e",
     "16619593508075d424",
