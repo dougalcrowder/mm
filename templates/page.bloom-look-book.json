@@ -118,10 +118,10 @@
         "margin_bot": "s"
       }
     },
-    "1642200518a7fda8c2": {
+    "164219987138634dcd": {
       "type": "image-banner",
       "blocks": {
-        "1642200518d925fc5a-0": {
+        "1642199871158d624e-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
@@ -129,7 +129,7 @@
             "heading_type": "header1"
           }
         },
-        "1642200518d925fc5a-1": {
+        "1642199871158d624e-1": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -138,7 +138,7 @@
             "constrain_text": false
           }
         },
-        "1642200518d925fc5a-2": {
+        "1642199871158d624e-2": {
           "type": "buttons",
           "disabled": true,
           "settings": {
@@ -152,9 +152,9 @@
         }
       },
       "block_order": [
-        "1642200518d925fc5a-0",
-        "1642200518d925fc5a-1",
-        "1642200518d925fc5a-2"
+        "1642199871158d624e-0",
+        "1642199871158d624e-1",
+        "1642199871158d624e-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_fireplace_vase_stripe_chequers_mughal_1800x1000_88b23029-d46f-4c8f-a867-e20f80ff119d.jpg",
@@ -288,7 +288,7 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "subtext": ""
           }
@@ -313,55 +313,11 @@
             "button_link": "",
             "subtext": ""
           }
-        },
-        "401b5383-807d-44eb-b7d4-e48c4d8edb72": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_fabric_collection_folded_chair_1300x1300_2a296c6f-5293-4b0d-a57b-648883f140d8.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "8980039a-0e1d-4c80-b3c5-97cb8d4d559a": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_molesworth_table_bread_dahlia_indigo_peach_1300x1300_b14fdd37-ceaa-4528-bb92-80464fabafe3.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
         }
       },
       "block_order": [
         "16422001204a1c609c-0",
-        "16422001204a1c609c-1",
-        "401b5383-807d-44eb-b7d4-e48c4d8edb72",
-        "8980039a-0e1d-4c80-b3c5-97cb8d4d559a"
+        "16422001204a1c609c-1"
       ],
       "settings": {
         "mc_title": "",
@@ -854,105 +810,6 @@
         "centred": false
       }
     },
-    "f996b954-9ccc-41a2-b3c8-ed6944f25f2e": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_molesworth_table_dahlia_indigo_peach_1300x1300_c0b59f91-bb49-47e1-a73b-c4d9af4d7f9e.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_molesworth_portrait_wheelbarrow_1300x1300_cf3aad3b-a6ab-4a31-8b9b-dfb87b42ae00.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-0",
-        "template--14530599157818__f996b954-9ccc-41a2-b3c8-ed6944f25f2e-167827864047f1538e-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "s",
-        "margin_bot": "none"
-      }
-    },
-    "16422008725e9ed78b": {
-      "type": "image-with-text",
-      "blocks": {
-        "16422008727ca7d834-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "16422008727ca7d834-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>",
-            "code": ""
-          }
-        },
-        "16422008727ca7d834-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16422008727ca7d834-0",
-        "16422008727ca7d834-1",
-        "16422008727ca7d834-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_blockprinting_widestripe_1200x1500_ad6eb0ac-b3fd-4fd8-b1a5-5b5f2e05e0e2.jpg",
-        "title": "",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first"
-      }
-    },
     "164220080956567f6c": {
       "type": "image-banner",
       "blocks": {
@@ -1004,7 +861,7 @@
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "none",
-        "margin_bot": "m",
+        "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
       }
@@ -1217,7 +1074,7 @@
     "main",
     "16421993483b631460",
     "1642199705a651e06d",
-    "1642200518a7fda8c2",
+    "164219987138634dcd",
     "1642199952e1e0a22d",
     "1642200048cc9bdbd0",
     "16422001205209dc50",
