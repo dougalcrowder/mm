@@ -810,16 +810,6 @@
         "slides_title": "Explore our Marigold Swatches"
       }
     },
-    "4c8e330d-99b2-4b53-83a8-635108f8c68b": {
-      "type": "product-grid",
-      "settings": {
-        "product_list": [
-          "marigold-block-printed-fabric-oyster-yellow"
-        ],
-        "show_secondary_image": true,
-        "centred": false
-      }
-    },
     "f2d67f99-2eea-4df9-8b40-67518d2ffcb0": {
       "type": "custom-liquid",
       "settings": {
@@ -851,7 +841,6 @@
     "b47e613b-df55-48f1-9568-2dc60d9b2bdb",
     "08a4aa74-87d2-4201-a989-437309193a70",
     "fea9a170-9cff-45e4-be57-7a6f9d8cdf21",
-    "4c8e330d-99b2-4b53-83a8-635108f8c68b",
     "f2d67f99-2eea-4df9-8b40-67518d2ffcb0"
   ]
 }
