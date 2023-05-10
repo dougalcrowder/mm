@@ -109,12 +109,12 @@
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
-            "button_color": "white",
+            "button_color": "dark",
             "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
+            "desktop_text_box_position": "end",
             "text_align": "center",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Explore the Bloom collection",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         },
@@ -135,7 +135,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         }
@@ -177,10 +177,10 @@
           "type": "buttons",
           "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections\/bloom",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -271,10 +271,10 @@
           "type": "buttons",
           "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections\/bloom",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -323,7 +323,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         },
@@ -344,7 +344,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         }
@@ -382,7 +382,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         },
@@ -403,7 +403,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         }
@@ -659,10 +659,10 @@
           "type": "buttons",
           "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections\/bloom",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -911,8 +911,8 @@
           "type": "button",
           "disabled": true,
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "",
+            "button_link": "shopify:\/\/collections\/bloom-home-goods"
           }
         }
       },
