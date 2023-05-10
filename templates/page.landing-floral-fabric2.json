@@ -6,6 +6,16 @@
       "settings": {
       }
     },
+    "proderwodders": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "marigold-block-printed-fabric-oyster-yellow"
+        ],
+        "show_secondary_image": true,
+        "centred": false
+      }
+    },
     "16642902403436f598": {
       "type": "image-banner",
       "blocks": {
@@ -746,6 +756,7 @@
   },
   "order": [
     "main",
+    "proderwodders",
     "16642902403436f598",
     "166245704164214430",
     "1664290368cec53b99",
