@@ -331,7 +331,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "s",
+        "margin_top": "m",
         "margin_bot": "none"
       }
     },
@@ -394,27 +394,6 @@
         "margin_bot": "none"
       }
     },
-    "a1bd49c7-a559-433b-8fe8-f870c8ca3fe6": {
-      "type": "instagram-grid",
-      "blocks": {
-        "template--14540783288378__a1bd49c7-a559-433b-8fe8-f870c8ca3fe6-16791365409b4770a5-0": {
-          "type": "Instalink",
-          "settings": {
-            "author": "@mollymahon",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14540783288378__a1bd49c7-a559-433b-8fe8-f870c8ca3fe6-16791365409b4770a5-0"
-      ],
-      "settings": {
-        "title": "",
-        "subtitle": "",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
     "1657786602be65cc53": {
       "type": "multicolumn",
       "blocks": {
@@ -423,7 +402,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_mughal_peachsabgreen_1000x1500_d71c81e4-0657-4566-8efb-00b35880052b.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_7510.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -444,7 +423,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_mughal_sky_pistachio_1000x1500_9ec10d54-a8d0-4953-99ba-b3698db2a3df.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_7971.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -474,45 +453,63 @@
         "margin_bot": "none"
       }
     },
-    "165778780802bdc2a5": {
-      "type": "image-with-text",
+    "a6a4928c-9f03-44d6-8959-7d44dcc0ddf7": {
+      "type": "multicolumn",
       "blocks": {
-        "16577878084a1c05f7-0": {
-          "type": "heading",
-          "disabled": true,
+        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-0": {
+          "type": "column",
           "settings": {
-            "heading": "Image with text"
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/38929335-29e3-45ce-8993-d2b8aac06e95.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
           }
         },
-        "16577878084a1c05f7-1": {
-          "type": "text",
-          "disabled": true,
+        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-1": {
+          "type": "column",
           "settings": {
-            "text": "<p>Bringing to life the wonder of Primrose, Wild Carrot and Dianthus flowers and importantly highlighting the beauty of nature and the mighty great outdoors and recognising that it is a wonder to behold and to protect.<\/p><p><\/p><p>I have so much reverence for the power and beauty of nature and am thrilled to celebrate it in this new collection.<\/p>",
-            "code": ""
-          }
-        },
-        "16577878084a1c05f7-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/IMG_7858.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
           }
         }
       },
       "block_order": [
-        "16577878084a1c05f7-0",
-        "16577878084a1c05f7-1",
-        "16577878084a1c05f7-2"
+        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-0",
+        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_flower_dahlia_indigo_peach_1300x1500_614d0bde-689a-4c76-831f-a871b32af081.jpg",
-        "title": "A Seasonal Setting",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first"
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "l",
+        "margin_bot": "l"
       }
     },
     "16577879925ee322e6": {
@@ -523,7 +520,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_dahlia_crimson_indigo_1000x1500_16f95043-0e49-47d3-aca6-698ff7ac182b.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_2813.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -544,7 +541,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_molesworth_hat_hedge_dahlia_1000x1500_9677a270-c587-4e9d-971f-1f593b007bbc.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_7420.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -572,6 +569,118 @@
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
+      }
+    },
+    "516ff25a-0e57-485f-9e18-cac034fcd2b8": {
+      "type": "instagram-grid",
+      "blocks": {
+        "template--14540783288378__516ff25a-0e57-485f-9e18-cac034fcd2b8-1684489918e59ee5c3-0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/IMG_7693.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "ad7cb1c8-c0f1-4318-bc29-df5eedcaafe0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/IMG_7724.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "0d9c8c54-6421-4302-8028-c3cd28ee1483": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/IMG_7732.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "57332030-4185-4b77-b772-5cf84275bc61": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/IMG_7740.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "10c9830e-dfa3-486f-9d7e-bb51d104e8ba": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/IMG_7812.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "bd3e23a3-4642-43a9-a29a-bd1f9a83f2a7": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/IMG_7943.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "8b5b32d5-1d1b-4646-85d6-e594cff786a7": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/IMG_7897.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "c9053380-6176-4a36-ab8a-1b4d3164cb22": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/IMG_7886.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "63e2d588-8e65-4cc3-9dff-855aa079c9e7": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/IMG_7932.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "74b6289c-cbfc-4e58-8c97-00d2bfd9cee9": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/IMG_7916.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "385310c9-f9c4-4599-8ca2-bc74491e4fb6": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/IMG_7870.jpg",
+            "author": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14540783288378__516ff25a-0e57-485f-9e18-cac034fcd2b8-1684489918e59ee5c3-0",
+        "ad7cb1c8-c0f1-4318-bc29-df5eedcaafe0",
+        "0d9c8c54-6421-4302-8028-c3cd28ee1483",
+        "57332030-4185-4b77-b772-5cf84275bc61",
+        "10c9830e-dfa3-486f-9d7e-bb51d104e8ba",
+        "bd3e23a3-4642-43a9-a29a-bd1f9a83f2a7",
+        "8b5b32d5-1d1b-4646-85d6-e594cff786a7",
+        "c9053380-6176-4a36-ab8a-1b4d3164cb22",
+        "63e2d588-8e65-4cc3-9dff-855aa079c9e7",
+        "74b6289c-cbfc-4e58-8c97-00d2bfd9cee9",
+        "385310c9-f9c4-4599-8ca2-bc74491e4fb6"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "button_label": "",
+        "button_link": ""
       }
     },
     "16577876993a1651a0": {
@@ -628,65 +737,6 @@
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
-      }
-    },
-    "a6a4928c-9f03-44d6-8959-7d44dcc0ddf7": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_vase_blues_1000x1500_2f08c37b-0ace-4cd2-b0c1-6eb1fe7d36cc.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_chequers_1000x1500_e5bb20bf-4aa5-40fd-b2e4-bf2e48aa91db.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-0",
-        "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "s",
-        "margin_bot": "none"
       }
     },
     "995c97be-2085-4ac0-9b5d-5c6fca04b06b": {
@@ -748,62 +798,6 @@
         "margin_bot": "m"
       }
     },
-    "16577883639ab33180": {
-      "type": "image-banner",
-      "blocks": {
-        "16577883634e8747c8-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "16577883634e8747c8-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "16577883634e8747c8-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16577883634e8747c8-0",
-        "16577883634e8747c8-1",
-        "16577883634e8747c8-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_barn_widestripe_mughal_flowers_1800x1000_22d83d16-9e4e-4027-bb97-26f67c4bb5bb.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": true,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
     "1657807750e4739f83": {
       "type": "simple-button",
       "settings": {
@@ -822,14 +816,12 @@
     "1657786090cc89e628",
     "165778620611418523",
     "cc253307-1a74-468a-a7d6-2b5cce7c66ad",
-    "a1bd49c7-a559-433b-8fe8-f870c8ca3fe6",
     "1657786602be65cc53",
-    "165778780802bdc2a5",
-    "16577879925ee322e6",
-    "16577876993a1651a0",
     "a6a4928c-9f03-44d6-8959-7d44dcc0ddf7",
+    "16577879925ee322e6",
+    "516ff25a-0e57-485f-9e18-cac034fcd2b8",
+    "16577876993a1651a0",
     "995c97be-2085-4ac0-9b5d-5c6fca04b06b",
-    "16577883639ab33180",
     "1657807750e4739f83"
   ]
 }
