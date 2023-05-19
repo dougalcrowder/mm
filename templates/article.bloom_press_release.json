@@ -698,7 +698,7 @@
         "template--14540783288378__a771730f-9704-4631-adbf-8bb07c43b9a8-16844960500d7f5de1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/22WSUM_T0966_BLU_W01_254.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_barn_firepalce_curtains_chairs_1800x1000_53ce18af-b71a-4b8f-922c-3ca2c78837b4.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -718,9 +718,9 @@
     "1657807750e4739f83": {
       "type": "simple-button",
       "settings": {
-        "label": "Back to Press Releases",
-        "link": "",
-        "color_scheme": "red"
+        "label": "Explore the Bloom Collection",
+        "link": "shopify:\/\/blogs\/look-books\/the-bloom-fabric-collection",
+        "color_scheme": "dark"
       }
     }
   },
