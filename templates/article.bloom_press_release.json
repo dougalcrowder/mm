@@ -58,7 +58,7 @@
         "1657730007a25f7230-0": {
           "type": "heading",
           "settings": {
-            "heading": "Boden Press Release",
+            "heading": "Bloom Press Release",
             "heading_type": "header1"
           }
         },
@@ -88,7 +88,7 @@
         "1657730007a25f7230-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
+        "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_FABRIC_HANGING_1800x1000_f1ef614b-2f76-4394-9af6-e55747253919.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -113,7 +113,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/PORTRAIT_MOLLYMAHON_BODEN_COLLAB_CLOTHES_RAIL_1300x1300_3b1c27c8-255f-435b-91b5-ee33d2ab0dd4.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_FLOWERS_1300x1300_1ea914be-1cd8-4033-a193-2b9e3777b9ec.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -134,7 +134,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FLORAL_MINI_BODEN_TOP.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_SPEECH_1300x1300_fed9d69d-95d4-4a6b-84d5-f116077cf613.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -162,62 +162,6 @@
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
-      }
-    },
-    "1657730380748266d7": {
-      "type": "image-banner",
-      "blocks": {
-        "1657730379dcd0a206-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "1657730379dcd0a206-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "1657730379dcd0a206-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1657730379dcd0a206-0",
-        "1657730379dcd0a206-1",
-        "1657730379dcd0a206-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/22WSUM_T0966_BLU_W01_263.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": true,
-        "constrain": true,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
       }
     },
     "1657786090cc89e628": {
@@ -259,7 +203,7 @@
         "1657786090a56f700f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_7561.jpg",
+        "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP_1800x1000_d08e6a04-9338-4402-9e71-a1eeef5af6b4.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -284,7 +228,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/IMG_2805.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_AMIE_1300x1300_c595c62a-f677-475f-8dfa-a766065405ef.jpg",
             "auto_height": "portrait",
             "cover": false,
             "title": "",
@@ -305,7 +249,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/IMG_7380.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_PACKAGE_1300x1300_8685a41a-0076-451a-9ad0-ab2ac1606570.jpg",
             "auto_height": "portrait",
             "cover": false,
             "title": "",
@@ -343,7 +287,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/IMG_7395_8f68038f-3cce-4f92-9661-23c4189fdc24.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUESTGIFTPACKAGE_1300x1300_bd1ec17f-0bf4-4e20-8e96-81aa0261a4d4.jpg",
             "auto_height": "portrait",
             "cover": false,
             "title": "",
@@ -364,7 +308,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/IMG_7623.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_TABLE_1300x1300_0ef9b64c-77f6-49ca-b3d3-86dee75c38cf.jpg",
             "auto_height": "portrait",
             "cover": false,
             "title": "",
@@ -394,6 +338,91 @@
         "margin_bot": "none"
       }
     },
+    "516ff25a-0e57-485f-9e18-cac034fcd2b8": {
+      "type": "instagram-grid",
+      "blocks": {
+        "ad7cb1c8-c0f1-4318-bc29-df5eedcaafe0": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST1_1300x1300_0ca0c8e9-c51e-4b2b-bee8-01c9658105d4.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "0d9c8c54-6421-4302-8028-c3cd28ee1483": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST2_1300x1300_08482b17-e9cb-4107-a99e-e246c5f55392.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "57332030-4185-4b77-b772-5cf84275bc61": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST3_1300x1300_03419c77-e53d-45c7-a95d-506f77f2c9c7.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "970f8469-be12-4df2-9656-899d2aa0206e": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST4_1300x1300_0911d4fa-a611-422b-895e-de1e7beef0f3.jpg",
+            "author": "@mollymahon",
+            "link": ""
+          }
+        },
+        "bd3e23a3-4642-43a9-a29a-bd1f9a83f2a7": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST5_1300x1300_e493cd49-6e48-4cc4-86b1-36453633cf62.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "63e2d588-8e65-4cc3-9dff-855aa079c9e7": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST6_1300x1300_681f0573-a4b0-4dd1-88c7-f090f151ae0b.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "74b6289c-cbfc-4e58-8c97-00d2bfd9cee9": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST7_1300x1300_4c602066-7bd1-4f74-8f77-c4d84de1ab46.jpg",
+            "author": "",
+            "link": ""
+          }
+        },
+        "8b5b32d5-1d1b-4646-85d6-e594cff786a7": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST8_1300x1300_0010270d-64d0-4b28-af02-9e2e3203d4d4.jpg",
+            "author": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "ad7cb1c8-c0f1-4318-bc29-df5eedcaafe0",
+        "0d9c8c54-6421-4302-8028-c3cd28ee1483",
+        "57332030-4185-4b77-b772-5cf84275bc61",
+        "970f8469-be12-4df2-9656-899d2aa0206e",
+        "bd3e23a3-4642-43a9-a29a-bd1f9a83f2a7",
+        "63e2d588-8e65-4cc3-9dff-855aa079c9e7",
+        "74b6289c-cbfc-4e58-8c97-00d2bfd9cee9",
+        "8b5b32d5-1d1b-4646-85d6-e594cff786a7"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
     "1657786602be65cc53": {
       "type": "multicolumn",
       "blocks": {
@@ -402,7 +431,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/IMG_7510.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_FOOD_1300x1300_7c58d4c2-7ea9-4cf5-9f0a-5c91b8ef0fd0.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -423,7 +452,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/IMG_7971.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_FOOD1_1300x1300_82b33b94-791a-43b1-b461-322582e79a4f.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -459,9 +488,9 @@
         "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-0": {
           "type": "column",
           "settings": {
-            "width": "two_thirds",
+            "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BODEN_PRESS_PORTRAIT_1200x875_f20d55a1-aa2f-4e56-8527-f6aea807d01e.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP2_1000x1500_9060dd0a-518d-429e-8746-eb182264ae32.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -480,9 +509,9 @@
         "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-1": {
           "type": "column",
           "settings": {
-            "width": "one_third",
+            "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BODEN_PRESS_DRINK_7858_1000x1500_3ca1c2dd-5803-4993-901f-197252be41fe.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP1_1000x1500_2d1c6f59-9fc7-4445-8c8c-3439b0548f85.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -520,7 +549,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BODEN_PRESS_TABLE_2813_1000x1500_37e3d7c9-3ead-420c-9b99-5af90c399338.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP3_1300x1300_7f0d925c-b96a-4193-9e90-cbca5f856f5d.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -541,7 +570,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/IMG_7420.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP4_1300x1300_f05d0c31-41dc-4be2-99f0-a09c72b469c9.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -571,109 +600,6 @@
         "margin_bot": "m"
       }
     },
-    "516ff25a-0e57-485f-9e18-cac034fcd2b8": {
-      "type": "instagram-grid",
-      "blocks": {
-        "ad7cb1c8-c0f1-4318-bc29-df5eedcaafe0": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/IMG_7724.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "0d9c8c54-6421-4302-8028-c3cd28ee1483": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/IMG_7732.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "57332030-4185-4b77-b772-5cf84275bc61": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/IMG_7740.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "970f8469-be12-4df2-9656-899d2aa0206e": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BODEN_PRESS_GUEST_7835_1300x1300_67a24560-86f3-4c12-9cf8-d3c843f2cae2.jpg",
-            "author": "@mollymahon",
-            "link": ""
-          }
-        },
-        "bd3e23a3-4642-43a9-a29a-bd1f9a83f2a7": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/IMG_7943.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "63e2d588-8e65-4cc3-9dff-855aa079c9e7": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/IMG_7932.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "74b6289c-cbfc-4e58-8c97-00d2bfd9cee9": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/IMG_7916.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "8b5b32d5-1d1b-4646-85d6-e594cff786a7": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/IMG_7897.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "c9053380-6176-4a36-ab8a-1b4d3164cb22": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/IMG_7886.jpg",
-            "author": "",
-            "link": ""
-          }
-        },
-        "385310c9-f9c4-4599-8ca2-bc74491e4fb6": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/IMG_7870.jpg",
-            "author": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "ad7cb1c8-c0f1-4318-bc29-df5eedcaafe0",
-        "0d9c8c54-6421-4302-8028-c3cd28ee1483",
-        "57332030-4185-4b77-b772-5cf84275bc61",
-        "970f8469-be12-4df2-9656-899d2aa0206e",
-        "bd3e23a3-4642-43a9-a29a-bd1f9a83f2a7",
-        "63e2d588-8e65-4cc3-9dff-855aa079c9e7",
-        "74b6289c-cbfc-4e58-8c97-00d2bfd9cee9",
-        "8b5b32d5-1d1b-4646-85d6-e594cff786a7",
-        "c9053380-6176-4a36-ab8a-1b4d3164cb22",
-        "385310c9-f9c4-4599-8ca2-bc74491e4fb6"
-      ],
-      "settings": {
-        "title": "",
-        "subtitle": "",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
     "995c97be-2085-4ac0-9b5d-5c6fca04b06b": {
       "type": "multicolumn",
       "blocks": {
@@ -682,7 +608,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BODEN_WOMENS_SHIRTS_LIFESTYLE_11f238f3-9bf1-419c-906c-25effbf71bde.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP5_1300x1300_54a5d186-78a9-43fe-906f-2c07ae87a2cd.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -703,7 +629,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BODEN_WOMEN_DAYDRESS_LIFESTYLE_d97e2619-bc81-4d78-802a-f4701f55d4de.jpg",
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP6_1300x1300_095bd508-a681-45a8-8375-70161c41f940.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -803,14 +729,13 @@
     "164975103076740208",
     "16577300071f976c5e",
     "1657730156eeff869f",
-    "1657730380748266d7",
     "1657786090cc89e628",
     "165778620611418523",
     "cc253307-1a74-468a-a7d6-2b5cce7c66ad",
+    "516ff25a-0e57-485f-9e18-cac034fcd2b8",
     "1657786602be65cc53",
     "a6a4928c-9f03-44d6-8959-7d44dcc0ddf7",
     "16577879925ee322e6",
-    "516ff25a-0e57-485f-9e18-cac034fcd2b8",
     "995c97be-2085-4ac0-9b5d-5c6fca04b06b",
     "a771730f-9704-4631-adbf-8bb07c43b9a8",
     "1657807750e4739f83"
