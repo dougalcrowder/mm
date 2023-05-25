@@ -13,13 +13,13 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_MOBILE.jpg",
+            "image": "shopify:\/\/shop_images\/greencombe_sample_collection_table_berry_flowers_1000x1500_c70702be-d6b9-4785-8739-930f9aaa3a29.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "MM Service",
             "subtitle": "We have an in house trade team who are friendly and dedicated to help you.",
             "subtitle_size": "small",
-            "text": "<p>How can we help you?   trade@mollymahon.com<\/p>",
+            "text": "<p>How can we help?   trade@mollymahon.com<\/p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -34,7 +34,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/CUSHIONS_PINK_1300x1300_4744c470-59df-453f-a9d7-c809fe6ceb3b.jpg",
+            "image": "shopify:\/\/shop_images\/CUSHIONS_PINK_1000x1500_c84a2bcd-1847-445c-b4ad-139ef243efa0.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "Bespoke",
@@ -55,19 +55,19 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/marigold_pink.jpg",
+            "image": "shopify:\/\/shop_images\/EMERALD_GREEN_F_B-MARIGOLD_PINKGREEN_ROSE_PINK1000x1500.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "Sampling",
-            "subtitle": "Contact us and we will help you",
+            "subtitle": "Contact us to order your samples",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p>trade@mollymahon.com<\/p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "mailto:trade@mollymahon.com",
             "subtext": ""
           }
         }
@@ -82,7 +82,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
+        "margin_top": "sm",
         "margin_bot": "m"
       }
     }
