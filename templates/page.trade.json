@@ -5,154 +5,90 @@
       "settings": {
       }
     },
-    "1649176713d7622936": {
-      "type": "press",
+    "df074c33-3bfa-42af-b079-0a9cde64c27e": {
+      "type": "multicolumn",
       "blocks": {
-        "304a580f-772b-4578-9ff9-1952d3735cd5": {
-          "type": "press_block",
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-0": {
+          "type": "column",
           "settings": {
-            "author": "Salon",
-            "insta_image": "shopify:\/\/shop_images\/salon_cover.webp",
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/Salon_cOVER_ff267bc5-9d7f-4708-8771-6c70093e021d_1000x_crop_center.jpg?v=1586868132"
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_MOBILE.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "MM Service",
+            "subtitle": "We have an in house trade team who are friendly and dedicated to help you.",
+            "subtitle_size": "small",
+            "text": "<p>How can we help you?   trade@mollymahon.com<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
           }
         },
-        "52cce592-608a-4742-876b-48958321c818": {
-          "type": "press_block",
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-1": {
+          "type": "column",
           "settings": {
-            "author": "House & Garden",
-            "insta_image": "shopify:\/\/shop_images\/Houses_and_Garden_Sep_2019.webp",
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/Houses_and_Garden_Sep_Cover_148b7fbd-b4cd-4d93-bf58-be7cae3ae2a4_1000x_crop_center.jpg?v=1586868090"
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/CUSHIONS_PINK_1300x1300_4744c470-59df-453f-a9d7-c809fe6ceb3b.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "Bespoke",
+            "subtitle": "We work closely with trade accounts and provide a bespoke service making products to clients needs that are not in stock.",
+            "subtitle_size": "small",
+            "text": "<p>Enquire at trade@mollymahon.com<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
           }
         },
-        "088753ba-280c-4399-9980-91823326c685": {
-          "type": "press_block",
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-2": {
+          "type": "column",
           "settings": {
-            "author": "Homes & Gardens",
-            "insta_image": "shopify:\/\/shop_images\/Homes_And_Gardens.webp",
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/Homes_And_Gardens_Sep_p43.pdf?v=1614308648"
-          }
-        },
-        "eca627d6-491e-4b79-bf73-9d354f9eba2b": {
-          "type": "press_block",
-          "settings": {
-            "author": "The World of Interiors",
-            "insta_image": "shopify:\/\/shop_images\/w_o_i.webp",
-            "link": ""
-          }
-        },
-        "c4750ac8-21be-4e1c-8bce-6693cc2a208b": {
-          "type": "press_block",
-          "settings": {
-            "author": "The English Home",
-            "insta_image": "shopify:\/\/shop_images\/English_Home_Cover.webp",
-            "link": ""
-          }
-        },
-        "c01ad706-c54f-444b-b1fa-b2fd09b6ec04": {
-          "type": "press_block",
-          "settings": {
-            "author": "Country Homes & Interiors",
-            "insta_image": "shopify:\/\/shop_images\/COUNTRY_HOMES_JUNE_cover.webp",
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/COUNTRY_HOMES_JUNE_p75.jpg"
-          }
-        },
-        "f7c3cdc4-0dce-4a96-8379-19eac4d7fce2": {
-          "type": "press_block",
-          "settings": {
-            "author": "Surrey Homes",
-            "insta_image": "shopify:\/\/shop_images\/Surrey_Homes_Cover.webp",
-            "link": ""
-          }
-        },
-        "309bd8c9-4f8f-4767-a61b-c3418c018da2": {
-          "type": "press_block",
-          "settings": {
-            "author": "Country Life",
-            "insta_image": "shopify:\/\/shop_images\/C_Life_April_1.webp",
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/C_Life_April_p88.jpg?v=1579528575"
-          }
-        },
-        "c775ec51-9f16-4156-a6f1-1a1adbfc2fae": {
-          "type": "press_block",
-          "settings": {
-            "author": "Homes & Gardens",
-            "insta_image": "shopify:\/\/shop_images\/Homes_and_Garden_May_Cover1_d4f9d595-783c-4d63-ae55-38b1cb838f61.jpg",
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/Homes_and_Garden_May_p57.pdf?v=1614312110"
-          }
-        },
-        "f04c108a-456a-4c2e-906f-2b2239ed140b": {
-          "type": "press_block",
-          "settings": {
-            "author": "Country Homes & Gardens",
-            "insta_image": "shopify:\/\/shop_images\/Country_Homes_and_Garden_May.jpg",
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/CountryHomesMay19.pdf?v=1614312115"
-          }
-        },
-        "5a687718-0a3d-4a08-8fd3-65ab703f9c13": {
-          "type": "press_block",
-          "settings": {
-            "author": "Milieu",
-            "insta_image": "shopify:\/\/shop_images\/Milieu.webp",
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/dummy.pdf?1717"
-          }
-        },
-        "f49fcf72-79a4-41c4-8714-3bdca01a924a": {
-          "type": "press_block",
-          "settings": {
-            "author": "House & Garden",
-            "insta_image": "shopify:\/\/shop_images\/Homes_and_Garden_May_Cover3.jpg",
-            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/H_GOCT18LUNABLUETURMERIC.pdf?v=1614312116"
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/marigold_pink.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "Sampling",
+            "subtitle": "Contact us and we will help you",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
           }
         }
       },
       "block_order": [
-        "304a580f-772b-4578-9ff9-1952d3735cd5",
-        "52cce592-608a-4742-876b-48958321c818",
-        "088753ba-280c-4399-9980-91823326c685",
-        "eca627d6-491e-4b79-bf73-9d354f9eba2b",
-        "c4750ac8-21be-4e1c-8bce-6693cc2a208b",
-        "c01ad706-c54f-444b-b1fa-b2fd09b6ec04",
-        "f7c3cdc4-0dce-4a96-8379-19eac4d7fce2",
-        "309bd8c9-4f8f-4767-a61b-c3418c018da2",
-        "c775ec51-9f16-4156-a6f1-1a1adbfc2fae",
-        "f04c108a-456a-4c2e-906f-2b2239ed140b",
-        "5a687718-0a3d-4a08-8fd3-65ab703f9c13",
-        "f49fcf72-79a4-41c4-8714-3bdca01a924a"
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-0",
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-1",
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-2"
       ],
       "settings": {
-        "title": "",
-        "subtitle": "",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
-    "1649431605dff5ed3d": {
-      "type": "press",
-      "blocks": {
-        "1649431605d0d6ae2a-0": {
-          "type": "press_block",
-          "disabled": true,
-          "settings": {
-            "author": "House & Garden",
-            "insta_image": "shopify:\/\/shop_images\/DEC_21_HOUSE_GARDEN-058.jpg",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1649431605d0d6ae2a-0"
-      ],
-      "settings": {
-        "title": "",
-        "subtitle": "",
-        "button_label": "",
-        "button_link": ""
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     }
   },
   "order": [
     "main",
-    "1649176713d7622936",
-    "1649431605dff5ed3d"
+    "df074c33-3bfa-42af-b079-0a9cde64c27e"
   ]
 }
