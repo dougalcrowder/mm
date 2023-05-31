@@ -41,17 +41,6 @@
       "settings": {
       }
     },
-    "164975103076740208": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Shop Quilts",
-        "collection": "bedding-1",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "show_secondary_image": false
-      }
-    },
     "16577300071f976c5e": {
       "type": "image-banner",
       "blocks": {
@@ -120,12 +109,12 @@
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
-            "button_color": "white",
+            "button_color": "dark",
             "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
+            "desktop_text_box_position": "end",
             "text_align": "center",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Explore the Bloom collection",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         },
@@ -146,7 +135,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         }
@@ -186,12 +175,11 @@
         },
         "1657730379dcd0a206-2": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections\/bloom",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -225,16 +213,14 @@
       "blocks": {
         "1657785887e07c69d0-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": ""
+            "heading": "Introducing Bloom by Molly Mahon"
           }
         },
         "1657785887e07c69d0-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Being outside has always been a place of great happiness to me. It is where I feel most inspired. Whether this is in my own garden, the hills of Scotland, the incredible flower fields of India or the wild hedgerows of the British countryside it's the joy of the colours and the beauty of nature's offerings that most inspire me. I am delighted to celebrate this in my collection Greencombe.<\/p>",
+            "text": "<p>\"Each new collection starts with a seed of an idea and then, like a glorious bloom, it pokes its head out of the ground and starts to wind its way upwards, resulting in a full and open collection of colourful pattern, its face turned towards the sun bursting forth with joy and delight.\"<\/p><p>It was this notion that inspired the beginnings of bloom. Originally called 'Dahlia Mania', the first of 5 new patterns Molly designed in this collection is a pure celebration of this wonderful flower in all her multitude of colour.<\/p>",
             "code": ""
           }
         },
@@ -254,7 +240,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/MM_Molesworth-55.jpg",
         "title": "",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
@@ -284,10 +270,10 @@
           "type": "buttons",
           "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections\/bloom",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -336,7 +322,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         },
@@ -357,7 +343,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         }
@@ -395,7 +381,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         },
@@ -416,7 +402,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
         }
@@ -446,7 +432,7 @@
         "1657786524a4b5ca65-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Culminating nostalgic depicitions of Strawberries and Tulips, reworkings of the majestic Mughal flower design, playing with visions of stripes left behind a plough, and a little seeds denoting hope and new beginnings.<\/p>",
+            "text": "<p>Bright, bold and beautiful, Bloom is a collection both classic and playful in equal measure.<\/p>",
             "code": ""
           }
         }
@@ -458,7 +444,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_block_printing_mughal_peach_sapgreen_1200x1500_10cc2741-6dc2-4475-bf29-891067929079.jpg",
         "title": "",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
@@ -543,14 +529,13 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "Image with text"
+            "heading": ""
           }
         },
         "16577878084a1c05f7-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Bringing to life the wonder of Primrose, Wild Carrot and Dianthus flowers and importantly highlighting the beauty of nature and the mighty great outdoors and recognising that it is a wonder to behold and to protect.<\/p><p><\/p><p>I have so much reverence for the power and beauty of nature and am thrilled to celebrate it in this new collection.<\/p>",
+            "text": "<p>In this new collection Molly continues to celebrate the dynamic colour range that surrounds her life, pink saried ladies in India, sap greens in the forest, blue skies and of course, all the wonderful colour palette of a bed of Dahlias.<\/p>",
             "code": ""
           }
         },
@@ -570,8 +555,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_flower_dahlia_indigo_peach_1300x1500_614d0bde-689a-4c76-831f-a871b32af081.jpg",
-        "title": "A Seasonal Setting",
-        "color_scheme": "white_text",
+        "title": "",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
@@ -632,8 +617,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
+        "margin_top": "s",
+        "margin_bot": "none"
       }
     },
     "a0077d01-6e8c-4c13-9ef2-9bf2bf0be5b5": {
@@ -673,10 +658,10 @@
           "type": "buttons",
           "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections\/bloom",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -911,14 +896,13 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "Image with text"
+            "heading": ""
           }
         },
         "1657788189928b3f62-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>I have chosen a palette to incorporate some of the joyful colours that I so adore to work with along with some of the more earthy tones found in the India desert and English countryside. I believe this allows a range of options for those looking for something sophisticated with a touch of joyful charm.<\/p>",
+            "text": "<p>\"Everthing we make is done in small batches allowing us to focus on the details and creating higher quality products with no waste. Where possible we use the cleanest water based paints and organic or plant based cloth. We never throw away even a snippet of cloth: always finding a way to use it up.\"<\/p>",
             "code": ""
           }
         },
@@ -926,8 +910,8 @@
           "type": "button",
           "disabled": true,
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "",
+            "button_link": "shopify:\/\/collections\/bloom-home-goods"
           }
         }
       },
@@ -939,10 +923,18 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_cushion_collection_garden_1300x1300_54bb87cc-684b-45fe-8aa6-1d7b100e856c.jpg",
         "title": "",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
+      }
+    },
+    "2115e359-2992-44d2-bfdb-d870003a883c": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Order your Brochure",
+        "link": "shopify:\/\/products\/bloom-block-printed-fabric-brochure",
+        "color_scheme": "dark"
       }
     },
     "1657788484c1ce8251": {
@@ -958,7 +950,7 @@
         "16577884832ae4f504-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>",
+            "text": "<p>Individual and intricately carved blocks are used to print each colour within a design. The pattern comes to life as the printer works his way along the table, block by block.<\/p>",
             "code": ""
           }
         },
@@ -979,7 +971,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_blockprinting_widestripe_1200x1500_ad6eb0ac-b3fd-4fd8-b1a5-5b5f2e05e0e2.jpg",
         "title": "",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
@@ -1052,7 +1044,6 @@
   },
   "order": [
     "main",
-    "164975103076740208",
     "16577300071f976c5e",
     "1657730156eeff869f",
     "1657730380748266d7",
@@ -1073,6 +1064,7 @@
     "5f0f9513-b759-4cdb-af1d-3e615ca9c7b9",
     "16577883639ab33180",
     "1657788189ba81a92f",
+    "2115e359-2992-44d2-bfdb-d870003a883c",
     "1657788484c1ce8251",
     "2401e4c6-7a80-40cf-baa0-ac0f0eca4c7f",
     "1657807750e4739f83"

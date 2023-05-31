@@ -1,0 +1,405 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16619593053301a27e": {
+      "type": "2-column-text",
+      "blocks": {
+        "1661959305d8047f36-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Bold blooms or dainty ditsy print?",
+            "heading_size": "large",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "end",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1661959305d8047f36-0"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    },
+    "16619593508075d424": {
+      "type": "2-column-text",
+      "blocks": {
+        "1661959350df86ec22-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Whether it's vintage style floral fabric you’re using to make a retro-inspired outfit, or you have your eye on a colourful floral fabric that you feel will suit a space, the scale of the print is something that you might be considering.<\/p><p>There are no hard and fast rules with using floral fabrics, and people are finding fun and innovative ways to use them to style themselves and their homes. Our<a href=\"https:\/\/mollymahon.com\/pages\/fabric-mood-boards\"> <span style=\"text-decoration:underline\">mood boards<\/span><\/a> are a great place to get inspired, as is our<a href=\"https:\/\/www.pinterest.co.uk\/mollymahonblockprinting\/\"> <span style=\"text-decoration:underline\">Pinterest<\/span><\/a> if you are still undecided on how to best use printed floral fabrics.<\/p><p>For floral dressmaking fabrics, smaller patterns may work better as they can make pattern matching easier. That’s not to say you can’t use big, bold prints but you might just need more material to guarantee you can align the design throughout the garment.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "b9a74b61-0fc6-4a4a-8eab-0fc854c2d6ff": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Smaller patterns also work well for home and personal accessories such as bags, headbands, cushions, and tea towels where full appreciation of a large size design may be harder to achieve.<\/p><p>For home interiors, you can really experiment with scale, pattern, and colour. Choosing a large floral print for chairs and curtains, for instance, can help you to make a statement and you can pull out colours from the designs for decorative accents. Smaller, ditsy prints, on the other hand, can help bring cottage core dreams to life or inject colour and interest into a room with a neutral base.<\/p><p>You can even try a maximalism approach by mixing patterns, flower types, sizes and colours!<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1661959350df86ec22-0",
+        "b9a74b61-0fc6-4a4a-8eab-0fc854c2d6ff"
+      ],
+      "settings": {
+        "margin_top": "none",
+        "margin_bot": "sm"
+      }
+    },
+    "6dca2a96-8aa3-41c9-8307-7785c282619d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14562784772154__6dca2a96-8aa3-41c9-8307-7785c282619d-168320474780cad4ef-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/fabric_bagru_chair_lottiecole_1300x1300_273e5d4f-a3de-47c8-92b3-6831c2aba07c.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14562784772154__6dca2a96-8aa3-41c9-8307-7785c282619d-168320474780cad4ef-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/PRIMROSE_TRELLIS_BEDHEAD_GREENCOMBE_1.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "3639b530-6229-48d0-95a8-6fdd57106152": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/fabric_tulip_greencombe_curtain_1300x1300_9735fbfe-e7f2-44b2-8b8f-b520e0384edf.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14562784772154__6dca2a96-8aa3-41c9-8307-7785c282619d-168320474780cad4ef-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/PATTEEPINKARMCHAIR.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562784772154__6dca2a96-8aa3-41c9-8307-7785c282619d-168320474780cad4ef-0",
+        "template--14562784772154__6dca2a96-8aa3-41c9-8307-7785c282619d-168320474780cad4ef-1",
+        "3639b530-6229-48d0-95a8-6fdd57106152",
+        "template--14562784772154__6dca2a96-8aa3-41c9-8307-7785c282619d-168320474780cad4ef-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "7d93cee0-4d83-4c8b-9cca-c9dbd1fbfbae": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14562784772154__7d93cee0-4d83-4c8b-9cca-c9dbd1fbfbae-168320563495a23ef2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Block printing: An ancient art"
+          }
+        },
+        "template--14562784772154__7d93cee0-4d83-4c8b-9cca-c9dbd1fbfbae-168320563495a23ef2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Block printing has a long and vibrant history. As one of the oldest forms of printmaking, it has its roots in India, China and Japan, and there is evidence to suggest that the technique was used as early as the fifth century BC.<\/p><p>Essentially, it involves using a carved material, such as wood, linoleum, or rubber, and covering it in ink to then transfer the design onto fabric or paper.<\/p><p>It is an artisan craft that takes a tremendous amount of skill, accuracy, and patience. There are so many steps involved from carving an initial sketch onto the transfer block, to mixing dyes and the application.<\/p><p>The process results in a design that has perfect imperfections but also a texture and life that cannot be created by more modern printing techniques.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14562784772154__7d93cee0-4d83-4c8b-9cca-c9dbd1fbfbae-168320563495a23ef2-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562784772154__7d93cee0-4d83-4c8b-9cca-c9dbd1fbfbae-168320563495a23ef2-0",
+        "template--14562784772154__7d93cee0-4d83-4c8b-9cca-c9dbd1fbfbae-168320563495a23ef2-1",
+        "template--14562784772154__7d93cee0-4d83-4c8b-9cca-c9dbd1fbfbae-168320563495a23ef2-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/craftsmanship_block_printing_bloom_1000x1500_02d23a48-b9c0-43c7-b7fe-df7188569737.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "8a914e9f-7142-42dc-bba9-0005db33f093": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Find out more about block printing",
+        "link": "shopify:\/\/pages\/block-printing",
+        "color_scheme": "dark"
+      }
+    },
+    "3a5e1986-a46b-4497-89b9-2bb66fb70ea9": {
+      "type": "2-column-text",
+      "blocks": {
+        "template--14562784772154__3a5e1986-a46b-4497-89b9-2bb66fb70ea9-168320776877b98980-0": {
+          "type": "text",
+          "settings": {
+            "heading": "The human connection of craftsmanship",
+            "heading_size": "medium",
+            "text": "<p>One of the reasons why hand block printing is so integral to Molly’s designs is the human touch that it embeds into each and every finished piece.<\/p><p>Molly’s fabrics weave people and creativity together at every step. They begin with drawings that Molly adds to her sketchbook. Expert craftspeople in Jaipur then take these initial ideas and hand carve the designs onto blocks. Using dyes, the designs are applied block by block onto fabric or paper. This takes a monumental amount of precision with regard to placement and pressure.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "af3214bc-40d4-48a9-b0e8-d3bed34df67f": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>After agriculture, craft is the city’s largest employer, and it is well recognised for its economic and cultural importance. Many organisations support Jaipur’s creative industries and are championing the improvement of working conditions and preservation of time-honoured techniques.<\/p><p>The finished products are finally picked by people across the world, based on their own unique tastes. Molly’s fabrics, wallpapers and homewares allow people to explore their creativity and create homes that suit their style and bring joy to their hearts. Without human involvement at every step of the process, bringing these ideas to life just wouldn’t be possible.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14562784772154__3a5e1986-a46b-4497-89b9-2bb66fb70ea9-168320776877b98980-0",
+        "af3214bc-40d4-48a9-b0e8-d3bed34df67f"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "166196159906fadd3f": {
+      "type": "simple_quote",
+      "disabled": true,
+      "settings": {
+        "quote": "<p>\"Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work\"<\/p>",
+        "cite": "- Cath Kidston MBE",
+        "bg": "green",
+        "heading_size": "medium",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "white_text",
+        "bg_color_scheme": "none",
+        "margin_top": "none",
+        "margin_bot": "xl"
+      }
+    },
+    "bd14a8a4-db5d-4ccc-ab7a-6be164fd8b0d": {
+      "type": "2-column-text",
+      "blocks": {
+        "747e94d4-8aba-4432-ad8f-4e95ad929c9e": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Each collection is made in small-scale batches as this allows us to focus on the details and create premium products, whilst limiting waste. Even when there are leftover materials, every scrap is used at some point in our process to avoid anything going unused.<\/p><p>Plastic packaging is only used where insurance insist with fabric & wallpaper shipment.  However no plastic is used in any of our other packaging.  We're also conscious of our air miles and we have sought to balance this aspect of our business by supporting local communities in India and crafts that are at risk of falling by the wayside as a result of mass manufacturing.  <\/p><p>Feeling inspired? Browse our<a href=\"https:\/\/mollymahon.com\/collections\/fabric\"> <span style=\"text-decoration:underline\">collection of floral fabrics<\/span><\/a> and allow your creativity to flourish!<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "template--14562784772154__bd14a8a4-db5d-4ccc-ab7a-6be164fd8b0d-168320776877b98980-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Planet-conscious prints",
+            "heading_size": "medium",
+            "text": "<p>Our fabrics come in a fabulous range of colours but when it comes to our processes and materials, we really do think green.<\/p><p>We only used water-based products, opting for natural pigment wherever possible. We print onto organic cotton or other high-quality, plant-based fibres such as linen and viscose, that have been carefully sourced, and we pay above the average cost for these materials as we feel we are paying a fair and reflective price.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "747e94d4-8aba-4432-ad8f-4e95ad929c9e",
+        "template--14562784772154__bd14a8a4-db5d-4ccc-ab7a-6be164fd8b0d-168320776877b98980-0"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "1662741707adb69b90": {
+      "type": "code",
+      "disabled": true,
+      "settings": {
+        "code": "<div id=\"shopify-section-template--14380328255546__1663848843f7b405b3\" class=\"shopify-section spaced-section divider\"><div class=\"divider mt-l mb-l\"><div class=\"inner\">\n  <hr>\n  <\/div><\/div>\n\n<\/div><div id=\"shopify-section-template--14380328255546__16638488395105d119\" class=\"shopify-section spaced-section two_col-text\"><div class=\"text-with-text inner grid mt-m mb-none\"><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><h2 class=\"large\">Making a House a Colourful Home<\/h2><\/div>\n    <\/div><\/div>\n\n<\/div><div id=\"shopify-section-template--14380328255546__166384890286d7e330\" class=\"shopify-section spaced-section two_col-text\"><div class=\"text-with-text inner grid mt-m mb-s\"><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><div class=\"rte\">\n        <p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.<\/p>\n        <\/div><\/div>\n    <\/div><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><div class=\"rte\">\n        <p>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home&nbsp;to.<\/p>\n        <\/div><\/div>\n    <\/div><\/div>\n\n<\/div><section id=\"shopify-section-template--14380328255546__1663848964e69d2817\" class=\"shopify-section quote-section\"><div class=\"bg-none mt-none mb-none\">\n  <div class=\"image-bg inner\">\n    <div class=\"quote_hero\"><picture class=\"heroshot\"><source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906_1240x729_crop_center.progressive.jpg?v=1650976195\" media=\"(min-width: 1200px)\"><source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906_1200x706_crop_center.progressive.jpg?v=1650976195\" media=\"(min-width: 1024px)\"><source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906_1024x602_crop_center.progressive.jpg?v=1650976195\" media=\"(min-width: 880px)\">\n  \n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906_880x880_crop_center.progressive.jpg?v=1650976195\" media=\"(min-width: 768px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906_768x768_crop_center.progressive.jpg?v=1650976195\" media=\"(min-width: 480px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906_480x480_crop_center.progressive.jpg?v=1650976195\" media=\"(min-width: 320px)\">\n  <img loading=\"lazy\" class=\"heroshot_image lazyimage\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906_320x320.jpg?v=1650976195\" alt=\"Attic room spilling over with Molly Mahon's hand block printed designs on headboards, quilts, cushions, lampshades, and bunting with two single beds separated by a small chest of draws\" width=\"1800\" height=\"1000\">\n<\/picture>\n<\/div>\n      <div class=\"absolute bg-darken\">\n      \n        <div class=\"flex inner vertical- align- color-white_text\">\n        <div class=\"quote\">\n          <blockquote class=\"color-white_text text-large\">\n            <p><em>\"Real homes are not showrooms or magazine ready rooms. Real homes are spaces to be comfortable and relaxed in.\" - Molly Mahon<\/em><\/p>\n          <\/blockquote><\/div>\n      <\/div>\n       \n      <\/div>\n      \n<\/div>\n<\/div>\n\n\n<\/section><section id=\"shopify-section-template--14380328255546__1663849157a1e59ca1\" class=\"shopify-section multicolumn-section\"><div class=\"multicolumn inner pt-m pb-m\">\n  \n<ul class=\"multicolumn grid\"><li class=\"column half\"><div class=\"image none\"><picture>\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_820x@2x.jpg?v=1662733824 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_820x.jpg?v=1662733824 1x\" media=\"(min-width: 1270px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_600x@2x.jpg?v=1662733824 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_600x.jpg?v=1662733824 1x\" media=\"(min-width: 1100px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_490x@2x.jpg?v=1662733824 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_490x.jpg?v=1662733824 1x\" media=\"(min-width: 960px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_400x@2x.jpg?v=1662733824 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_400x.jpg?v=1662733824 1x\" media=\"(min-width: 768px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_768x@2x.jpg?v=1662733824 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_768x.jpg?v=1662733824 1x\" media=\"(min-width: 480px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_480x@2x.jpg?v=1662733824 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_480x.jpg?v=1662733824 1x\" media=\"(min-width: 320px)\">\n            <img class=\"lazyimage\" loading=\"lazy\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3_320x.jpg?v=1662733824\" alt=\"\" width=\"1300\" height=\"1300\">\n          <\/picture>\n      <\/div><div class=\"text_wrap flex vertical-center align-center color-white_text\">\n      <div class=\"buttons white\"><a class=\"button white\" aria-disabled=\"true\">Button label<\/a><\/div>\n      \n\n    <\/div>\n<\/li><li class=\"column half narrow no-image\"><div class=\"text_wrap flex vertical-start align-left color-dark_text\"><div class=\"rte\"><p>Light up your living room with a roll of&nbsp;<a href=\"https:\/\/mollymahon.com\/products\/wallpaper-birdsbees-peagreen\">Birds &amp; Bees<\/a>, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated&nbsp;<a href=\"https:\/\/mollymahon.com\/products\/wallpaper-tree-green\">Tree<\/a><em>&nbsp;<\/em>pattern inspired by Molly’s local forest.<\/p><p>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our&nbsp;<a href=\"https:\/\/mollymahon.com\/pages\/fabric-mood-boards\">Mood Boards<\/a>&nbsp;for more printspiration and dare to be adventurous!<\/p><\/div>\n      <div class=\"buttons white\"><a class=\"button white\" href=\"\/pages\/wallpaper-mood-boards\">Explore more mood board ideas from Molly<\/a><\/div>\n      \n\n    <\/div>\n<\/li><\/ul>\n  \n<\/div>\n \n\n<\/section><div id=\"shopify-section-template--14380328255546__1662583646935a63eb\" class=\"shopify-section spaced-section divider\"><div class=\"divider mt-l mb-m\"><div class=\"inner\">\n  <hr>\n  <\/div><\/div>\n\n<\/div><div id=\"shopify-section-template--14380328255546__16638491601531a041\" class=\"shopify-section spaced-section divider\"><div class=\"divider mt-m mb-l\"><\/div>\n\n<\/div><div id=\"shopify-section-template--14380328255546__166195210128b91b49\" class=\"shopify-section spaced-section two_col-text\"><div class=\"text-with-text inner grid mt-l mb-none\"><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><h2 class=\"large\">To match or to Clash<\/h2><\/div>\n    <\/div><\/div>\n\n<\/div><div id=\"shopify-section-template--14380328255546__1661951966294ab962\" class=\"shopify-section spaced-section two_col-text\"><div class=\"text-with-text inner grid mt-s mb-m\"><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><div class=\"rte\">\n        <p>Why have one pattern if you can have them all? The fabulous thing about patterns is that you don’t have to limit yourself to one. Mixing prints can give a home a contemporary, energising quality - and that way you won’t have to struggle to decide!<\/p><p>There are no rules when it comes to getting creative in the home. Clash abstract patterns with big blooming florals, or twin stripy designs with standout natural shapes such as <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-coral-blue\">Coral<\/a> or Hawaiian themed <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-lani-denim\">Lani<\/a>. The key is to pick complimenting colours… light blue and pale green, yellow and indigo, or bright pink and sage.<\/p><p>If matching is more your style, pick a patterned wallpaper for each room and pull out key colours to inject into your furnishings. From towels to bedspreads, highlighting one or two shades throughout your accessories will really make your pattern pop.<\/p>\n        <\/div><\/div>\n    <\/div><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><div class=\"rte\">\n        <p>Why not take your matching designs one step further and go for the fully printed look? Matchimalism is all about embracing your favourite print and inserting it everywhere you can. Each of our interior design wallpapers have a matching fabric that turns perfectly into curtains or blinds. Pair with a set of matching <a href=\"https:\/\/mollymahon.com\/collections\/cushions\">cushions<\/a>, a pleated <a href=\"https:\/\/mollymahon.com\/collections\/lampshades\">lampshade<\/a> or <a href=\"https:\/\/mollymahon.com\/collections\/kitchen\">kitchen accessories<\/a> such as a table cloth or tea towel for a super fun, extravagant touch.<\/p><p><strong>Ready to give your home a splash of colour? Take a look at our collection of <\/strong><a href=\"https:\/\/mollymahon.com\/collections\/home-goods\"><strong>home goods<\/strong><\/a><strong> or give your bedroom a pattern-inspired makeover with a set of <\/strong><a href=\"https:\/\/mollymahon.com\/collections\/bed-bath\"><strong>bedroom accessories<\/strong><\/a><strong>.<\/strong><\/p>\n        <\/div><\/div>\n    <\/div><\/div>\n\n<\/div><section id=\"shopify-section-template--14380328255546__1662459560c712da85\" class=\"shopify-section image_banner ratio_banner\"> <script>\n      document.body.classList.add(\"banner\");\n    <\/script><div class=\"myhero inner pt-none pb-none bg-\">\n    \n      \n      <picture class=\"super-letterbox\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/WALLPAPER_FERN_DEERHYRST_1800X900_d4e54199-8936-4860-8687-a551c878d469_1240x333_crop_center.progressive.jpg?v=1663001131\" media=\"(min-width: 1200px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/WALLPAPER_FERN_DEERHYRST_1800X900_d4e54199-8936-4860-8687-a551c878d469_1200x322_crop_center.progressive.jpg?v=1663001131\" media=\"(min-width: 1024px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/WALLPAPER_FERN_DEERHYRST_1800X900_d4e54199-8936-4860-8687-a551c878d469_1024x275_crop_center.progressive.jpg?v=1663001131\" media=\"(min-width: 880px)\">\n  \n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/WALLPAPER_FERN_DEERHYRST_1800X900_d4e54199-8936-4860-8687-a551c878d469_880x236_crop_center.progressive.jpg?v=1663001131\" media=\"(min-width: 768px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/WALLPAPER_FERN_DEERHYRST_1800X900_d4e54199-8936-4860-8687-a551c878d469_768x206_crop_center.progressive.jpg?v=1663001131\" media=\"(min-width: 480px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/WALLPAPER_FERN_DEERHYRST_1800X900_d4e54199-8936-4860-8687-a551c878d469_480x300_crop_center.progressive.jpg?v=1663001131\" media=\"(min-width: 320px)\">\n  <img loading=\"lazy\" class=\"heroshot_image lazyimage\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/WALLPAPER_FERN_DEERHYRST_1800X900_d4e54199-8936-4860-8687-a551c878d469_320x200.jpg?v=1663001131\" alt=\"fern mustard wallpaper set in a single bedroom a headboard upholstered in luna turmeric hand block printed fabric all designed by molly mahon finished off with a pleated fabric lampshade in seed mustard sitting on top of a honey pot lamp base\" width=\"320\" height=\"200\">\n<\/picture>\n      \n    \n   \n  <\/div><div class=\"cta flex middle justify-center  align-center  inner\">\n  <div class=\"text_box color-white_text width-800\"><\/div>\n<\/div>\n  \n\n<\/section><section id=\"shopify-section-template--14380328255546__16624596458beebd65\" class=\"shopify-section image_banner ratio_banner\"> <script>\n      document.body.classList.add(\"banner\");\n    <\/script><div class=\"myhero pt-l pb-none bg-\">\n    \n    <picture class=\"heroshot\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a_2560x1000_crop_center.progressive.jpg?v=1663001307\" media=\"(min-width: 2048px)\">\n  \n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a_2048x1000_crop_center.progressive.jpg?v=1663001307\" media=\"(min-width: 1680px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a_1680x820_crop_center.progressive.jpg?v=1663001307\" media=\"(min-width: 1440px)\">\n  \n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a_1440x847_crop_center.progressive.jpg?v=1663001307\" media=\"(min-width: 1200px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a_1200x706_crop_center.progressive.jpg?v=1663001307\" media=\"(min-width: 1024px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a_1024x602_crop_center.progressive.jpg?v=1663001307\" media=\"(min-width: 880px)\">\n  \n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a_880x880_crop_center.progressive.jpg?v=1663001307\" media=\"(min-width: 768px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a_768x768_crop_center.progressive.jpg?v=1663001307\" media=\"(min-width: 480px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a_480x480_crop_center.progressive.jpg?v=1663001307\" media=\"(min-width: 320px)\">\n  <img loading=\"lazy\" class=\"heroshot_image lazyimage\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a_320x320.jpg?v=1663001307\" alt=\"master hand block printer printing molly mahon's design starry sky\">\n<\/picture>\n    \n   \n  <\/div><div class=\"cta flex middle justify-center  align-center  inner\">\n  <div class=\"text_box color-dark_text width-800\"><h1 class=\" h0\">\n            <span>The Art of Block Printing<\/span>\n          <\/h1><\/div>\n<\/div>\n  \n\n<\/section><div id=\"shopify-section-template--14380328255546__16624601935a72d91c\" class=\"shopify-section spaced-section two_col-text\"><div class=\"text-with-text inner grid mt-l mb-l\"><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><h2 class=\"medium\">Perfect Imperfections<\/h2><a href=\"\/pages\/the-art-of-block-printing-with-molly-mahon\" class=\"button button--primary\">\n            Learn more about block printing\n          <\/a><\/div>\n    <\/div><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><div class=\"rte\">\n        <p>Block printing is an ancient form of transferring design to cloth that goes back over 4,500 years - and we still love it today. One of the many things that drew Molly to hand block printing was the personal connection with each and every piece. The odd movement between each print of paint gives the finished product a sense of authentic energy that can’t be achieved with a machine. Like the imperfections of real life, it’s what makes it beautiful.<\/p><p>The block printing process starts in Molly’s countryside studio where she turns doodles from nature, travels and her daily life into repeat designs. Each is then carved into a unique lino or wooden block, and brought to life on quality fabrics and paper by our team of master printers in India.&nbsp;<\/p><p><\/p>\n        <\/div><\/div>\n    <\/div><\/div>\n\n<\/div><div id=\"shopify-section-template--14380328255546__166258375996ca2554\" class=\"shopify-section spaced-section divider\"><div class=\"divider mt-l mb-l\"><div class=\"inner\">\n  <hr>\n  <\/div><\/div>\n\n<\/div><section id=\"shopify-section-template--14380328255546__1662478609382f904c\" class=\"shopify-section multicolumn-section\"><div class=\"multicolumn inner pt-s pb-s\">\n  \n<ul class=\"multicolumn grid\"><li class=\"column half narrow no-image\"><div class=\"text_wrap flex vertical-start align-left color-dark_text\"><h3 class=\"h2 large\">Keeping Traditions Alive<\/h3><div class=\"rte\"><p>Human connection is key to us, from the joy our designs evoke to the people responsible for their creation. We know every single artisan we work with in India and the UK - and their skills are second to none!&nbsp;<\/p><p>By partnering with crafts people in Jaipur, we’re able to support rich traditions that connect communities and keep the inimitable quality of handmade art alive. Each piece of block-printed cloth and paper is passed through multiple skilled hands, making it a treasured story to pass down through generations.<\/p><p>Recently we’ve experimented with another form of block printing to create our <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-strawberry-grass\">Strawberry<\/a> and <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-bindi-blue\">Bindi<\/a> designs. Using surface printing, we’re able to create a wonderful, textured wallpaper with water based inks that ooze luxury and charm.<\/p><\/div>\n      <div class=\"buttons dark\"><\/div>\n      \n\n    <\/div>\n<\/li><li class=\"column half\"><div class=\"image portrait\"><picture>\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_820x980_crop_center@2x.jpg?v=1657555007 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_820x980_crop_center.jpg?v=1657555007 1x\" media=\"(min-width: 1270px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_600x717_crop_center@2x.jpg?v=1657555007 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_600x717_crop_center.jpg?v=1657555007 1x\" media=\"(min-width: 1100px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_490x586_crop_center@2x.jpg?v=1657555007 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_490x586_crop_center.jpg?v=1657555007 1x\" media=\"(min-width: 960px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_400x478_crop_center@2x.jpg?v=1657555007 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_400x478_crop_center.jpg?v=1657555007 1x\" media=\"(min-width: 768px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_768x918_crop_center@2x.jpg?v=1657555007 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_768x918_crop_center.jpg?v=1657555007 1x\" media=\"(min-width: 480px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_480x574_crop_center@2x.jpg?v=1657555007 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_480x574_crop_center.jpg?v=1657555007 1x\" media=\"(min-width: 320px)\">\n            <img class=\"lazyimage lazyImageWaiting\" loading=\"lazy\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb_320x382_crop_center.jpg?v=1657555007\" alt=\"\" width=\"320\" height=\"382\">\n          <\/picture>\n      <\/div><div class=\"text_wrap flex vertical-center align-center color-white_text\">\n      <div class=\"buttons white\"><\/div>\n      \n\n    <\/div>\n<\/li><\/ul>\n  \n<\/div>\n \n\n<\/section><div id=\"shopify-section-template--14380328255546__1662460807a5c1e07c\" class=\"shopify-section spaced-section two_col-text\"><div class=\"text-with-text inner grid mt-m mb-none\"><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><h2 class=\"small\">Small Batch Sustainability<\/h2><\/div>\n    <\/div><\/div>\n\n<\/div><div id=\"shopify-section-template--14380328255546__166246081478f8026c\" class=\"shopify-section spaced-section two_col-text\"><div class=\"text-with-text inner grid mt-s mb-s\"><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><div class=\"rte\">\n        <p>We’re conscious of our impact on the environment and the mark we might make, aside from our patterned prints. So respecting how we treat our planet is just as important to us as creating joy. Every element of our business is thoroughly researched to make sure it’s the best it can be and fills us with pride - from the materials we use to the process of creation.<\/p><p>Each collection is made in small batches which allows us to focus on the details and create higher quality products. It also helps us to avoid waste whilst using water based ingredients and natural pigments where possible. We only use organic cottons and plant based fibres, ensuring your wallpaper, fabrics and furniture last for decades of fun. And every leftover snippet is used somewhere along the journey - nothing goes to waste if it doesn’t have to.&nbsp;<\/p>\n        <\/div><\/div>\n    <\/div><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><div class=\"rte\">\n        <p>When it comes to packaging, you won’t see any plastic. And whilst we’re mindful of air miles, we’ve balanced this with supporting local communities to thrive who are often under threat from bulk manufacturing. Block printing is sadly in danger due to the rise of machine-printed fabric, yet this traditional craft creates hundreds of employment opportunities and is integral to India’s culture and wellbeing.<\/p><p><strong>Ready to shop? Take a look at our <\/strong><a href=\"https:\/\/mollymahon.com\/collections\/wallpaper\"><strong>collection of designer wallpapers<\/strong><\/a><strong> and get colourful!<\/strong><br><\/p>\n        <\/div><\/div>\n    <\/div><\/div>\n\n<\/div><section id=\"shopify-section-template--14380328255546__1662460822b5aebe5f\" class=\"shopify-section image_banner ratio_banner\"> <script>\n      document.body.classList.add(\"banner\");\n    <\/script><div class=\"myhero inner pt-none pb-l bg-\">\n    \n      \n      <picture class=\"heroshot\"><source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89_1240x729_crop_center.progressive.jpg?v=1653640878\" media=\"(min-width: 1200px)\"><source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89_1200x706_crop_center.progressive.jpg?v=1653640878\" media=\"(min-width: 1024px)\"><source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89_1024x602_crop_center.progressive.jpg?v=1653640878\" media=\"(min-width: 880px)\">\n  \n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89_880x880_crop_center.progressive.jpg?v=1653640878\" media=\"(min-width: 768px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89_768x768_crop_center.progressive.jpg?v=1653640878\" media=\"(min-width: 480px)\">\n  <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89_480x480_crop_center.progressive.jpg?v=1653640878\" media=\"(min-width: 320px)\">\n  <img loading=\"lazy\" class=\"heroshot_image lazyimage lazyImageWaiting\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89_320x320.jpg?v=1653640878\" alt=\"Molly Mahon Greencombe hand block printed collection celebrating Chelsea flower show being displayed with beautiful colour flowers\" width=\"1800\" height=\"1000\">\n<\/picture>\n      \n    \n   \n  <\/div><div class=\"cta flex middle justify-center  align-center  inner\">\n  <div class=\"text_box color-white_text width-800\"><h2 class=\" h0\">\n            <span><\/span>\n          <\/h2><\/div>\n<\/div>\n  \n\n<\/section><section id=\"shopify-section-template--14380328255546__1662478779064ab062\" class=\"shopify-section multicolumn-section\"><div class=\"multicolumn inner pt-s pb-l\">\n  \n  <div class=\"border\">\n  \n<ul class=\"multicolumn grid\"><li class=\"column half\"><div class=\"image portrait\"><picture>\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_820x980_crop_center@2x.jpg?v=1663001598 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_820x980_crop_center.jpg?v=1663001598 1x\" media=\"(min-width: 1270px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_600x717_crop_center@2x.jpg?v=1663001598 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_600x717_crop_center.jpg?v=1663001598 1x\" media=\"(min-width: 1100px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_490x586_crop_center@2x.jpg?v=1663001598 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_490x586_crop_center.jpg?v=1663001598 1x\" media=\"(min-width: 960px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_400x478_crop_center@2x.jpg?v=1663001598 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_400x478_crop_center.jpg?v=1663001598 1x\" media=\"(min-width: 768px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_768x918_crop_center@2x.jpg?v=1663001598 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_768x918_crop_center.jpg?v=1663001598 1x\" media=\"(min-width: 480px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_480x574_crop_center@2x.jpg?v=1663001598 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_480x574_crop_center.jpg?v=1663001598 1x\" media=\"(min-width: 320px)\">\n            <img class=\"lazyimage lazyImageWaiting\" loading=\"lazy\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57_320x382_crop_center.jpg?v=1663001598\" alt=\"molly mahon hand block printing a table runner for a dinner party\" width=\"320\" height=\"382\">\n          <\/picture>\n      <\/div><div class=\"text_wrap flex vertical-center align-center color-white_text\"><h2 class=\"h3\">Get Crafty<\/h2>\n      <div class=\"buttons white\"><\/div>\n      \n\n    <\/div>\n<\/li><li class=\"column half narrow no-image\"><div class=\"text_wrap flex vertical-center align-left color-dark_text\"><div class=\"rte\"><p>Inspired to get creative? Join Molly at one of her immersive block printing workshops and learn how to make your very own printed piece. You’ll experiment with colour, pattern and material before going home with a beautiful product to display in your home.<\/p><\/div>\n      <div class=\"buttons dark\"><a class=\"button dark\" href=\"\/pages\/workshops-and-events\">Find out more about workshops and events<\/a><\/div>\n      \n\n    <\/div>\n<\/li><\/ul>\n  \n  <\/div>\n  \n<\/div>\n \n\n<\/section>"
+      }
+    },
+    "c92df481-86ea-442b-81b3-3d17e629f7f4": {
+      "type": "text-banner",
+      "settings": {
+        "title": "",
+        "link": "",
+        "bg_pattern": "pattern_02",
+        "color_scheme": "white_text"
+      }
+    },
+    "1db7098e-2a63-4c70-91b4-72cd751932ff": {
+      "type": "2-column-text",
+      "blocks": {
+        "template--14562784772154__1db7098e-2a63-4c70-91b4-72cd751932ff-168320776877b98980-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Are you a budding designer?",
+            "heading_size": "medium",
+            "text": "<p>If our flower print fabric has got you thinking about other ways you can take inspiration from nature in a creative capacity, why not come along to one of Molly's next workshops or events?<\/p><p>\"<em>We need to make time to be creative. It feeds and nourishes the soul<\/em>.” Molly Mahon<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "425476b9-e35b-4e44-aa86-3da9dbef6a2a": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>In taking part, you’ll learn all about the ancient art of block printing, including how to make a block carving and application techniques. You can enjoy experimenting with colour, shape, and textures to create something bespoke that is a true reflection of your own personal style.<\/p><p>Each workshop includes all the materials you need as well as refreshments throughout the day.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14562784772154__1db7098e-2a63-4c70-91b4-72cd751932ff-168320776877b98980-0",
+        "425476b9-e35b-4e44-aa86-3da9dbef6a2a"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "236bf813-ca72-4d23-a205-0574b2e21633": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Find out about Molly's upcoming workshops & events",
+        "link": "shopify:\/\/pages\/block-printing-weekend-workshops",
+        "color_scheme": "dark"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16619593053301a27e",
+    "16619593508075d424",
+    "6dca2a96-8aa3-41c9-8307-7785c282619d",
+    "7d93cee0-4d83-4c8b-9cca-c9dbd1fbfbae",
+    "8a914e9f-7142-42dc-bba9-0005db33f093",
+    "3a5e1986-a46b-4497-89b9-2bb66fb70ea9",
+    "166196159906fadd3f",
+    "bd14a8a4-db5d-4ccc-ab7a-6be164fd8b0d",
+    "1662741707adb69b90",
+    "c92df481-86ea-442b-81b3-3d17e629f7f4",
+    "1db7098e-2a63-4c70-91b4-72cd751932ff",
+    "236bf813-ca72-4d23-a205-0574b2e21633"
+  ]
+}

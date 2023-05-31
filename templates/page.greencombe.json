@@ -19,7 +19,7 @@
         "1642199348d668b6b2-1": {
           "type": "text",
           "settings": {
-            "text": "Designed in Sussex, hand blocked in Rajasthan",
+            "text": "Designed in Sussex, Hand block Printed in Rajasthan",
             "go_serif": true,
             "constrain_text": false
           }
@@ -179,9 +179,8 @@
       "blocks": {
         "16421999526980f810-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image with text"
+            "heading": "Welcome to Greencombe"
           }
         },
         "16421999526980f810-1": {
