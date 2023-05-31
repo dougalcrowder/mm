@@ -41,40 +41,30 @@
       "settings": {
       }
     },
-    "164975103076740208": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Shop Quilts",
-        "collection": "bedding-1",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "show_secondary_image": false
-      }
-    },
     "16577300071f976c5e": {
       "type": "image-banner",
       "blocks": {
         "1657730007a25f7230-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Greencombe Collection",
+            "heading": "Jaipur & Bagru Fabric Collection",
             "heading_type": "header1"
           }
         },
         "1657730007a25f7230-1": {
           "type": "text",
           "settings": {
-            "text": "Designed in Sussex, hand blocked in Rajasthan",
+            "text": "Designed in Sussex, Hand Block Printed in Rajasthan",
             "go_serif": true,
             "constrain_text": false
           }
         },
         "1657730007a25f7230-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
-            "button_label_1": "Click here to order your brochure",
-            "button_link_1": "shopify:\/\/products\/greencombe-block-printed-fabric-brochure-freesample",
+            "button_label_1": "",
+            "button_link_1": "",
             "button_style_secondary_1": true,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -88,7 +78,7 @@
         "1657730007a25f7230-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_molesworth_gardentable_dahlia_tablecloth_1800x1000_68e6065b-47ac-4913-89c9-202078e1482f.jpg",
+        "image": "shopify:\/\/shop_images\/fabric_tuktuk_pink_drying_rasa_1800x1000_7fb4c493-9a65-43c4-a7a5-0f69fcb50a25.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -113,7 +103,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_curtain_chequer_blues_1000x1500_b6a06b42-d9ca-4c7e-99a1-ae0aa85bd21d.jpg",
+            "image": "shopify:\/\/shop_images\/fabric_bagru_chair_lottiecole_1300x1300_273e5d4f-a3de-47c8-92b3-6831c2aba07c.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -134,7 +124,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
+            "image": "shopify:\/\/shop_images\/FLANTURLIFECURTAIN_7f1c74a2-ed55-4c55-a580-7b0569424fba.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -161,7 +151,7 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "s",
-        "margin_bot": "none"
+        "margin_bot": "m"
       }
     },
     "1657730380748266d7": {
@@ -203,7 +193,7 @@
         "1657730379dcd0a206-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_fireplace_vase_stripe_chequers_mughal_1800x1000_88b23029-d46f-4c8f-a867-e20f80ff119d.jpg",
+        "image": "shopify:\/\/shop_images\/FIRMDALE_SOHO_LEAF_1800x900_b75972d7-ecba-4e3d-bb46-1fbcc190edcc.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -226,13 +216,13 @@
         "1657785887e07c69d0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Introducing Bloom by Molly Mahon"
+            "heading": ""
           }
         },
         "1657785887e07c69d0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>\"Each new collection starts with a seed of an idea and then, like a glorious bloom, it pokes its head out of the ground and starts to wind its way upwards, resulting in a full and open collection of colourful pattern, its face turned towards the sun bursting forth with joy and delight.\"<\/p><p>It was this notion that inspired the beginnings of bloom. Originally called 'Dahlia Mania', the first of 5 new patterns Molly designed in this collection is a pure celebration of this wonderful flower in all her multitude of colour.<\/p>",
+            "text": "<p>Being outside has always been a place of great happiness to me. It is where I feel most inspired. Whether this is in my own garden, the hills of Scotland, the incredible flower fields of India or the wild hedgerows of the British countryside it's the joy of the colours and the beauty of nature's offerings that most inspire me. I am delighted to celebrate this in my collection Greencombe.<\/p>",
             "code": ""
           }
         },
@@ -250,9 +240,9 @@
         "1657785887e07c69d0-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_Molesworth-55.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
         "title": "",
-        "color_scheme": "dark_text",
+        "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
@@ -297,7 +287,7 @@
         "1657786090a56f700f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_curtain_cushion_dahlia_hotpink_1800x1000_77bda3d1-fa3c-4252-bd7b-8ece2f57cc8a.jpg",
+        "image": "shopify:\/\/shop_images\/FERNTURMERICKEALIFE2_2d74b0a6-cd4c-4fe9-9ed1-41934af493a9.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -322,7 +312,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/STRAWBERRY_KITCHEN_CURTAINS_1600x_8ab5abb2-4a1e-43e5-9caa-0b6f96a651b1.jpg",
+            "image": "shopify:\/\/shop_images\/FLEMOSLIFECHAIR_24e93e0b-df9c-4c7d-a298-928e9bfabc27.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -343,7 +333,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GARDEN_PATH_ARMCHAIR_1600x_9ae8f5a2-4ece-416d-9334-b3b84c8c5b14.jpg",
+            "image": "shopify:\/\/shop_images\/deerhyrst_spot_star_indigo_tent_1300x1300_11f97de0-d04b-4572-9e13-507469c7b53d.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -369,8 +359,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "s",
-        "margin_bot": "s"
+        "margin_top": "sm",
+        "margin_bot": "none"
       }
     },
     "1657786524439edeb4": {
@@ -385,7 +375,7 @@
         "1657786524a4b5ca65-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Culminating nostalgic depicitions of Strawberries and Tulips, reworkings of the majestic Mughal flower design, playing with visions of stripes left behind a plough, and a little seeds denoting hope and new beginnings.<\/p>",
+            "text": "",
             "code": ""
           }
         }
@@ -395,9 +385,9 @@
         "1657786524a4b5ca65-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GCGARMS-2_ea7bb47c-700a-4feb-859d-01077089cb01.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_BABYROOM_1300X1300_dc823947-7e64-454f-a18d-d2b35486d0b9.jpg",
         "title": "",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
@@ -411,7 +401,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GCTULII-2_1600x_c41fbb0d-9e43-4b72-aeba-e6bf45a8cce7.jpg",
+            "image": "shopify:\/\/shop_images\/FMBBLUSLIFE_c271e6d4-448d-4cac-9049-ad3665bd018a.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -432,49 +422,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GCBERGS-2_1600x_3cfb1186-a379-4049-9033-d26cbf8c6c21.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "165778660260e93d17-2": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/BAGSTANDS_ARMCHAIR_1600x_019c2412-72c5-4510-b5f3-fcab40659e43.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "165afc99-a4c5-4a63-9cbe-df911ba644e8": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/STRAWBERRY_CURTAIN_1600x_a144b500-79c3-4668-b192-c2128c4a83b0.jpg",
+            "image": "shopify:\/\/shop_images\/FHEROSLIFE_e72df739-ebdd-47ec-8e4b-2ef4c9bc3bba.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -493,17 +441,15 @@
       },
       "block_order": [
         "165778660260e93d17-0",
-        "165778660260e93d17-1",
-        "165778660260e93d17-2",
-        "165afc99-a4c5-4a63-9cbe-df911ba644e8"
+        "165778660260e93d17-1"
       ],
       "settings": {
         "mc_title": "",
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "s",
-        "margin_bot": "s"
+        "margin_top": "sm",
+        "margin_bot": "m"
       }
     },
     "16577876993a1651a0": {
@@ -545,10 +491,10 @@
         "165778769900e92238-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/STRAWBERRY_MAINCURTAIN_3500x_2ed47fdc-376f-4325-a358-ea150b0c31a4.jpg",
+        "image": "shopify:\/\/shop_images\/THESWAN_BIRDS_BEES_BEDROOM_1600x900_f52853cf-c0ce-489d-afe9-d0cd842cc6b0.jpg",
         "letterbox": false,
         "make_logo_white": false,
-        "top_margin": true,
+        "top_margin": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -594,203 +540,8 @@
         "16577878084a1c05f7-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PRIMROSE_COLLECTION_SHOT_1600x_d4fd4df4-0419-4163-8de1-a0417d567a74.jpg",
+        "image": "shopify:\/\/shop_images\/MollyMahon-workshop6.jpg",
         "title": "A Seasonal Setting",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first"
-      }
-    },
-    "16577879925ee322e6": {
-      "type": "multicolumn",
-      "blocks": {
-        "16577879919d9ec7d4-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/ATTICROOM_TULIP_1600x_bcf78a35-8c88-44fa-a340-5fbcba1fb28c.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "16577879919d9ec7d4-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/GREENCOMBE_CUSHIONS_1600x_426adbda-c41e-4d1a-a5a4-a7844c49fd78.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "16577879919d9ec7d4-0",
-        "16577879919d9ec7d4-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "1657788189ba81a92f": {
-      "type": "image-with-text",
-      "blocks": {
-        "1657788189928b3f62-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "1657788189928b3f62-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>I have chosen a palette to incorporate some of the joyful colours that I so adore to work with along with some of the more earthy tones found in the India desert and English countryside. I believe this allows a range of options for those looking for something sophisticated with a touch of joyful charm.<\/p>",
-            "code": ""
-          }
-        },
-        "1657788189928b3f62-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1657788189928b3f62-0",
-        "1657788189928b3f62-1",
-        "1657788189928b3f62-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ELLIES_BEDSKIRT_1600x_2df4e026-2388-46f7-80b0-4e5158f44580.jpg",
-        "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first"
-      }
-    },
-    "16577883639ab33180": {
-      "type": "image-banner",
-      "blocks": {
-        "16577883634e8747c8-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "16577883634e8747c8-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "16577883634e8747c8-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16577883634e8747c8-0",
-        "16577883634e8747c8-1",
-        "16577883634e8747c8-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/POPPY_CURTAIN_SITTINGROOM_3500x_81426930-76e0-499b-96be-3c7785969692.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": true,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
-    "1657788484c1ce8251": {
-      "type": "image-with-text",
-      "blocks": {
-        "16577884832ae4f504-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "16577884832ae4f504-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>I am absolutely thrilled to have transported the initial drawings out to Rajasthan, the heart of block printing; where they are being meticulously hand block printed on a delicious range of linen and cotton cloths by highly skilled craftsmen.<\/p>",
-            "code": ""
-          }
-        },
-        "16577884832ae4f504-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16577884832ae4f504-0",
-        "16577884832ae4f504-1",
-        "16577884832ae4f504-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
-        "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -804,11 +555,20 @@
         "link": "shopify:\/\/blogs\/look-books",
         "color_scheme": "red"
       }
+    },
+    "97e2dab3-c782-4a30-9069-d20bd80c41b0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Deerhyrst collection",
+        "collection": "deerhyrst-collection",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
     }
   },
   "order": [
     "main",
-    "164975103076740208",
     "16577300071f976c5e",
     "1657730156eeff869f",
     "1657730380748266d7",
@@ -819,10 +579,7 @@
     "1657786602be65cc53",
     "16577876993a1651a0",
     "165778780802bdc2a5",
-    "16577879925ee322e6",
-    "1657788189ba81a92f",
-    "16577883639ab33180",
-    "1657788484c1ce8251",
-    "1657807750e4739f83"
+    "1657807750e4739f83",
+    "97e2dab3-c782-4a30-9069-d20bd80c41b0"
   ]
 }

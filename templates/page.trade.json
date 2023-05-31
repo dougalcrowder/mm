@@ -1,0 +1,94 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "df074c33-3bfa-42af-b079-0a9cde64c27e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/greencombe_sample_collection_table_berry_flowers_1000x1500_c70702be-d6b9-4785-8739-930f9aaa3a29.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "MM Service",
+            "subtitle": "We have an in house trade team who are friendly and dedicated to help you.",
+            "subtitle_size": "small",
+            "text": "<p>How can we help?   trade@mollymahon.com<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-1": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/CUSHIONS_PINK_1000x1500_c84a2bcd-1847-445c-b4ad-139ef243efa0.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "Bespoke",
+            "subtitle": "We work closely with trade accounts and provide a bespoke service making products to clients needs that are not in stock.",
+            "subtitle_size": "small",
+            "text": "<p>Enquire at trade@mollymahon.com<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-2": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/EMERALD_GREEN_F_B-MARIGOLD_PINKGREEN_ROSE_PINK1000x1500.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "Sampling",
+            "subtitle": "Contact us to order your samples",
+            "subtitle_size": "small",
+            "text": "<p>trade@mollymahon.com<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "mailto:trade@mollymahon.com",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-0",
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-1",
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "sm",
+        "margin_bot": "m"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "df074c33-3bfa-42af-b079-0a9cde64c27e"
+  ]
+}

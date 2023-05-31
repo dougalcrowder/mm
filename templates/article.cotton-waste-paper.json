@@ -55,7 +55,8 @@
           "type": "text",
           "settings": {
             "text": "",
-            "go_serif": true
+            "go_serif": true,
+            "constrain_text": false
           }
         },
         "1657730007a25f7230-2": {
@@ -77,22 +78,31 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/JOTTER_GARMENT_PAPER_1800x900_ef9bc05f-ad97-47bb-8739-b78d62181957.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "1662051804a5f184e4": {
       "type": "single-title_and_text",
       "settings": {
         "title": "",
+        "heading_size": "medium",
         "text": "<p>Making paper out of cotton waste garments is a technique that has been used in India and around the world for decades and the quality of the paper is perfect for the creative artist and the journal keeper.  <\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "red_text"
       }
     },
     "1657788484c1ce8251": {
@@ -107,7 +117,8 @@
         "16577884832ae4f504-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Nothing goes to waste! Here the cutting waste from the fashion industry is pulped so it is ready to be made into paper.<\/p>"
+            "text": "<p>Nothing goes to waste! Here the cutting waste from the fashion industry is pulped so it is ready to be made into paper.<\/p>",
+            "code": ""
           }
         },
         "16577884832ae4f504-2": {
@@ -142,6 +153,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_WASTE_1300X1300_1c7cde28-524a-4802-891d-79ab3683032d.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "Cutting waste from the fashion industry",
             "subtitle_size": "small",
@@ -161,6 +174,8 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_PAPER_MAKING_1300X1300_868ba0b8-bd26-4386-8b82-228566e7301b.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "The mixing process to creating cotton paper",
             "subtitle_size": "small",
@@ -180,6 +195,8 @@
             "width": "one_third",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_PRESSING_1300X1300_d4f9c68d-67ea-4d5c-a6d5-7c16ec86d2ae.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "The pressing process",
             "subtitle_size": "small",
@@ -199,6 +216,8 @@
             "width": "two_thirds",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_PAPER_2600X1300_2d020e97-f02a-46aa-b049-cb013eb2fedd.jpg",
+            "auto_height": "none",
+            "cover": false,
             "title": "",
             "subtitle": "The finished cotton paper sheets",
             "subtitle_size": "small",
@@ -222,7 +241,10 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "sm",
+        "margin_bot": "m"
       }
     },
     "164975103076740208": {
@@ -239,7 +261,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Back to Craftsmanship",
-        "link": "shopify:\/\/pages\/craftsmanship",
+        "link": "shopify:\/\/blogs\/craftsmanship",
         "color_scheme": "red"
       }
     }
