@@ -60,7 +60,7 @@
             "image": "shopify:\/\/shop_images\/EMERALD_GREEN_F_B-MARIGOLD_PINKGREEN_ROSE_PINK1000x1500.jpg",
             "auto_height": "none",
             "cover": false,
-            "no_hover": false,
+            "no_hover": true,
             "title": "Sampling",
             "subtitle": "Contact us to order your samples",
             "subtitle_size": "small",
