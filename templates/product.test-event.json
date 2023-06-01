@@ -1,0 +1,63 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product-event",
+      "settings": {
+        "show_dynamic_checkout": true,
+        "enable_sticky_info": true,
+        "share_label": "Share"
+      }
+    },
+    "10f29d07-aa0e-4468-b713-8a67a0d99eae": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14494911627322__10f29d07-aa0e-4468-b713-8a67a0d99eae-167172543532a87229-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "code": "{{ product.description }}"
+          }
+        }
+      },
+      "block_order": [
+        "template--14494911627322__10f29d07-aa0e-4468-b713-8a67a0d99eae-167172543532a87229-1"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.my_fields.product_info_image.value }}",
+        "title": "",
+        "color_scheme": "red_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "4487d5ac-cc4f-4b18-bd26-f90adee96758": {
+      "type": "extra-product-images",
+      "settings": {
+        "grid": false,
+        "margin_top": "s",
+        "margin_bot": "l",
+        "bg_color_scheme": "none"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like"
+      }
+    },
+    "sticky-share": {
+      "type": "sticky-share",
+      "settings": {
+        "share_label": "Share"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "10f29d07-aa0e-4468-b713-8a67a0d99eae",
+    "4487d5ac-cc4f-4b18-bd26-f90adee96758",
+    "product-recommendations",
+    "sticky-share"
+  ]
+}
