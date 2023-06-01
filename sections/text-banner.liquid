@@ -1,4 +1,4 @@
-<div class="text_banner {{ section.settings.bg_pattern }}">
+<div class="text_banner {{ section.settings.bg_pattern }}"{% if section.settings.custom_color_on %} style="background: {{ section.settings.custom_color }}"{% endif %}>
   {%- if section.settings.link != blank -%}
   <a href="{{ section.settings.link }}" class="text rte  color-{{ section.settings.color_scheme }}" alt="{{ section.settings.title | strip_html }}">
       {{ section.settings.title }}
@@ -70,6 +70,17 @@
       ],
       "default": "white_text",
       "label": "Text Colour"
+    },
+    {
+      "type": "checkbox",
+      "id": "custom_color_on",
+      "default": false,
+      "label": "Use a custom color"
+    },
+    {
+      "type": "color",
+      "id": "custom_color",
+      "label": "Custom color"
     }
   ],
   "presets": [
