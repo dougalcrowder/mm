@@ -1,0 +1,44 @@
+<section class="nav_container" id="nav">
+  <nav aria-labelledby="Main Menu">
+    <ul class="parent">
+    {% for link in linklists.main-menu.links %}
+    <li class="first{% if link.active %} active {% if link.child_active %}child-active{% endif %}{% endif %}{% if link.links.size > 0 %} children{% endif %}{% if link.url == "#" %} no_link{% endif %}"><a href="{{ link.url }}">{{ link.title }}</a>
+    {% if link.links.size > 0 %}
+      <input class="check_one" type="checkbox" name="checkNavOne-{{ forloop.index }}" id="checkNavOne-{{ forloop.index }}">
+      <label class="crossbox" for="checkNavOne-{{ forloop.index }}"><span class="visually-hidden">Open {{ link.title }} child items</label>
+      <ul class="child">
+        {% for child_link in link.links %}  
+        <li class="second {% if child_link.active %} active {% if child_link.child_active %}child-active{% endif %}{% endif %}{% if child_link.links.size > 0 %} children{% endif %}{% if child_link.url == "#" %} no_link{% endif %}"><a href= "{{ child_link.url }}">{{ child_link.title }}</a>
+        {% if child_link.links.size > 0 %}
+          <input class="check_two" type="checkbox" name="checkNavTwo-{{  forloop.index }}" id="checkNavTwo-{{  forloop.index }}">
+          <label class="crossbox" for="checkNavTwo-{{  forloop.index }}"><span class="visually-hidden">Open {{ child_link.title }} child items</label>
+          <ul class="grandchild">
+          {% for grandchild_link in child_link.links %}  
+            <li {% if grandchild_link.active %}class="active {% if grandchild_link.child_active %}child-active{% endif %}"{% endif %}><a href= "{{ grandchild_link.url }}">{{ grandchild_link.title }}</a></li>
+          {% endfor %} 
+          </ul>
+        {% endif %}   
+        </li>
+        {% endfor %}
+      </ul> 
+    {% endif %} 
+    </li>
+    {% endfor %}
+    </ul>
+  </nav>
+</section>
+
+{% schema %}
+{
+  "name": "Expanding Nav",
+  "tag": "section",
+  "class": "nav-section nav-expanding custom_scroll",
+  "settings": [
+  ],
+  "presets": [
+    {
+      "name": "MM World Nav"
+    }
+  ]
+}
+{% endschema %}
