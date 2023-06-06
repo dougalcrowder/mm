@@ -7,7 +7,9 @@
         "title": "<p>Last Christmas parcel Shipping dates- click here<\/p>",
         "link": "shopify:\/\/pages\/latest-posting-dates-christmas-delivery",
         "bg_pattern": "pattern_01",
-        "color_scheme": "blue_text"
+        "color_scheme": "blue_text",
+        "custom_color_on": false,
+        "custom_color": ""
       }
     },
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
@@ -210,7 +212,9 @@
         "title": "<p>Colour & Joy<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
-        "color_scheme": "red_text"
+        "color_scheme": "red_text",
+        "custom_color_on": false,
+        "custom_color": ""
       }
     },
     "163481963822b4d1b3": {
@@ -224,6 +228,7 @@
             "image": "shopify:\/\/shop_images\/bloom_blockprinting_dahlia_1800x1500_eddb13bb-5395-4bc2-ab3b-42e51f89d77e.jpg",
             "auto_height": "landscape",
             "cover": false,
+            "no_hover": false,
             "title": "Master Craftsmen",
             "subtitle": "Celebrating the new Bloom Collection",
             "subtitle_size": "small",
@@ -245,6 +250,7 @@
             "image": "shopify:\/\/shop_images\/bloom_block_printing_mughal_peach_sapgreen_1200x1500_10cc2741-6dc2-4475-bf29-891067929079.jpg",
             "auto_height": "none",
             "cover": true,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -266,6 +272,7 @@
             "image": "shopify:\/\/shop_images\/bloom_barn_curtain_dahlia_hot_pink_1000x1500_c159b2bc-75ce-4bcf-a0e2-2cd908d87adb.jpg",
             "auto_height": "portrait",
             "cover": false,
+            "no_hover": false,
             "title": "Bloom Fabric Collection",
             "subtitle": "",
             "subtitle_size": "small",
@@ -287,6 +294,7 @@
             "image": "shopify:\/\/shop_images\/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
             "auto_height": "portrait",
             "cover": true,
+            "no_hover": false,
             "title": "Bloom Lookbook",
             "subtitle": "",
             "subtitle_size": "small",
@@ -380,6 +388,7 @@
             "image": "shopify:\/\/shop_images\/bloom_chair_chequer_pink_warehouse_1300x1300_03b825d6-4ab3-44cb-aac5-232fc68f9e99.jpg",
             "auto_height": "square",
             "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -401,6 +410,7 @@
             "image": "shopify:\/\/shop_images\/bloom_cushion_collection_garden_1300x1300_54bb87cc-684b-45fe-8aa6-1d7b100e856c.jpg",
             "auto_height": "square",
             "cover": false,
+            "no_hover": false,
             "title": "Cushions",
             "subtitle": "",
             "subtitle_size": "small",
@@ -436,11 +446,12 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/2590830B-10A3-42A7-B2B9-8CE7AE8699C9_1_201_a_5fb2f284-c209-4a9b-b176-31911a895b31.jpg",
+            "image": "shopify:\/\/shop_images\/Basket_Bag_Lifestyle_1300x1300_025f8576-a9f5-4919-81c1-8271686a3d18.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "Coronation Special",
-            "subtitle": "Bespoke Tablecloth",
+            "no_hover": false,
+            "title": "New in",
+            "subtitle": "Jute basket Bag",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
@@ -448,7 +459,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Shop here",
-            "button_link": "shopify:\/\/products\/coronation-tablecloth-oak-leaf",
+            "button_link": "shopify:\/\/products\/jute-basket-bag-bloom",
             "subtext": ""
           }
         },
@@ -460,6 +471,7 @@
             "image": "shopify:\/\/shop_images\/lighting_seed_twig_1300x1300_83582815-e9d7-4c41-969e-7f5394601ba4.jpg",
             "auto_height": "square",
             "cover": false,
+            "no_hover": false,
             "title": "Light up your Home",
             "subtitle": "",
             "subtitle_size": "small",
@@ -589,6 +601,7 @@
             "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
             "auto_height": "square",
             "cover": false,
+            "no_hover": false,
             "title": "Workshops",
             "subtitle": "Get Creative",
             "subtitle_size": "small",
@@ -610,6 +623,7 @@
             "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
             "auto_height": "square",
             "cover": false,
+            "no_hover": false,
             "title": "Printing Supplies",
             "subtitle": "For the budding Block printer",
             "subtitle_size": "small",
