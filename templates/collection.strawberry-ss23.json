@@ -11,8 +11,9 @@
       "settings": {
         "products_per_page": 48,
         "show_rating": false,
-        "enable_filtering": true,
-        "enable_sorting": false
+        "enable_filtering": false,
+        "enable_sorting": false,
+        "show_prices": false
       }
     }
   },
