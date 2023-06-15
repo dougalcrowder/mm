@@ -472,16 +472,16 @@
             "auto_height": "square",
             "cover": false,
             "no_hover": false,
-            "title": "Coming Soon",
+            "title": "",
             "subtitle": "New Strawberry Tea Towels",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p>Molly's Hand block printed design<\/p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/tea-towel-strawberry",
             "subtext": ""
           }
         }
