@@ -14,7 +14,7 @@
 
 {%- endif -%}
 
-<div id="ProductGridContainer"{% if filtersOn %} class="mt-m"{% endif %}>
+<div id="ProductGridContainer"{% unless filtersOn %} class="mt-m"{% endunless %}>
   {%- paginate collection.products by 100 -%}
     {%- if collection.products.size == 0 -%}
       <div class="collection collection--empty inner" id="product-grid" data-id="{{ section.id }}">
