@@ -450,7 +450,7 @@
             "auto_height": "square",
             "cover": false,
             "no_hover": false,
-            "title": "Coming Soon",
+            "title": "",
             "subtitle": "Strawberry Spongeware Mugs",
             "subtitle_size": "small",
             "text": "<p>Made in Stoke-on-Trent, UK<\/p>",
@@ -458,8 +458,8 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/mug-strawberry",
             "subtext": ""
           }
         },
