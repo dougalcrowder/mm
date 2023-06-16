@@ -119,7 +119,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "pattee-block-printed-fabric-oyster-khaki",
+          "pattee-block-printed-fabric-linen-cotton-khaki",
           "pattee-block-printed-fabric-oyster-pink",
           "pattee-block-printed-fabric-linen-cotton-blue-1"
         ],
@@ -425,7 +425,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "rose-block-printed-fabric-oyster-pink"
+          "rose-block-printed-fabric-linen-cotton-pink"
         ],
         "show_secondary_image": true,
         "centred": false
