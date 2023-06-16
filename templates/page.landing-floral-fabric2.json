@@ -208,9 +208,9 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "poppy-block-printed-fabric-oyster-mustard-sky",
-          "poppy-block-printed-fabric-oyster-rose-grass",
-          "poppy-block-printed-fabric-oyster-rose-sky"
+          "poppy-block-printed-fabric-linen-cotton-mustard-sky",
+          "poppy-block-printed-fabric-linen-cotton-rose-grass",
+          "poppy-block-printed-fabric-linen-cotton-rose-sky"
         ],
         "show_secondary_image": true,
         "centred": false
@@ -531,8 +531,8 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "strawberry-block-printed-fabric-oyster-copper",
-          "strawberry-block-printed-fabric-oyster-grass"
+          "strawberry-block-printed-fabric-linen-cotton-copper",
+          "strawberry-block-printed-fabric-linen-cotton-grass"
         ],
         "show_secondary_image": true,
         "centred": false
