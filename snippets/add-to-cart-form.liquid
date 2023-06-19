@@ -35,7 +35,7 @@
         {% if forloop.index == 1 %}
           checked
         {% endif %}>
-        <label class="{{ variant.option2 | handleize }}" for="{{ variant.option2 }}-{{ product.handle }}" {% if optionName1 == 'color' or optionName1 == 'colour' %} title="{{ variant.option2 }}">{% endif %}<span class="label_text">{{ variant.option2 }}</span></label>
+        <label class="{{ variant.option2 | handleize }} {{ variant.id }}" for="{{ variant.option2 }}-{{ product.handle }}" {% if optionName1 == 'color' or optionName1 == 'colour' %} title="{{ variant.option2 }}">{% endif %}<span class="label_text">{{ variant.option2 }}</span></label>
         {% capture used %}{{ used }} {{ variant.option2 }}{% endcapture %}
         {% endunless %}
         {% endfor %}
