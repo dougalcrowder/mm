@@ -114,10 +114,10 @@
  {%- else -%}
  {% assign variant = product.selected_or_first_available_variant %}
  {% if product.compare_at_price > product.price %}
-   <span class="product-price on-sale" id="price">{{ variant.price | money_with_currency }}</span>
-   <s class="product-compare-price">{{ variant.compare_at_price | money }}</s>
+   <span class="product-price on-sale" id="price">{{ current_variant.price | money_with_currency }}</span>
+   <s class="product-compare-price">{{ current_variant.compare_at_price | money }}</s>
  {% else %}
-   <span class="product-price" id="price">{{ variant.price | money_with_currency }}</span>
+   <span class="product-price" id="price">{{ current_variant.price | money_with_currency }}</span>
  {% endif %}
  {%- endif -%}
  </div>
