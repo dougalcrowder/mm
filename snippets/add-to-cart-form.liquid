@@ -1,6 +1,6 @@
 {%- assign current_variant = product.selected_or_first_available_variant -%}
 
-<form action="/cart/add" method="post" enctype="multipart/form-data" id="add-to-cart-{{ product.handle }}" class="{{ current_variant.id }}">  
+<form action="/cart/add" method="post" enctype="multipart/form-data" id="add-to-cart-{{ product.handle }}">  
   {% if product.variants.size > 1 %}
   <div class="variant_options">
     {% if product.options[0] %}
@@ -12,10 +12,10 @@
         {% for variant in product.variants %}
         {% unless used contains variant.option1 %}
         <input name="select-one" type="radio" value="{{ variant.option1 }}" id="{{ variant.option1 }}-{{ product.handle }}" 
-        {% if variant.id == current_variant.id %}
+        {% if forloop.index == 1 %}
           checked
         {% endif %}>
-        <label class="{{ variant.option1 | handleize }} {{ variant.id }}" for="{{ variant.option1 }}-{{ product.handle }}" {% if optionName0 == 'color' or optionName0 == 'colour' %} data-tooltip="{{ variant.option1 }}">{% endif %}<span class="label_text">{{ variant.option1 }}</span></label>
+        <label class="{{ variant.option1 | handleize }}" for="{{ variant.option1 }}-{{ product.handle }}" {% if optionName0 == 'color' or optionName0 == 'colour' %} data-tooltip="{{ variant.option1 }}">{% endif %}<span class="label_text">{{ variant.option1 }}</span></label>
         {% capture used %}{{ used }} {{ variant.option1 }}{% endcapture %}
         {% endunless %}
         {% endfor %}
@@ -32,10 +32,10 @@
         {% for variant in product.variants %}
         {% unless used contains variant.option2 %}
         <input name="select-two" type="radio" value="{{ variant.option2 }}" id="{{ variant.option2 }}-{{ product.handle }}" 
-        {% if variant.id == current_variant.id %}
+        {% if forloop.index == 1 %}
           checked
         {% endif %}>
-        <label class="{{ variant.option2 | handleize }} {{ variant.id }}" for="{{ variant.option2 }}-{{ product.handle }}" {% if optionName1 == 'color' or optionName1 == 'colour' %} title="{{ variant.option2 }}">{% endif %}<span class="label_text">{{ variant.option2 }}</span></label>
+        <label class="{{ variant.option2 | handleize }}" for="{{ variant.option2 }}-{{ product.handle }}" {% if optionName1 == 'color' or optionName1 == 'colour' %} title="{{ variant.option2 }}">{% endif %}<span class="label_text">{{ variant.option2 }}</span></label>
         {% capture used %}{{ used }} {{ variant.option2 }}{% endcapture %}
         {% endunless %}
         {% endfor %}
@@ -51,7 +51,7 @@
         {% for variant in product.variants %}
         {% unless used contains variant.option3 %}
         <input name="select-three" type="radio" value="{{ variant.option3 }}" id="{{ variant.option3 }}-{{ product.handle }}" 
-        {% if variant.id == current_variant.id %}
+        {% if forloop.index == 1 %}
           checked
         {% endif %}>
         <label class="{{ variant.option3 | handleize }}" for="{{ variant.option3 }}-{{ product.handle }}" {% if optionName2 == 'color' or optionName2 == 'colour' %} title="{{ variant.option3 }}">{% endif %}<span class="label_text">{{ variant.option3 }}</span></label>
@@ -114,10 +114,10 @@
  {%- else -%}
  {% assign variant = product.selected_or_first_available_variant %}
  {% if product.compare_at_price > product.price %}
-   <span class="product-price on-sale" id="price">{{ current_variant.price | money_with_currency }}</span>
-   <s class="product-compare-price">{{ current_variant.compare_at_price | money }}</s>
+   <span class="product-price on-sale" id="price">{{ variant.price | money_with_currency }}</span>
+   <s class="product-compare-price">{{ variant.compare_at_price | money }}</s>
  {% else %}
-   <span class="product-price" id="price">{{ current_variant.price | money_with_currency }}</span>
+   <span class="product-price" id="price">{{ variant.price | money_with_currency }}</span>
  {% endif %}
  {%- endif -%}
  </div>
@@ -216,6 +216,7 @@ function letsDoThis() {
   // console.log(image);
   
 }
+letsDoThis();
 </script>
 
 {% comment %}
