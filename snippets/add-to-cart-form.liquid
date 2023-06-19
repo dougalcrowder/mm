@@ -1,6 +1,6 @@
 {%- assign current_variant = product.selected_or_first_available_variant -%}
 
-<form action="/cart/add" method="post" enctype="multipart/form-data" id="add-to-cart-{{ product.handle }}">  
+<form action="/cart/add" method="post" enctype="multipart/form-data" id="add-to-cart-{{ product.handle }}" class="{{ current_variant.id }}">  
   {% if product.variants.size > 1 %}
   <div class="variant_options">
     {% if product.options[0] %}
@@ -15,7 +15,7 @@
         {% if forloop.index == 1 %}
           checked
         {% endif %}>
-        <label class="{{ variant.option1 | handleize }}" for="{{ variant.option1 }}-{{ product.handle }}" {% if optionName0 == 'color' or optionName0 == 'colour' %} data-tooltip="{{ variant.option1 }}">{% endif %}<span class="label_text">{{ variant.option1 }}</span></label>
+        <label class="{{ variant.option1 | handleize }} {{ variant.id }}" for="{{ variant.option1 }}-{{ product.handle }}" {% if optionName0 == 'color' or optionName0 == 'colour' %} data-tooltip="{{ variant.option1 }}">{% endif %}<span class="label_text">{{ variant.option1 }}</span></label>
         {% capture used %}{{ used }} {{ variant.option1 }}{% endcapture %}
         {% endunless %}
         {% endfor %}
