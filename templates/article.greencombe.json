@@ -377,9 +377,9 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "primrose-block-printed-fabric-oyster-grass-sky",
-          "trellis-block-printed-fabric-oyster-grass-sky",
-          "seed-block-printed-fabric-oyster-grass",
+          "primrose-block-printed-fabric-linen-cotton-grass-sky",
+          "trellis-block-printed-fabric-linen-cotton-grass-sky",
+          "seed-block-printed-fabric-linen-cotton-grass",
           "lampshade-pleated-seed-grass-large"
         ],
         "show_secondary_image": true,
@@ -638,9 +638,9 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "strawberry-block-printed-fabric-oyster-copper",
-          "strawberry-block-printed-fabric-oyster-grass",
-          "trellis-block-printed-fabric-oyster-copper-rust"
+          "strawberry-block-printed-fabric-linen-cotton-copper",
+          "strawberry-block-printed-fabric-linen-cotton-grass",
+          "trellis-block-printed-fabric-linen-cotton-copper-rust"
         ],
         "show_secondary_image": true,
         "centred": false

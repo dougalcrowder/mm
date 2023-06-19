@@ -163,10 +163,10 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "primrose-block-printed-fabric-oyster-grass-sky",
-          "poppy-block-printed-fabric-oyster-mustard-sky-sample",
-          "tulip-block-printed-fabric-oyster-rose-grass-freesample",
-          "rose-block-printed-fabric-oyster-pink-sample",
+          "primrose-block-printed-fabric-linen-cotton-grass-sky",
+          "poppy-block-printed-fabric-linen-cotton-mustard-sky-sample",
+          "tulip-block-printed-fabric-linen-cotton-rose-grass-freesample",
+          "rose-block-printed-fabric-linen-cotton-pink-sample",
           "wild-carrot-block-printed-fabric-oyster-indigo",
           "bagru-block-printed-fabric-cotton-pink"
         ],
@@ -598,8 +598,8 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "clover-printed-fabric-oyster-duck-egg",
-          "clover-printed-fabric-oyster-blue"
+          "clover-printed-fabric-linen-cotton-duck-egg",
+          "clover-printed-fabric-linen-cotton-blue"
         ],
         "show_secondary_image": true,
         "centred": false

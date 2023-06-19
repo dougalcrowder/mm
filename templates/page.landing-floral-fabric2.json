@@ -10,7 +10,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "marigold-block-printed-fabric-oyster-yellow"
+          "marigold-block-printed-fabric-linen-cotton-yellow"
         ],
         "show_secondary_image": true,
         "centred": false
@@ -120,8 +120,8 @@
       "settings": {
         "product_list": [
           "pattee-block-printed-fabric-oyster-khaki",
-          "pattee-block-printed-fabric-oyster-pink",
-          "pattee-block-printed-fabric-oyster-blue"
+          "pattee-block-printed-fabric-linen-cotton-pink-1",
+          "pattee-block-printed-fabric-linen-cotton-blue-1"
         ],
         "show_secondary_image": true,
         "centred": false
@@ -208,9 +208,9 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "poppy-block-printed-fabric-oyster-mustard-sky",
-          "poppy-block-printed-fabric-oyster-rose-grass",
-          "poppy-block-printed-fabric-oyster-rose-sky"
+          "poppy-block-printed-fabric-linen-cotton-mustard-sky",
+          "poppy-block-printed-fabric-linen-cotton-rose-grass",
+          "poppy-block-printed-fabric-linen-cotton-rose-sky"
         ],
         "show_secondary_image": true,
         "centred": false
@@ -319,7 +319,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "primrose-block-printed-fabric-oyster-grass-sky"
+          "primrose-block-printed-fabric-linen-cotton-grass-sky"
         ],
         "show_secondary_image": true,
         "centred": false
@@ -425,7 +425,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "rose-block-printed-fabric-oyster-pink"
+          "rose-block-printed-fabric-linen-cotton-pink"
         ],
         "show_secondary_image": true,
         "centred": false
@@ -531,8 +531,8 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "strawberry-block-printed-fabric-oyster-copper",
-          "strawberry-block-printed-fabric-oyster-grass"
+          "strawberry-block-printed-fabric-linen-cotton-copper",
+          "strawberry-block-printed-fabric-linen-cotton-grass"
         ],
         "show_secondary_image": true,
         "centred": false

@@ -635,10 +635,10 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "dahlia-block-printed-fabric-linen-crimson-indigo",
-          "dahlia-block-printed-fabric-linen-hot-pink",
-          "dahlia-block-printed-fabric-linen-indigo-peach",
-          "dahlia-block-printed-fabric-linen-peach-sap-green"
+          "dahlia-block-printed-fabric-cotton-crimson-indigo",
+          "dahlia-block-printed-fabric-cotton-hot-pink",
+          "dahlia-block-printed-fabric-cotton-indigo-peach",
+          "dahlia-block-printed-fabric-cotton-peach-sap-green"
         ],
         "show_secondary_image": true,
         "centred": false

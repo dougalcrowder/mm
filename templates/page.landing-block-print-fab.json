@@ -328,7 +328,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "birds-bees-printed-fabric-natural-petrol"
+          "birds-bees-printed-fabric-linen-cotton-petrol"
         ],
         "show_secondary_image": true,
         "centred": false
@@ -349,9 +349,9 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "marwari-horse-printed-fabric-oyster-blue",
-          "marwari-horse-printed-fabric-oyster-duck-egg",
-          "marwari-horse-printed-fabric-oyster-pink"
+          "marwari-horse-printed-fabric-linen-cotton-blue",
+          "marwari-horse-printed-fabric-linen-cotton-duck-egg",
+          "marwari-horse-printed-fabric-linen-cotton-pink"
         ],
         "show_secondary_image": true,
         "centred": false
