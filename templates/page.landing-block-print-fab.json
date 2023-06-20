@@ -70,6 +70,7 @@
             "narrow": true,
             "auto_height": "true",
             "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "large",
@@ -91,6 +92,7 @@
             "image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_MOBILE.jpg",
             "auto_height": "none",
             "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -313,58 +315,131 @@
         "hover_text": false
       }
     },
-    "3082517c-65cf-4a53-a872-4234fee207bf": {
-      "type": "single-title_and_text",
+    "19a16aed-d2b5-40d2-a349-7f55728a6a61": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14562870460474__19a16aed-d2b5-40d2-a349-7f55728a6a61-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Birds & Bees"
+          }
+        },
+        "template--14562870460474__19a16aed-d2b5-40d2-a349-7f55728a6a61-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Depicting the sights that Molly revels in during her walks in the stunning English countryside, our mono-colour cotton-linen blend adds life to any space. It depicts sprawling vines of mixed leaves and flowers alongside a variety of wildlife including birds, bees, butterflies and even cute little snails. It is available in a calming blue, tranquil pea green or uplifting blush colour.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14562870460474__19a16aed-d2b5-40d2-a349-7f55728a6a61-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562870460474__19a16aed-d2b5-40d2-a349-7f55728a6a61-1687269573222b7814-0",
+        "template--14562870460474__19a16aed-d2b5-40d2-a349-7f55728a6a61-1687269573222b7814-1",
+        "template--14562870460474__19a16aed-d2b5-40d2-a349-7f55728a6a61-1687269573222b7814-2"
+      ],
       "settings": {
-        "title": "Birds & Bees",
-        "heading_size": "small",
-        "text": "<p>Depicting the sights that Molly revels in during her walks in the stunning English countryside, our mono-colour cotton-linen blend adds life to any space. It depicts sprawling vines of mixed leaves and flowers alongside a variety of wildlife including birds, bees, butterflies and even cute little snails. It is available in a calming blue, tranquil pea green or uplifting blush colour.<\/p>",
-        "vertical_alignment": "start",
-        "alignment": "left",
-        "color_scheme": "dark_text"
+        "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_BABYROOM_1300X1300_8d571d1d-b764-4239-9470-30f6b88e6489.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
       }
     },
-    "1664290368cec53b99": {
-      "type": "product-grid",
+    "2a7cec99-8e29-4da9-929e-fb75b5e9cb53": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14562870460474__2a7cec99-8e29-4da9-929e-fb75b5e9cb53-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Marwari Horse"
+          }
+        },
+        "template--14562870460474__2a7cec99-8e29-4da9-929e-fb75b5e9cb53-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Marwari horse is a rare breed from the north-western region of Rajasthan, Marwari. This fabric beautifully captures their strength and pace, with one front leg raised. Printed onto a 55% linen 45% cotton blend, this mono-coloured design comes in pink, duck and blue.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14562870460474__2a7cec99-8e29-4da9-929e-fb75b5e9cb53-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562870460474__2a7cec99-8e29-4da9-929e-fb75b5e9cb53-1687269573222b7814-0",
+        "template--14562870460474__2a7cec99-8e29-4da9-929e-fb75b5e9cb53-1687269573222b7814-1",
+        "template--14562870460474__2a7cec99-8e29-4da9-929e-fb75b5e9cb53-1687269573222b7814-2"
+      ],
       "settings": {
-        "product_list": [
-          "birds-bees-printed-fabric-linen-cotton-petrol"
-        ],
-        "show_secondary_image": true,
-        "centred": false
+        "image": "shopify:\/\/shop_images\/MARWARI_DB_BOOTROOM.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
       }
     },
-    "8d0ed4b0-788b-47be-b6ce-ced24d1ce4d0": {
-      "type": "single-title_and_text",
+    "3d95b960-e3e4-4764-857f-65f3318182a3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14562870460474__3d95b960-e3e4-4764-857f-65f3318182a3-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Spot & Star"
+          }
+        },
+        "template--14562870460474__3d95b960-e3e4-4764-857f-65f3318182a3-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This spot and star block print fabric is incredibly fun whilst being reminiscent of the night’s sky with no star equidistant from one another or uniform in shape or size. It comes in rose, blush, indigo and petrol colours, making it fantastic for pairing contrasting colours or making use of different shades.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14562870460474__3d95b960-e3e4-4764-857f-65f3318182a3-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562870460474__3d95b960-e3e4-4764-857f-65f3318182a3-1687269573222b7814-0",
+        "template--14562870460474__3d95b960-e3e4-4764-857f-65f3318182a3-1687269573222b7814-1",
+        "template--14562870460474__3d95b960-e3e4-4764-857f-65f3318182a3-1687269573222b7814-2"
+      ],
       "settings": {
-        "title": "Marwari Horse",
-        "heading_size": "medium",
-        "text": "<p>The Marwari horse is a rare breed from the north-western region of Rajasthan, Marwari. This fabric beautifully captures their strength and pace, with one front leg raised. Printed onto a 55% linen 45% cotton blend, this mono-coloured design comes in pink, duck and blue.<\/p>",
-        "vertical_alignment": "start",
-        "alignment": "left",
-        "color_scheme": "dark_text"
+        "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
       }
     },
-    "84bf896f-a2f9-4fcf-8367-f747a1521ffe": {
-      "type": "product-grid",
+    "deb91166-c2e6-4824-a39d-3fc13a751fdc": {
+      "type": "featured-collection",
       "settings": {
-        "product_list": [
-          "marwari-horse-printed-fabric-linen-cotton-blue",
-          "marwari-horse-printed-fabric-linen-cotton-duck-egg",
-          "marwari-horse-printed-fabric-linen-cotton-pink"
-        ],
-        "show_secondary_image": true,
-        "centred": false
-      }
-    },
-    "e3d1e770-3269-4cd6-b0b0-ea177f64c00b": {
-      "type": "product-grid",
-      "settings": {
-        "product_list": [
-
-        ],
-        "show_secondary_image": true,
-        "centred": false
+        "title": "Deerhyrst Collection",
+        "collection": "deerhyrst-collection",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
       }
     },
     "16624574182228dbc7": {
@@ -429,15 +504,170 @@
         "hover_text": false
       }
     },
-    "954b060a-da04-4393-92fd-e3b64cbdf74d": {
-      "type": "product-grid",
+    "dd733051-8c38-4e3a-a472-ffc7c213e142": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bindi"
+          }
+        },
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This design elevates the popular stripe pattern by adding shape and movement. The pattern can be interpreted in a multitude of ways from the hanging vines of a plant to the tracks left in the earth by a plough. This 100% cotton, hand block print fabric is available in pink, pale blue, or aubergine.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-0",
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-1",
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-2"
+      ],
       "settings": {
-        "product_list": [
-          "buti-block-printed-fabric-cotton-blue",
-          "buti-block-printed-fabric-cotton-pink"
-        ],
-        "show_secondary_image": true,
-        "centred": false
+        "image": "shopify:\/\/shop_images\/fabric_bindi_chair_bathroom_keane_1000x1500_c11dc504-de12-49f6-ac40-d74205b9f188.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "166d57ac-b992-4383-9c90-28dcc60c37d1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14562870460474__166d57ac-b992-4383-9c90-28dcc60c37d1-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dash"
+          }
+        },
+        "template--14562870460474__166d57ac-b992-4383-9c90-28dcc60c37d1-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dash is a simple, graphic design that has great usability. The pattern is eye-catching but the space behind it is just as powerful. Just as with other designs in the collection, so many different things can be visualised when looking at the fabric. It has an architectural vibe and can easily be likened to brickwork, chain links or the decorative gaps that can be seen on buildings across the globe.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14562870460474__166d57ac-b992-4383-9c90-28dcc60c37d1-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562870460474__166d57ac-b992-4383-9c90-28dcc60c37d1-1687269573222b7814-0",
+        "template--14562870460474__166d57ac-b992-4383-9c90-28dcc60c37d1-1687269573222b7814-1",
+        "template--14562870460474__166d57ac-b992-4383-9c90-28dcc60c37d1-1687269573222b7814-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DASHLAMPSHADELIFE.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "114f074a-074f-486e-be5c-14bc65814ba8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stars"
+          }
+        },
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stars is a captivating reverse design that has a deep indigo background adorned with bright celestial shapes. It can stand on its own to make a statement but also works wonderfully when layered with other colours and patterns.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-0",
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-1",
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CUSHION_STARS_INDIGO_LIFE_50X500CM.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "8a675c43-8c9b-40a0-beaa-8345894fcfe8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14562870460474__8a675c43-8c9b-40a0-beaa-8345894fcfe8-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tuk Tuk"
+          }
+        },
+        "template--14562870460474__8a675c43-8c9b-40a0-beaa-8345894fcfe8-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Tuk-Tuk hand block printed cotton fabric summons smiles thanks to its vibrancy and small-scale charm. It takes inspiration from the decorations of the beloved three-wheeled vehicles that are commonly seen on the roads of India and is available in pink, blue, green or yellow.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14562870460474__8a675c43-8c9b-40a0-beaa-8345894fcfe8-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562870460474__8a675c43-8c9b-40a0-beaa-8345894fcfe8-1687269573222b7814-0",
+        "template--14562870460474__8a675c43-8c9b-40a0-beaa-8345894fcfe8-1687269573222b7814-1",
+        "template--14562870460474__8a675c43-8c9b-40a0-beaa-8345894fcfe8-1687269573222b7814-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "5922c58c-c48d-4f42-9dfb-652a7a25d6f5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Bagru Collection",
+        "collection": "bagru-collection",
+        "products_to_show": 10,
+        "show_view_all": true,
+        "show_secondary_image": false
       }
     },
     "16624577622fefe57b": {
@@ -543,14 +773,17 @@
     "16619593508075d424",
     "166245704164214430",
     "16642902403436f598",
-    "3082517c-65cf-4a53-a872-4234fee207bf",
-    "1664290368cec53b99",
-    "8d0ed4b0-788b-47be-b6ce-ced24d1ce4d0",
-    "84bf896f-a2f9-4fcf-8367-f747a1521ffe",
-    "e3d1e770-3269-4cd6-b0b0-ea177f64c00b",
+    "19a16aed-d2b5-40d2-a349-7f55728a6a61",
+    "2a7cec99-8e29-4da9-929e-fb75b5e9cb53",
+    "3d95b960-e3e4-4764-857f-65f3318182a3",
+    "deb91166-c2e6-4824-a39d-3fc13a751fdc",
     "16624574182228dbc7",
     "1661964058633d317f",
-    "954b060a-da04-4393-92fd-e3b64cbdf74d",
+    "dd733051-8c38-4e3a-a472-ffc7c213e142",
+    "166d57ac-b992-4383-9c90-28dcc60c37d1",
+    "114f074a-074f-486e-be5c-14bc65814ba8",
+    "8a675c43-8c9b-40a0-beaa-8345894fcfe8",
+    "5922c58c-c48d-4f42-9dfb-652a7a25d6f5",
     "16624577622fefe57b",
     "c320e191-7705-4348-8726-846e423e03c5",
     "1662741707adb69b90"
