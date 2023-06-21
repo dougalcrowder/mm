@@ -163,11 +163,11 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "primrose-block-printed-fabric-linen-cotton-grass-sky",
+          "primrose-block-printed-fabric-linen-grass-sky",
           "poppy-block-printed-fabric-linen-cotton-mustard-sky-sample",
           "tulip-block-printed-fabric-linen-cotton-rose-grass-freesample",
           "rose-block-printed-fabric-linen-cotton-pink-sample",
-          "wild-carrot-block-printed-fabric-oyster-indigo",
+          "wild-carrot-block-printed-fabric-linen-indigo",
           "bagru-block-printed-fabric-cotton-pink"
         ],
         "show_secondary_image": true,
