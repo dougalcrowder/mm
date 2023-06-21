@@ -209,8 +209,8 @@
       "settings": {
         "product_list": [
           "poppy-block-printed-fabric-linen-cotton-mustard-sky",
-          "poppy-block-printed-fabric-linen-cotton-rose-grass",
-          "poppy-block-printed-fabric-linen-cotton-rose-sky"
+          "poppy-block-printed-fabric-linen-rose-grass",
+          "poppy-block-printed-fabric-linen-rose-sky"
         ],
         "show_secondary_image": true,
         "centred": false
@@ -747,7 +747,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "wild-carrot-block-printed-fabric-oyster-indigo"
+          "wild-carrot-block-printed-fabric-linen-indigo"
         ],
         "show_secondary_image": true,
         "centred": false
