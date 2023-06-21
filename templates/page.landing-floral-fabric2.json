@@ -10,7 +10,7 @@
       "type": "product-grid",
       "settings": {
         "product_list": [
-          "marigold-block-printed-fabric-linen-cotton-yellow"
+          "marigold-block-printed-fabric-linen-yellow"
         ],
         "show_secondary_image": true,
         "centred": false
@@ -120,8 +120,8 @@
       "settings": {
         "product_list": [
           "pattee-block-printed-fabric-oyster-khaki",
-          "pattee-block-printed-fabric-linen-cotton-pink-1",
-          "pattee-block-printed-fabric-linen-cotton-blue-1"
+          "pattee-block-printed-fabric-linen-pink",
+          "pattee-block-printed-fabric-linen-blue"
         ],
         "show_secondary_image": true,
         "centred": false
