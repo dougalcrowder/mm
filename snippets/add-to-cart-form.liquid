@@ -6,7 +6,7 @@
     {% if product.options[0] %}
     {% assign used = '' %}
     {% assign optionName0 = product.options[0] | handleize %}
-    <div class="radio_container {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' %} hidden{% endif %}">
+    <div class="radio_container {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' %} tempnot-hidden{% endif %}">
       <strong class="title">{{ product.options[0] }}</strong>
       <fieldset id='select-one' onchange="letsDoThis()">
         {% for variant in product.variants %}
