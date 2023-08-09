@@ -14,7 +14,7 @@
     {%- endfor %}
   {%- endcapture -%}
   
-     <div>{{ variant.id }}: {{ options }} - {{ variant.option1 }} {{ variant.option2 }} {{ variant.option3 }}</div>
+     <div>{{ options }} - {{ variant.option1 }} {{ variant.option2 }} {{ variant.option3 }}</div>
 {%- endfor %}
     <div class="radio_container thisbe-{{ product.options[0].size }} {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' and daftunit == 1 %} tempnot-hidden{% endif %}">
       <strong class="title">{{ product.options[0] }}</strong>
