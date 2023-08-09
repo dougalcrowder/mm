@@ -8,14 +8,12 @@
     {% assign daftunit = 0 %}
     {% assign optionName0 = product.options[0] | handleize %}
     {% for variant in product.variants -%}
-  {%- capture options -%}
-    {% for option in variant.option2 -%}
+
+    {% for option in variant.option1 -%}
       {{ option }}
     {%- endfor %}
-  {%- endcapture -%}
-  
-     <div>{{ options }} - {{ variant.option1 }} {{ variant.option2 }} {{ variant.option3 }}</div>
-{%- endfor %}
+
+    {%- endfor %}
     <div class="radio_container thisbe-{{ product.options[0].size }} {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' and daftunit == 1 %} tempnot-hidden{% endif %}">
       <strong class="title">{{ product.options[0] }}</strong>
       <fieldset id='select-one' onchange="letsDoThis()">
