@@ -332,7 +332,7 @@
 </cart-items>
 
 
-
+{% comment %}
 {%- unless coffeedup -%}
 {%- for item in cart.items -%}
 {%- for collect in item.product.collections -%}
@@ -350,6 +350,7 @@
 {%- endfor -%}
 {%- endfor -%}
 {%- endunless -%}
+{% endcomment %}
 
 <div class="empty-cart inner narrow center">
   <h2>Oh no, your cart is empty!</h2>
