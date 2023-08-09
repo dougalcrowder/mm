@@ -9,7 +9,7 @@
     {% assign optionName0 = product.options[0] | handleize %}
     {% for variant in product.variants -%}
   {%- capture options -%}
-    {% for option in variant.options -%}
+    {% for option in variant.option1 -%}
       {{ option }}{%- unless forloop.last -%}/{%- endunless -%}
     {%- endfor %}
   {%- endcapture -%}
