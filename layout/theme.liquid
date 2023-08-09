@@ -98,7 +98,8 @@
     {% section 'announcement-bar' %}
     {% endcomment %}
     {% section 'header' %}
-    {% section 'navigation' %}
+    {% comment %} {% section 'navigation' %} {% endcomment %}
+    {% section 'navigation-expanding' %}
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>

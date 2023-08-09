@@ -5,8 +5,16 @@
   <div class="variant_options">
     {% if product.options[0] %}
     {% assign used = '' %}
+    {% assign daftunit = 0 %}
     {% assign optionName0 = product.options[0] | handleize %}
-    <div class="radio_container {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' %} hidden{% endif %}">
+    {% for variant in product.variants %}
+        {% for option in variant.option1 -%}
+      {% assign daftunit = daftunit | plus: 1 %}
+      {%- endfor %}
+        
+        
+    {% endfor %}
+    <div class="radio_container thisbe-{{ product.options[0].size }} {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' and daftunit == 1 %} tempnot-hidden{% endif %}">
       <strong class="title">{{ product.options[0] }}</strong>
       <fieldset id='select-one' onchange="letsDoThis()">
         {% for variant in product.variants %}
@@ -216,6 +224,7 @@ function letsDoThis() {
   // console.log(image);
   
 }
+letsDoThis();
 </script>
 
 {% comment %}

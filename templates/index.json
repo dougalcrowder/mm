@@ -7,7 +7,9 @@
         "title": "<p>Last Christmas parcel Shipping dates- click here<\/p>",
         "link": "shopify:\/\/pages\/latest-posting-dates-christmas-delivery",
         "bg_pattern": "pattern_01",
-        "color_scheme": "blue_text"
+        "color_scheme": "blue_text",
+        "custom_color_on": false,
+        "custom_color": ""
       }
     },
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
@@ -210,7 +212,9 @@
         "title": "<p>Colour & Joy<\/p>",
         "link": "",
         "bg_pattern": "pattern_01",
-        "color_scheme": "red_text"
+        "color_scheme": "red_text",
+        "custom_color_on": false,
+        "custom_color": ""
       }
     },
     "163481963822b4d1b3": {
@@ -224,6 +228,7 @@
             "image": "shopify:\/\/shop_images\/bloom_blockprinting_dahlia_1800x1500_eddb13bb-5395-4bc2-ab3b-42e51f89d77e.jpg",
             "auto_height": "landscape",
             "cover": false,
+            "no_hover": false,
             "title": "Master Craftsmen",
             "subtitle": "Celebrating the new Bloom Collection",
             "subtitle_size": "small",
@@ -245,6 +250,7 @@
             "image": "shopify:\/\/shop_images\/bloom_block_printing_mughal_peach_sapgreen_1200x1500_10cc2741-6dc2-4475-bf29-891067929079.jpg",
             "auto_height": "none",
             "cover": true,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -266,6 +272,7 @@
             "image": "shopify:\/\/shop_images\/bloom_barn_curtain_dahlia_hot_pink_1000x1500_c159b2bc-75ce-4bcf-a0e2-2cd908d87adb.jpg",
             "auto_height": "portrait",
             "cover": false,
+            "no_hover": false,
             "title": "Bloom Fabric Collection",
             "subtitle": "",
             "subtitle_size": "small",
@@ -287,6 +294,7 @@
             "image": "shopify:\/\/shop_images\/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
             "auto_height": "portrait",
             "cover": true,
+            "no_hover": false,
             "title": "Bloom Lookbook",
             "subtitle": "",
             "subtitle_size": "small",
@@ -380,6 +388,7 @@
             "image": "shopify:\/\/shop_images\/bloom_chair_chequer_pink_warehouse_1300x1300_03b825d6-4ab3-44cb-aac5-232fc68f9e99.jpg",
             "auto_height": "square",
             "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -401,6 +410,7 @@
             "image": "shopify:\/\/shop_images\/bloom_cushion_collection_garden_1300x1300_54bb87cc-684b-45fe-8aa6-1d7b100e856c.jpg",
             "auto_height": "square",
             "cover": false,
+            "no_hover": false,
             "title": "Cushions",
             "subtitle": "",
             "subtitle_size": "small",
@@ -436,19 +446,20 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/2590830B-10A3-42A7-B2B9-8CE7AE8699C9_1_201_a_5fb2f284-c209-4a9b-b176-31911a895b31.jpg",
+            "image": "shopify:\/\/shop_images\/Strawberry_Mug_Lifestyle_1300x1300_d6ec1931-6a77-475e-b9ee-51438172704b.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "Coronation Special",
-            "subtitle": "Bespoke Tablecloth",
+            "no_hover": false,
+            "title": "",
+            "subtitle": "Strawberry Spongeware Mugs",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p>Made in Stoke-on-Trent, UK<\/p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Shop here",
-            "button_link": "shopify:\/\/products\/table-cloth-coronation-oak-leaf",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/mug-strawberry",
             "subtext": ""
           }
         },
@@ -457,19 +468,20 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/lighting_seed_twig_1300x1300_83582815-e9d7-4c41-969e-7f5394601ba4.jpg",
+            "image": "shopify:\/\/shop_images\/Strawberry_Mug_TeaTowel_Lifestyle3_1300x1300_408d1dfc-732b-4ae4-a3ff-6327a5a6df4e.jpg",
             "auto_height": "square",
             "cover": false,
-            "title": "Light up your Home",
-            "subtitle": "",
+            "no_hover": false,
+            "title": "",
+            "subtitle": "New Strawberry Tea Towels",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p>Molly's Hand block printed design<\/p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Explore",
-            "button_link": "shopify:\/\/collections\/lighting",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/tea-towel-strawberry",
             "subtext": ""
           }
         }
@@ -485,6 +497,67 @@
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
+      }
+    },
+    "20923eed-ecdf-4786-8836-2e8d1d372264": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/fabric_poppy_mustard_sky_breakfastroom_curtains_1000x1500_44b43f64-be28-45b8-b96c-c95ea0335e9b.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Summer is In!",
+            "subtitle": "Greencombe Collection",
+            "subtitle_size": "small",
+            "text": "<p>Explore our full fabric range<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore Fabric",
+            "button_link": "shopify:\/\/collections\/fabric",
+            "subtext": ""
+          }
+        },
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_PINK_LIFESTLE.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Duvet too hot?",
+            "subtitle": "Try our soft luxurious cotton quilts",
+            "subtitle_size": "small",
+            "text": "<p>Versatility - Extra warmth in the winter and the perfect layer for the summer with nothing more than a simple sheet below.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Quilts",
+            "button_link": "shopify:\/\/collections\/bedding-1",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0",
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "sm"
       }
     },
     "1634821627eaee293f": {
@@ -589,6 +662,7 @@
             "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
             "auto_height": "square",
             "cover": false,
+            "no_hover": false,
             "title": "Workshops",
             "subtitle": "Get Creative",
             "subtitle_size": "small",
@@ -610,6 +684,7 @@
             "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
             "auto_height": "square",
             "cover": false,
+            "no_hover": false,
             "title": "Printing Supplies",
             "subtitle": "For the budding Block printer",
             "subtitle_size": "small",
@@ -633,8 +708,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
+        "margin_top": "s",
+        "margin_bot": "sm"
       }
     },
     "16348163341a2e5254": {
@@ -762,6 +837,7 @@
     "1657125172969e3f3f",
     "16571921305b28430e",
     "1657185355c64083f9",
+    "20923eed-ecdf-4786-8836-2e8d1d372264",
     "1634821627eaee293f",
     "164129687781f3cb6c",
     "165712871247f6866c",

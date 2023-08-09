@@ -1,0 +1,699 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "447a1f18-81df-42d0-8780-c2dd10a88558": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14581320450106__447a1f18-81df-42d0-8780-c2dd10a88558-1687427524614585d5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Berry"
+          }
+        },
+        "template--14581320450106__447a1f18-81df-42d0-8780-c2dd10a88558-1687427524614585d5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A fabric design based on Molly’s love of dots, this fun design is perfect for adding delightful pops of colour to any room or garment. There are three colourways that each use two shades to represent the small fruits that nature provides us.<\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__447a1f18-81df-42d0-8780-c2dd10a88558-1687427524614585d5-0",
+        "template--14581320450106__447a1f18-81df-42d0-8780-c2dd10a88558-1687427524614585d5-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cushion_berry_iron_rose_half_50x50_1300x1300_14ae7718-d259-433f-9cce-b7ccf5fa29fb.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "86566aca-5010-4ee4-9ecb-b84bfccf0ef6": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14562870460474__86566aca-5010-4ee4-9ecb-b84bfccf0ef6-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dianthus"
+          }
+        },
+        "template--14562870460474__86566aca-5010-4ee4-9ecb-b84bfccf0ef6-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This fabric wonderfully merges a large repeating pattern and rich, earth tones for a design that is sophisticated and uplifting. It features sprigs of dianthus with their distinctive, two-toned frilled petals and jagged leaf shape. It is available in two colourways; rust & rose and indigo & iron.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14562870460474__86566aca-5010-4ee4-9ecb-b84bfccf0ef6-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562870460474__86566aca-5010-4ee4-9ecb-b84bfccf0ef6-1687269573222b7814-0",
+        "template--14562870460474__86566aca-5010-4ee4-9ecb-b84bfccf0ef6-1687269573222b7814-1",
+        "template--14562870460474__86566aca-5010-4ee4-9ecb-b84bfccf0ef6-1687269573222b7814-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DIANTHUS_FOURPOSTER.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "45493cec-23d9-4fd5-b283-f12eba8eefb4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14581320450106__45493cec-23d9-4fd5-b283-f12eba8eefb4-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ellies"
+          }
+        },
+        "template--14581320450106__45493cec-23d9-4fd5-b283-f12eba8eefb4-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This charming pattern depicts magnificent elephants marching along trunk to tail.  There is obvious movement in the design which allows you to easily envision a herd stomping through the undergrowth of Indian forests. <\/p>",
+            "code": ""
+          }
+        },
+        "template--14581320450106__45493cec-23d9-4fd5-b283-f12eba8eefb4-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__45493cec-23d9-4fd5-b283-f12eba8eefb4-1687269573222b7814-0",
+        "template--14581320450106__45493cec-23d9-4fd5-b283-f12eba8eefb4-1687269573222b7814-1",
+        "template--14581320450106__45493cec-23d9-4fd5-b283-f12eba8eefb4-1687269573222b7814-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FABRIC_ELLIES_ROSE_1300x1300_7714dcfb-6efd-4b2c-8d47-1e7561f56951.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "71c95eec-0196-4ce1-83fe-f120b630deeb": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14581320450106__71c95eec-0196-4ce1-83fe-f120b630deeb-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Trellis"
+          }
+        },
+        "template--14581320450106__71c95eec-0196-4ce1-83fe-f120b630deeb-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Adopting the lines of an instantly recognisable garden trellis, this design from Molly Mahon is a block-printed interpretation of woven cloth. The pattern cleverly uses three colours to create lines, checks and squares.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14581320450106__71c95eec-0196-4ce1-83fe-f120b630deeb-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__71c95eec-0196-4ce1-83fe-f120b630deeb-1687269573222b7814-0",
+        "template--14581320450106__71c95eec-0196-4ce1-83fe-f120b630deeb-1687269573222b7814-1",
+        "template--14581320450106__71c95eec-0196-4ce1-83fe-f120b630deeb-1687269573222b7814-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PRIMROSE_TRELLIS_BEDHEAD_GREENCOMBE_1.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "4fa29e51-0294-4b33-9a20-635b772ece8a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Greencombe Collection",
+        "collection": "greencombe",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
+    "16624577622fefe57b": {
+      "type": "feature-slides",
+      "blocks": {
+        "16624577610885c164-0": {
+          "type": "text",
+          "settings": {
+            "heading": "The Jaipur collection",
+            "heading_size": "medium",
+            "text": "<p>Molly's signature and award-winning collection is based on the vibrant colours seen across Rajasthan's capital city of Jaipur.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16624577610885c164-0"
+      ],
+      "settings": {
+        "background": "#ffc7ca",
+        "margin_top": "l",
+        "margin_bot": "none",
+        "slides_title": "Explore the Jaipur collection below"
+      }
+    },
+    "165d16ce-9872-401e-9dfd-d3cf73506a50": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14581320450106__165d16ce-9872-401e-9dfd-d3cf73506a50-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Luna"
+          }
+        },
+        "template--14581320450106__165d16ce-9872-401e-9dfd-d3cf73506a50-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Luna is an enthralling pattern that plays with light and dark to create something truly special. The design includes tube-like shapes with pops of white and contrasting colour running through it. Hand printed onto 100% linen, it is a versatile fabric that can be used for so many projects. <\/p>",
+            "code": ""
+          }
+        },
+        "template--14581320450106__165d16ce-9872-401e-9dfd-d3cf73506a50-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__165d16ce-9872-401e-9dfd-d3cf73506a50-1687269573222b7814-0",
+        "template--14581320450106__165d16ce-9872-401e-9dfd-d3cf73506a50-1687269573222b7814-1",
+        "template--14581320450106__165d16ce-9872-401e-9dfd-d3cf73506a50-1687269573222b7814-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CLIENT_LUNA_PINK_CURTAINS.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "ad522d9b-4615-4167-993d-9f9ed16e0ee0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14581320450106__ad522d9b-4615-4167-993d-9f9ed16e0ee0-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Marigold"
+          }
+        },
+        "template--14581320450106__ad522d9b-4615-4167-993d-9f9ed16e0ee0-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Available in two varieties, our bold Marigold wallpaper pays tribute to one of Molly’s most loved flowers. On the subcontinent, Marigolds are a symbol of passion and creativity which makes them a fitting focus for this hand block printed fabric. The design depicts the instantly recognisable layers of frothy petals sitting atop a thin stem.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14581320450106__ad522d9b-4615-4167-993d-9f9ed16e0ee0-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__ad522d9b-4615-4167-993d-9f9ed16e0ee0-1687269573222b7814-0",
+        "template--14581320450106__ad522d9b-4615-4167-993d-9f9ed16e0ee0-1687269573222b7814-1",
+        "template--14581320450106__ad522d9b-4615-4167-993d-9f9ed16e0ee0-1687269573222b7814-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/blockprinting_marigold_kewel_1600x900_1c532996-956c-4ad1-bbdd-d16dc3103e66.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "e5ea998f-dd2c-491c-8458-62edd1c51497": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14581320450106__e5ea998f-dd2c-491c-8458-62edd1c51497-168733728770765745-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Oak"
+          }
+        },
+        "template--14581320450106__e5ea998f-dd2c-491c-8458-62edd1c51497-168733728770765745-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Oak is a playful pattern based on the grand oak trees that loom over the landscape near Molly’s home. This block print linen features the shape of an oak leaf, plucked from the ground, and traced into Molly’s sketchbook alongside autumnal acorns.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14581320450106__e5ea998f-dd2c-491c-8458-62edd1c51497-168733728770765745-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__e5ea998f-dd2c-491c-8458-62edd1c51497-168733728770765745-0",
+        "template--14581320450106__e5ea998f-dd2c-491c-8458-62edd1c51497-168733728770765745-1",
+        "template--14581320450106__e5ea998f-dd2c-491c-8458-62edd1c51497-168733728770765745-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/fabric_oak_blue_blind_chelwood_1300x1300_c075adf7-b754-4982-9a0a-6b1cb9bcb084.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "4e838adf-b9e2-4229-a666-ecfdcb498210": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14581320450106__4e838adf-b9e2-4229-a666-ecfdcb498210-168733728770765745-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pattee"
+          }
+        },
+        "template--14581320450106__4e838adf-b9e2-4229-a666-ecfdcb498210-168733728770765745-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Pattee design is based on geometric, decorative fretwork and is influenced by the architecture and Persian gardens of Jaipur’s Amber Fort. This block print linen comes in four cheerful colourways; blue, khaki, pink and turmeric, with the repeating pattern featuring floral shapes of alternating colours. <\/p>",
+            "code": ""
+          }
+        },
+        "template--14581320450106__4e838adf-b9e2-4229-a666-ecfdcb498210-168733728770765745-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__4e838adf-b9e2-4229-a666-ecfdcb498210-168733728770765745-0",
+        "template--14581320450106__4e838adf-b9e2-4229-a666-ecfdcb498210-168733728770765745-1",
+        "template--14581320450106__4e838adf-b9e2-4229-a666-ecfdcb498210-168733728770765745-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PATTEEPINKARMCHAIR.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "0d66ab62-e828-4a5f-ab2b-406d872cbfde": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Jaipur Collection",
+        "collection": "jaipur-collection",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
+    "e9d568c3-9dbd-4cd4-9bb7-9f62e217a60a": {
+      "type": "2-column-text",
+      "blocks": {
+        "template--14581320450106__e9d568c3-9dbd-4cd4-9bb7-9f62e217a60a-16873393427ded5542-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Spots, stripes, stars or all three? The pattern mixing method",
+            "heading_size": "medium",
+            "text": "<p>The power of patterns lies in their ability to add energy. The pattern of a fabric, in particular, can alter the scale of a piece of furniture or impact the perceived dimensions of an entire room. This is why mixing patterns within a space can have amazing results.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "d39a1771-33c3-4b50-b99a-3fe891f2abe5": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>If you want to try fusing different fabric designs, there are so many ways in which you can experiment. You could try pairing patterns of different scales, for instance, or blending simple and more intricate designs. Picking patterns that share a tonal family or colour palette can also work well, as can providing contrast through the use of shades.<\/p><p>You can break up patterns by adding blocks of colour to keep things balanced but if you want a space filled with clashing colours, the only real limit is your imagination!<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__e9d568c3-9dbd-4cd4-9bb7-9f62e217a60a-16873393427ded5542-0",
+        "d39a1771-33c3-4b50-b99a-3fe891f2abe5"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "a015adca-2c4c-4f68-ad15-a1b32eacd096": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14581320450106__a015adca-2c4c-4f68-ad15-a1b32eacd096-1687339518b3226acc-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14581320450106__a015adca-2c4c-4f68-ad15-a1b32eacd096-1687339518b3226acc-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14581320450106__a015adca-2c4c-4f68-ad15-a1b32eacd096-1687339518b3226acc-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__a015adca-2c4c-4f68-ad15-a1b32eacd096-1687339518b3226acc-0",
+        "template--14581320450106__a015adca-2c4c-4f68-ad15-a1b32eacd096-1687339518b3226acc-1",
+        "template--14581320450106__a015adca-2c4c-4f68-ad15-a1b32eacd096-1687339518b3226acc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "fc123006-4ded-45cd-9e88-72b7b7c05b1b": {
+      "type": "2-column-text",
+      "blocks": {
+        "template--14581320450106__fc123006-4ded-45cd-9e88-72b7b7c05b1b-16873393427ded5542-0": {
+          "type": "text",
+          "settings": {
+            "heading": "From inception to India to interior",
+            "heading_size": "medium",
+            "text": "<p>All of our designs start as doodles in Molly's sketchbook. She captures the essence of her surroundings by tracing foliage, reimagining the things she has seen on her travels and paying homage to the architecture that she encounters.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "48905be6-3a69-44ee-b47e-8915b8091636": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>These designs are then immortalised by expert craftspeople who hand carve them into a block of material such as wood, rubber, or linoleum. It is these blocks that are then used to transfer the design onto eco-conscious fabric or paper. This process is carried out by skilled artisans in India who have been practising this hand printing technique for years, as part of the heritage of the country which spans centuries.<\/p><p>The final products are offered via this website, Molly’s London concession and a number of outposts around the world. <\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__fc123006-4ded-45cd-9e88-72b7b7c05b1b-16873393427ded5542-0",
+        "48905be6-3a69-44ee-b47e-8915b8091636"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "df4eb472-a57d-4522-aed7-0e65fc6fc361": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Learn more about block printing",
+        "link": "shopify:\/\/pages\/block-printing",
+        "color_scheme": "dark"
+      }
+    },
+    "df61736b-c334-4454-8591-12252c56fbf2": {
+      "type": "2-column-text",
+      "blocks": {
+        "template--14581320450106__df61736b-c334-4454-8591-12252c56fbf2-16873393427ded5542-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Perfecting the imperfections",
+            "heading_size": "medium",
+            "text": "<p>The human touch of our fabrics is what makes them so endearing. By using the ancient art of blocking printing to create our designs rather than mass manufacturing methods, minor imperfections appear across the material which cannot be replicated. This makes each metre totally unique.<\/p><p>The technique is one of the earliest forms of printmaking and is believed to have emerged as early as the 5th century BC. Its roots can be found in Asia, and it was during the Mughal rule in India when it really flourished as a craft.<\/p><p>The floral motifs that founded this practice are still as popular today, even though adaptions to original designs took place once the method was introduced to Europe in the 17th century.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "5d4547a2-bd0f-4d3c-b2f9-93a7b4a9943d": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>In India, the craft industry is vital to their economy and an integral part of the country’s culture and history. Unfortunately, it is at risk of being lost as modern manufacturing techniques continue to take a stronger hold.<\/p><p>It is for all these reasons that it is so important to Molly that her designs continue to be brought to life by the expert craftspeople of Jaipur. Their level of skill and the quality of the finished items cannot be compared to those born from mass production. What’s more, by partnering with artisans in Rajasthan, we are supporting the communities which rely on the income from the craft industry and helping to preserve an ancient art.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__df61736b-c334-4454-8591-12252c56fbf2-16873393427ded5542-0",
+        "5d4547a2-bd0f-4d3c-b2f9-93a7b4a9943d"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "d7a90fb0-c770-46bc-84e7-defd376189fc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14581320450106__d7a90fb0-c770-46bc-84e7-defd376189fc-1687339518b3226acc-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14581320450106__d7a90fb0-c770-46bc-84e7-defd376189fc-1687339518b3226acc-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14581320450106__d7a90fb0-c770-46bc-84e7-defd376189fc-1687339518b3226acc-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__d7a90fb0-c770-46bc-84e7-defd376189fc-1687339518b3226acc-0",
+        "template--14581320450106__d7a90fb0-c770-46bc-84e7-defd376189fc-1687339518b3226acc-1",
+        "template--14581320450106__d7a90fb0-c770-46bc-84e7-defd376189fc-1687339518b3226acc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bloom_blockprinting_dahlia_1800x1000_8c5274e1-df52-4854-86a9-9fb440c6d8dd.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "c3e113f7-3fdf-40b7-8ab7-d170dc3cf8ee": {
+      "type": "2-column-text",
+      "blocks": {
+        "template--14581320450106__c3e113f7-3fdf-40b7-8ab7-d170dc3cf8ee-16873393427ded5542-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Conscious creativity",
+            "heading_size": "medium",
+            "text": "<p>We believe that protecting the planet is just as important as protecting heritage crafts which is why we approach every aspect of our business with sustainability in mind. We source organic cotton and eco-conscious, plant-based fabrics, and use water-based dyes and natural pigments wherever possible.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "5b45fe22-9099-4e24-8083-53295fe9232f": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>In addition, we use zero plastic within our packaging and have taken steps to balance the impact we have on the environment as a result of the air miles used to transport our products.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14581320450106__c3e113f7-3fdf-40b7-8ab7-d170dc3cf8ee-16873393427ded5542-0",
+        "5b45fe22-9099-4e24-8083-53295fe9232f"
+      ],
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "d3928044-d70f-4c93-8f0d-c07f45c56be2": {
+      "type": "text-banner",
+      "settings": {
+        "title": "",
+        "link": "",
+        "bg_pattern": "pattern_01",
+        "color_scheme": "white_text",
+        "custom_color_on": false,
+        "custom_color": ""
+      }
+    },
+    "e21cc4ba-a88e-4757-b7cb-053127a755ef": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Get artistically inspired",
+        "heading_size": "medium",
+        "text": "<p>If you are interested in learning more about block printing and how to use this time-honoured technique to add creative flair to your home, then be sure to take a look at the upcoming workshops and events that Molly will be hosting. These workshops make for a fun and immersive day out but also give you the opportunity to create a bespoke item for your home. There's also the option to give the gift of a workshop to a loved one or access Molly's online course which comprises videos and lesson plans packed full of tips, advice and ideas.<\/p>",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
+      }
+    },
+    "ac3de1a7-29ad-4121-ad1d-86d94987dccc": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Find out more about workshops and events",
+        "link": "shopify:\/\/pages\/block-printing-weekend-workshops",
+        "color_scheme": "dark"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "447a1f18-81df-42d0-8780-c2dd10a88558",
+    "86566aca-5010-4ee4-9ecb-b84bfccf0ef6",
+    "45493cec-23d9-4fd5-b283-f12eba8eefb4",
+    "71c95eec-0196-4ce1-83fe-f120b630deeb",
+    "4fa29e51-0294-4b33-9a20-635b772ece8a",
+    "16624577622fefe57b",
+    "165d16ce-9872-401e-9dfd-d3cf73506a50",
+    "ad522d9b-4615-4167-993d-9f9ed16e0ee0",
+    "e5ea998f-dd2c-491c-8458-62edd1c51497",
+    "4e838adf-b9e2-4229-a666-ecfdcb498210",
+    "0d66ab62-e828-4a5f-ab2b-406d872cbfde",
+    "e9d568c3-9dbd-4cd4-9bb7-9f62e217a60a",
+    "a015adca-2c4c-4f68-ad15-a1b32eacd096",
+    "fc123006-4ded-45cd-9e88-72b7b7c05b1b",
+    "df4eb472-a57d-4522-aed7-0e65fc6fc361",
+    "df61736b-c334-4454-8591-12252c56fbf2",
+    "d7a90fb0-c770-46bc-84e7-defd376189fc",
+    "c3e113f7-3fdf-40b7-8ab7-d170dc3cf8ee",
+    "d3928044-d70f-4c93-8f0d-c07f45c56be2",
+    "e21cc4ba-a88e-4757-b7cb-053127a755ef",
+    "ac3de1a7-29ad-4121-ad1d-86d94987dccc"
+  ]
+}
