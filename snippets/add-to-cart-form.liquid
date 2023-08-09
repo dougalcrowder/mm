@@ -8,10 +8,10 @@
     {% assign daftunit = 0 %}
     {% assign optionName0 = product.options[0] | handleize %}
     {% for variant in product.variants %}
-        {% for option in variant.option1 -%}
+      
       {% assign daftunit = daftunit | plus: 1 %}
-          <div>{{ option }}</div>
-      {%- endfor %}
+          <div>{{ variant.option1 }}</div>
+
         
         
     {% endfor %}
