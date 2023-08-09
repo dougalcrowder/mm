@@ -8,9 +8,11 @@
     {% assign daftunit = 0 %}
     {% assign optionName0 = product.options[0] | handleize %}
     {% for variant in product.variants %}
-        {% unless used contains variant.option1 %} 
-        {% assign daftunit = daftunit | plus: 1 %}
-        {% endunless %}
+        {% for option in variant.option1 -%}
+      {% assign daftunit = daftunit | plus: 1 %}
+      {%- endfor %}
+        
+        
     {% endfor %}
     <div class="radio_container thisbe-{{ daftunit }} {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' and daftunit == 1 %} tempnot-hidden{% endif %}">
       <strong class="title">{{ product.options[0] }}</strong>
