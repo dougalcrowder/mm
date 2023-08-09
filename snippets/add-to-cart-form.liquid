@@ -17,7 +17,7 @@
         {% endunless %}
     {% endfor %}
       {{ product.variants.size }}
-    <div class="radio_container thisbe-{{ product.options[0].size }} {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' and daftunit == 1 %} tempnot-hidden{% endif %}">
+    <div class="radio_container thisbe-{{ daftunit }} {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' and daftunit == 1 %} tempnot-hidden{% endif %}">
       <strong class="title">{{ product.options[0] }}</strong>
       <fieldset id='select-one' onchange="letsDoThis()">
         {% for variant in product.variants %}
