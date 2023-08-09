@@ -12,11 +12,11 @@
     {% for variant in product.variants %}
         {% unless reused contains variant.option1 %}
           <div>{{ reused }} - {{ variant.option1 }}</div>
+          {% capture reused %}{{ reused }} {{ variant.option1 }}{% endcapture %}
           {% assign daftunit = daftunit | plus: 1 %}
-        {% capture reused %}{{ reused }} {{ variant.option1 }}{% endcapture %}
         {% endunless %}
     {% endfor %}
-      
+      {{ product.variants.size }}
     <div class="radio_container thisbe-{{ product.options[0].size }} {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' and daftunit == 1 %} tempnot-hidden{% endif %}">
       <strong class="title">{{ product.options[0] }}</strong>
       <fieldset id='select-one' onchange="letsDoThis()">
