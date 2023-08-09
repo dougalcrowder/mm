@@ -10,6 +10,7 @@
     {% for variant in product.variants %}
         {% for option in variant.option1 -%}
       {% assign daftunit = daftunit | plus: 1 %}
+          <div>{{ option }}</div>
       {%- endfor %}
         
         
