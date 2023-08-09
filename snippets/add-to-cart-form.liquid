@@ -5,8 +5,16 @@
   <div class="variant_options">
     {% if product.options[0] %}
     {% assign used = '' %}
+    {% assign daftunit = '' %}
     {% assign optionName0 = product.options[0] | handleize %}
-    <div class="radio_container {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' %} tempnot-hidden{% endif %}">
+    {% for variant in product.variants %}
+        {% unless used contains variant.option1 %} 
+        {% if forloop.index == 2 %}
+        {% assign daftunit = 'daft' %}
+        {% endif %}
+        {% endunless %}
+    {% endfor %}
+    <div class="radio_container {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' and daftunit == 'daft' %} tempnot-hidden{% endif %}">
       <strong class="title">{{ product.options[0] }}</strong>
       <fieldset id='select-one' onchange="letsDoThis()">
         {% for variant in product.variants %}
