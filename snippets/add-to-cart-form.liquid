@@ -5,8 +5,18 @@
   <div class="variant_options">
     {% if product.options[0] %}
     {% assign used = '' %}
+    {% assign reused = '' %}
+    {% assign daftunit = 0 %}
     {% assign optionName0 = product.options[0] | handleize %}
-    <div class="radio_container {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' %} hidden{% endif %}">
+
+    {% for variant in product.variants %}
+        {% unless reused contains variant.option1 %}
+          {% capture reused %}{{ reused }} {{ variant.option1 }}{% endcapture %}
+          {% assign daftunit = daftunit | plus: 1 %}
+        {% endunless %}
+    {% endfor %}
+
+    <div class="radio_container thisbe-{{ daftunit }} {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' and daftunit == 1 %} hidden{% endif %}">
       <strong class="title">{{ product.options[0] }}</strong>
       <fieldset id='select-one' onchange="letsDoThis()">
         {% for variant in product.variants %}
@@ -216,6 +226,7 @@ function letsDoThis() {
   // console.log(image);
   
 }
+letsDoThis();
 </script>
 
 {% comment %}

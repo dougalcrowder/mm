@@ -8,15 +8,8 @@
         "share_label": "Share"
       }
     },
-    "ff6417d2-9ccb-460e-9525-c0e8141fc5e6": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n.special_columns {\n  max-width: 960px;\n  padding-right: 24px;\n  padding-left: 24px;\n  margin: 0 auto;\n}\n@media screen and (min-width: 768px) {\n.special_columns {\n    column-count: 2;\n    column-gap: 80px;\n  }\n}\n<\/style>\n<div class=\"inner mininner mt-l mb-l\">\n<div class=\"special_columns\">\n{{ product.description }}\n<\/div>\n<\/div>"
-      }
-    },
     "10f29d07-aa0e-4468-b713-8a67a0d99eae": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--14494911627322__10f29d07-aa0e-4468-b713-8a67a0d99eae-167172543532a87229-1": {
           "type": "text",
@@ -62,7 +55,6 @@
   },
   "order": [
     "main",
-    "ff6417d2-9ccb-460e-9525-c0e8141fc5e6",
     "10f29d07-aa0e-4468-b713-8a67a0d99eae",
     "4487d5ac-cc4f-4b18-bd26-f90adee96758",
     "product-recommendations",

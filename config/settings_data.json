@@ -513,6 +513,17 @@
         "type": "sidecart",
         "settings": {
         }
+      },
+      "text-banner": {
+        "type": "text-banner",
+        "settings": {
+          "title": "<p>Trade enquiries 👉<\/p>",
+          "link": "shopify:\/\/pages\/trade",
+          "bg_pattern": "pattern_01",
+          "color_scheme": "white_text",
+          "custom_color_on": true,
+          "custom_color": "#ca1e2a"
+        }
       }
     },
     "content_for_index": [
