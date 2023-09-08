@@ -1,5 +1,10 @@
 {
   "sections": {
+    "1158a4b2-a2e7-4808-b234-8b7d8432e502": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-blog",
       "settings": {
@@ -12,6 +17,7 @@
     }
   },
   "order": [
+    "1158a4b2-a2e7-4808-b234-8b7d8432e502",
     "main"
   ]
 }
