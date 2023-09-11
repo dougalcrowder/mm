@@ -1,6 +1,5 @@
 {
     "/blog.js": "/blog.js",
-    "/cart.js": "/cart.js",
     "/facets.js": "/facets.js",
     "/main.js": "/main.js",
     "/main.css": "/main.css",
@@ -21,5 +20,6 @@
     "/product-card.css": "/product-card.css",
     "/mailchimp.css": "/mailchimp.css",
     "/modal_video.js": "/modal_video.js",
+    "/scripts.js": "/scripts.js",
     "/js/main.min.js": "/js/main.min.js"
 }

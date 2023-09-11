@@ -20,10 +20,18 @@
     {% else %}
     </a>
     {% endif %}
+    
     <div class="header_links flex">
-      <div class="trade_link">
+      <nav class="secondary-nav">
+        {% for link in linklists.header-sub-menu.links %}
+        <a href="{{ link.url }}" class="nav-item {% if link.active %} link_active{% endif %}">
+          {{ link.title }}
+        </a>
+        {% endfor %}
+      </nav>
+      {% comment %} <div class="trade_link">
         <a class="button outline small" href="/pages/trade">Trade</a>
-      </div>
+      </div> {% endcomment %}
       <div class="header__icons">
         <div class="search_controls">
           <button class="button searchtoggle nude" id="searchToggle">
@@ -66,17 +74,20 @@
       </a>
     </div>
     </div>
+    {% comment %}
     {% if section.settings.menu_message != blank %}
     <div class="navnudge" id="navNudge">
       <p>{{ section.settings.menu_message }}</p>
       {% include 'icon-arrow_curve' %}
     </div>
     {% endif %}
+    {% endcomment %}
+    <nav class="navigation" id="accessibleNav" role="navigation">
+      {% include 'mega-nav' %}
+    </nav>
   </header>
 </sticky-header>
 
-
-{%- render 'cart-notification', color_scheme: section.settings.color_scheme -%}
 
 <script type="application/ld+json">
   {
