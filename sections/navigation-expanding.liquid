@@ -10,7 +10,7 @@
         {% assign parentIndex = forloop.index %}
         {% for child_link in link.links %}  
         <li class="second {% if child_link.active %} active {% if child_link.child_active %}child-active{% endif %}{% endif %}{% if child_link.links.size > 0 %} children{% endif %}{% if child_link.url == "#" %} no_link{% endif %}">
-          <a href= "{{ child_link.url }}">{% if child_link.title contains 'image_style' %}{{ child_link.title | remove 'image_style' }}{% else %}{{ child_link.title }}{% endif %}</a>
+          <a href= "{{ child_link.url }}">{% if child_link.title contains 'image_style' %}{{ child_link.title | remove: 'image_style' }}{% else %}{{ child_link.title }}{% endif %}</a>
         {% if child_link.links.size > 0 %}
           <input class="check_two" type="checkbox" name="checkNavTwo-{{  forloop.index }}{{ parentIndex }}" id="checkNavTwo-{{  forloop.index }}{{ parentIndex }}">
           <label class="crossbox" for="checkNavTwo-{{  forloop.index }}{{ parentIndex }}"><span class="visually-hidden">Open {{ child_link.title }} child items</label>
