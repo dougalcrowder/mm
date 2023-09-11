@@ -58,7 +58,7 @@
                       <img loading="lazy" class="lazyloadthisatsomepoint" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="image of {{ navCollection.title }}" width="300" height="400" />
                     </picture>
                     {% unless childlink.title == 'hidden' %}
-                    <div class="uppercase text-center">{{ navCollection.title }}</div>
+                    <div class="uppercase text-center">{{ childlink.title | remove: 'image_style' }}</div>
                     {% endunless %}
                     </a>
                   </li>
