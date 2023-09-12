@@ -1,10 +1,8 @@
 {
     "/blog.js": "/blog.js",
-    "/cart.js": "/cart.js",
     "/facets.js": "/facets.js",
     "/main.js": "/main.js",
     "/main.css": "/main.css",
-    "/header.css": "/header.css",
     "/products.css": "/products.css",
     "/collections.css": "/collections.css",
     "/blog.css": "/blog.css",
@@ -21,5 +19,7 @@
     "/product-card.css": "/product-card.css",
     "/mailchimp.css": "/mailchimp.css",
     "/modal_video.js": "/modal_video.js",
-    "/js/main.min.js": "/js/main.min.js"
+    "/scripts.js": "/scripts.js",
+    "/js/main.min.js": "/js/main.min.js",
+    "/header.css": "/header.css"
 }
