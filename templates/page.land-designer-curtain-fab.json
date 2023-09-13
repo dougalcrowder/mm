@@ -431,14 +431,82 @@
         "layout": "image_first"
       }
     },
-    "deb91166-c2e6-4824-a39d-3fc13a751fdc": {
-      "type": "featured-collection",
+    "dd733051-8c38-4e3a-a472-ffc7c213e142": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Primrose"
+          }
+        },
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This charming design captures the essence of the primrose flower perfectly. The elegant petals are a rich indigo colour and rest on a bunch of bright, green leaves. Pale blue figures of the primrose create a backdrop for the prominent patterns and merge to give the illusion of a cloudy summer sky.  <\/p>",
+            "code": ""
+          }
+        },
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-0",
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-1",
+        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-2"
+      ],
       "settings": {
-        "title": "Deerhyrst Collection",
-        "collection": "deerhyrst-fabric-collection",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "show_secondary_image": false
+        "image": "shopify:\/\/shop_images\/PRIMROSE_TRELLIS_BEDHEAD_GREENCOMBE_1.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "114f074a-074f-486e-be5c-14bc65814ba8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rose"
+          }
+        },
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Known for their beauty and delicate scent, roses have been symbolic across cultures and countries throughout the ages. For some, they are seen as a representation of overcoming difficulties; their prickly stems symbolising adversities and the flower representing the reward one can reap when persistent. For others, they represent passion and love. Roses have featured prominently in art and literature for centuries and now appear on this spectacular fabric as classic rosettes, in a bold repeating pattern.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-0",
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-1",
+        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/EMERALD_GREEN_F_B-MARIGOLD_PINKGREEN_ROSE_PINK1000x1500.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
       }
     },
     "16624574182228dbc7": {
@@ -486,7 +554,7 @@
         "16619640584483b84f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BAGRUBLOCKPRINTLIFE.jpg",
+        "image": "shopify:\/\/shop_images\/fabric_oak_blue_blind_chelwood_1300x1300_c075adf7-b754-4982-9a0a-6b1cb9bcb084.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -501,45 +569,6 @@
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
-      }
-    },
-    "dd733051-8c38-4e3a-a472-ffc7c213e142": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bindi"
-          }
-        },
-        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>This design elevates the popular stripe pattern by adding shape and movement. The pattern can be interpreted in a multitude of ways from the hanging vines of a plant to the tracks left in the earth by a plough. This 100% cotton, hand block print fabric is available in pink, pale blue, or aubergine.<\/p>",
-            "code": ""
-          }
-        },
-        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-0",
-        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-1",
-        "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/fabric_bindi_chair_bathroom_keane_1000x1500_c11dc504-de12-49f6-ac40-d74205b9f188.jpg",
-        "title": "",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first"
       }
     },
     "166d57ac-b992-4383-9c90-28dcc60c37d1": {
@@ -579,45 +608,6 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first"
-      }
-    },
-    "114f074a-074f-486e-be5c-14bc65814ba8": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Stars"
-          }
-        },
-        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Stars is a captivating reverse design that has a deep indigo background adorned with bright celestial shapes. It can stand on its own to make a statement but also works wonderfully when layered with other colours and patterns.<\/p>",
-            "code": ""
-          }
-        },
-        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-0",
-        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-1",
-        "template--14562870460474__114f074a-074f-486e-be5c-14bc65814ba8-1687269573222b7814-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/CUSHION_STARS_INDIGO_LIFE_50X500CM.jpg",
-        "title": "",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first"
       }
     },
     "8a675c43-8c9b-40a0-beaa-8345894fcfe8": {
@@ -814,12 +804,11 @@
     "19a16aed-d2b5-40d2-a349-7f55728a6a61",
     "2a7cec99-8e29-4da9-929e-fb75b5e9cb53",
     "3d95b960-e3e4-4764-857f-65f3318182a3",
-    "deb91166-c2e6-4824-a39d-3fc13a751fdc",
+    "dd733051-8c38-4e3a-a472-ffc7c213e142",
+    "114f074a-074f-486e-be5c-14bc65814ba8",
     "16624574182228dbc7",
     "1661964058633d317f",
-    "dd733051-8c38-4e3a-a472-ffc7c213e142",
     "166d57ac-b992-4383-9c90-28dcc60c37d1",
-    "114f074a-074f-486e-be5c-14bc65814ba8",
     "8a675c43-8c9b-40a0-beaa-8345894fcfe8",
     "5922c58c-c48d-4f42-9dfb-652a7a25d6f5",
     "16624577622fefe57b",
