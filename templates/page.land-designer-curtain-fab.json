@@ -89,7 +89,6 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/fabric_mughal_skyindigo_curtains_bedroom_1300x1300_0d32847a-654c-4df8-aaae-d8468cd32233.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -237,7 +236,7 @@
         "1662457041351d627c-0": {
           "type": "text",
           "settings": {
-            "heading": "Floral curtain Fabric",
+            "heading": "Floral Curtain Fabric",
             "heading_size": "medium",
             "text": "<p>Floral patterns have the ability to inject colour and joy into any space whether it’s a small, ditsy print or big, bold blooms. They are a way to bring the beauty of nature into the home and this makes our floral fabrics fitting for statement curtains that will frame windows offering views of local landscapes.<\/p>",
             "button_label": "",
@@ -256,7 +255,7 @@
         "background": "#90bbe4",
         "margin_top": "l",
         "margin_bot": "none",
-        "slides_title": "Explore our floral patterns below"
+        "slides_title": "Explore our Floral print patterns below"
       }
     },
     "16642902403436f598": {
@@ -298,7 +297,7 @@
         "16642902392f0d0d4b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FIRMDALE_SOHO_LEAF_1800x900_b75972d7-ecba-4e3d-bb46-1fbcc190edcc.jpg",
+        "image": "shopify:\/\/shop_images\/fabric_tulip_curtain_1800x1000_fbcea8b5-fd6f-4b9d-8244-f90f9f3b920d.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -321,13 +320,13 @@
         "template--14562870460474__19a16aed-d2b5-40d2-a349-7f55728a6a61-1687269573222b7814-0": {
           "type": "heading",
           "settings": {
-            "heading": "Birds & Bees"
+            "heading": "Dianthus"
           }
         },
         "template--14562870460474__19a16aed-d2b5-40d2-a349-7f55728a6a61-1687269573222b7814-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Depicting the sights that Molly revels in during her walks in the stunning English countryside, our mono-colour cotton-linen blend adds life to any space. It depicts sprawling vines of mixed leaves and flowers alongside a variety of wildlife including birds, bees, butterflies and even cute little snails. It is available in a calming blue, tranquil pea green or uplifting blush colour.<\/p>",
+            "text": "<p>Rich, earthy shades are used in this design alongside a large-scale floral pattern. The refined yet lively depiction of a dianthus bloom features distinctive two-toned fringed petals and jagged leaves. It comes in two colourful varieties, rust & rose and indigo & iron.<\/p>",
             "code": ""
           }
         },
@@ -346,7 +345,7 @@
         "template--14562870460474__19a16aed-d2b5-40d2-a349-7f55728a6a61-1687269573222b7814-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_BABYROOM_1300X1300_8d571d1d-b764-4239-9470-30f6b88e6489.jpg",
+        "image": "shopify:\/\/shop_images\/chelwood-6.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -360,13 +359,13 @@
         "template--14562870460474__2a7cec99-8e29-4da9-929e-fb75b5e9cb53-1687269573222b7814-0": {
           "type": "heading",
           "settings": {
-            "heading": "Marwari Horse"
+            "heading": "Marigold"
           }
         },
         "template--14562870460474__2a7cec99-8e29-4da9-929e-fb75b5e9cb53-1687269573222b7814-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The Marwari horse is a rare breed from the north-western region of Rajasthan, Marwari. This fabric beautifully captures their strength and pace, with one front leg raised. Printed onto a 55% linen 45% cotton blend, this mono-coloured design comes in pink, duck and blue.<\/p>",
+            "text": "<p>This cheery fabric is an ode to one of Molly’s favourite flowers. Marigolds are a symbol of passion and creativity on the subcontinent and in India, they represent brightness and positive energy which is why they are a prominent feature in Hindu weddings. This curtain fabric is available in two beautiful colourways, yellow and pink.<\/p>",
             "code": ""
           }
         },
@@ -385,7 +384,7 @@
         "template--14562870460474__2a7cec99-8e29-4da9-929e-fb75b5e9cb53-1687269573222b7814-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MARWARI_DB_BOOTROOM.jpg",
+        "image": "shopify:\/\/shop_images\/FMGYELLIFE.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -399,13 +398,13 @@
         "template--14562870460474__3d95b960-e3e4-4764-857f-65f3318182a3-1687269573222b7814-0": {
           "type": "heading",
           "settings": {
-            "heading": "Spot & Star"
+            "heading": "Poppy"
           }
         },
         "template--14562870460474__3d95b960-e3e4-4764-857f-65f3318182a3-1687269573222b7814-1": {
           "type": "text",
           "settings": {
-            "text": "<p>This spot and star block print fabric is incredibly fun whilst being reminiscent of the night’s sky with no star equidistant from one another or uniform in shape or size. It comes in rose, blush, indigo and petrol colours, making it fantastic for pairing contrasting colours or making use of different shades.<\/p>",
+            "text": "<p>Molly admires the respected and iconic image of the poppy that was first produced by the Mughals and made a strong appearance in their artworks. Molly pays homage to this popular design with her own poppy fabric. The design shows a group of poppies with a mixture of full blooms and fledgling buds alongside the flower’s recognisable spiky leaves. It comes in three fabulous colour pairings: rose & sky, rose & grass, and mustard & sky.<\/p>",
             "code": ""
           }
         },
@@ -424,7 +423,7 @@
         "template--14562870460474__3d95b960-e3e4-4764-857f-65f3318182a3-1687269573222b7814-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
+        "image": "shopify:\/\/shop_images\/fabric_poppy_mustard_sky_breakfastroom_curtains_1000x1500_44b43f64-be28-45b8-b96c-c95ea0335e9b.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -448,9 +447,9 @@
         "fa411bf4-a3a8-4d2f-b072-1738e7f24113": {
           "type": "text",
           "settings": {
-            "heading": "The Bagru Collection",
+            "heading": "Leaf Print Curtain Fabric",
             "heading_size": "medium",
-            "text": "<p>The Bagru collection is where our journey with block-printed Indian fabric began. The Bagru collection consists of lighter Indian block print fabric emblazoned with joyful, vivid designs.<\/p>",
+            "text": "<p>Leaves have long held symbolism in many cultures, with different varieties and colours representing hope, revival, peace, and growth. Molly's range of leaf print fabrics has taken inspiration from her walks in the Sussex countryside and is perfect for adding movement and vitality into any room.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": false,
@@ -467,7 +466,7 @@
         "background": "#ffc7ca",
         "margin_top": "l",
         "margin_bot": "none",
-        "slides_title": "Explore the Bagru collection below"
+        "slides_title": "Explore Molly's Leaf print designs below"
       }
     },
     "1661964058633d317f": {
