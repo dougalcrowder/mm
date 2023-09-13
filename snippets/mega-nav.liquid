@@ -1,5 +1,8 @@
 <ul class="mega-nav flex level1" id="SiteNav">
   {% for link in linklists.main-menu.links %}
+
+  
+  
     {%- assign child_list_handle = link.title | handleize -%}
 
     {% comment %}
@@ -13,6 +16,7 @@
     {% endif %}
 
     {% if link.links != blank %}
+      {% unless link.title = 'MM World' %}
       <li class="nav-column level1_item {{ link.title | handleize }} hasmega{% if link.active %} li_active{% endif %}{% if forloop.index == 100000 %} active{% endif %}" data-has-dropdowns>
         <a href="{{ link.url }}" class="link level1_parent {% if link.active %} link_active{% endif %}" {% if link.current %} aria-current="page"{% endif %}>
           <span class="label">{{ link.title | escape }} {% include 'icon-navarrow' %}</span>
@@ -103,12 +107,15 @@
           </div>
         </div>
       </li>
+        {% endunless %}
     {% else %}
+      {% unless link.title = 'Trade Enquiries' %}
       <li class="nav-column level1_item{% if link.active %} li_active{% endif %}">
         <a href="{{ link.url }}" class="link link_main{% if link.active %} link_active{% endif %}" {% if link.current %} aria-current="page"{% endif %}>
           <span class="label">{{ link.title | escape }}</span>
         </a>
       </li>
+        {% endunless %}
     {% endif %}
   {% endfor %}
   <li class="nav_footer flex justify-between">
