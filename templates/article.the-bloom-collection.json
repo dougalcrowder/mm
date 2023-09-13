@@ -114,7 +114,7 @@
             "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "Explore the Bloom collection",
-            "button_link": "shopify:\/\/collections\/bloom",
+            "button_link": "shopify:\/\/collections\/bloom-fabric",
             "subtext": ""
           }
         },
@@ -135,7 +135,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify:\/\/collections\/bloom",
+            "button_link": "shopify:\/\/collections\/bloom-fabric",
             "subtext": ""
           }
         }
@@ -177,7 +177,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "",
-            "button_link_1": "shopify:\/\/collections\/bloom",
+            "button_link_1": "shopify:\/\/collections\/bloom-fabric",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -271,7 +271,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "",
-            "button_link_1": "shopify:\/\/collections\/bloom",
+            "button_link_1": "shopify:\/\/collections\/bloom-fabric",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -322,7 +322,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify:\/\/collections\/bloom",
+            "button_link": "shopify:\/\/collections\/bloom-fabric",
             "subtext": ""
           }
         },
@@ -343,7 +343,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify:\/\/collections\/bloom",
+            "button_link": "shopify:\/\/collections\/bloom-fabric",
             "subtext": ""
           }
         }
@@ -381,7 +381,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify:\/\/collections\/bloom",
+            "button_link": "shopify:\/\/collections\/bloom-fabric",
             "subtext": ""
           }
         },
@@ -402,7 +402,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify:\/\/collections\/bloom",
+            "button_link": "shopify:\/\/collections\/bloom-fabric",
             "subtext": ""
           }
         }
@@ -659,7 +659,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "",
-            "button_link_1": "shopify:\/\/collections\/bloom",
+            "button_link_1": "shopify:\/\/collections\/bloom-fabric",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
