@@ -68,7 +68,6 @@
     },
     "16352843092374a33e": {
       "type": "hotspots",
-      "disabled": true,
       "blocks": {
         "16352843092374a33e-0": {
           "type": "Tooltip",
@@ -143,6 +142,7 @@
         "dfc5a456-eabf-4090-a219-bd96deba6bf9",
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1800x1000_d7cfe96d-0aa0-4aaa-b468-995de4b5f06c.jpg",
         "square_image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1300x1300_43a81568-9eb3-449f-8bc4-f16847edb451.jpg",
@@ -153,7 +153,6 @@
     },
     "b749be76-26a9-4186-b9d3-2ba13ba36985": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--14237679845434__b749be76-26a9-4186-b9d3-2ba13ba36985-1677773271e364cc13-0": {
           "type": "heading",
@@ -187,6 +186,7 @@
         "template--14237679845434__b749be76-26a9-4186-b9d3-2ba13ba36985-1677773271e364cc13-1",
         "template--14237679845434__b749be76-26a9-4186-b9d3-2ba13ba36985-1677773271e364cc13-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_blockprinting_dahlia_1600x900_ecc3d0aa-46f1-4356-9cc0-e9d2843a7e4e.jpg",
         "letterbox": false,
@@ -282,7 +282,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "View all",
-            "button_link": "shopify:\/\/collections\/bloom",
+            "button_link": "shopify:\/\/collections\/bloom-fabric",
             "subtext": ""
           }
         },
