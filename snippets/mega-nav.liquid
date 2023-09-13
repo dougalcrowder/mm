@@ -109,7 +109,7 @@
       </li>
         {% endunless %}
     {% else %}
-      {% unless link.title == 'Trade Enquiries' %}
+      {% unless link.title == 'Trade enquiries' %}
       <li class="nav-column level1_item{% if link.active %} li_active{% endif %}">
         <a href="{{ link.url }}" class="link link_main{% if link.active %} link_active{% endif %}" {% if link.current %} aria-current="page"{% endif %}>
           <span class="label">{{ link.title | escape }}</span>
