@@ -560,7 +560,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Deerhyrst collection",
-        "collection": "deerhyrst-collection",
+        "collection": "deerhyrst-fabric-collection",
         "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": false
