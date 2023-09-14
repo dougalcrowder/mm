@@ -635,6 +635,7 @@
         "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5",
         "b85cb65c-caac-4438-b618-6f8b1bf98846"
       ],
+      "disabled": true,
       "settings": {
         "logo_white": false,
         "autoplay": true,
@@ -647,6 +648,42 @@
         "desktop_text_box_position_horizontal": "end",
         "text_align": "right",
         "text_box_max_width": "1000",
+        "color_scheme": "white_text",
+        "eyedee": ""
+      }
+    },
+    "190907ee-eab1-4528-ba1d-843c18b746fb": {
+      "type": "video",
+      "blocks": {
+        "4f6b90da-f83b-4f85-99ae-bb4b9c31fccd": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Discover Bloom",
+            "button_modal_1": "",
+            "button_link_1": "shopify:\/\/pages\/lookbook-bloom",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_modal_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "4f6b90da-f83b-4f85-99ae-bb4b9c31fccd"
+      ],
+      "settings": {
+        "logo_white": false,
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": true,
+        "show_controls": true,
+        "html5_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ed1c5b2bc56b442a8e08a590809ed423.mp4",
+        "image": "shopify:\/\/shop_images\/bloom_barn_firepalce_curtains_chairs_1800x1000_212bdd4c-44d8-41a3-9148-9df40184b7e9.jpg",
+        "desktop_text_box_position": "end",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
         "color_scheme": "white_text",
         "eyedee": ""
       }
@@ -840,6 +877,7 @@
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "1634821627eaee293f",
     "164129687781f3cb6c",
+    "190907ee-eab1-4528-ba1d-843c18b746fb",
     "165712871247f6866c",
     "16348163341a2e5254",
     "16348167313be3ffb8",
