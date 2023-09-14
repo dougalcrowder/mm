@@ -379,6 +379,68 @@
         "hover_text": false
       }
     },
+    "7c2976c5-9051-4aa2-a195-e15fd6380005": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_widestripe_1000x1500_8bb62480-7c64-4ba8-abae-87cc3d0f2800.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "Bathe under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Spot & Star pea green wallpaper married with Wide Stripe Pink fabric. <\/p>",
+            "button_color": "dark",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore more Bathroom design ideas",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bedroom_mughal_quilt_lampshade_1000x1500_16f76971-4e15-4f53-a485-0c867f58109f.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "Luxurious bedroom",
+            "subtitle_size": "small",
+            "text": "<p>Mugal Sky Indigo curtain fabric with Wide Stripe bed valance and side table and a Peggy quilt and lampshade and base for some finishing touches.<\/p>",
+            "button_color": "dark",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore more Bedroom design ideas",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-1",
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "m",
+        "margin_bot": "s"
+      }
+    },
     "16571921305b28430e": {
       "type": "multicolumn",
       "blocks": {
@@ -436,8 +498,8 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "m",
-        "margin_bot": "s"
+        "margin_top": "sm",
+        "margin_bot": "sm"
       }
     },
     "1657185355c64083f9": {
@@ -874,6 +936,7 @@
     "16348194267fffd3c9",
     "163481963822b4d1b3",
     "1657125172969e3f3f",
+    "7c2976c5-9051-4aa2-a195-e15fd6380005",
     "16571921305b28430e",
     "1657185355c64083f9",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
