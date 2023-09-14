@@ -47,14 +47,14 @@
         "1657730007a25f7230-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Deerhyrst Collection",
+            "heading": "Bathroom collections by British printmaker Molly Mahon",
             "heading_type": "header1"
           }
         },
         "1657730007a25f7230-1": {
           "type": "text",
           "settings": {
-            "text": "Designed in Sussex, hand blocked designs machine printed in the UK",
+            "text": "",
             "go_serif": true,
             "constrain_text": false
           }
@@ -78,15 +78,15 @@
         "1657730007a25f7230-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/wallpaper_spotandstar_peagreen_bathroom_blinds_widestripe.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "start",
-        "text_align": "left",
-        "text_box_max_width": "800",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "700",
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "none",
@@ -95,17 +95,47 @@
         "hover_text": false
       }
     },
+    "1657786524439edeb4": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657786524a4b5ca65-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bathe under the stars"
+          }
+        },
+        "1657786524a4b5ca65-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Designed with Spot & Star Pea Green wallpaper, matching paint (F&B - Arsenic) and Wide Stripe pink blind to finish off this gorgeous bathroom.<\/p><p>Below: Spot & Star Denim<\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657786524a4b5ca65-0",
+        "1657786524a4b5ca65-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_1300x1300_9612ad9b-6140-48a7-bc44-87b39a84a888.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
     "1657730156eeff869f": {
       "type": "multicolumn",
       "blocks": {
         "1657730156412eb3fd-0": {
           "type": "column",
           "settings": {
-            "width": "half",
+            "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FOREST_OYSTER_GREEN_SITTINGROOM_KEANE.jpg",
-            "auto_height": "none",
-            "cover": false,
+            "image": "shopify:\/\/shop_images\/wallpaper_spotandstar_peagreen_bathroom_blinds_widestripe.jpg",
+            "auto_height": "landscape",
+            "cover": true,
             "no_hover": false,
             "title": "",
             "subtitle": "",
@@ -123,11 +153,11 @@
         "1657730156412eb3fd-1": {
           "type": "column",
           "settings": {
-            "width": "half",
+            "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FLANTURLIFECURTAIN_7f1c74a2-ed55-4c55-a580-7b0569424fba.jpg",
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_widestripe_1000x1500_8bb62480-7c64-4ba8-abae-87cc3d0f2800.jpg",
             "auto_height": "none",
-            "cover": false,
+            "cover": true,
             "no_hover": false,
             "title": "",
             "subtitle": "",
@@ -152,8 +182,80 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
+        "margin_top": "sm",
+        "margin_bot": "none"
+      }
+    },
+    "165778620611418523": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657786206ef221d2d-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1300X1300_5365882f-250d-42c9-9cc9-3db273a759a4.jpg",
+            "auto_height": "portrait",
+            "cover": true,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1657786206ef221d2d-1": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657786206ef221d2d-0",
+        "1657786206ef221d2d-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
         "margin_top": "s",
-        "margin_bot": "m"
+        "margin_bot": "none"
+      }
+    },
+    "1c97c081-d973-4ed0-bd81-271fbd454f7c": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "heading_size": "medium",
+        "text": "<p>Our wallpaper is high quality heavy duty paper that is wipeable with a damp cloth.  Therefore can withstand the daily splashes and humidity of bathrooms.  We of course advise to protect the most vulnerable of places from water like with the wood cladding in these two bathrooms above.<\/p>",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1657730380748266d7": {
@@ -195,7 +297,7 @@
         "1657730379dcd0a206-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FIRMDALE_SOHO_LEAF_1800x900_b75972d7-ecba-4e3d-bb46-1fbcc190edcc.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -218,13 +320,13 @@
         "1657785887e07c69d0-0": {
           "type": "heading",
           "settings": {
-            "heading": ""
+            "heading": "Down by the sea"
           }
         },
         "1657785887e07c69d0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Being outside has always been a place of great happiness to me. It is where I feel most inspired. Whether this is in my own garden, the hills of Scotland, the incredible flower fields of India or the wild hedgerows of the British countryside it's the joy of the colours and the beauty of nature's offerings that most inspire me. I am delighted to celebrate this in my collection Greencombe.<\/p>",
+            "text": "<p>Coral Blue wallpaper with Bagru Pink fabric curtains, finished off with Berry Grass Sky fabric arm chair, a Molly Mahon rug and Bagru Pink wash bag.<\/p>",
             "code": ""
           }
         },
@@ -242,9 +344,9 @@
         "1657785887e07c69d0-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL_BLUE_DEERHYRST_1300X1300_6b6e204c-60b9-428f-b0d1-277231f4aa5e.jpg",
         "title": "",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
@@ -289,7 +391,7 @@
         "1657786090a56f700f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FERNTURMERICKEALIFE2_2d74b0a6-cd4c-4fe9-9ed1-41934af493a9.jpg",
+        "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_PINK_BATHROOM_1200X900_518cbfea-a7b7-452a-8800-766d08e85c9c.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -306,22 +408,60 @@
         "hover_text": false
       }
     },
-    "165778620611418523": {
+    "dc2b6a0a-7746-41c5-95e1-80846ad735f5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "By the water hole"
+          }
+        },
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Marwari Horse has been particularly popular with bathrooms and boot rooms over the years.  We have it in several colours as shown in Pink and Deep Blue here.<\/p><p>The Bagru blue fabric has been used to contrast the pink wallpaper in the above bathroom and opposite the Luna pink fabric blind has been used to bring a rich zap of colour to the space.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-heading-1",
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-text-1",
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wallpaper_Marwarihorse_blue_bathroom_1300x1300_1700a38b-62a5-47ca-bc95-7a1114411787.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "6d332edc-3ce0-48ec-bc97-53ecb5be26dd": {
       "type": "multicolumn",
       "blocks": {
-        "1657786206ef221d2d-0": {
+        "template--14617782878266__6d332edc-3ce0-48ec-bc97-53ecb5be26dd-column-1": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FLEMOSLIFECHAIR_24e93e0b-df9c-4c7d-a298-928e9bfabc27.jpg",
-            "auto_height": "none",
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_marwarihorse_gold_1200x900_0b83647a-6552-4168-bce9-e2df87a6b210.jpg",
+            "auto_height": "square",
             "cover": false,
             "no_hover": false,
-            "title": "",
-            "subtitle": "",
+            "title": "Column",
+            "subtitle": "Under the stars in style",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -331,123 +471,31 @@
             "subtext": ""
           }
         },
-        "1657786206ef221d2d-1": {
+        "template--14617782878266__6d332edc-3ce0-48ec-bc97-53ecb5be26dd-column-2": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/deerhyrst_spot_star_indigo_tent_1300x1300_11f97de0-d04b-4572-9e13-507469c7b53d.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
-            "title": "",
-            "subtitle": "",
+            "title": "Column",
+            "subtitle": "Under the stars in style",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "",
+            "button_label": "Button label",
             "button_link": "",
             "subtext": ""
           }
         }
       },
       "block_order": [
-        "1657786206ef221d2d-0",
-        "1657786206ef221d2d-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "sm",
-        "margin_bot": "none"
-      }
-    },
-    "1657786524439edeb4": {
-      "type": "image-with-text",
-      "blocks": {
-        "1657786524a4b5ca65-0": {
-          "type": "heading",
-          "settings": {
-            "heading": ""
-          }
-        },
-        "1657786524a4b5ca65-1": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "1657786524a4b5ca65-0",
-        "1657786524a4b5ca65-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_BIRDS_BEES_BABYROOM_1300X1300_dc823947-7e64-454f-a18d-d2b35486d0b9.jpg",
-        "title": "",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first"
-      }
-    },
-    "1657786602be65cc53": {
-      "type": "multicolumn",
-      "blocks": {
-        "165778660260e93d17-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/FMBBLUSLIFE_c271e6d4-448d-4cac-9049-ad3665bd018a.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "165778660260e93d17-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/FHEROSLIFE_e72df739-ebdd-47ec-8e4b-2ef4c9bc3bba.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "165778660260e93d17-0",
-        "165778660260e93d17-1"
+        "template--14617782878266__6d332edc-3ce0-48ec-bc97-53ecb5be26dd-column-1",
+        "template--14617782878266__6d332edc-3ce0-48ec-bc97-53ecb5be26dd-column-2"
       ],
       "settings": {
         "mc_title": "",
@@ -497,7 +545,7 @@
         "165778769900e92238-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/THESWAN_BIRDS_BEES_BEDROOM_1600x900_f52853cf-c0ce-489d-afe9-d0cd842cc6b0.jpg",
+        "image": "shopify:\/\/shop_images\/mollymahon_bathroom_marwarihorse_gold_1200x900_0b83647a-6552-4168-bce9-e2df87a6b210.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -508,10 +556,48 @@
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text",
-        "margin_top": "none",
+        "margin_top": "sm",
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
+      }
+    },
+    "1657786602be65cc53": {
+      "type": "multicolumn",
+      "blocks": {
+        "165778660260e93d17-0": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_birds_bees_peagreen_1200x900_038ee895-431b-494f-919a-12c410cc9f42.jpg",
+            "auto_height": "landscape",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "165778660260e93d17-0"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "sm",
+        "margin_bot": "m"
       }
     },
     "165778780802bdc2a5": {
@@ -576,14 +662,17 @@
   "order": [
     "main",
     "16577300071f976c5e",
+    "1657786524439edeb4",
     "1657730156eeff869f",
+    "165778620611418523",
+    "1c97c081-d973-4ed0-bd81-271fbd454f7c",
     "1657730380748266d7",
     "16577858874502d623",
     "1657786090cc89e628",
-    "165778620611418523",
-    "1657786524439edeb4",
-    "1657786602be65cc53",
+    "dc2b6a0a-7746-41c5-95e1-80846ad735f5",
+    "6d332edc-3ce0-48ec-bc97-53ecb5be26dd",
     "16577876993a1651a0",
+    "1657786602be65cc53",
     "165778780802bdc2a5",
     "1657807750e4739f83",
     "97e2dab3-c782-4a30-9069-d20bd80c41b0"
