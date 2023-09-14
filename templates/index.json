@@ -453,15 +453,15 @@
             "cover": false,
             "no_hover": false,
             "title": "",
-            "subtitle": "Bed & Bath",
+            "subtitle": "Bathroom",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Shop Bed & Bath",
-            "button_link": "shopify:\/\/collections\/bed-bath",
+            "button_label": "Shop Bathroom",
+            "button_link": "shopify:\/\/collections\/bathroom",
             "subtext": ""
           }
         },
