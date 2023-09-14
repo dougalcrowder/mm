@@ -262,7 +262,7 @@
             "settings": {
               "fl_title": "New in",
               "label1": "New Bloom Fabric Collection",
-              "link1": "shopify:\/\/collections\/bloom",
+              "link1": "shopify:\/\/collections\/bloom-fabric",
               "label2": "Bloom Home",
               "link2": "shopify:\/\/collections\/bloom-home-goods",
               "label3": "Sale",
@@ -439,6 +439,7 @@
               "image": "shopify:\/\/shop_images\/molly_rollo_portrait_bloom_1000x1500_8b1a0963-47cd-4436-9639-f1797f7e8c96.jpg",
               "auto_height": "none",
               "cover": false,
+              "no_hover": false,
               "title": "Our Journal",
               "subtitle": "Discover what Molly has been up to...",
               "subtitle_size": "small",
@@ -457,9 +458,10 @@
             "settings": {
               "width": "one_third",
               "narrow": false,
-              "image": "shopify:\/\/shop_images\/lookbooks_keane_forest_chair_1000x1500_b76ff6d5-6c31-4c71-93dc-9d265584688f.jpg",
+              "image": "shopify:\/\/shop_images\/bloom_collage_lookbook_1500x1000_ae830f64-a446-4b5e-ad15-45690434ec0a.jpg",
               "auto_height": "none",
               "cover": false,
+              "no_hover": false,
               "title": "Lookbooks",
               "subtitle": "Discover the Molly Mahon look",
               "subtitle_size": "small",
@@ -481,6 +483,7 @@
               "image": "shopify:\/\/shop_images\/craftsmanship_block_printing_bloom_1000x1500_02d23a48-b9c0-43c7-b7fe-df7188569737.jpg",
               "auto_height": "none",
               "cover": false,
+              "no_hover": false,
               "title": "Explore",
               "subtitle": "Our craftsmanship",
               "subtitle_size": "small",
@@ -523,6 +526,11 @@
           "color_scheme": "white_text",
           "custom_color_on": true,
           "custom_color": "#ca1e2a"
+        }
+      },
+      "navigation-expanding": {
+        "type": "navigation-expanding",
+        "settings": {
         }
       }
     },

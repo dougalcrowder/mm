@@ -48,9 +48,9 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1800x1000_d7cfe96d-0aa0-4aaa-b468-995de4b5f06c.jpg",
+        "image": "shopify:\/\/shop_images\/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1300x1300_43a81568-9eb3-449f-8bc4-f16847edb451.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/bloom_india_fabrics_1300x1300_9c280014-7730-494b-822d-4703473ec6a6.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
@@ -68,7 +68,6 @@
     },
     "16352843092374a33e": {
       "type": "hotspots",
-      "disabled": true,
       "blocks": {
         "16352843092374a33e-0": {
           "type": "Tooltip",
@@ -143,6 +142,7 @@
         "dfc5a456-eabf-4090-a219-bd96deba6bf9",
         "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1800x1000_d7cfe96d-0aa0-4aaa-b468-995de4b5f06c.jpg",
         "square_image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1300x1300_43a81568-9eb3-449f-8bc4-f16847edb451.jpg",
@@ -153,7 +153,6 @@
     },
     "b749be76-26a9-4186-b9d3-2ba13ba36985": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--14237679845434__b749be76-26a9-4186-b9d3-2ba13ba36985-1677773271e364cc13-0": {
           "type": "heading",
@@ -187,6 +186,7 @@
         "template--14237679845434__b749be76-26a9-4186-b9d3-2ba13ba36985-1677773271e364cc13-1",
         "template--14237679845434__b749be76-26a9-4186-b9d3-2ba13ba36985-1677773271e364cc13-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/bloom_blockprinting_dahlia_1600x900_ecc3d0aa-46f1-4356-9cc0-e9d2843a7e4e.jpg",
         "letterbox": false,
@@ -242,8 +242,31 @@
             "subtext": ""
           }
         },
+        "163481963822b4d1b3-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
+            "auto_height": "portrait",
+            "cover": true,
+            "no_hover": false,
+            "title": "Bloom Fabric Collection",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/collections\/bloom",
+            "subtext": ""
+          }
+        },
         "637ecfd1-532c-4aeb-94da-9b272c15f9de": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "one_third",
             "narrow": false,
@@ -266,6 +289,7 @@
         },
         "163481963822b4d1b3-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "half",
             "narrow": false,
@@ -285,35 +309,13 @@
             "button_link": "shopify:\/\/collections\/bloom",
             "subtext": ""
           }
-        },
-        "163481963822b4d1b3-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "Bloom Lookbook",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Explore",
-            "button_link": "shopify:\/\/pages\/lookbook-bloom",
-            "subtext": ""
-          }
         }
       },
       "block_order": [
         "96fdc832-1b12-4b93-80e3-5f5b7b0dd5bd",
+        "163481963822b4d1b3-0",
         "637ecfd1-532c-4aeb-94da-9b272c15f9de",
-        "163481963822b4d1b3-1",
-        "163481963822b4d1b3-0"
+        "163481963822b4d1b3-1"
       ],
       "settings": {
         "mc_title": "",
@@ -330,7 +332,7 @@
         "165712517240961444-0": {
           "type": "heading",
           "settings": {
-            "heading": "unique",
+            "heading": "Unique",
             "heading_type": "header1"
           }
         },
@@ -380,28 +382,6 @@
     "16571921305b28430e": {
       "type": "multicolumn",
       "blocks": {
-        "16571921300faede58-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_chair_chequer_pink_warehouse_1300x1300_03b825d6-4ab3-44cb-aac5-232fc68f9e99.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
         "16571921300faede58-1": {
           "type": "column",
           "settings": {
@@ -423,11 +403,33 @@
             "button_link": "shopify:\/\/collections\/cushions",
             "subtext": ""
           }
+        },
+        "16571921300faede58-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/lampshade_lampbase_gardenpath_pink_livingroom_1300x1300_63e99bd1-f1c0-46af-8cc8-298914617dde.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "no_hover": false,
+            "title": "Lighting",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Lighting",
+            "button_link": "shopify:\/\/collections\/lighting",
+            "subtext": ""
+          }
         }
       },
       "block_order": [
-        "16571921300faede58-0",
-        "16571921300faede58-1"
+        "16571921300faede58-1",
+        "16571921300faede58-0"
       ],
       "settings": {
         "mc_title": "",
@@ -441,54 +443,54 @@
     "1657185355c64083f9": {
       "type": "multicolumn",
       "blocks": {
-        "1657185355f4da2f74-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/Strawberry_Mug_Lifestyle_1300x1300_d6ec1931-6a77-475e-b9ee-51438172704b.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "Strawberry Spongeware Mugs",
-            "subtitle_size": "small",
-            "text": "<p>Made in Stoke-on-Trent, UK<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/products\/mug-strawberry",
-            "subtext": ""
-          }
-        },
         "1657185355f4da2f74-1": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/Strawberry_Mug_TeaTowel_Lifestyle3_1300x1300_408d1dfc-732b-4ae4-a3ff-6327a5a6df4e.jpg",
+            "image": "shopify:\/\/shop_images\/washbag_dahlia_soap_purse_1300x1300_f873b5dc-b2bc-43d4-944e-34bce381c31e.jpg",
             "auto_height": "square",
             "cover": false,
             "no_hover": false,
             "title": "",
-            "subtitle": "New Strawberry Tea Towels",
+            "subtitle": "Bed & Bath",
             "subtitle_size": "small",
-            "text": "<p>Molly's Hand block printed design<\/p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/products\/tea-towel-strawberry",
+            "button_label": "Shop Bed & Bath",
+            "button_link": "shopify:\/\/collections\/bed-bath",
+            "subtext": ""
+          }
+        },
+        "1657185355f4da2f74-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/quilts_1300x1300_3ff6a81b-6520-4546-a1c2-4c12f9fc1cdb.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "no_hover": false,
+            "title": "Quilts",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Quilts",
+            "button_link": "shopify:\/\/collections\/bedding-1",
             "subtext": ""
           }
         }
       },
       "block_order": [
-        "1657185355f4da2f74-0",
-        "1657185355f4da2f74-1"
+        "1657185355f4da2f74-1",
+        "1657185355f4da2f74-0"
       ],
       "settings": {
         "mc_title": "",
@@ -502,19 +504,41 @@
     "20923eed-ecdf-4786-8836-2e8d1d372264": {
       "type": "multicolumn",
       "blocks": {
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/rug_green_blue_pink_lifestyle_1000x1500_7bdecf3d-af71-451c-81e6-5285b0ffda8e.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Roll out the Rugs",
+            "subtitle": "Chunky cotton rugs",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Rugs",
+            "button_link": "shopify:\/\/collections\/rugs",
+            "subtext": ""
+          }
+        },
         "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/fabric_poppy_mustard_sky_breakfastroom_curtains_1000x1500_44b43f64-be28-45b8-b96c-c95ea0335e9b.jpg",
+            "image": "shopify:\/\/shop_images\/trellis_strawberry_copper_curtains_cushions_1000x1500_b8e6e4f3-762f-47fb-8ade-fa72f0822cf3.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
-            "title": "Summer is In!",
-            "subtitle": "Greencombe Collection",
+            "title": "Mellow Fruitfulness",
+            "subtitle": "Fabric for curtain making",
             "subtitle_size": "small",
-            "text": "<p>Explore our full fabric range<\/p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -523,33 +547,11 @@
             "button_link": "shopify:\/\/collections\/fabric",
             "subtext": ""
           }
-        },
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_PINK_LIFESTLE.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Duvet too hot?",
-            "subtitle": "Try our soft luxurious cotton quilts",
-            "subtitle_size": "small",
-            "text": "<p>Versatility - Extra warmth in the winter and the perfect layer for the summer with nothing more than a simple sheet below.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Quilts",
-            "button_link": "shopify:\/\/collections\/bedding-1",
-            "subtext": ""
-          }
         }
       },
       "block_order": [
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0",
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1"
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1",
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0"
       ],
       "settings": {
         "mc_title": "",
@@ -635,6 +637,7 @@
         "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5",
         "b85cb65c-caac-4438-b618-6f8b1bf98846"
       ],
+      "disabled": true,
       "settings": {
         "logo_white": false,
         "autoplay": true,
@@ -647,6 +650,42 @@
         "desktop_text_box_position_horizontal": "end",
         "text_align": "right",
         "text_box_max_width": "1000",
+        "color_scheme": "white_text",
+        "eyedee": ""
+      }
+    },
+    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
+      "type": "video",
+      "blocks": {
+        "28c6237f-93a5-442d-8ca9-2b00f30af1ad": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Discover Bloom",
+            "button_modal_1": "",
+            "button_link_1": "shopify:\/\/collections\/bloom-fabric",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_modal_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "28c6237f-93a5-442d-8ca9-2b00f30af1ad"
+      ],
+      "settings": {
+        "logo_white": false,
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": true,
+        "show_controls": true,
+        "html5_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ed1c5b2bc56b442a8e08a590809ed423.mp4",
+        "image": "shopify:\/\/shop_images\/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
+        "desktop_text_box_position": "end",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
         "color_scheme": "white_text",
         "eyedee": ""
       }
@@ -715,18 +754,10 @@
     "16348163341a2e5254": {
       "type": "instagram-grid",
       "blocks": {
-        "b3638c37-80b2-4963-9497-730c5a8367d7": {
-          "type": "Instalink",
-          "settings": {
-            "insta_image": "shopify:\/\/shop_images\/insta_soap_nicholson_workshop_1300x1300_09df9949-400f-4f75-a9d3-3c868ff9b53c.jpg",
-            "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
-          }
-        },
         "16348163341a2e5254-0": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/BOMBAYBUSTLE_TUKTUK_1300x1300_45cdc535-e7f0-44f7-90dd-61d8943e21b4.jpg",
+            "insta_image": "shopify:\/\/shop_images\/Instagram_dahlia_crimson_indigo_chair_curtain_1300x1300_5d9d21f1-1738-487a-a307-94c48a5cca05.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
@@ -734,7 +765,7 @@
         "9fd0fb9e-76fd-49db-a4dc-c17f50c6914d": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/FBAPINLIFECHAIR_f1bf1ab8-3200-4d2c-982c-a5b99b0d9837.jpg",
+            "insta_image": "shopify:\/\/shop_images\/instagram_india_1300x1300_72826635-2eec-4e40-8d68-117a0a53fa57.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
@@ -747,10 +778,18 @@
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         },
+        "e029c48d-6777-47fa-8c59-1eb07ea60a54": {
+          "type": "Instalink",
+          "settings": {
+            "insta_image": "shopify:\/\/shop_images\/instagram_mollymahon_printing_1300x1300_e3d967fc-27df-41fb-a0ea-dd4897b208c8.jpg",
+            "author": "@mollymahonblockprinting",
+            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+          }
+        },
         "366ce4bd-d678-476b-b6ce-e1f69e984969": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/wallpaper_fern_deerhyrst_tent_2600x1300_0f84c3ba-cc3d-4c06-b63f-6477048e8d28.jpg",
+            "insta_image": "shopify:\/\/shop_images\/instagram_bindi_blue_1300x1300_5ee65897-d760-472b-afd6-8a7394711d3b.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
@@ -758,15 +797,15 @@
         "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/LBBFLBUTPIN12-3_51dc0d07-0458-49b3-acb1-0f8b6f0ac839.jpg",
+            "insta_image": "shopify:\/\/shop_images\/instagram_lampshade_1300x1300_383e85bd-6db9-4899-ad79-93ac99fdb857.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         },
-        "e029c48d-6777-47fa-8c59-1eb07ea60a54": {
+        "b3638c37-80b2-4963-9497-730c5a8367d7": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/fabric_tulip_greencombe_curtain_1300x1300_9735fbfe-e7f2-44b2-8b8f-b520e0384edf.jpg",
+            "insta_image": "shopify:\/\/shop_images\/insta_soap_nicholson_workshop_1300x1300_09df9949-400f-4f75-a9d3-3c868ff9b53c.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
@@ -774,24 +813,24 @@
         "c5462cbc-a60b-4b23-b26e-1522064bd96b": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/LEAF_GRASS_FIRMDALEHOTEL.jpg",
+            "insta_image": "shopify:\/\/shop_images\/instagram_deerhyrst_livingroom_pattee_1300x1300_da5c85e3-9541-4f04-89ec-6f607142f1f6.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
         }
       },
       "block_order": [
-        "b3638c37-80b2-4963-9497-730c5a8367d7",
         "16348163341a2e5254-0",
         "9fd0fb9e-76fd-49db-a4dc-c17f50c6914d",
         "ab89f639-6764-4639-b1e4-d7b36eaa5147",
+        "e029c48d-6777-47fa-8c59-1eb07ea60a54",
         "366ce4bd-d678-476b-b6ce-e1f69e984969",
         "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32",
-        "e029c48d-6777-47fa-8c59-1eb07ea60a54",
+        "b3638c37-80b2-4963-9497-730c5a8367d7",
         "c5462cbc-a60b-4b23-b26e-1522064bd96b"
       ],
       "settings": {
-        "title": "#mollymahonblockprinting",
+        "title": "@mollymahonblockprinting",
         "subtitle": "Stay up to date with the world of Molly Mahon",
         "button_label": "Follow Molly Mahon",
         "button_link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
@@ -840,6 +879,7 @@
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "1634821627eaee293f",
     "164129687781f3cb6c",
+    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "165712871247f6866c",
     "16348163341a2e5254",
     "16348167313be3ffb8",
