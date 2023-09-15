@@ -596,6 +596,67 @@
         "layout": "text_first"
       }
     },
+    "8a72b446-8de9-4897-94c7-8626ec5e5345": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14617782878266__8a72b446-8de9-4897-94c7-8626ec5e5345-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_blind_bindi_pink_1000x1500_0fbf7734-7587-4663-a17f-50b10d4fe901.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14617782878266__8a72b446-8de9-4897-94c7-8626ec5e5345-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_blind_trellis_1000x1500_cc9d1e3e-7800-4f81-9f68-ca3b14fe38f1.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14617782878266__8a72b446-8de9-4897-94c7-8626ec5e5345-column-1",
+        "template--14617782878266__8a72b446-8de9-4897-94c7-8626ec5e5345-column-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "m",
+        "margin_bot": "sm"
+      }
+    },
     "1657807750e4739f83": {
       "type": "simple-button",
       "settings": {
@@ -620,6 +681,7 @@
     "1657786602be65cc53",
     "06680242-b06e-456b-abb0-80a6abcf1607",
     "165778780802bdc2a5",
+    "8a72b446-8de9-4897-94c7-8626ec5e5345",
     "1657807750e4739f83"
   ]
 }
