@@ -326,6 +326,165 @@
         "margin_bot": "s"
       }
     },
+    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
+      "type": "video",
+      "blocks": {
+        "28c6237f-93a5-442d-8ca9-2b00f30af1ad": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Discover Bloom",
+            "button_modal_1": "",
+            "button_link_1": "shopify:\/\/collections\/bloom-fabric",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_modal_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "28c6237f-93a5-442d-8ca9-2b00f30af1ad"
+      ],
+      "settings": {
+        "logo_white": false,
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": true,
+        "show_controls": true,
+        "html5_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ed1c5b2bc56b442a8e08a590809ed423.mp4",
+        "image": "shopify:\/\/shop_images\/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
+        "desktop_text_box_position": "end",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "color_scheme": "white_text",
+        "eyedee": ""
+      }
+    },
+    "7c2976c5-9051-4aa2-a195-e15fd6380005": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_widestripe_1000x1500_8bb62480-7c64-4ba8-abae-87cc3d0f2800.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "Bathe under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Spot & Star pea green wallpaper married with Wide Stripe Pink fabric. <\/p>",
+            "button_color": "dark",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore more Bathroom design ideas",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bedroom_mughal_quilt_lampshade_1000x1500_16f76971-4e15-4f53-a485-0c867f58109f.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "Luxurious bedroom",
+            "subtitle_size": "small",
+            "text": "<p>Mugal Sky Indigo curtain fabric with Wide Stripe bed valance and side table and a Peggy quilt and lampshade and base for some finishing touches.<\/p>",
+            "button_color": "dark",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore Molly Mahon by Rooms",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-1",
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "m",
+        "margin_bot": "s"
+      }
+    },
+    "c6e28a12-1955-47fd-889a-d0b2bb7d20d2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_rug_wallpaper_coral_1300x1300_edb2a7ff-f69e-46b9-ba93-098862c8b6c4.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Rugs",
+            "subtitle": "Handmade",
+            "subtitle_size": "small",
+            "text": "<p>Bring colour and textile into a room with a selection of rugs designed by Molly<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Rugs",
+            "button_link": "shopify:\/\/collections\/rugs",
+            "subtext": ""
+          }
+        },
+        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_quilt_peggy_blue_bathroom_1300x1300_34699cbf-ef03-4ba5-8e0a-f4e82822dc76.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Quilts",
+            "subtitle": "Finishing touches",
+            "subtitle_size": "small",
+            "text": "<p>Made from the softest cotton, handmade, hand block printed and perfect for all seasons.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Quilts",
+            "button_link": "shopify:\/\/collections\/bedding-1",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-1",
+        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "none"
+      }
+    },
     "1657125172969e3f3f": {
       "type": "image-banner",
       "blocks": {
@@ -377,68 +536,6 @@
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
-      }
-    },
-    "7c2976c5-9051-4aa2-a195-e15fd6380005": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_widestripe_1000x1500_8bb62480-7c64-4ba8-abae-87cc3d0f2800.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "Bathe under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Spot & Star pea green wallpaper married with Wide Stripe Pink fabric. <\/p>",
-            "button_color": "dark",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Explore more Bathroom design ideas",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
-        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-2": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bedroom_mughal_quilt_lampshade_1000x1500_16f76971-4e15-4f53-a485-0c867f58109f.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "Luxurious bedroom",
-            "subtitle_size": "small",
-            "text": "<p>Mugal Sky Indigo curtain fabric with Wide Stripe bed valance and side table and a Peggy quilt and lampshade and base for some finishing touches.<\/p>",
-            "button_color": "dark",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Explore more Bedroom design ideas",
-            "button_link": "",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-1",
-        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "m",
-        "margin_bot": "s"
       }
     },
     "16571921305b28430e": {
@@ -532,11 +629,11 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/quilts_1300x1300_3ff6a81b-6520-4546-a1c2-4c12f9fc1cdb.jpg",
+            "image": "shopify:\/\/shop_images\/mollymahon_tablecloth_calendula_life_outdoor_1300x1300_e97dbe8f-7826-4bc7-ab18-52e86541ad9c.jpg",
             "auto_height": "square",
             "cover": false,
             "no_hover": false,
-            "title": "Quilts",
+            "title": "Table Linen",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -544,8 +641,8 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Shop Quilts",
-            "button_link": "shopify:\/\/collections\/bedding-1",
+            "button_label": "Shop Table Linen",
+            "button_link": "shopify:\/\/collections\/table-linen",
             "subtext": ""
           }
         }
@@ -571,20 +668,20 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/rug_green_blue_pink_lifestyle_1000x1500_7bdecf3d-af71-451c-81e6-5285b0ffda8e.jpg",
+            "image": "shopify:\/\/shop_images\/mollymahon_curtain_clover_duckegg_bedroom_1000x1500_c360251a-c848-4fe0-af4c-2c1650a6639b.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
-            "title": "Roll out the Rugs",
-            "subtitle": "Chunky cotton rugs",
+            "title": "Fabric",
+            "subtitle": "Deerhyrst Collection",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p>Bedroom curtains Clover Duck Egg design<\/p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Shop Rugs",
-            "button_link": "shopify:\/\/collections\/rugs",
+            "button_label": "Explore Deerhyrst Collection",
+            "button_link": "shopify:\/\/collections\/deerhyrst-fabric-collection",
             "subtext": ""
           }
         },
@@ -593,20 +690,20 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/trellis_strawberry_copper_curtains_cushions_1000x1500_b8e6e4f3-762f-47fb-8ade-fa72f0822cf3.jpg",
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_fern_fabric_marigold_1_1000x1500_b8fa233a-3985-4fa8-9a9b-1805087a196d.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
-            "title": "Mellow Fruitfulness",
-            "subtitle": "Fabric for curtain making",
+            "title": "Wallpaper",
+            "subtitle": "Transform your space",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p>High quality wallpaper which transforms rooms by bringing depth, warmth and pattern.<\/p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Explore Fabric",
-            "button_link": "shopify:\/\/collections\/fabric",
+            "button_label": "Explore Wallpaper",
+            "button_link": "shopify:\/\/collections\/wallpaper",
             "subtext": ""
           }
         }
@@ -712,42 +809,6 @@
         "desktop_text_box_position_horizontal": "end",
         "text_align": "right",
         "text_box_max_width": "1000",
-        "color_scheme": "white_text",
-        "eyedee": ""
-      }
-    },
-    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
-      "type": "video",
-      "blocks": {
-        "28c6237f-93a5-442d-8ca9-2b00f30af1ad": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Discover Bloom",
-            "button_modal_1": "",
-            "button_link_1": "shopify:\/\/collections\/bloom-fabric",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_modal_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "28c6237f-93a5-442d-8ca9-2b00f30af1ad"
-      ],
-      "settings": {
-        "logo_white": false,
-        "autoplay": true,
-        "autoloop": true,
-        "mute_video": true,
-        "show_controls": true,
-        "html5_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ed1c5b2bc56b442a8e08a590809ed423.mp4",
-        "image": "shopify:\/\/shop_images\/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
-        "desktop_text_box_position": "end",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
         "color_scheme": "white_text",
         "eyedee": ""
       }
@@ -935,14 +996,15 @@
     "b749be76-26a9-4186-b9d3-2ba13ba36985",
     "16348194267fffd3c9",
     "163481963822b4d1b3",
-    "1657125172969e3f3f",
+    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "7c2976c5-9051-4aa2-a195-e15fd6380005",
+    "c6e28a12-1955-47fd-889a-d0b2bb7d20d2",
+    "1657125172969e3f3f",
     "16571921305b28430e",
     "1657185355c64083f9",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "1634821627eaee293f",
     "164129687781f3cb6c",
-    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "165712871247f6866c",
     "16348163341a2e5254",
     "16348167313be3ffb8",
