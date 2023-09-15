@@ -331,6 +331,7 @@
       "blocks": {
         "28c6237f-93a5-442d-8ca9-2b00f30af1ad": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Discover Bloom",
             "button_modal_1": "",
@@ -420,6 +421,67 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "a3b90d23-91e5-47a3-a260-d71cf7e669a3": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14235423539258__a3b90d23-91e5-47a3-a260-d71cf7e669a3-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_rug_wallpaper_coral_1300x1300_edb2a7ff-f69e-46b9-ba93-098862c8b6c4.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14235423539258__a3b90d23-91e5-47a3-a260-d71cf7e669a3-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_quilt_peggy_blue_bathroom_1300x1300_34699cbf-ef03-4ba5-8e0a-f4e82822dc76.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14235423539258__a3b90d23-91e5-47a3-a260-d71cf7e669a3-column-1",
+        "template--14235423539258__a3b90d23-91e5-47a3-a260-d71cf7e669a3-column-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
         "margin_bot": "m"
       }
     },
@@ -528,6 +590,7 @@
         "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1",
         "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0"
       ],
+      "disabled": true,
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -628,7 +691,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/quilts_1300x1300_3ff6a81b-6520-4546-a1c2-4c12f9fc1cdb.jpg",
+            "image": "shopify:\/\/shop_images\/TABLELINEN_FLOWER_LIFE1_1300x1300_5252a7aa-6a13-40c6-a66c-00f86a885620.jpg",
             "auto_height": "square",
             "cover": false,
             "no_hover": false,
@@ -936,6 +999,7 @@
     "163481963822b4d1b3",
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "d26ddfe0-27b1-472c-943a-214ad91410c9",
+    "a3b90d23-91e5-47a3-a260-d71cf7e669a3",
     "1657125172969e3f3f",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "16571921305b28430e",
