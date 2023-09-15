@@ -504,18 +504,7 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "sm",
-        "margin_bot": "m"
-      }
-    },
-    "1657786602be65cc53": {
-      "type": "multicolumn",
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "sm",
-        "margin_bot": "m"
+        "margin_bot": "s"
       }
     },
     "06680242-b06e-456b-abb0-80a6abcf1607": {
@@ -678,7 +667,6 @@
     "1657786090cc89e628",
     "dc2b6a0a-7746-41c5-95e1-80846ad735f5",
     "6d332edc-3ce0-48ec-bc97-53ecb5be26dd",
-    "1657786602be65cc53",
     "06680242-b06e-456b-abb0-80a6abcf1607",
     "165778780802bdc2a5",
     "8a72b446-8de9-4897-94c7-8626ec5e5345",
