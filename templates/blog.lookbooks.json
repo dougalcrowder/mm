@@ -1,5 +1,10 @@
 {
   "sections": {
+    "ab3a796b-da30-4ac4-8dbb-718859cb230b": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-blog",
       "settings": {
@@ -12,6 +17,7 @@
     }
   },
   "order": [
+    "ab3a796b-da30-4ac4-8dbb-718859cb230b",
     "main"
   ]
 }

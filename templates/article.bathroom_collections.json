@@ -1,0 +1,675 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "share"
+      ],
+      "settings": {
+      }
+    },
+    "16577300071f976c5e": {
+      "type": "image-banner",
+      "blocks": {
+        "1657730007a25f7230-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bathroom collections by British printmaker Molly Mahon",
+            "heading_type": "header1"
+          }
+        },
+        "1657730007a25f7230-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": true,
+            "constrain_text": false
+          }
+        },
+        "1657730007a25f7230-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657730007a25f7230-0",
+        "1657730007a25f7230-1",
+        "1657730007a25f7230-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "700",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "1657786524439edeb4": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657786524a4b5ca65-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bathe under the stars"
+          }
+        },
+        "1657786524a4b5ca65-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Designed with Spot & Star Pea Green wallpaper, matching paint (F&B - Arsenic) and Wide Stripe pink blind to finish off this gorgeous bathroom.<\/p><p>Below: Spot & Star Denim<\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657786524a4b5ca65-0",
+        "1657786524a4b5ca65-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_1300x1300_9612ad9b-6140-48a7-bc44-87b39a84a888.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "1657730156eeff869f": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657730156412eb3fd-0": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/wallpaper_spotandstar_peagreen_bathroom_blinds_widestripe.jpg",
+            "auto_height": "landscape",
+            "cover": true,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1657730156412eb3fd-1": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_widestripe_1000x1500_8bb62480-7c64-4ba8-abae-87cc3d0f2800.jpg",
+            "auto_height": "none",
+            "cover": true,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657730156412eb3fd-0",
+        "1657730156412eb3fd-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "sm",
+        "margin_bot": "none"
+      }
+    },
+    "165778620611418523": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657786206ef221d2d-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1300X1300_5365882f-250d-42c9-9cc9-3db273a759a4.jpg",
+            "auto_height": "portrait",
+            "cover": true,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "1657786206ef221d2d-1": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657786206ef221d2d-0",
+        "1657786206ef221d2d-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "none"
+      }
+    },
+    "1c97c081-d973-4ed0-bd81-271fbd454f7c": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "heading_size": "medium",
+        "text": "<p>Our wallpaper is high quality heavy duty paper that is wipeable with a damp cloth.  Therefore can withstand the daily splashes and humidity of bathrooms.  We of course advise to protect the most vulnerable of places from water like with the wood cladding in these two bathrooms above.<\/p>",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
+      }
+    },
+    "1657730380748266d7": {
+      "type": "image-banner",
+      "blocks": {
+        "1657730379dcd0a206-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1657730379dcd0a206-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "1657730379dcd0a206-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657730379dcd0a206-0",
+        "1657730379dcd0a206-1",
+        "1657730379dcd0a206-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": true,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "16577858874502d623": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657785887e07c69d0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Down by the sea"
+          }
+        },
+        "1657785887e07c69d0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Coral Blue wallpaper with Bagru Pink fabric curtains, finished off with Berry Grass Sky fabric arm chair, a Molly Mahon rug and Bagru Pink wash bag.<\/p>",
+            "code": ""
+          }
+        },
+        "1657785887e07c69d0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657785887e07c69d0-0",
+        "1657785887e07c69d0-1",
+        "1657785887e07c69d0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL_BLUE_DEERHYRST_1300X1300_6b6e204c-60b9-428f-b0d1-277231f4aa5e.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "1657786090cc89e628": {
+      "type": "image-banner",
+      "blocks": {
+        "1657786090a56f700f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "1657786090a56f700f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "1657786090a56f700f-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657786090a56f700f-0",
+        "1657786090a56f700f-1",
+        "1657786090a56f700f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_PINK_BATHROOM_1200X900_518cbfea-a7b7-452a-8800-766d08e85c9c.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": true,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "dc2b6a0a-7746-41c5-95e1-80846ad735f5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "By the water hole"
+          }
+        },
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Marwari Horse has been particularly popular with bathrooms and boot rooms over the years.  We have it in several colours as shown in Pink and Deep Blue here.<\/p><p>The Bagru blue fabric has been used to contrast the pink wallpaper in the above bathroom and opposite the Luna pink fabric blind has been used to bring a rich zap of colour to the space.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-heading-1",
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-text-1",
+        "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wallpaper_Marwarihorse_blue_bathroom_1300x1300_1700a38b-62a5-47ca-bc95-7a1114411787.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "6d332edc-3ce0-48ec-bc97-53ecb5be26dd": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14617782878266__6d332edc-3ce0-48ec-bc97-53ecb5be26dd-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_marwarihorse_gold_1200x900_0b83647a-6552-4168-bce9-e2df87a6b210.jpg",
+            "auto_height": "portrait",
+            "cover": true,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14617782878266__6d332edc-3ce0-48ec-bc97-53ecb5be26dd-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_marwarihorse_fabric_luna_1300x1300_2967a2cc-fd81-4e6c-a3d9-4bdd5d03f554.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14617782878266__6d332edc-3ce0-48ec-bc97-53ecb5be26dd-column-1",
+        "template--14617782878266__6d332edc-3ce0-48ec-bc97-53ecb5be26dd-column-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "sm",
+        "margin_bot": "s"
+      }
+    },
+    "06680242-b06e-456b-abb0-80a6abcf1607": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14617782878266__06680242-b06e-456b-abb0-80a6abcf1607-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bird Song"
+          }
+        },
+        "template--14617782878266__06680242-b06e-456b-abb0-80a6abcf1607-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Birds & Bees Pea Green wallpaper.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14617782878266__06680242-b06e-456b-abb0-80a6abcf1607-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14617782878266__06680242-b06e-456b-abb0-80a6abcf1607-heading-1",
+        "template--14617782878266__06680242-b06e-456b-abb0-80a6abcf1607-text-1",
+        "template--14617782878266__06680242-b06e-456b-abb0-80a6abcf1607-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_birds_bees_peagreen_1200x900_038ee895-431b-494f-919a-12c410cc9f42.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "165778780802bdc2a5": {
+      "type": "image-with-text",
+      "blocks": {
+        "16577878084a1c05f7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bring in the Sunshine"
+          }
+        },
+        "16577878084a1c05f7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fern Mustard wallpaper married with Marigold Yellow fabric blind<\/p>",
+            "code": ""
+          }
+        },
+        "16577878084a1c05f7-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16577878084a1c05f7-0",
+        "16577878084a1c05f7-1",
+        "16577878084a1c05f7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_fern_fabric_marigold_1000x1500_94048654-5487-430d-ab44-4b671c10c051.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "8a72b446-8de9-4897-94c7-8626ec5e5345": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14617782878266__8a72b446-8de9-4897-94c7-8626ec5e5345-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_blind_bindi_pink_1000x1500_0fbf7734-7587-4663-a17f-50b10d4fe901.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore Fabric",
+            "button_link": "shopify:\/\/collections\/fabric",
+            "subtext": ""
+          }
+        },
+        "template--14617782878266__8a72b446-8de9-4897-94c7-8626ec5e5345-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_strawberry_1000x1500_3b6b3ef2-32be-4c4d-aa43-3ebe6d9a2be2.jpg",
+            "auto_height": "portrait",
+            "cover": true,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore Wallpaper",
+            "button_link": "shopify:\/\/collections\/wallpaper",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14617782878266__8a72b446-8de9-4897-94c7-8626ec5e5345-column-1",
+        "template--14617782878266__8a72b446-8de9-4897-94c7-8626ec5e5345-column-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "m",
+        "margin_bot": "sm"
+      }
+    },
+    "1657807750e4739f83": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Back to the Look Books",
+        "link": "shopify:\/\/blogs\/look-books",
+        "color_scheme": "red"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16577300071f976c5e",
+    "1657786524439edeb4",
+    "1657730156eeff869f",
+    "165778620611418523",
+    "1c97c081-d973-4ed0-bd81-271fbd454f7c",
+    "1657730380748266d7",
+    "16577858874502d623",
+    "1657786090cc89e628",
+    "dc2b6a0a-7746-41c5-95e1-80846ad735f5",
+    "6d332edc-3ce0-48ec-bc97-53ecb5be26dd",
+    "06680242-b06e-456b-abb0-80a6abcf1607",
+    "165778780802bdc2a5",
+    "8a72b446-8de9-4897-94c7-8626ec5e5345",
+    "1657807750e4739f83"
+  ]
+}

@@ -104,7 +104,7 @@
       {{ content_for_layout }}
     </main>
     
-    <button class="nude hamburger hamburger--spring" type="button">
+    <button id="menuTrigger" class="nude hamburger hamburger--spring" type="button">
       <span class="hamburger-box">
         <span class="hamburger-inner"></span>
       </span>
@@ -112,31 +112,8 @@
     <button id="navCloser" class="nude navcloser" aria-label="Close Menu"></button>
     
     {% include 'search' %}
-    
-    <script>
-      
-      const navCloser = document.getElementById("navCloser");      
-      const hamburger = document.querySelector(".hamburger");
-      const nav = document.querySelector(".nav-section");
-      
-      hamburger.addEventListener("click", function() {
-        if (nav.classList.contains("active")) {
-          hamburger.classList.remove("is-active");
-          nav.classList.remove("active");
-          document.body.classList.remove("nav-active");
-        } else {
-          hamburger.classList.add("is-active");
-          nav.classList.add("active");
-          document.body.classList.add("nav-active");
-        }
-      });
-      
-      navCloser.addEventListener('click', function (){
-        hamburger.classList.remove("is-active");
-        nav.classList.remove("active");
-        document.body.classList.remove("nav-active");
-      });
-    </script>
+
+    <script src="{{ 'scripts.js' | asset_url }}"></script>
     {% section 'multicolumn' %}
     {%- assign mailchimpJs = false -%}
     {% comment %}
