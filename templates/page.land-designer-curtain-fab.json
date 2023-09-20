@@ -711,18 +711,19 @@
         "template--14581737881658__441ee89d-0fa8-4870-b7c8-6ffebea3aa74-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Oak"
           }
         },
         "template--14581737881658__441ee89d-0fa8-4870-b7c8-6ffebea3aa74-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Oak is a whimsical pattern based on the majestic oak trees that are prominent in the natural surroundings of Molly’s home. The fabric depicts an asymmetrical oak leaf, which was plucked from the ground and traced into Molly's sketchbook, and a cute acorn in an earthy autumnal hue.<\/p>",
             "code": ""
           }
         },
         "template--14581737881658__441ee89d-0fa8-4870-b7c8-6ffebea3aa74-button-1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -735,8 +736,87 @@
         "template--14581737881658__441ee89d-0fa8-4870-b7c8-6ffebea3aa74-button-1"
       ],
       "settings": {
-        "title": "A Seasonal Setting",
-        "color_scheme": "white_text",
+        "image": "shopify:\/\/shop_images\/fabric_oak_blue_blind_chelwood_1300x1300_c075adf7-b754-4982-9a0a-6b1cb9bcb084.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "f34d2ac3-13bf-4a4f-a1a2-4482c4680b0d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14581737881658__f34d2ac3-13bf-4a4f-a1a2-4482c4680b0d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fern"
+          }
+        },
+        "template--14581737881658__f34d2ac3-13bf-4a4f-a1a2-4482c4680b0d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The fern design of this fabric started as pressed leaves that Molly had added to her journal, following one of the many strolls she had had in the local countryside. The fabric features long, thin silhouettes of the recognisable hardy, evergreen leaves, complete with a meandering midrib and feather-like blades.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14581737881658__f34d2ac3-13bf-4a4f-a1a2-4482c4680b0d-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14581737881658__f34d2ac3-13bf-4a4f-a1a2-4482c4680b0d-heading-1",
+        "template--14581737881658__f34d2ac3-13bf-4a4f-a1a2-4482c4680b0d-text-1",
+        "template--14581737881658__f34d2ac3-13bf-4a4f-a1a2-4482c4680b0d-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/fabric_fern_lichen_curtains_kitchen_1300x1300_50680642-5e6e-4620-9b90-f4309348d545.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first"
+      }
+    },
+    "200ba5aa-f5f6-48bf-ae45-5da33d6ddde3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14581737881658__200ba5aa-f5f6-48bf-ae45-5da33d6ddde3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Forest"
+          }
+        },
+        "template--14581737881658__200ba5aa-f5f6-48bf-ae45-5da33d6ddde3-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This fabric is a celebration of Ashdown Forest which is where Molly calls home. It uses colour as the background, making use of the white space in the design to bring the leaves to life. It is available in three chirpy colours: pink, green and blue.<\/p>",
+            "code": ""
+          }
+        },
+        "template--14581737881658__200ba5aa-f5f6-48bf-ae45-5da33d6ddde3-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14581737881658__200ba5aa-f5f6-48bf-ae45-5da33d6ddde3-heading-1",
+        "template--14581737881658__200ba5aa-f5f6-48bf-ae45-5da33d6ddde3-text-1",
+        "template--14581737881658__200ba5aa-f5f6-48bf-ae45-5da33d6ddde3-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FOREST_GREEN_ARMCHAIR.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first"
@@ -766,6 +846,8 @@
     "166d57ac-b992-4383-9c90-28dcc60c37d1",
     "8a675c43-8c9b-40a0-beaa-8345894fcfe8",
     "1662741707adb69b90",
-    "441ee89d-0fa8-4870-b7c8-6ffebea3aa74"
+    "441ee89d-0fa8-4870-b7c8-6ffebea3aa74",
+    "f34d2ac3-13bf-4a4f-a1a2-4482c4680b0d",
+    "200ba5aa-f5f6-48bf-ae45-5da33d6ddde3"
   ]
 }
