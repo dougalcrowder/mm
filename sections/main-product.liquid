@@ -121,7 +121,7 @@
         {% include 'breadcrumb' %}
         
         <!-- Title -->
-        <h1 class="product__title" {{ section.shopify_attributes }}>
+        <h1 class="product__title{%-if product_card_product.tags contains 'Christmas gift' %} gift_tag {% endif %}" {{ section.shopify_attributes }}>       
           {{ product.title | escape }}
         </h1>
         <!-- End Title -->

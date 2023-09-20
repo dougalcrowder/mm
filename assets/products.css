@@ -146,6 +146,23 @@
   }
 }
 
+.grid.product_page .product_info h1.gift_tag {
+  position: relative;
+}
+
+.grid.product_page .product_info h1.gift_tag:after {
+  background: url("https://cdn.shopify.com/s/files/1/0090/0100/9210/files/bow_240.png?v=1695242699") center center no-repeat;
+  background-size: 100% 100%;
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  z-index: 5;
+  width: 32px;
+  height: 22px;
+  display: block;
+  content: " ";
+}
+
 @media screen and (min-width: 768px) {
   .grid.product_page .product_info {
     grid-column: 8/span 5;
