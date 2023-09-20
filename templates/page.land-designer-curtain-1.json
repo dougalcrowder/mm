@@ -333,7 +333,7 @@
         "template--14581737881658__0c5a1688-9c34-448b-beb0-28316f9bf816-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
