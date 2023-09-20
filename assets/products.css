@@ -154,13 +154,14 @@
   background: url("https://cdn.shopify.com/s/files/1/0090/0100/9210/files/bow_240.png?v=1695242699") center center no-repeat;
   background-size: 100% 100%;
   position: absolute;
-  top: -4px;
-  left: -4px;
+  top: -9px;
+  left: -14px;
   z-index: 5;
-  width: 32px;
-  height: 22px;
+  width: 24px;
+  height: 16px;
   display: block;
   content: " ";
+  transform: rotate(330deg);
 }
 
 @media screen and (min-width: 768px) {
