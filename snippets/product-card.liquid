@@ -47,6 +47,9 @@
           {%- elsif product_card_product.tags contains 'bundle' -%}
             <span class="availability bundle badge green">Bundle</span>
           {%- endif -%}
+          {%- if product_card_product.tags contains 'Christmas gift' -%}
+            <span class="christmas_gift"></span>
+          {%- endif -%}
         {%- endif -%}
     </div>
     <div class="image">

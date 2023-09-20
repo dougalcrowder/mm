@@ -96,6 +96,18 @@
   z-index: 5;
 }
 
+.product_card .christmas_gift {
+  background: url("https://cdn.shopify.com/s/files/1/0090/0100/9210/files/bow_240.png?v=1695242699") center center no-repeat;
+  background-size: 100% 100%;
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  z-index: 5;
+  width: 44px;
+  height: 30px;
+  display: block;
+}
+
 .product_card .flex {
   position: relative;
   z-index: 1;
