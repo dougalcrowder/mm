@@ -329,7 +329,7 @@
         "16619640584483b84f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/fabric_oak_blue_blind_chelwood_1300x1300_c075adf7-b754-4982-9a0a-6b1cb9bcb084.jpg",
+        "image": "shopify:\/\/shop_images\/fabric_tuktuk_pink_drying_rasa_1800x1000_7fb4c493-9a65-43c4-a7a5-0f69fcb50a25.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -352,13 +352,13 @@
         "template--14562870460474__86566aca-5010-4ee4-9ecb-b84bfccf0ef6-1687269573222b7814-0": {
           "type": "heading",
           "settings": {
-            "heading": "Berry"
+            "heading": "Ellies"
           }
         },
         "template--14562870460474__86566aca-5010-4ee4-9ecb-b84bfccf0ef6-1687269573222b7814-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A fabric design based on Molly’s love of dots, this fun design is perfect for adding delightful pops of colour to any room or garment. There are three colourways that each use two shades to represent the small fruits that nature provides us.<\/p>",
+            "text": "<p>This delightful pattern features elephants lined up from trunk to tail.  Their legs of the herd create movement on the fabric which makes it easy to visualise them plodding through the bushes of Indian forests. <\/p>",
             "code": ""
           }
         },
@@ -377,7 +377,7 @@
         "template--14562870460474__86566aca-5010-4ee4-9ecb-b84bfccf0ef6-1687269573222b7814-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cushion_berry_iron_rose_half_50x50_1300x1300_14ae7718-d259-433f-9cce-b7ccf5fa29fb.jpg",
+        "image": "shopify:\/\/shop_images\/ELLIES_BED_SKIRTING.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -391,13 +391,13 @@
         "template--14562870460474__166d57ac-b992-4383-9c90-28dcc60c37d1-1687269573222b7814-0": {
           "type": "heading",
           "settings": {
-            "heading": "Leaf"
+            "heading": "Lani"
           }
         },
         "template--14562870460474__166d57ac-b992-4383-9c90-28dcc60c37d1-1687269573222b7814-1": {
           "type": "text",
           "settings": {
-            "text": "<p>This leaf print curtain fabric is inspired by the leaves that have fallen to the ground from the trees right outside Molly’s door. It is available in four colours, including two shades of green, a charming blush and sophisticated petrol.<\/p>",
+            "text": "<p>Lani is an ode to Molly’s daughter, whose name in Hawaiian translates to ‘heaven’ or ‘sky’. The fabric features a delicate design made up of floral shapes, subtle curves and small lines.<\/p>",
             "code": ""
           }
         },
@@ -416,7 +416,7 @@
         "template--14562870460474__166d57ac-b992-4383-9c90-28dcc60c37d1-1687269573222b7814-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/LEAF_GRASS_FIRMDALEHOTEL.jpg",
+        "image": "shopify:\/\/shop_images\/LANI_TURMERIC_CURTAIN.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -430,13 +430,13 @@
         "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-0": {
           "type": "heading",
           "settings": {
-            "heading": "Primrose"
+            "heading": "Marwari Horse"
           }
         },
         "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-1": {
           "type": "text",
           "settings": {
-            "text": "<p>This charming design captures the essence of the primrose flower perfectly. The elegant petals are a rich indigo colour and rest on a bunch of bright, green leaves. Pale blue figures of the primrose create a backdrop for the prominent patterns and merge to give the illusion of a cloudy summer sky.  <\/p>",
+            "text": "<p>A rare breed from the north-western region of Rajasthan, Marwar, the Marwari horse is a stunning creature. Molly has captured its beauty and power in this lovely design. The pattern, which comes in pink, duck or blue, has been printed onto a 55% linen, 45% cotton blend.<\/p>",
             "code": ""
           }
         },
@@ -455,7 +455,7 @@
         "template--14562870460474__dd733051-8c38-4e3a-a472-ffc7c213e142-1687269573222b7814-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PRIMROSE_TRELLIS_BEDHEAD_GREENCOMBE_1.jpg",
+        "image": "shopify:\/\/shop_images\/mollymahon_curtain_marwari_horse_stripe_1000x1500_79154843-c920-4773-97c5-2ef16f82b6ab.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -469,13 +469,13 @@
         "template--14562870460474__8a675c43-8c9b-40a0-beaa-8345894fcfe8-1687269573222b7814-0": {
           "type": "heading",
           "settings": {
-            "heading": "Mini Burchetts"
+            "heading": "Tuk Tuk"
           }
         },
         "template--14562870460474__8a675c43-8c9b-40a0-beaa-8345894fcfe8-1687269573222b7814-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Based on Molly’s tree pattern wallpaper, this fabric features small repeating trees with a detailed branch and leaf design. It is printed onto a 55% linen 45% cotton blend and based on an original hand-blocked print.<\/p>",
+            "text": "<p>You can’t help but smile when you see our tuk-tuk fabric thanks to its vivid use of colour and small-scale charm. It is based on the decorations commonly found on the tuk-tuks of India. It is available in four varieties: pink, blue, green, or yellow.<\/p>",
             "code": ""
           }
         },
@@ -494,7 +494,7 @@
         "template--14562870460474__8a675c43-8c9b-40a0-beaa-8345894fcfe8-1687269573222b7814-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FNATMBMOSS_9e0709de-113d-4dc2-8dfe-ad9c08e9bdbb.jpg",
+        "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -502,25 +502,56 @@
         "layout": "text_first"
       }
     },
-    "5922c58c-c48d-4f42-9dfb-652a7a25d6f5": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Bagru Collection",
-        "collection": "bagru-fabric-collection",
-        "products_to_show": 10,
-        "show_view_all": true,
-        "show_secondary_image": false
-      }
-    },
-    "16624577622fefe57b": {
-      "type": "feature-slides",
+    "9f28852d-bfa6-4bdc-82c8-fcad8cdfab82": {
+      "type": "image-with-text",
       "blocks": {
-        "16624577610885c164-0": {
+        "template--14619781136442__9f28852d-bfa6-4bdc-82c8-fcad8cdfab82-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Coral"
+          }
+        },
+        "template--14619781136442__9f28852d-bfa6-4bdc-82c8-fcad8cdfab82-text-1": {
           "type": "text",
           "settings": {
-            "heading": "The Greencombe collection",
-            "heading_size": "medium",
-            "text": "<p>The Greencombe collection is a celebration of nature. It encompasses all of the charm and beauty that is found in places such as the English countryside, the hills of Scotland and the stunning flower fields of India. The collection uses vivid colours that spark delight alongside the more earthy tones that our Earth reveals throughout the seasons.<\/p>",
+            "text": "<p>Originally created as bookends for Molly’s mother, artist Celia Lewis, for her book <em>An Illustrated Coastal Year, <\/em>this fabric features charming pieces of spindly blue coral.<\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14619781136442__9f28852d-bfa6-4bdc-82c8-fcad8cdfab82-heading-1",
+        "template--14619781136442__9f28852d-bfa6-4bdc-82c8-fcad8cdfab82-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mollymahon_bathroom_blind_coral_green_1300x1300_6ded36ba-44e5-4b74-b1bc-66e97e70447e.jpg",
+        "title": "",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "76ceab30-c514-46ad-939a-e6d9c0c3ff92": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Modern curtain fabric or traditional patterns? Pairing your taste with time",
+        "heading_size": "medium",
+        "text": "",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
+      }
+    },
+    "166195210128b91b49": {
+      "type": "2-column-text",
+      "blocks": {
+        "16619521000b84ba87-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "large",
+            "text": "<p>Our home décor is an extension of ourselves, which is why it’s fun to find curtain fabric that matches your style and personality.<\/p><p>When it comes to interior design, there may be accepted norms and styling advice. However, we all know that this changes from decade to decade, so it’s okay to go against the grain and decorate your home to suit your tastes, rather than those that are currently en vogue.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -528,72 +559,29 @@
             "desktop_text_box_position": "start",
             "text_align": "left"
           }
-        }
-      },
-      "block_order": [
-        "16624577610885c164-0"
-      ],
-      "settings": {
-        "background": "#77a96b",
-        "margin_top": "l",
-        "margin_bot": "none",
-        "slides_title": "Explore the Greencombe collection below"
-      }
-    },
-    "c320e191-7705-4348-8726-846e423e03c5": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14412154142778__c320e191-7705-4348-8726-846e423e03c5-16655851478a25dfa9-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
         },
-        "template--14412154142778__c320e191-7705-4348-8726-846e423e03c5-16655851478a25dfa9-1": {
+        "16619521000b84ba87-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "template--14412154142778__c320e191-7705-4348-8726-846e423e03c5-16655851478a25dfa9-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>If you are seeking trendiness, then a single block colour or a monochromatic pattern might be what you are after. If you want a more traditional look, heritage colours and antique motifs may be more your preference. Regardless of the vibe you want, when selecting designer curtain fabric, pay attention to those that instantly attract you and match the energy that you are looking to create in the space.<\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/pages\/molly-mahon",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "left"
           }
         }
       },
       "block_order": [
-        "template--14412154142778__c320e191-7705-4348-8726-846e423e03c5-16655851478a25dfa9-0",
-        "template--14412154142778__c320e191-7705-4348-8726-846e423e03c5-16655851478a25dfa9-1",
-        "template--14412154142778__c320e191-7705-4348-8726-846e423e03c5-16655851478a25dfa9-2"
+        "16619521000b84ba87-0",
+        "16619521000b84ba87-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/POPPYCURTAINS_080bdea6-c87a-4d24-bf45-7febc336b31d.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
+        "margin_top": "sm",
+        "margin_bot": "none"
       }
     },
     "1642200428ac6075d8": {
@@ -608,9 +596,9 @@
             "cover": false,
             "no_hover": false,
             "title": "",
-            "subtitle": "",
+            "subtitle": "From design to drapery: How our luxury curtain fabric is crafted",
             "subtitle_size": "large",
-            "text": "<p>Our range of fabric for curtains has been designed by British Printmaker, Molly Mahon, and brought to life by master craftspeople in India, using hand-blocked printing. The patterns are inspired by Molly’s love of nature and travel, and especially her connection to India. She admires the confident use of colour that can be seen in India’s architecture and clothing and has embraced this with her luxury fabric range.<\/p>",
+            "text": "<p>Each design starts out as a doodle in Molly’s sketchbook. From there, it is transformed into a hand-carved block, crafted by skilled experts in India. These craftspeople perfectly capture the design and then use this, along with coloured inks, to apply the design by hand to the fabric in a repeating pattern.<\/p><p>It is a task that requires talent and patience. Even with decades of practice, those using this heritage technique still leave tiny imperfections. But, this is what gives the fabric life and preserves the human connection that has been so important to every single metre.<\/p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
@@ -631,13 +619,13 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "",
+            "text": "<p>The quality and environmental impact of our products is important which is why the material we choose to print onto is carefully sourced and plant-based. We also use water-based dyes wherever possible and forgo plastic in any of our packaging.<\/p><p>What's more, we offset the air miles used in the transportation of our products by supporting communities in India where the craft industry is their lifeblood.<\/p>",
+            "button_color": "dark",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "end",
+            "text_align": "left",
+            "button_label": "Learn more about Block Printing",
+            "button_link": "shopify:\/\/blogs\/craftsmanship\/hand-block-printing",
             "subtext": ""
           }
         }
@@ -655,56 +643,15 @@
         "margin_bot": "m"
       }
     },
-    "166195210128b91b49": {
-      "type": "2-column-text",
-      "blocks": {
-        "16619521000b84ba87-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Discover our luxury curtain fabrics online",
-            "heading_size": "large",
-            "text": "<p>A celebrated British printmaker, Molly Mahon has used her appreciation of colour, passion for pattern and love of nature to create a range of stunning block printed fabrics. She absorbs her surroundings, taking inspiration from the countryside and woodlands surrounding her Sussex home and the scenery of Rajasthan.<\/p><p><em>“My life and work feel intertwined with Jaipur, both in a commercial and creative sense – its energy has gotten under my skin and into my designs. It's opened new doors of inspiration and filled my mind with countless thoughts and ideas.”<\/em> – Molly Mahon.<\/p><p>Whilst her designs start as sketches in her notebook, the patterns are hand carved into blocks and applied to natural fabrics by expert Indian craftspeople.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "16619521000b84ba87-1": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p><em>“I took myself to Jaipur to further my education in the craft. Blown away by the possibility and the sheer joy of the incredible craftmanship I found there, I connected and started to work with block printers who have been passing down their artisanal skill for generations. To me they were, and still are, the real deal when it comes to pattern making.”<\/em> – Molly Mahon.<\/p><p>Molly has previously partnered with Christies, Firmdale Hotels, Cabbages & Roses and more recently,<a href=\"https:\/\/mollymahon.com\/pages\/boden-molly-mahon\"> <span style=\"text-decoration:underline\">Boden<\/span><\/a> & Anthropologie. Her business was started from her kitchen table at her home in Ashdown Forest, UK but is run with her family including her husband Rollo, their children, and their dog, Bramble. Alongside fabrics and<a href=\"https:\/\/mollymahon.com\/collections\/wallpaper\"> <span style=\"text-decoration:underline\">wallpaper<\/span><\/a>, Molly's creations have expanded to include<a href=\"https:\/\/mollymahon.com\/collections\/kitchen\"> <span style=\"text-decoration:underline\">kitchen and dining ware,<\/span><\/a><a href=\"https:\/\/mollymahon.com\/collections\/home-goods\"> <span style=\"text-decoration:underline\">home goods<\/span><\/a>, and<a href=\"https:\/\/mollymahon.com\/collections\/travel\"> <span style=\"text-decoration:underline\">travel accessories<\/span><\/a>. <\/p>",
-            "button_label": "Meet Molly",
-            "button_link": "shopify:\/\/pages\/molly-mahon",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "16619521000b84ba87-0",
-        "16619521000b84ba87-1"
-      ],
-      "settings": {
-        "margin_top": "sm",
-        "margin_bot": "none"
-      }
-    },
     "1661951966294ab962": {
       "type": "2-column-text",
       "blocks": {
         "166195196658edcf74-0": {
           "type": "text",
           "settings": {
-            "heading": "Get creative with statement curtains",
+            "heading": "Want to get creative with hand-block printing?",
             "heading_size": "small",
-            "text": "<p>Curtains add a touch of elegance to any room. They also add texture to a space, aid with the acoustics and can help create a cosy feel.<\/p><p>Depending on the size of the room and what it is used for, they can also contribute to the ambience of the room. For example, pastel colours like sky blue and mint green lend themselves to tranquillity whilst natural fractal patterns can also add a sense of calm. In contrast, bright colours such as orange and sunflower yellow can create an exciting atmosphere whilst large, repeating patterns can be visually stimulating.<\/p>",
+            "text": "<p>If all this talk of designer curtain fabric has got you wondering about other ways you can get creative using this time-honoured technique, then why not join Molly and other crafty people at one of her workshops?<\/p><p><em>“Creative acts are very inclusive, they create camaraderie, spark the imagination, allow us to realise our capabilities as humans.  If we create, we can experience pride, delight, and the feeling of being physical.”-<\/em>Molly Mahon<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -718,12 +665,12 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>The great thing about curtains is that you can use them to make whatever statement you want! So, whether you are looking for fabric to make posh curtains for your living room or a traditional print that will make your cottage core dreams come true, you are sure to find a  Molly Mahon curtain fabric to suit.<\/p>",
-            "button_label": "",
-            "button_link": "",
+            "text": "<p>Within the workshop, not only will you learn all about the ancient art of block printing, but you’ll also be able to make use of shape, colour and texture to create an item that is truly unique and that you can take away with you at the end of the day.<\/p><p>Each workshop includes all the materials you’ll need to craft your item as well as refreshments throughout the day.<\/p>",
+            "button_label": "Find out more about Molly's upcoming workshops and events",
+            "button_link": "shopify:\/\/pages\/block-printing-weekend-workshops",
             "inset": true,
             "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
+            "desktop_text_box_position": "end",
             "text_align": "left"
           }
         }
@@ -789,11 +736,10 @@
     "166d57ac-b992-4383-9c90-28dcc60c37d1",
     "dd733051-8c38-4e3a-a472-ffc7c213e142",
     "8a675c43-8c9b-40a0-beaa-8345894fcfe8",
-    "5922c58c-c48d-4f42-9dfb-652a7a25d6f5",
-    "16624577622fefe57b",
-    "c320e191-7705-4348-8726-846e423e03c5",
-    "1642200428ac6075d8",
+    "9f28852d-bfa6-4bdc-82c8-fcad8cdfab82",
+    "76ceab30-c514-46ad-939a-e6d9c0c3ff92",
     "166195210128b91b49",
+    "1642200428ac6075d8",
     "1661951966294ab962",
     "166196159906fadd3f",
     "16619593053301a27e",
