@@ -517,12 +517,12 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/molly-mahon-deerhyrst-collection-1000x1500.jpg",
+            "image": "shopify:\/\/shop_images\/molly-mahon-deerhyrst-collection-1000x1500_a336f331-0090-49dc-b078-065104295cc8.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
             "title": "Fabric",
-            "subtitle": "Deerhyrst Collection",
+            "subtitle": "Floral Fabrics",
             "subtitle_size": "small",
             "text": "<p>Curtains Fern Fabric in Indigo<\/p>",
             "button_color": "white",
@@ -539,7 +539,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/molly-mahon-wallpaper-bindi-blue-1000x1500.jpg",
+            "image": "shopify:\/\/shop_images\/molly-mahon-wallpaper-mini-burchetts-1000x1500.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -631,43 +631,6 @@
         "margin_bot": "s"
       }
     },
-    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
-      "type": "video",
-      "blocks": {
-        "28c6237f-93a5-442d-8ca9-2b00f30af1ad": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Discover Bloom",
-            "button_modal_1": "",
-            "button_link_1": "shopify:\/\/collections\/bloom-fabric",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_modal_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "28c6237f-93a5-442d-8ca9-2b00f30af1ad"
-      ],
-      "settings": {
-        "logo_white": false,
-        "autoplay": true,
-        "autoloop": true,
-        "mute_video": true,
-        "show_controls": true,
-        "html5_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ed1c5b2bc56b442a8e08a590809ed423.mp4",
-        "image": "shopify:\/\/shop_images\/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
-        "desktop_text_box_position": "end",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "color_scheme": "white_text",
-        "eyedee": ""
-      }
-    },
     "1657125172969e3f3f": {
       "type": "image-banner",
       "blocks": {
@@ -719,6 +682,43 @@
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
+      }
+    },
+    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
+      "type": "video",
+      "blocks": {
+        "28c6237f-93a5-442d-8ca9-2b00f30af1ad": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Discover Bloom",
+            "button_modal_1": "",
+            "button_link_1": "shopify:\/\/collections\/bloom-fabric",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_modal_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "28c6237f-93a5-442d-8ca9-2b00f30af1ad"
+      ],
+      "settings": {
+        "logo_white": false,
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": true,
+        "show_controls": true,
+        "html5_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ed1c5b2bc56b442a8e08a590809ed423.mp4",
+        "image": "shopify:\/\/shop_images\/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
+        "desktop_text_box_position": "end",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "color_scheme": "white_text",
+        "eyedee": ""
       }
     },
     "1634821627eaee293f": {
@@ -1047,8 +1047,8 @@
     "1657185355c64083f9",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "7c2976c5-9051-4aa2-a195-e15fd6380005",
-    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "1657125172969e3f3f",
+    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "1634821627eaee293f",
     "164129687781f3cb6c",
     "165712871247f6866c",
