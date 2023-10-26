@@ -1,31 +1,19 @@
 {
   "sections": {
-    "5952b80b-42de-4667-9f7c-7ca9d36e71c7": {
-      "type": "text-banner",
-      "disabled": true,
-      "settings": {
-        "title": "<p>Last Christmas parcel Shipping dates- click here<\/p>",
-        "link": "shopify:\/\/pages\/latest-posting-dates-christmas-delivery",
-        "bg_pattern": "pattern_01",
-        "color_scheme": "blue_text",
-        "custom_color_on": false,
-        "custom_color": ""
-      }
-    },
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
       "type": "image-banner",
       "blocks": {
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-0": {
           "type": "heading",
           "settings": {
-            "heading": "BLOOM",
+            "heading": "",
             "heading_type": "header1"
           }
         },
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-1": {
           "type": "text",
           "settings": {
-            "text": "A celebration of Nature & Hand Block Printing",
+            "text": "",
             "go_serif": false,
             "constrain_text": false
           }
@@ -48,9 +36,9 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
+        "image": "shopify:\/\/shop_images\/molly-mahon-cushions-christmas-1800x1000_65bff96d-1f55-422e-b1a5-01bb333f11ed.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/bloom_india_fabrics_1300x1300_9c280014-7730-494b-822d-4703473ec6a6.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/molly-mahon-cushions-christmas-1300x1300_5f1a07e8-d718-4355-9f07-2bc392608d82.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
@@ -64,6 +52,18 @@
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
+      }
+    },
+    "5952b80b-42de-4667-9f7c-7ca9d36e71c7": {
+      "type": "text-banner",
+      "disabled": true,
+      "settings": {
+        "title": "<p>Last Christmas parcel Shipping dates- click here<\/p>",
+        "link": "shopify:\/\/pages\/latest-posting-dates-christmas-delivery",
+        "bg_pattern": "pattern_01",
+        "color_scheme": "blue_text",
+        "custom_color_on": false,
+        "custom_color": ""
       }
     },
     "16352843092374a33e": {
@@ -326,6 +326,311 @@
         "margin_bot": "s"
       }
     },
+    "c6e28a12-1955-47fd-889a-d0b2bb7d20d2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/molly-mahon-kitchen-mugs-1300x1300_7f4ae697-9119-4b71-95a6-1ac7dcb38e85.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Kitchen",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Kitchen",
+            "button_link": "shopify:\/\/collections\/rugs",
+            "subtext": ""
+          }
+        },
+        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/molly-mahon-pyjamas-stripe-1300x1300_dd088a28-a4af-4b73-959f-373bec3429d8.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Pyjamas",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Pyjamas",
+            "button_link": "shopify:\/\/collections\/bedding-1",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-1",
+        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "none"
+      }
+    },
+    "16571921305b28430e": {
+      "type": "multicolumn",
+      "blocks": {
+        "16571921300faede58-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/molly-mahon-cushions-deerhyrst-1300x1300_7eeeb402-a591-4aa4-be53-9f001c3e9012.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "no_hover": false,
+            "title": "Cushions",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Cushions",
+            "button_link": "shopify:\/\/collections\/cushions",
+            "subtext": ""
+          }
+        },
+        "16571921300faede58-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/molly-mahon-lighting-buti-stem-pink-1300x1300_290ae7c4-c597-439e-bbb3-71cc2b82e51f.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "no_hover": false,
+            "title": "Lighting",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Lighting",
+            "button_link": "shopify:\/\/collections\/lighting",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "16571921300faede58-1",
+        "16571921300faede58-0"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "sm",
+        "margin_bot": "sm"
+      }
+    },
+    "1657185355c64083f9": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657185355f4da2f74-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/molly-mahon-desk-accessories-stationery-lifestyle-1500x1500_b8429781-bad2-436e-a7c5-93367bbf32ff.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "no_hover": false,
+            "title": "Stationery",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Stationery",
+            "button_link": "shopify:\/\/collections\/bathroom",
+            "subtext": ""
+          }
+        },
+        "1657185355f4da2f74-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/molly-mahon-christmas-table-linen-1300x1300_f4e21c42-f8c0-4f1b-808d-070d0cc146a8.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "no_hover": false,
+            "title": "Table Linen",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Table Linen",
+            "button_link": "shopify:\/\/collections\/table-linen",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657185355f4da2f74-1",
+        "1657185355f4da2f74-0"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "20923eed-ecdf-4786-8836-2e8d1d372264": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/molly-mahon-deerhyrst-collection-1000x1500.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Fabric",
+            "subtitle": "Deerhyrst Collection",
+            "subtitle_size": "small",
+            "text": "<p>Curtains Fern Fabric in Indigo<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore Deerhyrst Collection",
+            "button_link": "shopify:\/\/collections\/deerhyrst-fabric-collection",
+            "subtext": ""
+          }
+        },
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/molly-mahon-wallpaper-bindi-blue-1000x1500.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Wallpaper",
+            "subtitle": "Transform your space",
+            "subtitle_size": "small",
+            "text": "<p>High quality wallpaper which transforms a room by bringing depth, warmth and pattern.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore Wallpaper",
+            "button_link": "shopify:\/\/collections\/wallpaper",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1",
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "sm"
+      }
+    },
+    "7c2976c5-9051-4aa2-a195-e15fd6380005": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/molly-mahon-bathroom-deerhyrst-1500x1000_c5ffb4f2-cce5-4255-8ff8-9280468ab7bd.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Bathrooms",
+            "subtitle": "Bathe In Style",
+            "subtitle_size": "small",
+            "text": "<p>Fabrics and wallpapers for a blissful bathroom <\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore more bathroom design ideas",
+            "button_link": "shopify:\/\/blogs\/look-books\/bathroom-collection",
+            "subtext": ""
+          }
+        },
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/molly-mahon-bedroom-deerhyrst-1500x1000_809158ef-e85a-4106-b0f5-f56aab49d420.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Bedrooms",
+            "subtitle": "Luxurious & cosy",
+            "subtitle_size": "small",
+            "text": "<p>Fabrics for headboards, side tables or curtains for a beautiful bedroom<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore Fabrics",
+            "button_link": "shopify:\/\/collections\/fabric",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-1",
+        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "m",
+        "margin_bot": "s"
+      }
+    },
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
       "type": "video",
       "blocks": {
@@ -361,128 +666,6 @@
         "text_box_max_width": "800",
         "color_scheme": "white_text",
         "eyedee": ""
-      }
-    },
-    "7c2976c5-9051-4aa2-a195-e15fd6380005": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_widestripe_1000x1500_8bb62480-7c64-4ba8-abae-87cc3d0f2800.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "Bathe under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Spot & Star pea green wallpaper married with Wide Stripe Pink fabric. <\/p>",
-            "button_color": "dark",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Explore more Bathroom design ideas",
-            "button_link": "shopify:\/\/blogs\/look-books\/bathroom-collection",
-            "subtext": ""
-          }
-        },
-        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-2": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bedroom_mughal_quilt_lampshade_1000x1500_16f76971-4e15-4f53-a485-0c867f58109f.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "Luxurious bedrooms",
-            "subtitle_size": "small",
-            "text": "<p>Mugal Sky Indigo curtain fabric with Wide Stripe bed valance and side table and a Peggy quilt and lampshade and base for some finishing touches.<\/p>",
-            "button_color": "dark",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Explore Curtain Fabric",
-            "button_link": "shopify:\/\/collections\/fabric",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-1",
-        "template--14183015972922__7c2976c5-9051-4aa2-a195-e15fd6380005-column-2"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "m",
-        "margin_bot": "s"
-      }
-    },
-    "c6e28a12-1955-47fd-889a-d0b2bb7d20d2": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_rug_wallpaper_coral_1300x1300_edb2a7ff-f69e-46b9-ba93-098862c8b6c4.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Rugs",
-            "subtitle": "Handmade",
-            "subtitle_size": "small",
-            "text": "<p>Bring colour and textile into a room with a selection of rugs designed by Molly<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Rugs",
-            "button_link": "shopify:\/\/collections\/rugs",
-            "subtext": ""
-          }
-        },
-        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-2": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_quilt_peggy_blue_bathroom_1300x1300_34699cbf-ef03-4ba5-8e0a-f4e82822dc76.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Quilts",
-            "subtitle": "Finishing touches",
-            "subtitle_size": "small",
-            "text": "<p>Made from the softest cotton, handmade, hand block printed and perfect for all seasons.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Quilts",
-            "button_link": "shopify:\/\/collections\/bedding-1",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-1",
-        "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-2"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "s",
-        "margin_bot": "none"
       }
     },
     "1657125172969e3f3f": {
@@ -536,189 +719,6 @@
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
-      }
-    },
-    "16571921305b28430e": {
-      "type": "multicolumn",
-      "blocks": {
-        "16571921300faede58-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/bloom_cushion_collection_garden_1300x1300_54bb87cc-684b-45fe-8aa6-1d7b100e856c.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": false,
-            "title": "Cushions",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Cushions",
-            "button_link": "shopify:\/\/collections\/cushions",
-            "subtext": ""
-          }
-        },
-        "16571921300faede58-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/lampshade_lampbase_gardenpath_pink_livingroom_1300x1300_63e99bd1-f1c0-46af-8cc8-298914617dde.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": false,
-            "title": "Lighting",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Lighting",
-            "button_link": "shopify:\/\/collections\/lighting",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "16571921300faede58-1",
-        "16571921300faede58-0"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "sm",
-        "margin_bot": "sm"
-      }
-    },
-    "1657185355c64083f9": {
-      "type": "multicolumn",
-      "blocks": {
-        "1657185355f4da2f74-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/washbag_dahlia_soap_purse_1300x1300_f873b5dc-b2bc-43d4-944e-34bce381c31e.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "Bathroom",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Bathroom",
-            "button_link": "shopify:\/\/collections\/bathroom",
-            "subtext": ""
-          }
-        },
-        "1657185355f4da2f74-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_tablecloth_calendula_life_outdoor_1300x1300_e97dbe8f-7826-4bc7-ab18-52e86541ad9c.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": false,
-            "title": "Table Linen",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Table Linen",
-            "button_link": "shopify:\/\/collections\/table-linen",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "1657185355f4da2f74-1",
-        "1657185355f4da2f74-0"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "20923eed-ecdf-4786-8836-2e8d1d372264": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_curtain_clover_duckegg_bedroom_1000x1500_c360251a-c848-4fe0-af4c-2c1650a6639b.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Fabric",
-            "subtitle": "Deerhyrst Collection",
-            "subtitle_size": "small",
-            "text": "<p>Bedroom curtains Clover Duck Egg design<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Explore Deerhyrst Collection",
-            "button_link": "shopify:\/\/collections\/deerhyrst-fabric-collection",
-            "subtext": ""
-          }
-        },
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_fern_fabric_marigold_1_1000x1500_b8fa233a-3985-4fa8-9a9b-1805087a196d.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Wallpaper",
-            "subtitle": "Transform your space",
-            "subtitle_size": "small",
-            "text": "<p>High quality wallpaper which transforms rooms by bringing depth, warmth and pattern.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Explore Wallpaper",
-            "button_link": "shopify:\/\/collections\/wallpaper",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1",
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "s",
-        "margin_bot": "sm"
       }
     },
     "1634821627eaee293f": {
@@ -859,11 +859,55 @@
             "button_link": "shopify:\/\/collections\/supply-store",
             "subtext": ""
           }
+        },
+        "a5a8782b-250f-4ac3-a243-55409643f4a8": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "d21d79e2-ade0-43c7-9506-75a10d3f8039": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
         }
       },
       "block_order": [
         "16571287126ed8a3c3-0",
-        "16571287126ed8a3c3-1"
+        "16571287126ed8a3c3-1",
+        "a5a8782b-250f-4ac3-a243-55409643f4a8",
+        "d21d79e2-ade0-43c7-9506-75a10d3f8039"
       ],
       "settings": {
         "mc_title": "",
@@ -990,19 +1034,19 @@
     }
   },
   "order": [
-    "5952b80b-42de-4667-9f7c-7ca9d36e71c7",
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
+    "5952b80b-42de-4667-9f7c-7ca9d36e71c7",
     "16352843092374a33e",
     "b749be76-26a9-4186-b9d3-2ba13ba36985",
     "16348194267fffd3c9",
     "163481963822b4d1b3",
-    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
-    "7c2976c5-9051-4aa2-a195-e15fd6380005",
     "c6e28a12-1955-47fd-889a-d0b2bb7d20d2",
-    "1657125172969e3f3f",
     "16571921305b28430e",
     "1657185355c64083f9",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
+    "7c2976c5-9051-4aa2-a195-e15fd6380005",
+    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
+    "1657125172969e3f3f",
     "1634821627eaee293f",
     "164129687781f3cb6c",
     "165712871247f6866c",
