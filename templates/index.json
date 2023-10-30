@@ -903,9 +903,7 @@
             "image": "shopify:\/\/shop_images\/molly-mahon-wallpaper-bindi-blue-1000x1500.jpg",
             "title_image": "Ola Pagara",
             "description": "The chimes of time tinkle",
-            "block_url": "shopify:\/\/blogs\/journal",
-            "colour": "white",
-            "header_tag": "h2"
+            "block_url": "shopify:\/\/blogs\/journal"
           }
         },
         "a5eafd5b-1c68-43c3-94b8-d3bf006590fe": {
@@ -914,15 +912,58 @@
             "image": "shopify:\/\/shop_images\/molly-mahon-desk-accessories-stationery-lifestyle-1500x1500_b8429781-bad2-436e-a7c5-93367bbf32ff.jpg",
             "title_image": "",
             "description": "",
-            "block_url": "shopify:\/\/products\/bagru-block-printed-fabric-cotton-pink-freesample",
-            "colour": "white",
-            "header_tag": "h2"
+            "block_url": "shopify:\/\/products\/bagru-block-printed-fabric-cotton-pink-freesample"
+          }
+        },
+        "7362e632-a54f-422b-aab4-6af417cf3653": {
+          "type": "producter",
+          "settings": {
+            "producter": "berry-block-printed-fabric-linen-cotton-grass-sky-sample"
+          }
+        },
+        "bf9879d0-f2f4-4cce-b04a-aad718b1a317": {
+          "type": "producter",
+          "settings": {
+            "producter": "apron-bagru-blue"
+          }
+        },
+        "e5c0b4f4-af14-4f6a-95f7-853e8016c81c": {
+          "type": "producter",
+          "settings": {
+            "producter": "bagru-block-printed-fabric-cotton-dark-blue"
+          }
+        },
+        "f48ca248-55b2-4e2e-9d5a-8751ff14234d": {
+          "type": "producter",
+          "settings": {
+            "producter": "berry-block-printed-fabric-linen-cotton-iron-rose-sample"
+          }
+        },
+        "785d23a5-66fe-49ac-8d71-db67af79e10e": {
+          "type": "producter",
+          "settings": {
+            "producter": "birds-bees-printed-fabric-linen-cotton-lichen-freesample"
+          }
+        },
+        "8ae4b94c-c762-4123-875c-7416e9eff3fc": {
+          "type": "manual_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/molly-mahon-lighting-buti-stem-pink-1300x1300.jpg",
+            "title_image": "Lamps",
+            "description": "",
+            "block_url": "shopify:\/\/collections\/bed-bath"
           }
         }
       },
       "block_order": [
         "b87ca835-3966-4735-9b22-e8b0cdb72c8c",
-        "a5eafd5b-1c68-43c3-94b8-d3bf006590fe"
+        "a5eafd5b-1c68-43c3-94b8-d3bf006590fe",
+        "7362e632-a54f-422b-aab4-6af417cf3653",
+        "bf9879d0-f2f4-4cce-b04a-aad718b1a317",
+        "e5c0b4f4-af14-4f6a-95f7-853e8016c81c",
+        "f48ca248-55b2-4e2e-9d5a-8751ff14234d",
+        "785d23a5-66fe-49ac-8d71-db67af79e10e",
+        "8ae4b94c-c762-4123-875c-7416e9eff3fc"
       ],
       "settings": {
         "styles": false,
