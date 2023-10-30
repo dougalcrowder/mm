@@ -36,7 +36,7 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/molly-mahon-cushions-christmas-1800x1000_65bff96d-1f55-422e-b1a5-01bb333f11ed.jpg",
+        "image": "shopify:\/\/shop_images\/mollymahon_sofa_cushions_lampshades_bases_moorhouse_1800x1000_132788ca-ae6a-4ba5-9c83-7673cbeef249.jpg",
         "letterbox": false,
         "mobile_image": "shopify:\/\/shop_images\/molly-mahon-cushions-christmas-1300x1300_5f1a07e8-d718-4355-9f07-2bc392608d82.jpg",
         "make_logo_white": false,
@@ -215,6 +215,67 @@
         "color_scheme": "red_text",
         "custom_color_on": false,
         "custom_color": ""
+      }
+    },
+    "dedeec5c-28d6-4af0-961d-09abb7473182": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bedroom_mughal_quilt_lampshade_1000x1500_16f76971-4e15-4f53-a485-0c867f58109f.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "Luxurious bedrooms",
+            "subtitle_size": "small",
+            "text": "<p>Mughal Sky Indigo curtain fabric with Wide Stripe bed valance and side table and a Peggy quilt and lampshade and base for some finishing touches.<\/p>",
+            "button_color": "dark",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore Curtain Fabric",
+            "button_link": "shopify:\/\/collections\/fabric",
+            "subtext": ""
+          }
+        },
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_widestripe_1000x1500_fee8cc03-3421-4e51-bb83-555d1edfcf68.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "Bathe under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Spot & Star pea green wallpaper married with Wide Stripe Pink fabric.<\/p>",
+            "button_color": "dark",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore more bathroom ideas",
+            "button_link": "shopify:\/\/blogs\/look-books\/bathroom-collection",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1",
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "sm",
+        "margin_bot": "m"
       }
     },
     "163481963822b4d1b3": {
@@ -1041,6 +1102,7 @@
     "16352843092374a33e",
     "b749be76-26a9-4186-b9d3-2ba13ba36985",
     "16348194267fffd3c9",
+    "dedeec5c-28d6-4af0-961d-09abb7473182",
     "163481963822b4d1b3",
     "c6e28a12-1955-47fd-889a-d0b2bb7d20d2",
     "16571921305b28430e",
