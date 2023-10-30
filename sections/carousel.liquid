@@ -13,6 +13,8 @@
 <div class="swiffy-slider slider-item-show5 slider-item-show2-sm slider-item-ratio slider-item-ratio-1x1 slider-nav-sm slider-nav-scrollbar slider-indicators-round slider-nav-animation slider-nav-animation-fadein">
     <ul class="slider-container">  
       {% for block in section.blocks %}
+        {% case block.type %}
+        {%- when 'manual_block' -%}
         <li class="collection_item text-{{ block.settings.colour }}">
           
           {% if block.settings.image != blank %}
@@ -93,6 +95,14 @@
             </a>
             {% endif %}
         </li>
+        {%- when 'producter' -%}
+        <li class="card product_card">
+          {% render 'product-card',
+            product_card_product: producter,
+            show_secondary_image: false
+          %}
+        </li>
+      {% endcase %}
       {% endfor %}
     </ul>
   </div>
@@ -202,37 +212,19 @@
           "label": {
             "en": "Block link url"
           }
-        },
+        }
+      ]
+    },
+    {
+      "type": "producter",
+      "name": {
+        "en": "Product"
+      },
+      "settings": [
         {
-           "type": "select",
-           "id": "colour",
-           "options": [
-              { "value": "white", "label": "White"},
-              { "value": "black", "label": "Black"}
-           ],
-           "label": "Text Colour",
-           "default": "white"
-        },
-        {
-           "type": "select",
-           "id": "header_tag",
-           "label": "Heading Type",
-           "options": [
-             {
-               "value": "h1",
-               "label": "H1"
-             },
-             {
-               "value": "h2",
-               "label": "H2"
-             },
-              {
-                "value": "h3",
-                "label": "H3"
-              }
-           ],
-           "default": "h2",
-           "info": "Choose a header tag, leave as is if unsure"
+          "type": "product",
+          "id": "producter",
+          "label": "Choose Product"
         }
       ]
     }
