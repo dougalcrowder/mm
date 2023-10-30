@@ -273,19 +273,28 @@ body {
   max-width: 500px;
 }
 
-.custom_scroll::-webkit-scrollbar {
+.custom_scroll::-webkit-scrollbar,
+.carousel .slider-container::-webkit-scrollbar,
+.featured_blog-section .featured_blog::-webkit-scrollbar,
+.featured_collection-section .featured_collection::-webkit-scrollbar {
   width: 2px;
   height: 2px;
   background-color: white;
   /* or add it to the track */
 }
 
-.custom_scroll::-webkit-scrollbar-thumb {
+.custom_scroll::-webkit-scrollbar-thumb,
+.carousel .slider-container::-webkit-scrollbar-thumb,
+.featured_blog-section .featured_blog::-webkit-scrollbar-thumb,
+.featured_collection-section .featured_collection::-webkit-scrollbar-thumb {
   background: var(--color-red);
   border-radius: 1px;
 }
 
-.custom_scroll::-webkit-scrollbar-track {
+.custom_scroll::-webkit-scrollbar-track,
+.carousel .slider-container::-webkit-scrollbar-track,
+.featured_blog-section .featured_blog::-webkit-scrollbar-track,
+.featured_collection-section .featured_collection::-webkit-scrollbar-track {
   background: white;
 }
 

@@ -1798,6 +1798,25 @@ fieldset {
   z-index: 2;
 }
 
+.featured_blog-section .featured_blog::-webkit-scrollbar,
+.featured_collection-section .featured_collection::-webkit-scrollbar {
+  width: 2px;
+  height: 2px;
+  background-color: white;
+  /* or add it to the track */
+}
+
+.featured_blog-section .featured_blog::-webkit-scrollbar-thumb,
+.featured_collection-section .featured_collection::-webkit-scrollbar-thumb {
+  background: var(--color-red);
+  border-radius: 1px;
+}
+
+.featured_blog-section .featured_blog::-webkit-scrollbar-track,
+.featured_collection-section .featured_collection::-webkit-scrollbar-track {
+  background: white;
+}
+
 .insta-section {
   margin: 40px 0 40px 0;
   position: relative;
