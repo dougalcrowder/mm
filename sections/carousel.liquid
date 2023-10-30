@@ -1,8 +1,9 @@
-{% if section.settings.styles %}
 
+  <link rel="stylesheet" href="{{ 'carousel.css' | asset_url }}">
+{% if section.settings.styles %}
 {% endif %}
 <div class="carousel pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }}">
-   <div class="collection_list-grid">
+   <div class="collection_list-grid inner nomax">
    
    {% comment %} {%- if section.settings.title != blank -%}
    <h2>{{ section.settings.title | escape }}</h2>
@@ -10,12 +11,12 @@
     {% endcomment %}
     
 
-<div class="swiffy-slider slider-item-show5 slider-item-show2-sm slider-item-ratio slider-item-ratio-1x1 slider-nav-sm slider-nav-scrollbar slider-indicators-round slider-nav-animation slider-nav-animation-fadein">
-    <ul class="slider-container">  
+<div class="swiffy-slider slider-item-show4 slider-item-reveal slider-item-nogap slider-item-ratio slider-item-ratio-1x1 slider-nav-square slider-nav-scrollbar slider-indicators-round slider-nav-animation slider-nav-animation-fadein">
+    <ul class="slider-container custom_scroll">  
       {% for block in section.blocks %}
         {% case block.type %}
         {%- when 'manual_block' -%}
-        <li class="collection_item text-{{ block.settings.colour }}">
+        <li class="collection_item">
           
           {% if block.settings.image != blank %}
             {%- assign collection_image = block.settings.image -%}
@@ -27,7 +28,7 @@
             <a href="{{ block.settings.block_url }}">
               {% endif %}
               {% unless collection_image == blank %}
-              <picture class="collection_img m-3by2 d-2by3">
+              <picture class="collection_img">
                   <source 
                     srcset="{{ collection_image | img_url: '560x560', crop: 'center', format: 'pjpg', scale: 2 }} 2x,
                             {{ collection_image | img_url: '560x560', crop: 'center', format: 'pjpg'}}" 
@@ -79,16 +80,13 @@
               
               
               <div class="text {% if section.settings.titles_down %} titles_down{% else %} inpic{% endif %}">
-                <{{block.settings.header_tag}}>
+                <h3 class="h5">
                     {% if block.settings.title_image != blank %}
                     {{ block.settings.title_image }}
                     {% else %}
                     {{ collection.title }}
                     {% endif %}
-                </{{block.settings.header_tag}}>
-                {% if block.settings.description != blank %}
-                  <p>{{ block.settings.description }}</p>
-                {% endif %}
+                </h3>
               </div>
               
               {% if block.settings.block_url != blank %}
@@ -96,15 +94,73 @@
             {% endif %}
         </li>
         {%- when 'producter' -%}
-        <li class="card product_card">
-          {% render 'product-card',
-            product_card_product: producter,
-            show_secondary_image: false
-          %}
+        <li class="product_item">
+          {% assign product = block.settings.producter %}
+          <a href="{{ product.url }}">
+            {% unless product.featured_media == blank %}
+            <picture class="product_img">
+                <source 
+                  srcset="{{ product.featured_media | img_url: '560x560', crop: 'center', format: 'pjpg', scale: 2 }} 2x,
+                          {{ product.featured_media | img_url: '560x560', crop: 'center', format: 'pjpg'}}" 
+                  media="(min-width: 1440px)"
+                />
+                <source 
+                  srcset="{{ product.featured_media | img_url: '480x480', crop: 'center', format: 'pjpg', scale: 2 }} 2x,
+                          {{ product.featured_media | img_url: '480x480', crop: 'center', format: 'pjpg'}}" 
+                  media="(min-width: 1260px)"
+                />
+                <source 
+                  srcset="{{ product.featured_media | img_url: '430x430', crop: 'center', format: 'pjpg', scale: 2 }} 2x,
+                          {{ product.featured_media | img_url: '430x430', crop: 'center', format: 'pjpg'}}" 
+                  media="(min-width: 768px)"
+                />
+                <source 
+                srcset="{{ product.featured_media | img_url: '768x768', crop: 'center', format: 'pjpg', scale: 2 }} 2x,
+                        {{ product.featured_media | img_url: '768x768', crop: 'center', format: 'pjpg'}}" 
+                media="(min-width: 620px)"
+                />
+                <source 
+                srcset="{{ product.featured_media | img_url: '621x621', crop: 'center', format: 'pjpg', scale: 2 }} 2x,
+                        {{ product.featured_media | img_url: '621x621', crop: 'center', format: 'pjpg'}}" 
+                media="(min-width: 560px)"
+                />
+                <source 
+                srcset="{{ product.featured_media | img_url: '558x558', crop: 'center', format: 'pjpg', scale: 2 }} 2x,
+                        {{ product.featured_media | img_url: '558x558', crop: 'center', format: 'pjpg'}}" 
+                media="(min-width: 444px)"
+                />
+                <source 
+                  srcset="{{ product.featured_media | img_url: '444x444', crop: 'center', format: 'pjpg', scale: 2 }} 2x,
+                          {{ product.featured_media | img_url: '444x444', crop: 'center', format: 'pjpg'}}" 
+                  media="(min-width: 360px)"
+                />
+                <source 
+                  srcset="{{ product.featured_media | img_url: '360x360', crop: 'center', format: 'pjpg', scale: 2 }} 2x,
+                          {{ product.featured_media | img_url: '360x360', crop: 'center', format: 'pjpg'}}" 
+                  media="(min-width: 321px)"
+                />
+                <source 
+                  srcset="{{ product.featured_media | img_url: '321x321', crop: 'center', format: 'pjpg', scale: 2 }} 2x,
+                          {{ product.featured_media | img_url: '321x321', crop: 'center', format: 'pjpg'}}" 
+                  media="(min-width: 300px)"
+                />
+              <img loading="lazy" class="collection_img" src="{{ product.featured_media | img_url: '2x2', crop: 'center', format: 'pjpg'}}" alt="{{ product.featured_media.alt | escape }}" width="300" height="300" />
+            </picture>
+            {% endunless %}
+            
+            
+            <div class="text">
+              <h3 class="h5">
+                  {{ product.title }}
+              </h3>
+            </div>
+          </a>
         </li>
       {% endcase %}
       {% endfor %}
     </ul>
+    <button type="button" class="slider-nav"></button>
+    <button type="button" class="slider-nav slider-nav-next"></button>
   </div>
 </div>
 
@@ -200,11 +256,6 @@
            "type": "text",
            "id": "title_image",
            "label": "Title"
-        },
-        {
-         "type": "textarea",
-           "id": "description",
-           "label": "Introductory Text"
         },
         {
           "id": "block_url",
