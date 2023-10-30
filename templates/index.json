@@ -902,7 +902,6 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/molly-mahon-wallpaper-bindi-blue-1000x1500.jpg",
             "title_image": "Ola Pagara",
-            "description": "The chimes of time tinkle",
             "block_url": "shopify:\/\/blogs\/journal"
           }
         },
@@ -911,7 +910,6 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/molly-mahon-desk-accessories-stationery-lifestyle-1500x1500_b8429781-bad2-436e-a7c5-93367bbf32ff.jpg",
             "title_image": "",
-            "description": "",
             "block_url": "shopify:\/\/products\/bagru-block-printed-fabric-cotton-pink-freesample"
           }
         },
@@ -936,7 +934,7 @@
         "f48ca248-55b2-4e2e-9d5a-8751ff14234d": {
           "type": "producter",
           "settings": {
-            "producter": "berry-block-printed-fabric-linen-cotton-iron-rose-sample"
+            "producter": "bagru-block-printed-fabric-sample-set"
           }
         },
         "785d23a5-66fe-49ac-8d71-db67af79e10e": {
@@ -950,7 +948,6 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/molly-mahon-lighting-buti-stem-pink-1300x1300.jpg",
             "title_image": "Lamps",
-            "description": "",
             "block_url": "shopify:\/\/collections\/bed-bath"
           }
         }
