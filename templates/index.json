@@ -309,7 +309,7 @@
           "type": "manual_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/molly-mahon-pyjamas-stripe-1300x1300_dd088a28-a4af-4b73-959f-373bec3429d8.jpg",
-            "title_image": "",
+            "title_image": "New Pyjamas",
             "block_url": "shopify:\/\/collections\/bed-clothing"
           }
         },
@@ -429,6 +429,7 @@
         "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-1",
         "template--14183015972922__c6e28a12-1955-47fd-889a-d0b2bb7d20d2-column-2"
       ],
+      "disabled": true,
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -490,6 +491,7 @@
         "16571921300faede58-1",
         "16571921300faede58-0"
       ],
+      "disabled": true,
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -551,6 +553,7 @@
         "1657185355f4da2f74-1",
         "1657185355f4da2f74-0"
       ],
+      "disabled": true,
       "settings": {
         "mc_title": "",
         "show_title": false,
