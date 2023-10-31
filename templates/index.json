@@ -624,7 +624,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/molly-mahon-deerhyrst-collection-1000x1500_a336f331-0090-49dc-b078-065104295cc8.jpg",
+            "image": "shopify:\/\/shop_images\/mollymahon_curtain_forest_blue_spot_star_indigo_sittingroom_moorland_1000x1500_ecbaf2dd-9767-40fa-9b26-959175282e9e.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -646,7 +646,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/molly-mahon-wallpaper-mini-burchetts-1000x1500.jpg",
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_strawberry_1000x1500_c5bc90c9-b5fd-4e21-9e54-337682ab4d6a.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -659,7 +659,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Explore Wallpaper",
-            "button_link": "shopify:\/\/collections\/wallpaper",
+            "button_link": "shopify:\/\/blogs\/look-books\/wallpaper-collection",
             "subtext": ""
           }
         }
