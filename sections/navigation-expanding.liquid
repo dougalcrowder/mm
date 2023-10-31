@@ -2,7 +2,7 @@
   <nav aria-labelledby="Main Menu">
     <ul class="parent">
     {% for link in linklists.main-menu.links %}
-    <li class="first{% if link.active %} active {% if link.child_active %}child-active{% endif %}{% endif %}{% if link.links.size > 0 %} children{% endif %}{% if link.url == "#" %} no_link{% endif %}"><a href="{{ link.url }}">{{ link.title }}</a>
+    <li class="first{% if link.active %} active {% if link.child_active %}child-active{% endif %}{% endif %}{% if link.links.size > 0 %} children{% endif %}{% if link.url == "#" %} no_link{% endif %}{% if link.title contains 'Gift' %} gifticon{% endif %}"><a href="{{ link.url }}">{{ link.title }}</a>
     {% if link.links.size > 0 %}
       <input class="check_one" type="checkbox" name="checkNavOne-{{ forloop.index }}" id="checkNavOne-{{ forloop.index }}">
       <label class="crossbox" for="checkNavOne-{{ forloop.index }}"><span class="visually-hidden">Open {{ link.title }} child items</label>
