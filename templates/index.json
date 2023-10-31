@@ -66,91 +66,6 @@
         "custom_color": ""
       }
     },
-    "16352843092374a33e": {
-      "type": "hotspots",
-      "blocks": {
-        "16352843092374a33e-0": {
-          "type": "Tooltip",
-          "disabled": true,
-          "settings": {
-            "title": "Frill Cushion - Seed - Mustard",
-            "content": "<p><a href=\"\/collections\/cushions\" title=\"Cushions\">Shop Cushions<\/a><\/p>",
-            "prod": "cushion-frill-seed-mustard",
-            "top": 83,
-            "left": 72,
-            "top_mob": 74,
-            "left_mob": 93
-          }
-        },
-        "148881e0-9bcf-4a7c-b669-ce41df894331": {
-          "type": "Tooltip",
-          "disabled": true,
-          "settings": {
-            "title": "Lighting",
-            "content": "<p><a href=\"\/collections\/lighting\" title=\"Lighting\">Lampshades & Lamp bases<\/a><\/p>",
-            "prod": "",
-            "top": 42,
-            "left": 93,
-            "top_mob": 37,
-            "left_mob": 24
-          }
-        },
-        "bb2df09c-2b61-4470-8802-1487e557bf16": {
-          "type": "Tooltip",
-          "disabled": true,
-          "settings": {
-            "title": "Fabric",
-            "content": "<p><a href=\"\/collections\/fabric\" title=\"Fabric\">Garden Path - Iron Rose<\/a><\/p>",
-            "prod": "",
-            "top": 84,
-            "left": 8,
-            "top_mob": 76,
-            "left_mob": 6
-          }
-        },
-        "dfc5a456-eabf-4090-a219-bd96deba6bf9": {
-          "type": "Tooltip",
-          "disabled": true,
-          "settings": {
-            "title": "Quilt",
-            "content": "<p><a href=\"\/collections\/bedding-1\" title=\"Quilts\">Peggy - Pink<\/a><\/p>",
-            "prod": "",
-            "top": 92,
-            "left": 85,
-            "top_mob": 86,
-            "left_mob": 84
-          }
-        },
-        "cef52b5a-47c4-4499-a3ce-ef4557c6a165": {
-          "type": "Tooltip",
-          "disabled": true,
-          "settings": {
-            "title": "MM Rugs",
-            "content": "<p><a href=\"\/collections\/rugs\" title=\"Rugs\">Shop<\/a><\/p>",
-            "prod": "",
-            "top": 73,
-            "left": 23,
-            "top_mob": 69,
-            "left_mob": 4
-          }
-        }
-      },
-      "block_order": [
-        "16352843092374a33e-0",
-        "148881e0-9bcf-4a7c-b669-ce41df894331",
-        "bb2df09c-2b61-4470-8802-1487e557bf16",
-        "dfc5a456-eabf-4090-a219-bd96deba6bf9",
-        "cef52b5a-47c4-4499-a3ce-ef4557c6a165"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1800x1000_d7cfe96d-0aa0-4aaa-b468-995de4b5f06c.jpg",
-        "square_image": "shopify:\/\/shop_images\/bloom_barn_chequer_curtain_dahlia_chair_1300x1300_43a81568-9eb3-449f-8bc4-f16847edb451.jpg",
-        "make_logo_white": false,
-        "title": "New Bloom Fabric Collection",
-        "header_tag": "h2"
-      }
-    },
     "b749be76-26a9-4186-b9d3-2ba13ba36985": {
       "type": "image-banner",
       "blocks": {
@@ -387,40 +302,74 @@
         "margin_bot": "s"
       }
     },
-    "39fc4502-88c4-4053-bdc6-cddcad95455f": {
-      "type": "collection-list",
+    "89ee1186-f09b-4ad1-98b7-9a35c465d354": {
+      "type": "carousel",
       "blocks": {
-        "template--14235423539258__39fc4502-88c4-4053-bdc6-cddcad95455f-featured_collection-1": {
-          "type": "featured_collection",
+        "34a16184-a08e-4871-a442-ecee2ae17538": {
+          "type": "producter",
           "settings": {
-            "collection": ""
+            "producter": "block-printing-ink-turmeric"
           }
         },
-        "template--14235423539258__39fc4502-88c4-4053-bdc6-cddcad95455f-featured_collection-2": {
-          "type": "featured_collection",
+        "f67f6ff7-d8b4-41aa-8a97-612adb205a48": {
+          "type": "manual_block",
           "settings": {
-            "collection": ""
+            "image": "shopify:\/\/shop_images\/molly-mahon-christmas-blocks-1300x1300_03f51740-43b8-44c6-93d9-3463022cf187.jpg",
+            "title_image": "Christmas Blocks",
+            "block_url": "shopify:\/\/collections\/christmas-2023-gift-edit"
           }
         },
-        "template--14235423539258__39fc4502-88c4-4053-bdc6-cddcad95455f-featured_collection-3": {
-          "type": "featured_collection",
+        "d0f7d301-b6ca-492a-9791-6f922dbd910e": {
+          "type": "producter",
           "settings": {
-            "collection": ""
+            "producter": "bagru-block-printed-fabric-cotton-dark-blue"
+          }
+        },
+        "0017d214-fa15-4e65-b09e-54f2769c5aa4": {
+          "type": "producter",
+          "settings": {
+            "producter": "bagru-block-printed-fabric-cotton-pink"
+          }
+        },
+        "57fd67a2-84ed-4ee7-8d95-7e545ca58e60": {
+          "type": "producter",
+          "settings": {
+            "producter": "berry-block-printed-fabric-linen-cotton-grass-sky"
+          }
+        },
+        "c65678b7-533f-4cdc-97e0-ed13ba7b2a76": {
+          "type": "producter",
+          "settings": {
+            "producter": "berry-block-printed-fabric-linen-cotton-indigo-sky-freesample"
+          }
+        },
+        "996a2863-7e95-41fa-b37a-53fd8ac04a74": {
+          "type": "producter",
+          "settings": {
+            "producter": "birds-bees-printed-fabric-linen-cotton-blush-freesample"
+          }
+        },
+        "c8de8604-58ff-47c5-8a75-d75ba279eab9": {
+          "type": "producter",
+          "settings": {
+            "producter": "block-printing-ink-hot-pink"
           }
         }
       },
       "block_order": [
-        "template--14235423539258__39fc4502-88c4-4053-bdc6-cddcad95455f-featured_collection-1",
-        "template--14235423539258__39fc4502-88c4-4053-bdc6-cddcad95455f-featured_collection-2",
-        "template--14235423539258__39fc4502-88c4-4053-bdc6-cddcad95455f-featured_collection-3"
+        "34a16184-a08e-4871-a442-ecee2ae17538",
+        "f67f6ff7-d8b4-41aa-8a97-612adb205a48",
+        "d0f7d301-b6ca-492a-9791-6f922dbd910e",
+        "0017d214-fa15-4e65-b09e-54f2769c5aa4",
+        "57fd67a2-84ed-4ee7-8d95-7e545ca58e60",
+        "c65678b7-533f-4cdc-97e0-ed13ba7b2a76",
+        "996a2863-7e95-41fa-b37a-53fd8ac04a74",
+        "c8de8604-58ff-47c5-8a75-d75ba279eab9"
       ],
       "settings": {
-        "title": "Collections",
-        "image_ratio": "adapt",
-        "color_scheme": "accent-2",
-        "swipe_on_mobile": true,
-        "image_padding": false,
-        "show_view_all": false
+        "styles": true,
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "c6e28a12-1955-47fd-889a-d0b2bb7d20d2": {
@@ -828,51 +777,6 @@
         "lines": "lines"
       }
     },
-    "164129687781f3cb6c": {
-      "type": "video",
-      "blocks": {
-        "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5": {
-          "type": "heading",
-          "settings": {
-            "heading": "The art of block printing",
-            "heading_type": "header2"
-          }
-        },
-        "b85cb65c-caac-4438-b618-6f8b1bf98846": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Visit Molly's create academy profile",
-            "button_modal_1": "",
-            "button_link_1": "https:\/\/www.createacademy.com\/courses\/molly-mahon",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_modal_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "7f2a2ee1-9d68-4a6f-b41b-34bbb908a8c5",
-        "b85cb65c-caac-4438-b618-6f8b1bf98846"
-      ],
-      "disabled": true,
-      "settings": {
-        "logo_white": false,
-        "autoplay": true,
-        "autoloop": true,
-        "mute_video": true,
-        "show_controls": true,
-        "html5_video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/mm_conv_01.mp4?v=1633608512",
-        "image": "shopify:\/\/shop_images\/267469019_1030593891128721_6078512326311949056_n.jpg",
-        "desktop_text_box_position": "start",
-        "desktop_text_box_position_horizontal": "end",
-        "text_align": "right",
-        "text_box_max_width": "1000",
-        "color_scheme": "white_text",
-        "eyedee": ""
-      }
-    },
     "86d868e0-5432-4ad5-ac2e-2e18e7eb58f5": {
       "type": "text-banner",
       "settings": {
@@ -1162,12 +1066,11 @@
   "order": [
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "5952b80b-42de-4667-9f7c-7ca9d36e71c7",
-    "16352843092374a33e",
     "b749be76-26a9-4186-b9d3-2ba13ba36985",
     "16348194267fffd3c9",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "163481963822b4d1b3",
-    "39fc4502-88c4-4053-bdc6-cddcad95455f",
+    "89ee1186-f09b-4ad1-98b7-9a35c465d354",
     "c6e28a12-1955-47fd-889a-d0b2bb7d20d2",
     "16571921305b28430e",
     "1657185355c64083f9",
@@ -1175,7 +1078,6 @@
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "7c2976c5-9051-4aa2-a195-e15fd6380005",
     "1634821627eaee293f",
-    "164129687781f3cb6c",
     "86d868e0-5432-4ad5-ac2e-2e18e7eb58f5",
     "165712871247f6866c",
     "16348163341a2e5254",
