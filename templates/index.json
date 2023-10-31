@@ -352,6 +352,14 @@
             "title_image": "",
             "block_url": "shopify:\/\/collections\/cushions"
           }
+        },
+        "bdb4e979-90eb-4e44-86bd-62177f3d5c44": {
+          "type": "manual_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE_2.jpg",
+            "title_image": "",
+            "block_url": "shopify:\/\/collections\/bedding-1"
+          }
         }
       },
       "block_order": [
@@ -360,7 +368,8 @@
         "4ea8c2ea-67c5-442c-964f-24a52518e9d4",
         "ff4c3ee4-736e-4196-b99b-03672fe4c3f4",
         "1f9a55f7-d913-4a5f-a170-5d11ca7b2d10",
-        "46f21c85-0cc2-4f3d-8e1d-5e58bcb96139"
+        "46f21c85-0cc2-4f3d-8e1d-5e58bcb96139",
+        "bdb4e979-90eb-4e44-86bd-62177f3d5c44"
       ],
       "settings": {
         "styles": true,
