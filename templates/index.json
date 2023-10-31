@@ -317,7 +317,7 @@
           "type": "manual_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/molly-mahon-kitchen-mugs-1300x1300_7f4ae697-9119-4b71-95a6-1ac7dcb38e85.jpg",
-            "title_image": "",
+            "title_image": "Mugs",
             "block_url": "shopify:\/\/collections\/mugs"
           }
         },
@@ -325,7 +325,7 @@
           "type": "manual_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/molly-mahon-lighting-buti-stem-pink-1300x1300_290ae7c4-c597-439e-bbb3-71cc2b82e51f.jpg",
-            "title_image": "",
+            "title_image": "Lighting",
             "block_url": "shopify:\/\/collections\/lighting"
           }
         },
@@ -333,7 +333,7 @@
           "type": "manual_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/molly-mahon-desk-accessories-stationery-lifestyle-1500x1500_b8429781-bad2-436e-a7c5-93367bbf32ff.jpg",
-            "title_image": "",
+            "title_image": "New Stationery",
             "block_url": "shopify:\/\/collections\/new-stationery"
           }
         },
@@ -341,7 +341,7 @@
           "type": "manual_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/molly-mahon-christmas-table-linen-1300x1300_f4e21c42-f8c0-4f1b-808d-070d0cc146a8.jpg",
-            "title_image": "",
+            "title_image": "Table Linen",
             "block_url": "shopify:\/\/collections\/table-linen"
           }
         },
@@ -349,7 +349,7 @@
           "type": "manual_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/molly-mahon-cushions-deerhyrst-1300x1300_7eeeb402-a591-4aa4-be53-9f001c3e9012.jpg",
-            "title_image": "",
+            "title_image": "Cushions",
             "block_url": "shopify:\/\/collections\/cushions"
           }
         },
@@ -357,7 +357,7 @@
           "type": "manual_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE_2.jpg",
-            "title_image": "",
+            "title_image": "Cosy Quilts",
             "block_url": "shopify:\/\/collections\/bedding-1"
           }
         }
