@@ -17,7 +17,7 @@
 
     {% if link.links != blank %}
       {% unless link.title == 'MM World' %}
-      <li class="nav-column level1_item {{ link.title | handleize }} hasmega{% if link.active %} li_active{% endif %}{% if link.title contains 'gift' or link.title contains 'gifting' %} gifticon{% endif %}" data-has-dropdowns>
+      <li class="nav-column level1_item {{ link.title | handleize }} hasmega{% if link.active %} li_active{% endif %}{% if link.title contains 'Gift' or link.title contains 'Gifting' %} gifticon{% endif %}" data-has-dropdowns>
         <a href="{{ link.url }}" class="link level1_parent {% if link.active %} link_active{% endif %}" {% if link.current %} aria-current="page"{% endif %}>
           <span class="label">{{ link.title | escape }} {% include 'icon-navarrow' %}</span>
           <div class="triangle"></div>
