@@ -206,7 +206,7 @@
             "cover": false,
             "no_hover": true,
             "title": "Get Cosy this Autumn",
-            "subtitle": "Shop below from New Pyjamas to our gorgeous soft quilts",
+            "subtitle": "Shop below from New Pyjamas to our gorgeous soft Quilts",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
@@ -214,7 +214,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify:\/\/pages\/lookbook-bloom",
+            "button_link": "",
             "subtext": ""
           }
         },
