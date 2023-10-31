@@ -227,7 +227,7 @@
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
-            "title": "Cushions",
+            "title": "",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -235,8 +235,8 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "View fabrics",
-            "button_link": "shopify:\/\/collections\/bloom",
+            "button_label": "",
+            "button_link": "shopify:\/\/collections\/cushions",
             "subtext": ""
           }
         },
