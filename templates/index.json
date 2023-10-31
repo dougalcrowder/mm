@@ -305,66 +305,62 @@
     "89ee1186-f09b-4ad1-98b7-9a35c465d354": {
       "type": "carousel",
       "blocks": {
-        "34a16184-a08e-4871-a442-ecee2ae17538": {
-          "type": "producter",
-          "settings": {
-            "producter": "block-printing-ink-turmeric"
-          }
-        },
-        "f67f6ff7-d8b4-41aa-8a97-612adb205a48": {
+        "bbda8c01-5d96-4959-be8a-f2145449df33": {
           "type": "manual_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/molly-mahon-christmas-blocks-1300x1300_03f51740-43b8-44c6-93d9-3463022cf187.jpg",
-            "title_image": "Christmas Blocks",
-            "block_url": "shopify:\/\/collections\/christmas-2023-gift-edit"
+            "image": "shopify:\/\/shop_images\/molly-mahon-pyjamas-stripe-1300x1300_dd088a28-a4af-4b73-959f-373bec3429d8.jpg",
+            "title_image": "",
+            "block_url": "shopify:\/\/collections\/bed-clothing"
           }
         },
-        "d0f7d301-b6ca-492a-9791-6f922dbd910e": {
-          "type": "producter",
+        "3c7d17a2-ee5a-4b8b-9232-f7ca0263c012": {
+          "type": "manual_block",
           "settings": {
-            "producter": "bagru-block-printed-fabric-cotton-dark-blue"
+            "image": "shopify:\/\/shop_images\/molly-mahon-kitchen-mugs-1300x1300_7f4ae697-9119-4b71-95a6-1ac7dcb38e85.jpg",
+            "title_image": "",
+            "block_url": "shopify:\/\/collections\/mugs"
           }
         },
-        "0017d214-fa15-4e65-b09e-54f2769c5aa4": {
-          "type": "producter",
+        "4ea8c2ea-67c5-442c-964f-24a52518e9d4": {
+          "type": "manual_block",
           "settings": {
-            "producter": "bagru-block-printed-fabric-cotton-pink"
+            "image": "shopify:\/\/shop_images\/molly-mahon-lighting-buti-stem-pink-1300x1300_290ae7c4-c597-439e-bbb3-71cc2b82e51f.jpg",
+            "title_image": "",
+            "block_url": "shopify:\/\/collections\/lighting"
           }
         },
-        "57fd67a2-84ed-4ee7-8d95-7e545ca58e60": {
-          "type": "producter",
+        "ff4c3ee4-736e-4196-b99b-03672fe4c3f4": {
+          "type": "manual_block",
           "settings": {
-            "producter": "berry-block-printed-fabric-linen-cotton-grass-sky"
+            "image": "shopify:\/\/shop_images\/molly-mahon-desk-accessories-stationery-lifestyle-1500x1500_b8429781-bad2-436e-a7c5-93367bbf32ff.jpg",
+            "title_image": "",
+            "block_url": "shopify:\/\/collections\/new-stationery"
           }
         },
-        "c65678b7-533f-4cdc-97e0-ed13ba7b2a76": {
-          "type": "producter",
+        "1f9a55f7-d913-4a5f-a170-5d11ca7b2d10": {
+          "type": "manual_block",
           "settings": {
-            "producter": "berry-block-printed-fabric-linen-cotton-indigo-sky-freesample"
+            "image": "shopify:\/\/shop_images\/molly-mahon-christmas-table-linen-1300x1300_f4e21c42-f8c0-4f1b-808d-070d0cc146a8.jpg",
+            "title_image": "",
+            "block_url": "shopify:\/\/collections\/table-linen"
           }
         },
-        "996a2863-7e95-41fa-b37a-53fd8ac04a74": {
-          "type": "producter",
+        "46f21c85-0cc2-4f3d-8e1d-5e58bcb96139": {
+          "type": "manual_block",
           "settings": {
-            "producter": "birds-bees-printed-fabric-linen-cotton-blush-freesample"
-          }
-        },
-        "c8de8604-58ff-47c5-8a75-d75ba279eab9": {
-          "type": "producter",
-          "settings": {
-            "producter": "block-printing-ink-hot-pink"
+            "image": "shopify:\/\/shop_images\/molly-mahon-cushions-deerhyrst-1300x1300_7eeeb402-a591-4aa4-be53-9f001c3e9012.jpg",
+            "title_image": "",
+            "block_url": "shopify:\/\/collections\/cushions"
           }
         }
       },
       "block_order": [
-        "34a16184-a08e-4871-a442-ecee2ae17538",
-        "f67f6ff7-d8b4-41aa-8a97-612adb205a48",
-        "d0f7d301-b6ca-492a-9791-6f922dbd910e",
-        "0017d214-fa15-4e65-b09e-54f2769c5aa4",
-        "57fd67a2-84ed-4ee7-8d95-7e545ca58e60",
-        "c65678b7-533f-4cdc-97e0-ed13ba7b2a76",
-        "996a2863-7e95-41fa-b37a-53fd8ac04a74",
-        "c8de8604-58ff-47c5-8a75-d75ba279eab9"
+        "bbda8c01-5d96-4959-be8a-f2145449df33",
+        "3c7d17a2-ee5a-4b8b-9232-f7ca0263c012",
+        "4ea8c2ea-67c5-442c-964f-24a52518e9d4",
+        "ff4c3ee4-736e-4196-b99b-03672fe4c3f4",
+        "1f9a55f7-d913-4a5f-a170-5d11ca7b2d10",
+        "46f21c85-0cc2-4f3d-8e1d-5e58bcb96139"
       ],
       "settings": {
         "styles": true,
