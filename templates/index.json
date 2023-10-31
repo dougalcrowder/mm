@@ -786,15 +786,20 @@
         "lines": "lines"
       }
     },
-    "86d868e0-5432-4ad5-ac2e-2e18e7eb58f5": {
-      "type": "text-banner",
+    "a1409fd8-a0db-4143-868e-69ee18c87d97": {
+      "type": "simple_quote",
       "settings": {
-        "title": "<p><strong>Workshops & Supply Store<\/strong><\/p>",
-        "link": "",
-        "bg_pattern": "pattern_01",
-        "color_scheme": "blue_text",
-        "custom_color_on": false,
-        "custom_color": ""
+        "quote": "<p>Workshops & Supply Store<\/p>",
+        "cite": "",
+        "bg": "none",
+        "image": "shopify:\/\/shop_images\/mollymahon_supply_store_banner_1800x400_5f54ab4c-165e-4931-af14-09a9f57c6c2e.jpg",
+        "heading_size": "medium",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "bg_color_scheme": "none",
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     },
     "165712871247f6866c": {
@@ -1087,7 +1092,7 @@
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "7c2976c5-9051-4aa2-a195-e15fd6380005",
     "1634821627eaee293f",
-    "86d868e0-5432-4ad5-ac2e-2e18e7eb58f5",
+    "a1409fd8-a0db-4143-868e-69ee18c87d97",
     "165712871247f6866c",
     "16348163341a2e5254",
     "16348167313be3ffb8",
