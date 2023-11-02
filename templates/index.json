@@ -228,14 +228,14 @@
             "cover": true,
             "no_hover": false,
             "title": "",
-            "subtitle": "",
+            "subtitle": "New Cushion range",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p>Brighten up any room with these delightful cushions<\/p>",
             "button_color": "dark",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "",
+            "button_label": "Shop Cushions",
             "button_link": "shopify:\/\/collections\/cushions",
             "subtext": ""
           }
