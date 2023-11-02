@@ -536,17 +536,33 @@
       "notices": {
         "type": "notices",
         "blocks": {
+          "f439469d-22df-41e6-bd6e-0a4bbfb7c051": {
+            "type": "notice",
+            "settings": {
+              "title": "<p>Safety First Angie!<\/p>"
+            }
+          },
           "7904f93a-34bc-4fe4-b201-3c6863cab0af": {
             "type": "notice",
             "settings": {
-              "title": "<p>Get 50% off using code WAZZAWAZZA50<\/p>"
+              "title": "<p>Get 50% off using code WAZAWAZ50<\/p>"
+            }
+          },
+          "238b3933-8740-4300-998e-2f49ad0fcb8c": {
+            "type": "notice",
+            "settings": {
+              "title": "<p>Cheesy chips on The Mumbles<\/p>"
             }
           }
         },
         "block_order": [
-          "7904f93a-34bc-4fe4-b201-3c6863cab0af"
+          "f439469d-22df-41e6-bd6e-0a4bbfb7c051",
+          "7904f93a-34bc-4fe4-b201-3c6863cab0af",
+          "238b3933-8740-4300-998e-2f49ad0fcb8c"
         ],
         "settings": {
+          "foreground": "white_text",
+          "background": "red_bg",
           "styles": true
         }
       }
