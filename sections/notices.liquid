@@ -24,8 +24,9 @@
     
     function headache() {
       let lookatmeeHead = document.getElementById('lookatmee').clientHeight + "px";
-      let mainHead = document.getElementById('siteHeader');
+      let menuTrigger = document.getElementById('menuTrigger');
       document.getElementById('shopify-section-header').style.top = lookatmeeHead;
+      menuTrigger.style.top = lookatmeeHead + 1;
       document.body.style.paddingTop = lookatmeeHead;
     }
     document.addEventListener('DOMContentLoaded', function () {
