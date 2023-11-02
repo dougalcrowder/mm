@@ -1,0 +1,69 @@
+{%- liquid
+    assign buildingBlocks = false
+    assign blockCount = 0
+    for block in section.blocks
+      assign buildingBlocks = true
+      assign blockCount = blockCount | plus: 1
+    endfor
+  -%}
+  {% if buildingBlocks %}
+  
+  {% if section.settings.styles %}
+    <link rel="stylesheet" href="{{ 'carousel.css' | asset_url }}">
+  {% endif %}
+  
+  <div role="status" aria-live="polite" class="notices" id="lookatmee">
+    <div class="inner flex custom_scroll bc-{{ blockCount }}">
+    {% for block in section.blocks limit: 3 %}
+      <span>{{ block.settings.title }}</span>
+    {% endfor %}
+    </div>
+  </div>
+  <script>
+    document.body.classList.add("noticeActive");
+    
+    function headache() {
+      let lookatmeeHead = document.getElementById('lookatmee').clientHeight + "px";
+      let mainHead = document.getElementById('siteHeader');
+      document.getElementById('shopify-section-header').style.top = lookatmeeHead;
+      document.body.style.paddingTop = lookatmeeHead;
+    }
+    document.addEventListener('DOMContentLoaded', function () {
+      headache();
+    }, false);
+    window.addEventListener('resize', function(){
+      headache();
+    });
+  </script>
+  {% endif %}
+
+
+
+{% schema %}
+{
+  "name": "Notices",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "styles",
+      "label": "Enable styles",
+      "default": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "notice",
+      "name": {
+        "en": "notice"
+      },
+      "settings": [
+        {
+         "type": "richtext",
+           "id": "title",
+           "label": "notice text"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
