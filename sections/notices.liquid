@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="{{ 'notices.css' | asset_url }}">
   {% endif %}
   
-  <div role="status" aria-live="polite" class="notices" id="lookatmee">
+  <div role="status" aria-live="polite" class="notices color-{{ section.settings.foreground }} color-{{ section.settings.background }}" id="lookatmee">
     <div class="inner flex custom_scroll bc-{{ blockCount }}">
     {% for block in section.blocks limit: 3 %}
       <span>{{ block.settings.title }}</span>
@@ -43,6 +43,62 @@
 {
   "name": "Notices",
   "settings": [
+    {
+      "type": "select",
+      "id": "foreground",
+      "options": [
+        {
+          "value": "white_text",
+          "label": "White"
+        },
+        {
+          "value": "red_text",
+          "label": "Red"
+        },
+        {
+          "value": "plum_text",
+          "label": "Red"
+        },
+        {
+          "value": "dark_text",
+          "label": "Dark"
+        },
+        {
+          "value": "blue_text",
+          "label": "Blue"
+        }
+      ],
+      "default": "white_text",
+      "label": "Foreground Colour"
+    },
+    {
+      "type": "select",
+      "id": "background",
+      "options": [
+        {
+          "value": "white_bg",
+          "label": "White"
+        },
+        {
+          "value": "red_bg",
+          "label": "Red"
+        },
+        {
+          "value": "plum_bg",
+          "label": "Red"
+        },
+        {
+          "value": "dark_bg",
+          "label": "Dark"
+        },
+        {
+          "value": "blue_bg",
+          "label": "Blue"
+        }
+      ],
+      "default": "red_bg",
+      "label": "Background Colour"
+    },
     {
       "type": "checkbox",
       "id": "styles",
