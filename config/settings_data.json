@@ -552,9 +552,8 @@
           },
           "238b3933-8740-4300-998e-2f49ad0fcb8c": {
             "type": "notice",
-            "disabled": true,
             "settings": {
-              "title": "<p>Cheesy chips on The Mumbles<\/p>"
+              "title": "<p>Free UK Domestic Shipping for orders over £35 - 1st -23rd November - FREESHIP35<\/p>"
             }
           }
         },
@@ -565,7 +564,7 @@
         ],
         "settings": {
           "foreground": "white_text",
-          "background": "red_bg",
+          "background": "plum_bg",
           "styles": true
         }
       }
