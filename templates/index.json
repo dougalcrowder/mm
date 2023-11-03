@@ -228,14 +228,14 @@
             "cover": true,
             "no_hover": false,
             "title": "",
-            "subtitle": "",
+            "subtitle": "View our New Cushion range",
             "subtitle_size": "small",
-            "text": "",
+            "text": "<p>Bring texture and colour to any room <\/p>",
             "button_color": "dark",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "",
+            "button_label": "Shop here",
             "button_link": "shopify:\/\/collections\/cushions",
             "subtext": ""
           }
