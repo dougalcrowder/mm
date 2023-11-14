@@ -287,6 +287,14 @@
             "title_image": "Cosy Quilts",
             "block_url": "shopify:\/\/collections\/bedding-1"
           }
+        },
+        "63352cc1-6d13-431c-983d-505d066dfbea": {
+          "type": "manual_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/molly-mahon-wrapping-paper-bows-lifestyle-1300x1300.jpg",
+            "title_image": "Wrapping",
+            "block_url": "shopify:\/\/collections\/all-wrapping-station-goods"
+          }
         }
       },
       "block_order": [
@@ -296,7 +304,8 @@
         "ff4c3ee4-736e-4196-b99b-03672fe4c3f4",
         "1f9a55f7-d913-4a5f-a170-5d11ca7b2d10",
         "46f21c85-0cc2-4f3d-8e1d-5e58bcb96139",
-        "bdb4e979-90eb-4e44-86bd-62177f3d5c44"
+        "bdb4e979-90eb-4e44-86bd-62177f3d5c44",
+        "63352cc1-6d13-431c-983d-505d066dfbea"
       ],
       "settings": {
         "styles": true,
