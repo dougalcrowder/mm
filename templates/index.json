@@ -130,7 +130,7 @@
             "narrow": false,
             "image": "shopify:\/\/shop_images\/mollymahon_christmas_wrapping_presents_basket_aw23_1800x1000_5386ce8d-3a2e-4a74-b3ea-675e3cd4d245.jpg",
             "auto_height": "landscape",
-            "cover": false,
+            "cover": true,
             "no_hover": true,
             "title": "Make it a colourful Christmas",
             "subtitle": "From new luxury pyjamas to festive table linen we have this Christmas wrapped up for you",
