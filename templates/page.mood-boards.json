@@ -54,6 +54,11 @@
         "hover_text": false
       }
     },
+    "733fdfeb-e4f5-45db-aac9-8ce50f4ca025": {
+      "type": "mm_nav",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -180,6 +185,7 @@
   },
   "order": [
     "16421774751b08f65c",
+    "733fdfeb-e4f5-45db-aac9-8ce50f4ca025",
     "main",
     "16421782101b7d9ba1",
     "164217822868b65f4f",
