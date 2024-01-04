@@ -159,7 +159,7 @@
             "narrow": false,
             "image": "shopify:\/\/shop_images\/FERNMUSTARDKEANE.jpg",
             "auto_height": "none",
-            "cover": false,
+            "cover": true,
             "no_hover": false,
             "title": "Wallpaper",
             "subtitle": "Transform your space",
@@ -860,6 +860,7 @@
         },
         "a5a8782b-250f-4ac3-a243-55409643f4a8": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "half",
             "narrow": false,
@@ -882,6 +883,7 @@
         },
         "d21d79e2-ade0-43c7-9506-75a10d3f8039": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "half",
             "narrow": false,
