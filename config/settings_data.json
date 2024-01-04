@@ -538,6 +538,7 @@
         "blocks": {
           "f439469d-22df-41e6-bd6e-0a4bbfb7c051": {
             "type": "notice",
+            "disabled": true,
             "settings": {
               "title": "<p>Last Christmas Shipping dates - <a href=\"\/pages\/latest-posting-dates-christmas-delivery\" title=\"Last Shipping Dates for 2023\">Click here.<\/a><\/p>"
             }
