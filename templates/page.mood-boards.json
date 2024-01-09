@@ -65,84 +65,6 @@
       "settings": {
       }
     },
-    "16421782101b7d9ba1": {
-      "type": "image-with-text",
-      "blocks": {
-        "16421782093f40223e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Wide Stripe Blue"
-          }
-        },
-        "16421782093f40223e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><a href=\"\/products\/lampshade-pleated-seed-grass-large\" title=\"Lampshade Pleated Seed Grass Large\">Pleated Seed Lampshade in Grass<\/a><\/p><p><a href=\"\/products\/wide-stripe-block-printed-fabric-linen-blue\" title=\"Wide Stripe Block printed Fabric Linen Blue\">Wide Stripe Fabric in Blue<\/a><\/p><p><a href=\"\/products\/mughal-block-printed-fabric-linen-sky-indigo\" title=\"Mughal Block printed Fabric Linen Sky Indigo\">Mughal Fabric in Sky\/Indigo<\/a><\/p><p><a href=\"\/products\/quilt-peggy-blue\" title=\"Quilt Peggy Blue\">Quilt in Peggy Blue<\/a><\/p><p><a href=\"\/products\/lampbase-wooden-the-stem\" title=\"Lampbase Wooden The Stem\">Stem Lamp base in Blue<\/a><\/p>",
-            "code": ""
-          }
-        },
-        "16421782093f40223e-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16421782093f40223e-0",
-        "16421782093f40223e-1",
-        "16421782093f40223e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/6371703D-E30D-41DF-B6C8-35CF34501A2B_1_105_c.jpg",
-        "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first"
-      }
-    },
-    "164217822868b65f4f": {
-      "type": "image-with-text",
-      "blocks": {
-        "16421782280e86121f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Birds & Bees Pea Green"
-          }
-        },
-        "16421782280e86121f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><a href=\"\/products\/birds-bees-wallpaper-pea-green\" title=\"Birds & Bees Wallpaper Pea Green\">Birds & Bees Pea Green Wallpaper<\/a><\/p><p><a href=\"\/products\/seed-block-printed-fabric-cotton-mustard\" title=\"Seed Block printed Fabric Cotton Mustard\">Seed Fabric in Mustard<\/a><\/p><p><a href=\"\/products\/mug-rainbow-blue\" title=\"Mug Rainbow Blue\">Blue Rainbow Mug <\/a><\/p><p><a href=\"\/products\/green-framed-cotton-paper-print-stripes-yellow\" title=\"Green Framed Cotton Paper Print Stripes Yellow\">Green Framed Print Yellow Stripes<\/a><\/p><p><a href=\"\/products\/bagru-block-printed-fabric-cotton-pink\" title=\"Bagru Block printed Fabric Cotton Pink\">Bagru Fabric in Pink<\/a><\/p><p><a href=\"\/products\/cushion-frill-wide-stripe-blue\" title=\"Cushion Frill Wide Stripe Blue\">Wide Stripe Blue Cushion<\/a><\/p>",
-            "code": ""
-          }
-        },
-        "16421782280e86121f-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16421782280e86121f-0",
-        "16421782280e86121f-1",
-        "16421782280e86121f-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/BB42AF05-7FDD-43D0-A438-4CED604F56DE_1_105_c.jpg",
-        "title": "",
-        "color_scheme": "white_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first"
-      }
-    },
     "16421782343e4d4e6f": {
       "type": "image-with-text",
       "blocks": {
@@ -158,24 +80,255 @@
             "text": "<p><a href=\"\/products\/cushion-dianthus-midnight-iron\" title=\"Cushion Dianthus Midnight Iron\">Dianthus Cushion in Midnight\/Iron<\/a><\/p><p><a href=\"\/products\/pattee-block-printed-fabric-linen-pink\" title=\"Pattee Block printed Fabric Linen Pink\">Pattee Fabric in Pink<\/a><\/p><p><a href=\"\/products\/luna-block-printed-fabric-linen-blue-pink\" title=\"Luna Block printed Fabric Linen Blue\/Pink\">Luna Fabric in Blue\/Pink<\/a><\/p><p><a href=\"\/products\/rug-circle-pink\" title=\"Rug Circle Pink\">Rug Circle Pink<\/a><\/p>",
             "code": ""
           }
-        },
-        "1642178234a852a4c6-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "1642178234a852a4c6-0",
-        "1642178234a852a4c6-1",
-        "1642178234a852a4c6-2"
+        "1642178234a852a4c6-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/73EFC7FF-3EF7-4CB4-B10A-21870BDDC9BF_1_105_c_d04ffea8-fe41-4abe-a107-9c4be8d29cb8.jpg",
         "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "16421782101b7d9ba1": {
+      "type": "image-with-text",
+      "blocks": {
+        "16421782093f40223e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wide Stripe Blue"
+          }
+        },
+        "16421782093f40223e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/lampshade-pleated-seed-grass-large\" title=\"Lampshade Pleated Seed Grass Large\">Pleated Seed Lampshade in Grass<\/a><\/p><p><a href=\"\/products\/wide-stripe-block-printed-fabric-linen-blue\" title=\"Wide Stripe Block printed Fabric Linen Blue\">Wide Stripe Fabric in Blue<\/a><\/p><p><a href=\"\/products\/mughal-block-printed-fabric-linen-sky-indigo\" title=\"Mughal Block printed Fabric Linen Sky Indigo\">Mughal Fabric in Sky\/Indigo<\/a><\/p><p><a href=\"\/products\/quilt-peggy-blue\" title=\"Quilt Peggy Blue\">Quilt in Peggy Blue<\/a><\/p><p><a href=\"\/products\/lampbase-wooden-the-stem\" title=\"Lampbase Wooden The Stem\">Stem Lamp base in Blue<\/a><\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "16421782093f40223e-0",
+        "16421782093f40223e-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/6371703D-E30D-41DF-B6C8-35CF34501A2B_1_105_c.jpg",
+        "title": "",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "21b43e15-fee9-4f7c-bf2f-1facee511007": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14217017262138__21b43e15-fee9-4f7c-bf2f-1facee511007-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--14217017262138__21b43e15-fee9-4f7c-bf2f-1facee511007-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/wide-stripe-block-printed-fabric-linen-pink\" title=\"Wide Stripe Block printed Fabric Linen Pink\">Wide Stripe Fabric in Pink<\/a><\/p><p><a href=\"\/products\/spot-star-wallpaper-pea-green\" title=\"Spot & Star Wallpaper Pea Green\">Spot & Star Wallpaper in Pea Green<\/a><\/p><p><a href=\"https:\/\/www.farrow-ball.com\/paint\/arsenic?sku=5029496291421\" title=\"https:\/\/www.farrow-ball.com\/paint\/arsenic?sku=5029496291421\">Farrow & Ball's Arsenic Paint<\/a><\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14217017262138__21b43e15-fee9-4f7c-bf2f-1facee511007-heading-1",
+        "template--14217017262138__21b43e15-fee9-4f7c-bf2f-1facee511007-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Stars_Wide_Stripe_Bathroom_Moodboard.jpg",
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "e963399a-530a-4e60-951e-6430739431b8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14217017262138__e963399a-530a-4e60-951e-6430739431b8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--14217017262138__e963399a-530a-4e60-951e-6430739431b8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/leaf-wallpaper-grass-green\" title=\"Leaf Wallpaper Grass Green\">Leaf Wallpaper in Grass Green<\/a><\/p><p><a href=\"\/products\/ellies-block-printed-fabric-linen-cotton-rose\" title=\"Ellies Block printed Fabric Linen\/Cotton Rose\">Ellies Fabric in Rose<\/a><\/p><p><a href=\"\/products\/cushion-dianthus-rust-rose\" title=\"Cushion Dianthus Rust Rose\">Dianthus Cushion in Rust\/Rose<\/a><\/p><p><a href=\"\/products\/quilt-posy\" title=\"Quilt Posy\">Posy Quilt<\/a><\/p><p><a href=\"\/products\/lampshade-flirty-skirt-berry-pink-trim\" title=\"Lampshade Flirty Skirt Berry Pink Trim\">Berry Flirty Skirt with Pink Trim<\/a><\/p><p><a href=\"\/products\/lampbase-wooden-the-stem\" title=\"Lampbase Wooden The Stem\">Pink Stem Lamp Base<\/a><\/p><p><\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14217017262138__e963399a-530a-4e60-951e-6430739431b8-heading-1",
+        "template--14217017262138__e963399a-530a-4e60-951e-6430739431b8-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Deerhyrst_Bedroom_Moodboard.jpg",
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "90e912de-b547-438e-91e1-18f37e3f8cc5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14217017262138__90e912de-b547-438e-91e1-18f37e3f8cc5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--14217017262138__90e912de-b547-438e-91e1-18f37e3f8cc5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/forest-printed-fabric-linen-cotton-blue\" title=\"Forest Printed Fabric Linen\/Cotton Blue\">Forest Fabric in Blue<\/a><\/p><p><a href=\"\/products\/spot-star-printed-fabric-linen-cotton-indigo\" title=\"Spot & Star Printed Fabric Linen\/Cotton Indigo\">Spot & Star Fabric in Indigo<\/a><\/p><p><a href=\"\/products\/cushion-noodle-sun-rise\" title=\"Cushion Noodle Sun Rise\">Sun Rise Noodle Cushion<\/a><\/p><p><a href=\"\/products\/lampshade-pleated-seed-iron-large\" title=\"Lampshade Pleated Seed Iron Large\">Large Pleated Lampshade in Iron Seed<\/a><\/p><p><a href=\"\/products\/lampbase-ceramic-honey-pot-blue\" title=\"Lampbase Ceramic Honey Pot Blue\">Honeypot Lamp Base in Blue<\/a><\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14217017262138__90e912de-b547-438e-91e1-18f37e3f8cc5-heading-1",
+        "template--14217017262138__90e912de-b547-438e-91e1-18f37e3f8cc5-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Forest_Blue_Lamp_Moodboard.jpg",
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "3f73de22-fce0-4971-9e4b-1aab44f2381a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14217017262138__3f73de22-fce0-4971-9e4b-1aab44f2381a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--14217017262138__3f73de22-fce0-4971-9e4b-1aab44f2381a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/mughal-block-printed-fabric-linen-peach-sap-green\" title=\"Mughal Block printed Fabric Linen Peach Sap Green\">Mughal Fabric In Peach\/Sap Green<\/a><\/p><p><a href=\"\/products\/lani-wallpaper-gold\" title=\"Lani Wallpaper Gold\">Lani Wallpaper in Gold<\/a><\/p><p><a href=\"\/products\/cushion-chequer-blues\" title=\"Cushion Chequer Blues\">Chequer Cushion in Blue<\/a><\/p><p><a href=\"\/products\/cushion-frill-wide-stripe-blue\" title=\"Cushion Frill Wide Stripe Blue\">Frilly Wide Stripe Cushion in Blue<\/a><\/p><p><a href=\"\/products\/cushion-frill-vases-blues\" title=\"Cushion Frill Vases Blues\">Frilly Vases Cushion in Blue<\/a><\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14217017262138__3f73de22-fce0-4971-9e4b-1aab44f2381a-heading-1",
+        "template--14217017262138__3f73de22-fce0-4971-9e4b-1aab44f2381a-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Red_House_Moodboard_fe86b64d-9693-4861-92c1-ba4a19b7370b.jpg",
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "a7469243-9222-4456-8ff2-4bb5ed5dedb0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14217017262138__a7469243-9222-4456-8ff2-4bb5ed5dedb0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--14217017262138__a7469243-9222-4456-8ff2-4bb5ed5dedb0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/marigold-wallpaper-pink-blue\" title=\"Marigold Wallpaper Pink\/Blue\">Marigold Wallpaper in Pink\/Blue<\/a><\/p><p><a href=\"\/products\/pattee-block-printed-fabric-linen-pink\" title=\"Pattee Block printed Fabric Linen Pink\">Pattee Fabric in Pink<\/a><\/p><p><a href=\"\/products\/stripe-printed-fabric-linen-cotton-blue\" title=\"Stripe Printed Fabric Linen\/Cotton Blue\">Stripe Fabric in Blue<\/a><\/p><p><a href=\"\/products\/book-house-of-print\" title=\"Book House of Print\">House of Print Book by Molly Mahon<\/a><\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14217017262138__a7469243-9222-4456-8ff2-4bb5ed5dedb0-heading-1",
+        "template--14217017262138__a7469243-9222-4456-8ff2-4bb5ed5dedb0-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Deerhyrst_Master_Bedroom_Moodboard.jpg",
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "6c50272e-28e0-478b-815e-d18bc681bf8f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14217017262138__6c50272e-28e0-478b-815e-d18bc681bf8f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--14217017262138__6c50272e-28e0-478b-815e-d18bc681bf8f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/rug-chunky-cotton-blue\" title=\"Rug Chunky Cotton Blue\">Chunky Cotton Rug in Blue<\/a><\/p><p><a href=\"\/collections\/framed-prints\" title=\"Framed Prints\">Gold Framed Prints<\/a><\/p><p><a href=\"\/collections\/lighting\" title=\"Lighting\">Flirty Skirt Lamp Shades<\/a><\/p><p><a href=\"\/products\/lampbase-ceramic-honey-pot-blue\" title=\"Lampbase Ceramic Honey Pot Blue\">Honey Pot Lamp base in Blue<\/a><\/p><p><a href=\"\/products\/cushion-dianthus-rust-rose\" title=\"Cushion Dianthus Rust Rose\">Garden Path Cushion<\/a><\/p><p><a href=\"\/products\/dianthus-block-printed-fabric-cotton-rust-rose\" title=\"Dianthus Block printed Fabric Cotton Rust\/Rose\">Dianthus Fabric in Rust\/Rose<\/a><\/p><p><a href=\"https:\/\/www.farrow-ball.com\/paint\/suffield-green\" title=\"https:\/\/www.farrow-ball.com\/paint\/suffield-green\">Farrow & Ball's Suffield Green Paint<\/a><\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14217017262138__6c50272e-28e0-478b-815e-d18bc681bf8f-heading-1",
+        "template--14217017262138__6c50272e-28e0-478b-815e-d18bc681bf8f-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Suffield_Green_Moodboard.jpg",
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
+    },
+    "de45c3fc-2be2-4c08-b405-bd27ffc67e59": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14217017262138__de45c3fc-2be2-4c08-b405-bd27ffc67e59-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--14217017262138__de45c3fc-2be2-4c08-b405-bd27ffc67e59-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/birds-bees-wallpaper-pea-green\" title=\"Birds & Bees Wallpaper Pea Green\">Birds & Bees Wallpaper in Pea Green<\/a><\/p><p><a href=\"\/products\/bagru-block-printed-fabric-cotton-pink\" title=\"Bagru Block printed Fabric Cotton Pink\">Bagru Fabric in Pink<\/a><\/p><p><a href=\"\/products\/cushion-frill-wide-stripe-blue\" title=\"Cushion Frill Wide Stripe Blue\">Frilly Wide Stripe Cushion in Blue<\/a><\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14217017262138__de45c3fc-2be2-4c08-b405-bd27ffc67e59-heading-1",
+        "template--14217017262138__de45c3fc-2be2-4c08-b405-bd27ffc67e59-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Birds_Bees_Pea_Green_Wallpaper_Moodboard.jpg",
+        "title": "A Seasonal Setting",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -187,8 +340,14 @@
     "16421774751b08f65c",
     "733fdfeb-e4f5-45db-aac9-8ce50f4ca025",
     "main",
+    "16421782343e4d4e6f",
     "16421782101b7d9ba1",
-    "164217822868b65f4f",
-    "16421782343e4d4e6f"
+    "21b43e15-fee9-4f7c-bf2f-1facee511007",
+    "e963399a-530a-4e60-951e-6430739431b8",
+    "90e912de-b547-438e-91e1-18f37e3f8cc5",
+    "3f73de22-fce0-4971-9e4b-1aab44f2381a",
+    "a7469243-9222-4456-8ff2-4bb5ed5dedb0",
+    "6c50272e-28e0-478b-815e-d18bc681bf8f",
+    "de45c3fc-2be2-4c08-b405-bd27ffc67e59"
   ]
 }
