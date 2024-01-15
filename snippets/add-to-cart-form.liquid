@@ -223,9 +223,11 @@ function letsDoThis() {
     if(inv >= "1") {
       console.log("in stock");
       addtocarttext.innerHTML = "Add to cart";
+      button.setAttribute("disabled", "false");
     } else {
       console.log("outta stock");
       addtocarttext.innerHTML = "Sold out";
+      button.setAttribute("disabled", "true");
     };
   } else {
   document.getElementById('product-select').value = '';
