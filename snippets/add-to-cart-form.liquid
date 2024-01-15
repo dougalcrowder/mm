@@ -22,7 +22,7 @@
       <fieldset id='select-one' onchange="letsDoThis()">
         {% for variant in product.variants %}
         {% unless used contains variant.option1 %}
-        <input name="select-one" type="radio" value="{{ variant.option1 }}" id="{{ variant.option1 }}-{{ product.handle }}" 
+        <input name="select-one" type="radio" value="{{ variant.option1 }}" id="{{ variant.option1 }}-{{ product.handle }}" data-title="{{ variant.title | handleize }}" data-stock="{{ variant.inventory_quantity | handleize }}"
         {% if forloop.index == 1 %}
           checked
         {% endif %}>
@@ -212,6 +212,7 @@ function letsDoThis() {
   var id = {{ v.id }};
   var price = "{{ v.price | money }}";
   var image = "{{ v.image | img_url }}";
+  var inv = "{{ v.inventory_quantity }}"
   }
   {% endfor %}
   if(id!='') {
@@ -225,6 +226,7 @@ function letsDoThis() {
   // console.log(id);
   // console.log(price);
   // console.log(image);
+  console.log(inv);
   
 }
 letsDoThis();
