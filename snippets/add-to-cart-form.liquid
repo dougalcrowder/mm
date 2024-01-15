@@ -222,9 +222,10 @@ function letsDoThis() {
   document.getElementById('price').innerHTML = price;
     if(inv >= "1") {
       console.log("in stock");
-      
+      addtocarttext.innerHTML = "Add to cart";
     } else {
       console.log("outta stock");
+      addtocarttext.innerHTML = "Sold out";
     };
   } else {
   document.getElementById('product-select').value = '';
