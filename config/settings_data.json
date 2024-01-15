@@ -217,7 +217,7 @@
         "type": "mailchimp",
         "settings": {
           "chimp_url": "https:\/\/mollymahon.us10.list-manage.com\/subscribe\/post?u=97f9cc90b67785f171c4e5e7a&amp;id=03514ce382",
-          "section_title": "Sign Up and get 10% off your next purchase.",
+          "section_title": "Sign Up & get 10% off your next purchase with an additional \"Block Friday\" offer.",
           "subheading": "<p>You will receive Molly's monthly PRINTSPIRATION, her tastes of the month on top of new launches, offers and bundles of inspiration.<\/p>",
           "show_name": false,
           "disable": true
@@ -229,13 +229,13 @@
           "072e5e73-8808-4c6b-87d3-40137b8ad999": {
             "type": "heading",
             "settings": {
-              "heading": "Join our World of Block Printing & get 10% off your next order"
+              "heading": "Join our World of Block Printing and receive a welcome 10% discount code."
             }
           },
           "502d7e48-b4ed-4861-8f30-60a5f24bf26c": {
             "type": "paragraph",
             "settings": {
-              "text": "<p>Be the first to know of our new launches, offers and inspiration whilst Receiving Molly's monthly PRINTSPIRATION.<\/p>"
+              "text": "<p>We value our subscribers and offer colourful informative newsletters, special subscriber offers and tips of the trade.  You will also be the first to know of our new launches, offers and inspiration and receive Molly's monthly PRINTSPIRATION packed with all the things she is loving right now.<\/p>"
             }
           },
           "bd9030af-38b0-4569-857c-144a38231309": {
@@ -540,7 +540,7 @@
             "type": "notice",
             "disabled": true,
             "settings": {
-              "title": "<p>Safety First Angie!<\/p>"
+              "title": "<p>Last Christmas Shipping dates - <a href=\"\/pages\/latest-posting-dates-christmas-delivery\" title=\"Last Shipping Dates for 2023\">Click here.<\/a><\/p>"
             }
           },
           "7904f93a-34bc-4fe4-b201-3c6863cab0af": {
@@ -552,8 +552,9 @@
           },
           "238b3933-8740-4300-998e-2f49ad0fcb8c": {
             "type": "notice",
+            "disabled": true,
             "settings": {
-              "title": "<p>Enjoy Free UK Shipping on orders over £35. FREESHIP35<\/p>"
+              "title": "<p>BLOCK FRIDAY DEAL. Subscribe for info.<\/p>"
             }
           }
         },

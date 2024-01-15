@@ -40,17 +40,19 @@
             <span class="availability soldout badge">{{ 'products.product.sold_out' | t }}</span>
           {%- elsif product_card_product.compare_at_price > product_card_product.price and product_card_product.available -%}
             {%- if product_card_product.tags contains 'bundle' -%}
-              <span class="availability bundle badge green">Bundle</span>
+              <span class="availability bundle badge green">Gift Saver</span>
             {%- else -%}
             <span class="availability sale badge">{{ 'products.product.on_sale' | t }}</span>
             {%- endif -%}
           {%- elsif product_card_product.tags contains 'bundle' -%}
-            <span class="availability bundle badge green">Bundle</span>
+            <span class="availability bundle badge green">Gift Saver</span>
           {%- endif -%}
         {%- endif -%}
+        {% comment %}
         {%- if product_card_product.tags contains 'Christmas gift' -%}
           <span class="christmas_gift"></span>
         {%- endif -%}
+        {% endcomment %}
     </div>
     <div class="image">
       
