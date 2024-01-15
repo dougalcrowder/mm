@@ -13,6 +13,7 @@
         {% unless reused contains variant.option1 %}
           {% capture reused %}{{ reused }} {{ variant.option1 }}{% endcapture %}
           {% assign daftunit = daftunit | plus: 1 %}
+          <div class="test"> {{ variant.title }} - {{ variant.inventory_quantity }} </div>
         {% endunless %}
     {% endfor %}
 
