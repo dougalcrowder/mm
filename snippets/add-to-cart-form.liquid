@@ -139,7 +139,7 @@
    data-add-to-cart 
    class="button addtocart fill button--full-width button--secondary"
    {%- unless current_variant.available -%}disabled="disabled"{%- endunless -%}> 
-     <span data-add-to-cart-text> 
+     <span data-add-to-cart-text class="addtocarttext"> 
         {%- if current_variant.available -%} 
 
           {%- if current_variant.incoming and current_variant.inventory_policy == 'continue' -%}
@@ -206,6 +206,8 @@ function letsDoThis() {
   {% if product.options[0] %}var opt1 = document.querySelector('input[name="select-one"]:checked').value;{% endif %}
   {% if product.options[1] %}var opt2 = document.querySelector('input[name="select-two"]:checked').value;{% endif %}
   {% if product.options[2] %}var opt3 = document.querySelector('input[name="select-three"]:checked').value;{% endif %}
+  var button = document.querySelector('button.addtocart');addtocarttext
+  var addtocarttext = document.querySelector('span.addtocarttext');
   var id = '';
   {% for v in product.variants %}
   if(opt1=="{{ v.option1 }}"{% if product.options[1] %} && opt2=="{{ v.option2 }}"{% endif %}{% if product.options[2] %} && opt3=="{{ v.option3 }}"{% endif %}) {
@@ -220,6 +222,7 @@ function letsDoThis() {
   document.getElementById('price').innerHTML = price;
     if(inv >= "1") {
       console.log("in stock");
+      
     } else {
       console.log("outta stock");
     };
