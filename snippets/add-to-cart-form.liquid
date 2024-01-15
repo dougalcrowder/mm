@@ -14,7 +14,6 @@
           {% capture reused %}{{ reused }} {{ variant.option1 }}{% endcapture %}
           {% assign daftunit = daftunit | plus: 1 %}
         {% endunless %}
-      <div class="test"> {{ variant.title }} - {{ variant.inventory_quantity }} </div>
     {% endfor %}
 
     <div class="radio_container thisbe-{{ daftunit }} {{ optionName0 }}{% if section.settings.ownline %} flex{% endif %}{% if optionName0 == 'unit' and daftunit == 1 %} hidden{% endif %}">
