@@ -218,6 +218,11 @@ function letsDoThis() {
   if(id!='') {
   document.getElementById('product-select').value = id;
   document.getElementById('price').innerHTML = price;
+    if(inv >= "1") {
+      console.log("in stock");
+    } else {
+      console.log("outta stock");
+    };
   } else {
   document.getElementById('product-select').value = '';
   document.getElementById('price').innerHTML = 'Unavailable';
