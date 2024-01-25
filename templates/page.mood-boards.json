@@ -394,6 +394,36 @@
         "text_align": "center",
         "layout": "image_first"
       }
+    },
+    "image_with_text_6wfqc3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CNtWkk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "text_ENnkaB": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/products\/buti-block-printed-fabric-cotton-pink\" title=\"Buti Block printed Fabric Cotton Pink\">Buti Fabric in Pink<\/a><\/p><p><a href=\"\/products\/stars-block-printed-fabric-cotton-reverse-light-indigo\" title=\"Stars Block printed Fabric Cotton Reverse Light Indigo\">Stars Fabric in Indigo<\/a><\/p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CNtWkk",
+        "text_ENnkaB"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Medici_Blue.jpg",
+        "title": "A Seasonal Setting",
+        "color_scheme": "white_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -410,6 +440,7 @@
     "3f73de22-fce0-4971-9e4b-1aab44f2381a",
     "a7469243-9222-4456-8ff2-4bb5ed5dedb0",
     "de45c3fc-2be2-4c08-b405-bd27ffc67e59",
-    "image_with_text_U8ccJx"
+    "image_with_text_U8ccJx",
+    "image_with_text_6wfqc3"
   ]
 }
