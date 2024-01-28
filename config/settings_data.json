@@ -538,9 +538,8 @@
         "blocks": {
           "f439469d-22df-41e6-bd6e-0a4bbfb7c051": {
             "type": "notice",
-            "disabled": true,
             "settings": {
-              "title": "<p>Winter Sale 70%-30% Discounts<\/p>"
+              "title": "<p>Up to 70% Winter Sale Discounts<\/p>"
             }
           },
           "7904f93a-34bc-4fe4-b201-3c6863cab0af": {
