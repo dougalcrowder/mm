@@ -217,8 +217,8 @@
         "type": "mailchimp",
         "settings": {
           "chimp_url": "https:\/\/mollymahon.us10.list-manage.com\/subscribe\/post?u=97f9cc90b67785f171c4e5e7a&amp;id=03514ce382",
-          "section_title": "Sign Up & get 10% off your next purchase and one lucky subscriber between now and Valentines Day will have the chance to be randomly selected to win a Cherry print tablecloth and 4 napkins.",
-          "subheading": "<p>You will receive Molly's monthly PRINTSPIRATION, be the first to know about new launches, receive VIP offers to exclusive events and more.<\/p>",
+          "section_title": "Sign Up & get 10% off your first purchase.",
+          "subheading": "<p>You will receive Molly's monthly PRINTSPIRATION, be the first to know about new launches, receive VIP offers to exclusive events and more.  AND one lucky new subscriber who joins us between now and Valentines Day will have the chance to be randomly selected to win our Cherry print tablecloth and 4 napkins. BE MY VALENTINE! JOIN TODAY.<\/p><p><\/p>",
           "show_name": false,
           "disable": true
         }
