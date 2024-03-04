@@ -56,11 +56,11 @@ window.Shopify.loadFeatures(
    // If error is false, the API has loaded and ready to use!
   let showBanner = window.Shopify.customerPrivacy.shouldShowBanner();
   let consent = window.Shopify.customerPrivacy.currentVisitorConsent(); 
-  {% comment %}
+
   console.log(showBanner);
   console.log(consent);
   if(showBanner == true) {}
-  {% endcomment %}
+
   gtag('set', 'url_passthrough', true); 
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
