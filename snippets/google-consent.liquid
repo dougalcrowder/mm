@@ -72,10 +72,12 @@ window.Shopify.loadFeatures(
     console.log(consent);
 
     if (consent.marketing == 'yes') {
+      console.log("if marketing yes");
       ad_storage_Granted();
       ad_user_data_Granted();
     }
     if (consent.marketing == 'no') {
+      console.log("if marketing no");
       ad_storage_Denied();
       ad_user_data_Denied();
     }
