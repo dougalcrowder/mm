@@ -68,9 +68,9 @@ window.Shopify.loadFeatures(
   gtag('config', 'G-SREGH6W4G6');
   
   if(showBanner == false) {
-    {% comment %}
-    // console.log(consent);
-    {% endcomment %}
+
+    console.log(consent);
+
     if (consent.marketing == 'yes') {
       ad_storage_Granted();
       ad_user_data_Granted();
@@ -99,13 +99,13 @@ window.Shopify.loadFeatures(
 
 
 document.addEventListener('DOMContentLoaded', function () {
-  {% comment %}
-  // document.addEventListener("visitorConsentCollected", (event) => console.log(event.detail));
-  {% endcomment %}
+
+  document.addEventListener("visitorConsentCollected", (event) => console.log(event.detail));
+
   document.addEventListener('visitorConsentCollected', function(evt) {
-    {% comment %}
-    // console.log(evt.detail)
-     {% endcomment %}
+   
+    console.log(evt.detail)
+    
     if (evt.detail.firstPartyMarketingAllowed == true) {
       ad_storage_Granted();
       ad_user_data_Granted();
