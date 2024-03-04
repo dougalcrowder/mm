@@ -57,22 +57,12 @@ window.Shopify.loadFeatures(
   let showBanner = window.Shopify.customerPrivacy.shouldShowBanner();
   let consent = window.Shopify.customerPrivacy.currentVisitorConsent(); 
 
-  console.log(showBanner);
-  console.log(consent);
-  
-  // if(showBanner == true) {
-  //   
-  // }
-
   gtag('set', 'url_passthrough', true); 
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-SREGH6W4G6');
   
-
-
-    console.log(consent);
 
     if (consent.marketing == 'yes') {
       console.log("if marketing yes");
