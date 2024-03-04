@@ -1,0 +1,136 @@
+<script>
+function ad_storage_Granted() {
+  gtag('consent', 'update', {
+    'ad_storage': 'granted'
+  });
+}
+function ad_user_data_Granted() {
+  gtag('consent', 'update', {
+    'ad_user_data': 'granted'
+  });
+}
+function ad_personalization_Granted() {
+  gtag('consent', 'update', {
+    'ad_personalization': 'granted'
+  });
+}
+function analytics_storage_Granted() {
+  gtag('consent', 'update', {
+    'analytics_storage': 'granted'
+  });
+}
+
+function ad_storage_Denied() {
+  gtag('consent', 'update', {
+    'ad_storage': 'denied'
+  });
+}
+function ad_user_data_Denied() {
+  gtag('consent', 'update', {
+    'ad_user_data': 'denied'
+  });
+}
+function ad_personalization_Denied() {
+  gtag('consent', 'update', {
+    'ad_personalization': 'denied'
+  });
+}
+function analytics_storage_Denied() {
+  gtag('consent', 'update', {
+    'analytics_storage': 'denied'
+  });
+}
+
+
+window.Shopify.loadFeatures(
+ [
+   {
+     name: 'consent-tracking-api',
+     version: '0.1',
+   },
+ ],
+ error => {
+   if (error) {
+
+   }
+   // If error is false, the API has loaded and ready to use!
+  let showBanner = window.Shopify.customerPrivacy.shouldShowBanner();
+  let consent = window.Shopify.customerPrivacy.currentVisitorConsent(); 
+  {% comment %}
+  console.log(showBanner);
+  console.log(consent);
+  if(showBanner == true) {}
+  {% endcomment %}
+  gtag('set', 'url_passthrough', true); 
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-T4WCC67R4B');
+  
+  if(showBanner == false) {
+    {% comment %}
+    // console.log(consent);
+    {% endcomment %}
+    if (consent.marketing == 'yes') {
+      ad_storage_Granted();
+      ad_user_data_Granted();
+    }
+    if (consent.marketing == 'no') {
+      ad_storage_Denied();
+      ad_user_data_Denied();
+    }
+    if (consent.analytics == 'yes') {
+      analytics_storage_Granted();
+    }
+    if (consent.analytics == 'no') {
+      analytics_storage_Denied();
+    }
+    if (consent.preferences == 'yes') {
+      ad_personalization_Granted();
+    }
+    if (consent.preferences == 'no') {
+      ad_personalization_Denied();
+    }
+  }
+   
+ },
+);
+
+
+
+document.addEventListener('DOMContentLoaded', function () {
+  {% comment %}
+  // document.addEventListener("visitorConsentCollected", (event) => console.log(event.detail));
+  {% endcomment %}
+  document.addEventListener('visitorConsentCollected', function(evt) {
+    {% comment %}
+    // console.log(evt.detail)
+     {% endcomment %}
+    if (evt.detail.firstPartyMarketingAllowed == true) {
+      ad_storage_Granted();
+      ad_user_data_Granted();
+    }
+    if (evt.detail.firstPartyMarketingAllowed == false) {
+      ad_storage_Denied();
+      ad_user_data_Denied();
+    }
+    if (evt.detail.analyticsAllowed == true) {
+      analytics_storage_Granted();
+    }
+    if (evt.detail.analyticsAllowed == false) {
+      analytics_storage_Denied();
+    }
+    if (evt.detail.preferencesAllowed == true) {
+      ad_personalization_Granted();
+    }
+    if (evt.detail.preferencesAllowed == false) {
+      ad_personalization_Denied();
+    }
+    
+  });
+}, false);
+
+
+
+
+</script>
