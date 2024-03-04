@@ -51,7 +51,7 @@ window.Shopify.loadFeatures(
  ],
  error => {
    if (error) {
-    
+    console.log('consent-tracking-api error');
    }
    // If error is false, the API has loaded and ready to use!
   let showBanner = window.Shopify.customerPrivacy.shouldShowBanner();
@@ -59,7 +59,10 @@ window.Shopify.loadFeatures(
 
   console.log(showBanner);
   console.log(consent);
-  if(showBanner == true) {}
+  
+  // if(showBanner == true) {
+  //   
+  // }
 
   gtag('set', 'url_passthrough', true); 
   window.dataLayer = window.dataLayer || [];
@@ -67,7 +70,7 @@ window.Shopify.loadFeatures(
   gtag('js', new Date());
   gtag('config', 'G-SREGH6W4G6');
   
-  if(showBanner == false) {
+
 
     console.log(consent);
 
@@ -93,7 +96,7 @@ window.Shopify.loadFeatures(
     if (consent.preferences == 'no') {
       ad_personalization_Denied();
     }
-  }
+
    
  },
 );
