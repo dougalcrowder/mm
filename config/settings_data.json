@@ -564,7 +564,7 @@
         ],
         "settings": {
           "foreground": "white_text",
-          "background": "plum_bg",
+          "background": "blue_bg",
           "styles": true
         }
       }
