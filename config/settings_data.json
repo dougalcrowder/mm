@@ -564,7 +564,7 @@
         ],
         "settings": {
           "foreground": "white_text",
-          "background": "blue_bg",
+          "background": "green_bg",
           "styles": true
         }
       }
