@@ -37,8 +37,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TABLELINEN_PEONY_LIFE2_1200x900_cd82a70e-252a-40fc-aa39-d1abc9dc3cb0.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/mollymahon_sofa_cushions_lampshades_bases_moorhouse_1300x1300_f655d936-3461-4ad4-95b1-7eba80b4c85d.jpg",
+        "letterbox": true,
+        "mobile_image": "shopify:\/\/shop_images\/NAPKIN_PEONY_LIFE_1300x1300_ccb7cc05-d886-4157-baa3-88b658ed8f23.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
