@@ -37,7 +37,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Indian_Summerd_552ab90e-5b41-49db-8700-ee2967a7a129.jpg",
-        "letterbox": false,
+        "letterbox": true,
         "mobile_image": "shopify:\/\/shop_images\/NAPKIN_PEONY_LIFE_1300x1300_ccb7cc05-d886-4157-baa3-88b658ed8f23.jpg",
         "make_logo_white": false,
         "top_margin": false,
