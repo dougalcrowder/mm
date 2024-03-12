@@ -41,7 +41,7 @@
         "mobile_image": "shopify:\/\/shop_images\/NAPKIN_PEONY_LIFE_1300x1300_ccb7cc05-d886-4157-baa3-88b658ed8f23.jpg",
         "make_logo_white": false,
         "top_margin": false,
-        "constrain": false,
+        "constrain": true,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
