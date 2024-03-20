@@ -3,7 +3,8 @@
   <!-- data-ajax-cart-section makes the element's HTML update
   when the cart gets changed -->
 
-    {{ settings.discount_threshold.price | money_with_currency }}
+    {% assign threshold = settings.discount_threshold.price %}
+  
   <div data-ajax-cart-section>
     <p class="intro">Item added to your cart</p>
     {% comment %}
@@ -14,7 +15,7 @@
     <div class="my-cart__items" data-ajax-cart-section-scroll>
       {% for item in cart.items %}
       {% if item.title == "Pouch" %}
-      {% if cart.total_price >= 4000 and cart.currency.iso_code == "GBP" %}
+      {% if cart.total_price >= threshold %}
         <div class="cart_item flex" style="padding: 4px; border: 1px solid #89c183;">
           <a href="{{ item.url }}">
             <picture class="productShots">
