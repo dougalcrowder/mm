@@ -10,7 +10,7 @@
     </div>
     {% endcomment %}
     <div class="my-cart__items" data-ajax-cart-section-scroll>
-    
+      {{ iso_code }}
       {% for item in cart.items %}
       {% if item.title == "Pouch" %}
       {% if cart.total_price >= 4000 %}
