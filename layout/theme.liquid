@@ -304,6 +304,60 @@
           }
         });
         
+        subscribeToCartStateUpdate( state => {
+        
+          const promoVariant = 40299139203130;  // product's variant ID
+        
+          // If cart state exists and there is no Ajax Cart API request in progress
+          if ( state.status.cartStateSet && !state.status.requestInProgress ) {
+        
+            let currentSubtotal = state.cart.items_subtotal_price;
+        
+            // Find out if there is a product that was automatically added before
+            const autoAddedLineItem = state.cart.items.findIndex( lineItem => { 
+              return lineItem.properties?._autoadded === 'Yes' ;
+            });
+        
+            // If there is the automaticaly added product —
+            if ( autoAddedLineItem > -1 ) {
+              console.log("auto added")
+            }
+        
+            console.log("subtotal is" + currentSubtotal + "ok");
+            
+            if ( currentSubtotal >= 4000 ) {
+              
+              // Try to find a promoVariant product with an applied discount
+              const promoVariantLineItem = state.cart.items.findIndex( lineItem => { 
+                return lineItem.variant_id === promoVariant;
+              });
+        
+              // If there is no a promoVariant product with an applied discount
+              // lets add one with _autoadded property
+              if ( promoVariantLineItem === -1 ) {
+                cartRequestAdd({ 
+                  items: [{
+                      id: promoVariant,
+                      quantity: 1,
+                      properties: { "_autoadded": "Yes" }
+                  }]  
+                });
+              }
+            } else {
+        
+              // Basket amount too small
+              // and an autoadded product is still in the cart —
+              // lets remove it
+              if ( autoAddedLineItem > -1 ) {
+                cartRequestChange({ 
+                  "line": autoAddedLineItem + 1,
+                  "quantity": 0
+                });
+              }
+            }
+          }
+        });
+        
       </script>
       
       <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
