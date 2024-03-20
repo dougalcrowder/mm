@@ -3,17 +3,7 @@
   <!-- data-ajax-cart-section makes the element's HTML update
   when the cart gets changed -->
 
-  {% for product in collections.all.products %}
-   {% case product.tite %}
-      {% when "Gift Discount Threshold" %}
-         {% assign my_product = product %}
-   {% endcase %}
-  {% endfor %}
-    
-    {% assign discountthreshold = all_products['40317287989306'] %}
-      {{ discountthreshold.price | money_with_currency }} {{ discountthreshold.handle }}<br>
-    <strong> {{ my_product.title }} <br> </strong>
-    {{ settings.discount_threshold.title }}
+    {{ settings.discount_threshold.price | money_with_currency }}
   <div data-ajax-cart-section>
     <p class="intro">Item added to your cart</p>
     {% comment %}
