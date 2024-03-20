@@ -4,8 +4,9 @@
   when the cart gets changed -->
   <div data-ajax-cart-section>
     <p class="intro">Item added to your cart</p>
-    {% assign discountthreshold = 4000 %}
+
       
+    {% assign discountthreshold = all_products['7217065033786'] %}
       {{ discountthreshold | money_with_currency }}
       
     {% comment %}
