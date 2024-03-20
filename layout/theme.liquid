@@ -275,7 +275,7 @@
         
         cartListen();
       
-        import { subscribeToCartAjaxRequests } from '{{ "liquid-ajax-cart-v1.10.3.js" | asset_url }}';
+        import { subscribeToCartAjaxRequests, subscribeToCartStateUpdate } from '{{ "liquid-ajax-cart-v1.10.3.js" | asset_url }}';
         
         subscribeToCartAjaxRequests(( requestState, subscribeToResult ) => {
         
