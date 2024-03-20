@@ -13,8 +13,8 @@
   {% endfor %}
     
     {% assign discountthreshold = all_products['40317287989306'] %}
-      {{ discountthreshold.price | money_with_currency }} <br>
-    <strong> {{ my_product.price }} <br> </strong>
+      {{ discountthreshold.price | money_with_currency }} {{ discountthreshold.handle }}<br>
+    <strong> {{ my_product.title }} <br> </strong>
     
       
     {% comment %}
