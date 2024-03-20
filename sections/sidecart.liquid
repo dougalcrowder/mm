@@ -50,7 +50,7 @@
       
       {% for item in cart.items %}
         {% assign item_index = forloop.index %}
-         {% if item_index == 1 %}
+         {% if item_index == 1 and item.title != "Pouch" %}
         <div class="cart_item flex">
           <a href="{{ item.url }}">
             <picture class="productShots">
@@ -84,6 +84,39 @@
           </div>
         </div>
           {% break %}
+        {% elsif item_index == 2 and item.title != "Pouch" %}
+        <div class="cart_item flex">
+          <a href="{{ item.url }}">
+            <picture class="productShots">
+              <source srcset="{{  item.image | img_url: '120x120', scale: 2, crop: 'center' }} 2x, {{  item.image | img_url: '120x120', crop: 'center' }}" media="(min-width: 320px)" />
+              <source srcset="{{  item.image | img_url: '120x120', scale: 2, crop: 'center' }} 2x, {{  item.image | img_url: '120x120', crop: 'center' }}" media="(min-width: 300px)" />
+            <img class="prod-shot" src="{{  item.image | img_url: '120x120', crop: 'center' }}" alt="{{  item.image.alt | escape }}" width="120" height="120" />
+            </picture>
+          </a>
+          <div class="cart_item_text">
+            {% comment %} 
+            <a href="/cart/change?line={{ item_index }}&amp;quantity=0" class="remove-button" data-ajax-cart-request-button="">
+              <small class="close_left">Remove</small>
+            </a>
+            {% endcomment %}
+            <p class="item_title">{{ item.title }}</p>
+            {% comment %}
+            <div class="flex qty">
+              <label>Quantity:</label>
+              <!-- data-ajax-cart-quantity-input ajaxifies the line item quantity input -->
+              <input data-ajax-cart-quantity-input="{{ item_index }}"
+                name="updates[]" 
+                value="{{ item.quantity }}" 
+                type="number" />
+            </div>
+            {% endcomment %}
+            <div>{{ item.final_price | money }}</div>
+            <!-- Container for errors -->
+            <div data-ajax-cart-messages="{{ item.key }}"></div>
+        
+            <div class="visually-hidden">Total: <strong>{{ item.final_line_price | money }}</strong></div>
+          </div>
+        </div>
           {% endif %}
       {% endfor %}
     </div>
