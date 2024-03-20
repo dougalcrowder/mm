@@ -14,12 +14,12 @@
       {% for item in cart.items %}
       {% if item.title == "Pouch" %}
       {% if cart.total_price >= 4000 %}
-        <div class="cart_item flex">
+        <div class="cart_item flex" style="padding: 4px; border: 1px solid #89c183;">
           <a href="{{ item.url }}">
             <picture class="productShots">
               <source srcset="{{  item.image | img_url: '80x80', scale: 2, crop: 'center' }} 2x, {{  item.image | img_url: '80x80', crop: 'center' }}" media="(min-width: 320px)" />
               <source srcset="{{  item.image | img_url: '80x80', scale: 2, crop: 'center' }} 2x, {{  item.image | img_url: '80x80', crop: 'center' }}" media="(min-width: 300px)" />
-            <img class="prod-shot" src="{{  item.image | img_url: '80x80', crop: 'center' }}" alt="{{  item.image.alt | escape }}" width="80" height="80" />
+            <img class="prod-shot" style="display:block" src="{{  item.image | img_url: '80x80', crop: 'center' }}" alt="{{  item.image.alt | escape }}" width="80" height="80" />
             </picture>
           </a>
           <div class="cart_item_text">
@@ -28,7 +28,7 @@
               <small class="close_left">Remove</small>
             </a>
             {% endcomment %}
-            <p class="item_title">{{ item.title }} - FREE GIFT</p>
+            <p class="item_title" style="margin:8px 0;">{{ item.title }} - FREE GIFT</p>
             {% comment %}
             <div class="flex qty">
               <label>Quantity:</label>
