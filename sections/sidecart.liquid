@@ -12,7 +12,7 @@
     <div class="my-cart__items" data-ajax-cart-section-scroll>
       {% for item in cart.items %}
         {% assign item_index = forloop.index %}
-         {% if item_index == 1 %}
+         {% comment %} {% if item_index == 1 %} {% endcomment %}
         <div class="cart_item flex">
           <a href="{{ item.url }}">
             <picture class="productShots">
@@ -45,8 +45,8 @@
             <div class="visually-hidden">Total: <strong>{{ item.final_line_price | money }}</strong></div>
           </div>
         </div>
-          {% break %}
-          {% endif %}
+          {% comment %} {% break %}
+          {% endif %} {% endcomment %}
       {% endfor %}
     </div>
     
