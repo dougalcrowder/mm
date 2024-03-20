@@ -303,7 +303,7 @@
             
           }
         });
-
+        {% if cart.currency.iso_code == "GBP" %}
       subscribeToCartStateUpdate( state => {
 
   const promoVariant = 40299139203130;  // product's variant ID
@@ -347,7 +347,7 @@
     }
   }
 });
-        
+        {% endif %}
         
       </script>
       
