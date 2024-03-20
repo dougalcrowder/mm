@@ -10,14 +10,16 @@
     </div>
     {% endcomment %}
     <div class="my-cart__items" data-ajax-cart-section-scroll>
+    
       {% for item in cart.items %}
       {% if item.title == "Pouch" %}
+      {% if cart.total_price >= "4000" %}
         <div class="cart_item flex">
           <a href="{{ item.url }}">
             <picture class="productShots">
-              <source srcset="{{  item.image | img_url: '120x120', scale: 2, crop: 'center' }} 2x, {{  item.image | img_url: '120x120', crop: 'center' }}" media="(min-width: 320px)" />
-              <source srcset="{{  item.image | img_url: '120x120', scale: 2, crop: 'center' }} 2x, {{  item.image | img_url: '120x120', crop: 'center' }}" media="(min-width: 300px)" />
-            <img class="prod-shot" src="{{  item.image | img_url: '120x120', crop: 'center' }}" alt="{{  item.image.alt | escape }}" width="120" height="120" />
+              <source srcset="{{  item.image | img_url: '80x80', scale: 2, crop: 'center' }} 2x, {{  item.image | img_url: '80x80', crop: 'center' }}" media="(min-width: 320px)" />
+              <source srcset="{{  item.image | img_url: '80x80', scale: 2, crop: 'center' }} 2x, {{  item.image | img_url: '80x80', crop: 'center' }}" media="(min-width: 300px)" />
+            <img class="prod-shot" src="{{  item.image | img_url: '80x80', crop: 'center' }}" alt="{{  item.image.alt | escape }}" width="80" height="80" />
             </picture>
           </a>
           <div class="cart_item_text">
@@ -26,7 +28,7 @@
               <small class="close_left">Remove</small>
             </a>
             {% endcomment %}
-            <p class="item_title">{{ item.title }}</p>
+            <p class="item_title">{{ item.title }} - FREE GIFT</p>
             {% comment %}
             <div class="flex qty">
               <label>Quantity:</label>
@@ -36,6 +38,7 @@
                 value="{{ item.quantity }}" 
                 type="number" />
             </div>
+            <div>{{ item.final_price | money }}</div>
             {% endcomment %}
             <div>{{ item.final_price | money }}</div>
             <!-- Container for errors -->
@@ -44,6 +47,7 @@
             <div class="visually-hidden">Total: <strong>{{ item.final_line_price | money }}</strong></div>
           </div>
         </div>
+      {% endif %}
         {% break %}
       {% endif %}
       {% endfor %}
