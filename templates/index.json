@@ -36,9 +36,9 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mollymahon_sofa_cushions_lampshades_bases_moorhouse_1800x1000_132788ca-ae6a-4ba5-9c83-7673cbeef249.jpg",
+        "image": "shopify:\/\/shop_images\/Indian_Summerd_552ab90e-5b41-49db-8700-ee2967a7a129.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/mollymahon_sofa_cushions_lampshades_bases_moorhouse_1300x1300_f655d936-3461-4ad4-95b1-7eba80b4c85d.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/NAPKIN_PEONY_LIFE_1300x1300_ccb7cc05-d886-4157-baa3-88b658ed8f23.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
@@ -171,7 +171,7 @@
             "text_align": "center",
             "button_label": "Explore Wallpaper",
             "button_link": "shopify:\/\/blogs\/look-books\/wallpaper-collection",
-            "subtext": "<p>Wallpaper - Leaf Grass Green<\/p>"
+            "subtext": "<p>Wallpaper - Fern in Mustard<\/p>"
           }
         }
       },
@@ -249,14 +249,14 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/QUILT_POSY.jpg",
+            "image": "shopify:\/\/shop_images\/quilts_1300x1300_3ff6a81b-6520-4546-a1c2-4c12f9fc1cdb.jpg",
             "auto_height": "landscape",
             "cover": true,
             "no_hover": false,
             "title": "",
-            "subtitle": "See the New Year with new Colour",
+            "subtitle": "Beautifully handmade quilts made to last a lifetime.",
             "subtitle_size": "small",
-            "text": "<p>Handmade quilts with the softest cotton<\/p>",
+            "text": "<p>Hand block printed super soft cotton.<\/p>",
             "button_color": "dark",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -271,14 +271,14 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bedroom_mughal_quilt_lampshade2_1000x1500_25c55048-8df5-4756-9e6e-fe3333f9132b.jpg",
-            "auto_height": "portrait",
+            "image": "shopify:\/\/shop_images\/ANTHRO_WINDOWDISPLAY_LAMPSHADE_1300x1300_d19074d3-5de1-4b89-8444-d14c7479d80a.jpg",
+            "auto_height": "none",
             "cover": true,
             "no_hover": false,
             "title": "",
             "subtitle": "Lighting",
             "subtitle_size": "small",
-            "text": "<p>Finishing touches<\/p>",
+            "text": "<p>Unique lamps and shades<\/p>",
             "button_color": "dark",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
