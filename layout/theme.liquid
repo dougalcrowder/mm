@@ -231,7 +231,8 @@
       <script type="application/json" data-ajax-cart-initial-state >
         {{ cart | json }}
       </script>
-       
+
+  
       <script type="module">
         
         function cartListen() {
@@ -303,11 +304,11 @@
             
           }
         });
-        {% if cart.currency.iso_code == "GBP" %}
+  
       subscribeToCartStateUpdate( state => {
 
-  const promoVariant = 40299139203130;  // product's variant ID
-  const promoSubtotal = 4000;          // £100
+  const promoVariant = 40299139203130; 
+  const promoSubtotal = {{ settings.discount_threshold.price }};  
 
   if ( state.status.cartStateSet && !state.status.requestInProgress ) {
 
@@ -347,7 +348,7 @@
     }
   }
 });
-        {% endif %}
+
         
       </script>
       
