@@ -5,9 +5,17 @@
   <div data-ajax-cart-section>
     <p class="intro">Item added to your cart</p>
 
-      
+  {% for product in collections.all.products %}
+   {% case product.id %}
+      {% when 40317287989306 %}
+         {% assign my_product = product %}
+   {% endcase %}
+  {% endfor %}
+    
     {% assign discountthreshold = all_products['40317287989306'] %}
-      {{ discountthreshold | money_with_currency }}
+      {{ discountthreshold.price | money_with_currency }} <br>
+    <strong> {{ my_product.price }} <br> </strong>
+    
       
     {% comment %}
     <div class="sample_alert">
