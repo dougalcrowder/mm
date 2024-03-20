@@ -14,7 +14,7 @@
     
       {% for item in cart.items %}
       {% if item.title == "Pouch" %}
-      {% if cart.total_price >= 4000 %}
+      {% if cart.total_price >= 4000 and cart.currency.iso_code == "GBP" %}
         <div class="cart_item flex" style="padding: 4px; border: 1px solid #89c183;">
           <a href="{{ item.url }}">
             <picture class="productShots">
