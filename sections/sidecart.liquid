@@ -22,13 +22,13 @@
             </picture>
           </a>
           <div class="cart_item_text">
-            {% comment %} 
+
             <a href="/cart/change?line={{ item_index }}&amp;quantity=0" class="remove-button" data-ajax-cart-request-button="">
               <small class="close_left">Remove</small>
             </a>
-            {% endcomment %}
+
             <p class="item_title">{{ item.title }}</p>
-            {% comment %}
+
             <div class="flex qty">
               <label>Quantity:</label>
               <!-- data-ajax-cart-quantity-input ajaxifies the line item quantity input -->
@@ -37,7 +37,7 @@
                 value="{{ item.quantity }}" 
                 type="number" />
             </div>
-            {% endcomment %}
+
             <div>{{ item.final_price | money }}</div>
             <!-- Container for errors -->
             <div data-ajax-cart-messages="{{ item.key }}"></div>
