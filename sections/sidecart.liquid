@@ -12,7 +12,7 @@
     <div class="my-cart__items" data-ajax-cart-section-scroll>
       {% for item in cart.items %}
         {% assign item_index = forloop.index %}
-        {{ if item.title == "Pouch" }}
+        {% if item.title == "Pouch" %}
           <div class="cart_item flex">
             <a href="{{ item.url }}">
               <picture class="productShots">
