@@ -4,8 +4,8 @@
     "theme_name": "MM",
     "theme_version": "2.1.1",
     "theme_author": "Dougal Crowder",
-    "theme_documentation_url": "https://dougal.co",
-    "theme_support_url": "https://dougal.co"
+    "theme_documentation_url": "https:\/\/dougal.co",
+    "theme_support_url": "https:\/\/dougal.co"
   },
   {
     "name": "t:settings_schema.colors.name",
@@ -13,6 +13,11 @@
       {
         "type": "header",
         "content": "t:settings_schema.colors.settings.header__1.content"
+      },
+      {
+        "type": "product",
+        "id": "discount_threshold",
+        "label": "Discount product for price"
       },
       {
         "type": "color",
