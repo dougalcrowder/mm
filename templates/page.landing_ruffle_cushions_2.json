@@ -143,7 +143,7 @@
       ],
       "settings": {
         "background": "#90bbe4",
-        "margin_top": "l",
+        "margin_top": "m",
         "margin_bot": "none",
         "slides_title": "Our favourite striped ruffle cushions"
       }
@@ -154,7 +154,121 @@
         "product_list": [
           "cushion-frill-wide-stripe-blue",
           "cushion-frill-wide-stripe-pink",
-          "cushion-frill-wide-stripe-yellow"
+          "cushion-frill-wide-stripe-yellow",
+          "cushion-noodle-frill-wide-stripe-pink",
+          "cushion-noodle-frill-wide-stripe-yellow"
+        ],
+        "show_secondary_image": false,
+        "centred": true
+      }
+    },
+    "11635f87-ea7f-40cc-9f8d-b0e32124cc95": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0",
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1",
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ruffle_Cushions_By_Molly_Mahon_-_Long_Frilly_Cushion.png",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "feature_slides_qftcY8": {
+      "type": "feature-slides",
+      "blocks": {
+        "text_nPGfDt": {
+          "type": "text",
+          "settings": {
+            "heading": "Discover the Charm of Pink Ruffle Cushions",
+            "heading_size": "medium",
+            "text": "<p>Pink is a  colour trend that's making its mark on interiors across the globe. Whether you’re looking to enhance your existing pink decor or inject a touch of this vibrant hue without a complete makeover, our pink ruffle cushions are your go-to for adding lively warmth.<br\/><\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/pages\/cushions",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "text_jE4gLd": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p> Look out for our dual-print ruffle cushions, giving you the fun and versatility of two hand-block printed designs in one delightful cushion.<\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/pages\/cushions",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "text_nPGfDt",
+        "text_jE4gLd"
+      ],
+      "settings": {
+        "background": "#ffc7ca",
+        "margin_top": "m",
+        "margin_bot": "none",
+        "slides_title": "Our favourite pink ruffle cushions"
+      }
+    },
+    "product_grid_DiCPLq": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "cushion-frill-berry-grass-sky-stripe-pink",
+          "cushion-frill-buti-pink-tuk-tuk-pink",
+          "cushion-frill-dahlia-hot-pink-wide-stripe-blue",
+          "cushion-frill-dahlia-pinks"
         ],
         "show_secondary_image": true,
         "centred": true
@@ -200,19 +314,6 @@
       "settings": {
         "margin_top": "sm",
         "margin_bot": "none"
-      }
-    },
-    "product_grid_DiCPLq": {
-      "type": "product-grid",
-      "settings": {
-        "product_list": [
-          "cushion-frill-berry-grass-sky-stripe-pink",
-          "cushion-frill-buti-pink-tuk-tuk-pink",
-          "cushion-frill-dahlia-hot-pink-wide-stripe-blue",
-          "cushion-frill-dahlia-pinks"
-        ],
-        "show_secondary_image": true,
-        "centred": true
       }
     },
     "product_grid_ecpnfE": {
@@ -349,62 +450,6 @@
       "settings": {
         "margin_top": "none",
         "margin_bot": "sm"
-      }
-    },
-    "11635f87-ea7f-40cc-9f8d-b0e32124cc95": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0",
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1",
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22_b6ef7b13-8d5d-438d-9c29-51383c8fb6fa.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
       }
     },
     "f83b84d3-1e21-45cd-8f08-515c2dfaf423": {
@@ -780,14 +825,15 @@
     "1642200428ac6075d8",
     "166245704164214430",
     "1661950917ca5910a9",
-    "166195210128b91b49",
+    "11635f87-ea7f-40cc-9f8d-b0e32124cc95",
+    "feature_slides_qftcY8",
     "product_grid_DiCPLq",
+    "166195210128b91b49",
     "product_grid_ecpnfE",
     "166196159906fadd3f",
     "1661951966294ab962",
     "16619593053301a27e",
     "16619593508075d424",
-    "11635f87-ea7f-40cc-9f8d-b0e32124cc95",
     "f83b84d3-1e21-45cd-8f08-515c2dfaf423",
     "16624577622fefe57b",
     "816ce147-5685-4ccb-ba2f-9d32702464e3",
