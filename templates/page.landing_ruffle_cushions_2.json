@@ -120,6 +120,62 @@
         "margin_bot": "m"
       }
     },
+    "11635f87-ea7f-40cc-9f8d-b0e32124cc95": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0",
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1",
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ruffle_Cushions_By_Molly_Mahon_-_Long_Frilly_Cushion.png",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
     "166245704164214430": {
       "type": "feature-slides",
       "blocks": {
@@ -162,10 +218,10 @@
         "centred": true
       }
     },
-    "11635f87-ea7f-40cc-9f8d-b0e32124cc95": {
+    "image_banner_hdP4hW": {
       "type": "image-banner",
       "blocks": {
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0": {
+        "heading_YXU6WT": {
           "type": "heading",
           "disabled": true,
           "settings": {
@@ -173,7 +229,7 @@
             "heading_type": "header1"
           }
         },
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1": {
+        "text_cyy8Kg": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -182,7 +238,7 @@
             "constrain_text": false
           }
         },
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2": {
+        "buttons_CjxAV8": {
           "type": "buttons",
           "disabled": true,
           "settings": {
@@ -196,12 +252,12 @@
         }
       },
       "block_order": [
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0",
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1",
-        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2"
+        "heading_YXU6WT",
+        "text_cyy8Kg",
+        "buttons_CjxAV8"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ruffle_Cushions_By_Molly_Mahon_-_Long_Frilly_Cushion.png",
+        "image": "shopify:\/\/shop_images\/Ruffle_Cushions_By_Molly_Mahon_-_Pink_Ruffle_Cushions.png",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -692,115 +748,6 @@
         "centred": true
       }
     },
-    "16624584107026dd5b": {
-      "type": "feature-slides",
-      "blocks": {
-        "166245841038818ab0-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Textural Luxury Wallpapers",
-            "heading_size": "medium",
-            "text": "<p>Our two newest wallpapers are <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-bindi-blue\"><span style=\"text-decoration:underline\">Bindi<\/span><\/a> in blue from our Bagru collection, and <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-strawberry-grass\"><span style=\"text-decoration:underline\">Strawberry<\/span><\/a> in grass green for our <a href=\"https:\/\/mollymahon.com\/collections\/greencombe\"><span style=\"text-decoration:underline\">Greencombe collection<\/span><\/a> - both are textural luxury wallpapers <a href=\"https:\/\/mollymahon.com\/blogs\/journal\/the-new-textural-wallpaper\"><span style=\"text-decoration:underline\">made in Lancashire with traditional surface-printing machines<\/span><\/a>.<\/p><p>Our other luxury wallpapers are digitally printed to replicate the look and feel of hand block printing in an inventive and small scale manner. We’re thrilled with the effect, and the quality of wallpaper we produce. The intricacies in our block printed patterns translate beautifully when using this innovative digital method, but we wanted to try something new for Bindi and Strawberry.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "68a4c837-71fc-4f14-a8d0-2331f53945f8": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>We say “something new”, but using surface pattern machines is a heritage technique that was first invented in 1838, and incredibly, these Victorian machines are still used today. Each colour within the wallpaper print has a different rubber roller, and they all work at once in perfect harmony to layer the colours and create the unique pattern.<\/p><p>The overall textural effect and tiny variations in detail gives our luxury wallpaper soul, depth and a nostalgic romance. It also gives our wallpaper a luxurious, premium feel that will add heaps of individuality to your home.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "14b20cad-67c6-4e14-876b-f0d527e87dc9": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "title": "Marigold Pink",
-            "link": "",
-            "color_scheme": "dark_text"
-          }
-        }
-      },
-      "block_order": [
-        "166245841038818ab0-0",
-        "68a4c837-71fc-4f14-a8d0-2331f53945f8",
-        "14b20cad-67c6-4e14-876b-f0d527e87dc9"
-      ],
-      "settings": {
-        "background": "#ffc7ca",
-        "margin_top": "l",
-        "margin_bot": "none",
-        "slides_title": "Explore our new luxury wallpapers"
-      }
-    },
-    "200327e8-1073-4a44-8585-cb6a7c972e66": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-0",
-        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-1",
-        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_BINDI_DEERHYRST_1200X900_c8829ece-6f52-4c97-a985-db723541122a.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
     "a6a54246-430f-46e1-af48-3c1c7508fa61": {
       "type": "product-grid",
       "settings": {
@@ -823,9 +770,10 @@
     "main",
     "16421993483b631460",
     "1642200428ac6075d8",
+    "11635f87-ea7f-40cc-9f8d-b0e32124cc95",
     "166245704164214430",
     "1661950917ca5910a9",
-    "11635f87-ea7f-40cc-9f8d-b0e32124cc95",
+    "image_banner_hdP4hW",
     "feature_slides_qftcY8",
     "product_grid_DiCPLq",
     "166195210128b91b49",
@@ -841,8 +789,6 @@
     "16624574182228dbc7",
     "36223d1d-da61-4d6a-b5f2-14a93659da00",
     "d52e8c56-9b9a-4ae5-901f-619cf84f0f43",
-    "16624584107026dd5b",
-    "200327e8-1073-4a44-8585-cb6a7c972e66",
     "a6a54246-430f-46e1-af48-3c1c7508fa61",
     "1662741707adb69b90"
   ]
