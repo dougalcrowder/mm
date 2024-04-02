@@ -120,15 +120,55 @@
         "margin_bot": "m"
       }
     },
+    "166245704164214430": {
+      "type": "feature-slides",
+      "blocks": {
+        "1662457041351d627c-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Striped Ruffle Cushions",
+            "heading_size": "medium",
+            "text": "<p>Our striped ruffle cushions are a visual delight, featuring vibrant stripes that bring an energetic yet harmonious feel to any space. Perfect for those looking to introduce a splash of colour and pattern, our striped designs are not only on-trend but are crafted to last, ensuring your space remains warm and inviting.<\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/pages\/cushions",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1662457041351d627c-0"
+      ],
+      "settings": {
+        "background": "#90bbe4",
+        "margin_top": "l",
+        "margin_bot": "none",
+        "slides_title": "Our favourite striped ruffle cushions"
+      }
+    },
+    "1661950917ca5910a9": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "cushion-frill-wide-stripe-blue",
+          "cushion-frill-wide-stripe-pink",
+          "cushion-frill-wide-stripe-yellow"
+        ],
+        "show_secondary_image": true,
+        "centred": true
+      }
+    },
     "166195210128b91b49": {
       "type": "2-column-text",
       "blocks": {
         "16619521000b84ba87-0": {
           "type": "text",
           "settings": {
-            "heading": "Get Inspired by our Uplifting Luxury Wallpapers",
+            "heading": "Striped Ruffle Cushions",
             "heading_size": "large",
-            "text": "<p>We believe that making a space that uplifts our spirits, reflects our vivid personalities and encourages love and happiness is the key to a fulfilled home.<\/p><p>Every space, no matter how big or small, deserves character and that personal touch. Our luxury wallpapers, inspired by the endless freedom of nature, will do this and more.<\/p>",
+            "text": "<p>Our striped ruffle cushions are a visual delight, featuring vibrant stripes that bring an energetic yet harmonious feel to any space. Perfect for those looking to introduce a splash of colour and pattern, our striped designs are not only on-trend but are crafted to last, ensuring your space remains warm and inviting.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -139,6 +179,7 @@
         },
         "16619521000b84ba87-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "heading": "Brighten your home with jubilant prints and patterns by Molly Mahon",
             "heading_size": "medium",
@@ -159,18 +200,6 @@
       "settings": {
         "margin_top": "sm",
         "margin_bot": "none"
-      }
-    },
-    "1661950917ca5910a9": {
-      "type": "product-grid",
-      "settings": {
-        "product_list": [
-          "cushion-frill-wide-stripe-blue",
-          "cushion-frill-wide-stripe-pink",
-          "cushion-frill-wide-stripe-yellow"
-        ],
-        "show_secondary_image": true,
-        "centred": true
       }
     },
     "product_grid_DiCPLq": {
@@ -197,6 +226,21 @@
         ],
         "show_secondary_image": true,
         "centred": true
+      }
+    },
+    "166196159906fadd3f": {
+      "type": "simple_quote",
+      "settings": {
+        "quote": "<p>\"Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work\"<\/p>",
+        "cite": "- Cath Kidston MBE",
+        "bg": "green",
+        "heading_size": "medium",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "white_text",
+        "bg_color_scheme": "none",
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "1661951966294ab962": {
@@ -240,21 +284,6 @@
         "margin_bot": "m"
       }
     },
-    "166196159906fadd3f": {
-      "type": "simple_quote",
-      "settings": {
-        "quote": "<p>\"Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work\"<\/p>",
-        "cite": "- Cath Kidston MBE",
-        "bg": "green",
-        "heading_size": "medium",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "white_text",
-        "bg_color_scheme": "none",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
     "16619593053301a27e": {
       "type": "2-column-text",
       "blocks": {
@@ -262,7 +291,7 @@
           "type": "text",
           "settings": {
             "heading": "The Lasting Impact of Beautiful Patterns",
-            "heading_size": "large",
+            "heading_size": "medium",
             "text": "",
             "button_label": "",
             "button_link": "",
@@ -320,49 +349,6 @@
       "settings": {
         "margin_top": "none",
         "margin_bot": "sm"
-      }
-    },
-    "166245704164214430": {
-      "type": "feature-slides",
-      "blocks": {
-        "1662457041351d627c-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Inspired by Flora & Fauna",
-            "heading_size": "medium",
-            "text": "<p>Something as simple as a leisurely stroll in the local woods is where many of the prints in our luxury wallpaper range start life. The almost infinite rings of a tree trunk, inky spots on the wings of a butterfly, the gently geometric shapes of branches and leaves - everyday nature is prime inspiration for patterns.<\/p>",
-            "button_label": "",
-            "button_link": "shopify:\/\/collections\/bagru-fabric-collection",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "6c1fad14-10b7-4a53-ab28-74050d8bd26c": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>These patterns are then translated into block print designs, and can be brought to life in your home. Flora and fauna inspired prints never date and suit all kinds of homes. Nature cannot go out of style, whether you opt for our bold <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-leaf-grassgreen\"><span style=\"text-decoration:underline\">Leaf<\/span><\/a> design, Fern wallpaper in <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-fern-mustard\"><span style=\"text-decoration:underline\">Mustard<\/span><\/a> or <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-fern-sage\"><span style=\"text-decoration:underline\">Sage<\/span><\/a>, pretty <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-marigold-pinkblue\"><span style=\"text-decoration:underline\">Marigold<\/span><\/a> pattern, or coastal inspired <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-coral-blue\"><span style=\"text-decoration:underline\">Coral<\/span><\/a> print.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "1662457041351d627c-0",
-        "6c1fad14-10b7-4a53-ab28-74050d8bd26c"
-      ],
-      "settings": {
-        "background": "#90bbe4",
-        "margin_top": "l",
-        "margin_bot": "none",
-        "slides_title": "Our favourite nature inspired luxury wallpapers"
       }
     },
     "11635f87-ea7f-40cc-9f8d-b0e32124cc95": {
@@ -792,15 +778,15 @@
     "main",
     "16421993483b631460",
     "1642200428ac6075d8",
-    "166195210128b91b49",
+    "166245704164214430",
     "1661950917ca5910a9",
+    "166195210128b91b49",
     "product_grid_DiCPLq",
     "product_grid_ecpnfE",
-    "1661951966294ab962",
     "166196159906fadd3f",
+    "1661951966294ab962",
     "16619593053301a27e",
     "16619593508075d424",
-    "166245704164214430",
     "11635f87-ea7f-40cc-9f8d-b0e32124cc95",
     "f83b84d3-1e21-45cd-8f08-515c2dfaf423",
     "16624577622fefe57b",
