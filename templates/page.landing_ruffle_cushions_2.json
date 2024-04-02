@@ -508,7 +508,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Happy, welcoming homes are all about human interaction and genuine connection, and so they lend themselves to the imperfectly perfect element of our block printed patterns. This, perhaps ironically, is also what gives our wallpapers that premium, luxurious feel that simply cannot be achieved by other forms of design.<\/p><p>The authentic charm of Molly’s designs has not gone unnoticed. It has instead led to exclusive collaborations with renowned brands including British design pioneers, <a href=\"https:\/\/www.boden.co.uk\/en-gb\"><span style=\"text-decoration:underline\">Boden<\/span><\/a>, and American favourite, Anthropoligie. <\/p><p>And with Molly Mahon luxury wallpapers, it can lead to your own home, too.<\/p>",
+            "text": "<p>Happy, welcoming homes are all about human interaction and genuine connection, and so they lend themselves to the imperfectly perfect element of our block printed patterns. This, perhaps ironically, is also what gives our wallpapers that premium, luxurious feel that simply cannot be achieved by other forms of design.<\/p><p>The authentic charm of Molly’s designs has not gone unnoticed. It has instead led to exclusive collaborations with renowned brands including British design pioneers, <a href=\"https:\/\/www.boden.co.uk\/en-gb\"><span style=\"text-decoration:underline\">Boden<\/span><\/a>, and American favourite, Anthropoligie. <\/p><p>And with Molly Mahon luxury <a href=\"\/collections\/ruffle-cushions\" title=\"Ruffle Cushions\">ruffle cushions<\/a>, it can lead to your own home, too.<\/p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -525,73 +525,6 @@
       "settings": {
         "margin_top": "sm",
         "margin_bot": "m"
-      }
-    },
-    "16619593053301a27e": {
-      "type": "2-column-text",
-      "blocks": {
-        "1661959305d8047f36-0": {
-          "type": "text",
-          "settings": {
-            "heading": "The Lasting Impact of Beautiful Patterns",
-            "heading_size": "medium",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "end",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "1661959305d8047f36-0"
-      ],
-      "settings": {
-        "margin_top": "l",
-        "margin_bot": "none"
-      }
-    },
-    "16619593508075d424": {
-      "type": "2-column-text",
-      "blocks": {
-        "1661959350df86ec22-0": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>Humankind has been drawn to expressive pattern design since ancient times. <\/p><p>The meander decorative borders of ancient Greece, the incredible mosaics of Ancient Rome, and in more recent history, the classic Art Nouveau designs of William Morris… <\/p><p>We are simply captivated by the impact that a bold and beautiful pattern can have in our homes and, because our homes are a huge part of our existence, in our lives as a whole.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "b9a74b61-0fc6-4a4a-8eab-0fc854c2d6ff": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>The contemporary patterns of our luxury wallpapers are inspired by Molly’s authentic passions and interests. Most notably the abstract beauty of nature, especially in her locality of Ashdown Forest, and the rich colours of India, a country that provides Molly with endless stimulation and creative ideas. And creativity is an integral part of human nature.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "1661959350df86ec22-0",
-        "b9a74b61-0fc6-4a4a-8eab-0fc854c2d6ff"
-      ],
-      "settings": {
-        "margin_top": "none",
-        "margin_bot": "sm"
       }
     }
   },
@@ -610,8 +543,6 @@
     "product_grid_ecpnfE",
     "image_banner_rtFcqh",
     "166196159906fadd3f",
-    "1661951966294ab962",
-    "16619593053301a27e",
-    "16619593508075d424"
+    "1661951966294ab962"
   ]
 }
