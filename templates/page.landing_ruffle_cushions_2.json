@@ -1,0 +1,788 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16421993483b631460": {
+      "type": "image-banner",
+      "blocks": {
+        "1642199348d668b6b2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Luxury Wallpaper By British Printmaker Molly Mahon",
+            "heading_type": "header1"
+          }
+        },
+        "1642199348d668b6b2-1": {
+          "type": "text",
+          "settings": {
+            "text": "Shop our collection of joyful luxury wallpaper, exclusively designed by British printmaker, Molly Mahon. Ethically handcrafted in the UK and India.",
+            "go_serif": false,
+            "constrain_text": true
+          }
+        },
+        "1642199348d668b6b2-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Click here to order your brochure",
+            "button_link_1": "shopify:\/\/products\/greencombe-block-printed-fabric-brochure",
+            "button_style_secondary_1": true,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1642199348d668b6b2-0",
+        "1642199348d668b6b2-1",
+        "1642199348d668b6b2-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WALLPAPER_FERN_MUSTARD_KEANE_1800x1000_1afa4169-0be4-4aab-96f3-42e366c9f36e.jpg",
+        "letterbox": false,
+        "make_logo_white": true,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "start",
+        "text_align": "left",
+        "text_box_max_width": "900",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "darken",
+        "hover_text": false
+      }
+    },
+    "1642200428ac6075d8": {
+      "type": "multicolumn",
+      "blocks": {
+        "16422004280af4e324-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": true,
+            "auto_height": "true",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "large",
+            "text": "<p>Bring your home to life with our joyful collection of luxury wallpaper, designed with love by acclaimed British printmaker, Molly Mahon, in her East Sussex studio. <\/p><p>With an uplifting selection of unique designs to inspire lovers of colour and festivity, there’s a luxury wallpaper design to give any space true depth and heaps of personality.<\/p>",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "left",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "16422004280af4e324-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_STRAWBERRY_COTTROOM_1300X1300_fa0a7946-6c00-4c25-b11f-432e78f4a594.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "16422004280af4e324-0",
+        "16422004280af4e324-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "166195210128b91b49": {
+      "type": "2-column-text",
+      "blocks": {
+        "16619521000b84ba87-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Get Inspired by our Uplifting Luxury Wallpapers",
+            "heading_size": "large",
+            "text": "<p>We believe that making a space that uplifts our spirits, reflects our vivid personalities and encourages love and happiness is the key to a fulfilled home.<\/p><p>Every space, no matter how big or small, deserves character and that personal touch. Our luxury wallpapers, inspired by the endless freedom of nature, will do this and more.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "16619521000b84ba87-1": {
+          "type": "text",
+          "settings": {
+            "heading": "Brighten your home with jubilant prints and patterns by Molly Mahon",
+            "heading_size": "medium",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16619521000b84ba87-0",
+        "16619521000b84ba87-1"
+      ],
+      "settings": {
+        "margin_top": "sm",
+        "margin_bot": "none"
+      }
+    },
+    "1661950917ca5910a9": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "fern-wallpaper-mustard",
+          "coral-wallpaper-blue",
+          "strawberry-wallpaper-grass",
+          "marigold-wallpaper-yellow"
+        ],
+        "show_secondary_image": true,
+        "centred": true
+      }
+    },
+    "1661951966294ab962": {
+      "type": "2-column-text",
+      "blocks": {
+        "166195196658edcf74-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Discover a World of Print, Colour and Pattern with Molly Mahon",
+            "heading_size": "small",
+            "text": "<p>Molly Mahon is an independent British designer whose genuine love of fun patterns, the simple beauty of nature, and lush colours of India culminate in jubilant <a href=\"https:\/\/mollymahon.com\/collections\/home-goods\"><span style=\"text-decoration:underline\">homewares<\/span><\/a>, <a href=\"https:\/\/mollymahon.com\/collections\/fabric\"><span style=\"text-decoration:underline\">textiles<\/span><\/a> and luxury <a href=\"https:\/\/mollymahon.com\/collections\/wallpaper\"><span style=\"text-decoration:underline\">wallpapers<\/span><\/a>.<\/p><p>Each pattern starts life as a block print original. Skillful artisans in India create carved wooden blocks which are used to print patterns by hand. The perfect imperfections that this art form leads to is what gives Molly’s designs real heart and soul.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "166195196658edcf74-1": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Happy, welcoming homes are all about human interaction and genuine connection, and so they lend themselves to the imperfectly perfect element of our block printed patterns. This, perhaps ironically, is also what gives our wallpapers that premium, luxurious feel that simply cannot be achieved by other forms of design.<\/p><p>The authentic charm of Molly’s designs has not gone unnoticed. It has instead led to exclusive collaborations with renowned brands including British design pioneers, <a href=\"https:\/\/www.boden.co.uk\/en-gb\"><span style=\"text-decoration:underline\">Boden<\/span><\/a>, and American favourite, Anthropoligie. <\/p><p>And with Molly Mahon luxury wallpapers, it can lead to your own home, too.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "166195196658edcf74-0",
+        "166195196658edcf74-1"
+      ],
+      "settings": {
+        "margin_top": "sm",
+        "margin_bot": "m"
+      }
+    },
+    "166196159906fadd3f": {
+      "type": "simple_quote",
+      "settings": {
+        "quote": "<p>\"Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work\"<\/p>",
+        "cite": "- Cath Kidston MBE",
+        "bg": "green",
+        "heading_size": "medium",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "white_text",
+        "bg_color_scheme": "none",
+        "margin_top": "none",
+        "margin_bot": "xl"
+      }
+    },
+    "16619593053301a27e": {
+      "type": "2-column-text",
+      "blocks": {
+        "1661959305d8047f36-0": {
+          "type": "text",
+          "settings": {
+            "heading": "The Lasting Impact of Beautiful Patterns",
+            "heading_size": "large",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "end",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1661959305d8047f36-0"
+      ],
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    },
+    "16619593508075d424": {
+      "type": "2-column-text",
+      "blocks": {
+        "1661959350df86ec22-0": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>Humankind has been drawn to expressive pattern design since ancient times. <\/p><p>The meander decorative borders of ancient Greece, the incredible mosaics of Ancient Rome, and in more recent history, the classic Art Nouveau designs of William Morris… <\/p><p>We are simply captivated by the impact that a bold and beautiful pattern can have in our homes and, because our homes are a huge part of our existence, in our lives as a whole.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "b9a74b61-0fc6-4a4a-8eab-0fc854c2d6ff": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>The contemporary patterns of our luxury wallpapers are inspired by Molly’s authentic passions and interests. Most notably the abstract beauty of nature, especially in her locality of Ashdown Forest, and the rich colours of India, a country that provides Molly with endless stimulation and creative ideas. And creativity is an integral part of human nature.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1661959350df86ec22-0",
+        "b9a74b61-0fc6-4a4a-8eab-0fc854c2d6ff"
+      ],
+      "settings": {
+        "margin_top": "none",
+        "margin_bot": "sm"
+      }
+    },
+    "166245704164214430": {
+      "type": "feature-slides",
+      "blocks": {
+        "1662457041351d627c-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Inspired by Flora & Fauna",
+            "heading_size": "medium",
+            "text": "<p>Something as simple as a leisurely stroll in the local woods is where many of the prints in our luxury wallpaper range start life. The almost infinite rings of a tree trunk, inky spots on the wings of a butterfly, the gently geometric shapes of branches and leaves - everyday nature is prime inspiration for patterns.<\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/collections\/bagru-fabric-collection",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "6c1fad14-10b7-4a53-ab28-74050d8bd26c": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>These patterns are then translated into block print designs, and can be brought to life in your home. Flora and fauna inspired prints never date and suit all kinds of homes. Nature cannot go out of style, whether you opt for our bold <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-leaf-grassgreen\"><span style=\"text-decoration:underline\">Leaf<\/span><\/a> design, Fern wallpaper in <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-fern-mustard\"><span style=\"text-decoration:underline\">Mustard<\/span><\/a> or <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-fern-sage\"><span style=\"text-decoration:underline\">Sage<\/span><\/a>, pretty <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-marigold-pinkblue\"><span style=\"text-decoration:underline\">Marigold<\/span><\/a> pattern, or coastal inspired <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-coral-blue\"><span style=\"text-decoration:underline\">Coral<\/span><\/a> print.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1662457041351d627c-0",
+        "6c1fad14-10b7-4a53-ab28-74050d8bd26c"
+      ],
+      "settings": {
+        "background": "#90bbe4",
+        "margin_top": "l",
+        "margin_bot": "none",
+        "slides_title": "Our favourite nature inspired luxury wallpapers"
+      }
+    },
+    "11635f87-ea7f-40cc-9f8d-b0e32124cc95": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-0",
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-1",
+        "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PRIME_STRAWBERRY2_FEB22_b6ef7b13-8d5d-438d-9c29-51383c8fb6fa.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "f83b84d3-1e21-45cd-8f08-515c2dfaf423": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "strawberry-wallpaper-grass",
+          "marigold-wallpaper-yellow",
+          "leaf-wallpaper-grass-green",
+          "marigold-wallpaper-pink-green",
+          "coral-wallpaper-blue",
+          "marigold-wallpaper-pink-blue",
+          "birds-bees-wallpaper-pea-green"
+        ],
+        "show_secondary_image": true,
+        "centred": true
+      }
+    },
+    "16624577622fefe57b": {
+      "type": "feature-slides",
+      "blocks": {
+        "16624577610885c164-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Inspired by India",
+            "heading_size": "medium",
+            "text": "<p>Molly is mesmerised by the noisy, bustling, colourful atmosphere of India. Nothing makes you feel more alive than stepping out into a crowded Delhi street, or witnessing the incredible craftsmanship of artisans in Jaipur.<\/p><p>India is a country with a deep love and appreciation for decoration. Clothes, architecture, bridges, even lorries - pattern and colour is incorporated everywhere and anywhere. The overall effect is uplifting, exciting and inspiring.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "c352ccf3-a84e-4338-be78-f7c420e28e91": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>This romance with India and its patterns has been the catalyst for numerous Molly Mahon exclusive designs, including several of our luxury wallpapers - <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-bindi-blue\"><span style=\"text-decoration:underline\">“Bindi”<\/span><\/a> from the <a href=\"https:\/\/mollymahon.com\/collections\/bagru-collection\"><span style=\"text-decoration:underline\">Bagru collection<\/span><\/a>, our take on a classic stripe inspired by India’s love of wall hangings, and the striking <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-marwarihorse-darkblue\"><span style=\"text-decoration:underline\">Marwari Horse<\/span><\/a> design, inspired by the traditional <a href=\"https:\/\/mollymahon.com\/blogs\/journal\/marwari-horse-design\"><span style=\"text-decoration:underline\">warrior horses<\/span><\/a> originating in the Marwar region of Rajasthan. <\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "16624577610885c164-0",
+        "c352ccf3-a84e-4338-be78-f7c420e28e91"
+      ],
+      "settings": {
+        "background": "#77a96b",
+        "margin_top": "l",
+        "margin_bot": "none",
+        "slides_title": "Our favourite luxury wallpapers inspired by India"
+      }
+    },
+    "816ce147-5685-4ccb-ba2f-9d32702464e3": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-0",
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-1",
+        "template--14416261283898__816ce147-5685-4ccb-ba2f-9d32702464e3-1665501972d369663b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_KEANE_BOOTROOM_1800x1000_2561f4a0-b2a1-4f63-9622-8add6d2e723d.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "ebba0c62-55e1-4e84-bcaf-68b132fcbe13": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "marwari-horse-wallpaper-blue",
+          "bindi-wallpaper-blue",
+          "marigold-wallpaper-yellow",
+          "lani-wallpaper-gold"
+        ],
+        "show_secondary_image": true,
+        "centred": true
+      }
+    },
+    "16624574182228dbc7": {
+      "type": "feature-slides",
+      "blocks": {
+        "1662457418f867cbaa-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Inspired by Joy",
+            "heading_size": "medium",
+            "text": "<p>It’s easy to get caught up in what we think we “should” do, how we “should” behave, or what other people “might” think, and the same can be applied to our home and decorative styles. But what happens when we throw caution to the wind and liberate ourselves from these ruminations? <\/p><p>To look at an extreme example, take one of Molly’s biggest inspirations, the Bloomsbury Group and their house, Charleston - a rule breaking celebration of art, pattern and creative expression.<\/p><p><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "15b79bcd-cc34-44f0-9f52-3425ff495a27": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>But the mindset of Charleston and the Bloomsbury Group can be applied to any home on a smaller scale, and help you put a personal stamp on your space. For us, creative freedom via block printing equals true joy, and helps us to make a home that is alive with life, memories, feeling and personal stories.<\/p><p><em>‘I find a room full of textures, layers and colours exciting and uplifting’ - Molly Mahon<\/em><\/p><p>Molly Mahon Luxury wallpapers such as the sweet and nostalgic <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-strawberry-grass\"><span style=\"text-decoration:underline\">Strawberry<\/span><\/a>, pretty pastel <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-hearts-pink\"><span style=\"text-decoration:underline\">Hearts<\/span><\/a>, and enchanting Spots and Stars in delicate <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-spotstar-pink\"><span style=\"text-decoration:underline\">pink<\/span><\/a> or fresh <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-spotstar-peagreen\"><span style=\"text-decoration:underline\">pea green<\/span><\/a> evoke this sense of fun and joy, and are sure to inject these emotions into whatever space you introduce them to.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1662457418f867cbaa-0",
+        "15b79bcd-cc34-44f0-9f52-3425ff495a27"
+      ],
+      "settings": {
+        "background": "#cec367",
+        "margin_top": "l",
+        "margin_bot": "none",
+        "slides_title": "Our favourite joyful luxury wallpapers"
+      }
+    },
+    "36223d1d-da61-4d6a-b5f2-14a93659da00": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-0",
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-1",
+        "template--14416261283898__36223d1d-da61-4d6a-b5f2-14a93659da00-166550206577110238-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WALLPAPER_FERN_DEERHYRST_KIDSBEDROOM_1800X1000_4267185c-1a3c-4d08-bc51-4eb7d1921445.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "d52e8c56-9b9a-4ae5-901f-619cf84f0f43": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "fern-wallpaper-mustard",
+          "spot-star-wallpaper-denim",
+          "hearts-wallpaper-pink",
+          "strawberry-wallpaper-grass"
+        ],
+        "show_secondary_image": true,
+        "centred": true
+      }
+    },
+    "16624584107026dd5b": {
+      "type": "feature-slides",
+      "blocks": {
+        "166245841038818ab0-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Textural Luxury Wallpapers",
+            "heading_size": "medium",
+            "text": "<p>Our two newest wallpapers are <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-bindi-blue\"><span style=\"text-decoration:underline\">Bindi<\/span><\/a> in blue from our Bagru collection, and <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-strawberry-grass\"><span style=\"text-decoration:underline\">Strawberry<\/span><\/a> in grass green for our <a href=\"https:\/\/mollymahon.com\/collections\/greencombe\"><span style=\"text-decoration:underline\">Greencombe collection<\/span><\/a> - both are textural luxury wallpapers <a href=\"https:\/\/mollymahon.com\/blogs\/journal\/the-new-textural-wallpaper\"><span style=\"text-decoration:underline\">made in Lancashire with traditional surface-printing machines<\/span><\/a>.<\/p><p>Our other luxury wallpapers are digitally printed to replicate the look and feel of hand block printing in an inventive and small scale manner. We’re thrilled with the effect, and the quality of wallpaper we produce. The intricacies in our block printed patterns translate beautifully when using this innovative digital method, but we wanted to try something new for Bindi and Strawberry.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "68a4c837-71fc-4f14-a8d0-2331f53945f8": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p>We say “something new”, but using surface pattern machines is a heritage technique that was first invented in 1838, and incredibly, these Victorian machines are still used today. Each colour within the wallpaper print has a different rubber roller, and they all work at once in perfect harmony to layer the colours and create the unique pattern.<\/p><p>The overall textural effect and tiny variations in detail gives our luxury wallpaper soul, depth and a nostalgic romance. It also gives our wallpaper a luxurious, premium feel that will add heaps of individuality to your home.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": true,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "14b20cad-67c6-4e14-876b-f0d527e87dc9": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Marigold Pink",
+            "link": "",
+            "color_scheme": "dark_text"
+          }
+        }
+      },
+      "block_order": [
+        "166245841038818ab0-0",
+        "68a4c837-71fc-4f14-a8d0-2331f53945f8",
+        "14b20cad-67c6-4e14-876b-f0d527e87dc9"
+      ],
+      "settings": {
+        "background": "#ffc7ca",
+        "margin_top": "l",
+        "margin_bot": "none",
+        "slides_title": "Explore our new luxury wallpapers"
+      }
+    },
+    "200327e8-1073-4a44-8585-cb6a7c972e66": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-0",
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-1",
+        "template--14416261283898__200327e8-1073-4a44-8585-cb6a7c972e66-16655021508df3d384-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WALLPAPER_BINDI_DEERHYRST_1200X900_c8829ece-6f52-4c97-a985-db723541122a.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "a6a54246-430f-46e1-af48-3c1c7508fa61": {
+      "type": "product-grid",
+      "settings": {
+        "product_list": [
+          "bindi-wallpaper-blue",
+          "strawberry-wallpaper-grass"
+        ],
+        "show_secondary_image": true,
+        "centred": true
+      }
+    },
+    "1662741707adb69b90": {
+      "type": "code",
+      "settings": {
+        "code": "<div id=\"shopify-section-template--14520587976762__2e2163b8-fabd-468e-8524-d55276aca0aa\" class=\"shopify-section spaced-section two_col-text\"><div class=\"text-with-text inner grid mt-l mb-m\"><div class=\"text\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><h2 class=\"medium\">Finding your Home’s Personal Colours<\/h2><div class=\"rte\">\n        <p>Colour is a universal language. No matter where you are in the world or what situation you are in, we can all connect via a happy sunshine yellow, a calming serene blue, or a rousing ruby red. Wherever Molly goes, she has fascinating conversations with strangers about decoration, pattern and the meaning of colour.<\/p><p>We also believe that we are all naturally creative - whether you know it or not! Creativity is a key part of being a human, and we make creative decisions all the time, often without even thinking. Our homes are also an integral part of our lives - it’s human nature to want to create a space that you feel reflects your personality, taste and that can provide comfort and happiness in a busy world.<\/p>\n        <\/div><\/div>\n    <\/div><div class=\"text\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><div class=\"rte\">\n        <p>Molly Mahon’s unique collection of colourful luxury wallpaper will breathe life and joy into your home. It will tell stories, encourage conversations and bring an authentic energy to any space. Colour can evoke endless feelings and memories, and finding your home’s colours is an exciting prospect.<\/p><p>One of Molly’s favourite elements of designing block printed patterns is finding beautiful new colour combinations, and you too can find true colour happiness within your home with our UK luxury wallpapers. Keep it serene and fresh with our stylish Tree design in <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-tree-green\"><span style=\"text-decoration:underline\">green<\/span><\/a>, or add heaps of sunshine warmth with Hawaiian inspired <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-lani-denim\"><span style=\"text-decoration:underline\">Lani<\/span><\/a> or Indian inspired Marwari Horse in <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-marwarihorse-gold\"><span style=\"text-decoration:underline\">gold<\/span><\/a>.<\/p><p>Mix and match, clash or complement - use your innate creativity and make a home you love. Take a look at our handy <a href=\"https:\/\/mollymahon.com\/pages\/fabric-mood-boards\"><span style=\"text-decoration:underline\">Mood Boards<\/span><\/a> if you need a place to begin.<\/p>\n        <\/div><\/div>\n    <\/div><\/div>\n\n<\/div><section id=\"shopify-section-template--14520587976762__36c0b62b-8931-4bb3-ab6f-6f787c6a3a3e\" class=\"shopify-section multicolumn-section\"><div class=\"multicolumn inner nomax pt-none pb-m\">\n  \n<ul class=\"multicolumn grid\"><li class=\"column half bg-for-white_text\">\n  <div class=\"text_wrap flex vertical-center align-center  color-white_text has-image\">\n    <div class=\"buttons white\"><\/div>\n    \n\n  <\/div><div class=\"image none notext\"><picture>\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_820x@2x.jpg?v=1677763896 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_820x.jpg?v=1677763896 1x\" media=\"(min-width: 1270px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_600x@2x.jpg?v=1677763896 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_600x.jpg?v=1677763896 1x\" media=\"(min-width: 1100px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_490x@2x.jpg?v=1677763896 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_490x.jpg?v=1677763896 1x\" media=\"(min-width: 960px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_400x@2x.jpg?v=1677763896 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_400x.jpg?v=1677763896 1x\" media=\"(min-width: 768px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_768x@2x.jpg?v=1677763896 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_768x.jpg?v=1677763896 1x\" media=\"(min-width: 480px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_480x@2x.jpg?v=1677763896 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_480x.jpg?v=1677763896 1x\" media=\"(min-width: 320px)\">\n            <img class=\"lazyimage\" loading=\"lazy\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/shepherdhut_amly_marigold_1000x1500_2964d746-ed6b-49ec-a8d9-7769ac6cdd94_320x.jpg?v=1677763896\" alt=\"Shepherd hut interior designed with Molly Mahon fabric and wallpaper creating an inspiring uplifting space full of colour and joy\" width=\"1000\" height=\"1500\">\n          <\/picture>\n      <\/div><\/li><li class=\"column half bg-for-white_text\">\n  <div class=\"text_wrap flex vertical-center align-center  color-white_text has-image\">\n    <div class=\"buttons white\"><\/div>\n    \n\n  <\/div><div class=\"image none notext\"><picture>\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_820x@2x.jpg?v=1677764323 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_820x.jpg?v=1677764323 1x\" media=\"(min-width: 1270px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_600x@2x.jpg?v=1677764323 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_600x.jpg?v=1677764323 1x\" media=\"(min-width: 1100px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_490x@2x.jpg?v=1677764323 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_490x.jpg?v=1677764323 1x\" media=\"(min-width: 960px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_400x@2x.jpg?v=1677764323 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_400x.jpg?v=1677764323 1x\" media=\"(min-width: 768px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_768x@2x.jpg?v=1677764323 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_768x.jpg?v=1677764323 1x\" media=\"(min-width: 480px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_480x@2x.jpg?v=1677764323 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_480x.jpg?v=1677764323 1x\" media=\"(min-width: 320px)\">\n            <img class=\"lazyimage\" loading=\"lazy\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/wallpaper_shepherds_hut_birds_bees_peagreen_trellis_curtain_1000x1500_cc0b33d5-e4fc-45b0-8db4-6edd6f2ccfd2_320x.jpg?v=1677764323\" alt=\"\" width=\"1000\" height=\"1500\">\n          <\/picture>\n      <\/div><\/li><\/ul>\n  \n<\/div>\n \n\n<\/section><div id=\"shopify-section-template--14520587976762__9e8bffb4-d8b2-4736-9b0c-d895f5ca6e5e\" class=\"shopify-section spaced-section two_col-text\"><div class=\"text-with-text inner grid mt-m mb-sm\"><div class=\"text inset\">\n      <div class=\"flex vertical-end align-left color-dark_text\"><h2 class=\"medium\">Matchimalism or “Clashimalism”?<\/h2><\/div>\n    <\/div><\/div>\n\n<\/div><div id=\"shopify-section-template--14520587976762__166195210128b91b49\" class=\"shopify-section spaced-section two_col-text\"><div class=\"text-with-text inner grid mt-none mb-m\"><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><div class=\"rte\">\n        <p>Will you choose a lively blend of different colours and patterns for your home, or go down the matchimalism route to make a big impact with a favourite print?<\/p><p>Although all unique, our luxury wallpapers have a similar vibe and energy, meaning they complement each other within your home, so if you can’t decide between our luxury wallpapers - you don’t have to!<\/p><p>Take a leaf from Molly’s book and do what feels right in your own space. That could mean painting your fireplace a bold hot pink, clashing your curtains with your wallpaper to create a joyous fusion of colour and pattern, or matching textiles such as <a href=\"https:\/\/mollymahon.com\/collections\/cushions\"><span style=\"text-decoration:underline\">cushions<\/span><\/a> and <a href=\"https:\/\/mollymahon.com\/collections\/lampshades\"><span style=\"text-decoration:underline\">lampshades<\/span><\/a> with your luxury wallpaper to create a matchiamlisitc dream.<\/p>\n        <\/div><\/div>\n    <\/div><div class=\"text inset\">\n      <div class=\"flex vertical-start align-left color-dark_text\"><div class=\"rte\">\n        <p><em>‘Homes should be a reflection of their inhabitants - of us! We need to personalise them and not be afraid to have them as we truly want them to be.’ - Molly Mahon<\/em><\/p><p>We’ve worked hard to match the colours in our luxury wallpapers and fabrics, so that they can be used beautifully together in one big celebration of print and pattern that will bring a lasting element of fun and feeling into your home.<\/p><p>Peruse our <a href=\"https:\/\/mollymahon.com\/collections\/home-goods\"><span style=\"text-decoration:underline\">home goods<\/span><\/a> and <a href=\"https:\/\/mollymahon.com\/collections\/fabric\"><span style=\"text-decoration:underline\">fabrics<\/span><\/a> for lashings of pattern and colour inspiration for any and every space.<\/p>\n        <\/div><\/div>\n    <\/div><\/div>\n\n<\/div><section id=\"shopify-section-template--14520587976762__07b9b8bf-5bcd-4bda-8160-49dfa14b2d3f\" class=\"shopify-section multicolumn-section\"><div class=\"multicolumn inner nomax pt-l pb-m\">\n  \n<ul class=\"multicolumn grid\"><li class=\"column half narrow no-image bg-for-dark_text\">\n  <div class=\"text_wrap flex vertical-center align-left justify-start  color-dark_text\"><h3 class=\"h2 medium\">Our Perfectly Imperfect Design Process<\/h3><div class=\"rte prose\"><p>Molly fell in love with block printing after trying it out at a workshop. A totally self taught designer, her passion for all things print couldn’t be more clear. Molly’s interest in block printing then took her to Jaipur, to meet the leading artisans in the trade and see them at work - a truly mesmerising experience.<\/p><p>Block printing is always done by hand, and this gives it a perfectly imperfect human element. The intricacies in each hand printed pattern are totally unique and ooze authenticity into your home, giving a premium feel that just doesn’t compare to modern forms of design making.<\/p><p>Even our digitally printed UK luxury wallpaper retains this perfectly imperfect essence, by replicating our original block printed patterns perfectly. And with our new textural wallpapers, <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-strawberry-grass\"><span style=\"text-decoration:underline\">Strawberry<\/span><\/a> and <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-bindi-blue\"><span style=\"text-decoration:underline\">Bindi<\/span><\/a>, the human element in Molly’s designs is well and truly alive.<\/p><p>From sketches in her Sussex studio inspired by walks in the forest and trips to India, to hand carved wooden blocks, printed cloth and then digital printed quality wallpaper - this is a perfectly imperfect luxury wallpaper design process like no other.<\/p><\/div>\n    <div class=\"buttons dark\"><a class=\"button dark\" href=\"\/blogs\/craftsmanship\/hand-block-printing\">Learn more about block printing<\/a><\/div>\n    \n\n  <\/div><\/li><li class=\"column half bg-for-white_text\">\n  <div class=\"text_wrap flex vertical-center align-center  color-white_text has-image\">\n    <div class=\"buttons white\"><\/div>\n    \n\n  <\/div><div class=\"image none notext\"><picture>\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_820x@2x.jpg?v=1665149079 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_820x.jpg?v=1665149079 1x\" media=\"(min-width: 1270px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_600x@2x.jpg?v=1665149079 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_600x.jpg?v=1665149079 1x\" media=\"(min-width: 1100px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_490x@2x.jpg?v=1665149079 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_490x.jpg?v=1665149079 1x\" media=\"(min-width: 960px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_400x@2x.jpg?v=1665149079 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_400x.jpg?v=1665149079 1x\" media=\"(min-width: 768px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_768x@2x.jpg?v=1665149079 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_768x.jpg?v=1665149079 1x\" media=\"(min-width: 480px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_480x@2x.jpg?v=1665149079 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_480x.jpg?v=1665149079 1x\" media=\"(min-width: 320px)\">\n            <img class=\"lazyimage\" loading=\"lazy\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec_320x.jpg?v=1665149079\" alt=\"hand block printing a table runner for evening supper party with molly mahon\" width=\"1000\" height=\"1500\">\n          <\/picture>\n      <\/div><\/li><\/ul>\n  \n<\/div>\n \n\n<\/section><section id=\"shopify-section-template--14520587976762__d7ffdf86-dd2c-4976-9e1b-38cb7062f4b9\" class=\"shopify-section multicolumn-section\"><div class=\"multicolumn inner nomax pt-m pb-m\">\n  \n<ul class=\"multicolumn grid\"><li class=\"column half bg-for-white_text\">\n  <div class=\"text_wrap flex vertical-center align-center  color-white_text has-image\">\n    <div class=\"buttons white\"><\/div>\n    \n\n  <\/div><div class=\"image none notext\"><picture>\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_820x@2x.jpg?v=1676043569 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_820x.jpg?v=1676043569 1x\" media=\"(min-width: 1270px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_600x@2x.jpg?v=1676043569 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_600x.jpg?v=1676043569 1x\" media=\"(min-width: 1100px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_490x@2x.jpg?v=1676043569 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_490x.jpg?v=1676043569 1x\" media=\"(min-width: 960px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_400x@2x.jpg?v=1676043569 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_400x.jpg?v=1676043569 1x\" media=\"(min-width: 768px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_768x@2x.jpg?v=1676043569 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_768x.jpg?v=1676043569 1x\" media=\"(min-width: 480px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_480x@2x.jpg?v=1676043569 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_480x.jpg?v=1676043569 1x\" media=\"(min-width: 320px)\">\n            <img class=\"lazyimage\" loading=\"lazy\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/M_DSC5496_320x.jpg?v=1676043569\" alt=\"small batch hand block printing from Molly Mahon using water based inks\" width=\"2222\" height=\"3329\">\n          <\/picture>\n      <\/div><\/li><li class=\"column half narrow no-image bg-for-dark_text\">\n  <div class=\"text_wrap flex vertical-center align-left justify-start  color-dark_text\"><h3 class=\"h2 medium\">Respecting Nature through Small Batch Sustainability<\/h3><div class=\"rte prose\"><p>Nature and our planet is a huge source of inspiration and motivation for Molly. We believe there is a profound connection between block printing and the natural world. Many of Molly’s designs are inspired by nature, printing blocks are carved from wood, cloth is woven from flax, cotton or silk, and dyes are made from organic pigments in plants, minerals and rocks.&nbsp;<\/p><p>We have a deep respect for nature and are always conscious of the impact we have on our environment. That’s why everything from the materials we use to our manufacturing and design process is comprehensively researched and regularly reviewed, to ensure it fills us with pride and as much joy as our world of colourful prints.<\/p><p>All of our collections are made in small batches to guarantee both quality and waste prevention. And you can be sure that your order will be free of plastic packaging, too.<\/p><p>Ready to fill your home with joyous prints? <a href=\"https:\/\/mollymahon.com\/collections\/wallpaper\"><span style=\"text-decoration:underline\">Shop our collection of luxury wallpapers<\/span><\/a> and find your home’s true colours today.<\/p><\/div>\n    <div class=\"buttons dark\"><a class=\"button dark\" href=\"\/blogs\/craftsmanship\">Discover more about our Craftsmanship<\/a><\/div>\n    \n\n  <\/div><\/li><\/ul>\n  \n<\/div>\n \n\n<\/section><section id=\"shopify-section-template--14520587976762__7163ab39-5d0b-4df4-909f-2cc90e752cd6\" class=\"shopify-section multicolumn-section\"><div class=\"multicolumn inner nomax pt-none pb-m\">\n  \n  <div class=\"border\">\n  \n<ul class=\"multicolumn grid\"><li class=\"column half bg-for-white_text\">\n  <div class=\"text_wrap flex vertical-center align-center  color-white_text has-image\">\n    <div class=\"buttons white\"><\/div>\n    \n\n  <\/div><div class=\"image cover none notext\"><picture>\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_820x@2x.jpg?v=1649339328 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_820x.jpg?v=1649339328 1x\" media=\"(min-width: 1270px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_600x@2x.jpg?v=1649339328 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_600x.jpg?v=1649339328 1x\" media=\"(min-width: 1100px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_490x@2x.jpg?v=1649339328 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_490x.jpg?v=1649339328 1x\" media=\"(min-width: 960px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_400x@2x.jpg?v=1649339328 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_400x.jpg?v=1649339328 1x\" media=\"(min-width: 768px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_768x@2x.jpg?v=1649339328 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_768x.jpg?v=1649339328 1x\" media=\"(min-width: 480px)\">\n            <source srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_480x@2x.jpg?v=1649339328 2x, \/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_480x.jpg?v=1649339328 1x\" media=\"(min-width: 320px)\">\n            <img class=\"lazyimage\" loading=\"lazy\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0090\/0100\/9210\/files\/MOLLY_BLOCKPRINTING_BODEN_320x.jpg?v=1649339328\" alt=\"Molly Mahon block printing in her studio using the design she used with Boden\" width=\"1300\" height=\"1300\">\n          <\/picture>\n      <\/div><\/li><li class=\"column half narrow no-image bg-for-dark_text\">\n  <div class=\"text_wrap flex vertical-center align-left justify-start  color-dark_text\"><h3 class=\"h2 small\">Are you a budding designer?<\/h3><div class=\"rte prose\"><p>If our wallpaper designs have got you thinking about other ways you can take inspiration from nature in a creative capacity, why not come along to one of Molly's next workshops or events?<\/p><p>\"<em>We need to make time to be creative. It feeds and nourishes the soul<\/em>.” Molly Mahon<\/p><p>In taking part, you’ll learn all about the ancient art of block printing, including how to make a block carving and application techniques. You can enjoy experimenting with colour, shape, and textures to create something bespoke that is a true reflection of your own personal style.<\/p><p>Each workshop includes all the materials you need as well as refreshments throughout the day.<\/p><\/div>\n    <div class=\"buttons white\"><a class=\"button white\" aria-disabled=\"true\">Find out more about Molly's upcoming Workshops &amp; Events<\/a><\/div>\n    \n\n  <\/div><\/li><\/ul>\n  \n  <\/div>\n  \n<\/div>\n \n\n<\/section>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16421993483b631460",
+    "1642200428ac6075d8",
+    "166195210128b91b49",
+    "1661950917ca5910a9",
+    "1661951966294ab962",
+    "166196159906fadd3f",
+    "16619593053301a27e",
+    "16619593508075d424",
+    "166245704164214430",
+    "11635f87-ea7f-40cc-9f8d-b0e32124cc95",
+    "f83b84d3-1e21-45cd-8f08-515c2dfaf423",
+    "16624577622fefe57b",
+    "816ce147-5685-4ccb-ba2f-9d32702464e3",
+    "ebba0c62-55e1-4e84-bcaf-68b132fcbe13",
+    "16624574182228dbc7",
+    "36223d1d-da61-4d6a-b5f2-14a93659da00",
+    "d52e8c56-9b9a-4ae5-901f-619cf84f0f43",
+    "16624584107026dd5b",
+    "200327e8-1073-4a44-8585-cb6a7c972e66",
+    "a6a54246-430f-46e1-af48-3c1c7508fa61",
+    "1662741707adb69b90"
+  ]
+}
