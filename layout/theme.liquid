@@ -319,10 +319,10 @@
     for (let prodder of state.cart.items) {
       if (prodder.product_type != 'Fabric Sample' && prodder.product_type != 'Wallpaper Sample' && prodder.product_type != 'Workshop' && prodder.product_type != 'Brochure' ) {
         redFlag = false;
+        break;
       }
-      console.log(redFlag);
     }
-    
+    console.log(redFlag);
     const autoAddedLineItem = state.cart.items.findIndex( lineItem => { 
       return lineItem.properties?._autoadded === 'Yes' ;
     });
