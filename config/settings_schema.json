@@ -20,6 +20,12 @@
         "label": "Discount product for price"
       },
       {
+        "type": "checkbox",
+        "id": "enable_pouch",
+        "label": "Enable code for free pouch",
+        "default": true
+      },
+      {
         "type": "color",
         "id": "colors_solid_button_labels",
         "default": "#FFFFFF",

@@ -304,7 +304,8 @@
             
           }
         });
-  
+        
+        {% if settings.enable_pouch %}
       subscribeToCartStateUpdate( state => {
 
   const promoVariant = 40299139203130; 
@@ -362,7 +363,7 @@
     }
   }
 });
-
+        {% endif %}
         
       </script>
       
@@ -373,6 +374,9 @@
              ignores: [
               /\/cart\/?/,
               /\/checkout\/?/,
+              /\/customers\/?/,
+              /\/account\/?/,
+              /\/wholesale\/?/,
             uri => uri.includes('.zip'),
             (uri, elem) => elem.hasAttribute('noprefetch')
             ]
