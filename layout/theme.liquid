@@ -315,14 +315,14 @@
     let currentSubtotal = state.cart.items_subtotal_price;
     let counTer = state.cart.items.length;
     console.log('number: ' +counTer);
-    let redFlag = true;
+    let redFlag = "not allowed";
     for (let prodder of state.cart.items) {
       if (prodder.product_type != 'Fabric Sample' && prodder.product_type != 'Wallpaper Sample' && prodder.product_type != 'Workshop' && prodder.product_type != 'Brochure' ) {
-        redFlag = false;
+        redFlag = "All allowed";
         break;
       }
     }
-    console.log(redFlag);
+  
     const autoAddedLineItem = state.cart.items.findIndex( lineItem => { 
       return lineItem.properties?._autoadded === 'Yes' ;
     });
@@ -331,6 +331,8 @@
       currentSubtotal -= state.cart.items[autoAddedLineItem].final_line_price;
     }
 
+    console.log(redFlag);
+    
     if ( currentSubtotal >= promoSubtotal ) {
 
       const promoVariantLineItem = state.cart.items.findIndex( lineItem => { 
