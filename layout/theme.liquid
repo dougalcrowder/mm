@@ -317,7 +317,7 @@
     console.log('number: ' +counTer);
     let redFlag = "not allowed";
     for (let prodder of state.cart.items) {
-      if (prodder.product_type != 'Fabric Sample' && prodder.product_type != 'Wallpaper Sample' && prodder.product_type != 'Workshop' && prodder.product_type != 'Brochure' ) {
+      if (prodder.product_type != 'Fabric Sample' && prodder.product_type != 'Wallpaper Sample' && prodder.product_type != 'Workshop' && prodder.product_type != 'Brochure'  && prodder.product_type != 'Free Gift' ) {
         redFlag = "All allowed";
         break;
       }
