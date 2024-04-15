@@ -315,8 +315,7 @@
     let currentSubtotal = state.cart.items_subtotal_price;
     let counTer = state.cart.items.length;
     console.log('number: ' +counTer);
-    
-    if (counTer > 0) {
+
       let redFlag = 'nay';
       for (let prodder of state.cart.items) {
         if (prodder.product_type != 'Fabric Sample' && prodder.product_type != 'Wallpaper Sample' && prodder.product_type != 'Workshop' && prodder.product_type != 'Brochure'  && prodder.product_type != 'Free Gift' ) {
@@ -324,7 +323,7 @@
           break;
         }
       }
-    }
+
     
   
     const autoAddedLineItem = state.cart.items.findIndex( lineItem => { 
@@ -360,14 +359,12 @@
           "quantity": 0
         });
       }
-      if (counTer > 0) {
         if ( redFlag == 'nay') {
           cartRequestChange({ 
             "line": autoAddedLineItem + 1,
             "quantity": 0
           });
         }
-      }
     }
   }
 });
