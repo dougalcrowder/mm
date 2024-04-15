@@ -350,7 +350,7 @@
       }
     } else {
 
-      if ( autoAddedLineItem > -1 ) {
+      if ( autoAddedLineItem > -1 || redFlag == 'nay') {
         cartRequestChange({ 
           "line": autoAddedLineItem + 1,
           "quantity": 0
