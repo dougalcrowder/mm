@@ -313,11 +313,12 @@
   if ( state.status.cartStateSet && !state.status.requestInProgress ) {
 
     let currentSubtotal = state.cart.items_subtotal_price;
-
-     for (let prodder of state.cart.items) {
+    let counTer = state.cart.items.length;
+    console.log('number: ' +counTer);
+    for (let prodder of state.cart.items) {
       console.log('Title: ' +prodder.title);
       console.log('Type: ' +prodder.product_type);
-  }
+    }
     
     const autoAddedLineItem = state.cart.items.findIndex( lineItem => { 
       return lineItem.properties?._autoadded === 'Yes' ;
