@@ -1,6 +1,7 @@
 {
   "current": {
     "discount_threshold": "gift-discount-threshold",
+    "enable_pouch": false,
     "colors_solid_button_labels": "#FFFFFF",
     "colors_accent_1": "#121212",
     "colors_accent_2": "#334FB4",
@@ -539,6 +540,7 @@
         "blocks": {
           "f439469d-22df-41e6-bd6e-0a4bbfb7c051": {
             "type": "notice",
+            "disabled": true,
             "settings": {
               "title": "<p>Spend over £40 Get a Free Pouch<\/p>"
             }
