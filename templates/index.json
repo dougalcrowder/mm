@@ -36,7 +36,7 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Indian_Summerd_552ab90e-5b41-49db-8700-ee2967a7a129.jpg",
+        "image": "shopify:\/\/shop_images\/fabric_tuktuk_pink_drying_rasa_1800x1000_7fb4c493-9a65-43c4-a7a5-0f69fcb50a25.jpg",
         "letterbox": false,
         "mobile_image": "shopify:\/\/shop_images\/NAPKIN_PEONY_LIFE_1300x1300_ccb7cc05-d886-4157-baa3-88b658ed8f23.jpg",
         "make_logo_white": false,
@@ -74,14 +74,14 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bedroom_mughal_quilt_lampshade_1000x1500_16f76971-4e15-4f53-a485-0c867f58109f.jpg",
+            "image": "shopify:\/\/shop_images\/MoorHouse-24.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
             "title": "",
-            "subtitle": "Luxurious bedrooms",
+            "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Mughal Sky Indigo curtain fabric with Wide Stripe bed valance and side table and a Peggy quilt and lampshade and base for some finishing touches.<\/p>",
+            "text": "",
             "button_color": "dark",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -101,9 +101,9 @@
             "cover": false,
             "no_hover": false,
             "title": "",
-            "subtitle": "Bathe under the stars in style",
+            "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Spot & Star pea green wallpaper married with Wide Stripe Pink fabric.<\/p>",
+            "text": "",
             "button_color": "dark",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -132,6 +132,7 @@
       "blocks": {
         "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "half",
             "narrow": false,
@@ -154,6 +155,7 @@
         },
         "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "half",
             "narrow": false,
@@ -179,6 +181,7 @@
         "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1",
         "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0"
       ],
+      "disabled": true,
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -186,6 +189,100 @@
         "border": false,
         "margin_top": "s",
         "margin_bot": "sm"
+      }
+    },
+    "featured_collection_iHExrA": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Finishing Touches",
+        "collection": "soft-furnishing-lighting",
+        "products_to_show": 6,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
+    "89ee1186-f09b-4ad1-98b7-9a35c465d354": {
+      "type": "carousel",
+      "blocks": {
+        "bbda8c01-5d96-4959-be8a-f2145449df33": {
+          "type": "manual_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/molly-mahon-pyjamas-stripe-1300x1300_dd088a28-a4af-4b73-959f-373bec3429d8.jpg",
+            "title_image": "Pyjamas",
+            "block_url": "shopify:\/\/collections\/bed-clothing"
+          }
+        },
+        "3c7d17a2-ee5a-4b8b-9232-f7ca0263c012": {
+          "type": "manual_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/molly-mahon-kitchen-mugs-1300x1300_7f4ae697-9119-4b71-95a6-1ac7dcb38e85.jpg",
+            "title_image": "Mugs",
+            "block_url": "shopify:\/\/collections\/mugs"
+          }
+        },
+        "4ea8c2ea-67c5-442c-964f-24a52518e9d4": {
+          "type": "manual_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/molly-mahon-lighting-buti-stem-pink-1300x1300_290ae7c4-c597-439e-bbb3-71cc2b82e51f.jpg",
+            "title_image": "Lighting",
+            "block_url": "shopify:\/\/collections\/lighting"
+          }
+        },
+        "ff4c3ee4-736e-4196-b99b-03672fe4c3f4": {
+          "type": "manual_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/molly-mahon-desk-accessories-stationery-lifestyle-1500x1500_b8429781-bad2-436e-a7c5-93367bbf32ff.jpg",
+            "title_image": "Stationery",
+            "block_url": "shopify:\/\/collections\/new-stationery"
+          }
+        },
+        "1f9a55f7-d913-4a5f-a170-5d11ca7b2d10": {
+          "type": "manual_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/molly-mahon-christmas-table-linen-1300x1300_f4e21c42-f8c0-4f1b-808d-070d0cc146a8.jpg",
+            "title_image": "Table Linen",
+            "block_url": "shopify:\/\/collections\/table-linen"
+          }
+        },
+        "46f21c85-0cc2-4f3d-8e1d-5e58bcb96139": {
+          "type": "manual_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/molly-mahon-cushions-deerhyrst-1300x1300_7eeeb402-a591-4aa4-be53-9f001c3e9012.jpg",
+            "title_image": "Cushions",
+            "block_url": "shopify:\/\/collections\/cushions"
+          }
+        },
+        "bdb4e979-90eb-4e44-86bd-62177f3d5c44": {
+          "type": "manual_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE_2.jpg",
+            "title_image": "Cosy Quilts",
+            "block_url": "shopify:\/\/collections\/bedding-1"
+          }
+        },
+        "22fb1ae7-e7a6-4426-b588-7d32be572d10": {
+          "type": "manual_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/molly-mahon-wrapping-paper-bows-lifestyle-1300x1300.jpg",
+            "title_image": "Wrapping",
+            "block_url": "shopify:\/\/collections\/all-wrapping-station-goods"
+          }
+        }
+      },
+      "block_order": [
+        "bbda8c01-5d96-4959-be8a-f2145449df33",
+        "3c7d17a2-ee5a-4b8b-9232-f7ca0263c012",
+        "4ea8c2ea-67c5-442c-964f-24a52518e9d4",
+        "ff4c3ee4-736e-4196-b99b-03672fe4c3f4",
+        "1f9a55f7-d913-4a5f-a170-5d11ca7b2d10",
+        "46f21c85-0cc2-4f3d-8e1d-5e58bcb96139",
+        "bdb4e979-90eb-4e44-86bd-62177f3d5c44",
+        "22fb1ae7-e7a6-4426-b588-7d32be572d10"
+      ],
+      "settings": {
+        "styles": true,
+        "margin_top": "m",
+        "margin_bot": "none"
       }
     },
     "1657125172969e3f3f": {
@@ -348,90 +445,6 @@
         "border": false,
         "margin_top": "sm",
         "margin_bot": "s"
-      }
-    },
-    "89ee1186-f09b-4ad1-98b7-9a35c465d354": {
-      "type": "carousel",
-      "blocks": {
-        "bbda8c01-5d96-4959-be8a-f2145449df33": {
-          "type": "manual_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/molly-mahon-pyjamas-stripe-1300x1300_dd088a28-a4af-4b73-959f-373bec3429d8.jpg",
-            "title_image": "Pyjamas",
-            "block_url": "shopify:\/\/collections\/bed-clothing"
-          }
-        },
-        "3c7d17a2-ee5a-4b8b-9232-f7ca0263c012": {
-          "type": "manual_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/molly-mahon-kitchen-mugs-1300x1300_7f4ae697-9119-4b71-95a6-1ac7dcb38e85.jpg",
-            "title_image": "Mugs",
-            "block_url": "shopify:\/\/collections\/mugs"
-          }
-        },
-        "4ea8c2ea-67c5-442c-964f-24a52518e9d4": {
-          "type": "manual_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/molly-mahon-lighting-buti-stem-pink-1300x1300_290ae7c4-c597-439e-bbb3-71cc2b82e51f.jpg",
-            "title_image": "Lighting",
-            "block_url": "shopify:\/\/collections\/lighting"
-          }
-        },
-        "ff4c3ee4-736e-4196-b99b-03672fe4c3f4": {
-          "type": "manual_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/molly-mahon-desk-accessories-stationery-lifestyle-1500x1500_b8429781-bad2-436e-a7c5-93367bbf32ff.jpg",
-            "title_image": "Stationery",
-            "block_url": "shopify:\/\/collections\/new-stationery"
-          }
-        },
-        "1f9a55f7-d913-4a5f-a170-5d11ca7b2d10": {
-          "type": "manual_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/molly-mahon-christmas-table-linen-1300x1300_f4e21c42-f8c0-4f1b-808d-070d0cc146a8.jpg",
-            "title_image": "Table Linen",
-            "block_url": "shopify:\/\/collections\/table-linen"
-          }
-        },
-        "46f21c85-0cc2-4f3d-8e1d-5e58bcb96139": {
-          "type": "manual_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/molly-mahon-cushions-deerhyrst-1300x1300_7eeeb402-a591-4aa4-be53-9f001c3e9012.jpg",
-            "title_image": "Cushions",
-            "block_url": "shopify:\/\/collections\/cushions"
-          }
-        },
-        "bdb4e979-90eb-4e44-86bd-62177f3d5c44": {
-          "type": "manual_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/QUILT_PEGGY_BLUE_2.jpg",
-            "title_image": "Cosy Quilts",
-            "block_url": "shopify:\/\/collections\/bedding-1"
-          }
-        },
-        "22fb1ae7-e7a6-4426-b588-7d32be572d10": {
-          "type": "manual_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/molly-mahon-wrapping-paper-bows-lifestyle-1300x1300.jpg",
-            "title_image": "Wrapping",
-            "block_url": "shopify:\/\/collections\/all-wrapping-station-goods"
-          }
-        }
-      },
-      "block_order": [
-        "bbda8c01-5d96-4959-be8a-f2145449df33",
-        "3c7d17a2-ee5a-4b8b-9232-f7ca0263c012",
-        "4ea8c2ea-67c5-442c-964f-24a52518e9d4",
-        "ff4c3ee4-736e-4196-b99b-03672fe4c3f4",
-        "1f9a55f7-d913-4a5f-a170-5d11ca7b2d10",
-        "46f21c85-0cc2-4f3d-8e1d-5e58bcb96139",
-        "bdb4e979-90eb-4e44-86bd-62177f3d5c44",
-        "22fb1ae7-e7a6-4426-b588-7d32be572d10"
-      ],
-      "settings": {
-        "styles": true,
-        "margin_top": "none",
-        "margin_bot": "none"
       }
     },
     "b749be76-26a9-4186-b9d3-2ba13ba36985": {
@@ -1093,9 +1106,10 @@
     "5952b80b-42de-4667-9f7c-7ca9d36e71c7",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
+    "featured_collection_iHExrA",
+    "89ee1186-f09b-4ad1-98b7-9a35c465d354",
     "1657125172969e3f3f",
     "163481963822b4d1b3",
-    "89ee1186-f09b-4ad1-98b7-9a35c465d354",
     "b749be76-26a9-4186-b9d3-2ba13ba36985",
     "16348194267fffd3c9",
     "c6e28a12-1955-47fd-889a-d0b2bb7d20d2",
