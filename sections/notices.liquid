@@ -1,0 +1,133 @@
+{%- liquid
+    assign buildingBlocks = false
+    assign blockCount = 0
+    for block in section.blocks
+      assign buildingBlocks = true
+      assign blockCount = blockCount | plus: 1
+    endfor
+  -%}
+  {% if buildingBlocks %}
+  
+  {% if section.settings.styles %}
+    <link rel="stylesheet" href="{{ 'notices.css' | asset_url }}">
+  {% endif %}
+  
+  <div role="status" aria-live="polite" class="notices color-{{ section.settings.foreground }} color-{{ section.settings.background }}" id="lookatmee">
+    <div class="inner flex custom_scroll bc-{{ blockCount }}">
+    {% for block in section.blocks limit: 3 %}
+      <span>{{ block.settings.title }}</span>
+    {% endfor %}
+    </div>
+  </div>
+  <script>
+    document.body.classList.add("noticeActive");
+    
+    function headache() {
+      let lookatmeeHead = document.getElementById('lookatmee').clientHeight + "px";
+      document.getElementById('shopify-section-header').style.top = lookatmeeHead;
+      document.getElementById('menuTrigger').style.top = lookatmeeHead;
+      document.body.style.paddingTop = lookatmeeHead;
+    }
+    document.addEventListener('DOMContentLoaded', function () {
+      headache();
+    }, false);
+    window.addEventListener('resize', function(){
+      headache();
+    });
+  </script>
+  {% endif %}
+
+
+
+{% schema %}
+{
+  "name": "Notices",
+  "settings": [
+    {
+      "type": "select",
+      "id": "foreground",
+      "options": [
+        {
+          "value": "white_text",
+          "label": "White"
+        },
+        {
+          "value": "red_text",
+          "label": "Red"
+        },
+        {
+          "value": "plum_text",
+          "label": "Plum"
+        },
+        {
+          "value": "dark_text",
+          "label": "Dark"
+        },
+        {
+          "value": "blue_text",
+          "label": "Blue"
+        },
+        {
+          "value": "green_text",
+          "label": "Green"
+        }
+      ],
+      "default": "white_text",
+      "label": "Foreground Colour"
+    },
+    {
+      "type": "select",
+      "id": "background",
+      "options": [
+        {
+          "value": "white_bg",
+          "label": "White"
+        },
+        {
+          "value": "red_bg",
+          "label": "Red"
+        },
+        {
+          "value": "plum_bg",
+          "label": "Plum"
+        },
+        {
+          "value": "dark_bg",
+          "label": "Dark"
+        },
+        {
+          "value": "blue_bg",
+          "label": "Blue"
+        },
+        {
+          "value": "green_bg",
+          "label": "Green"
+        }
+      ],
+      "default": "red_bg",
+      "label": "Background Colour"
+    },
+    {
+      "type": "checkbox",
+      "id": "styles",
+      "label": "Enable styles",
+      "default": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "notice",
+      "name": {
+        "en": "notice"
+      },
+      "settings": [
+        {
+         "type": "richtext",
+           "id": "title",
+           "label": "notice text"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
