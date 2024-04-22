@@ -38,7 +38,6 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/fabric_tuktuk_pink_drying_rasa_1800x1000_7fb4c493-9a65-43c4-a7a5-0f69fcb50a25.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/NAPKIN_PEONY_LIFE_1300x1300_ccb7cc05-d886-4157-baa3-88b658ed8f23.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
@@ -108,8 +107,8 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Explore more bathroom ideas",
-            "button_link": "shopify:\/\/blogs\/look-books\/bathroom-collection",
+            "button_label": "Discover our Wallpapers",
+            "button_link": "shopify:\/\/collections\/wallpaper",
             "subtext": ""
           }
         }
@@ -125,70 +124,6 @@
         "border": false,
         "margin_top": "sm",
         "margin_bot": "s"
-      }
-    },
-    "20923eed-ecdf-4786-8836-2e8d1d372264": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_curtain_forest_blue_spot_star_indigo_sittingroom_moorland_1000x1500_ecbaf2dd-9767-40fa-9b26-959175282e9e.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Fabric",
-            "subtitle": "Hand block Print designs makes every piece unique for your home",
-            "subtitle_size": "small",
-            "text": "<p>Curtains Forest Fabric in blue with its leading edge in Spot & Star Indigo<\/p>",
-            "button_color": "dark",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Explore Floral Fabrics",
-            "button_link": "shopify:\/\/collections\/fabric",
-            "subtext": ""
-          }
-        },
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/FERNMUSTARDKEANE.jpg",
-            "auto_height": "none",
-            "cover": true,
-            "no_hover": false,
-            "title": "Wallpaper",
-            "subtitle": "Transform your space",
-            "subtitle_size": "small",
-            "text": "<p>High quality wallpaper which transforms a room by bringing depth, warmth and pattern.<\/p>",
-            "button_color": "dark",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Explore Wallpaper",
-            "button_link": "shopify:\/\/blogs\/look-books\/wallpaper-collection",
-            "subtext": "<p>Wallpaper - Fern in Mustard<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1",
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0"
-      ],
-      "disabled": true,
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "s",
-        "margin_bot": "sm"
       }
     },
     "featured_collection_iHExrA": {
@@ -279,10 +214,72 @@
         "bdb4e979-90eb-4e44-86bd-62177f3d5c44",
         "22fb1ae7-e7a6-4426-b588-7d32be572d10"
       ],
+      "disabled": true,
       "settings": {
         "styles": true,
         "margin_top": "m",
         "margin_bot": "none"
+      }
+    },
+    "20923eed-ecdf-4786-8836-2e8d1d372264": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/quilt_marwari_horse_flowerfactory_1000x1500_1f357871-2ae0-4f9f-8cb6-f7ea2f9b27e3.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "dark",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop",
+            "button_link": "shopify:\/\/collections\/all",
+            "subtext": ""
+          }
+        },
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bedroom_mughal_quilt_lampshade_1000x1500_16f76971-4e15-4f53-a485-0c867f58109f.jpg",
+            "auto_height": "none",
+            "cover": true,
+            "no_hover": false,
+            "title": "Moodboards",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "dark",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Explore Inspiration",
+            "button_link": "shopify:\/\/pages\/fabric-mood-boards",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1",
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "sm"
       }
     },
     "1657125172969e3f3f": {
@@ -438,6 +435,7 @@
         "637ecfd1-532c-4aeb-94da-9b272c15f9de",
         "163481963822b4d1b3-1"
       ],
+      "disabled": true,
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -803,6 +801,7 @@
         "1634821627eaee293f-1",
         "1634821627eaee293f-2"
       ],
+      "disabled": true,
       "settings": {
         "column_alignment": "center",
         "lines": "lines"
@@ -810,6 +809,7 @@
     },
     "a1409fd8-a0db-4143-868e-69ee18c87d97": {
       "type": "simple_quote",
+      "disabled": true,
       "settings": {
         "quote": "<p>Workshops & Supply Store<\/p>",
         "cite": "",
@@ -1030,6 +1030,7 @@
     },
     "6aa28036-ccfd-49dd-9e99-793301d699be": {
       "type": "simple_quote",
+      "disabled": true,
       "settings": {
         "quote": "<p>Celebrating the craftsmanship of the New Bloom Collection<\/p>",
         "cite": "",
@@ -1105,9 +1106,9 @@
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "5952b80b-42de-4667-9f7c-7ca9d36e71c7",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
-    "20923eed-ecdf-4786-8836-2e8d1d372264",
     "featured_collection_iHExrA",
     "89ee1186-f09b-4ad1-98b7-9a35c465d354",
+    "20923eed-ecdf-4786-8836-2e8d1d372264",
     "1657125172969e3f3f",
     "163481963822b4d1b3",
     "b749be76-26a9-4186-b9d3-2ba13ba36985",
