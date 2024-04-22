@@ -346,14 +346,14 @@
       "type": "simple_quote",
       "settings": {
         "quote": "<p>Workshops & Supply Store<\/p>",
-        "cite": "The perfect Gifts for the budding Block Printer",
+        "cite": "Budding Block Printer?  Get creative with our eco supplies and fun workshops",
         "bg": "green",
         "heading_size": "medium",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text",
         "bg_color_scheme": "none",
-        "margin_top": "l",
+        "margin_top": "s",
         "margin_bot": "s"
       }
     },
