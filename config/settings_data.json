@@ -455,6 +455,28 @@
               "subtext": ""
             }
           },
+          "c03841f0-f2e7-4fc2-95da-4a898113305e": {
+            "type": "column",
+            "settings": {
+              "width": "one_third",
+              "narrow": false,
+              "image": "shopify:\/\/shop_images\/craftsmanship_block_printing_bloom_1000x1500_02d23a48-b9c0-43c7-b7fe-df7188569737.jpg",
+              "auto_height": "none",
+              "cover": false,
+              "no_hover": false,
+              "title": "Meet",
+              "subtitle": "Our craftsmanship",
+              "subtitle_size": "small",
+              "text": "<p>Unique Perfect Imperfections.  We celebrate the art and craft behind making home<\/p>",
+              "button_color": "white",
+              "color_scheme": "white_text",
+              "desktop_text_box_position": "center",
+              "text_align": "center",
+              "button_label": "",
+              "button_link": "shopify:\/\/blogs\/craftsmanship",
+              "subtext": ""
+            }
+          },
           "d71a2ae9-06f5-427a-b953-9691a3affb80": {
             "type": "column",
             "settings": {
@@ -476,34 +498,12 @@
               "button_link": "shopify:\/\/blogs\/look-books",
               "subtext": ""
             }
-          },
-          "c03841f0-f2e7-4fc2-95da-4a898113305e": {
-            "type": "column",
-            "settings": {
-              "width": "one_third",
-              "narrow": false,
-              "image": "shopify:\/\/shop_images\/craftsmanship_block_printing_bloom_1000x1500_02d23a48-b9c0-43c7-b7fe-df7188569737.jpg",
-              "auto_height": "none",
-              "cover": false,
-              "no_hover": false,
-              "title": "Explore",
-              "subtitle": "Our craftsmanship",
-              "subtitle_size": "small",
-              "text": "<p>Unique Perfect Imperfections.  We celebrate the art and craft behind making home<\/p>",
-              "button_color": "white",
-              "color_scheme": "white_text",
-              "desktop_text_box_position": "center",
-              "text_align": "center",
-              "button_label": "",
-              "button_link": "shopify:\/\/blogs\/craftsmanship",
-              "subtext": ""
-            }
           }
         },
         "block_order": [
           "6b210781-0668-445a-9d11-2b909bb26598",
-          "d71a2ae9-06f5-427a-b953-9691a3affb80",
-          "c03841f0-f2e7-4fc2-95da-4a898113305e"
+          "c03841f0-f2e7-4fc2-95da-4a898113305e",
+          "d71a2ae9-06f5-427a-b953-9691a3affb80"
         ],
         "settings": {
           "mc_title": "",
