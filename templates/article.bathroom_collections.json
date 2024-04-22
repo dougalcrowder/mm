@@ -595,7 +595,7 @@
             "narrow": false,
             "image": "shopify:\/\/shop_images\/mollymahon_bathroom_blind_bindi_pink_1000x1500_0fbf7734-7587-4663-a17f-50b10d4fe901.jpg",
             "auto_height": "none",
-            "cover": false,
+            "cover": true,
             "no_hover": false,
             "title": "",
             "subtitle": "",
