@@ -438,12 +438,12 @@
             "settings": {
               "width": "one_third",
               "narrow": false,
-              "image": "shopify:\/\/shop_images\/molly_rollo_portrait_bloom_1000x1500_8b1a0963-47cd-4436-9639-f1797f7e8c96.jpg",
+              "image": "shopify:\/\/shop_images\/MoorHouse-49.jpg",
               "auto_height": "none",
-              "cover": false,
+              "cover": true,
               "no_hover": false,
-              "title": "Our Journal",
-              "subtitle": "Discover what Molly has been up to...",
+              "title": "Discover MM World",
+              "subtitle": "",
               "subtitle_size": "small",
               "text": "<p>Get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with<\/p>",
               "button_color": "white",
@@ -451,7 +451,7 @@
               "desktop_text_box_position": "center",
               "text_align": "center",
               "button_label": "",
-              "button_link": "shopify:\/\/blogs\/journal",
+              "button_link": "shopify:\/\/pages\/about-us",
               "subtext": ""
             }
           },
