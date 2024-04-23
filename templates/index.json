@@ -170,7 +170,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured Accessories",
-        "collection": "soft-furnishing-lighting",
+        "collection": "featured-accessories",
         "products_to_show": 6,
         "show_view_all": true,
         "show_secondary_image": false
