@@ -166,6 +166,43 @@
         "margin_bot": "s"
       }
     },
+    "collection_list_xx7wRR": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_kHFgj4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lighting"
+          }
+        },
+        "featured_collection_x8axF3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bedding-1"
+          }
+        },
+        "featured_collection_R3ynpa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cushions"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_kHFgj4",
+        "featured_collection_x8axF3",
+        "featured_collection_R3ynpa"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Featured Accessories",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
     "featured_collection_iHExrA": {
       "type": "featured-collection",
       "settings": {
@@ -342,7 +379,7 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "none",
-        "margin_bot": "l"
+        "margin_bot": "s"
       }
     },
     "16348163341a2e5254": {
@@ -1120,6 +1157,7 @@
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "5952b80b-42de-4667-9f7c-7ca9d36e71c7",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
+    "collection_list_xx7wRR",
     "featured_collection_iHExrA",
     "89ee1186-f09b-4ad1-98b7-9a35c465d354",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
