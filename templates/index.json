@@ -42,15 +42,13 @@
       "blocks": {
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "We hand make beautiful products",
+            "heading": "Tablescaping",
             "heading_type": "header1"
           }
         },
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "",
             "go_serif": false,
@@ -59,11 +57,10 @@
         },
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "",
-            "button_link_1": "shopify:\/\/pages\/lookbook-bloom",
-            "button_style_secondary_1": false,
+            "button_label_1": "Shop here",
+            "button_link_1": "shopify:\/\/collections\/tablescaping",
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -76,13 +73,14 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TUKPINKFABRICLIFE2.jpg",
+        "image": "shopify:\/\/shop_images\/mollymahon_tablescape_SS24_kitchentable_1800x900_90344596-e700-460b-a68e-7b711b2012b7.jpg",
         "letterbox": true,
+        "mobile_image": "shopify:\/\/shop_images\/mollymahon_tablescape_SS24_kitchentable1_1300x1300_cb7c11c6-9ddd-4541-8d0f-57dc7638d403.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "start",
+        "desktop_text_box_position": "end",
+        "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
