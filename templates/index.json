@@ -1,42 +1,5 @@
 {
   "sections": {
-    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
-      "type": "video",
-      "blocks": {
-        "28c6237f-93a5-442d-8ca9-2b00f30af1ad": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Discover Bloom",
-            "button_modal_1": "",
-            "button_link_1": "shopify:\/\/collections\/bloom-fabric",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_modal_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "28c6237f-93a5-442d-8ca9-2b00f30af1ad"
-      ],
-      "settings": {
-        "logo_white": false,
-        "autoplay": true,
-        "autoloop": true,
-        "mute_video": true,
-        "show_controls": true,
-        "html5_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ed1c5b2bc56b442a8e08a590809ed423.mp4",
-        "image": "shopify:\/\/shop_images\/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
-        "desktop_text_box_position": "end",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "color_scheme": "white_text",
-        "eyedee": ""
-      }
-    },
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
       "type": "image-banner",
       "blocks": {
@@ -74,7 +37,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/mollymahon_tablescape_SS24_kitchentable_1800x900_90344596-e700-460b-a68e-7b711b2012b7.jpg",
-        "letterbox": true,
+        "letterbox": false,
         "mobile_image": "shopify:\/\/shop_images\/mollymahon_tablescape_SS24_kitchentable1_1300x1300_cb7c11c6-9ddd-4541-8d0f-57dc7638d403.jpg",
         "make_logo_white": false,
         "top_margin": false,
@@ -102,7 +65,7 @@
             "image": "shopify:\/\/shop_images\/MoorHouse-24.jpg",
             "auto_height": "none",
             "cover": false,
-            "no_hover": false,
+            "no_hover": true,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -111,7 +74,7 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Explore Fabric",
+            "button_label": "Fabric",
             "button_link": "shopify:\/\/collections\/fabric",
             "subtext": ""
           }
@@ -124,7 +87,7 @@
             "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_widestripe_1000x1500_fee8cc03-3421-4e51-bb83-555d1edfcf68.jpg",
             "auto_height": "none",
             "cover": false,
-            "no_hover": false,
+            "no_hover": true,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -133,7 +96,7 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Explore Wallpapers",
+            "button_label": "Wallpapers",
             "button_link": "shopify:\/\/collections\/wallpaper",
             "subtext": ""
           }
@@ -210,8 +173,8 @@
             "image": "shopify:\/\/shop_images\/mollymahon_bedroom_curtain_poppy_upholstery_stripe_1000x1500_bc1591c3-884d-49b7-a4a9-23ca3dff19f7.jpg",
             "auto_height": "none",
             "cover": true,
-            "no_hover": false,
-            "title": "Look Books",
+            "no_hover": true,
+            "title": "",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -219,7 +182,7 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Explore Inspiration",
+            "button_label": "Inspiration",
             "button_link": "shopify:\/\/blogs\/look-books",
             "subtext": ""
           }
@@ -232,7 +195,7 @@
             "image": "shopify:\/\/shop_images\/quilt_marwari_horse_flowerfactory_1000x1500_1f357871-2ae0-4f9f-8cb6-f7ea2f9b27e3.jpg",
             "auto_height": "none",
             "cover": false,
-            "no_hover": false,
+            "no_hover": true,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -254,16 +217,16 @@
             "image": "shopify:\/\/shop_images\/ATTICROOM_TULIP.jpg",
             "auto_height": "portrait",
             "cover": true,
-            "no_hover": false,
-            "title": "Samples",
+            "no_hover": true,
+            "title": "",
             "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Order your free samples to create your perfect mood board<\/p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Samples",
+            "button_label": "Order Samples",
             "button_link": "shopify:\/\/collections\/fabric-wallpaper-samples",
             "subtext": ""
           }
@@ -281,6 +244,119 @@
         "border": false,
         "margin_top": "none",
         "margin_bot": "s"
+      }
+    },
+    "a1409fd8-a0db-4143-868e-69ee18c87d97": {
+      "type": "simple_quote",
+      "settings": {
+        "quote": "<p>Workshops & Supply Store<\/p>",
+        "cite": "Budding Block Printer?  Get creative with our eco supplies and fun workshops",
+        "bg": "green",
+        "heading_size": "medium",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "bg_color_scheme": "none",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "165712871247f6866c": {
+      "type": "multicolumn",
+      "blocks": {
+        "16571287126ed8a3c3-0": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP3_1300x1300_7f0d925c-b96a-4193-9e90-cbca5f856f5d.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "no_hover": true,
+            "title": "Workshops",
+            "subtitle": "Come and join Molly for a creative and fun day of block printing",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Find out more",
+            "button_link": "shopify:\/\/pages\/workshops-and-events",
+            "subtext": ""
+          }
+        },
+        "16571287126ed8a3c3-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
+            "auto_height": "square",
+            "cover": false,
+            "no_hover": true,
+            "title": "Printing Supplies",
+            "subtitle": "For the budding Block printer",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop Supplies",
+            "button_link": "shopify:\/\/collections\/supply-store",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "16571287126ed8a3c3-0",
+        "16571287126ed8a3c3-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "sm"
+      }
+    },
+    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
+      "type": "video",
+      "blocks": {
+        "28c6237f-93a5-442d-8ca9-2b00f30af1ad": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Discover Bloom",
+            "button_modal_1": "",
+            "button_link_1": "shopify:\/\/collections\/bloom-fabric",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_modal_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "28c6237f-93a5-442d-8ca9-2b00f30af1ad"
+      ],
+      "settings": {
+        "logo_white": false,
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": true,
+        "show_controls": true,
+        "html5_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ed1c5b2bc56b442a8e08a590809ed423.mp4",
+        "image": "shopify:\/\/shop_images\/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
+        "desktop_text_box_position": "end",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "color_scheme": "white_text",
+        "eyedee": ""
       }
     },
     "16348163341a2e5254": {
@@ -368,82 +444,6 @@
         "button_link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
       }
     },
-    "a1409fd8-a0db-4143-868e-69ee18c87d97": {
-      "type": "simple_quote",
-      "settings": {
-        "quote": "<p>Workshops & Supply Store<\/p>",
-        "cite": "Budding Block Printer?  Get creative with our eco supplies and fun workshops",
-        "bg": "green",
-        "heading_size": "large",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "bg_color_scheme": "none",
-        "margin_top": "s",
-        "margin_bot": "s"
-      }
-    },
-    "165712871247f6866c": {
-      "type": "multicolumn",
-      "blocks": {
-        "16571287126ed8a3c3-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP3_1300x1300_7f0d925c-b96a-4193-9e90-cbca5f856f5d.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": false,
-            "title": "Workshops",
-            "subtitle": "Get Creative",
-            "subtitle_size": "small",
-            "text": "<p>Join us on a beautiful day out to get inspiration, get that creative side of your brain in gear and play with colour.<\/p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Find out more",
-            "button_link": "shopify:\/\/pages\/workshops-and-events",
-            "subtext": ""
-          }
-        },
-        "16571287126ed8a3c3-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": false,
-            "title": "Printing Supplies",
-            "subtitle": "For the budding Block printer",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Supplies",
-            "button_link": "shopify:\/\/collections\/supply-store",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "16571287126ed8a3c3-0",
-        "16571287126ed8a3c3-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "s",
-        "margin_bot": "sm"
-      }
-    },
     "16348167313be3ffb8": {
       "type": "featured-blog",
       "settings": {
@@ -469,15 +469,15 @@
     }
   },
   "order": [
-    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "collection_list_xx7wRR",
     "featured_collection_iHExrA",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
-    "16348163341a2e5254",
     "a1409fd8-a0db-4143-868e-69ee18c87d97",
     "165712871247f6866c",
+    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
+    "16348163341a2e5254",
     "16348167313be3ffb8",
     "main",
     "16412983447ec23b50"
