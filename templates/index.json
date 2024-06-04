@@ -36,7 +36,7 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mollymahon_tablescape_SS24_kitchentable_1800x900_90344596-e700-460b-a68e-7b711b2012b7.jpg",
+        "image": "shopify:\/\/shop_images\/mollymahon_tablescape_SS24_kitchentable_1800x900_ea0161c0-2bc4-4439-b27b-705379629b02.jpg",
         "letterbox": false,
         "mobile_image": "shopify:\/\/shop_images\/mollymahon_tablescape_SS24_kitchentable1_1300x1300_cb7c11c6-9ddd-4541-8d0f-57dc7638d403.jpg",
         "make_logo_white": false,
@@ -48,7 +48,7 @@
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text",
-        "margin_top": "s",
+        "margin_top": "none",
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
