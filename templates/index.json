@@ -158,7 +158,7 @@
         "show_title": false,
         "add_spacing": false,
         "border": false,
-        "margin_top": "sm",
+        "margin_top": "none",
         "margin_bot": "s"
       }
     },
