@@ -1,12 +1,66 @@
 {
   "sections": {
+    "image_banner_eWRTcG": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_aFTHtr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "text_XNUB4Y": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_m87CrX": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aFTHtr",
+        "text_XNUB4Y",
+        "buttons_m87CrX"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mollymahon_clothing_adult_dress_shirt_beach_family_portraiat_1800x900_732501ae-2192-4df0-9b2f-8e092c793308.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
       "type": "image-banner",
       "blocks": {
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-0": {
           "type": "heading",
           "settings": {
-            "heading": "New Summer Collection",
+            "heading": "Make a Splash with our New Clothing",
             "heading_type": "header1"
           }
         },
@@ -36,15 +90,15 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mollymahon_tablescape_SS24_kitchentable_1800x900_ea0161c0-2bc4-4439-b27b-705379629b02.jpg",
+        "image": "shopify:\/\/shop_images\/mollymahon_clothing_adult_dress_shirt_beach_portraiat_1800x900_48c00650-5632-4af0-8633-23b4787aa4c8.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/mollymahon_tablescape_SS24_kitchentable1_1300x1300_cb7c11c6-9ddd-4541-8d0f-57dc7638d403.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/mollymahon_clothing_dress_shirt_beach_cuckmerehaven_1300x1300_10f409e5-6932-4b73-a044-e8338b05c985.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
-        "desktop_text_box_position": "end",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "start",
+        "text_align": "left",
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text",
@@ -58,8 +112,8 @@
       "type": "featured-collection",
       "settings": {
         "title": "Just Landed",
-        "collection": "tablescaping",
-        "products_to_show": 12,
+        "collection": "clothing",
+        "products_to_show": 6,
         "show_view_all": true,
         "show_secondary_image": false
       }
@@ -469,6 +523,7 @@
     }
   },
   "order": [
+    "image_banner_eWRTcG",
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "featured_collection_iHExrA",
     "collection_list_xx7wRR",
