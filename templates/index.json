@@ -6,7 +6,7 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-0": {
           "type": "heading",
           "settings": {
-            "heading": "New Summer Collection",
+            "heading": "Make a Splash with our New Clothing",
             "heading_type": "header1"
           }
         },
@@ -22,7 +22,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop here",
-            "button_link_1": "shopify:\/\/collections\/tablescaping",
+            "button_link_1": "shopify:\/\/collections\/clothing",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -36,15 +36,15 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mollymahon_tablescape_SS24_kitchentable_1800x900_ea0161c0-2bc4-4439-b27b-705379629b02.jpg",
+        "image": "shopify:\/\/shop_images\/mollymahon_clothing_adult_dress_shirt_beach_portraiat_1800x900_48c00650-5632-4af0-8633-23b4787aa4c8.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/mollymahon_tablescape_SS24_kitchentable1_1300x1300_cb7c11c6-9ddd-4541-8d0f-57dc7638d403.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/mollymahon_clothing_dress_shirt_beach_cuckmerehaven_1300x1300_10f409e5-6932-4b73-a044-e8338b05c985.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
-        "desktop_text_box_position": "end",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "start",
+        "text_align": "left",
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text",
@@ -58,7 +58,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Just Landed",
-        "collection": "tablescaping",
+        "collection": "clothing",
         "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": false
@@ -413,7 +413,7 @@
         "b3638c37-80b2-4963-9497-730c5a8367d7": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/mollymahon_pyjama_stripe_garden_1300x1300_66b491d6-0f3c-428b-9482-253db3c66d31.jpg",
+            "insta_image": "shopify:\/\/shop_images\/mollymahon_clothing_kids_shirt_bag_beach_cuckmerehaven_1300x1300_5b634935-34c6-446b-84fa-eb2bfbca3ceb.jpg",
             "author": "@mollymahonblockprinting",
             "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
           }
