@@ -16,28 +16,28 @@
 {%- if section.settings.products_to_show > section.settings.collection.all_products_count -%}
   {% assign articleNumber = section.settings.collection.all_products_count %}
 {%- endif -%}
-
+<div class="text">
+  {%- if section.settings.title != blank -%}
+  <h2>{{ section.settings.title | escape }}</h2>
+  {%- endif -%}
+  
+  <div class="rte">
+  {{ section.settings.introduction }}
+  
+  {%- if section.settings.show_view_all and more_in_collection -%}
+      <a href="{{ section.settings.collection.url }}"
+        class="button dark"
+        aria-label="{{ 'sections.featured_collection.view_all_label' | t: collection_name: section.settings.collection.title }}"
+      >
+        {{ 'sections.featured_collection.view_all' | t }}
+      </a>
+  {%- endif -%}
+  </div>
+  
+</div>
 <div class="featured_blog featured_collection scroller-outer custom_scroll">
+  
   <div class="scroller-inner flex amount-{{ articleNumber }}">
-    <div class="text card main_card">
-      {%- if section.settings.title != blank -%}
-      <h2>{{ section.settings.title | escape }}</h2>
-      {%- endif -%}
-      
-      <div class="rte">
-      {{ section.settings.introduction }}
-      
-      {%- if section.settings.show_view_all and more_in_collection -%}
-          <a href="{{ section.settings.collection.url }}"
-            class="button dark"
-            aria-label="{{ 'sections.featured_collection.view_all_label' | t: collection_name: section.settings.collection.title }}"
-          >
-            {{ 'sections.featured_collection.view_all' | t }}
-          </a>
-      {%- endif -%}
-      </div>
-      
-    </div>
     {%- if section.settings.collection != blank and section.settings.collection.all_products_count > 0 -%}
       {%- for product in section.settings.collection.products limit: section.settings.products_to_show -%}
     
