@@ -79,6 +79,51 @@
         "color_scheme": "red_text"
       }
     },
+    "image_banner_TNEr8y": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_KkDa6H": {
+          "type": "heading",
+          "settings": {
+            "heading": "JAM PACKED 2024 WORKSHOP SCHEDULE COMING SOON...",
+            "heading_type": "header1"
+          }
+        },
+        "buttons_m3XL3c": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_KkDa6H",
+        "buttons_m3XL3c"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/95FBCCC0-CB81-4847-98D3-39F46B60A97F_1_105_c.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid-events",
       "settings": {
@@ -133,6 +178,7 @@
     "banner",
     "4935b228-84d8-49a0-8b71-092d9ddd9c53",
     "d35ce5b8-ad67-40b3-8669-c44a175c980a",
+    "image_banner_TNEr8y",
     "product-grid",
     "bc80127c-1617-463c-8cb2-4b8ffe73395a",
     "a8d232d1-7bf0-4644-b831-8580e2694cb4"

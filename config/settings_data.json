@@ -11,6 +11,7 @@
     "colors_background_2": "#F3F3F3",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
+    "page_width": "1200",
     "checkout_logo_image": "shopify:\/\/shop_images\/checkout_logo.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
@@ -438,20 +439,42 @@
             "settings": {
               "width": "one_third",
               "narrow": false,
-              "image": "shopify:\/\/shop_images\/molly_rollo_portrait_bloom_1000x1500_8b1a0963-47cd-4436-9639-f1797f7e8c96.jpg",
+              "image": "shopify:\/\/shop_images\/MoorHouse-49.jpg",
               "auto_height": "none",
-              "cover": false,
+              "cover": true,
               "no_hover": false,
-              "title": "Our Journal",
-              "subtitle": "Discover what Molly has been up to...",
+              "title": "Discover MM World",
+              "subtitle": "",
               "subtitle_size": "small",
-              "text": "<p>Get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with<\/p>",
+              "text": "<p>Get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with.<\/p>",
               "button_color": "white",
               "color_scheme": "white_text",
               "desktop_text_box_position": "center",
               "text_align": "center",
               "button_label": "",
-              "button_link": "shopify:\/\/blogs\/journal",
+              "button_link": "shopify:\/\/pages\/about-us",
+              "subtext": ""
+            }
+          },
+          "c03841f0-f2e7-4fc2-95da-4a898113305e": {
+            "type": "column",
+            "settings": {
+              "width": "one_third",
+              "narrow": false,
+              "image": "shopify:\/\/shop_images\/craftsmanship_block_printing_bloom_1000x1500_02d23a48-b9c0-43c7-b7fe-df7188569737.jpg",
+              "auto_height": "none",
+              "cover": false,
+              "no_hover": false,
+              "title": "Meet",
+              "subtitle": "Our craftsmanship",
+              "subtitle_size": "small",
+              "text": "<p>Unique Perfect Imperfections.  We celebrate the art and craft behind making home<\/p>",
+              "button_color": "white",
+              "color_scheme": "white_text",
+              "desktop_text_box_position": "center",
+              "text_align": "center",
+              "button_label": "",
+              "button_link": "shopify:\/\/blogs\/craftsmanship",
               "subtext": ""
             }
           },
@@ -460,7 +483,7 @@
             "settings": {
               "width": "one_third",
               "narrow": false,
-              "image": "shopify:\/\/shop_images\/bloom_collage_lookbook_1500x1000_ae830f64-a446-4b5e-ad15-45690434ec0a.jpg",
+              "image": "shopify:\/\/shop_images\/71528222-951B-4A77-AAA3-E364FD2E2580_1_105_c.jpg",
               "auto_height": "none",
               "cover": false,
               "no_hover": false,
@@ -476,34 +499,12 @@
               "button_link": "shopify:\/\/blogs\/look-books",
               "subtext": ""
             }
-          },
-          "c03841f0-f2e7-4fc2-95da-4a898113305e": {
-            "type": "column",
-            "settings": {
-              "width": "one_third",
-              "narrow": false,
-              "image": "shopify:\/\/shop_images\/craftsmanship_block_printing_bloom_1000x1500_02d23a48-b9c0-43c7-b7fe-df7188569737.jpg",
-              "auto_height": "none",
-              "cover": false,
-              "no_hover": false,
-              "title": "Explore",
-              "subtitle": "Our craftsmanship",
-              "subtitle_size": "small",
-              "text": "<p>Unique Perfect Imperfections.  We celebrate the art and craft behind making home<\/p>",
-              "button_color": "white",
-              "color_scheme": "white_text",
-              "desktop_text_box_position": "center",
-              "text_align": "center",
-              "button_label": "",
-              "button_link": "shopify:\/\/blogs\/craftsmanship",
-              "subtext": ""
-            }
           }
         },
         "block_order": [
           "6b210781-0668-445a-9d11-2b909bb26598",
-          "d71a2ae9-06f5-427a-b953-9691a3affb80",
-          "c03841f0-f2e7-4fc2-95da-4a898113305e"
+          "c03841f0-f2e7-4fc2-95da-4a898113305e",
+          "d71a2ae9-06f5-427a-b953-9691a3affb80"
         ],
         "settings": {
           "mc_title": "",
