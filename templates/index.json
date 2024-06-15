@@ -3,18 +3,11 @@
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
       "type": "image-banner",
       "blocks": {
-        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Make a Splash with our New Clothing",
-            "heading_type": "header1"
-          }
-        },
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-1": {
           "type": "text",
           "settings": {
-            "text": "",
-            "go_serif": false,
+            "text": "NEW SUMMER TABLE LINEN",
+            "go_serif": true,
             "constrain_text": true
           }
         },
@@ -31,12 +24,11 @@
         }
       },
       "block_order": [
-        "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-0",
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-1",
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mollymahon_clothing_adult_dress_shirt_beach_portraiat_1800x900_48c00650-5632-4af0-8633-23b4787aa4c8.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-06-15_at_11.55.42.png",
         "letterbox": false,
         "mobile_image": "shopify:\/\/shop_images\/mollymahon_clothing_dress_shirt_beach_cuckmerehaven_1300x1300_10f409e5-6932-4b73-a044-e8338b05c985.jpg",
         "make_logo_white": false,
