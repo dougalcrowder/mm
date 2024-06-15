@@ -11,6 +11,7 @@
     "colors_background_2": "#F3F3F3",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
+    "sale_badge_color_scheme": "accent-2",
     "page_width": "1200",
     "checkout_logo_image": "shopify:\/\/shop_images\/checkout_logo.png",
     "checkout_logo_position": "center",
