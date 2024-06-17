@@ -11,6 +11,7 @@
       "blocks": {
         "1642199348d668b6b2-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Designer Curtain Fabric By British Printmaker Molly Mahon",
             "heading_type": "header1"
@@ -18,6 +19,7 @@
         },
         "1642199348d668b6b2-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Shop our range of designer curtain fabrics creatively designed by British printmaker, Molly Mahon and hand block printed by Indian artisans.",
             "go_serif": false,
@@ -42,6 +44,7 @@
         "1642199348d668b6b2-1",
         "1642199348d668b6b2-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/fabric_tulip_curtain_1800x1000_fbcea8b5-fd6f-4b9d-8244-f90f9f3b920d.jpg",
         "letterbox": false,
@@ -66,8 +69,9 @@
         "8e5d90f1-2d14-4a46-b9c6-954f4c4253e0": {
           "type": "column",
           "settings": {
-            "width": "one_third",
+            "width": "half",
             "narrow": false,
+            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_fern_fabric_marigold_1_1000x1500_1ea39ad7-a182-441a-a907-7a96c232825a.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -79,8 +83,8 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Wallpaper",
+            "button_link": "shopify:\/\/collections\/wallpaper",
             "subtext": ""
           }
         },
@@ -89,19 +93,20 @@
           "settings": {
             "width": "half",
             "narrow": true,
-            "auto_height": "true",
-            "cover": false,
+            "image": "shopify:\/\/shop_images\/fabric_poppy_mustard_sky_breakfastroom_curtains_1000x1500_44b43f64-be28-45b8-b96c-c95ea0335e9b.jpg",
+            "auto_height": "none",
+            "cover": true,
             "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "large",
-            "text": "<p>Our range of fabric for curtains has been designed by British Printmaker, Molly Mahon, and brought to life by master craftspeople in India, using hand-blocked printing. The patterns are inspired by Molly’s love of nature and travel, and especially her connection to India. She admires the confident use of colour that can be seen in India’s architecture and clothing and has embraced this with her luxury fabric range.<\/p>",
+            "text": "",
             "button_color": "white",
-            "color_scheme": "dark_text",
+            "color_scheme": "white_text",
             "desktop_text_box_position": "center",
-            "text_align": "left",
-            "button_label": "",
-            "button_link": "",
+            "text_align": "center",
+            "button_label": "Fabric",
+            "button_link": "shopify:\/\/collections\/fabric",
             "subtext": ""
           }
         }
@@ -119,88 +124,6 @@
         "margin_bot": "m"
       }
     },
-    "166195210128b91b49": {
-      "type": "2-column-text",
-      "blocks": {
-        "16619521000b84ba87-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Discover our luxury curtain fabrics online",
-            "heading_size": "large",
-            "text": "<p>A celebrated British printmaker, Molly Mahon has used her appreciation of colour, passion for pattern and love of nature to create a range of stunning block printed fabrics. She absorbs her surroundings, taking inspiration from the countryside and woodlands surrounding her Sussex home and the scenery of Rajasthan.<\/p><p><em>“My life and work feel intertwined with Jaipur, both in a commercial and creative sense – its energy has gotten under my skin and into my designs. It's opened new doors of inspiration and filled my mind with countless thoughts and ideas.”<\/em> – Molly Mahon.<\/p><p>Whilst her designs start as sketches in her notebook, the patterns are hand carved into blocks and applied to natural fabrics by expert Indian craftspeople.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "16619521000b84ba87-1": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p><em>“I took myself to Jaipur to further my education in the craft. Blown away by the possibility and the sheer joy of the incredible craftmanship I found there, I connected and started to work with block printers who have been passing down their artisanal skill for generations. To me they were, and still are, the real deal when it comes to pattern making.”<\/em> – Molly Mahon.<\/p><p>Molly has previously partnered with Christies, Firmdale Hotels, Cabbages & Roses and more recently,<a href=\"https:\/\/mollymahon.com\/pages\/boden-molly-mahon\"> <span style=\"text-decoration:underline\">Boden<\/span><\/a> & Anthropologie. Her business was started from her kitchen table at her home in Ashdown Forest, UK but is run with her family including her husband Rollo, their children, and their dog, Bramble. Alongside fabrics and<a href=\"https:\/\/mollymahon.com\/collections\/wallpaper\"> <span style=\"text-decoration:underline\">wallpaper<\/span><\/a>, Molly's creations have expanded to include<a href=\"https:\/\/mollymahon.com\/collections\/kitchen\"> <span style=\"text-decoration:underline\">kitchen and dining ware,<\/span><\/a><a href=\"https:\/\/mollymahon.com\/collections\/home-goods\"> <span style=\"text-decoration:underline\">home goods<\/span><\/a>, and<a href=\"https:\/\/mollymahon.com\/collections\/travel\"> <span style=\"text-decoration:underline\">travel accessories<\/span><\/a>. <\/p>",
-            "button_label": "Meet Molly",
-            "button_link": "shopify:\/\/pages\/molly-mahon",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "16619521000b84ba87-0",
-        "16619521000b84ba87-1"
-      ],
-      "settings": {
-        "margin_top": "sm",
-        "margin_bot": "none"
-      }
-    },
-    "1661951966294ab962": {
-      "type": "2-column-text",
-      "blocks": {
-        "166195196658edcf74-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Get creative with statement curtains",
-            "heading_size": "small",
-            "text": "<p>Curtains add a touch of elegance to any room. They also add texture to a space, aid with the acoustics and can help create a cosy feel.<\/p><p>Depending on the size of the room and what it is used for, they can also contribute to the ambience of the room. For example, pastel colours like sky blue and mint green lend themselves to tranquillity whilst natural fractal patterns can also add a sense of calm. In contrast, bright colours such as orange and sunflower yellow can create an exciting atmosphere whilst large, repeating patterns can be visually stimulating.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        },
-        "166195196658edcf74-1": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "text": "<p>The great thing about curtains is that you can use them to make whatever statement you want! So, whether you are looking for fabric to make posh curtains for your living room or a traditional print that will make your cottage core dreams come true, you are sure to find a  Molly Mahon curtain fabric to suit.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": true,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "166195196658edcf74-0",
-        "166195196658edcf74-1"
-      ],
-      "settings": {
-        "margin_top": "sm",
-        "margin_bot": "m"
-      }
-    },
     "166196159906fadd3f": {
       "type": "simple_quote",
       "settings": {
@@ -214,129 +137,6 @@
         "bg_color_scheme": "none",
         "margin_top": "none",
         "margin_bot": "xl"
-      }
-    },
-    "166245704164214430": {
-      "type": "feature-slides",
-      "blocks": {
-        "1662457041351d627c-0": {
-          "type": "text",
-          "settings": {
-            "heading": "Floral Curtain Fabric",
-            "heading_size": "medium",
-            "text": "<p>Floral patterns have the ability to inject colour and joy into any space whether it’s a small, ditsy print or big, bold blooms. They are a way to bring the beauty of nature into the home and this makes our floral fabrics fitting for statement curtains that will frame windows offering views of local landscapes.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "inset": false,
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "start",
-            "text_align": "left"
-          }
-        }
-      },
-      "block_order": [
-        "1662457041351d627c-0"
-      ],
-      "settings": {
-        "background": "#90bbe4",
-        "margin_top": "l",
-        "margin_bot": "none",
-        "slides_title": "Explore our Floral print patterns below"
-      }
-    },
-    "16642902403436f598": {
-      "type": "image-banner",
-      "blocks": {
-        "16642902392f0d0d4b-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "16642902392f0d0d4b-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "16642902392f0d0d4b-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16642902392f0d0d4b-0",
-        "16642902392f0d0d4b-1",
-        "16642902392f0d0d4b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/fabric_tulip_curtain_1800x1000_fbcea8b5-fd6f-4b9d-8244-f90f9f3b920d.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
-    "0c5a1688-9c34-448b-beb0-28316f9bf816": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14581737881658__0c5a1688-9c34-448b-beb0-28316f9bf816-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Mughal"
-          }
-        },
-        "template--14581737881658__0c5a1688-9c34-448b-beb0-28316f9bf816-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The passion for the beauty of the flower in the Mughal era was primary to Indian art.  Here Molly has drawn, then carved out the Mughal flower and has brought this enchanting love of the flower back to life with the hand block printing technique.  It comes in three stunning colourways, Sky Indigo (as shown), Crimson Sky and Peach Sap Green.<\/p>",
-            "code": ""
-          }
-        },
-        "template--14581737881658__0c5a1688-9c34-448b-beb0-28316f9bf816-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14581737881658__0c5a1688-9c34-448b-beb0-28316f9bf816-heading-1",
-        "template--14581737881658__0c5a1688-9c34-448b-beb0-28316f9bf816-text-1",
-        "template--14581737881658__0c5a1688-9c34-448b-beb0-28316f9bf816-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/fabric_mughal_skyindigo_curtains_bedroom_1300x1300_f0d1803b-523d-4994-bb35-865c1a818a87.jpg",
-        "title": "",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first"
       }
     },
     "19a16aed-d2b5-40d2-a349-7f55728a6a61": {
@@ -825,12 +625,7 @@
     "main",
     "16421993483b631460",
     "1642200428ac6075d8",
-    "166195210128b91b49",
-    "1661951966294ab962",
     "166196159906fadd3f",
-    "166245704164214430",
-    "16642902403436f598",
-    "0c5a1688-9c34-448b-beb0-28316f9bf816",
     "19a16aed-d2b5-40d2-a349-7f55728a6a61",
     "2a7cec99-8e29-4da9-929e-fb75b5e9cb53",
     "3d95b960-e3e4-4764-857f-65f3318182a3",
