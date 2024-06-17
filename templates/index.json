@@ -35,6 +35,7 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-1",
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/mollymahon_clothing_adult_dress_shirt_beach_portraiat_1800x900_48c00650-5632-4af0-8633-23b4787aa4c8.jpg",
         "letterbox": false,
@@ -56,6 +57,7 @@
     },
     "featured_collection_iHExrA": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "JUST LANDED...  scroll right to see our new Summer clothing and bag range.",
         "collection": "clothing",
@@ -104,28 +106,6 @@
     "dedeec5c-28d6-4af0-961d-09abb7473182": {
       "type": "multicolumn",
       "blocks": {
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify:\/\/shop_images\/MoorHouse-24.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Fabric",
-            "button_link": "shopify:\/\/collections\/fabric",
-            "subtext": ""
-          }
-        },
         "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2": {
           "type": "column",
           "settings": {
@@ -133,6 +113,28 @@
             "narrow": false,
             "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_widestripe_1000x1500_fee8cc03-3421-4e51-bb83-555d1edfcf68.jpg",
             "auto_height": "none",
+            "cover": true,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Fabric & Wallaper",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify:\/\/shop_images\/quilt_marwari_horse_flowerfactory_1000x1500_1f357871-2ae0-4f9f-8cb6-f7ea2f9b27e3.jpg",
+            "auto_height": "none",
             "cover": false,
             "no_hover": false,
             "title": "",
@@ -143,15 +145,15 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper",
+            "button_label": "Home",
+            "button_link": "",
             "subtext": ""
           }
         }
       },
       "block_order": [
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1",
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2"
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2",
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1"
       ],
       "settings": {
         "mc_title": "",
@@ -192,9 +194,9 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/quilt_marwari_horse_flowerfactory_1000x1500_1f357871-2ae0-4f9f-8cb6-f7ea2f9b27e3.jpg",
+            "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_Lighting_and_soft_furnishings_2.jpg",
             "auto_height": "none",
-            "cover": false,
+            "cover": true,
             "no_hover": false,
             "title": "",
             "subtitle": "",
@@ -204,8 +206,8 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Shop",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_label": "Accessories",
+            "button_link": "shopify:\/\/collections\/soft-furnishing-lighting",
             "subtext": ""
           }
         },
