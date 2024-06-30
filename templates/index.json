@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
@@ -40,9 +49,9 @@
     "featured_collection_iHExrA": {
       "type": "featured-collection",
       "settings": {
-        "title": "Just Landed",
-        "collection": "clothing",
-        "products_to_show": 8,
+        "title": "Just landed....Exquisite new stitching",
+        "collection": "new-embroidery-collection",
+        "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": true
       }
