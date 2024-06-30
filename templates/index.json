@@ -15,8 +15,8 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "SHOP NEW SUMMER TABLEWARE",
-            "button_link_1": "shopify:\/\/collections\/tablescaping",
+            "button_label_1": "SHOP NEW WALL HANGINGS AND CUSHIONS",
+            "button_link_1": "shopify:\/\/collections\/stationery-trays",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -28,7 +28,7 @@
         "template--14235423539258__2afc6efc-ab07-464f-9e9b-d48a9fd1f178-1678352505e05fdb7e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TABLELINEN_INDIANSUMMER_FIELD_CENDULA_1800x1000_0569705d-4963-4d04-89f2-6748f90c3e92.jpg",
+        "image": "shopify:\/\/shop_images\/embroidery2.jpg",
         "letterbox": false,
         "mobile_image": "shopify:\/\/shop_images\/Screenshot_2024-06-15_at_11.55.42.png",
         "make_logo_white": false,
