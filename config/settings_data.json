@@ -1,5 +1,17 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
+    "black": "#7908cf",
+    "red": "#ff00ce",
+    "green": "#02b72e",
     "discount_threshold": "gift-discount-threshold",
     "enable_pouch": false,
     "colors_solid_button_labels": "#FFFFFF",
