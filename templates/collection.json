@@ -12,7 +12,7 @@
         "products_per_page": 48,
         "show_rating": false,
         "enable_filtering": true,
-        "enable_sorting": false,
+        "enable_sorting": true,
         "show_prices": true
       }
     }
