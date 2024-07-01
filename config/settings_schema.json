@@ -41,7 +41,7 @@
       {
         "id": "yellow",
         "type": "color",
-        "default": "#E1AF53";
+        "default": "#E1AF53",
         "label": "Default Yellow"
       },
       {
