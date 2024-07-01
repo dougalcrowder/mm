@@ -59,7 +59,26 @@
     {% endif %}
 
     {% render 'meta-tags' %}
-
+    
+    <style>
+      :root {
+        --color-white: {{ settings.white }};
+        --color-dark: {{ settings.black }};
+        --color-red: {{ settings.red }};
+        --color-red-rgb: {{ settings.red | color_extract: 'red' }},{{ settings.red | color_extract: 'green' }},{{ settings.red | color_extract: 'blue' }};
+        --color-blue: {{ settings.blue }};
+        --color-blue-rgb: {{ settings.blue | color_extract: 'red' }},{{ settings.blue | color_extract: 'green' }},{{ settings.blue | color_extract: 'blue' }};
+        --color-yellow: {{ settings.yellow }};
+        --color-yellow-rgb: {{ settings.yellow | color_extract: 'red' }},{{ settings.yellow | color_extract: 'green' }},{{ settings.yellow | color_extract: 'blue' }};
+        --color-pink: {{ settings.pink }};
+        --color-pink-rgb: {{ settings.pink | color_extract: 'red' }},{{ settings.pink | color_extract: 'green' }},{{ settings.pink | color_extract: 'blue' }};
+        --color-lightpink: {{ settings.lightpink }};
+        --color-lightpink-rgb: {{ settings.lightpink | color_extract: 'red' }},{{ settings.lightpink | color_extract: 'green' }},{{ settings.lightpink | color_extract: 'blue' }};
+        --color-green: {{ settings.green }};
+        --color-green-rgb: {{ settings.green | color_extract: 'red' }},{{ settings.green | color_extract: 'green' }},{{ settings.green | color_extract: 'blue' }};
+      }
+    </style>
+    
     <link href="https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@0;1&family=Spartan:wght@400;600;700;800&display=swap" rel="stylesheet">
     
     {% comment %}
