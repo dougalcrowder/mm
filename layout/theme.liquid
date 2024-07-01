@@ -60,6 +60,16 @@
 
     {% render 'meta-tags' %}
     
+    <link href="https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@0;1&family=Spartan:wght@400;600;700;800&display=swap" rel="stylesheet">
+    
+    {% comment %}
+    <script src="{{ 'main.js' | asset_url }}" defer="defer"></script>
+    {% endcomment %}
+    <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
+    {{ content_for_header }}
+    <link rel="preload" href="{{ 'header.css' | asset_url }}" as="style">
+    {{ 'header.css' | asset_url | stylesheet_tag }}
+    
     <style>
       :root {
         --color-white: {{ settings.white }};
@@ -76,67 +86,6 @@
         --color-lightpink-rgb: {{ settings.lightpink | color_extract: 'red' }},{{ settings.lightpink | color_extract: 'green' }},{{ settings.lightpink | color_extract: 'blue' }};
         --color-green: {{ settings.green }};
         --color-green-rgb: {{ settings.green | color_extract: 'red' }},{{ settings.green | color_extract: 'green' }},{{ settings.green | color_extract: 'blue' }};
-      }
-    </style>
-    
-    <link href="https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@0;1&family=Spartan:wght@400;600;700;800&display=swap" rel="stylesheet">
-    
-    {% comment %}
-    <script src="{{ 'main.js' | asset_url }}" defer="defer"></script>
-    {% endcomment %}
-    <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
-    {{ content_for_header }}
-    <link rel="preload" href="{{ 'header.css' | asset_url }}" as="style">
-    {{ 'header.css' | asset_url | stylesheet_tag }}
-    
-    <style>
-      :root {
-        --color-base-text: #000000; 
-        --color-base-solid-button-labels: #CA1E2A;
-        --color-base-outline-button-labels: #CA1E2A;
-        --color-base-accent-1: #CA1E2A;
-        --color-base-accent-2: #CA1E2A;
-      
-        --color-white: #fff;
-        --color-dark: #000000;
-        --color-red: #CA1E2A;
-        --color-red-rgb: 202,30,42;
-        --color-blue: #034975;
-        --color-blue-rgb: 3,73,117;
-        --color-yellow: #E1AF53;
-        --color-yellow-rgb: 225,175,83;
-        --color-pink: #FD717B;
-        --color-pink-rgb: 253,113,123;
-        --color-lightpink: #FFC7CA;
-        --color-lightpink-rgb: 255,199,202;
-        --color-green: #8DC687;
-        //--color-green: #600001;
-        --color-plum: #600001;
-       --color-green-rgb: 141,198,135;
-      //--color-green-rgb: 96,0,1;
-        
-        --color-logo: var(--color-white);
-        --color-background: 255,255,255;
-        --color-foreground: #000000;
-        --color-link: #ca1e2a;
-        --color-nav: var(--color-white);
-        //--color-nav-hover:   #d3f9cf;
-        --color-nav-hover:   #f9dada;
-        --color-nav-background: var(--color-green);
-        --color-nav-foreground:  var(--color-white);
-        --color-burger: var(--color-nav-foreground);
-        //--color-nav-border: #83bc7d;
-        --color-nav-border: var(--color-green);
-        
-        //shades of grey
-        --color-shade-dark: #BEB3A2;
-        --color-shade: #DDD7CF;
-        --color-shade-light: #EBE7E3;
-        
-        //Dawn stuff... not really used
-        --color-base-background-1: var(--color-white);
-        --color-base-background-2: var(--color-shade);
-
       }
     </style>
     
