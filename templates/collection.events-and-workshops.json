@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "4303a565-ec1b-4b2c-ab2e-2746766f44f2": {
@@ -76,7 +85,7 @@
         "text": "<p>Make a day of it and come and join Molly at one of her fun and immersive workshops.  Also watch this space for upcoming talks and events with Molly.<br\/><em>\"We need to make time to be creative. It feeds and nourishes the soul.”<\/em>Molly Mahon<\/p>",
         "vertical_alignment": "center",
         "alignment": "center",
-        "color_scheme": "red_text"
+        "color_scheme": "dark_text"
       }
     },
     "image_banner_TNEr8y": {
