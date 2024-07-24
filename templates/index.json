@@ -145,9 +145,9 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/molly-mahon-wallpaper-bindi-blue-1000x1500.jpg",
+            "image": "shopify:\/\/shop_images\/FERNMUSTARDKEANE.jpg",
             "auto_height": "none",
-            "cover": false,
+            "cover": true,
             "no_hover": false,
             "title": "",
             "subtitle": "",
