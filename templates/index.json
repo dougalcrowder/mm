@@ -12,9 +12,9 @@
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-06-15_at_11.55.42.png",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/bloom_india_fabrics_1300x1300_9c280014-7730-494b-822d-4703473ec6a6.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Screenshot_2024-06-15_at_11.55.42.png",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
@@ -70,13 +70,6 @@
     "image_banner_jCftPp": {
       "type": "image-banner",
       "blocks": {
-        "heading_7ynqDA": {
-          "type": "heading",
-          "settings": {
-            "heading": "Meri Meri x Molly Mahon",
-            "heading_type": "header2"
-          }
-        },
         "buttons_tg6Jb4": {
           "type": "buttons",
           "settings": {
@@ -90,14 +83,12 @@
         }
       },
       "block_order": [
-        "heading_7ynqDA",
         "buttons_tg6Jb4"
       ],
       "custom_css": [
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/New-Website-Banner-2.jpg",
         "letterbox": true,
         "mobile_image": "shopify:\/\/shop_images\/08ED2653-F628-48B0-A035-4CB4819E3D1D_1_105_c.jpg",
         "make_logo_white": false,
