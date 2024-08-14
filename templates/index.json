@@ -24,11 +24,11 @@
         "heading_aeig97"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2024-06-15_at_11.55.42.png",
+        "image": "shopify:\/\/shop_images\/Molly_Mahon_Summer_Dining_6f7e5f82-60d4-42f5-b447-c2628285be8b.png",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/Screenshot_2024-06-15_at_11.55.42.png",
+        "mobile_image": "shopify:\/\/shop_images\/Molly_Mahon_Summer_Dining.png",
         "make_logo_white": false,
-        "top_margin": true,
+        "top_margin": false,
         "constrain": false,
         "desktop_text_box_position": "end",
         "desktop_text_box_position_horizontal": "end",
