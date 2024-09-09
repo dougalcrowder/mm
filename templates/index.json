@@ -236,6 +236,16 @@
         "hover_text": false
       }
     },
+    "featured_collection_TccwQf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Delicious New Trims",
+        "collection": "trims",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
     "multicolumn_GwyiEH": {
       "type": "multicolumn",
       "blocks": {
@@ -300,7 +310,7 @@
     "featured_collection_iHExrA": {
       "type": "featured-collection",
       "settings": {
-        "title": "Cushions",
+        "title": "Next Level Cushions",
         "collection": "new-cushions",
         "products_to_show": 12,
         "show_view_all": false,
@@ -619,6 +629,7 @@
     "image_banner_jCftPp",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "image_banner_FnjGNt",
+    "featured_collection_TccwQf",
     "multicolumn_GwyiEH",
     "featured_collection_iHExrA",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
