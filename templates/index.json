@@ -301,7 +301,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Cushions & Trims",
-        "collection": "tablescaping",
+        "collection": "new-cushions",
         "products_to_show": 12,
         "show_view_all": false,
         "show_secondary_image": true
