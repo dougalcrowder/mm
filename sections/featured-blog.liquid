@@ -3,26 +3,27 @@
 {%- if section.settings.post_limit > section.settings.blog.articles_count -%}
   {% assign articleNumber = section.settings.blog.articles_count %}
 {%- endif -%}
-
+<div class="text">
+  {%- if section.settings.heading != blank -%}
+  <h2>{{ section.settings.heading | escape }}</h2>
+  {%- endif -%}
+  
+  <div class="rte">
+  {{ section.settings.introduction }}
+  
+  {%- if section.settings.button_label != blank -%}
+  <a href="{{ section.settings.blog.url }}" class="button dark"> 
+    {{ section.settings.button_label }}
+  </a>
+  {%- endif -%}
+  
+  </div>
+  
+</div>
 <div class="featured_blog scroller-outer custom_scroll">
+
   <div class="scroller-inner flex amount-{{ articleNumber }}">
-    <div class="text card main_card">
-      {%- if section.settings.heading != blank -%}
-      <h2>{{ section.settings.heading | escape }}</h2>
-      {%- endif -%}
-      
-      <div class="rte">
-      {{ section.settings.introduction }}
-      
-      {%- if section.settings.button_label != blank -%}
-      <a href="{{ section.settings.blog.url }}" class="button dark"> 
-        {{ section.settings.button_label }}
-      </a>
-      {%- endif -%}
-      
-      </div>
-      
-    </div>
+    
     {%- if section.settings.blog != blank and section.settings.blog.articles_count > 0 -%}
     
       {%- for article in section.settings.blog.articles limit: section.settings.post_limit -%}

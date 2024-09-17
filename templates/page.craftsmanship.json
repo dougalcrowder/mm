@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -20,7 +29,8 @@
           "type": "text",
           "settings": {
             "text": "",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "164977373582025f2d-2": {
@@ -42,14 +52,20 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MM_BLOCKPRINTING_INDIA.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "1662133469ec9a1c3f": {
@@ -61,8 +77,11 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Craftsmanship",
+        "heading_size": "medium",
         "text": "<p><em>‘The quality of design and work shown in something made by hand; artistry.’<\/em><\/p><p>The craftmanship of a block printed piece goes much further than just the exquisite print we see before our eyes.  There is a process at works that runs through many hands.  Block printing is a team effort.  From the original hand drawn pattern a block carver is then employed to delicately replicate the design in to wood; the printing tool.  A colour master or perhaps a master of colour is then brought in to realise and mix the palette of colours in Molly’s mind. <em>Molly curates her colours mentally and then finds real live swatches; paint on paper, pieces of wool, pantone charts and more to translate these in person.<\/em><\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "165788432850e37d07": {
@@ -74,6 +93,9 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/MM_INDIA_BLOCK_CARVER.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -93,6 +115,9 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/MASTEROFCOLOUR_BOOKMARK_PINK_LIFE_1300x1300_c92a8039-6e6f-43af-8134-b26179923e76.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -114,7 +139,10 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1657554766c55377b3": {
@@ -126,6 +154,9 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -145,6 +176,9 @@
             "width": "half",
             "narrow": false,
             "image": "shopify:\/\/shop_images\/BLOCKPRINTTABLE_ROSE_BLUE_LIFE_1300x1300_2f01cc32-fe25-41cd-8700-6e078565781c.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -166,23 +200,32 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1657884730d012c5eb": {
       "type": "single-title_and_text",
       "settings": {
         "title": "",
+        "heading_size": "medium",
         "text": "<p>Happening alongside this is the growing of the cotton or flax and the weaving down in the South of India for we need something upon which to carry the print.  This cloth is in turn pinned meticulously to 25m print tables and we are ready to print.<\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1657199219affcebfd": {
       "type": "single-title_and_text",
       "settings": {
         "title": "",
+        "heading_size": "medium",
         "text": "<p>By working with artisans, production is small and we have a personal understanding on how each of our products are being produced. <\/p><p><strong>Printing and making in India: <\/strong><\/p><p>We are proud to be involved in key decisions with working with our producers who are making similar shifts in their approach to the waste and pollution that is made.  We are also very conscious of the cultures we cross and the people we employee which is reflected by paying above the average price as we feel we are paying a fair and reflective price.<\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1649421151e2286ae0": {
@@ -199,7 +242,8 @@
           "type": "text",
           "settings": {
             "text": "\"We design to enrich our lives for the home by merging our British sensibility and love for bold aesthetics.\"",
-            "go_serif": true
+            "go_serif": true,
+            "constrain_text": false
           }
         },
         "1649421151dae3f553-2": {
@@ -221,14 +265,20 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/269611342_313979097124189_10294121352655617_n.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "165720007696eef0eb": {
@@ -236,8 +286,11 @@
       "disabled": true,
       "settings": {
         "title": "Creativity & Craftsmamship",
+        "heading_size": "medium",
         "text": "<p>The heart and soul of what we do is founded on creativity.<\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "red_text"
       }
     },
     "1657200203628ef58f": {
@@ -252,8 +305,11 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "",
+        "heading_size": "medium",
         "text": "<p><strong>UK industry:<\/strong><\/p><p>We are the biggest fans of our producers here in the UK.  Where there are no highly skilled block printers like our Indian craftsman, we locally source first to help us make our products.  UK industry is highly skilled and we use like minded producers in many varying industries.<\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1657200715d6671ac0": {
@@ -270,8 +326,11 @@
       "disabled": true,
       "settings": {
         "title": "",
+        "heading_size": "medium",
         "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "red_text"
       }
     },
     "16494230664438bb0a": {
@@ -286,7 +345,8 @@
         "1649423066017d47e1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.<\/p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.<br\/> <\/p>"
+            "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.<\/p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.<br\/> <\/p>",
+            "code": ""
           }
         },
         "1649423066017d47e1-2": {
