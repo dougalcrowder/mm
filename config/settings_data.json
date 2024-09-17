@@ -9,9 +9,9 @@
 */
 {
   "current": {
-    "black": "#7908cf",
-    "red": "#ff00ce",
-    "green": "#02b72e",
+    "black": "#000000",
+    "red": "#ca1e2a",
+    "green": "#8dc687",
     "discount_threshold": "gift-discount-threshold",
     "enable_pouch": false,
     "colors_solid_button_labels": "#FFFFFF",
