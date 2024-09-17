@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "166213453935b473b3": {
@@ -9,8 +18,11 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "About Us",
+        "heading_size": "medium",
         "text": "<p>We are a family run business that have a particular passion for creating warm, enticing, comfortable and welcoming homes.  We also have a particular passion for pattern, colour and good craftmanship.<\/p><p>Based in Sussex in the heart of the Ashdown Forest, UK we start with hand drawn designs that in turn become beautiful wooden blocks, our printing tools for the plethora of fabrics, wallpapers and homewares we create.<\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "main": {
@@ -44,7 +56,8 @@
           "type": "text",
           "settings": {
             "text": "",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         }
       },
@@ -55,22 +68,31 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "1657199219affcebfd": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Making Home",
+        "heading_size": "medium",
         "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.<\/p><p><strong>Why is home so important to us?<\/strong> <\/p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.<\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1657534986eb08901e": {
@@ -87,7 +109,8 @@
           "type": "text",
           "settings": {
             "text": "",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "16575349860982ab1b-2": {
@@ -109,31 +132,43 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
+        "letterbox": false,
         "mobile_image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_MOBILE_1300x1300_243b2461-51ef-41f9-8a6e-75317dd70895.jpg",
         "make_logo_white": false,
         "top_margin": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "16575248265ae56784": {
       "type": "single-title_and_text",
       "settings": {
         "title": "",
+        "heading_size": "medium",
         "text": "<p><em>\"I never tire of lifting the block and seeing the impression that has been left, the slight movement that you get from a hand print is what I enthusiastically call ‘perfect imperfections.\"<\/em><\/p><p>There is something special about block printing that has stood the test of time.  To me it brings the fabric alive and this is exactly what it does to our homes.<\/p><p>I am a British printmaker who started at my kitchen table and now runs a design studio which distributes our designs globally.  Having partnered with Christies, Firmdale Hotels, Cabbages & Roses and more recently Boden amongst others we understand the power of pretty print and we aim to offer the most modern and fresh prints and colours amongst our community.  With all our designs being designed in house we can offer originality and a very bespoke signature with Molly overseeing all elements of design.<\/p><p>Molly runs her business with her husband Rollo and their children and their dog Bramble who are all very much involved.<\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1649796058b0df534e": {
       "type": "single-title_and_text",
       "settings": {
         "title": "",
+        "heading_size": "medium",
         "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "16578945700c2c5ca5": {
@@ -150,7 +185,8 @@
           "type": "text",
           "settings": {
             "text": "",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "165789457062446127-2": {
@@ -172,22 +208,31 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/BLOCKPRINTING_RASA_POLKADOT_1800X900_da959bee-9f3a-422f-864b-45df94b4aeb4.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "165720007696eef0eb": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Craftsmanship",
+        "heading_size": "medium",
         "text": "<p>‘The quality of design and work shown in something made by hand; artistry.'<\/p><p>We get to meet craftsman all over the world and champion our area of expertise in block printing.  When sourcing the people we want to align and work with, we take into consideration the quality they bring in their craftsmanship and that they have a similar love of producing products that will stand the test of time.<\/p><p>From hand block printing our fabrics to surface printing our wallpaper we use an array of techniques to bring unique product to you.<\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1657200203628ef58f": {
@@ -212,7 +257,8 @@
           "type": "text",
           "settings": {
             "text": "\"We design to enrich our lives for the home by merging our British sensibility and love for bold aesthetics.\"",
-            "go_serif": true
+            "go_serif": true,
+            "constrain_text": false
           }
         },
         "1649421151dae3f553-2": {
@@ -234,22 +280,31 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MOLLY_BLOCKPRINTING_BODEN.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "dark_text"
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "16572005737a4e951b": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Creativity",
+        "heading_size": "medium",
         "text": "<p>The heart and soul of what we do is founded on creativity.<\/p><p>Creative acts are very inclusive, they create camaraderie, spark the imagination, allow us to realise our capabilities as humans.  If we create we can experience pride, delight and the feeling of being physical.  <\/p><p><em>\"My studio is my special space; while it bustles and hums with books, paint, blocks, scrapbooks, paper and a plethora of artists tools its also a place of calm, free of technology, a private and personal space where I can be completely ‘me’.\" Molly Mahon<\/em><\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1657200715d6671ac0": {
@@ -265,8 +320,11 @@
       "disabled": true,
       "settings": {
         "title": "Giving Back",
+        "heading_size": "medium",
         "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.<\/p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.<\/p>",
-        "alignment": "center"
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "red_text"
       }
     }
   },
