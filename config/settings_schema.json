@@ -18,61 +18,71 @@
         "type": "color",
         "id": "white",
         "default": "#FFFFFF",
-        "label": "Default white"
+        "label": "Default white",
+        "info": "FFFFFF"
       },
       {
         "type": "color",
         "id": "black",
         "default": "#000000",
-        "label": "Default Black"
+        "label": "Default Black",
+        "info": "000000"
       },
       {
         "id": "red",
         "type": "color",
         "default": "#CA1E2A",
-        "label": "Default Red"
+        "label": "Default Red",
+        "info": "CA1E2A"
       },
       {
         "type": "color",
         "id": "blue",
         "default": "#034975",
-        "label": "Default Blue"
+        "label": "Default Blue",
+        "info": "034975"
       },
       {
         "id": "yellow",
         "type": "color",
         "default": "#E1AF53",
-        "label": "Default Yellow"
+        "label": "Default Yellow",
+        "info": "E1AF53"
       },
       {
         "type": "color",
         "id": "pink",
         "default": "#FD717B",
-        "label": "Default Pink"
+        "label": "Default Pink",
+        "info": "FD717B"
       },
       {
         "type": "color",
         "id": "lightpink",
         "default": "#FFC7CA",
-        "label": "Default Light Pink"
+        "label": "Default Light Pink",
+        "info": "FFC7CA"
       },
       {
         "type": "color",
         "id": "green",
         "default": "#8DC687",
-        "label": "Default Green"
+        "label": "Default Green",
+        "info": "8DC687"
       },
       {
         "type": "color",
         "id": "colors_background",
         "default": "#FFFFFF",
-        "label": "Background"
+        "label": "Background",
+        "info": "FFFFFF"
       },
       {
         "type": "color",
         "id": "colors_foreground",
         "default": "#000000",
-        "label": "Foreground"
+        "label": "Foreground",
+        "info": "000000"
       }
     ]
   },
