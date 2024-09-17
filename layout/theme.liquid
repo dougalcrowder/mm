@@ -234,7 +234,7 @@
 
   
       <script type="module">
-        
+        {% comment %}
         function cartListen() {
           fetch('/cart.js')
           .then(response => response.json())
@@ -271,11 +271,14 @@
             //   document.body.classList.remove("paid");
             // }
             
+            
           })
         }
         
         cartListen();
-      
+        
+        {% endcomment %}
+        
         import { subscribeToCartAjaxRequests, subscribeToCartStateUpdate, cartRequestAdd, cartRequestChange, } from '{{ "liquid-ajax-cart-v1.10.3.js" | asset_url }}';
         
         subscribeToCartAjaxRequests(( requestState, subscribeToResult ) => {
