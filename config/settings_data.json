@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "discount_threshold": "gift-discount-threshold",
@@ -542,12 +551,14 @@
         "blocks": {
           "f439469d-22df-41e6-bd6e-0a4bbfb7c051": {
             "type": "notice",
+            "disabled": true,
             "settings": {
               "title": "<p>Spend over £40 Get a Free Pouch<\/p>"
             }
           },
           "7904f93a-34bc-4fe4-b201-3c6863cab0af": {
             "type": "notice",
+            "disabled": true,
             "settings": {
               "title": "<p>Get 50% off using code WAZAWAZ50<\/p>"
             }
