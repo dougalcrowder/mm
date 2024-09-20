@@ -27,7 +27,7 @@
         {% include 'icon-sample' %}
         <span class="sample_button_text">
           {%- if sample.selected_or_first_available_variant.available -%}
-            Order Sample
+            Order Sample <br>{{ sample.price | money }}
           {%- else -%}
             Samples unavailable
           {%- endif -%}
@@ -72,7 +72,7 @@
           {% include 'icon-sample' %}
           <span class="sample_button_text">
               {%- if sample.selected_or_first_available_variant.available -%}
-                Order Sample
+                Order Sample <br>{{ sample.price | money }}
               {%- else -%}
                 Samples unavailable
               {%- endif -%}
@@ -126,7 +126,7 @@
       {% include 'icon-sample' %}
       <span class="sample_button_text">
         {%- if sample.selected_or_first_available_variant.available -%}
-          Order Sample
+          Order Sample <br>{{ sample.price | money }}
         {%- else -%}
           Samples unavailable
         {%- endif -%}
@@ -173,7 +173,7 @@
         {% include 'icon-sample' %}
         <span class="sample_button_text">
             {%- if sample.selected_or_first_available_variant.available -%}
-              Order Sample
+              Order Sample <br>{{ sample.price | money }}
             {%- else -%}
               Samples unavailable
             {%- endif -%}

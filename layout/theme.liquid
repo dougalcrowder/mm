@@ -234,7 +234,7 @@
 
   
       <script type="module">
-        
+        {% comment %}
         function cartListen() {
           fetch('/cart.js')
           .then(response => response.json())
@@ -261,21 +261,24 @@
               }
             });
             
-            if(freeSamples > 4 ) {
-              console.log("No more freebies for you");
-              document.body.classList.add("paid");
-              document.body.classList.remove("free");
-            } else {
-              console.log("Ok, as you were");
-              document.body.classList.add("free");
-              document.body.classList.remove("paid");
-            }
+            // if(freeSamples > 0 ) {
+            //   console.log("No more freebies for you");
+            //   document.body.classList.add("paid");
+            //   document.body.classList.remove("free");
+            // } else {
+            //   console.log("Ok, as you were");
+            //   document.body.classList.add("free");
+            //   document.body.classList.remove("paid");
+            // }
+            
             
           })
         }
         
         cartListen();
-      
+        
+        {% endcomment %}
+        
         import { subscribeToCartAjaxRequests, subscribeToCartStateUpdate, cartRequestAdd, cartRequestChange, } from '{{ "liquid-ajax-cart-v1.10.3.js" | asset_url }}';
         
         subscribeToCartAjaxRequests(( requestState, subscribeToResult ) => {
@@ -289,7 +292,7 @@
               // If the request is successful 
               if ( requestState.responseData?.ok ) {
               
-              cartListen();
+              //cartListen();
               
               let sideCart= document.getElementById('sidecart');
               
