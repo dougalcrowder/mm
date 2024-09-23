@@ -25,9 +25,9 @@
         "heading_aeig97"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Molly_Mahon_Tapes_Looms_Plains_Cushions_Sofa_Sitting_Room_Country_Home_2489x1400_0dcaee5e-c327-4219-a93d-5502e157f9c0.jpg",
+        "image": "shopify://shop_images/Molly_Mahon_Tapes_Looms_Plains_Cushions_Sofa_Sitting_Room_Country_Home_2489x1400_0dcaee5e-c327-4219-a93d-5502e157f9c0.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/Molly_Mahon_Plains_Trims_Looms_Cushions_Sofa_Coutry_Home_1300x1300_2.jpg",
+        "mobile_image": "shopify://shop_images/Molly_Mahon_Plains_Trims_Looms_Cushions_Sofa_Coutry_Home_1300x1300_2.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
@@ -66,7 +66,7 @@
       ],
       "settings": {
         "letterbox": true,
-        "mobile_image": "shopify:\/\/shop_images\/08ED2653-F628-48B0-A035-4CB4819E3D1D_1_105_c.jpg",
+        "mobile_image": "shopify://shop_images/08ED2653-F628-48B0-A035-4CB4819E3D1D_1_105_c.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": true,
@@ -90,7 +90,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_15_3000x4000_265f5d79-1423-4c4e-ba7f-729612758804.jpg",
+            "image": "shopify://shop_images/Odds_N_Sods_Flyer_2.jpg",
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
@@ -103,7 +103,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Fabric",
-            "button_link": "shopify:\/\/collections\/fabric",
+            "button_link": "shopify://collections/fabric",
             "subtext": ""
           }
         },
@@ -112,7 +112,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/Molly_Mahon_Wallpaper_Marwari_Horse_Country_Home_Bootroom_1300x1950_82508f89-7aa4-4980-8c50-e21273296a78.jpg",
+            "image": "shopify://shop_images/Molly_Mahon_Wallpaper_Marwari_Horse_Country_Home_Bootroom_1300x1950_82508f89-7aa4-4980-8c50-e21273296a78.jpg",
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
@@ -125,7 +125,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Wallpapers",
-            "button_link": "shopify:\/\/collections\/wallpaper",
+            "button_link": "shopify://collections/wallpaper",
             "subtext": ""
           }
         }
@@ -181,9 +181,9 @@
         "buttons_4TM6gc"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MollyMahon_Lampshade_Cotton_Turmerik_Curtain_PoppyStripeTrim_BlueYellow_3.jpg",
+        "image": "shopify://shop_images/MollyMahon_Lampshade_Cotton_Turmerik_Curtain_PoppyStripeTrim_BlueYellow_3.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/MollyMahon_Lampshade_Cotton_Turmerik_Curtain_PoppyStripeTrim_BlueYellow_1.jpg",
+        "mobile_image": "shopify://shop_images/MollyMahon_Lampshade_Cotton_Turmerik_Curtain_PoppyStripeTrim_BlueYellow_1.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": true,
@@ -254,7 +254,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_cushion_odisha_tablecloth_dinningroom_1000x1333_35d23c33-519a-44b5-b16b-8da5219dd2b9.jpg",
+            "image": "shopify://shop_images/mollymahon_cushion_odisha_tablecloth_dinningroom_1000x1333_35d23c33-519a-44b5-b16b-8da5219dd2b9.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -267,7 +267,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "New Cushions",
-            "button_link": "shopify:\/\/collections\/new-cushions",
+            "button_link": "shopify://collections/new-cushions",
             "subtext": ""
           }
         },
@@ -276,7 +276,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_12.jpg",
+            "image": "shopify://shop_images/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_12.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -289,7 +289,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "New Trims",
-            "button_link": "shopify:\/\/collections\/trims",
+            "button_link": "shopify://collections/trims",
             "subtext": ""
           }
         }
@@ -315,14 +315,14 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MollyMahon_Lampshade_Cotton_Turmerik_Curtain_PoppyStripeTrim_BlueYellow_1.jpg",
+            "image": "shopify://shop_images/MollyMahon_Lampshade_Cotton_Turmerik_Curtain_PoppyStripeTrim_BlueYellow_1.jpg",
             "auto_height": "portrait",
             "cover": false,
             "no_hover": false,
             "title": "Column",
             "subtitle": "Under the stars in style",
             "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -343,7 +343,7 @@
             "title": "Column",
             "subtitle": "Under the stars in style",
             "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -402,7 +402,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Hand Block Printed Fabric",
-            "button_link_1": "shopify:\/\/collections\/hand-block-printed-fabric",
+            "button_link_1": "shopify://collections/hand-block-printed-fabric",
             "button_style_secondary_1": false,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -416,7 +416,7 @@
         "buttons_3JecL6"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mollymahon_fabric_mughal_curtains_kitchen_laundry_room_1203x902_a80ad969-a24f-4ad8-98ee-f4bc1f0f66ec.jpg",
+        "image": "shopify://shop_images/mollymahon_fabric_mughal_curtains_kitchen_laundry_room_1203x902_a80ad969-a24f-4ad8-98ee-f4bc1f0f66ec.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -441,7 +441,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_widestripe_1300x1300_2e319006-7848-414d-9711-4cf96a9356c0.png",
+            "image": "shopify://shop_images/mollymahon_bathroom_spot_star_widestripe_1300x1300_2e319006-7848-414d-9711-4cf96a9356c0.png",
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
@@ -454,7 +454,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Inspiration",
-            "button_link": "shopify:\/\/blogs\/look-books",
+            "button_link": "shopify://blogs/look-books",
             "subtext": ""
           }
         },
@@ -463,7 +463,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/molly-mahon-cushion-dianthus-iron-indigo-1300x1300.jpg",
+            "image": "shopify://shop_images/molly-mahon-cushion-dianthus-iron-indigo-1300x1300.jpg",
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
@@ -476,7 +476,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Shop",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "subtext": ""
           }
         },
@@ -485,7 +485,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GREENCOMBE_ATTIC_BEDROOM_MOBILE.jpg",
+            "image": "shopify://shop_images/GREENCOMBE_ATTIC_BEDROOM_MOBILE.jpg",
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
@@ -498,7 +498,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Order Samples",
-            "button_link": "shopify:\/\/collections\/fabric-wallpaper-samples",
+            "button_link": "shopify://collections/fabric-wallpaper-samples",
             "subtext": ""
           }
         }
@@ -521,7 +521,7 @@
       "type": "simple_quote",
       "disabled": true,
       "settings": {
-        "quote": "<p>Workshops & Supply Store<\/p>",
+        "quote": "<p>Workshops & Supply Store</p>",
         "cite": "Budding Block Printer?  Get creative with our eco supplies and fun workshops",
         "bg": "green",
         "heading_size": "medium",
@@ -570,7 +570,7 @@
         "buttons_cFTjcc"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
+        "image": "shopify://shop_images/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
         "letterbox": true,
         "make_logo_white": false,
         "top_margin": false,
@@ -595,7 +595,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP3_1300x1300_7f0d925c-b96a-4193-9e90-cbca5f856f5d.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP3_1300x1300_7f0d925c-b96a-4193-9e90-cbca5f856f5d.jpg",
             "auto_height": "square",
             "cover": false,
             "no_hover": true,
@@ -608,7 +608,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Find out more",
-            "button_link": "shopify:\/\/pages\/workshops-and-events",
+            "button_link": "shopify://pages/workshops-and-events",
             "subtext": ""
           }
         },
@@ -617,7 +617,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
+            "image": "shopify://shop_images/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
             "auto_height": "square",
             "cover": false,
             "no_hover": true,
@@ -630,7 +630,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Shop Supplies",
-            "button_link": "shopify:\/\/collections\/supply-store",
+            "button_link": "shopify://collections/supply-store",
             "subtext": ""
           }
         }
@@ -652,7 +652,7 @@
       "type": "featured-blog",
       "settings": {
         "heading": "Discover more..",
-        "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.<\/p>",
+        "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.</p>",
         "button_label": "See all Articles",
         "blog": "journal",
         "post_limit": 5
@@ -667,7 +667,7 @@
           "settings": {
             "button_label_1": "Discover Bloom",
             "button_modal_1": "",
-            "button_link_1": "shopify:\/\/collections\/bloom-fabric",
+            "button_link_1": "shopify://collections/bloom-fabric",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_modal_2": "",
@@ -685,8 +685,8 @@
         "autoloop": true,
         "mute_video": true,
         "show_controls": true,
-        "html5_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ed1c5b2bc56b442a8e08a590809ed423.mp4",
-        "image": "shopify:\/\/shop_images\/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
+        "html5_video": "https://cdn.shopify.com/videos/c/o/v/ed1c5b2bc56b442a8e08a590809ed423.mp4",
+        "image": "shopify://shop_images/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
         "desktop_text_box_position": "end",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -701,65 +701,65 @@
         "16348163341a2e5254-0": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/mollymahon_wallpaper_marwarihorse_blue_bedroom_1300x1300_90fbd0d4-aa0b-44bd-8d95-f97bd5bfaeff.jpg",
+            "insta_image": "shopify://shop_images/mollymahon_wallpaper_marwarihorse_blue_bedroom_1300x1300_90fbd0d4-aa0b-44bd-8d95-f97bd5bfaeff.jpg",
             "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+            "link": "https://www.instagram.com/mollymahonblockprinting"
           }
         },
         "e029c48d-6777-47fa-8c59-1eb07ea60a54": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/mollymahon_portrait_fabric_poppy_greencombe_1300x1300_7e59cec8-dfe5-4abc-a5d3-22365e75bd50.jpg",
+            "insta_image": "shopify://shop_images/mollymahon_portrait_fabric_poppy_greencombe_1300x1300_7e59cec8-dfe5-4abc-a5d3-22365e75bd50.jpg",
             "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+            "link": "https://www.instagram.com/mollymahonblockprinting"
           }
         },
         "fe6a17d5-0ffe-46d7-8c4e-e923c3a2ee32": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/fabric_forest_chair_keane_1300x1300_19b7053d-e8b2-458d-b39f-f3dd479e4b3d.jpg",
+            "insta_image": "shopify://shop_images/fabric_forest_chair_keane_1300x1300_19b7053d-e8b2-458d-b39f-f3dd479e4b3d.jpg",
             "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+            "link": "https://www.instagram.com/mollymahonblockprinting"
           }
         },
         "ab89f639-6764-4639-b1e4-d7b36eaa5147": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/mollymahon_wallpaper_lani_insta_1300x1300_7d11ed18-3e6f-49ae-b985-fd3256a28226.jpg",
+            "insta_image": "shopify://shop_images/mollymahon_wallpaper_lani_insta_1300x1300_7d11ed18-3e6f-49ae-b985-fd3256a28226.jpg",
             "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+            "link": "https://www.instagram.com/mollymahonblockprinting"
           }
         },
         "366ce4bd-d678-476b-b6ce-e1f69e984969": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/mollymahon_fabric_fern_curtain_moorland_1300x1300_455a56db-5bda-41c8-8900-091d674bd546.jpg",
+            "insta_image": "shopify://shop_images/mollymahon_fabric_fern_curtain_moorland_1300x1300_455a56db-5bda-41c8-8900-091d674bd546.jpg",
             "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+            "link": "https://www.instagram.com/mollymahonblockprinting"
           }
         },
         "9fd0fb9e-76fd-49db-a4dc-c17f50c6914d": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/mollymahon_lampshade_lampbase_seed_ceramic_bures_1300x1300_dee7657c-a620-49b9-a862-b02e8f000a4e.jpg",
+            "insta_image": "shopify://shop_images/mollymahon_lampshade_lampbase_seed_ceramic_bures_1300x1300_dee7657c-a620-49b9-a862-b02e8f000a4e.jpg",
             "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+            "link": "https://www.instagram.com/mollymahonblockprinting"
           }
         },
         "b3638c37-80b2-4963-9497-730c5a8367d7": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/mollymahon_clothing_kids_shirt_bag_beach_cuckmerehaven_1300x1300_5b634935-34c6-446b-84fa-eb2bfbca3ceb.jpg",
+            "insta_image": "shopify://shop_images/mollymahon_clothing_kids_shirt_bag_beach_cuckmerehaven_1300x1300_5b634935-34c6-446b-84fa-eb2bfbca3ceb.jpg",
             "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+            "link": "https://www.instagram.com/mollymahonblockprinting"
           }
         },
         "c5462cbc-a60b-4b23-b26e-1522064bd96b": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/mollymahon_curtain_clover_duckegg_bedroom_1300x1300_c6502423-fd6c-4b08-8b0e-7236981d5a64.jpg",
+            "insta_image": "shopify://shop_images/mollymahon_curtain_clover_duckegg_bedroom_1300x1300_c6502423-fd6c-4b08-8b0e-7236981d5a64.jpg",
             "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+            "link": "https://www.instagram.com/mollymahonblockprinting"
           }
         }
       },
@@ -777,7 +777,7 @@
         "title": "@mollymahonblockprinting",
         "subtitle": "",
         "button_label": "Follow Molly Mahon",
-        "button_link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+        "button_link": "https://www.instagram.com/mollymahonblockprinting"
       }
     },
     "main": {
