@@ -27,7 +27,6 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon_Christmas_2024_6_1_x1300_Bright.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/Molly_Mahon_Plains_Trims_Looms_Cushions_Sofa_Coutry_Home_1300x1300_2.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
@@ -184,7 +183,6 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon_Christmas_2024_DinnerTable_Tablecloth_Blue_Luna_Pink_5_x1300_Bright.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon_Lampshade_Cotton_Turmerik_Curtain_PoppyStripeTrim_BlueYellow_1.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": true,
