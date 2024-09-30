@@ -43,6 +43,49 @@
         "hover_text": false
       }
     },
+    "feature_slideshow_96eHwd": {
+      "type": "feature-slideshow",
+      "blocks": {
+        "image_NLKLfd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon_Christmas_2024_DinnerTable_Tablecloth_Blue_Luna_Pink_5_x1300_Bright.jpg",
+            "title": "White text caption",
+            "link": "shopify://products/printed-beach-bag-flower-pink",
+            "color_scheme": "white_text"
+          }
+        },
+        "image_F8TNWJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_11_1300x1300_505ad835-caf9-4da8-b526-2003316fdea3.jpg",
+            "mobile_image": "shopify://shop_images/molly-mahon-soap-rose-lifestyle2-1300x1300_d5fc9683-9789-4b7e-a165-11af0ab318e8.jpg",
+            "title": "With Mobile Image Red Text",
+            "link": "shopify://blogs/journal",
+            "color_scheme": "red_text"
+          }
+        },
+        "image_AH69Jw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon_Cushions_Multi_Trims_Plains_3_1300x1300_2a7e97c2-230d-479c-b41b-8f009e39a81a.jpg",
+            "title": "Blue letters, no link",
+            "link": "",
+            "color_scheme": "blue_text"
+          }
+        }
+      },
+      "block_order": [
+        "image_NLKLfd",
+        "image_F8TNWJ",
+        "image_AH69Jw"
+      ],
+      "settings": {
+        "background": "",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "feature_slides_wHcVFg": {
       "type": "feature-slides",
       "blocks": {
@@ -840,6 +883,7 @@
   },
   "order": [
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
+    "feature_slideshow_96eHwd",
     "feature_slides_wHcVFg",
     "image_banner_jCftPp",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
