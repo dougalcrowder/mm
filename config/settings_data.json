@@ -551,12 +551,14 @@
         "blocks": {
           "f439469d-22df-41e6-bd6e-0a4bbfb7c051": {
             "type": "notice",
+            "disabled": true,
             "settings": {
               "title": "<p>Spend over £40 Get a Free Pouch</p>"
             }
           },
           "7904f93a-34bc-4fe4-b201-3c6863cab0af": {
             "type": "notice",
+            "disabled": true,
             "settings": {
               "title": "<p>Get 50% off using code WAZAWAZ50</p>"
             }
@@ -601,6 +603,13 @@
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
+        }
+      },
+      "1530068250781986104": {
+        "type": "shopify://apps/fast-bundle/blocks/fast_bundle/9e87fbe2-9041-4c23-acf5-322413994cef",
+        "disabled": false,
+        "settings": {
+          "home": true
         }
       }
     }
