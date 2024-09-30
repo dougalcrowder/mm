@@ -86,50 +86,6 @@
         "margin_bot": "none"
       }
     },
-    "feature_slides_wHcVFg": {
-      "type": "feature-slides",
-      "blocks": {
-        "image_zCnkBe": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon_Christmas_2024_6_1_x1300_Bright_e125927a-7c81-40d0-a848-5c5645e8a716.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon_Christmas_2024_6_1_x1300_Bright.jpg",
-            "title": "Caption Here",
-            "link": "",
-            "color_scheme": "white_text"
-          }
-        },
-        "image_6HdDtz": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon_Cushions_Multi_Trims_Plains_Country_Home_Living_Room_1300x1300_58580846-f476-4fcb-898c-8bbafa802d3f.jpg",
-            "title": "Caption Here",
-            "link": "",
-            "color_scheme": "dark_text"
-          }
-        },
-        "image_KgweUL": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon_Cushion_Multi_Pink_Wallhanging_Penelope_Bedcurtain_Stars_LightIndigo_1300x1300_94d64d78-1c18-4188-84fc-b48ab55b5b64.jpg",
-            "title": "Caption Here",
-            "link": "",
-            "color_scheme": "red_text"
-          }
-        }
-      },
-      "block_order": [
-        "image_zCnkBe",
-        "image_6HdDtz",
-        "image_KgweUL"
-      ],
-      "settings": {
-        "background": "",
-        "margin_top": "m",
-        "margin_bot": "m",
-        "slides_title": ""
-      }
-    },
     "image_banner_jCftPp": {
       "type": "image-banner",
       "blocks": {
@@ -884,7 +840,6 @@
   "order": [
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "feature_slideshow_96eHwd",
-    "feature_slides_wHcVFg",
     "image_banner_jCftPp",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "image_banner_FnjGNt",
