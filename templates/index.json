@@ -82,8 +82,8 @@
       ],
       "settings": {
         "background": "",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     },
     "feature_slides_wHcVFg": {
