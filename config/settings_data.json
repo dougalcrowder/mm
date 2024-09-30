@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "discount_threshold": "gift-discount-threshold",
@@ -13,7 +22,7 @@
     "type_body_font": "assistant_n4",
     "sale_badge_color_scheme": "accent-2",
     "page_width": "1200",
-    "checkout_logo_image": "shopify:\/\/shop_images\/checkout_logo.png",
+    "checkout_logo_image": "shopify://shop_images/checkout_logo.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_sidebar_background_color": "#ffc7ca",
@@ -44,7 +53,7 @@
           "663b58be-d5a6-41a4-94f2-df9bb2435b16": {
             "type": "menu_images",
             "settings": {
-              "image": "shopify:\/\/shop_images\/RUG_CIRCLE_PINK_LIFE.jpg",
+              "image": "shopify://shop_images/RUG_CIRCLE_PINK_LIFE.jpg",
               "title": "",
               "subtitle": "",
               "link": "",
@@ -54,7 +63,7 @@
           "24e27814-6ff9-440b-9cda-6b6f0a4debb7": {
             "type": "menu_images",
             "settings": {
-              "image": "shopify:\/\/shop_images\/INSTA_TRELLIS_SINGLEBED.jpg",
+              "image": "shopify://shop_images/INSTA_TRELLIS_SINGLEBED.jpg",
               "title": "Hand Block Printed Fabric",
               "subtitle": "Trellis heaven",
               "link": "",
@@ -64,7 +73,7 @@
           "a911026b-a355-4e85-b902-387149596068": {
             "type": "menu_images",
             "settings": {
-              "image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50.jpg",
+              "image": "shopify://shop_images/PHOTO-2022-02-25-12-49-50.jpg",
               "title": "",
               "subtitle": "",
               "link": "",
@@ -74,40 +83,40 @@
           "f1478d1d-b69c-4ba9-a5cd-93a80571237b": {
             "type": "menu_images",
             "settings": {
-              "image": "shopify:\/\/shop_images\/BOOKKITCHENTABLE1_1200x_725fe800-2bb7-4aee-afbf-666e9b7cfa43.jpg",
+              "image": "shopify://shop_images/BOOKKITCHENTABLE1_1200x_725fe800-2bb7-4aee-afbf-666e9b7cfa43.jpg",
               "title": "Molly's Book - House of Print",
               "subtitle": "Pretty in Print!",
-              "link": "shopify:\/\/products\/pbohou00",
+              "link": "shopify://products/pbohou00",
               "menu_item_handle": "printing-stationery"
             }
           },
           "1ee234ed-38fb-45e6-8597-4a12d43fa05e": {
             "type": "menu_images",
             "settings": {
-              "image": "shopify:\/\/shop_images\/FERNMUSTARDKEANE.jpg",
+              "image": "shopify://shop_images/FERNMUSTARDKEANE.jpg",
               "title": "Paper over the cracks",
               "subtitle": "and add colour",
-              "link": "shopify:\/\/collections\/wallpaper",
+              "link": "shopify://collections/wallpaper",
               "menu_item_handle": "wallpaper"
             }
           },
           "780eb8bb-eb65-495d-8f78-646eb73979b4": {
             "type": "menu_images",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SHEPHERDSHUT_2500x_407131eb-3da8-45c5-a394-531965d7192a.jpg",
+              "image": "shopify://shop_images/SHEPHERDSHUT_2500x_407131eb-3da8-45c5-a394-531965d7192a.jpg",
               "title": "Hawthbush farm shepherd's hut",
               "subtitle": "A MM Transformation",
-              "link": "shopify:\/\/blogs\/journal\/hawthbush-shepherds-hut",
+              "link": "shopify://blogs/journal/hawthbush-shepherds-hut",
               "menu_item_handle": "wallpaper"
             }
           },
           "db7c3e68-5fff-4277-b889-ce495a49f372": {
             "type": "menu_images",
             "settings": {
-              "image": "shopify:\/\/shop_images\/PORTRIATMolly_Mahon-37_e89254f8-22ad-4653-987f-cf9263651682.jpg",
+              "image": "shopify://shop_images/PORTRIATMolly_Mahon-37_e89254f8-22ad-4653-987f-cf9263651682.jpg",
               "title": "\"So much goes in to everything we make.\"",
               "subtitle": "Molly Mahon",
-              "link": "shopify:\/\/pages\/molly-mahon",
+              "link": "shopify://pages/molly-mahon",
               "menu_item_handle": "mm-world"
             }
           },
@@ -115,10 +124,10 @@
             "type": "menu_images",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/india-artisans.jpg",
+              "image": "shopify://shop_images/india-artisans.jpg",
               "title": "Handmade by Artisans",
               "subtitle": "Block Printing",
-              "link": "shopify:\/\/pages\/block-printing",
+              "link": "shopify://pages/block-printing",
               "menu_item_handle": "mm-world"
             }
           }
@@ -198,7 +207,7 @@
           "e20d543f-8cc6-4d96-9370-377d89c3a24e": {
             "type": "paragraph",
             "settings": {
-              "text": "<p>Sign up to to Molly newsletter for regular updates and exclusive offers.<\/p>"
+              "text": "<p>Sign up to to Molly newsletter for regular updates and exclusive offers.</p>"
             }
           },
           "85c2eb03-5fc7-4a11-ae24-fbbb63a844b7": {
@@ -213,16 +222,16 @@
           "85c2eb03-5fc7-4a11-ae24-fbbb63a844b7"
         ],
         "settings": {
-          "quote": "<p>\"I find a room full of textures, layers and colours exciting and uplifting.\"<\/p>",
+          "quote": "<p>\"I find a room full of textures, layers and colours exciting and uplifting.\"</p>",
           "cite": "Molly Mahon"
         }
       },
       "mailchimp": {
         "type": "mailchimp",
         "settings": {
-          "chimp_url": "https:\/\/mollymahon.us10.list-manage.com\/subscribe\/post?u=97f9cc90b67785f171c4e5e7a&amp;id=03514ce382",
+          "chimp_url": "https://mollymahon.us10.list-manage.com/subscribe/post?u=97f9cc90b67785f171c4e5e7a&amp;id=03514ce382",
           "section_title": "Sign Up & get 10% off your first purchase.",
-          "subheading": "<p>You will receive Molly's monthly PRINTSPIRATION, be the first to know about new launches, receive VIP offers to exclusive events and more.  AND one lucky new subscriber who joins us between now and Valentines Day will have the chance to be randomly selected to win our Cherry print tablecloth and 4 napkins. BE MY VALENTINE! JOIN TODAY.<\/p><p><\/p>",
+          "subheading": "<p>You will receive Molly's monthly PRINTSPIRATION, be the first to know about new launches, receive VIP offers to exclusive events and more.  AND one lucky new subscriber who joins us between now and Valentines Day will have the chance to be randomly selected to win our Cherry print tablecloth and 4 napkins. BE MY VALENTINE! JOIN TODAY.</p><p></p>",
           "show_name": false,
           "disable": true
         }
@@ -239,7 +248,7 @@
           "502d7e48-b4ed-4861-8f30-60a5f24bf26c": {
             "type": "paragraph",
             "settings": {
-              "text": "<p>We value our subscribers and offer colourful informative newsletters, special subscriber offers and tips of the trade.  You will also be the first to know of our new launches, offers and inspiration.<\/p>"
+              "text": "<p>We value our subscribers and offer colourful informative newsletters, special subscriber offers and tips of the trade.  You will also be the first to know of our new launches, offers and inspiration.</p>"
             }
           },
           "bd9030af-38b0-4569-857c-144a38231309": {
@@ -254,7 +263,7 @@
           "bd9030af-38b0-4569-857c-144a38231309"
         ],
         "settings": {
-          "quote": "<p>\"I find a room full of textures, layers and colours exciting and uplifting.\"<\/p>",
+          "quote": "<p>\"I find a room full of textures, layers and colours exciting and uplifting.\"</p>",
           "cite": "Molly Mahon"
         }
       },
@@ -266,11 +275,11 @@
             "settings": {
               "fl_title": "New in",
               "label1": "New Bloom Fabric Collection",
-              "link1": "shopify:\/\/collections\/bloom-fabric",
+              "link1": "shopify://collections/bloom-fabric",
               "label2": "Bloom Home",
-              "link2": "shopify:\/\/collections\/bloom-home-goods",
+              "link2": "shopify://collections/bloom-home-goods",
               "label3": "Sale",
-              "link3": "shopify:\/\/collections\/sale",
+              "link3": "shopify://collections/sale",
               "label4": "",
               "link4": ""
             }
@@ -280,53 +289,53 @@
             "settings": {
               "fl_title": "Inspiration",
               "label1": "Workshops and Events",
-              "link1": "shopify:\/\/collections\/workshops-and-events",
+              "link1": "shopify://collections/workshops-and-events",
               "label2": "Brochures & Sample Sets",
-              "link2": "shopify:\/\/collections\/sample-sets",
+              "link2": "shopify://collections/sample-sets",
               "label3": "Look Books",
-              "link3": "shopify:\/\/blogs\/look-books",
+              "link3": "shopify://blogs/look-books",
               "label4": "Mood Boards",
-              "link4": "shopify:\/\/pages\/fabric-mood-boards"
+              "link4": "shopify://pages/fabric-mood-boards"
             }
           },
           "fb9acf94-6e45-4f2c-b9ca-76ba24126143": {
             "type": "two_menus",
             "settings": {
               "title": "Shop Fabric",
-              "image": "shopify:\/\/shop_images\/TULIP_TRELLIS_GREEN_BED_5409d88e-127f-4b14-8d75-b536de5ad320.jpg",
-              "link": "shopify:\/\/collections\/fabric",
+              "image": "shopify://shop_images/TULIP_TRELLIS_GREEN_BED_5409d88e-127f-4b14-8d75-b536de5ad320.jpg",
+              "link": "shopify://collections/fabric",
               "color1": "Blue",
-              "color1-image": "shopify:\/\/shop_images\/fabric_blue.jpg",
-              "color1-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Blue",
+              "color1-image": "shopify://shop_images/fabric_blue.jpg",
+              "color1-link": "https://mollymahon.com/collections/fabric?filter.p.m.product.colour=Blue",
               "color2": "Green",
-              "color2-image": "shopify:\/\/shop_images\/fabric_green.jpg",
-              "color2-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Green",
+              "color2-image": "shopify://shop_images/fabric_green.jpg",
+              "color2-link": "https://mollymahon.com/collections/fabric?filter.p.m.product.colour=Green",
               "color3": "Pink",
-              "color3-image": "shopify:\/\/shop_images\/fabric_pink.jpg",
-              "color3-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Pink",
+              "color3-image": "shopify://shop_images/fabric_pink.jpg",
+              "color3-link": "https://mollymahon.com/collections/fabric?filter.p.m.product.colour=Pink",
               "color4": "Yellow",
-              "color4-image": "shopify:\/\/shop_images\/fabric_yellow.jpg",
-              "color4-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Yellow",
+              "color4-image": "shopify://shop_images/fabric_yellow.jpg",
+              "color4-link": "https://mollymahon.com/collections/fabric?filter.p.m.product.colour=Yellow",
               "color5": "Red",
-              "color5-image": "shopify:\/\/shop_images\/fabric_red.jpg",
-              "color5-link": "https:\/\/mollymahon.com\/collections\/fabric?filter.p.m.product.colour=Red",
+              "color5-image": "shopify://shop_images/fabric_red.jpg",
+              "color5-link": "https://mollymahon.com/collections/fabric?filter.p.m.product.colour=Red",
               "color6": "",
               "color6-link": "",
               "titleb": "Shop Wallpaper",
-              "imageb": "shopify:\/\/shop_images\/Banner-WallpaperFern_0e529616-10ef-4d94-be20-2c63fbb67ac1.jpg",
-              "linkb": "shopify:\/\/collections\/wallpaper",
+              "imageb": "shopify://shop_images/Banner-WallpaperFern_0e529616-10ef-4d94-be20-2c63fbb67ac1.jpg",
+              "linkb": "shopify://collections/wallpaper",
               "color1b": "Blue",
-              "color1-imageb": "shopify:\/\/shop_images\/wp_blue.jpg",
-              "color1-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Blue",
+              "color1-imageb": "shopify://shop_images/wp_blue.jpg",
+              "color1-linkb": "https://mollymahon.com/collections/wallpaper?filter.p.m.product.colour=Blue",
               "color2b": "Pink",
-              "color2-imageb": "shopify:\/\/shop_images\/wp_pink.jpg",
-              "color2-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Pink",
+              "color2-imageb": "shopify://shop_images/wp_pink.jpg",
+              "color2-linkb": "https://mollymahon.com/collections/wallpaper?filter.p.m.product.colour=Pink",
               "color3b": "Green",
-              "color3-imageb": "shopify:\/\/shop_images\/wp_green.jpg",
-              "color3-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Green",
+              "color3-imageb": "shopify://shop_images/wp_green.jpg",
+              "color3-linkb": "https://mollymahon.com/collections/wallpaper?filter.p.m.product.colour=Green",
               "color4b": "Yellow",
-              "color4-imageb": "shopify:\/\/shop_images\/wp_yellow.jpg",
-              "color4-linkb": "https:\/\/mollymahon.com\/collections\/wallpaper?filter.p.m.product.colour=Yellow",
+              "color4-imageb": "shopify://shop_images/wp_yellow.jpg",
+              "color4-linkb": "https://mollymahon.com/collections/wallpaper?filter.p.m.product.colour=Yellow",
               "color5b": "",
               "color5-linkb": "",
               "color6b": "",
@@ -361,8 +370,8 @@
               "col_nav_3b": "",
               "col_nav_4a": "",
               "col_nav_4b": "",
-              "col_nav_image": "shopify:\/\/shop_images\/house_of_print.jpg",
-              "col_nav_url": "shopify:\/\/products\/pbohou00",
+              "col_nav_image": "shopify://shop_images/house_of_print.jpg",
+              "col_nav_url": "shopify://products/pbohou00",
               "col_nav_text": "Molly's Book - House of Print Pretty in Print"
             }
           },
@@ -371,8 +380,8 @@
             "disabled": true,
             "settings": {
               "title": "Workshops & Courses",
-              "image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
-              "link": "shopify:\/\/pages\/workshops-and-events",
+              "image": "shopify://shop_images/CREATEAC_STILL_WS.jpg",
+              "link": "shopify://pages/workshops-and-events",
               "color1": "",
               "color1-link": "",
               "color2": "",
@@ -386,8 +395,8 @@
               "color6": "",
               "color6-link": "",
               "titleb": "MM World",
-              "imageb": "shopify:\/\/shop_images\/WORKSHOPS_MAR22.jpg",
-              "linkb": "shopify:\/\/blogs\/journal",
+              "imageb": "shopify://shop_images/WORKSHOPS_MAR22.jpg",
+              "linkb": "shopify://blogs/journal",
               "color1b": "",
               "color1-linkb": "",
               "color2b": "",
@@ -414,8 +423,8 @@
               "col_nav_3b": "",
               "col_nav_4a": "",
               "col_nav_4b": "",
-              "col_nav_image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
-              "col_nav_url": "shopify:\/\/collections\/workshops-and-events",
+              "col_nav_image": "shopify://shop_images/CREATEAC_STILL_WS.jpg",
+              "col_nav_url": "shopify://collections/workshops-and-events",
               "col_nav_text": "Workshops and Events"
             }
           }
@@ -440,20 +449,20 @@
             "settings": {
               "width": "one_third",
               "narrow": false,
-              "image": "shopify:\/\/shop_images\/MoorHouse-49.jpg",
+              "image": "shopify://shop_images/MoorHouse-49.jpg",
               "auto_height": "none",
               "cover": true,
               "no_hover": false,
               "title": "Discover MM World",
               "subtitle": "",
               "subtitle_size": "small",
-              "text": "<p>Get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with.<\/p>",
+              "text": "<p>Get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with.</p>",
               "button_color": "white",
               "color_scheme": "white_text",
               "desktop_text_box_position": "center",
               "text_align": "center",
               "button_label": "",
-              "button_link": "shopify:\/\/pages\/about-us",
+              "button_link": "shopify://pages/about-us",
               "subtext": ""
             }
           },
@@ -462,20 +471,20 @@
             "settings": {
               "width": "one_third",
               "narrow": false,
-              "image": "shopify:\/\/shop_images\/craftsmanship_block_printing_bloom_1000x1500_02d23a48-b9c0-43c7-b7fe-df7188569737.jpg",
+              "image": "shopify://shop_images/craftsmanship_block_printing_bloom_1000x1500_02d23a48-b9c0-43c7-b7fe-df7188569737.jpg",
               "auto_height": "none",
               "cover": false,
               "no_hover": false,
               "title": "Meet",
               "subtitle": "Our craftsmanship",
               "subtitle_size": "small",
-              "text": "<p>Unique Perfect Imperfections.  We celebrate the art and craft behind making home<\/p>",
+              "text": "<p>Unique Perfect Imperfections.  We celebrate the art and craft behind making home</p>",
               "button_color": "white",
               "color_scheme": "white_text",
               "desktop_text_box_position": "center",
               "text_align": "center",
               "button_label": "",
-              "button_link": "shopify:\/\/blogs\/craftsmanship",
+              "button_link": "shopify://blogs/craftsmanship",
               "subtext": ""
             }
           },
@@ -484,20 +493,20 @@
             "settings": {
               "width": "one_third",
               "narrow": false,
-              "image": "shopify:\/\/shop_images\/71528222-951B-4A77-AAA3-E364FD2E2580_1_105_c.jpg",
+              "image": "shopify://shop_images/71528222-951B-4A77-AAA3-E364FD2E2580_1_105_c.jpg",
               "auto_height": "none",
               "cover": false,
               "no_hover": false,
               "title": "Lookbooks",
               "subtitle": "Discover the Molly Mahon look",
               "subtitle_size": "small",
-              "text": "<p>Feast your eyes to get inspired and help you visualise Molly's designs<\/p>",
+              "text": "<p>Feast your eyes to get inspired and help you visualise Molly's designs</p>",
               "button_color": "white",
               "color_scheme": "white_text",
               "desktop_text_box_position": "center",
               "text_align": "center",
               "button_label": "",
-              "button_link": "shopify:\/\/blogs\/look-books",
+              "button_link": "shopify://blogs/look-books",
               "subtext": ""
             }
           }
@@ -524,8 +533,8 @@
       "text-banner": {
         "type": "text-banner",
         "settings": {
-          "title": "<p>Trade enquiries 👉<\/p>",
-          "link": "shopify:\/\/pages\/trade",
+          "title": "<p>Trade enquiries 👉</p>",
+          "link": "shopify://pages/trade",
           "bg_pattern": "pattern_01",
           "color_scheme": "white_text",
           "custom_color_on": true,
@@ -543,20 +552,20 @@
           "f439469d-22df-41e6-bd6e-0a4bbfb7c051": {
             "type": "notice",
             "settings": {
-              "title": "<p>Spend over £40 Get a Free Pouch<\/p>"
+              "title": "<p>Spend over £40 Get a Free Pouch</p>"
             }
           },
           "7904f93a-34bc-4fe4-b201-3c6863cab0af": {
             "type": "notice",
             "settings": {
-              "title": "<p>Get 50% off using code WAZAWAZ50<\/p>"
+              "title": "<p>Get 50% off using code WAZAWAZ50</p>"
             }
           },
           "238b3933-8740-4300-998e-2f49ad0fcb8c": {
             "type": "notice",
             "disabled": true,
             "settings": {
-              "title": "<p>BLOCK FRIDAY DEAL. Subscribe for info.<\/p>"
+              "title": "<p>BLOCK FRIDAY DEAL. Subscribe for info.</p>"
             }
           }
         },
@@ -577,19 +586,19 @@
     ],
     "blocks": {
       "776302416715791028": {
-        "type": "shopify:\/\/apps\/bucks-currency-converter-pro\/blocks\/app-embed\/4f0a9b06-9da4-4a49-b378-2de9d23a3af3",
+        "type": "shopify://apps/bucks-currency-converter-pro/blocks/app-embed/4f0a9b06-9da4-4a49-b378-2de9d23a3af3",
         "disabled": true,
         "settings": {
         }
       },
       "9560353115408849314": {
-        "type": "shopify:\/\/apps\/coming-soon-products-preorders\/blocks\/app-embed\/7c015b04-7c8f-46b9-8c69-733f0ba3bb1b",
+        "type": "shopify://apps/coming-soon-products-preorders/blocks/app-embed/7c015b04-7c8f-46b9-8c69-733f0ba3bb1b",
         "disabled": false,
         "settings": {
         }
       },
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
         }
