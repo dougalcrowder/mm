@@ -92,8 +92,8 @@
       "settings": {
         "background": "",
         "styles": true,
-        "autoplay": true,
-        "interval": 450,
+        "autoplay": false,
+        "interval": 5000,
         "margin_top": "none",
         "margin_bot": "none"
       }
