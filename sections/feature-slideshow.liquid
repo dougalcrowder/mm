@@ -1,14 +1,24 @@
+{% if section.settings.styles %}
+  {{ 'styles-slideshow.css' | asset_url | stylesheet_tag }}
+{% endif %}
+
+{%- if section.settings.make_logo_white -%}
+<script>
+  document.body.classList.add("white_logo");
+</script>
+{%- endif -%}
+
 <div style="background-color:{{ section.settings.background }}" class="pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }}">
 
 <div class="slides">
   <div class="slideshow">
 
-    <div class="swiffy-slider slider-item-nogap slider-nav-visible slider-indicators-round slider-nav-animation slider-nav-animation-fadein">
+    <div class="swiffy-slider slider-item-nogap slider-nav-autoplay slider-indicators-round slider-nav-animation-slow" data-slider-nav-autoplay-interval="4500">
       <ul class="slider-container carousel">
         {%- for block in section.blocks -%}
       <li class="slide-image">
           <div id="slide{{ forloop.index }}">
-            {%- if block.settings.link != blank -%}
+            {%- if block.settings.link != blank && if block.settings.button_label == blank -%}
             <a href="{{ block.settings.link }}" alt="{{ block.settings.title }}">
             {%- endif -%}
             
@@ -45,13 +55,20 @@
             
             {%- endif -%}
             
-            {%- if block.settings.title != blank -%}
-            <div class="caption flex color-{{ block.settings.color_scheme }}">
-              <span class="h0">{{ block.settings.title }}</span>
-            </div>
-            {%- endif -%}
             
-            {%- if block.settings.link != blank -%}
+            <div class="caption flex color-{{ block.settings.color_scheme }}  align-{{ block.settings.text_align }}">
+              {%- if block.settings.title != blank -%}
+              <span class="h0">{{ block.settings.title }}</span>
+              {%- endif -%}
+              {%- if block.settings.link != blank && if block.settings.button_label != blank -%}
+              <div class="buttons {{ block.settings.button_color }}">
+                <a class="button {{ block.settings.button_color }}"{% if block.settings.button_link != blank %} href="{{ block.settings.button_link }}"{% endif %} {% if block.settings.button_link == blank %} aria-disabled="true"{% endif %}>{{ block.settings.button_label | escape }}</a>
+              </div>
+              {%- endif -%}
+            </div>
+            
+            
+            {%- if block.settings.link != blank && if block.settings.button_label == blank -%}
             </a>
             {%- endif -%}
           </div>
@@ -62,7 +79,13 @@
 
       <button type="button" class="slider-nav"></button>
       <button type="button" class="slider-nav slider-nav-next"></button>
-
+      
+      <ul class="slider-indicators">
+        {%- for block in section.blocks -%}
+          <li></li>
+        {%- endfor -%}
+      </ul>
+      
     </div>
   </div> 
 </div>
@@ -70,12 +93,18 @@
 {% schema %}
 {
 "name": "Slideshow",
-"class": "spaced-section feature-slides slideshow",
+"class": "spaced-section hero-slideshow  slideshow",
 "settings": [
   {
     "type": "color",
     "id": "background",
     "label": "Background Colour"
+  },
+  {
+    "type": "checkbox",
+    "id": "styles",
+    "label": "Load Styles",
+    "default": true
   },
   {
     "type": "select",
@@ -151,11 +180,6 @@
         "label": "Image Caption"
       },
       {
-        "type": "url",
-        "id": "link",
-        "label": "Link"
-      },
-      {
         "type": "select",
         "id": "color_scheme",
         "options": [
@@ -179,6 +203,58 @@
         "default": "dark_text",
         "label": "t:sections.image-banner.settings.color_scheme.label",
         "info": "t:sections.image-banner.settings.color_scheme.info"
+      },
+      {
+      "type": "select",
+        "id": "text_align",
+        "options": [
+          {
+            "value": "left",
+            "label": "Left"
+          },
+          {
+           "value": "center",
+            "label": "Centre"
+          },
+          {
+            "value": "right",
+            "label": "Right"
+          }
+        ],
+        "default": "center",
+        "label": "text Alignment"
+      },
+      {
+        "type": "url",
+        "id": "link",
+        "label": "Link"
+      },
+      {
+        "type": "text",
+        "id": "button_label",
+        "default": "Button label",
+        "label": "t:sections.multicolumn.settings.button_label.label"
+      },
+      {
+        "type": "select",
+        "id": "button_color",
+        "options": [
+          {
+            "value": "white",
+            "label": "White"
+          },
+          {
+            "value": "red",
+            "label": "Red"
+          },
+          {
+            "value": "dark",
+            "label": "Dark"
+          }
+        ],
+        "default": "white",
+        "label": "Button Colour",
+        "info": "Choose the colour for the button"
       }
     ]
   }

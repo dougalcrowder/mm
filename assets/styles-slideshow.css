@@ -1,0 +1,26 @@
+.hero-slideshow .carousel .slide-image {
+  position: relative;
+}
+.hero-slideshow .carousel .slide-image img {
+  display: block;
+  aspect-ratio: 3/2;
+}
+@media screen and (min-width: 880px) {
+  .hero-slideshow .carousel .slide-image img {
+    aspect-ratio: 1024/528;
+  }
+}
+.hero-slideshow .carousel .slide-image .caption {
+  position: absolute;
+  inset: 24px;
+  align-content: center;
+  align-items: center;
+}
+@media screen and (min-width: 880px) {
+  .hero-slideshow .carousel .slide-image .caption {
+    inset: 60px;
+  }
+}
+.hero-slideshow .carousel .slide-image .caption span {
+  flex: 1;
+}
