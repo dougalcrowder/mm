@@ -22,5 +22,8 @@
   }
 }
 .hero-slideshow .carousel .slide-image .caption span {
-  flex: 1;
+  flex: 0 1 100%;
+}
+.hero-slideshow .carousel .slide-image .caption .buttons {
+  flex: 0 1 100%;
 }
