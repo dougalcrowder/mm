@@ -13,7 +13,7 @@
 <div class="slides">
   <div class="slideshow">
 
-    <div class="swiffy-slider slider-item-nogap slider-nav-autoplay slider-indicators-round slider-nav-animation-slow"{% if section.settings.autoplay == true %} data-slider-nav-autoplay-interval="{{ section.settings.interval }}"{% endif %}>
+    <div class="swiffy-slider slider-item-nogap{% if section.settings.autoplay == true %} slider-nav-autoplay{% endif %} slider-indicators-round slider-nav-animation-slow"{% if section.settings.autoplay == true %} data-slider-nav-autoplay-interval="{{ section.settings.interval }}"{% endif %}>
       <ul class="slider-container carousel">
         {%- for block in section.blocks -%}
       <li class="slide-image">
@@ -62,7 +62,7 @@
               {%- endif -%}
               {%- if block.settings.link != blank and block.settings.button_label != blank -%}
               <div class="buttons {{ block.settings.button_color }}">
-                <a class="button {{ block.settings.button_color }}"{% if block.settings.button_link != blank %} href="{{ block.settings.button_link }}"{% endif %} {% if block.settings.button_link == blank %} aria-disabled="true"{% endif %}>{{ block.settings.button_label | escape }}</a>
+                <a class="button {{ block.settings.button_color }}"{% if block.settings.button_link != blank %} href="{{ block.settings.link }}"{% endif %} {% if block.settings.link == blank %} aria-disabled="true"{% endif %}>{{ block.settings.button_label | escape }}</a>
               </div>
               {%- endif -%}
             </div>
