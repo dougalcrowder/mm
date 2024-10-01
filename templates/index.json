@@ -51,8 +51,11 @@
           "settings": {
             "image": "shopify://shop_images/MollyMahon_Christmas_2024_DinnerTable_Tablecloth_Blue_Luna_Pink_5_x1300_Bright.jpg",
             "title": "White text caption",
+            "color_scheme": "white_text",
+            "text_align": "center",
             "link": "shopify://products/printed-beach-bag-flower-pink",
-            "color_scheme": "white_text"
+            "button_label": "Gherkins For Tea",
+            "button_color": "red"
           }
         },
         "image_F8TNWJ": {
@@ -61,8 +64,11 @@
             "image": "shopify://shop_images/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_11_1300x1300_505ad835-caf9-4da8-b526-2003316fdea3.jpg",
             "mobile_image": "shopify://shop_images/molly-mahon-soap-rose-lifestyle2-1300x1300_d5fc9683-9789-4b7e-a165-11af0ab318e8.jpg",
             "title": "With Mobile Image Red Text",
+            "color_scheme": "red_text",
+            "text_align": "center",
             "link": "shopify://blogs/journal",
-            "color_scheme": "red_text"
+            "button_label": "Visit the Journal",
+            "button_color": "white"
           }
         },
         "image_AH69Jw": {
@@ -70,8 +76,11 @@
           "settings": {
             "image": "shopify://shop_images/MollyMahon_Cushions_Multi_Trims_Plains_3_1300x1300_2a7e97c2-230d-479c-b41b-8f009e39a81a.jpg",
             "title": "Blue letters, no link",
+            "color_scheme": "blue_text",
+            "text_align": "center",
             "link": "",
-            "color_scheme": "blue_text"
+            "button_label": "Button label",
+            "button_color": "white"
           }
         }
       },
@@ -82,6 +91,7 @@
       ],
       "settings": {
         "background": "",
+        "styles": true,
         "margin_top": "none",
         "margin_bot": "none"
       }
