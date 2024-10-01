@@ -13,7 +13,7 @@
 <div class="slides">
   <div class="slideshow">
 
-    <div class="swiffy-slider slider-item-nogap slider-nav-autoplay slider-indicators-round slider-nav-animation-slow"{% if section.settings.autoplay %} data-slider-nav-autoplay-interval="{{ section.settings.interval }}"{% endif %}>
+    <div class="swiffy-slider slider-item-nogap slider-nav-autoplay slider-indicators-round slider-nav-animation-slow"{% if section.settings.autoplay == true %} data-slider-nav-autoplay-interval="{{ section.settings.interval }}"{% endif %}>
       <ul class="slider-container carousel">
         {%- for block in section.blocks -%}
       <li class="slide-image">
