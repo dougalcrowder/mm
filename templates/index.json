@@ -24,6 +24,7 @@
       "block_order": [
         "heading_aeig97"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Molly_Mahon_Tapes_Looms_Plains_Cushions_Sofa_Sitting_Room_Country_Home_2489x1400_0dcaee5e-c327-4219-a93d-5502e157f9c0.jpg",
         "letterbox": false,
@@ -46,6 +47,18 @@
     "feature_slideshow_96eHwd": {
       "type": "feature-slideshow",
       "blocks": {
+        "image_keCWpX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Molly_Mahon_Tapes_Looms_Plains_Cushions_Sofa_Sitting_Room_Country_Home_2489x1400_0dcaee5e-c327-4219-a93d-5502e157f9c0.jpg",
+            "title": "Caption Here",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
         "image_NLKLfd": {
           "type": "image",
           "settings": {
@@ -85,6 +98,7 @@
         }
       },
       "block_order": [
+        "image_keCWpX",
         "image_NLKLfd",
         "image_F8TNWJ",
         "image_AH69Jw"
@@ -92,49 +106,10 @@
       "settings": {
         "background": "",
         "styles": true,
-        "autoplay": false,
-        "interval": 5000,
+        "autoplay": true,
+        "interval": 4000,
         "margin_top": "none",
-        "margin_bot": "none"
-      }
-    },
-    "image_banner_jCftPp": {
-      "type": "image-banner",
-      "blocks": {
-        "buttons_tg6Jb4": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "buttons_tg6Jb4"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "letterbox": true,
-        "mobile_image": "shopify://shop_images/08ED2653-F628-48B0-A035-4CB4819E3D1D_1_105_c.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "constrain": true,
-        "desktop_text_box_position": "start",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "1000",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "sm",
-        "margin_bot": "sm",
-        "bg_color_scheme": "none",
-        "hover_text": true
+        "margin_bot": "m"
       }
     },
     "dedeec5c-28d6-4af0-961d-09abb7473182": {
@@ -852,7 +827,6 @@
   "order": [
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "feature_slideshow_96eHwd",
-    "image_banner_jCftPp",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "image_banner_FnjGNt",
     "featured_collection_TccwQf",
