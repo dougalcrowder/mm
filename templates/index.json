@@ -9,6 +9,59 @@
 */
 {
   "sections": {
+    "feature_slideshow_THGbyk": {
+      "type": "feature-slideshow",
+      "blocks": {
+        "image_3xr4JJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Christmas_24_Slideshow_Image_Basket_with_Presents_c9a31cb8-d77e-461a-9da2-1619f626300f.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_wjci3X": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Molly_Mahon_Tapes_Looms_Plains_Cushions_Sofa_Sitting_Room_Country_Home_2489x1400_0dcaee5e-c327-4219-a93d-5502e157f9c0.jpg",
+            "title": "Caption Here",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_EhhX3Y": {
+          "type": "image",
+          "settings": {
+            "title": "Caption Here",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        }
+      },
+      "block_order": [
+        "image_3xr4JJ",
+        "image_wjci3X",
+        "image_EhhX3Y"
+      ],
+      "settings": {
+        "background": "",
+        "styles": true,
+        "autoplay": true,
+        "interval": 4500,
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
       "type": "image-banner",
       "blocks": {
@@ -24,6 +77,7 @@
       "block_order": [
         "heading_aeig97"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/MollyMahon_Christmas_2024_6_1_x1300_Bright.jpg",
         "letterbox": false,
@@ -794,6 +848,7 @@
     }
   },
   "order": [
+    "feature_slideshow_THGbyk",
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "image_banner_jCftPp",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
