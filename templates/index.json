@@ -27,8 +27,8 @@
         "image_wjci3X": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Molly_Mahon_Tapes_Looms_Plains_Cushions_Sofa_Sitting_Room_Country_Home_2489x1400_0dcaee5e-c327-4219-a93d-5502e157f9c0.jpg",
-            "title": "Caption Here",
+            "image": "shopify://shop_images/Christmas_Website_Slideshow_Image_2_MollyMahon_Cusions_and_Trims.jpg",
+            "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
             "link": "",
@@ -46,12 +46,36 @@
             "button_label": "Button label",
             "button_color": "white"
           }
+        },
+        "image_EYpapJ": {
+          "type": "image",
+          "settings": {
+            "title": "Caption Here",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_Q6mnXg": {
+          "type": "image",
+          "settings": {
+            "title": "Caption Here",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
         }
       },
       "block_order": [
         "image_3xr4JJ",
         "image_wjci3X",
-        "image_EhhX3Y"
+        "image_EhhX3Y",
+        "image_EYpapJ",
+        "image_Q6mnXg"
       ],
       "settings": {
         "background": "",
