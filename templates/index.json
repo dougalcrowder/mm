@@ -59,8 +59,8 @@
         "styles": true,
         "autoplay": true,
         "interval": 4500,
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     },
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
