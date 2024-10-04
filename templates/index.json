@@ -57,25 +57,13 @@
             "button_label": "Button label",
             "button_color": "white"
           }
-        },
-        "image_Q6mnXg": {
-          "type": "image",
-          "settings": {
-            "title": "Caption Here",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "Button label",
-            "button_color": "white"
-          }
         }
       },
       "block_order": [
         "image_3xr4JJ",
         "image_wjci3X",
         "image_EhhX3Y",
-        "image_EYpapJ",
-        "image_Q6mnXg"
+        "image_EYpapJ"
       ],
       "settings": {
         "background": "",
