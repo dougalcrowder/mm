@@ -535,6 +535,7 @@
         "text_HB3eAp",
         "buttons_cdcfqp"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Gift_Section_Image_3.jpg",
         "letterbox": false,
