@@ -15,7 +15,7 @@
         "image_3xr4JJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Christmas_24_Slideshow_Image_Basket_with_Presents_c9a31cb8-d77e-461a-9da2-1619f626300f.jpg",
+            "image": "shopify://shop_images/Christmas_Carousel_1.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -27,7 +27,7 @@
         "image_wjci3X": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Christmas_Website_Image_2_MollyMahon_Cushions_and_Trims.jpg",
+            "image": "shopify://shop_images/Carousel_Image_2.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -39,7 +39,7 @@
         "image_EhhX3Y": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Christmas_Website_Slideshow_Image_3_MollyMahon_Luna_Tablescape_1.jpg",
+            "image": "shopify://shop_images/Carousel_Image_3.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -58,7 +58,7 @@
         "background": "",
         "styles": true,
         "autoplay": true,
-        "interval": 4500,
+        "interval": 6000,
         "margin_top": "none",
         "margin_bot": "none"
       }
@@ -145,7 +145,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify://shop_images/Molly_Mahon_Wallpaper_Marwari_Horse_Country_Home_Bootroom_1300x1950_82508f89-7aa4-4980-8c50-e21273296a78.jpg",
+            "image": "shopify://shop_images/MollyMahon_Wallpaper_MarwariHorse_Country_Home.jpg",
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
@@ -157,8 +157,8 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Home",
-            "button_link": "",
+            "button_label": "Wallpaper",
+            "button_link": "shopify://collections/wallpaper",
             "subtext": ""
           }
         },
@@ -167,7 +167,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_15_3000x4000_265f5d79-1423-4c4e-ba7f-729612758804.jpg",
+            "image": "shopify://shop_images/MollyMahon_Lampshade_Cotton_Turmerik_Curtain_PoppyStripeTrim_BlueYellow_1.jpg",
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
@@ -235,6 +235,7 @@
         "text_CV3Bm7",
         "buttons_4TM6gc"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/MollyMahon_Albourne_Lampshade_Cotton_Turmerik_Curtain_PoppyStripeTrom_BlueYellow_3.jpg",
         "letterbox": true,
@@ -471,7 +472,7 @@
         "buttons_3JecL6"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon_Christmas_Tablescape_Tablecloth_Luna_Isabella_Denim_Frill_Napkins_Luna.jpg",
+        "image": "shopify://shop_images/Christmas_Website_Slideshow_Image_3_MollyMahon_Luna_Tablescape_7f6cabce-7a37-4ffa-aafd-c347a4b40d3b.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/MollyMahon_Christmas_2024_DinnerTable_Tablecloth_Blue_Luna_Pink_4_1.jpg",
         "make_logo_white": false,
@@ -497,6 +498,59 @@
         "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": false
+      }
+    },
+    "image_banner_QEX8xB": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_3EeW4L": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        },
+        "text_HB3eAp": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_cdcfqp": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3EeW4L",
+        "text_HB3eAp",
+        "buttons_cdcfqp"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Gift_Section_Image_3.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "sm",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "multicolumn_JVTJqd": {
@@ -551,6 +605,7 @@
         "column_6hV6L4",
         "column_kAAKWG"
       ],
+      "disabled": true,
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -936,6 +991,7 @@
     "featured_collection_iHExrA",
     "image_banner_LwpA6H",
     "featured_collection_zH6XbT",
+    "image_banner_QEX8xB",
     "multicolumn_JVTJqd",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "a1409fd8-a0db-4143-868e-69ee18c87d97",
