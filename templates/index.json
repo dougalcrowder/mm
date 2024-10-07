@@ -521,9 +521,9 @@
         "buttons_cdcfqp": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
+            "button_label_1": "",
+            "button_link_1": "shopify://collections/christmas-edit",
+            "button_style_secondary_1": true,
             "button_label_2": "Button label",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -605,7 +605,6 @@
         "column_6hV6L4",
         "column_kAAKWG"
       ],
-      "disabled": true,
       "settings": {
         "mc_title": "",
         "show_title": false,
