@@ -439,7 +439,7 @@
         "link_JVWicB": {
           "type": "link",
           "settings": {
-            "bread_url": "https://mollymahon.com/collections/winter-dining",
+            "bread_url": "shopify://collections/winter-dining",
             "bread_label": "",
             "color_scheme": "white_text"
           }
