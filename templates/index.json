@@ -436,6 +436,14 @@
     "image_banner_LwpA6H": {
       "type": "image-banner",
       "blocks": {
+        "link_JVWicB": {
+          "type": "link",
+          "settings": {
+            "bread_url": "shopify://collections/winter-dining",
+            "bread_label": "",
+            "color_scheme": "white_text"
+          }
+        },
         "heading_eHJFnU": {
           "type": "heading",
           "disabled": true,
@@ -467,6 +475,7 @@
         }
       },
       "block_order": [
+        "link_JVWicB",
         "heading_eHJFnU",
         "text_X648qD",
         "buttons_3JecL6"
@@ -521,7 +530,7 @@
         "buttons_cdcfqp": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop",
+            "button_label_1": "",
             "button_link_1": "shopify://collections/christmas-edit",
             "button_style_secondary_1": false,
             "button_label_2": "Button label",
@@ -541,7 +550,7 @@
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
-        "constrain": false,
+        "constrain": true,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
