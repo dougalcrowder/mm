@@ -531,8 +531,12 @@
         "text_HB3eAp",
         "buttons_cdcfqp"
       ],
+      "disabled": true,
+      "custom_css": [
+
+      ],
       "settings": {
-        "image": "shopify://shop_images/3Image_Collage_Christmas_24_1.jpg",
+        "image": "shopify://shop_images/3Image_Collage_Christmas_24_2.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/Collage_Image_Phone.jpg",
         "make_logo_white": false,
@@ -562,8 +566,8 @@
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
-            "title": "",
-            "subtitle": "",
+            "title": "'TIS THE SEASON TO BE JOLLY",
+            "subtitle": "Spread festive delight throughout your home with layers of cosy fabrics and gorgeous accessories.",
             "subtitle_size": "small",
             "text": "",
             "button_color": "white",
