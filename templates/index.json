@@ -460,28 +460,15 @@
             "go_serif": false,
             "constrain_text": false
           }
-        },
-        "buttons_3JecL6": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Hand Block Printed Fabric",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "link_JVWicB",
         "heading_eHJFnU",
-        "text_X648qD",
-        "buttons_3JecL6"
+        "text_X648qD"
       ],
       "settings": {
-        "image": "shopify://shop_images/Christmas_Website_Slideshow_Image_3_MollyMahon_Luna_Tablescape_7f6cabce-7a37-4ffa-aafd-c347a4b40d3b.jpg",
+        "image": "shopify://shop_images/MollyMahon_TableRunner_Napkins_Luna_Pink_Crackers_TukTuk_Pink_Cutlery_Green_1_2379x1300_d9a9ae61-0b70-4d88-a956-a84b17a5e755.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/MollyMahon_Christmas_2024_DinnerTable_Tablecloth_Blue_Luna_Pink_4_1.jpg",
         "make_logo_white": false,
@@ -544,10 +531,10 @@
         "text_HB3eAp",
         "buttons_cdcfqp"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Gift_Section_Image_3.jpg",
+        "image": "shopify://shop_images/3Image_Collage_Christmas_24.jpg",
         "letterbox": false,
+        "mobile_image": "shopify://shop_images/Collage_Image_Phone.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": true,
@@ -576,9 +563,9 @@
             "cover": false,
             "no_hover": false,
             "title": "",
-            "subtitle": "This year let's beautify gifting",
+            "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Getting prepared ahead of the game is the ideal.  Getting prepared with joyous colourful handmade gifts is the icing to the cake.</p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
