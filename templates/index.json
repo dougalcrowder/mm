@@ -15,7 +15,7 @@
         "image_3xr4JJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Christmas_Carousel_1.jpg",
+            "image": "shopify://shop_images/Slideshow_Image_1_1.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -27,7 +27,7 @@
         "image_wjci3X": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Carousel_Image_2.jpg",
+            "image": "shopify://shop_images/Slideshow_Image_1_2.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -39,7 +39,7 @@
         "image_EhhX3Y": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Carousel_Image_3.jpg",
+            "image": "shopify://shop_images/Slideshow_Image_1_3.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
