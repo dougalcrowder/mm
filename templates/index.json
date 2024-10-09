@@ -440,7 +440,7 @@
           "type": "link",
           "settings": {
             "bread_url": "shopify://collections/winter-dining",
-            "bread_label": "",
+            "bread_label": "Winter Dining",
             "color_scheme": "white_text"
           }
         },
