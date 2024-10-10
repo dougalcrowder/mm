@@ -471,6 +471,7 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon_TableRunner_Napkins_Luna_Pink_Crackers_TukTuk_Pink_Cutlery_Green_5_2.jpg",
         "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon_TableRunner_Napkins_Luna_Pink_Crackers_TukTuk_Pink_Cutlery_Green_5_3.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": true,
@@ -589,9 +590,7 @@
 
       ],
       "settings": {
-        "image": "shopify://shop_images/3Image_Collage_Christmas_24_2.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/Collage_Image_Phone.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": true,
