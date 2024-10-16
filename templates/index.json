@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "feature_slideshow_THGbyk": {
@@ -256,6 +256,7 @@
     },
     "featured_collection_TccwQf": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Delicious New Trims",
         "collection": "trims",
@@ -309,7 +310,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify://shop_images/mollymahon_cushion_odisha_tablecloth_dinningroom_1000x1333_35d23c33-519a-44b5-b16b-8da5219dd2b9.jpg",
+            "image": "shopify://shop_images/FABRIC_NOTICE_2020.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -331,7 +332,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_12.jpg",
+            "image": "shopify://shop_images/MollyMahon_Albourne_Curtain_WideStripe_Yellow_2_800x1200_0b53211f-ff41-454c-8729-998e56be7210.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -1038,9 +1039,9 @@
     "image_banner_FnjGNt",
     "featured_collection_TccwQf",
     "collection_list_xx7wRR",
+    "featured_collection_iHExrA",
     "multicolumn_fDzbar",
     "multicolumn_GwyiEH",
-    "featured_collection_iHExrA",
     "image_banner_JTwYUc",
     "image_banner_LwpA6H",
     "featured_collection_zH6XbT",
