@@ -302,6 +302,16 @@
         "show_view_all": false
       }
     },
+    "featured_collection_iHExrA": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Next Level Cushions",
+        "collection": "new-cushions",
+        "products_to_show": 12,
+        "show_view_all": false,
+        "show_secondary_image": true
+      }
+    },
     "multicolumn_fDzbar": {
       "type": "multicolumn",
       "blocks": {
@@ -310,7 +320,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify://shop_images/FABRIC_NOTICE_2020.jpg",
+            "image": "shopify://shop_images/MollyMahon_Cushions_Multi_OdishaStripe_LoomWeave_Cream_6.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -332,7 +342,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Albourne_Curtain_WideStripe_Yellow_2_800x1200_0b53211f-ff41-454c-8729-998e56be7210.jpg",
+            "image": "shopify://shop_images/MollyMahon_Albourne_Curtain_WideStripe_Yellow_2.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -422,16 +432,6 @@
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
-      }
-    },
-    "featured_collection_iHExrA": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Next Level Cushions",
-        "collection": "new-cushions",
-        "products_to_show": 12,
-        "show_view_all": false,
-        "show_secondary_image": true
       }
     },
     "image_banner_JTwYUc": {
