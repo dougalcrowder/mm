@@ -117,6 +117,77 @@
         "hover_text": false
       }
     },
+    "featured_collection_zH6XbT": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Entertain with colour",
+        "collection": "winter-dining",
+        "products_to_show": 12,
+        "show_view_all": false,
+        "show_secondary_image": false
+      }
+    },
+    "multicolumn_JVTJqd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6hV6L4": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify://shop_images/MollyMahon_Pyjama_Stripe_Bow_Eye_Mask_Bow_Pillows_Bindi_Pink_Blue_Quilt_Dianthus_Indigo_Iron_Lampshade_Tulip_Indigo_Iron_Duvet_Bindi_Pink_9_2.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "'TIS THE SEASON TO BE JOLLY",
+            "subtitle": "Spread festive delight throughout your home with layers of cosy fabrics and gorgeous accessories.",
+            "subtitle_size": "extrasmall",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Shop for Great Gifts",
+            "button_link": "shopify://collections/great-gifts",
+            "subtext": ""
+          }
+        },
+        "column_kAAKWG": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify://shop_images/Molly_Mahon_Orlando_Bear_TukTuk_Blue_439faedc-a509-4ce2-80f6-e4a36451a8bf.jpg",
+            "auto_height": "none",
+            "cover": true,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Gift ideas",
+            "button_link": "shopify://collections/great-gifts",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_6hV6L4",
+        "column_kAAKWG"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
       "type": "image-banner",
       "blocks": {
@@ -356,16 +427,6 @@
         "show_view_all": false
       }
     },
-    "featured_collection_iHExrA": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Next Level Cushions",
-        "collection": "new-cushions",
-        "products_to_show": 12,
-        "show_view_all": false,
-        "show_secondary_image": true
-      }
-    },
     "multicolumn_fDzbar": {
       "type": "multicolumn",
       "blocks": {
@@ -425,6 +486,16 @@
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
+      }
+    },
+    "featured_collection_iHExrA": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Autumn Fresh Cushions",
+        "collection": "autumn-fresh-cushions",
+        "products_to_show": 12,
+        "show_view_all": false,
+        "show_secondary_image": true
       }
     },
     "multicolumn_GwyiEH": {
@@ -541,16 +612,6 @@
         "hover_text": false
       }
     },
-    "featured_collection_zH6XbT": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Entertain with colour",
-        "collection": "winter-dining",
-        "products_to_show": 12,
-        "show_view_all": false,
-        "show_secondary_image": false
-      }
-    },
     "image_banner_QEX8xB": {
       "type": "image-banner",
       "blocks": {
@@ -605,67 +666,6 @@
         "margin_bot": "sm",
         "bg_color_scheme": "none",
         "hover_text": false
-      }
-    },
-    "multicolumn_JVTJqd": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_6hV6L4": {
-          "type": "column",
-          "settings": {
-            "width": "two_thirds",
-            "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Pyjama_Stripe_Bow_Eye_Mask_Bow_Pillows_Bindi_Pink_Blue_Quilt_Dianthus_Indigo_Iron_Lampshade_Tulip_Indigo_Iron_Duvet_Bindi_Pink_9_2.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "'TIS THE SEASON TO BE JOLLY",
-            "subtitle": "Spread festive delight throughout your home with layers of cosy fabrics and gorgeous accessories.",
-            "subtitle_size": "extrasmall",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop for Great Gifts",
-            "button_link": "shopify://collections/great-gifts",
-            "subtext": ""
-          }
-        },
-        "column_kAAKWG": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/Molly_Mahon_Orlando_Bear_TukTuk_Blue_439faedc-a509-4ce2-80f6-e4a36451a8bf.jpg",
-            "auto_height": "none",
-            "cover": true,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Gift ideas",
-            "button_link": "shopify://collections/great-gifts",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_6hV6L4",
-        "column_kAAKWG"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
       }
     },
     "20923eed-ecdf-4786-8836-2e8d1d372264": {
