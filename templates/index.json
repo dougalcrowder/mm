@@ -494,7 +494,7 @@
         "title": "Autumn Fresh Cushions",
         "collection": "autumn-fresh-cushions",
         "products_to_show": 12,
-        "show_view_all": true,
+        "show_view_all": false,
         "show_secondary_image": true
       }
     },
