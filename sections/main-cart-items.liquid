@@ -7,16 +7,16 @@
 
 {% if section.settings.offer != blank %}
 
-{% assign offer = section.settings.offer %}
+{% assign offer = section.settings.offer.id %}
 {%- for item in cart.items -%}
-  {%- if item.product.id == offer.id -%}
+  {%- if item.product.id == offer -%}
   {%- assign offerincart = true -%}
   {%- break -%}
   {%- endif -%}
 {%- endfor -%}
 {% endif %}
 
-<h1>{{ offer.id }} {{ section.settings.offer_pre_text }}</h1>
+<h1>{{ offer }} {{ section.settings.offer_pre_add_text }}</h1>
 <cart-items class="inner{% if cart == empty %} is-empty{% endif %}">
   <div class="title-wrapper-with-link">
     <h1 class="visually-hidden">{{ 'sections.cart.title' | t }}</h1>
