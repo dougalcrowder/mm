@@ -122,6 +122,7 @@
       "settings": {
         "title": "Entertain with colour",
         "collection": "winter-dining",
+        "button_color": "seasonal",
         "products_to_show": 12,
         "show_view_all": false,
         "show_secondary_image": false
@@ -385,6 +386,7 @@
       "settings": {
         "title": "Delicious New Trims",
         "collection": "trims",
+        "button_color": "seasonal",
         "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": false
@@ -493,6 +495,7 @@
       "settings": {
         "title": "Autumn Fresh Cushions",
         "collection": "autumn-fresh-cushions",
+        "button_color": "seasonal",
         "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": true
@@ -891,6 +894,7 @@
         "heading": "Discover more..",
         "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.</p>",
         "button_label": "See all Articles",
+        "button_color": "seasonal",
         "blog": "journal",
         "post_limit": 5
       }
