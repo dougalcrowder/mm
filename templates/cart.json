@@ -12,7 +12,7 @@
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
-        "compare": "apron-buti-pink",
+        "offer": "apron-bagru-blue",
         "offer_pre_add_text": "Gift wrapping",
         "offer_add_text": "Add"
       }
