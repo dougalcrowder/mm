@@ -4,10 +4,12 @@
 {% endcomment %}
 <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
 
-{% assign coffeedup = false %}
+{% if section.settings.offer %}
+{% assign offer = section.settings.offer %}
+{% assign offer = false %}
 {%- for item in cart.items -%}
-  {%- if item.product.handle == "coffee-reads-peru-organic" -%}
-  {%- assign coffeedup = true -%}
+  {%- if item.product.id == offer.id -%}
+  {%- assign offer = true -%}
   {%- break -%}
   {%- endif -%}
 {%- endfor -%}
@@ -328,25 +330,40 @@
 </cart-items>
 
 
-{% comment %}
-{%- unless coffeedup -%}
-{%- for item in cart.items -%}
-{%- for collect in item.product.collections -%}
-{%- if collect.handle == 'kitchen' -%}
+
+{%- unless offer -%}
+  
+  {% comment %}
+  <form action="/cart/add" method="post" enctype="multipart/form-data" id="add-to-cart-{{ scoop.id }}--{{ scoop.id }}">  
+    <input type="hidden"name="id" class="product-select" value="{{ scoop.variants.first.id }}" />
+    <button type="submit" tabindex="-1" name="add" data-add-to-cart class="js-go-cart-add-to-cart button clickstyle">
+    {% if section.settings.scoop_image %}
+    <img class="prod-thumb" loading="lazy" src="{{ section.settings.scoop_image.src | img_url: '50x50', crop: 'center', scale: 2 }}" alt="Ritual Scoop" width="50" height="50">
+    {% else %}
+    <img class="prod-thumb" loading="lazy" src="{{ scoop.featured_image.src | img_url: '50x50', crop: 'center', scale: 2 }}" alt="Ritual Scoop" width="50" height="50">
+    {% endif %}
+    <div class="b_text">
+      <span data-add-to-cart-text> 
+        {{ section.settings.case_pre_add_text }} {{ scoop.title }}
+      </span>
+      <span class="product-price"> - <span class="money">{{ scoop.price | money }}</span></span>
+    </div>
+      <div class="buttonbox">{{ section.settings.add_text }}</div>
+    </button>
+  </form> 
+  {% endcomment %}
+  
   <div class="offer_prompt inner flex">
-    <p>Hurrah! Your order qualifies for a free bag of coffee</p>
-    <form method="post" action="/cart/add" id="product-form-template--14284550864954__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="39628816416826">
+    <p>{{ section.settings.case_pre_add_text }}</p>
+    <form method="post" action="/cart/add" id="product-form-template--14284550864954__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="{{ offer.variants.first.id }}">
       <div class="product-form__buttons">
-          <input type="submit" name="add" value="Add to cart" class="button green small">
+          <button type="submit" name="add" value="Add to cart" class="button green small">{{ section.settings.add_text }}</button>
         </div>
       </form>
   </div>
-{%- break -%}
-{%- endif -%}
-{%- endfor -%}
-{%- endfor -%}
+
 {%- endunless -%}
-{% endcomment %}
+
 
 <div class="empty-cart inner narrow center">
   <h2>Oh no, your cart is empty!</h2>
@@ -427,10 +444,29 @@
   "class": "cart-section",
   "settings": [
     {
-      "type": "checkbox",
-      "id": "show_vendor",
-      "default": false,
-      "label": "t:sections.main-cart-items.settings.show_vendor.label"
+      "type": "product",
+      "id": "compare",
+      "label": "Offer Product"
+    },
+    {
+      "type": "text",
+      "id": "case_pre_add_text",
+      "label": {
+         "en": "Pre Add text"
+      },
+      "default": {
+         "en": "Add a"
+      }
+    },
+    {
+      "type": "text",
+      "id": "add_text",
+      "label": {
+         "en": "Button text"
+      },
+      "default": {
+         "en": "Add"
+      }
     }
   ]
 }
