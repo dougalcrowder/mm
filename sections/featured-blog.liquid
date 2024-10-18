@@ -12,7 +12,7 @@
   {{ section.settings.introduction }}
   
   {%- if section.settings.button_label != blank -%}
-  <a href="{{ section.settings.blog.url }}" class="button dark"> 
+  <a href="{{ section.settings.blog.url }}" class="button {{ section.settings.button_color }}"> 
     {{ section.settings.button_label }}
   </a>
   {%- endif -%}
@@ -74,6 +74,31 @@
       "id": "button_label",
       "default": "See all Articles",
       "label": "Button Label"
+    },
+    {
+      "type": "select",
+      "id": "button_color",
+      "options": [
+        {
+          "value": "white",
+          "label": "White"
+        },
+        {
+          "value": "red",
+          "label": "Red"
+        },
+        {
+          "value": "dark",
+          "label": "Dark"
+        },
+        {
+          "value": "seasonal",
+          "label": "Seasonal"
+        }
+      ],
+      "default": "dark",
+      "label": "Button Colour",
+      "info": "Choose the colour for the button"
     },
     {
       "type": "blog",
