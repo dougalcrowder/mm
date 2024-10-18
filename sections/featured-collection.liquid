@@ -26,7 +26,7 @@
   
   {%- if section.settings.show_view_all and more_in_collection -%}
       <a href="{{ section.settings.collection.url }}"
-        class="button dark"
+        class="button {{ section.settings.button_color }}"
         aria-label="{{ 'sections.featured_collection.view_all_label' | t: collection_name: section.settings.collection.title }}"
       >
         {{ 'sections.featured_collection.view_all' | t }}
@@ -70,6 +70,31 @@
       "type": "collection",
       "id": "collection",
       "label": "t:sections.featured-collection.settings.collection.label"
+    },
+    {
+      "type": "select",
+      "id": "button_color",
+      "options": [
+        {
+          "value": "white",
+          "label": "White"
+        },
+        {
+          "value": "red",
+          "label": "Red"
+        },
+        {
+          "value": "dark",
+          "label": "Dark"
+        },
+        {
+          "value": "seasonal",
+          "label": "Seasonal"
+        }
+      ],
+      "default": "seasonal",
+      "label": "Button Colour",
+      "info": "Choose the colour for the button"
     },
     {
       "type": "range",
