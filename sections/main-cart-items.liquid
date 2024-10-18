@@ -355,11 +355,12 @@
   </form> 
   {% endcomment %}
   
-  <div class="offer_prompt inner flex">
+  <div class="offer_prompt inner flex" style="justify-items: end;">
     <p>{{ section.settings.offer_pre_add_text }}</p>
-    <form method="post" action="/cart/add" id="product-form-template--14284550864954__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="{{ offer.variants.first.id }}">
-      <div class="product-form__buttons">
-          <button type="submit" name="add" value="Add to cart" class="button green small">{{ section.settings.offer_add_text }} {{ offer.variants.first.price | money }}</button>
+    <form method="post" action="/cart/add" id="product-form-template--14284550864954__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form">
+      <input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="{{ offer.variants.first.id }}" >
+      <div class="product-form__buttons pt-s pb-s align-right">
+          <button type="submit" name="add" value="Add to cart" class="button seasonal small">{{ section.settings.offer_add_text }} |&nbsp;{{ offer.variants.first.price | money }}</button>
         </div>
       </form>
   </div>
