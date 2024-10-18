@@ -13,8 +13,8 @@
       "type": "main-cart-items",
       "settings": {
         "offer": "gift-wrapping",
-        "offer_pre_add_text": "Gift wrapping",
-        "offer_add_text": "Add"
+        "offer_pre_add_text": "Would you like this order gift wrapped?",
+        "offer_add_text": "Gift Wrapping"
       }
     },
     "cart-footer": {
