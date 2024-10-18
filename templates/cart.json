@@ -14,7 +14,7 @@
       "settings": {
         "offer": "gift-wrapping",
         "offer_pre_add_text": "Would you like this order gift wrapped?",
-        "offer_add_text": "Gift Wrapping"
+        "offer_add_text": "Add gift wrapping"
       }
     },
     "cart-footer": {
