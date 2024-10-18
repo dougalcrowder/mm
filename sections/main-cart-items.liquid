@@ -3,16 +3,17 @@
 <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
 {% endcomment %}
 <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
+{% assign offerincart = false %}
 
 {% if section.settings.offer %}
 {% assign offer = section.settings.offer %}
-{% assign offer = false %}
 {%- for item in cart.items -%}
   {%- if item.product.id == offer.id -%}
-  {%- assign offer = true -%}
+  {%- assign offerincart = true -%}
   {%- break -%}
   {%- endif -%}
 {%- endfor -%}
+{% endif %}
 
 <cart-items class="inner{% if cart == empty %} is-empty{% endif %}">
   <div class="title-wrapper-with-link">
@@ -330,8 +331,8 @@
 </cart-items>
 
 
-
-{%- unless offer -%}
+{% if section.settings.offer %}
+{%- unless offerincart -%}
   
   {% comment %}
   <form action="/cart/add" method="post" enctype="multipart/form-data" id="add-to-cart-{{ scoop.id }}--{{ scoop.id }}">  
@@ -354,16 +355,16 @@
   {% endcomment %}
   
   <div class="offer_prompt inner flex">
-    <p>{{ section.settings.case_pre_add_text }}</p>
+    <p>{{ section.settings.offer_pre_add_text }}</p>
     <form method="post" action="/cart/add" id="product-form-template--14284550864954__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="{{ offer.variants.first.id }}">
       <div class="product-form__buttons">
-          <button type="submit" name="add" value="Add to cart" class="button green small">{{ section.settings.add_text }}</button>
+          <button type="submit" name="add" value="Add to cart" class="button green small">{{ section.settings.offer_add_text }}</button>
         </div>
       </form>
   </div>
 
 {%- endunless -%}
-
+{% endif %}
 
 <div class="empty-cart inner narrow center">
   <h2>Oh no, your cart is empty!</h2>
@@ -450,7 +451,7 @@
     },
     {
       "type": "text",
-      "id": "case_pre_add_text",
+      "id": "offer_pre_add_text",
       "label": {
          "en": "Pre Add text"
       },
@@ -460,7 +461,7 @@
     },
     {
       "type": "text",
-      "id": "add_text",
+      "id": "offer_add_text",
       "label": {
          "en": "Button text"
       },
