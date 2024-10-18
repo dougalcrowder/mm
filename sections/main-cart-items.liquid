@@ -5,7 +5,8 @@
 <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
 {% assign offerincart = false %}
 
-{% if section.settings.offer %}
+{% if section.settings.offer != blank %}
+
 {% assign offer = section.settings.offer %}
 {%- for item in cart.items -%}
   {%- if item.product.id == offer.id -%}
@@ -15,6 +16,7 @@
 {%- endfor -%}
 {% endif %}
 
+<h1>{{ offer.id }} {{ section.settings.offer_pre_text }}</h1>
 <cart-items class="inner{% if cart == empty %} is-empty{% endif %}">
   <div class="title-wrapper-with-link">
     <h1 class="visually-hidden">{{ 'sections.cart.title' | t }}</h1>
@@ -22,7 +24,7 @@
   </div>
   <div class="cart_header_items flex">
 
-    <div class="gofrit{% unless coffeedup %} hidden{% endunless %}">
+    <div class="gofrit{% unless offerincart %} hidden{% endunless %}">
         <div id="main-cart-header">
             <div class="totals flex">
               <p class="totals__subtotal">{{ 'sections.cart.subtotal' | t }}:</p>
@@ -331,7 +333,7 @@
 </cart-items>
 
 
-{% if section.settings.offer %}
+{% if section.settings.offer != blank %}
 {%- unless offerincart -%}
   
   {% comment %}
@@ -446,7 +448,7 @@
   "settings": [
     {
       "type": "product",
-      "id": "compare",
+      "id": "offer",
       "label": "Offer Product"
     },
     {
