@@ -10,8 +10,8 @@
 {
   "current": {
     "on_sale_text": "Reduced",
-    "red_bow": true,
-    "green_badge_tag": "Christmas gift",
+    "red_bow": false,
+    "green_badge_tag": "bundle",
     "discount_threshold": "gift-discount-threshold",
     "enable_pouch": false,
     "colors_solid_button_labels": "#FFFFFF",
