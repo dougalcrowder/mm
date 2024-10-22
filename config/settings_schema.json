@@ -8,14 +8,10 @@
     "theme_support_url": "https:\/\/dougal.co"
   },
   {
-    "name": "Product Card Badges",
+    "name": "Collection Product Card Badges",
     "settings": [
       {
         "type": "header",
-        "content": "Product Card Badges"
-      },
-      {
-        "type": "paragraph",
         "content": "Sale badge"
       },
       {
@@ -25,7 +21,7 @@
         "info":"This badge shows when the compare price is higher"
       },
       {
-        "type": "paragraph",
+        "type": "header",
         "content": "Dark Red Christmas Bow"
       },
       {
@@ -42,13 +38,13 @@
         "default": "Christmas gift"
       },
       {
-        "type": "paragraph",
-        "content": "Green Badge"
+        "type": "header",
+        "content": "Seasonal Badge"
       },
       {
         "type": "checkbox",
         "id": "green_badge",
-        "label": "Enable green badge",
+        "label": "Enable seasonal badge",
         "default": true
       },
       {
