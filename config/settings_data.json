@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "on_sale_text": "Reduced",
+    "on_sale_text": "",
     "red_bow": false,
     "green_badge_tag": "bundle",
     "discount_threshold": "gift-discount-threshold",
