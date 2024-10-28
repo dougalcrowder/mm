@@ -95,7 +95,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Shop for Great Gifts",
-            "button_link": "shopify://collections/great-gifts",
+            "button_link": "shopify://collections/christmas-edit",
             "subtext": ""
           }
         },
