@@ -74,60 +74,6 @@
         "show_secondary_image": false
       }
     },
-    "image_banner_JTwYUc": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_HpRp4y": {
-          "type": "heading",
-          "settings": {
-            "heading": "Winter Dining",
-            "heading_type": "header1"
-          }
-        },
-        "text_BqCRxE": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "buttons_3EbmXR": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Design Your Table",
-            "button_link_1": "shopify://collections/winter-dining",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_HpRp4y",
-        "text_BqCRxE",
-        "buttons_3EbmXR"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon_TableRunner_Napkins_Luna_Pink_Crackers_TukTuk_Pink_Cutlery_Green_5_2.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon_TableRunner_Napkins_Luna_Pink_Crackers_TukTuk_Pink_Cutlery_Green_5_3.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "constrain": true,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "sm",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
     "multicolumn_JVTJqd": {
       "type": "multicolumn",
       "blocks": {
@@ -186,7 +132,122 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "sm"
+      }
+    },
+    "dedeec5c-28d6-4af0-961d-09abb7473182": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify://shop_images/MollyMahon_Wallpaper_MarwariHorse_CountryHome.jpg",
+            "auto_height": "portrait",
+            "cover": true,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Wallpaper",
+            "button_link": "shopify://collections/wallpaper",
+            "subtext": ""
+          }
+        },
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify://shop_images/MollyMahon_Lampshade_Cotton_Turmerik_Curtain_PoppyStripeTrim_BlueYellow_1.jpg",
+            "auto_height": "portrait",
+            "cover": true,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Fabric",
+            "button_link": "shopify://collections/fabric",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2",
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_banner_JTwYUc": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_HpRp4y": {
+          "type": "heading",
+          "settings": {
+            "heading": "Winter Dining",
+            "heading_type": "header1"
+          }
+        },
+        "text_BqCRxE": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_3EbmXR": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Design Your Table",
+            "button_link_1": "shopify://collections/winter-dining",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HpRp4y",
+        "text_BqCRxE",
+        "buttons_3EbmXR"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_TableRunner_Napkins_Luna_Pink_Crackers_TukTuk_Pink_Cutlery_Green_5_2.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon_TableRunner_Napkins_Luna_Pink_Crackers_TukTuk_Pink_Cutlery_Green_5_3.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": true,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "sm",
+        "margin_bot": "sm",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178": {
@@ -261,67 +322,6 @@
         "margin_bot": "sm",
         "bg_color_scheme": "none",
         "hover_text": true
-      }
-    },
-    "dedeec5c-28d6-4af0-961d-09abb7473182": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Wallpaper_MarwariHorse_CountryHome.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Wallpaper",
-            "button_link": "shopify://collections/wallpaper",
-            "subtext": ""
-          }
-        },
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Lampshade_Cotton_Turmerik_Curtain_PoppyStripeTrim_BlueYellow_1.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Fabric",
-            "button_link": "shopify://collections/fabric",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2",
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "sm",
-        "margin_bot": "s"
       }
     },
     "image_banner_FnjGNt": {
@@ -487,7 +487,7 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "none"
       }
     },
     "featured_collection_iHExrA": {
@@ -1038,11 +1038,11 @@
   "order": [
     "feature_slideshow_THGbyk",
     "featured_collection_zH6XbT",
-    "image_banner_JTwYUc",
     "multicolumn_JVTJqd",
+    "dedeec5c-28d6-4af0-961d-09abb7473182",
+    "image_banner_JTwYUc",
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "image_banner_jCftPp",
-    "dedeec5c-28d6-4af0-961d-09abb7473182",
     "image_banner_FnjGNt",
     "featured_collection_TccwQf",
     "collection_list_xx7wRR",
