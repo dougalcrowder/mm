@@ -63,6 +63,17 @@
         "margin_bot": "none"
       }
     },
+    "featured_collection_zH6XbT": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Entertain with colour",
+        "collection": "winter-dining",
+        "button_color": "seasonal",
+        "products_to_show": 12,
+        "show_view_all": false,
+        "show_secondary_image": false
+      }
+    },
     "image_banner_JTwYUc": {
       "type": "image-banner",
       "blocks": {
@@ -115,16 +126,6 @@
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
-      }
-    },
-    "featured_collection_zH6XbT": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Entertain with colour",
-        "collection": "winter-dining",
-        "products_to_show": 12,
-        "show_view_all": false,
-        "show_secondary_image": false
       }
     },
     "multicolumn_JVTJqd": {
@@ -385,6 +386,7 @@
       "settings": {
         "title": "Delicious New Trims",
         "collection": "trims",
+        "button_color": "seasonal",
         "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": false
@@ -493,6 +495,7 @@
       "settings": {
         "title": "Autumn Fresh Cushions",
         "collection": "autumn-fresh-cushions",
+        "button_color": "seasonal",
         "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": true
@@ -1034,8 +1037,8 @@
   },
   "order": [
     "feature_slideshow_THGbyk",
-    "image_banner_JTwYUc",
     "featured_collection_zH6XbT",
+    "image_banner_JTwYUc",
     "multicolumn_JVTJqd",
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "image_banner_jCftPp",
