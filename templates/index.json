@@ -196,6 +196,66 @@
         "margin_bot": "none"
       }
     },
+    "multicolumn_iVUtHL": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Xfqncw": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify://shop_images/MollyMahon_Christmas_2024_5_1.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "column_LJR3fJ": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "PERSONAL SHOPPING DATES",
+            "subtitle_size": "medium",
+            "text": "<p><strong>@ MM FOREST ROW STUDIO<br/><br/></strong>Late Night Shopping <strong>Thursday 5th December</strong> 6:30-9pm.<br/><br/>Coffee & Shop Morning  <strong>Saturday 7th December</strong> 11-2pm.<br/><br/>All purchases will receive <strong>complimentary block printed gift wrap with ribbon.<br/><br/>RSVP: </strong>office@mollymahon.com</p>",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Xfqncw",
+        "column_LJR3fJ"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "s",
+        "margin_bot": "m"
+      }
+    },
     "image_banner_JTwYUc": {
       "type": "image-banner",
       "blocks": {
@@ -1035,6 +1095,7 @@
     "featured_collection_zH6XbT",
     "multicolumn_JVTJqd",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
+    "multicolumn_iVUtHL",
     "image_banner_JTwYUc",
     "2afc6efc-ab07-464f-9e9b-d48a9fd1f178",
     "image_banner_jCftPp",
