@@ -93,7 +93,7 @@
         "column_ci6gHC": {
           "type": "column",
           "settings": {
-            "width": "two_thirds",
+            "width": "half",
             "narrow": false,
             "image": "shopify://shop_images/restaurant-mayfair-bb-winter-carriage-menu-6.jpg",
             "auto_height": "none",
@@ -115,7 +115,7 @@
         "column_XDeEX4": {
           "type": "column",
           "settings": {
-            "width": "one_third",
+            "width": "half",
             "narrow": false,
             "auto_height": "none",
             "cover": false,
