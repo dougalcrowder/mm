@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "4303a565-ec1b-4b2c-ab2e-2746766f44f2": {
@@ -74,18 +74,77 @@
     },
     "4935b228-84d8-49a0-8b71-092d9ddd9c53": {
       "type": "mm_nav",
-      "settings": {
-      }
+      "settings": {}
     },
     "d35ce5b8-ad67-40b3-8669-c44a175c980a": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Workshops & Events",
         "heading_size": "medium",
-        "text": "<p>Make a day of it and come and join Molly at one of her fun and immersive workshops.  Also watch this space for upcoming talks and events with Molly.<br\/><em>\"We need to make time to be creative. It feeds and nourishes the soul.”<\/em>Molly Mahon<\/p>",
+        "text": "<p>Make a day of it and come and join Molly at one of her fun and immersive workshops.  Also watch this space for upcoming talks and events with Molly.<br/><em>\"We need to make time to be creative. It feeds and nourishes the soul.”</em>Molly Mahon</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text"
+      }
+    },
+    "multicolumn_wMaYct": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ci6gHC": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "narrow": false,
+            "image": "shopify://shop_images/restaurant-mayfair-bb-winter-carriage-menu-6.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "column_XDeEX4": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "<p><strong>BOOK NOW FESTIVE BLOCK PRINTING WORKSHOP - £125</strong></p><p>On December 11th at 10:30am till 2pm, join Molly Mahon at Bombay Bustle in Mayfair, London, for an intimate block printing stationary workshop.<br/>Spend the morning creating bespoke festive cards and ribbons under Molly’s expert guidance, followed by a 3-course lunch in the Retiring Room, a creative escape wrapped in culinary delight.<br/>Inspired by the bustling metropolis of Mumbai, Bombay Bustle restaurant pays homage to the culture, people, whose expanse of origins from across India have influenced its culinary history.<br/><br/><a href=\"https://www.opentable.com/booking/experiences-availability?rid=141702&restref=141702&experienceId=373801\" target=\"_blank\" title=\"https://www.opentable.com/booking/experiences-availability?rid=141702&restref=141702&experienceId=373801\"><strong>BOOK NOW</strong></a></p>",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ci6gHC",
+        "column_XDeEX4"
+      ],
+      "settings": {
+        "mc_title": "MOLLY MAHON X BOMBAY BUSTLE",
+        "show_title": true,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "s"
       }
     },
     "image_banner_TNEr8y": {
@@ -116,7 +175,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/95FBCCC0-CB81-4847-98D3-39F46B60A97F_1_105_c.jpg",
+        "image": "shopify://shop_images/95FBCCC0-CB81-4847-98D3-39F46B60A97F_1_105_c.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -146,7 +205,7 @@
     "bc80127c-1617-463c-8cb2-4b8ffe73395a": {
       "type": "text-banner",
       "settings": {
-        "title": "<p><strong>How about giving a workshop as a gift?<\/strong><\/p>",
+        "title": "<p><strong>How about giving a workshop as a gift?</strong></p>",
         "link": "",
         "bg_pattern": "pattern_01",
         "color_scheme": "blue_text",
@@ -157,24 +216,40 @@
     "a8d232d1-7bf0-4644-b831-8580e2694cb4": {
       "type": "events",
       "blocks": {
+        "event_46Jzfh": {
+          "type": "event",
+          "settings": {
+            "event_title": "",
+            "event_intro": "",
+            "event_description": "",
+            "event_date": "",
+            "event_extras": "",
+            "event_price": "",
+            "event_button_text": "",
+            "event_button_text_2": "",
+            "event_external_link": "",
+            "event_buy_btn": ""
+          }
+        },
         "template--14494582210618__a8d232d1-7bf0-4644-b831-8580e2694cb4-167276254330765cd4-0": {
           "type": "event",
           "settings": {
             "event_title": "Learn the art with Molly's Online Course",
             "event_intro": "In this vibrant online course, Molly explores the fundamentals of block printing, revealing her sources of inspiration and creative process so you can be empowered to start your own block printing projects at home.",
-            "event_description": "<p>Jam packed with tips, tricks, inspiration and tours of places I love including my own home, this course gives a real insight in to how I work and how block print can open a world of creativity. You can access all the items you need from our Supplies Store, from lovely eco fabric paints, to tools, items to print and wooden printing blocks. Block printing has changed my life and I hope will bring joy to yours.<\/p>",
-            "image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
+            "event_description": "<p>Jam packed with tips, tricks, inspiration and tours of places I love including my own home, this course gives a real insight in to how I work and how block print can open a world of creativity. You can access all the items you need from our Supplies Store, from lovely eco fabric paints, to tools, items to print and wooden printing blocks. Block printing has changed my life and I hope will bring joy to yours.</p>",
+            "image": "shopify://shop_images/CREATEAC_STILL_WS.jpg",
             "event_date": "On Demand",
             "event_extras": "19 video lessons with lesson plan",
             "event_price": "£127.00",
             "event_button_text": "Book here via Create Academy",
             "event_button_text_2": "",
-            "event_external_link": "https:\/\/www.createacademy.com\/courses\/molly-mahon",
+            "event_external_link": "https://www.createacademy.com/courses/molly-mahon",
             "event_buy_btn": ""
           }
         }
       },
       "block_order": [
+        "event_46Jzfh",
         "template--14494582210618__a8d232d1-7bf0-4644-b831-8580e2694cb4-167276254330765cd4-0"
       ],
       "settings": {
@@ -187,6 +262,7 @@
     "banner",
     "4935b228-84d8-49a0-8b71-092d9ddd9c53",
     "d35ce5b8-ad67-40b3-8669-c44a175c980a",
+    "multicolumn_wMaYct",
     "image_banner_TNEr8y",
     "product-grid",
     "bc80127c-1617-463c-8cb2-4b8ffe73395a",
