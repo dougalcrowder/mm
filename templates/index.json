@@ -545,7 +545,7 @@
         "add_spacing": false,
         "border": false,
         "margin_top": "none",
-        "margin_bot": "none"
+        "margin_bot": "sm"
       }
     },
     "featured_collection_iHExrA": {
