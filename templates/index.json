@@ -80,29 +80,29 @@
         "column_6hV6L4": {
           "type": "column",
           "settings": {
-            "width": "two_thirds",
+            "width": "half",
             "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Pyjama_Stripe_Bow_Eye_Mask_Bow_Pillows_Bindi_Pink_Blue_Quilt_Dianthus_Indigo_Iron_Lampshade_Tulip_Indigo_Iron_Duvet_Bindi_Pink_9_2.jpg",
+            "image": "shopify://shop_images/MollyMahon_Christmas_2024_5_1_1.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
-            "title": "'TIS THE SEASON TO BE JOLLY",
-            "subtitle": "Spread festive delight throughout your home with layers of cosy fabrics and gorgeous accessories.",
+            "title": "Private Shopping Event",
+            "subtitle": "Enjoy a personal shopping experience here at Molly Mahon. All purchases will receive complimentary block printed gift wrap with ribbon.",
             "subtitle_size": "extrasmall",
             "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Shop for Great Gifts",
-            "button_link": "shopify://collections/christmas-edit",
+            "button_label": "Find Out More",
+            "button_link": "shopify://collections/workshops-and-events",
             "subtext": ""
           }
         },
         "column_kAAKWG": {
           "type": "column",
           "settings": {
-            "width": "one_third",
+            "width": "half",
             "narrow": false,
             "image": "shopify://shop_images/Molly_Mahon_Orlando_Bear_TukTuk_Blue_439faedc-a509-4ce2-80f6-e4a36451a8bf.jpg",
             "auto_height": "none",
