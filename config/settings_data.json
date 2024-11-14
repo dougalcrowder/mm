@@ -44,8 +44,7 @@
         "block_order": [
           "announcement-bar-0"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
@@ -212,8 +211,7 @@
           },
           "85c2eb03-5fc7-4a11-ae24-fbbb63a844b7": {
             "type": "email_form",
-            "settings": {
-            }
+            "settings": {}
           }
         },
         "block_order": [
@@ -253,8 +251,7 @@
           },
           "bd9030af-38b0-4569-857c-144a38231309": {
             "type": "email_form",
-            "settings": {
-            }
+            "settings": {}
           }
         },
         "block_order": [
@@ -438,8 +435,7 @@
           "460cf0fd-760a-4ed0-8b76-702ef136127e",
           "15b6216d-35a5-4aa6-b3eb-88af24ae9c10"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "multicolumn": {
         "type": "multicolumn",
@@ -449,20 +445,20 @@
             "settings": {
               "width": "one_third",
               "narrow": false,
-              "image": "shopify://shop_images/MoorHouse-49.jpg",
+              "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
               "auto_height": "none",
               "cover": true,
               "no_hover": false,
-              "title": "Discover MM World",
+              "title": "Hospitality",
               "subtitle": "",
               "subtitle_size": "small",
-              "text": "<p>Get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with.</p>",
+              "text": "<p>Get to know the projects we work alongside in Hotels, Restaurants to television sets</p>",
               "button_color": "white",
               "color_scheme": "white_text",
               "desktop_text_box_position": "center",
               "text_align": "center",
               "button_label": "",
-              "button_link": "shopify://pages/about-us",
+              "button_link": "shopify://pages/hospitality",
               "subtext": ""
             }
           },
@@ -527,8 +523,7 @@
       },
       "sidecart": {
         "type": "sidecart",
-        "settings": {
-        }
+        "settings": {}
       },
       "text-banner": {
         "type": "text-banner",
@@ -543,8 +538,7 @@
       },
       "navigation-expanding": {
         "type": "navigation-expanding",
-        "settings": {
-        }
+        "settings": {}
       },
       "notices": {
         "type": "notices",
@@ -583,27 +577,22 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "776302416715791028": {
         "type": "shopify://apps/bucks-currency-converter-pro/blocks/app-embed/4f0a9b06-9da4-4a49-b378-2de9d23a3af3",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "9560353115408849314": {
         "type": "shopify://apps/coming-soon-products-preorders/blocks/app-embed/7c015b04-7c8f-46b9-8c69-733f0ba3bb1b",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "855628211100114053": {
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
@@ -624,15 +613,13 @@
           "blocks": {
             "announcement-bar-0": {
               "type": "announcement",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         }
       }
     },
@@ -652,13 +639,11 @@
           "blocks": {
             "menu": {
               "type": "link_list",
-              "settings": {
-              }
+              "settings": {}
             },
             "text": {
               "type": "text",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
