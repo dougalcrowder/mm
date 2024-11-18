@@ -113,12 +113,36 @@
             "collection": "lighting",
             "title": ""
           }
+        },
+        "featured_collection_hGn8Vn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bagru-fabric-collection",
+            "title": ""
+          }
+        },
+        "featured_collection_FBV98P": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas-edit",
+            "title": "Xmassy stuff"
+          }
+        },
+        "featured_collection_h4Vc9w": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cushions",
+            "title": ""
+          }
         }
       },
       "block_order": [
         "featured_collection_bWJ7wG",
         "featured_collection_w74nca",
-        "featured_collection_TdqH4B"
+        "featured_collection_TdqH4B",
+        "featured_collection_hGn8Vn",
+        "featured_collection_FBV98P",
+        "featured_collection_h4Vc9w"
       ],
       "settings": {
         "styles": true,
