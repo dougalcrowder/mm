@@ -90,69 +90,23 @@
         "margin_bot": "s"
       }
     },
-    "carousel_gtCKq9": {
-      "type": "carousel",
-      "blocks": {
-        "manual_block_wMKfh8": {
-          "type": "manual_block",
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon_Cushion_Frill_Vases_Blues_1200x1200_2.jpg",
-            "title_image": "Item 1 is here",
-            "block_url": "shopify://pages/bundles"
-          }
-        },
-        "producter_eK9Ma7": {
-          "type": "producter",
-          "settings": {
-            "producter": "printed-beach-bag-boats-indigo-blue"
-          }
-        },
-        "manual_block_HxMt7J": {
-          "type": "manual_block",
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon_Cushions_Bloom_Collection_Multi_1200x1200_4c79c96f-1c81-4351-92d9-eda5ed4e238b.jpg",
-            "title_image": "Old Armchair",
-            "block_url": "shopify://collections/autumn-collection"
-          }
-        },
-        "manual_block_NnEiF6": {
-          "type": "manual_block",
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon_Cushion_Berry_Indigo_Sky_Iron_1200x1200_c31ead7c-1920-4541-baf8-038da7f430fa.jpg",
-            "title_image": "Nice cushions ere",
-            "block_url": "shopify://blogs/mood-boards"
-          }
-        },
-        "producter_br6VGV": {
-          "type": "producter",
-          "settings": {
-            "producter": "block-printing-apron-workshop-at-ashbrook-banbury"
-          }
-        },
-        "producter_L4M8Az": {
-          "type": "producter",
-          "settings": {
-            "producter": "block-print-cafe-print-your-own"
-          }
-        }
-      },
-      "block_order": [
-        "manual_block_wMKfh8",
-        "producter_eK9Ma7",
-        "manual_block_HxMt7J",
-        "manual_block_NnEiF6",
-        "producter_br6VGV",
-        "producter_L4M8Az"
-      ],
-      "settings": {
-        "styles": true,
-        "margin_top": "m",
-        "margin_bot": "m"
-      }
-    },
     "collection_list_ngqkRV": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_3JpyQz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bedroom",
+            "title": ""
+          }
+        },
+        "featured_collection_ytdzzN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bed-bath",
+            "title": ""
+          }
+        },
         "featured_collection_bWJ7wG": {
           "type": "featured_collection",
           "settings": {
@@ -197,6 +151,8 @@
         }
       },
       "block_order": [
+        "featured_collection_3JpyQz",
+        "featured_collection_ytdzzN",
         "featured_collection_bWJ7wG",
         "featured_collection_w74nca",
         "featured_collection_TdqH4B",
@@ -850,7 +806,6 @@
   "order": [
     "image_banner_JTwYUc",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
-    "carousel_gtCKq9",
     "collection_list_ngqkRV",
     "image_banner_LwpA6H",
     "multicolumn_JVTJqd",
