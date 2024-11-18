@@ -1,7 +1,7 @@
 <div class="carousel pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }}">
  <div class="collection_list-grid inner nomax">
   
-<div class="swiffy-slider slider-item-show4 slider-item-reveal slider-item-nogap slider-item-ratio slider-item-ratio-1x1 slider-nav-square slider-nav-scrollbar slider-indicators-round slider-nav-animation slider-nav-animation-fadein">
+<div class="swiffy-slider slider-item-show4 slider-item-reveal slider-nav-scrollbar slider-indicators-round slider-nav-animation slider-nav-animation-fadein">
 <ul class="slider-container custom_scroll">  
       {%- for block in section.blocks -%}
 
@@ -11,10 +11,13 @@
           <a href="{{ block.settings.collection.url }}" alt="{{ block.settings.collection.title }}">
           {%- endif -%}
           
-          {% if block.settings.collection.featured_image != blank %}
-            {%- assign collection_image = block.settings.collection.featured_image -%}
+          {% assign collection_image-mob = block.settings.collection.metafields.my_fields.collection_mobile_image  %}
+          {%- assign landscape_image = collection.image -%}
+          
+          {% if collection_image-mob != blank %}
+          {% assign collection_image = collection_image-mob %}
           {% else %}
-            {% assign collection_image = blank %}
+            {%- assign collection_image = block.settings.collection.featured_image -%}
           {% endif %}
 
           {% unless collection_image == blank %}
@@ -69,7 +72,7 @@
           {% endunless %}
           
           
-          <div class="text {% if section.settings.titles_down %} titles_down{% else %} inpic{% endif %}">
+          <div class="text titles_down">
             <h3 class="h5">
                 {% if block.settings.title_image != blank %}
                 {{ block.settings.title_image }}

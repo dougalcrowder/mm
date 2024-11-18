@@ -1,1 +1,29 @@
-.hero-slideshow .carousel .slide-image{position:relative}.hero-slideshow .carousel .slide-image img{aspect-ratio:3/2;display:block}@media screen and (min-width:880px){.hero-slideshow .carousel .slide-image img{aspect-ratio:1024/528}}.hero-slideshow .carousel .slide-image .caption{align-content:center;align-items:center;inset:24px;position:absolute}@media screen and (min-width:880px){.hero-slideshow .carousel .slide-image .caption{inset:60px}}.hero-slideshow .carousel .slide-image .caption .buttons,.hero-slideshow .carousel .slide-image .caption span{flex:0 1 100%}
+.hero-slideshow .carousel .slide-image {
+  position: relative;
+}
+.hero-slideshow .carousel .slide-image img {
+  display: block;
+  aspect-ratio: 3/2;
+}
+@media screen and (min-width: 880px) {
+  .hero-slideshow .carousel .slide-image img {
+    aspect-ratio: 1024/528;
+  }
+}
+.hero-slideshow .carousel .slide-image .caption {
+  position: absolute;
+  inset: 24px;
+  align-content: center;
+  align-items: center;
+}
+@media screen and (min-width: 880px) {
+  .hero-slideshow .carousel .slide-image .caption {
+    inset: 60px;
+  }
+}
+.hero-slideshow .carousel .slide-image .caption span {
+  flex: 0 1 100%;
+}
+.hero-slideshow .carousel .slide-image .caption .buttons {
+  flex: 0 1 100%;
+}
