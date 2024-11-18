@@ -96,19 +96,22 @@
         "featured_collection_bWJ7wG": {
           "type": "featured_collection",
           "settings": {
-            "collection": "trims"
+            "collection": "trims",
+            "title": ""
           }
         },
         "featured_collection_w74nca": {
           "type": "featured_collection",
           "settings": {
-            "collection": "loom-weave"
+            "collection": "loom-weave",
+            "title": ""
           }
         },
         "featured_collection_TdqH4B": {
           "type": "featured_collection",
           "settings": {
-            "collection": "lighting"
+            "collection": "lighting",
+            "title": ""
           }
         }
       },
@@ -118,12 +121,9 @@
         "featured_collection_TdqH4B"
       ],
       "settings": {
-        "title": "",
-        "image_ratio": "portrait",
-        "color_scheme": "background-1",
-        "swipe_on_mobile": false,
-        "image_padding": false,
-        "show_view_all": false
+        "styles": true,
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "image_banner_LwpA6H": {
