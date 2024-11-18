@@ -162,7 +162,7 @@
       ],
       "settings": {
         "styles": true,
-        "margin_top": "m",
+        "margin_top": "s",
         "margin_bot": "m"
       }
     },
