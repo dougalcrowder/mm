@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16354416148d3a6fb7": {
@@ -39,9 +48,9 @@
         "16354416148d3a6fb7-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_MM_Community.jpg",
+        "image": "shopify://shop_images/MM_Collections_Masthead_Images_-_MM_Community.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_MM_Community.jpg",
+        "mobile_image": "shopify://shop_images/MM_Collections_Mobile_Masthead_Images_-_MM_Community.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "constrain": false,
@@ -62,7 +71,7 @@
       "settings": {
         "show_image": true,
         "blog_header": "Press Releases",
-        "blog_intro": "<p>Dive in to some of Molly Mahon's colourful press releases that we have enjoyed over the years.  Contact us for further details or if you are looking to get in touch with our PR team at hello@mollymahon.com  <\/p>",
+        "blog_intro": "<p>Dive in to some of Molly Mahon's colourful press releases that we have enjoyed over the years. Contact us for further details and if you are looking to get in touch.<br/><br/>For PR enquiries, please contact our PR Team at<br/><a href=\"mailto:hannah@archelo.agency\">hannah@archelo.agency<br/><br/></a>Or for Marketing enquiries, please contact our Marketing team at<br/><a href=\"mailto:jemma@mollymahon.com\" target=\"_blank\">jemma@mollymahon.com</a>.</p>",
         "show_date": false,
         "show_author": false
       }

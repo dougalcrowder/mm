@@ -1,0 +1,265 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "image_banner_98iMz8": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UPnQUq": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        },
+        "text_43nnXE": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_8YeYpH": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UPnQUq",
+        "text_43nnXE",
+        "buttons_8YeYpH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_Christmas_2024_6_1_1_d0bbf307-8ec0-456f-8dff-c07e55f68a1c.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon_Christmas_2024_6_1_1.jpg",
+        "make_logo_white": false,
+        "top_margin": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_CP9YHy": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Personal Shopping Dates at Molly Mahon",
+        "heading_size": "medium",
+        "text": "<h4>Join us for a personal shopping experience here, where the Magic happens, at the Molly Mahon Forest Row Studio.</h4>",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
+      }
+    },
+    "multicolumn_i3MacA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qz9Mpj": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify://shop_images/MollyMahon_Christmas_2024_Presents_4_1_dbdcf1e1-ed94-4d75-a88f-fce589b0e198.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "column_q7KH6V": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "extrasmall",
+            "text": "<p>Browse to your hearts content, talk to Molly to discover her process and inspiration, feel the textures of her designs in the very space they are created and find your perfect Christmas gift.<br/></p><p>All purchases come with complimentary block printed gift wrapping with a ribbon. </p><p>And if you are feeling lucky why not enter our prize draw, open to everyone who comes.<br/>DON'T MISS OUT!</p><p>Don't forget to <strong>RSVP</strong> and let us know you are coming at<br/><strong>office@mollymahon.com</strong></p><p>We are excited to welcome you at the studio!</p>",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_qz9Mpj",
+        "column_q7KH6V"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_GPajQN": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "settings": {
+        "title": "Dates",
+        "heading_size": "medium",
+        "text": "",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
+      }
+    },
+    "2_column_text_7Fd4ki": {
+      "type": "2-column-text",
+      "blocks": {
+        "text_YCHij3": {
+          "type": "text",
+          "settings": {
+            "heading": "Late Night Shopping",
+            "heading_size": "medium",
+            "text": "<p>Thursday 5th December<br/>6:30 - 9pm<br/></p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center"
+          }
+        },
+        "text_G8wad8": {
+          "type": "text",
+          "settings": {
+            "heading": "Coffee & Shop Morning",
+            "heading_size": "medium",
+            "text": "<p>Saturday 7th December<br/>11am - 2pm</p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center"
+          }
+        }
+      },
+      "block_order": [
+        "text_YCHij3",
+        "text_G8wad8"
+      ],
+      "disabled": true,
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_PBy7Ty": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_XtrxFj": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "Late Night Shopping",
+            "subtitle_size": "medium",
+            "text": "<p>Thursday 5th December<br/>6:30 - 9pm<br/></p>",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "column_6NPKVw": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "Coffee & Shop Morning",
+            "subtitle_size": "medium",
+            "text": "<p>Saturday 7th December<br/>11am - 2pm</p>",
+            "button_color": "dark",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_XtrxFj",
+        "column_6NPKVw"
+      ],
+      "settings": {
+        "mc_title": "Dates",
+        "show_title": true,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_98iMz8",
+    "single_title_and_text_CP9YHy",
+    "multicolumn_i3MacA",
+    "single_title_and_text_GPajQN",
+    "2_column_text_7Fd4ki",
+    "multicolumn_PBy7Ty"
+  ]
+}

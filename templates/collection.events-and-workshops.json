@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "4303a565-ec1b-4b2c-ab2e-2746766f44f2": {
@@ -74,15 +74,14 @@
     },
     "4935b228-84d8-49a0-8b71-092d9ddd9c53": {
       "type": "mm_nav",
-      "settings": {
-      }
+      "settings": {}
     },
     "d35ce5b8-ad67-40b3-8669-c44a175c980a": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Workshops & Events",
         "heading_size": "medium",
-        "text": "<p>Make a day of it and come and join Molly at one of her fun and immersive workshops.  Also watch this space for upcoming talks and events with Molly.<br\/><em>\"We need to make time to be creative. It feeds and nourishes the soul.”<\/em>Molly Mahon<\/p>",
+        "text": "<p>Make a day of it and come and join Molly at one of her fun and immersive workshops.  Also watch this space for upcoming talks and events with Molly.<br/><em>\"We need to make time to be creative. It feeds and nourishes the soul.”</em>Molly Mahon</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text"
@@ -116,7 +115,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/95FBCCC0-CB81-4847-98D3-39F46B60A97F_1_105_c.jpg",
+        "image": "shopify://shop_images/95FBCCC0-CB81-4847-98D3-39F46B60A97F_1_105_c.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -143,10 +142,71 @@
         "collapse_on_larger_devices": false
       }
     },
+    "multicolumn_wMaYct": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ci6gHC": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "image": "shopify://shop_images/MollyMahon_Christmas_2024_5_1_1.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "column_XDeEX4": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "",
+            "subtitle": "PERSONAL SHOPPING DATES @ MM FOREST ROW STUDIO",
+            "subtitle_size": "extrasmall",
+            "text": "<p>Late Night Shopping <strong>Thursday 5th December</strong> 6:30-9pm</p><p>Coffee & Shop Morning <strong>Saturday 7th December</strong> 11am-2pm</p><p>All Purchases will receive complimentary block printed <strong>gift wrap</strong> with ribbon.</p><p>Enter our <strong>prize draw</strong> for everyone that comes. DON'T MISS OUT!!</p><p><strong>RSVP</strong> office@mollymahon.com</p>",
+            "button_color": "white",
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ci6gHC",
+        "column_XDeEX4"
+      ],
+      "disabled": true,
+      "settings": {
+        "mc_title": "IN PERSON SHOPPING EVENT",
+        "show_title": true,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "s"
+      }
+    },
     "bc80127c-1617-463c-8cb2-4b8ffe73395a": {
       "type": "text-banner",
       "settings": {
-        "title": "<p><strong>How about giving a workshop as a gift?<\/strong><\/p>",
+        "title": "<p><strong>How about giving a workshop as a gift?</strong></p>",
         "link": "",
         "bg_pattern": "pattern_01",
         "color_scheme": "blue_text",
@@ -157,24 +217,40 @@
     "a8d232d1-7bf0-4644-b831-8580e2694cb4": {
       "type": "events",
       "blocks": {
+        "event_46Jzfh": {
+          "type": "event",
+          "settings": {
+            "event_title": "",
+            "event_intro": "",
+            "event_description": "",
+            "event_date": "",
+            "event_extras": "",
+            "event_price": "",
+            "event_button_text": "",
+            "event_button_text_2": "",
+            "event_external_link": "",
+            "event_buy_btn": ""
+          }
+        },
         "template--14494582210618__a8d232d1-7bf0-4644-b831-8580e2694cb4-167276254330765cd4-0": {
           "type": "event",
           "settings": {
             "event_title": "Learn the art with Molly's Online Course",
             "event_intro": "In this vibrant online course, Molly explores the fundamentals of block printing, revealing her sources of inspiration and creative process so you can be empowered to start your own block printing projects at home.",
-            "event_description": "<p>Jam packed with tips, tricks, inspiration and tours of places I love including my own home, this course gives a real insight in to how I work and how block print can open a world of creativity. You can access all the items you need from our Supplies Store, from lovely eco fabric paints, to tools, items to print and wooden printing blocks. Block printing has changed my life and I hope will bring joy to yours.<\/p>",
-            "image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
+            "event_description": "<p>Jam packed with tips, tricks, inspiration and tours of places I love including my own home, this course gives a real insight in to how I work and how block print can open a world of creativity. You can access all the items you need from our Supplies Store, from lovely eco fabric paints, to tools, items to print and wooden printing blocks. Block printing has changed my life and I hope will bring joy to yours.</p>",
+            "image": "shopify://shop_images/CREATEAC_STILL_WS.jpg",
             "event_date": "On Demand",
             "event_extras": "19 video lessons with lesson plan",
             "event_price": "£127.00",
             "event_button_text": "Book here via Create Academy",
             "event_button_text_2": "",
-            "event_external_link": "https:\/\/www.createacademy.com\/courses\/molly-mahon",
+            "event_external_link": "https://www.createacademy.com/courses/molly-mahon",
             "event_buy_btn": ""
           }
         }
       },
       "block_order": [
+        "event_46Jzfh",
         "template--14494582210618__a8d232d1-7bf0-4644-b831-8580e2694cb4-167276254330765cd4-0"
       ],
       "settings": {
@@ -189,6 +265,7 @@
     "d35ce5b8-ad67-40b3-8669-c44a175c980a",
     "image_banner_TNEr8y",
     "product-grid",
+    "multicolumn_wMaYct",
     "bc80127c-1617-463c-8cb2-4b8ffe73395a",
     "a8d232d1-7bf0-4644-b831-8580e2694cb4"
   ]
