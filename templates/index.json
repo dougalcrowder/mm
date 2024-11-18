@@ -145,7 +145,7 @@
         "producter_L4M8Az"
       ],
       "settings": {
-        "styles": false,
+        "styles": true,
         "margin_top": "m",
         "margin_bot": "m"
       }
