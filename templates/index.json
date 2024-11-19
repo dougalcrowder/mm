@@ -42,7 +42,7 @@
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
-            "title": "",
+            "title": "Wallpaper",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -50,7 +50,7 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Wallpaper",
+            "button_label": "",
             "button_link": "shopify://collections/wallpaper",
             "subtext": ""
           }
@@ -64,7 +64,7 @@
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
-            "title": "",
+            "title": "Fabric",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -72,7 +72,7 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Fabric",
+            "button_label": "",
             "button_link": "shopify://collections/fabric",
             "subtext": ""
           }
