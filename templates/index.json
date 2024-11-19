@@ -135,6 +135,88 @@
         "margin_bot": "m"
       }
     },
+    "multicolumn_KRPX7J": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yKcYUf": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "column_GiQhmJ": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "Button label",
+            "button_link": "",
+            "subtext": ""
+          }
+        },
+        "column_YARmpV": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify://shop_images/MollyMahon_Cushion_Berry_Indigo_Sky_Iron_1200x1200_c31ead7c-1920-4541-baf8-038da7f430fa.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Column",
+            "subtitle": "Under the stars in style",
+            "subtitle_size": "small",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "shopify://collections/soft-furnishing-lighting",
+            "subtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_yKcYUf",
+        "column_GiQhmJ",
+        "column_YARmpV"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
     "image_banner_LwpA6H": {
       "type": "image-banner",
       "blocks": {
@@ -780,6 +862,7 @@
     "image_banner_JTwYUc",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "collection_list_ngqkRV",
+    "multicolumn_KRPX7J",
     "image_banner_LwpA6H",
     "multicolumn_JVTJqd",
     "image_banner_FnjGNt",
