@@ -13,7 +13,7 @@
   {%- else -%}
     {%- assign square_image = section.settings.image -%}
   {%- endif -%}
-  <div class="myhero{% if section.settings.top_margin %} margery{% endif %}{% if section.settings.constrain or section.settings.letterbox %} inner{% endif %} {% if section.settings.hover_text %} hover_text{% endif %} pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }} bg-{{ section.settings.bg_color_scheme }}">
+  <div class="myhero{% if section.settings.top_margin %} margery{% endif %}{% if section.settings.bordered %} bordered{% endif %}{% if section.settings.constrain or section.settings.letterbox %} inner{% endif %} {% if section.settings.hover_text %} hover_text{% endif %} pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }} bg-{{ section.settings.bg_color_scheme }}">
     {% if section.settings.constrain %}
       {% if section.settings.letterbox %}
       {% include 'image-hero-letterbox' %}
@@ -64,6 +64,12 @@
       "id": "top_margin",
       "default": false,
       "label": "Add a top margin"
+    },
+    {
+      "type": "checkbox",
+      "id": "bordered",
+      "default": false,
+      "label": "Add a gutter either side"
     },
     {
       "type": "checkbox",
