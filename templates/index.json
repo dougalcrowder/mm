@@ -298,7 +298,7 @@
             "auto_height": "none",
             "cover": true,
             "no_hover": false,
-            "title": "",
+            "title": "Gift ideas",
             "subtitle": "",
             "subtitle_size": "small",
             "text": "",
@@ -306,7 +306,7 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Gift ideas",
+            "button_label": "",
             "button_link": "shopify://collections/great-gifts",
             "subtext": ""
           }
