@@ -129,6 +129,7 @@
         "featured_collection_w74nca",
         "featured_collection_TdqH4B"
       ],
+      "disabled": true,
       "settings": {
         "styles": true,
         "margin_top": "s",
@@ -138,45 +139,47 @@
     "multicolumn_KRPX7J": {
       "type": "multicolumn",
       "blocks": {
-        "column_yKcYUf": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
-          }
-        },
         "column_GiQhmJ": {
           "type": "column",
           "settings": {
             "width": "one_third",
             "narrow": false,
+            "image": "shopify://shop_images/LIGHTINGLAUNCH_21.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
+            "title": "Lighting",
+            "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "",
+            "button_link": "shopify://collections/lighting",
+            "subtext": ""
+          }
+        },
+        "column_yKcYUf": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify://shop_images/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_11_1300x1300_505ad835-caf9-4da8-b526-2003316fdea3.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Loom Weave",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "shopify://collections/loom-weave",
             "subtext": ""
           }
         },
@@ -185,14 +188,14 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Cushion_Berry_Indigo_Sky_Iron_1200x1200_c31ead7c-1920-4541-baf8-038da7f430fa.jpg",
+            "image": "shopify://shop_images/mollymahon_lampshade_seed_bedroom_moorland_1300x1300_24ffbf73-f8eb-4f90-8e7d-2b628ee015bb.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
-            "title": "Column",
-            "subtitle": "Under the stars in style",
+            "title": "Bedroom",
+            "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -204,8 +207,8 @@
         }
       },
       "block_order": [
-        "column_yKcYUf",
         "column_GiQhmJ",
+        "column_yKcYUf",
         "column_YARmpV"
       ],
       "settings": {
