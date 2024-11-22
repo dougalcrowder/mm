@@ -384,7 +384,7 @@
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text",
+        "color_scheme": "blue_text",
         "margin_top": "sm",
         "margin_bot": "sm",
         "bg_color_scheme": "none",
