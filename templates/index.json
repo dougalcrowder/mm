@@ -16,7 +16,7 @@
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
-        "bordered": false,
+        "bordered": true,
         "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
