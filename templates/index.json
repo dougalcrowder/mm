@@ -374,10 +374,10 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Christmas_Website_Image_2_MollyMahon_Cushions_and_Trims.jpg",
-        "letterbox": true,
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
-        "bordered": false,
+        "bordered": true,
         "constrain": false,
         "desktop_text_box_position": "start",
         "desktop_text_box_position_horizontal": "center",
