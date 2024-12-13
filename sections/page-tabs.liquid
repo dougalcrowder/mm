@@ -100,10 +100,6 @@
           <li class="flex  border-bottom justify-between"><strong>Material</strong><p>{{ product.metafields.prod_list.material.value }}</p></li>
           {%- endif -%}
         
-          {%- if product.metafields.descriptors.care_guide != blank -%}
-          <li class="flex border-bottom justify-between"><strong>Care Guide</strong><div>{{ product.metafields.descriptors.care_guide }}</div></li>
-          {%- endif -%}
-        
           {%- if product.metafields.prod_list.vertical_repeat != blank -%}
           <li class="flex  border-bottom justify-between"><strong>Vertical Repeat</strong><p>{{ product.metafields.prod_list.vertical_repeat.value }}{{ product.metafields.prod_list.vertical_repeat.unit }}</p></li>
           {%- endif -%}
@@ -149,7 +145,11 @@
           {%- if product.metafields.custom.designed_by != blank -%}
           <li class="flex  border-bottom justify-between"><strong>Designed by</strong><p>{{ product.metafields.custom.designed_by.value }}</p></li>
           {%- endif -%}
-        
+
+          {%- if product.metafields.descriptors.care_guide != blank -%}
+          <li><strong>Care Guide</strong><div>{{ product.metafields.descriptors.care_guide }}</div></li>
+          {%- endif -%}
+          
         </ul>
       </div>
     </div>
