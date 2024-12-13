@@ -3,9 +3,11 @@
   {%- if section.settings.product_desc -%}
   {%- assign prodDesc = true -%}
   {%- endif -%}
-  {%- assign caredoc = product.metafields.descriptors.care_guide -%}
+  {%- assign caredoc = true -%}
   {%- assign custom_shipping = product.metafields.products.shipping_information -%}
 {%- endif -%}
+
+
 
 <div class="tabs outer">
   <div role="tablist" aria-label="Product Details Tabs" class="flex tablist">
@@ -18,7 +20,7 @@
   
   {%- if caredoc -%}  
     <button class="tabber" role="tab" aria-selected="false" aria-controls="panel-1b" id="tab-1b" tabindex="0">
-      Care Guide
+      Product Details
     </button>
   {%- endif -%}
   
@@ -51,6 +53,7 @@
   {%- if template contains 'product' -%}
   
   {%- if section.settings.product_desc -%}
+    
   <div id="panel-1a" role="tabpanel" tabindex="0" aria-labelledby="tab-1a">
   
   {%- if section.settings.description_image != blank -%}
@@ -79,13 +82,75 @@
   </div>
   {%- endif -%}
   </div>
+
   {%- endif -%}
   
   {%- if caredoc -%} 
   <div id="panel-1b" role="tabpanel" tabindex="0" aria-labelledby="tab-1b" hidden>
     <div class="flex tab_flex">
-      <div class="text rte">
-    {{ caredoc }}
+      <div class="spcsouter inner w900">
+        <ul class="product_specs">
+          {%- if product.metafields.shopify.country-of-origin != blank -%}
+            {% for country in product.metafields.shopify.country-of-origin.value %}
+          <li class="flex border-bottom justify-between"><strong>Origin</strong><p>{{ country.label }}</p></li>
+            {% endfor %}
+          {%- endif -%}
+        
+          {%- if product.metafields.custom.material.value != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Material</strong><p>{{ product.metafields.prod_list.material.value }}</p></li>
+          {%- endif -%}
+        
+          {%- if product.metafields.descriptors.care_guide != blank -%}
+          <li class="flex"><strong>Care Guide</strong>{ product.metafields.descriptors.care_guide }}</li>
+          {%- endif -%}
+        
+          {%- if product.metafields.prod_list.vertical_repeat != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Vertical Repeat</strong><p>{{ product.metafields.prod_list.vertical_repeat.value }}{{ product.metafields.prod_list.vertical_repeat.unit }}</p></li>
+          {%- endif -%}
+        
+          {%- if product.metafields.custom.horizontal_repeat != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Horizontal repeat</strong><p>{{ product.metafields.custom.horizontal_repeat.value }}{{ product.metafields.custom.horizontal_repeat.unit }}</p></li>
+          {%- endif -%}
+        
+          {%- if product.metafields.custom.height != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Height</strong><p>{{ product.metafields.custom.height.value }}{{ product.metafields.custom.height.unit }}</p></li>
+          {%- endif -%}
+        
+          {%- if product.metafields.custom.base_width != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Base Width</strong><p>{{ product.metafields.custom.base_width.value }}{{ product.metafields.custom.base_width.unit }}</p></li>
+          {%- endif -%}
+        
+          {%- if product.metafields.custom.top_width != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Top Width</strong><p>{{ product.metafields.custom.top_width.value }}{{ product.metafields.custom.top_width.unit }}</p></li>
+          {%- endif -%}
+        
+          {%- if product.metafields.custom.roll_width != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Roll Width</strong><p>{{ product.metafields.custom.roll_width.value }}{{ product.metafields.custom.roll_width.unit }}</p></li>
+          {%- endif -%}
+        
+          {%- if product.metafields.custom.fitting_type != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Fitting Type</strong><p>{{ product.metafields.custom.fitting_type.value }}</p></li>
+          {%- endif -%}
+        
+          {%- if product.metafields.custom.bulb_type != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Bulb Type</strong><p>{{ product.metafields.custom.bulb_type.value }}</p></li>
+          {%- endif -%}
+        
+          {%- if product.metafields.custom.lead_times != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Lead times</strong><p>{{ product.metafields.custom.lead_times.value }}</p></li>
+          {%- endif -%}
+          {%- assign variant = product.variants.first -%}
+          <li class="flex  border-bottom justify-between"><strong>Product code</strong><p>{{ variant.sku }}</p></li>
+        
+          {%- if product.metafields.custom.print_to_order != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Print to order</strong><p>{{ product.metafields.custom.print_to_order.value }}</p></li>
+          {%- endif -%}
+        
+          {%- if product.metafields.custom.designed_by != blank -%}
+          <li class="flex  border-bottom justify-between"><strong>Designed by</strong><p>{{ product.metafields.custom.designed_by.value }}</p></li>
+          {%- endif -%}
+        
+        </ul>
       </div>
     </div>
   </div>
