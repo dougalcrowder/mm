@@ -548,9 +548,8 @@
         "blocks": {
           "f439469d-22df-41e6-bd6e-0a4bbfb7c051": {
             "type": "notice",
-            "disabled": true,
             "settings": {
-              "title": "<p>Spend over £40 Get a Free Pouch</p>"
+              "title": "<p>Last Guaranteed Christmas Shipping</p>"
             }
           },
           "7904f93a-34bc-4fe4-b201-3c6863cab0af": {
@@ -574,8 +573,8 @@
           "238b3933-8740-4300-998e-2f49ad0fcb8c"
         ],
         "settings": {
-          "foreground": "white_text",
-          "background": "blue_bg",
+          "foreground": "dark_text",
+          "background": "green_bg",
           "styles": true
         }
       }
