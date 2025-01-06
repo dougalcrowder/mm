@@ -548,6 +548,7 @@
         "blocks": {
           "f439469d-22df-41e6-bd6e-0a4bbfb7c051": {
             "type": "notice",
+            "disabled": true,
             "settings": {
               "title": "<p><a href=\"/pages/latest-posting-dates-christmas-delivery\" title=\"Last Guaranteed Shipping Dates for 2024\">Last Guaranteed Christmas Shipping</a></p>"
             }
