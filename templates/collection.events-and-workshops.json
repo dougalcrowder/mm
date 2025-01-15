@@ -50,7 +50,7 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon_Workshops_Printing_Blockprint_1.jpg",
         "letterbox": false,
-        "mobile_image": "{{ collection.metafields.my_fields.collection_mobile_image.value }}",
+        "mobile_image": "shopify://shop_images/MollyMahon_Workshops_Printing_Blockprint_Square.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
