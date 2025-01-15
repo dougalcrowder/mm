@@ -48,7 +48,7 @@
         "template--14494590206010__4303a565-ec1b-4b2c-ab2e-2746766f44f2-1672759671fc9cf9af-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon_Workshops_WoodenBlocks_Blockprint_1.jpg",
+        "image": "shopify://shop_images/MollyMahon_Workshops_Printing_Blockprint_1.jpg",
         "letterbox": false,
         "mobile_image": "{{ collection.metafields.my_fields.collection_mobile_image.value }}",
         "make_logo_white": false,
