@@ -295,7 +295,7 @@
     "featured_collection_Jdxibq": {
       "type": "featured-collection",
       "settings": {
-        "title": "Beautiful Cushions",
+        "title": "Joyful Cushions",
         "collection": "new-cushions",
         "button_color": "seasonal",
         "products_to_show": 12,
@@ -462,7 +462,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify://shop_images/MoorHouse-49.jpg",
+            "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
@@ -474,7 +474,7 @@
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
-            "button_label": "Fabrics for Curtains",
+            "button_label": "Hospitality",
             "button_link": "shopify://pages/hospitality",
             "subtext": ""
           }
@@ -634,7 +634,7 @@
       "settings": {
         "heading": "Discover more..",
         "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.</p>",
-        "button_label": "See all Articles",
+        "button_label": "Read Journal",
         "button_color": "seasonal",
         "blog": "journal",
         "post_limit": 10

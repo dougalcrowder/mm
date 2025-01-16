@@ -155,7 +155,7 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "About us",
+              "heading": "About",
               "menu": "footer-1"
             }
           },
