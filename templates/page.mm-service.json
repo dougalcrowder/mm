@@ -1,17 +1,25 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "1657198256089a7c52": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Services",
         "heading_size": "medium",
-        "text": "<p>We are a family run business and provide a friendly open and informative service to all our clients and customers.<\/p><p>Molly Mahon offers a range of services alongside its retail offering.  We have a department specifically to cater for the trade industry.  We cross over further to work with the hospitality industry on exciting projects and Molly herself works on bespoke licensing designs in collaboration with other companies.<\/p><p>We also offer a bespoke colour service on our digitally printed fabrics & wallpapers.  Allowing customers to mix and match some of our designs (Deerhyrst Collection) to their colour specific schemes.  <\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to talk through  on +44 (0) 1342 825700.<\/p>",
+        "text": "<p>We are a family run business and provide a friendly open and informative service to all our clients and customers.</p><p>Molly Mahon offers a range of services alongside its retail offering.  We have a department specifically to cater for the trade industry.  We cross over further to work with the hospitality industry on exciting projects and Molly herself works on bespoke licensing designs in collaboration with other companies.</p><p>We also offer a bespoke colour service on our digitally printed fabrics & wallpapers.  Allowing customers to mix and match some of our designs (Deerhyrst Collection) to their colour specific schemes.  </p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email </a>or call us to talk through  on +44 (0) 1342 825700.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "red_text"
@@ -25,7 +33,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
+            "image": "shopify://shop_images/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -37,7 +45,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Open an Account",
-            "button_link": "shopify:\/\/pages\/trade",
+            "button_link": "shopify://pages/trade",
             "subtext": ""
           }
         },
@@ -46,7 +54,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/LEAF_GRASS_FIRMDALEHOTEL.jpg",
+            "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -58,7 +66,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Explore more",
-            "button_link": "shopify:\/\/pages\/hospitality",
+            "button_link": "shopify://pages/hospitality",
             "subtext": ""
           }
         },
@@ -67,7 +75,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FLORAL_MINI_BODEN_TOP.jpg",
+            "image": "shopify://shop_images/FLORAL_MINI_BODEN_TOP.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -79,7 +87,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Explore more",
-            "button_link": "shopify:\/\/pages\/licensing",
+            "button_link": "shopify://pages/collaborations",
             "subtext": ""
           }
         },
@@ -89,13 +97,13 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/2590830B-10A3-42A7-B2B9-8CE7AE8699C9_1_201_a_5fb2f284-c209-4a9b-b176-31911a895b31.jpg",
+            "image": "shopify://shop_images/2590830B-10A3-42A7-B2B9-8CE7AE8699C9_1_201_a_5fb2f284-c209-4a9b-b176-31911a895b31.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "Bespoke",
             "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -132,7 +140,6 @@
     },
     "1649773735fabcedda": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "164977373582025f2d-0": {
           "type": "heading",
@@ -153,7 +160,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Discover more",
-            "button_link_1": "shopify:\/\/pages\/about-us",
+            "button_link_1": "shopify://pages/about-us",
             "button_style_secondary_1": false,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -166,8 +173,9 @@
         "164977373582025f2d-1",
         "164977373582025f2d-2"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "image": "shopify://shop_images/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -190,7 +198,7 @@
       "settings": {
         "title": "Making Home",
         "heading_size": "medium",
-        "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.<\/p><p><strong>Why is home so important to us?<\/strong> <\/p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.<\/p>",
+        "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.</p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.</p><p><strong>Why is home so important to us?</strong> </p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "red_text"
@@ -201,7 +209,7 @@
       "disabled": true,
       "settings": {
         "label": "Discover More about our Craftsmanship",
-        "link": "shopify:\/\/pages\/block-printing",
+        "link": "shopify://pages/block-printing",
         "color_scheme": "dark"
       }
     },
@@ -210,20 +218,19 @@
       "disabled": true,
       "settings": {
         "label": "Discover our Workshops",
-        "link": "shopify:\/\/pages\/workshops-and-events",
+        "link": "shopify://pages/workshops-and-events",
         "color_scheme": "dark"
       }
     },
     "1662457944a6fa11f0": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1662457944812a8366-0": {
           "type": "column",
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/WALLPAPER_FERN_MUSTARD_KEANE_1200x900_8bee2e0a-c202-4d85-b87e-23da1198e5bd.jpg",
+            "image": "shopify://shop_images/WALLPAPER_FERN_MUSTARD_KEANE_1200x900_8bee2e0a-c202-4d85-b87e-23da1198e5bd.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -244,7 +251,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/GCTULII-2_54706d29-479b-4a9e-ba89-d12105a6e051.jpg",
+            "image": "shopify://shop_images/GCTULII-2_54706d29-479b-4a9e-ba89-d12105a6e051.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -265,6 +272,7 @@
         "1662457944812a8366-0",
         "1662457944812a8366-1"
       ],
+      "disabled": true,
       "settings": {
         "mc_title": "",
         "show_title": false,
