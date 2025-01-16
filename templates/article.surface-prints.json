@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,8 +30,7 @@
         "content": {
           "type": "content",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "share": {
           "type": "share",
@@ -38,8 +46,7 @@
         "content",
         "share"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "16577300071f976c5e": {
       "type": "image-banner",
@@ -55,7 +62,8 @@
           "type": "text",
           "settings": {
             "text": "An age old technique brought to the machine world",
-            "go_serif": true
+            "go_serif": true,
+            "constrain_text": false
           }
         },
         "1657730007a25f7230-2": {
@@ -76,23 +84,34 @@
         "1657730007a25f7230-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_SURFACEPRINT_STRAWBERRY_FOLDING_1800x900_d1aa69bd-2bc1-4904-9d29-c8c2d659147b.jpg",
+        "image": "shopify://shop_images/CRAFTSMANSHIP_SURFACEPRINT_STRAWBERRY_FOLDING_1800x900_d1aa69bd-2bc1-4904-9d29-c8c2d659147b.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "1662051804a5f184e4": {
       "type": "single-title_and_text",
       "settings": {
         "title": "",
-        "text": "<p>The heritage technique of surface printing is unique and gives a luxurious, tactile finish and feels closer to the beautiful craft of block printing, and how wallpaper used to be made.<\/p>",
-        "alignment": "center"
+        "heading_size": "medium",
+        "text": "<p>The heritage technique of surface printing is unique and gives a luxurious, tactile finish and feels closer to the beautiful craft of block printing, and how wallpaper used to be made.</p>",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1657730156eeff869f": {
@@ -103,7 +122,10 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_BINDI_PORTRAIT_1300x1300_f5d30fc5-ce41-4f6e-a841-89bb90dfb39d.jpg",
+            "image": "shopify://shop_images/SURFACE_PRINT_BINDI_PORTRAIT_1300x1300_f5d30fc5-ce41-4f6e-a841-89bb90dfb39d.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -122,7 +144,10 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_STRAWBERRY_PRINTING_1300X1300_35f51d0f-607b-4d6e-830f-bba110ac9ee6.jpg",
+            "image": "shopify://shop_images/SURFACE_PRINT_STRAWBERRY_PRINTING_1300X1300_35f51d0f-607b-4d6e-830f-bba110ac9ee6.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -141,7 +166,10 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BLOG_SURFACEPRINT_BINDI_PRINT_ROLLER_BLOCK_09.jpg",
+            "image": "shopify://shop_images/BLOG_SURFACEPRINT_BINDI_PRINT_ROLLER_BLOCK_09.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -160,7 +188,10 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_BINDI_PRINTING_1300X1300_c519be8d-3f38-4ee7-bf6b-d754939d3696.jpg",
+            "image": "shopify://shop_images/SURFACE_PRINT_BINDI_PRINTING_1300X1300_c519be8d-3f38-4ee7-bf6b-d754939d3696.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -184,15 +215,21 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "16620529066687c736": {
       "type": "single-title_and_text",
       "settings": {
         "title": "",
-        "text": "<p>The first surface-printing machine was invented in 1838, in Lancashire, which is still the centre of British wallpaper today, and also where our new designs are being printed - on those very same machines. <\/p><p>The technique copies the same process as hand block printing, by the roller block pulling the paint from the felt that is soaked in the water based printing ink.  It then rolls onto the paper in all its circular magic.  It’s absolutely mesmerising to watch.<\/p><p>Each colour has a different rubber roller, and they’ll all be going at once, layering on the different colours one after the other. <\/p>",
-        "alignment": "center"
+        "heading_size": "medium",
+        "text": "<p>The first surface-printing machine was invented in 1838, in Lancashire, which is still the centre of British wallpaper today, and also where our new designs are being printed - on those very same machines. </p><p>The technique copies the same process as hand block printing, by the roller block pulling the paint from the felt that is soaked in the water based printing ink.  It then rolls onto the paper in all its circular magic.  It’s absolutely mesmerising to watch.</p><p>Each colour has a different rubber roller, and they’ll all be going at once, layering on the different colours one after the other. </p>",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1663084331c1038c46": {
@@ -203,7 +240,10 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_BINDI_DEERHYRST_1300x1300_f3eb2ae0-06d7-45bf-b332-9ff78279a9f3.jpg",
+            "image": "shopify://shop_images/SURFACE_PRINT_BINDI_DEERHYRST_1300x1300_f3eb2ae0-06d7-45bf-b332-9ff78279a9f3.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -213,7 +253,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Shop Bindi Wallpaper",
-            "button_link": "shopify:\/\/products\/bindi-wallpaper-blue",
+            "button_link": "shopify://products/bindi-wallpaper-blue",
             "subtext": ""
           }
         },
@@ -222,7 +262,10 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SURFACE_PRINT_STRAWBERRY_COTTROOM_1300X1300_fa0a7946-6c00-4c25-b11f-432e78f4a594.jpg",
+            "image": "shopify://shop_images/SURFACE_PRINT_STRAWBERRY_COTTROOM_1300X1300_fa0a7946-6c00-4c25-b11f-432e78f4a594.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -232,7 +275,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Shop Strawberry Wallpaper",
-            "button_link": "shopify:\/\/products\/strawberry-wallpaper-grass",
+            "button_link": "shopify://products/strawberry-wallpaper-grass",
             "subtext": ""
           }
         }
@@ -244,15 +287,21 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "16630853350fec4243": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Outstanding Prints",
-        "text": "<p>When it's up on your wall, the paper - now textured with paint - gives the design more of an energy, a depth. And thanks to the tiny variations in how the paint lands on the paper, the result looks more like it might have been hand block printed - it has a beautifully nostalgic feel. <\/p>",
-        "alignment": "center"
+        "heading_size": "medium",
+        "text": "<p>When it's up on your wall, the paper - now textured with paint - gives the design more of an energy, a depth. And thanks to the tiny variations in how the paint lands on the paper, the result looks more like it might have been hand block printed - it has a beautifully nostalgic feel. </p>",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "164975103076740208": {
@@ -261,6 +310,7 @@
       "settings": {
         "title": "Shop hand block printed fabric",
         "collection": "hand-block-printed-fabric",
+        "button_color": "seasonal",
         "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": false
@@ -270,8 +320,8 @@
       "type": "simple-button",
       "settings": {
         "label": "Explore more of Craftsmanship",
-        "link": "shopify:\/\/blogs\/craftsmanship",
-        "color_scheme": "red"
+        "link": "shopify://blogs/craftsmanship",
+        "color_scheme": "dark"
       }
     }
   },
