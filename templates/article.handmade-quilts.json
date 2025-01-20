@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,8 +30,7 @@
         "content": {
           "type": "content",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "share": {
           "type": "share",
@@ -38,8 +46,7 @@
         "content",
         "share"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "16577300071f976c5e": {
       "type": "image-banner",
@@ -55,7 +62,8 @@
           "type": "text",
           "settings": {
             "text": "Designed in Sussex, hand blocked and handmade in Rajasthan",
-            "go_serif": true
+            "go_serif": true,
+            "constrain_text": false
           }
         },
         "1657730007a25f7230-2": {
@@ -76,29 +84,39 @@
         "1657730007a25f7230-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/QUILT_HAND_STITCHING.jpg",
+        "image": "shopify://shop_images/QUILT_HAND_STITCHING.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "16621341621a411ecc": {
       "type": "mm_nav",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "1662049711a6d1b6a3": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Some ways don't change",
-        "text": "<p>Every stage of our quilt production is done by hand - they are handwoven, hand block printed, hand carded and hand stitched in Jaipur pretty much as they would have been 300 years ago.<\/p>",
-        "alignment": "center"
+        "heading_size": "medium",
+        "text": "<p>Every stage of our quilt production is done by hand - they are handwoven, hand block printed, hand carded and hand stitched in Jaipur pretty much as they would have been 300 years ago.</p>",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1657786090cc89e628": {
@@ -117,7 +135,8 @@
           "disabled": true,
           "settings": {
             "text": "Make yourself a home.",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "1657786090a56f700f-2": {
@@ -139,15 +158,23 @@
         "1657786090a56f700f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_INDIA_BLOCK_CARVER.jpg",
+        "image": "shopify://shop_images/MM_INDIA_BLOCK_CARVER.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "16577858874502d623": {
@@ -162,7 +189,8 @@
         "1657785887e07c69d0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>First, the wooden blocks for the block printing need to be carved. Then the very fine, gauzy cotton called Mulmul (which becomes the soft outer shell) needs to be handwoven and hand block printed.<\/p>"
+            "text": "<p>First, the wooden blocks for the block printing need to be carved. Then the very fine, gauzy cotton called Mulmul (which becomes the soft outer shell) needs to be handwoven and hand block printed.</p>",
+            "code": ""
           }
         },
         "1657785887e07c69d0-2": {
@@ -179,7 +207,7 @@
         "1657785887e07c69d0-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+        "image": "shopify://shop_images/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -195,7 +223,10 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
+            "image": "shopify://shop_images/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -214,7 +245,10 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/FILLING_THE_QUILT.jpg",
+            "image": "shopify://shop_images/FILLING_THE_QUILT.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -236,15 +270,21 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false
+        "add_spacing": false,
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "16620510245132dc26": {
       "type": "single-title_and_text",
       "settings": {
         "title": "We are very proud of all the amazing people involved",
-        "text": "<p>Each stage is carried out by artisans using skills and tools that have been handed down through the generations.<\/p>",
-        "alignment": "center"
+        "heading_size": "medium",
+        "text": "<p>Each stage is carried out by artisans using skills and tools that have been handed down through the generations.</p>",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text"
       }
     },
     "1657730380748266d7": {
@@ -263,7 +303,8 @@
           "disabled": true,
           "settings": {
             "text": "Make yourself a home.",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "1657730379dcd0a206-2": {
@@ -285,15 +326,23 @@
         "1657730379dcd0a206-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/SEAMSTRESSES_HAND_STITCHING_QUILT_196c899b-780e-4801-8648-7e6fedd7597e.jpg",
+        "image": "shopify://shop_images/SEAMSTRESSES_HAND_STITCHING_QUILT_196c899b-780e-4801-8648-7e6fedd7597e.jpg",
+        "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "164975103076740208": {
@@ -301,6 +350,7 @@
       "settings": {
         "title": "Shop Quilts",
         "collection": "bedding-1",
+        "button_color": "seasonal",
         "products_to_show": 6,
         "show_view_all": true,
         "show_secondary_image": false
@@ -310,7 +360,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Explore more of our Craftsmanship",
-        "link": "shopify:\/\/blogs\/craftsmanship",
+        "link": "shopify://blogs/craftsmanship",
         "color_scheme": "dark"
       }
     }
