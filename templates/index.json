@@ -25,9 +25,9 @@
         "heading_JxhaCH"
       ],
       "settings": {
-        "image": "shopify://shop_images/Sale_Banner_3.jpg",
+        "image": "shopify://shop_images/Sale_Banner_Collection.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/Sale_Banner_Square.jpg",
+        "mobile_image": "shopify://shop_images/Sale_Banner_Collection.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "bordered": true,
