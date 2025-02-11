@@ -25,9 +25,9 @@
         "heading_JxhaCH"
       ],
       "settings": {
-        "image": "shopify://shop_images/Sale_Banner_1.jpg",
+        "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/Sale_Banner_Square_1.jpg",
+        "mobile_image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing_b54cc960-71cc-4cbc-9c7f-39dcbea45a94.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "bordered": true,
@@ -154,28 +154,6 @@
     "multicolumn_KRPX7J": {
       "type": "multicolumn",
       "blocks": {
-        "column_GiQhmJ": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Lampshade_TukTuk_Pink_Wallpaper_Coral_Blue.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Lighting",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/lighting",
-            "subtext": ""
-          }
-        },
         "column_yKcYUf": {
           "type": "column",
           "settings": {
@@ -198,6 +176,28 @@
             "subtext": ""
           }
         },
+        "column_GiQhmJ": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "narrow": false,
+            "image": "shopify://shop_images/MollyMahon-Fabric-Stripe-Blue.jpg",
+            "auto_height": "none",
+            "cover": false,
+            "no_hover": false,
+            "title": "Sale",
+            "subtitle": "",
+            "subtitle_size": "small",
+            "text": "",
+            "button_color": "white",
+            "color_scheme": "white_text",
+            "desktop_text_box_position": "center",
+            "text_align": "center",
+            "button_label": "",
+            "button_link": "shopify://collections/lighting",
+            "subtext": ""
+          }
+        },
         "column_YARmpV": {
           "type": "column",
           "settings": {
@@ -216,14 +216,14 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify://collections/soft-furnishing-lighting",
+            "button_link": "shopify://collections/sale",
             "subtext": ""
           }
         }
       },
       "block_order": [
-        "column_GiQhmJ",
         "column_yKcYUf",
+        "column_GiQhmJ",
         "column_YARmpV"
       ],
       "settings": {
