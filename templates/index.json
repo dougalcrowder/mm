@@ -303,6 +303,63 @@
         "show_secondary_image": false
       }
     },
+    "image_banner_CYYHWx": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_nVzgGt": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Layering with Cushions",
+            "heading_type": "header1"
+          }
+        },
+        "text_XyBf3z": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_8DTBqh": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nVzgGt",
+        "text_XyBf3z",
+        "buttons_8DTBqh"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Woodlands_Announcement.jpg",
+        "letterbox": false,
+        "make_logo_white": false,
+        "top_margin": false,
+        "bordered": true,
+        "bordered_dt": true,
+        "constrain": false,
+        "desktop_text_box_position": "start",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "blue_text",
+        "margin_top": "sm",
+        "margin_bot": "sm",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
     "multicolumn_JVTJqd": {
       "type": "multicolumn",
       "blocks": {
@@ -782,6 +839,7 @@
     "multicolumn_KRPX7J",
     "image_banner_FnjGNt",
     "featured_collection_Jdxibq",
+    "image_banner_CYYHWx",
     "multicolumn_JVTJqd",
     "image_banner_LwpA6H",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
