@@ -343,6 +343,7 @@
       "settings": {
         "image": "shopify://shop_images/Woodlands_Announcement.jpg",
         "letterbox": false,
+        "mobile_image": "shopify://shop_images/Molly_Mahon_Woodlands_Collection_Announcement_Square.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "bordered": true,
