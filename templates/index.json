@@ -14,9 +14,8 @@
       "blocks": {
         "heading_JxhaCH": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Award Winning",
+            "heading": "Main Image",
             "heading_type": "header1"
           }
         }
@@ -28,81 +27,91 @@
         "image": "shopify://shop_images/Sale_Banner_1.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/Sale_Banner_Square_1.jpg",
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": true,
         "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "start",
-        "text_align": "left",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "red_text",
+        "color_scheme": "dark_text",
         "margin_top": "none",
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
       }
     },
+    "single_title_and_text_VcQckG": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Joyful Prints For Joyful Homes",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
     "dedeec5c-28d6-4af0-961d-09abb7473182": {
       "type": "multicolumn",
       "blocks": {
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/Molly_Mahon_Wallpaper_Fern_Mustard_Rug_Landing_Coutry_Home_1300x1951_5f1ec9ca-a690-469f-8f57-a3ba31676842.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "Wallpaper",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/wallpaper",
-            "subtext": ""
-          }
-        },
         "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1": {
           "type": "column",
           "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/molly-mahon-fabric-luna-blue-yellow-1300x1300.jpg",
+            "width": "one_third",
+            "image": "shopify://shop_images/C9A39890-ACD3-4FF1-84F1-FEE0EA387B08.jpg",
             "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "Fabric",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
+            "title": "Fabrics",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "",
-            "button_link": "shopify://collections/fabric",
-            "subtext": ""
+            "button_link": "shopify://collections/fabric"
+          }
+        },
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly_Mahon_Wallpaper_Fern_Mustard_Rug_Landing_Coutry_Home_1300x1951_5f1ec9ca-a690-469f-8f57-a3ba31676842.jpg",
+            "auto_height": "portrait",
+            "title": "Wallpapers",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": "shopify://collections/wallpaper"
+          }
+        },
+        "column_nCQRwf": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon_Dianthus_Indigo-Iron.jpg",
+            "auto_height": "portrait",
+            "title": "Lookbooks",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "link label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1",
         "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2",
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1"
+        "column_nCQRwf"
       ],
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
-        "margin_top": "sm",
+        "margin_top": "none",
         "margin_bot": "s"
       }
     },
@@ -158,66 +167,39 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/MollyMahon_Lampshade_TukTuk_Pink_Wallpaper_Coral_Blue.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "Lighting",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "",
-            "button_link": "shopify://collections/lighting",
-            "subtext": ""
+            "button_link": "shopify://collections/lighting"
           }
         },
         "column_yKcYUf": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_11_1300x1300_505ad835-caf9-4da8-b526-2003316fdea3.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "Loom Weave",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "",
-            "button_link": "shopify://collections/loom-weave",
-            "subtext": ""
+            "button_link": "shopify://collections/loom-weave"
           }
         },
         "column_YARmpV": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/MollyMahon_Dianthus_Indigo-Iron.jpg",
             "auto_height": "square",
-            "cover": false,
-            "no_hover": false,
             "title": "Bedroom",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "",
-            "button_link": "shopify://collections/soft-furnishing-lighting",
-            "subtext": ""
+            "button_link": "shopify://collections/soft-furnishing-lighting"
           }
         }
       },
@@ -229,7 +211,9 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
@@ -275,7 +259,6 @@
       "settings": {
         "image": "shopify://shop_images/Christmas_Website_Image_2_MollyMahon_Cushions_and_Trims.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": true,
         "bordered_dt": true,
@@ -310,44 +293,26 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/STRAWBERRY_KITCHEN_CURTAINS_1600x_ef0466b7-bf6e-4ecb-a9aa-49300215800d.jpg",
             "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
             "title": "Kitchen & Dining",
-            "subtitle": "",
-            "subtitle_size": "extrasmall",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "",
-            "button_link": "shopify://collections/kitchen",
-            "subtext": ""
+            "button_link": "shopify://collections/kitchen"
           }
         },
         "column_kAAKWG": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/MollyMahon_Tapestry_Kits_Cusions_Joy_Love_DiamondsBlue_DiamondsRed_Poppy_7_HIGHRES_1200x1200_4b91029b-2123-452f-ae9b-73c9f04b3a44.jpg",
             "auto_height": "none",
-            "cover": true,
-            "no_hover": false,
             "title": "Tapestry",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "",
-            "button_link": "shopify://collections/tapestry-kits",
-            "subtext": ""
+            "button_link": "shopify://collections/tapestry-kits"
           }
         }
       },
@@ -358,7 +323,9 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
         "margin_top": "sm",
         "margin_bot": "m"
@@ -393,7 +360,6 @@
         "image": "shopify://shop_images/wallpaper_spotandstar_peagreen_bathroom_blinds_widestripe.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/mollymahon_bathroom_spot_star_widestripe_1300x1300_2e319006-7848-414d-9711-4cf96a9356c0.jpg",
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": true,
         "bordered_dt": true,
@@ -417,66 +383,39 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/EVL_WESTTHORPE_westhorpe-48.jpg",
             "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "Inspiration",
-            "button_link": "shopify://blogs/look-books",
-            "subtext": ""
+            "button_link": "shopify://blogs/look-books"
           }
         },
         "column_7w7E8C": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/GREENCOMBE_ATTIC_BEDROOM_MOBILE.jpg",
             "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "Order Samples",
-            "button_link": "shopify://collections/fabric-wallpaper-samples",
-            "subtext": ""
+            "button_link": "shopify://collections/fabric-wallpaper-samples"
           }
         },
         "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
             "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "Hospitality",
-            "button_link": "shopify://pages/hospitality",
-            "subtext": ""
+            "button_link": "shopify://pages/hospitality"
           }
         }
       },
@@ -488,7 +427,9 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
         "margin_top": "none",
         "margin_bot": "s"
@@ -550,7 +491,6 @@
       "settings": {
         "image": "shopify://shop_images/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
         "letterbox": true,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -574,44 +514,26 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP3_1300x1300_7f0d925c-b96a-4193-9e90-cbca5f856f5d.jpg",
             "auto_height": "square",
-            "cover": false,
-            "no_hover": true,
             "title": "Workshops",
-            "subtitle": "Come and join Molly for a creative and fun day of block printing",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "Find out more",
-            "button_link": "shopify://pages/workshops-and-events",
-            "subtext": ""
+            "button_link": "shopify://pages/workshops-and-events"
           }
         },
         "16571287126ed8a3c3-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
             "auto_height": "square",
-            "cover": false,
-            "no_hover": true,
             "title": "Printing Supplies",
-            "subtitle": "For the budding Block printer",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "Shop Supplies",
-            "button_link": "shopify://collections/supply-store",
-            "subtext": ""
+            "button_link": "shopify://collections/supply-store"
           }
         }
       },
@@ -623,7 +545,9 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
         "margin_top": "s",
         "margin_bot": "sm"
@@ -777,6 +701,7 @@
   },
   "order": [
     "image_banner_JTwYUc",
+    "single_title_and_text_VcQckG",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "collection_list_ngqkRV",
     "multicolumn_KRPX7J",
