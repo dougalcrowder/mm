@@ -225,11 +225,16 @@
       ],
       "settings": {
         "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing_b54cc960-71cc-4cbc-9c7f-39dcbea45a94.jpg",
+        "aspect_ratio": "square",
+        "width": true,
         "title": "",
+        "column_layout": "img_three_text_three",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first"
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "image_with_text_77LiyW": {
@@ -255,11 +260,16 @@
       ],
       "settings": {
         "image": "shopify://shop_images/IMG_6262.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
         "title": "",
+        "column_layout": "img_two_text_four",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first"
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "single_title_and_text_GAmte8": {
@@ -399,11 +409,16 @@
       ],
       "settings": {
         "image": "shopify://shop_images/FullSizeRender_9ed25abe-a513-41b4-ad8a-47a4e528fe5a.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
         "title": "",
+        "column_layout": "img_two_text_four",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first"
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "image_with_text_NpFUj6": {
@@ -429,11 +444,16 @@
       ],
       "settings": {
         "image": "shopify://shop_images/gravetye-2018-31.jpg",
+        "aspect_ratio": "landscape",
+        "width": false,
         "title": "",
+        "column_layout": "img_four_text_2",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first"
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "divider_WwKjVT": {
@@ -459,27 +479,24 @@
             "text": "<p>Poribus ium re num iur? Ur, cuscia cum rerum dolestis erum aliqui sim sanda nonsequi omnis molores sunt, voluptur ab idus, te pos remporr ovidestio. Nam, omnis accaesti tet maio molorepelit hic to berit verferem reptaerum architi blanis dolorib errorestiam, simporibus eates que vel ea volupta exero bla quat lam excerum siniet elentias everum as sita si qui conserspe eliae laudantiur autem iusda quam nosaped quam, ni sandis verum landebis magniti orianit il molorunt la solorat ionsed quia adi coribusamet eiundaepro comnihil eatquatis sunt iduntionem ilit adis id quodionsecta velende mperiam aci voluptatur? Ferepud</p>",
             "code": ""
           }
-        },
-        "button_qYAeMJ": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop colabs",
-            "button_link": "shopify://collections/soft-furnishing-lighting"
-          }
         }
       },
       "block_order": [
         "heading_PQAbJU",
-        "text_z4nXM6",
-        "button_qYAeMJ"
+        "text_z4nXM6"
       ],
       "settings": {
         "image": "shopify://shop_images/MollyMahon_Lampshade_TukTuk_Pink_Wallpaper_Coral_Blue.jpg",
+        "aspect_ratio": "square",
+        "width": true,
         "title": "",
+        "column_layout": "img_two_text_four",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first"
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "a1409fd8-a0db-4143-868e-69ee18c87d97": {
