@@ -445,36 +445,42 @@
         "blocks": {
           "6b210781-0668-445a-9d11-2b909bb26598": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
               "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
               "auto_height": "none",
               "title": "Hospitality",
               "text_align": "center",
+              "heading_type": "h2",
               "button_label": "",
               "button_link": "shopify://pages/hospitality"
             }
           },
           "c03841f0-f2e7-4fc2-95da-4a898113305e": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
               "image": "shopify://shop_images/craftsmanship_block_printing_bloom_1000x1500_02d23a48-b9c0-43c7-b7fe-df7188569737.jpg",
               "auto_height": "none",
               "title": "Craftsmanship",
               "text_align": "center",
+              "heading_type": "h2",
               "button_label": "",
               "button_link": "shopify://blogs/craftsmanship"
             }
           },
           "d71a2ae9-06f5-427a-b953-9691a3affb80": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
               "image": "shopify://shop_images/71528222-951B-4A77-AAA3-E364FD2E2580_1_105_c.jpg",
               "auto_height": "none",
               "title": "Lookbooks",
               "text_align": "center",
+              "heading_type": "h2",
               "button_label": "",
               "button_link": "shopify://blogs/look-books"
             }
@@ -488,6 +494,9 @@
         "settings": {
           "mc_title": "",
           "show_title": false,
+          "text_align": "center",
+          "title_margin": "l",
+          "gap": "medium",
           "border": false,
           "margin_top": "none",
           "margin_bot": "m"
