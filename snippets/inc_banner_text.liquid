@@ -3,9 +3,12 @@
     {%- for block in section.blocks -%}
       {%- case block.type -%}
         {%- when 'heading' -%}
-          {% if block.settings.heading_type == 'header1' %}<h1 class="{% else %}<h2 class="{% endif %} h0" {{ block.shopify_attributes }}>
-            <span>{{ block.settings.heading | escape }}</span>
+          {% if block.settings.heading_type == 'header1' %}
+            <h1 class="h0"><span>{{ block.settings.heading | escape }}</span></h1>
           </h2>
+          {% else %}
+          <h2 class="h0"><span>{{ block.settings.heading | escape }}</span></h2>
+        {% endif %}
         {%- when 'text' -%}
           <div class="text{% if block.settings.go_serif %} large serif{% endif %}{% if block.settings.constrain_text %} constrain_text{% endif %}" {{ block.shopify_attributes }}> 
             <span>{{ block.settings.text }}</span>
