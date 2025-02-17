@@ -227,14 +227,15 @@
         "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing_b54cc960-71cc-4cbc-9c7f-39dcbea45a94.jpg",
         "aspect_ratio": "square",
         "width": true,
-        "title": "",
         "column_layout": "img_three_text_three",
+        "gap": "xxl",
+        "text_width": "prose_medium",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "l"
       }
     },
     "image_with_text_77LiyW": {
@@ -262,8 +263,9 @@
         "image": "shopify://shop_images/IMG_6262.jpg",
         "aspect_ratio": "portrait",
         "width": true,
-        "title": "",
         "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -392,7 +394,7 @@
         "heading_gfzXNy": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Journal"
           }
         },
         "text_TYiDd6": {
@@ -411,14 +413,15 @@
         "image": "shopify://shop_images/FullSizeRender_9ed25abe-a513-41b4-ad8a-47a4e528fe5a.jpg",
         "aspect_ratio": "portrait",
         "width": true,
-        "title": "",
         "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose_medium",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "m"
+        "margin_top": "l",
+        "margin_bot": "l"
       }
     },
     "image_with_text_NpFUj6": {
@@ -445,9 +448,10 @@
       "settings": {
         "image": "shopify://shop_images/gravetye-2018-31.jpg",
         "aspect_ratio": "landscape",
-        "width": false,
-        "title": "",
-        "column_layout": "img_four_text_2",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "medium",
+        "text_width": "prose",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -489,8 +493,9 @@
         "image": "shopify://shop_images/MollyMahon_Lampshade_TukTuk_Pink_Wallpaper_Coral_Blue.jpg",
         "aspect_ratio": "square",
         "width": true,
-        "title": "",
         "column_layout": "img_two_text_four",
+        "gap": "xl",
+        "text_width": "prose_medium",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
