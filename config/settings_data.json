@@ -242,6 +242,7 @@
         "blocks": {
           "072e5e73-8808-4c6b-87d3-40137b8ad999": {
             "type": "heading",
+            "disabled": true,
             "settings": {
               "heading": "Sign up for 10% off your first order."
             }
