@@ -27,6 +27,7 @@
         "image": "shopify://shop_images/Sale_Banner_1.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/Sale_Banner_Square_1.jpg",
+        "respect_image": false,
         "top_margin": false,
         "bordered": true,
         "bordered_dt": false,
@@ -291,7 +292,9 @@
       "type": "image-banner",
       "settings": {
         "image": "shopify://shop_images/Woodlands_Announcement.jpg",
-        "letterbox": true,
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-Fabric-Stripe-Blue.jpg",
+        "respect_image": true,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
