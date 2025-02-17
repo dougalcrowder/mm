@@ -291,7 +291,7 @@
       "type": "image-banner",
       "settings": {
         "image": "shopify://shop_images/Woodlands_Announcement.jpg",
-        "letterbox": false,
+        "letterbox": true,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
