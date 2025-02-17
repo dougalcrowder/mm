@@ -8,7 +8,7 @@
   {%- else -%}
     {%- assign square_image = section.settings.image -%}
   {%- endif -%}
-  <div class="myhero{% if section.settings.top_margin %} margery{% endif %}{% if section.settings.bordered_dt %} bordered-dt{% endif %}{% if section.settings.bordered %} bordered-mb{% endif %}{% if section.settings.constrain or section.settings.letterbox %} inner{% endif %} {% if section.settings.hover_text %} hover_text{% endif %} pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }} bg-{{ section.settings.bg_color_scheme }}">
+  <div class="myhero{% unless section.settings.respect_image %} ratio_banner{% endunless %} {% if section.settings.top_margin %} margery{% endif %}{% if section.settings.bordered_dt %} bordered-dt{% endif %}{% if section.settings.bordered %} bordered-mb{% endif %}{% if section.settings.constrain or section.settings.letterbox %} inner{% endif %}{% if section.settings.respect_image %} inner nomax{% endif %} {% if section.settings.hover_text %} hover_text{% endif %} pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }} bg-{{ section.settings.bg_color_scheme }}">
     {% if section.settings.constrain %}
       {% if section.settings.letterbox %}
         {% include 'image-hero-letterbox' %}
@@ -34,7 +34,7 @@
   {
     "name": "t:sections.image-banner.name",
     "tag": "section",
-    "class": "image_banner ratio_banner",
+    "class": "image_banner",
     "settings": [
       {
         "type": "image_picker",
