@@ -55,6 +55,8 @@
         "mobile_image": "shopify://shop_images/MollyMahon_Christmas_2024_6_1_1.jpg",
         "make_logo_white": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -71,9 +73,9 @@
     "single_title_and_text_CP9YHy": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "Personal Shopping Dates at Molly Mahon",
+        "title": "Christmas Shopping Dates at Molly Mahon",
         "heading_size": "medium",
-        "text": "<h4>Join us for a personal shopping experience here, where the Magic happens, at the Molly Mahon Forest Row Studio.</h4>",
+        "text": "<h4>Join us for a in person shopping experience here, where the Magic happens, at the Molly Mahon Forest Row Studio.</h4>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text"
@@ -115,7 +117,7 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "extrasmall",
-            "text": "<p>Browse to your hearts content, talk to Molly to discover her process and inspiration, feel the textures of her designs in the very space they are created and find your perfect Christmas gift.<br/></p><p>All purchases come with complimentary block printed gift wrapping with a ribbon. </p><p>And if you are feeling lucky why not enter our prize draw, open to everyone who comes.<br/>DON'T MISS OUT!</p><p>Don't forget to <strong>RSVP</strong> and let us know you are coming at<br/><strong>office@mollymahon.com</strong></p><p>We are excited to welcome you at the studio!</p>",
+            "text": "<p>All purchases come with complimentary block printed gift wrapping with ribbon. </p><p>10% discount on all sales.</p><p>If you're feeling lucky why not enter our lucky dip, open to everyone who comes.<br/>DON'T MISS OUT!</p><p>Don't forget to <strong>RSVP</strong> and let us know you are coming at<br/><strong>office@mollymahon.com</strong></p><p>We are excited to welcome you at the studio!<br/><br/>Starlings Studio, Highgate Works, Tomtits Lane, RH185AT</p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",

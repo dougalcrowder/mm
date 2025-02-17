@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,8 +30,7 @@
         "content": {
           "type": "content",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "share": {
           "type": "share",
@@ -38,8 +46,7 @@
         "content",
         "share"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "16577300071f976c5e": {
       "type": "image-banner",
@@ -78,10 +85,12 @@
         "1657730007a25f7230-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
+        "image": "shopify://shop_images/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -107,7 +116,7 @@
         "1657786524a4b5ca65-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Designed with Spot & Star Pea Green wallpaper, matching paint (F&B - Arsenic) and Wide Stripe pink blind to finish off this gorgeous bathroom.<\/p><p>Below: Spot & Star Denim<\/p>",
+            "text": "<p>Designed with Spot & Star Pea Green wallpaper, matching paint (F&B - Arsenic) and Wide Stripe pink blind to finish off this gorgeous bathroom.</p><p>Below: Spot & Star Denim</p>",
             "code": ""
           }
         }
@@ -117,7 +126,7 @@
         "1657786524a4b5ca65-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_1300x1300_9612ad9b-6140-48a7-bc44-87b39a84a888.jpg",
+        "image": "shopify://shop_images/mollymahon_bathroom_spot_star_1300x1300_9612ad9b-6140-48a7-bc44-87b39a84a888.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -133,7 +142,7 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/wallpaper_spotandstar_peagreen_bathroom_blinds_widestripe.jpg",
+            "image": "shopify://shop_images/wallpaper_spotandstar_peagreen_bathroom_blinds_widestripe.jpg",
             "auto_height": "landscape",
             "cover": true,
             "no_hover": false,
@@ -155,7 +164,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_spot_star_widestripe_1000x1500_8bb62480-7c64-4ba8-abae-87cc3d0f2800.jpg",
+            "image": "shopify://shop_images/mollymahon_bathroom_spot_star_widestripe_1000x1500_8bb62480-7c64-4ba8-abae-87cc3d0f2800.jpg",
             "auto_height": "none",
             "cover": true,
             "no_hover": false,
@@ -194,7 +203,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1300X1300_5365882f-250d-42c9-9cc9-3db273a759a4.jpg",
+            "image": "shopify://shop_images/WALLPAPER_SPOT_STAR_BATHROOM_1300X1300_5365882f-250d-42c9-9cc9-3db273a759a4.jpg",
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
@@ -216,7 +225,7 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
+            "image": "shopify://shop_images/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -252,7 +261,7 @@
       "settings": {
         "title": "",
         "heading_size": "medium",
-        "text": "<p>Our wallpaper is high quality heavy duty paper that is wipeable with a damp cloth.  Therefore can withstand the daily splashes and humidity of bathrooms.  We of course advise to protect the most vulnerable of places from water like with the wood cladding in these two bathrooms above.<\/p>",
+        "text": "<p>Our wallpaper is high quality heavy duty paper that is wipeable with a damp cloth.  Therefore can withstand the daily splashes and humidity of bathrooms.  We of course advise to protect the most vulnerable of places from water like with the wood cladding in these two bathrooms above.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text"
@@ -297,10 +306,12 @@
         "1657730379dcd0a206-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
+        "image": "shopify://shop_images/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -326,7 +337,7 @@
         "1657785887e07c69d0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Coral Blue wallpaper with Bagru Pink fabric curtains, finished off with Berry Grass Sky fabric arm chair, a Molly Mahon rug and Bagru Pink wash bag.<\/p>",
+            "text": "<p>Coral Blue wallpaper with Bagru Pink fabric curtains, finished off with Berry Grass Sky fabric arm chair, a Molly Mahon rug and Bagru Pink wash bag.</p>",
             "code": ""
           }
         },
@@ -344,7 +355,7 @@
         "1657785887e07c69d0-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_CORAL_BLUE_DEERHYRST_1300X1300_6b6e204c-60b9-428f-b0d1-277231f4aa5e.jpg",
+        "image": "shopify://shop_images/WALLPAPER_CORAL_BLUE_DEERHYRST_1300X1300_6b6e204c-60b9-428f-b0d1-277231f4aa5e.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -391,10 +402,12 @@
         "1657786090a56f700f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_MARWARIHORSE_PINK_BATHROOM_1200X900_518cbfea-a7b7-452a-8800-766d08e85c9c.jpg",
+        "image": "shopify://shop_images/WALLPAPER_MARWARIHORSE_PINK_BATHROOM_1200X900_518cbfea-a7b7-452a-8800-766d08e85c9c.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -420,7 +433,7 @@
         "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Marwari Horse has been particularly popular with bathrooms and boot rooms over the years.  We have it in several colours as shown in Pink and Deep Blue here.<\/p><p>The Bagru blue fabric has been used to contrast the pink wallpaper in the above bathroom and opposite the Luna pink fabric blind has been used to bring a rich zap of colour to the space.<\/p>",
+            "text": "<p>Marwari Horse has been particularly popular with bathrooms and boot rooms over the years.  We have it in several colours as shown in Pink and Deep Blue here.</p><p>The Bagru blue fabric has been used to contrast the pink wallpaper in the above bathroom and opposite the Luna pink fabric blind has been used to bring a rich zap of colour to the space.</p>",
             "code": ""
           }
         },
@@ -438,7 +451,7 @@
         "template--14617782878266__dc2b6a0a-7746-41c5-95e1-80846ad735f5-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Wallpaper_Marwarihorse_blue_bathroom_1300x1300_1700a38b-62a5-47ca-bc95-7a1114411787.jpg",
+        "image": "shopify://shop_images/Wallpaper_Marwarihorse_blue_bathroom_1300x1300_1700a38b-62a5-47ca-bc95-7a1114411787.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -454,7 +467,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_marwarihorse_gold_1200x900_0b83647a-6552-4168-bce9-e2df87a6b210.jpg",
+            "image": "shopify://shop_images/mollymahon_bathroom_marwarihorse_gold_1200x900_0b83647a-6552-4168-bce9-e2df87a6b210.jpg",
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
@@ -476,7 +489,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_marwarihorse_fabric_luna_1300x1300_2967a2cc-fd81-4e6c-a3d9-4bdd5d03f554.jpg",
+            "image": "shopify://shop_images/mollymahon_bathroom_wallpaper_marwarihorse_fabric_luna_1300x1300_2967a2cc-fd81-4e6c-a3d9-4bdd5d03f554.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -519,7 +532,7 @@
         "template--14617782878266__06680242-b06e-456b-abb0-80a6abcf1607-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Birds & Bees Pea Green wallpaper.<\/p>",
+            "text": "<p>Birds & Bees Pea Green wallpaper.</p>",
             "code": ""
           }
         },
@@ -538,7 +551,7 @@
         "template--14617782878266__06680242-b06e-456b-abb0-80a6abcf1607-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_birds_bees_peagreen_1200x900_038ee895-431b-494f-919a-12c410cc9f42.jpg",
+        "image": "shopify://shop_images/mollymahon_bathroom_wallpaper_birds_bees_peagreen_1200x900_038ee895-431b-494f-919a-12c410cc9f42.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -558,7 +571,7 @@
         "16577878084a1c05f7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Fern Mustard wallpaper married with Marigold Yellow fabric blind<\/p>",
+            "text": "<p>Fern Mustard wallpaper married with Marigold Yellow fabric blind</p>",
             "code": ""
           }
         },
@@ -577,7 +590,7 @@
         "16577878084a1c05f7-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_fern_fabric_marigold_1000x1500_94048654-5487-430d-ab44-4b671c10c051.jpg",
+        "image": "shopify://shop_images/mollymahon_bathroom_wallpaper_fern_fabric_marigold_1000x1500_94048654-5487-430d-ab44-4b671c10c051.jpg",
         "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
@@ -593,7 +606,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_blind_bindi_pink_1000x1500_0fbf7734-7587-4663-a17f-50b10d4fe901.jpg",
+            "image": "shopify://shop_images/mollymahon_bathroom_blind_bindi_pink_1000x1500_0fbf7734-7587-4663-a17f-50b10d4fe901.jpg",
             "auto_height": "none",
             "cover": true,
             "no_hover": false,
@@ -606,7 +619,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Explore Fabric",
-            "button_link": "shopify:\/\/collections\/fabric",
+            "button_link": "shopify://collections/fabric",
             "subtext": ""
           }
         },
@@ -615,7 +628,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/mollymahon_bathroom_wallpaper_strawberry_1000x1500_3b6b3ef2-32be-4c4d-aa43-3ebe6d9a2be2.jpg",
+            "image": "shopify://shop_images/mollymahon_bathroom_wallpaper_strawberry_1000x1500_3b6b3ef2-32be-4c4d-aa43-3ebe6d9a2be2.jpg",
             "auto_height": "portrait",
             "cover": true,
             "no_hover": false,
@@ -628,7 +641,7 @@
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Explore Wallpaper",
-            "button_link": "shopify:\/\/collections\/wallpaper",
+            "button_link": "shopify://collections/wallpaper",
             "subtext": ""
           }
         }
@@ -650,8 +663,8 @@
       "type": "simple-button",
       "settings": {
         "label": "Back to the Look Books",
-        "link": "shopify:\/\/blogs\/look-books",
-        "color_scheme": "red"
+        "link": "shopify://blogs/look-books",
+        "color_scheme": "dark"
       }
     }
   },

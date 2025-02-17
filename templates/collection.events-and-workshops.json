@@ -14,6 +14,7 @@
       "blocks": {
         "template--14494590206010__4303a565-ec1b-4b2c-ab2e-2746766f44f2-1672759671fc9cf9af-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Get Stuck in on one of our courses",
             "heading_type": "header2"
@@ -47,15 +48,17 @@
         "template--14494590206010__4303a565-ec1b-4b2c-ab2e-2746766f44f2-1672759671fc9cf9af-2"
       ],
       "settings": {
-        "image": "{{ collection.image }}",
+        "image": "shopify://shop_images/MollyMahon_Workshops_Printing_Blockprint_1.jpg",
         "letterbox": false,
-        "mobile_image": "{{ collection.metafields.my_fields.collection_mobile_image.value }}",
+        "mobile_image": "shopify://shop_images/MollyMahon_Workshops_Printing_Blockprint_Square.jpg",
         "make_logo_white": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "end",
-        "text_align": "right",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text",
@@ -119,6 +122,8 @@
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -205,6 +210,7 @@
     },
     "bc80127c-1617-463c-8cb2-4b8ffe73395a": {
       "type": "text-banner",
+      "disabled": true,
       "settings": {
         "title": "<p><strong>How about giving a workshop as a gift?</strong></p>",
         "link": "",
@@ -219,6 +225,7 @@
       "blocks": {
         "event_46Jzfh": {
           "type": "event",
+          "disabled": true,
           "settings": {
             "event_title": "",
             "event_intro": "",

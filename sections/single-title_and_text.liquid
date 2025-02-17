@@ -1,125 +1,178 @@
-
-<div class="flex justify-{{ section.settings.vertical_alignment }} align-{{ section.settings.alignment }}">
-<div class="text color-{{ section.settings.color_scheme }} inset">
-  {%- if section.settings.title != blank -%}
-  <h2 class="{{ section.settings.heading_size }}">{{ section.settings.title }}</h2>
-  {%- endif -%}
-  {%- if section.settings.text != blank -%}
-  <div class="rte">
-    {{ section.settings.text }}
+<div class="pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }}">
+  <div class="flex justify-{{ section.settings.vertical_alignment }} align-{{ section.settings.alignment }}">
+    <div class="text color-{{ section.settings.color_scheme }}">
+      {%- if section.settings.title != blank -%}
+        <h2 class="mb-sm">{{ section.settings.title }}</h2>
+      {%- endif -%}
+      {%- if section.settings.text != blank -%}
+        <div class="rte text-{{ section.settings.font_type }}">
+          {{ section.settings.text }}
+        </div>
+      {%- endif -%}
+    </div>
   </div>
-  {%- endif -%}
-</div>
 </div>
 
 {% schema %}
-{
-  "name": "Title and Text",
-  "tag": "section",
-  "class": "text inner",
-  "settings": [
-    {
-    "type": "text",
-    "id": "title",
-    "default": "Outstanding prints",
-    "label": "Title"
-    },
-    {
-      "type": "select",
-      "id": "heading_size",
-      "options": [
-        {
-          "value": "small",
-          "label": "Small"
-        },
-        {
-          "value": "medium",
-          "label": "Medium"
-        },
-        {
-          "value": "large",
-          "label": "Large"
-        }
-      ],
-      "default": "medium",
-      "label": "Header Size"
-    },
-    {
-    "type": "richtext",
-    "id": "text",
-    "default": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
-    "label": "Text"
-    },
-    {
-    "type": "select",
-    "id": "vertical_alignment",
-    "options": [
-        {
-          "value": "start",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Centre"
-        },
-        {
-          "value": "end",
-          "label": "Right"
-        }
-      ],
-      "default": "center",
-      "label": "Text Block Position on desktop"
-    },
-    {
-    "type": "select",
-    "id": "alignment",
-    "options": [
-        {
-          "value": "left",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Centre"
-        },
-        {
-          "value": "right",
-          "label": "Right"
-        }
-      ],
-      "default": "center",
-      "label": "Text Justification"
-    },
-    {
-      "type": "select",
-      "id": "color_scheme",
-      "options": [
-        {
-          "value": "white_text",
-          "label": "white text"
-        },
-        {
-          "value": "red_text",
-          "label": "Red Text"
-        },
-        {
-          "value": "dark_text",
-          "label": "Dark Text"
-        },
-        {
-          "value": "blue_text",
-          "label": "Blue Text"
-        }
-      ],
-      "default": "red_text",
-      "label": "t:sections.image-banner.settings.color_scheme.label",
-      "info": "t:sections.image-banner.settings.color_scheme.info"
-    }
-  ],
-  "presets": [
-    {
-      "name": "Title and Text"
-    }
-  ]
-}
+  {
+    "name": "Title and Text",
+    "tag": "section",
+    "class": "text inner",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "default": "Outstanding prints",
+        "label": "Title"
+      },
+      {
+        "type": "richtext",
+        "id": "text",
+        "default": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
+        "label": "Text"
+      },
+      {
+        "type": "select",
+        "id": "font_type",
+        "options": [
+          {
+            "value": "body",
+            "label": "Body Style"
+          }, {
+            "value": "heading",
+            "label": "Heading Style"
+          }
+        ],
+        "default": "body",
+        "label": "Font style"
+      },
+      {
+        "type": "select",
+        "id": "vertical_alignment",
+        "options": [
+          {
+            "value": "start",
+            "label": "Left"
+          }, {
+            "value": "center",
+            "label": "Centre"
+          }, {
+            "value": "end",
+            "label": "Right"
+          }
+        ],
+        "default": "center",
+        "label": "Text Block Position on desktop"
+      }, {
+        "type": "select",
+        "id": "alignment",
+        "options": [
+          {
+            "value": "left",
+            "label": "Left"
+          }, {
+            "value": "center",
+            "label": "Centre"
+          }, {
+            "value": "right",
+            "label": "Right"
+          }
+        ],
+        "default": "center",
+        "label": "Text Justification"
+      }, {
+        "type": "select",
+        "id": "color_scheme",
+        "options": [
+          {
+            "value": "white_text",
+            "label": "white text"
+          },
+          {
+            "value": "red_text",
+            "label": "Red Text"
+          },
+          {
+            "value": "dark_text",
+            "label": "Dark Text"
+          },
+          {
+            "value": "blue_text",
+            "label": "Blue Text"
+          }, {
+            "value": "seasonal_text",
+            "label": "Seasonal Text"
+          }
+        ],
+        "default": "dark_text",
+        "label": "t:sections.image-banner.settings.color_scheme.label",
+        "info": "t:sections.image-banner.settings.color_scheme.info"
+      }, {
+        "type": "select",
+        "id": "margin_top",
+        "options": [
+          {
+            "value": "none",
+            "label": "None"
+          },
+          {
+            "value": "s",
+            "label": "Small"
+          },
+          {
+            "value": "sm",
+            "label": "Small Medium"
+          },
+          {
+            "value": "m",
+            "label": "Medium"
+          }, {
+            "value": "l",
+            "label": "Large"
+          }, {
+            "value": "xl",
+            "label": "X Large"
+          }
+        ],
+        "default": "none",
+        "label": "spacing above",
+        "info": "adjust the spacing for the panel"
+      }, {
+        "type": "select",
+        "id": "margin_bot",
+        "options": [
+          {
+            "value": "none",
+            "label": "None"
+          },
+          {
+            "value": "s",
+            "label": "Small"
+          },
+          {
+            "value": "sm",
+            "label": "Small Medium"
+          },
+          {
+            "value": "m",
+            "label": "Medium"
+          }, {
+            "value": "l",
+            "label": "Large"
+          }, {
+            "value": "xl",
+            "label": "X Large"
+          }
+        ],
+        "default": "m",
+        "label": "spacing below",
+        "info": "adjust the spacing for the panel"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Title and Text"
+      }
+    ]
+  }
 {% endschema %}

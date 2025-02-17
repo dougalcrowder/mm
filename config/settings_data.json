@@ -155,7 +155,7 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "About us",
+              "heading": "About",
               "menu": "footer-1"
             }
           },
@@ -243,13 +243,13 @@
           "072e5e73-8808-4c6b-87d3-40137b8ad999": {
             "type": "heading",
             "settings": {
-              "heading": "Sign up to our World of Block Print and receive a 10% discount on your first order."
+              "heading": "Sign up for 10% off your first order."
             }
           },
           "502d7e48-b4ed-4861-8f30-60a5f24bf26c": {
             "type": "paragraph",
             "settings": {
-              "text": "<p>We value our subscribers and offer colourful informative newsletters, special subscriber offers and tips of the trade.  You will also be the first to know of our new launches, offers and inspiration.</p>"
+              "text": ""
             }
           },
           "bd9030af-38b0-4569-857c-144a38231309": {
@@ -263,7 +263,7 @@
           "bd9030af-38b0-4569-857c-144a38231309"
         ],
         "settings": {
-          "quote": "<p>\"I find a room full of textures, layers and colours exciting and uplifting.\"</p>",
+          "quote": "<h4>\"I find a room full of textures, layers and colours exciting and uplifting.\"</h4>",
           "cite": "Molly Mahon"
         }
       },
@@ -445,68 +445,44 @@
         "blocks": {
           "6b210781-0668-445a-9d11-2b909bb26598": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
-              "narrow": false,
               "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
               "auto_height": "none",
-              "cover": true,
-              "no_hover": false,
               "title": "Hospitality",
-              "subtitle": "",
-              "subtitle_size": "small",
-              "text": "<p>Get to know the projects we work alongside in Hotels, Restaurants to television sets</p>",
-              "button_color": "white",
-              "color_scheme": "white_text",
-              "desktop_text_box_position": "center",
               "text_align": "center",
+              "heading_type": "h2",
               "button_label": "",
-              "button_link": "shopify://pages/hospitality",
-              "subtext": ""
+              "button_link": "shopify://pages/hospitality"
             }
           },
           "c03841f0-f2e7-4fc2-95da-4a898113305e": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
-              "narrow": false,
               "image": "shopify://shop_images/craftsmanship_block_printing_bloom_1000x1500_02d23a48-b9c0-43c7-b7fe-df7188569737.jpg",
               "auto_height": "none",
-              "cover": false,
-              "no_hover": false,
-              "title": "Meet",
-              "subtitle": "Our craftsmanship",
-              "subtitle_size": "small",
-              "text": "<p>Unique Perfect Imperfections.  We celebrate the art and craft behind making home</p>",
-              "button_color": "white",
-              "color_scheme": "white_text",
-              "desktop_text_box_position": "center",
+              "title": "Craftsmanship",
               "text_align": "center",
+              "heading_type": "h2",
               "button_label": "",
-              "button_link": "shopify://blogs/craftsmanship",
-              "subtext": ""
+              "button_link": "shopify://blogs/craftsmanship"
             }
           },
           "d71a2ae9-06f5-427a-b953-9691a3affb80": {
             "type": "column",
+            "disabled": true,
             "settings": {
               "width": "one_third",
-              "narrow": false,
               "image": "shopify://shop_images/71528222-951B-4A77-AAA3-E364FD2E2580_1_105_c.jpg",
               "auto_height": "none",
-              "cover": false,
-              "no_hover": false,
               "title": "Lookbooks",
-              "subtitle": "Discover the Molly Mahon look",
-              "subtitle_size": "small",
-              "text": "<p>Feast your eyes to get inspired and help you visualise Molly's designs</p>",
-              "button_color": "white",
-              "color_scheme": "white_text",
-              "desktop_text_box_position": "center",
               "text_align": "center",
+              "heading_type": "h2",
               "button_label": "",
-              "button_link": "shopify://blogs/look-books",
-              "subtext": ""
+              "button_link": "shopify://blogs/look-books"
             }
           }
         },
@@ -518,7 +494,9 @@
         "settings": {
           "mc_title": "",
           "show_title": false,
-          "add_spacing": true,
+          "text_align": "center",
+          "title_margin": "l",
+          "gap": "medium",
           "border": false,
           "margin_top": "none",
           "margin_bot": "m"
@@ -550,7 +528,7 @@
             "type": "notice",
             "disabled": true,
             "settings": {
-              "title": "<p>Spend over £40 Get a Free Pouch</p>"
+              "title": "<p><a href=\"/pages/latest-posting-dates-christmas-delivery\" title=\"Last Guaranteed Shipping Dates for 2024\">Last Guaranteed Christmas Shipping</a></p>"
             }
           },
           "7904f93a-34bc-4fe4-b201-3c6863cab0af": {
@@ -574,8 +552,8 @@
           "238b3933-8740-4300-998e-2f49ad0fcb8c"
         ],
         "settings": {
-          "foreground": "white_text",
-          "background": "blue_bg",
+          "foreground": "dark_text",
+          "background": "green_bg",
           "styles": true
         }
       }

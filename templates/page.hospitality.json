@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1649773735fabcedda": {
@@ -25,7 +34,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Discover more",
-            "button_link_1": "shopify:\/\/pages\/about-us",
+            "button_link_1": "shopify://pages/about-us",
             "button_style_secondary_1": false,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -39,10 +48,12 @@
         "164977373582025f2d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FIRMDALE_SOHO_LEAF_1800x900_518aa660-2b7f-43fd-88c8-9d18c6b68ff4.jpg",
+        "image": "shopify://shop_images/FIRMDALE_SOHO_LEAF_1800x900_518aa660-2b7f-43fd-88c8-9d18c6b68ff4.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -59,18 +70,17 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "1657198256089a7c52": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Hospitality",
         "heading_size": "medium",
-        "text": "<p>We have been approached from various hospitality trades including hotels, restaurants, rural pubs to television series.  We love working with these projects to bring our colour and pattern into commercial spaces.  If you are looking to create a unique, joyful and inspiring environment, contact us to discuss how we can work with you. <\/p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email <\/a>or call us to talk through  on +44 (0) 1342 825700.<\/p>",
+        "text": "<p>We have been approached from various hospitality trades including hotels, restaurants, rural pubs to television series.  We love working with these projects to bring our colour and pattern into commercial spaces.  If you are looking to create a unique, joyful and inspiring environment, contact us to discuss how we can work with you. </p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email </a>or call us to talk through  on +44 (0) 1342 825700.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
-        "color_scheme": "red_text"
+        "color_scheme": "dark_text"
       }
     },
     "16623726363d1c454c": {
@@ -81,19 +91,20 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BOMBAYBUSTLE_TUKTUK_1300x1300_45cdc535-e7f0-44f7-90dd-61d8943e21b4.jpg",
+            "image": "shopify://shop_images/BOMBAYBUSTLE_TUKTUK_1300x1300_45cdc535-e7f0-44f7-90dd-61d8943e21b4.jpg",
             "auto_height": "none",
             "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "Bombay Bustle",
             "subtitle_size": "medium",
-            "text": "<p>London<\/p>",
+            "text": "<p>London</p>",
             "button_color": "dark",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Take a Look",
-            "button_link": "shopify:\/\/pages\/hospitality-bombay-bustle",
+            "button_link": "shopify://pages/hospitality-bombay-bustle",
             "subtext": ""
           }
         },
@@ -102,9 +113,10 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/SOPHIEROBINSON_REVEALS_LANI_WALLPAPER_1300X1300_16482c2f-f42a-4919-8b82-d8138f1aef0e.jpg",
+            "image": "shopify://shop_images/SOPHIEROBINSON_REVEALS_LANI_WALLPAPER_1300X1300_16482c2f-f42a-4919-8b82-d8138f1aef0e.jpg",
             "auto_height": "none",
             "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "Sophie Robinson's television series - reveal",
             "subtitle_size": "small",
@@ -123,13 +135,14 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/DAPHNES_DIANTHUS_OUTSIDESEATING_1300X1300_8e2d5812-4c2a-44e1-b17d-56aa7cbaa7dc.jpg",
+            "image": "shopify://shop_images/DAPHNES_DIANTHUS_OUTSIDESEATING_1300X1300_8e2d5812-4c2a-44e1-b17d-56aa7cbaa7dc.jpg",
             "auto_height": "none",
             "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "Daphnes",
             "subtitle_size": "medium",
-            "text": "<p>London<\/p>",
+            "text": "<p>London</p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -144,13 +157,14 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/LEAF_GRASS_FIRMDALEHOTEL.jpg",
+            "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
             "auto_height": "none",
             "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "Firmdale Hotels",
             "subtitle_size": "medium",
-            "text": "<p>London | New York<\/p>",
+            "text": "<p>London | New York</p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -165,13 +179,14 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/CHRISTIES_DIANTHUS_BACKGROUND_1300X1300_5c02555f-ad0e-4b6f-bafe-ff283a702bca.jpg",
+            "image": "shopify://shop_images/CHRISTIES_DIANTHUS_BACKGROUND_1300X1300_5c02555f-ad0e-4b6f-bafe-ff283a702bca.jpg",
             "auto_height": "none",
             "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "Christie's Auction",
             "subtitle_size": "small",
-            "text": "<p>London<\/p>",
+            "text": "<p>London</p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -186,13 +201,14 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/THESWAN_BIRDS_BEES_BEDROOM_1300x1300_730cf24e-5a03-4381-abac-9478f1a0efc8.jpg",
+            "image": "shopify://shop_images/THESWAN_BIRDS_BEES_BEDROOM_1300x1300_730cf24e-5a03-4381-abac-9478f1a0efc8.jpg",
             "auto_height": "none",
             "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "The Swan",
             "subtitle_size": "medium",
-            "text": "<p>Chipping Norton, UK<\/p>",
+            "text": "<p>Chipping Norton, UK</p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -208,13 +224,14 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/LOMAX_GOLD_FERN_1300x1300_0032fc91-4bf9-4b22-b101-e0816952d97d.jpg",
+            "image": "shopify://shop_images/LOMAX_GOLD_FERN_1300x1300_0032fc91-4bf9-4b22-b101-e0816952d97d.jpg",
             "auto_height": "none",
             "cover": false,
+            "no_hover": false,
             "title": "",
             "subtitle": "Forbes & Lomax",
             "subtitle_size": "medium",
-            "text": "<p>UK<\/p>",
+            "text": "<p>UK</p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -258,7 +275,7 @@
       "settings": {
         "title": "Making Home",
         "heading_size": "medium",
-        "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.<\/p><p><strong>Why is home so important to us?<\/strong> <\/p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.<\/p>",
+        "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.</p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.</p><p><strong>Why is home so important to us?</strong> </p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "red_text"
@@ -266,7 +283,6 @@
     },
     "1657534986eb08901e": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "16575349860982ab1b-0": {
           "type": "heading",
@@ -301,12 +317,15 @@
         "16575349860982ab1b-1",
         "16575349860982ab1b-2"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
+        "image": "shopify://shop_images/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/MOLLY_PORTRAIT_STUDIO_LIFE_MOBILE_1300x1300_243b2461-51ef-41f9-8a6e-75317dd70895.jpg",
+        "mobile_image": "shopify://shop_images/MOLLY_PORTRAIT_STUDIO_LIFE_MOBILE_1300x1300_243b2461-51ef-41f9-8a6e-75317dd70895.jpg",
         "make_logo_white": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -326,7 +345,7 @@
       "settings": {
         "title": "",
         "heading_size": "medium",
-        "text": "<p><em>\"I never tire of lifting the block and seeing the impression that has been left, the slight movement that you get from a hand print is what I enthusiastically call ‘perfect imperfections.\"<\/em><\/p><p>There is something special about block printing that has stood the test of time.  To me it brings the fabric alive and this is exactly what it does to our homes.<\/p><p>I am a British printmaker who started at my kitchen table and now runs a design studio which distributes our designs globally.  Having partnered with Christies, Firmdale Hotels, Cabbages & Roses and more recently Boden amongst others we understand the power of pretty print and we aim to offer the most modern and fresh prints and colours amongst our community.  With all our designs being designed in house we can offer originality and a very bespoke signature with Molly overseeing all elements of design.<\/p><p>Molly runs her business with her husband Rollo and their children and their dog Bramble who are all very much involved.<\/p>",
+        "text": "<p><em>\"I never tire of lifting the block and seeing the impression that has been left, the slight movement that you get from a hand print is what I enthusiastically call ‘perfect imperfections.\"</em></p><p>There is something special about block printing that has stood the test of time.  To me it brings the fabric alive and this is exactly what it does to our homes.</p><p>I am a British printmaker who started at my kitchen table and now runs a design studio which distributes our designs globally.  Having partnered with Christies, Firmdale Hotels, Cabbages & Roses and more recently Boden amongst others we understand the power of pretty print and we aim to offer the most modern and fresh prints and colours amongst our community.  With all our designs being designed in house we can offer originality and a very bespoke signature with Molly overseeing all elements of design.</p><p>Molly runs her business with her husband Rollo and their children and their dog Bramble who are all very much involved.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "red_text"
@@ -338,7 +357,7 @@
       "settings": {
         "title": "",
         "heading_size": "medium",
-        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden<\/em><\/p>",
+        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden</em></p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "red_text"
@@ -346,7 +365,6 @@
     },
     "16578945700c2c5ca5": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "165789457062446127-0": {
           "type": "heading",
@@ -381,11 +399,14 @@
         "165789457062446127-1",
         "165789457062446127-2"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/PHOTO-2022-02-25-12-49-50_9462433f-6c8e-4884-b866-6c7fa035e7f2.jpg",
+        "image": "shopify://shop_images/PHOTO-2022-02-25-12-49-50_9462433f-6c8e-4884-b866-6c7fa035e7f2.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -405,7 +426,7 @@
       "settings": {
         "title": "Craftsmanship",
         "heading_size": "medium",
-        "text": "<p>‘The quality of design and work shown in something made by hand; artistry.'<\/p><p>We get to meet craftsman all over the world and champion our area of expertise in block printing.  When sourcing the people we want to align and work with, we take into consideration the quality they bring in their craftsmanship and that they have a similar love of producing products that will stand the test of time.<\/p><p>From hand block printing our fabrics to surface printing our wallpaper we use an array of techniques to bring unique product to you.<\/p>",
+        "text": "<p>‘The quality of design and work shown in something made by hand; artistry.'</p><p>We get to meet craftsman all over the world and champion our area of expertise in block printing.  When sourcing the people we want to align and work with, we take into consideration the quality they bring in their craftsmanship and that they have a similar love of producing products that will stand the test of time.</p><p>From hand block printing our fabrics to surface printing our wallpaper we use an array of techniques to bring unique product to you.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "red_text"
@@ -416,13 +437,12 @@
       "disabled": true,
       "settings": {
         "label": "Discover More about our Craftsmanship",
-        "link": "shopify:\/\/pages\/block-printing",
+        "link": "shopify://pages/block-printing",
         "color_scheme": "dark"
       }
     },
     "1649421151e2286ae0": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1649421151dae3f553-0": {
           "type": "heading",
@@ -457,11 +477,14 @@
         "1649421151dae3f553-1",
         "1649421151dae3f553-2"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/MOLLY_BLOCKPRINTING_BODEN.jpg",
+        "image": "shopify://shop_images/MOLLY_BLOCKPRINTING_BODEN.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -481,7 +504,7 @@
       "settings": {
         "title": "Creativity",
         "heading_size": "medium",
-        "text": "<p>The heart and soul of what we do is founded on creativity.<\/p><p>Creative acts are very inclusive, they create camaraderie, spark the imagination, allow us to realise our capabilities as humans.  If we create we can experience pride, delight and the feeling of being physical.  <\/p><p><em>\"My studio is my special space; while it bustles and hums with books, paint, blocks, scrapbooks, paper and a plethora of artists tools its also a place of calm, free of technology, a private and personal space where I can be completely ‘me’.\" Molly Mahon<\/em><\/p>",
+        "text": "<p>The heart and soul of what we do is founded on creativity.</p><p>Creative acts are very inclusive, they create camaraderie, spark the imagination, allow us to realise our capabilities as humans.  If we create we can experience pride, delight and the feeling of being physical.  </p><p><em>\"My studio is my special space; while it bustles and hums with books, paint, blocks, scrapbooks, paper and a plethora of artists tools its also a place of calm, free of technology, a private and personal space where I can be completely ‘me’.\" Molly Mahon</em></p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "red_text"
@@ -492,7 +515,7 @@
       "disabled": true,
       "settings": {
         "label": "Discover our Workshops",
-        "link": "shopify:\/\/pages\/workshops-and-events",
+        "link": "shopify://pages/workshops-and-events",
         "color_scheme": "dark"
       }
     },
@@ -502,7 +525,7 @@
       "settings": {
         "title": "Giving Back",
         "heading_size": "medium",
-        "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.<\/p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.<\/p>",
+        "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.</p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "red_text"

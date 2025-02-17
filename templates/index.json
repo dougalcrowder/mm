@@ -11,10 +11,23 @@
   "sections": {
     "image_banner_JTwYUc": {
       "type": "image-banner",
+      "blocks": {
+        "heading_JxhaCH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Main Image",
+            "heading_type": "header1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JxhaCH"
+      ],
       "settings": {
-        "image": "shopify://shop_images/fabric_tuktuk_pink_drying_rasa_1800x1000_7fb4c493-9a65-43c4-a7a5-0f69fcb50a25.jpg",
+        "image": "shopify://shop_images/Sale_Banner_1.jpg",
         "letterbox": false,
-        "make_logo_white": false,
+        "mobile_image": "shopify://shop_images/Sale_Banner_Square_1.jpg",
+        "respect_image": false,
         "top_margin": false,
         "bordered": true,
         "bordered_dt": false,
@@ -24,608 +37,117 @@
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "margin_top": "none",
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
+      }
+    },
+    "single_title_and_text_VcQckG": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Joyful Prints For Joyful Homes",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     },
     "dedeec5c-28d6-4af0-961d-09abb7473182": {
       "type": "multicolumn",
       "blocks": {
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/mollymahon-wallpaper-strawberry-lampshade-luna-bedroom-cot-1000x1500.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "Wallpaper",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/wallpaper",
-            "subtext": ""
-          }
-        },
         "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1": {
           "type": "column",
           "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/CLIENT_LUNA_PINK_CURTAINS.jpg",
+            "width": "one_third",
+            "image": "shopify://shop_images/C9A39890-ACD3-4FF1-84F1-FEE0EA387B08.jpg",
             "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "Fabric",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
+            "title": "Fabrics",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "",
-            "button_link": "shopify://collections/fabric",
-            "subtext": ""
+            "button_link": "shopify://collections/fabric"
+          }
+        },
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly_Mahon_Wallpaper_Fern_Mustard_Rug_Landing_Coutry_Home_1300x1951_5f1ec9ca-a690-469f-8f57-a3ba31676842.jpg",
+            "auto_height": "portrait",
+            "title": "Wallpapers",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": "shopify://collections/wallpaper"
+          }
+        },
+        "column_nCQRwf": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon_Dianthus_Indigo-Iron.jpg",
+            "auto_height": "portrait",
+            "title": "Lookbooks",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "link label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1",
         "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2",
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1"
+        "column_nCQRwf"
       ],
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "sm",
-        "margin_bot": "s"
-      }
-    },
-    "collection_list_ngqkRV": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_3JpyQz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bed-bath",
-            "title": ""
-          }
-        },
-        "featured_collection_bWJ7wG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "trims",
-            "title": ""
-          }
-        },
-        "featured_collection_w74nca": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "loom-weave",
-            "title": ""
-          }
-        },
-        "featured_collection_TdqH4B": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "lighting",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_3JpyQz",
-        "featured_collection_bWJ7wG",
-        "featured_collection_w74nca",
-        "featured_collection_TdqH4B"
-      ],
-      "settings": {
-        "styles": true,
-        "margin_top": "s",
-        "margin_bot": "m"
-      }
-    },
-    "multicolumn_KRPX7J": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_GiQhmJ": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/LIGHTINGLAUNCH_21.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Lighting",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/lighting",
-            "subtext": ""
-          }
-        },
-        "column_yKcYUf": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_11_1300x1300_505ad835-caf9-4da8-b526-2003316fdea3.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Loom Weave",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/loom-weave",
-            "subtext": ""
-          }
-        },
-        "column_YARmpV": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/mollymahon_lampshade_seed_bedroom_moorland_1300x1300_24ffbf73-f8eb-4f90-8e7d-2b628ee015bb.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Bedroom",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/soft-furnishing-lighting",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_GiQhmJ",
-        "column_yKcYUf",
-        "column_YARmpV"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "image_banner_LwpA6H": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_eHJFnU": {
-          "type": "heading",
-          "settings": {
-            "heading": "Decorating for Christmas",
-            "heading_type": "header1"
-          }
-        },
-        "text_X648qD": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_eHJFnU",
-        "text_X648qD"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon_TableRunner_Napkins_Luna_Pink_Crackers_TukTuk_Pink_Cutlery_Green_5_2_2fe05dce-8128-4c77-8dd7-759003c0add9.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon_TableRunner_Napkins_Luna_Pink_Crackers_TukTuk_Pink_Cutlery_Green_1_2379x1300_d9a9ae61-0b70-4d88-a956-a84b17a5e755.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "bordered": true,
-        "bordered_dt": true,
-        "constrain": false,
-        "desktop_text_box_position": "start",
-        "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "s",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
-    "featured_collection_Jdxibq": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Christmas Shop",
-        "collection": "christmas-edit",
-        "button_color": "seasonal",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "show_secondary_image": false
-      }
-    },
-    "multicolumn_JVTJqd": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_6hV6L4": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Christmas_2024_Molly_Stockings_5_1200x1200_40332817-28e1-45d7-94ef-3e4527b9392c.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "Finishing touches",
-            "subtitle": "",
-            "subtitle_size": "extrasmall",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/christmas-edit",
-            "subtext": ""
-          }
-        },
-        "column_kAAKWG": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/mollymahon_stationery_trinket_box_red_teal_1300x1300_0b98cca3-bd03-4340-af54-75875aa4c971.jpg",
-            "auto_height": "none",
-            "cover": true,
-            "no_hover": false,
-            "title": "Gift ideas",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/great-gifts",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_6hV6L4",
-        "column_kAAKWG"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "sm",
-        "margin_bot": "m"
-      }
-    },
-    "image_banner_FnjGNt": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_mmmAGM": {
-          "type": "heading",
-          "settings": {
-            "heading": "Layering with Cushions",
-            "heading_type": "header1"
-          }
-        },
-        "text_CV3Bm7": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "buttons_4TM6gc": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_mmmAGM",
-        "text_CV3Bm7",
-        "buttons_4TM6gc"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Christmas_Website_Image_2_MollyMahon_Cushions_and_Trims.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": false,
-        "bordered": true,
-        "bordered_dt": true,
-        "constrain": false,
-        "desktop_text_box_position": "start",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "blue_text",
-        "margin_top": "sm",
-        "margin_bot": "sm",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
-    "20923eed-ecdf-4786-8836-2e8d1d372264": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/mollymahon_bathroom_spot_star_widestripe_1300x1300_2e319006-7848-414d-9711-4cf96a9356c0.png",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Inspiration",
-            "button_link": "shopify://blogs/look-books",
-            "subtext": ""
-          }
-        },
-        "column_7w7E8C": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/GREENCOMBE_ATTIC_BEDROOM_MOBILE.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Order Samples",
-            "button_link": "shopify://collections/fabric-wallpaper-samples",
-            "subtext": ""
-          }
-        },
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/MoorHouse-49.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Fabrics for Curtains",
-            "button_link": "shopify://pages/hospitality",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0",
-        "column_7w7E8C",
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
         "margin_top": "none",
         "margin_bot": "s"
       }
     },
-    "a1409fd8-a0db-4143-868e-69ee18c87d97": {
-      "type": "simple_quote",
-      "disabled": true,
+    "divider_rhAXLn": {
+      "type": "divider",
       "settings": {
-        "quote": "<p>Workshops & Supply Store</p>",
-        "cite": "Budding Block Printer?  Get creative with our eco supplies and fun workshops",
-        "bg": "green",
-        "heading_size": "medium",
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "single_title_and_text_cGBWaY": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Woodlands",
+        "text": "<p>Molly quote about woodlands. Inspiration? Message? Connection? <br/>Cum, consequam illa veri aut modi vero illuptu rerion pero ium re, quatecusam, quid et vellest ionsequidunt veliquatur? Quibusa picillab idelest pere sitatas esedis min pe nost dolor aut veligendenis es entia num voloribus ipsunt intia vollabo. Ut reium ex etur? Eresect atatem fugiatisciur audi omnitatur sume nonserferia nis maximag nimodi optur, odiant aut exerrovidel mos molupta testinv</p>",
+        "font_type": "heading",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text",
-        "bg_color_scheme": "none",
         "margin_top": "none",
         "margin_bot": "none"
-      }
-    },
-    "image_banner_JcUcii": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_NXgbNP": {
-          "type": "heading",
-          "settings": {
-            "heading": "Workshops & Supply Store",
-            "heading_type": "header1"
-          }
-        },
-        "text_84ULJG": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "buttons_cFTjcc": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_NXgbNP",
-        "text_84ULJG",
-        "buttons_cFTjcc"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
-        "letterbox": true,
-        "make_logo_white": false,
-        "top_margin": false,
-        "bordered": false,
-        "bordered_dt": false,
-        "constrain": true,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "darken",
-        "hover_text": false
-      }
-    },
-    "165712871247f6866c": {
-      "type": "multicolumn",
-      "blocks": {
-        "16571287126ed8a3c3-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP3_1300x1300_7f0d925c-b96a-4193-9e90-cbca5f856f5d.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": true,
-            "title": "Workshops",
-            "subtitle": "Come and join Molly for a creative and fun day of block printing",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Find out more",
-            "button_link": "shopify://pages/workshops-and-events",
-            "subtext": ""
-          }
-        },
-        "16571287126ed8a3c3-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": true,
-            "title": "Printing Supplies",
-            "subtitle": "For the budding Block printer",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Supplies",
-            "button_link": "shopify://collections/supply-store",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "16571287126ed8a3c3-0",
-        "16571287126ed8a3c3-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "s",
-        "margin_bot": "sm"
-      }
-    },
-    "16348167313be3ffb8": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Discover more..",
-        "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.</p>",
-        "button_label": "See all Articles",
-        "button_color": "seasonal",
-        "blog": "journal",
-        "post_limit": 10
       }
     },
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
       "type": "video",
       "blocks": {
+        "text_3Ri8fR": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
         "28c6237f-93a5-442d-8ca9-2b00f30af1ad": {
           "type": "buttons",
           "disabled": true,
@@ -642,6 +164,7 @@
         }
       },
       "block_order": [
+        "text_3Ri8fR",
         "28c6237f-93a5-442d-8ca9-2b00f30af1ad"
       ],
       "settings": {
@@ -658,6 +181,365 @@
         "text_box_max_width": "800",
         "color_scheme": "white_text",
         "eyedee": ""
+      }
+    },
+    "divider_4brE4j": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "l",
+        "hr": true
+      }
+    },
+    "featured_collection_Jdxibq": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Joyful Cushions",
+        "collection": "new-cushions",
+        "button_color": "seasonal",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
+    "image_with_text_CC4PWC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TwFkBg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Text About Molly Mahon"
+          }
+        },
+        "text_fetT6i": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Imos andam sunt offictae num quiatia ersperfero moditaquatet ut ipsam ut lanissi tatiae. El eriatur, acit, consequ atemperiatur aut moluptas assita a pores moluptatione pro commolu ptatemperum qui ande occabor ruptae. Et eni re occaecte volenimusame pro tem nonsed minum acepelis eseque doluptatium eaquia volore veliquis sit hil ipicim sitae pa et autemque pore, ommodigente pellorat quis moluptation prat eosto et</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_TwFkBg",
+        "text_fetT6i"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing_b54cc960-71cc-4cbc-9c7f-39dcbea45a94.jpg",
+        "aspect_ratio": "square",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "xxl",
+        "text_width": "prose_medium",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "l"
+      }
+    },
+    "image_with_text_77LiyW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6zTxXH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Craftsmanship"
+          }
+        },
+        "text_aaPLNV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Raectaqui dolupiciat voluptat et iuntem eiur sed eaqui dolenti bearum qui bea consectas molor assedit hici aspid quia distorectis dolecaepel eatiaesequis qui rate conemporum arum estecae moluptum, sitat por aut aut dolore adis et qui dolo blamusam ventinias ad quo voluptat quossit inverfe ruptatur, solorit iuscit laut quodio veror sitium a adisquis etur, odit estibus voluptatus, cusdande illupti untia dolo bla quatint quidia dolore vellitate volest, omnimos mi, simet es alis adiassi tatqui volest aut et, earci ulparum la andaeriae dem qui illit voluptas as enderat faccaep erferchil eum vella por modi.aut fugit, odit lab ipienimolor secaepu ditaspe lluptatio. Ut adigeni maximpora comnimo luptatur, cus, quunderatur aut opta dicil id qui con cusam, cum, sita sum, omnis dolore dolupitae nonsequ atendit ape quo to quas sequunt otatem hit fugiasp icimi, nos rernat es id ero quunditatem. Ut iume que re doluptias sunt. <br/>Ga. Pudae sum res et lant volupid essimus, qui omnisin verferferit, quamus.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_6zTxXH",
+        "text_aaPLNV"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_6262.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "single_title_and_text_GAmte8": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Sustainability",
+        "text": "<p>Pa sequis ad ut volesci atectur aut omnimenihil ium et latatistrum quatque velesse quiandandit ad quis as sum cullanim facerum, sum aliquid ebitate cuptatatum enimusam ipsum et officipide vitatur solum aut essinct urepellenis ex enis repudam iusant audaepe sapiduciet fugia cusdam, totat es sollique quam num as velitaturi aut ius et quaerum fugia doluptatiis renisciur aut experna tectiscit et pro beatessit, volum autatur? Qui sequame ped eium est doluptatur re eum ulla pa ium con re non rerepud itecerferion parumqu idicipsam denecup itiberi taquaec toreius quidebit omnis moluptatur rem quam faceped qui cullaborro etur as idus disint voloremperum quos expe dolessimus sitatiation re nossimo luptas am autet aut occum rat. Resequae re, solorerro commolu ptaquatqui andam quassedit fuga. Sed qui asimil mos enimin re vel idunducias volorrum remqui bererunt, alicidis pra erion nonseribus con etur rendit resti aut quam hiciae laborum coris quatium endam, sit que sincidu ciasperum nes aligeni stionsequae occulparum sa</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_banner_W8Wbr3": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Woodlands_Announcement.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-Fabric-Stripe-Blue.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "divider_cxEAtf": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "single_title_and_text_CTJFt9": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Inspire Your Next Project",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "20923eed-ecdf-4786-8836-2e8d1d372264": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/EVL_WESTTHORPE_westhorpe-48.jpg",
+            "auto_height": "square",
+            "title": "Lookbooks",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "Inspiration",
+            "button_link": "shopify://blogs/look-books"
+          }
+        },
+        "column_7w7E8C": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/GREENCOMBE_ATTIC_BEDROOM_MOBILE.jpg",
+            "auto_height": "square",
+            "title": "Customer Projects",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "Order Samples",
+            "button_link": "shopify://collections/fabric-wallpaper-samples"
+          }
+        },
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
+            "auto_height": "square",
+            "title": "Moodboards",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "Hospitality",
+            "button_link": "shopify://pages/hospitality"
+          }
+        }
+      },
+      "block_order": [
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0",
+        "column_7w7E8C",
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1"
+      ],
+      "settings": {
+        "mc_title": "Lookbooks",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "small",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "s"
+      }
+    },
+    "image_with_text_Va4xdy": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gfzXNy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Journal"
+          }
+        },
+        "text_TYiDd6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Find out more about Mollys world and hoings on... Quiaestiist officta imil explitatet et eiciliquia sequam fuga. Itatus, ium, ium reribea sim ut uta sandio bla nus prepe nos con nus ad exerspe rcidisit eos necabo. Sed et, consecto et parchicit, num inciis quo voloriam ut estemque optatur rentur? Nitiaesti beriam as cusandi ctotaep erepedi tecus nulla il mo omnia pre officim inimillabo. Porem laboristor sit labo. Eperitaqui simin pa vel ipsandi omnimaximi, sitat anis dolupis atem quis aut moditatur sed ma conse et eiumqui busciam, odis pa pelesti orroria de et quae</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_gfzXNy",
+        "text_TYiDd6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/FullSizeRender_9ed25abe-a513-41b4-ad8a-47a4e528fe5a.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose_medium",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "l",
+        "margin_bot": "l"
+      }
+    },
+    "image_with_text_NpFUj6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CUAGJ3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Workshops"
+          }
+        },
+        "text_cCjdmT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Poribus ium re num iur? Ur, cuscia cum rerum dolestis erum aliqui sim sanda nonsequi omnis molores sunt, voluptur ab idus, te pos remporr ovidestio. Nam, omnis accaesti tet maio molorepelit hic to berit verferem reptaerum architi blanis dolorib errorestiam, simporibus eates que vel ea volupta exero bla quat lam excerum siniet elentias everum as sita si qui conserspe eliae laudantiur autem iusda quam nosaped quam,</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CUAGJ3",
+        "text_cCjdmT"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gravetye-2018-31.jpg",
+        "aspect_ratio": "landscape",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "medium",
+        "text_width": "prose",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "divider_WwKjVT": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "image_with_text_GPJmCR": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_PQAbJU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Collaborations"
+          }
+        },
+        "text_z4nXM6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Poribus ium re num iur? Ur, cuscia cum rerum dolestis erum aliqui sim sanda nonsequi omnis molores sunt, voluptur ab idus, te pos remporr ovidestio. Nam, omnis accaesti tet maio molorepelit hic to berit verferem reptaerum architi blanis dolorib errorestiam, simporibus eates que vel ea volupta exero bla quat lam excerum siniet elentias everum as sita si qui conserspe eliae laudantiur autem iusda quam nosaped quam, ni sandis verum landebis magniti orianit il molorunt la solorat ionsed quia adi coribusamet eiundaepro comnihil eatquatis sunt iduntionem ilit adis id quodionsecta velende mperiam aci voluptatur? Ferepud</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_PQAbJU",
+        "text_z4nXM6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_Lampshade_TukTuk_Pink_Wallpaper_Coral_Blue.jpg",
+        "aspect_ratio": "square",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "xl",
+        "text_width": "prose_medium",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "a1409fd8-a0db-4143-868e-69ee18c87d97": {
+      "type": "simple_quote",
+      "settings": {
+        "quote": "<p>Workshops & Supply Store</p>",
+        "cite": "Budding Block Printer?  Get creative with our eco supplies and fun workshops",
+        "bg": "green",
+        "heading_size": "medium",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "white_text",
+        "bg_color_scheme": "none",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "divider_BnhwFD": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "none",
+        "hr": true
+      }
+    },
+    "16348167313be3ffb8": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "heading": "Discover more..",
+        "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.</p>",
+        "button_label": "Read Journal",
+        "button_color": "seasonal",
+        "blog": "journal",
+        "post_limit": 10
       }
     },
     "16348163341a2e5254": {
@@ -738,6 +620,7 @@
         "b3638c37-80b2-4963-9497-730c5a8367d7",
         "c5462cbc-a60b-4b23-b26e-1522064bd96b"
       ],
+      "disabled": true,
       "settings": {
         "title": "@mollymahonblockprinting",
         "subtitle": "",
@@ -760,19 +643,27 @@
   },
   "order": [
     "image_banner_JTwYUc",
+    "single_title_and_text_VcQckG",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
-    "collection_list_ngqkRV",
-    "multicolumn_KRPX7J",
-    "image_banner_LwpA6H",
-    "featured_collection_Jdxibq",
-    "multicolumn_JVTJqd",
-    "image_banner_FnjGNt",
-    "20923eed-ecdf-4786-8836-2e8d1d372264",
-    "a1409fd8-a0db-4143-868e-69ee18c87d97",
-    "image_banner_JcUcii",
-    "165712871247f6866c",
-    "16348167313be3ffb8",
+    "divider_rhAXLn",
+    "single_title_and_text_cGBWaY",
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
+    "divider_4brE4j",
+    "featured_collection_Jdxibq",
+    "image_with_text_CC4PWC",
+    "image_with_text_77LiyW",
+    "single_title_and_text_GAmte8",
+    "image_banner_W8Wbr3",
+    "divider_cxEAtf",
+    "single_title_and_text_CTJFt9",
+    "20923eed-ecdf-4786-8836-2e8d1d372264",
+    "image_with_text_Va4xdy",
+    "image_with_text_NpFUj6",
+    "divider_WwKjVT",
+    "image_with_text_GPJmCR",
+    "a1409fd8-a0db-4143-868e-69ee18c87d97",
+    "divider_BnhwFD",
+    "16348167313be3ffb8",
     "16348163341a2e5254",
     "main",
     "16412983447ec23b50"
