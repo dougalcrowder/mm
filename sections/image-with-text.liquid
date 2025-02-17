@@ -10,7 +10,6 @@
         {%- assign square_image = section.settings.image -%}
       {%- endif -%}
 
-
       <picture>
         <source srcset="{{ landscape_image | img_url: '820x', scale: 2 }} 2x, {{ landscape_image | img_url: '820x' }} 1x" media="(min-width: 1270px)" />
         <source srcset="{{ landscape_image | img_url: '600x', scale: 2 }} 2x, {{ landscape_image | img_url: '600x' }} 1x" media="(min-width: 1100px)" />
@@ -30,7 +29,7 @@
   </div>
 
   <div class="text color-{{ section.settings.color_scheme }} flex vertical-{{ section.settings.desktop_text_box_position }} {{ section.settings.text_align }}">
-    <div class="prose">
+    <div class="{{ section.settings.text_width }}">
       {%- for block in section.blocks -%}
         {% case block.type %}
           {%- when 'heading' -%}
@@ -106,7 +105,7 @@
             "value": "img_three_text_three",
             "label": "Image 3 Text 3"
           }, {
-            "value": "img_four_text_2",
+            "value": "img_four_text_two",
             "label": "Image 4 Text 2"
           }
         ],
@@ -142,6 +141,24 @@
         ],
         "default": "large",
         "label": "Column Gap"
+      }, {
+        "type": "select",
+        "id": "text_width",
+        "options": [
+          {
+            "value": "prose",
+            "label": "Small"
+          }, {
+            "value": "prose_medium",
+            "label": "Medium"
+          }, {
+            "value": "full",
+            "label": "Fill container"
+          }
+        ],
+        "default": "prose",
+        "label": "Text Width",
+        "info": "Text width for desktop"
       }, {
         "type": "select",
         "id": "color_scheme",
