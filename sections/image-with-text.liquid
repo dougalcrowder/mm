@@ -1,4 +1,4 @@
-<div class="image-with-text inner grid {% if section.settings.layout == 'text_first' %} switch{% endif %}{% if section.settings.nomax %} nomax{% endif %} {{ section.settings.column_layout }} pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }}">
+<div class="image-with-text inner grid {% if section.settings.layout == 'text_first' %} switch{% endif %}{% if section.settings.width == true %} nomax{% endif %} {{ section.settings.column_layout }} pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }} gap-{{ section.settings.gap }}">
   <div class="image {{ section.settings.aspect_ratio }}">
 
     {%- if section.settings.image != blank -%}
@@ -96,11 +96,6 @@
         "default": false
       },
       {
-        "type": "text",
-        "id": "title",
-        "default": "A Seasonal Setting",
-        "label": "Title"
-      }, {
         "type": "select",
         "id": "column_layout",
         "options": [
@@ -118,6 +113,35 @@
         "default": "img_two_text_four",
         "label": "Layout",
         "info": "Layout for desktop, 6 columns"
+      }, {
+        "type": "select",
+        "id": "gap",
+        "options": [
+          {
+            "value": "small",
+            "label": "Small"
+          },
+          {
+            "value": "medium",
+            "label": "Medium"
+          },
+          {
+            "value": "large",
+            "label": "Large"
+          },
+          {
+            "value": "xl",
+            "label": "XL"
+          }, {
+            "value": "xxl",
+            "label": "XXL"
+          }, {
+            "value": "none",
+            "label": "None"
+          }
+        ],
+        "default": "large",
+        "label": "Column Gap"
       }, {
         "type": "select",
         "id": "color_scheme",
@@ -215,7 +239,7 @@
             "label": "X Large"
           }
         ],
-        "default": "none",
+        "default": "m",
         "label": "spacing above",
         "info": "adjust the spacing for the panel"
       }, {
