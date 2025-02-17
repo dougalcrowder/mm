@@ -229,6 +229,7 @@
         "width": true,
         "column_layout": "img_three_text_three",
         "gap": "xxl",
+        "text_width": "prose_medium",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -264,6 +265,7 @@
         "width": true,
         "column_layout": "img_two_text_four",
         "gap": "large",
+        "text_width": "prose",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -392,7 +394,7 @@
         "heading_gfzXNy": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Journal"
           }
         },
         "text_TYiDd6": {
@@ -413,6 +415,7 @@
         "width": true,
         "column_layout": "img_two_text_four",
         "gap": "large",
+        "text_width": "prose",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -448,6 +451,7 @@
         "width": false,
         "column_layout": "img_four_text_2",
         "gap": "large",
+        "text_width": "prose",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -491,6 +495,7 @@
         "width": true,
         "column_layout": "img_two_text_four",
         "gap": "large",
+        "text_width": "prose",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
