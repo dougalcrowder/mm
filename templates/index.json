@@ -509,6 +509,7 @@
     },
     "a1409fd8-a0db-4143-868e-69ee18c87d97": {
       "type": "simple_quote",
+      "disabled": true,
       "settings": {
         "quote": "<p>Workshops & Supply Store</p>",
         "cite": "Budding Block Printer?  Get creative with our eco supplies and fun workshops",

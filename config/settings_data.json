@@ -452,7 +452,6 @@
               "auto_height": "none",
               "title": "Hospitality",
               "text_align": "center",
-              "heading_type": "h2",
               "button_label": "",
               "button_link": "shopify://pages/hospitality"
             }
@@ -466,7 +465,6 @@
               "auto_height": "none",
               "title": "Craftsmanship",
               "text_align": "center",
-              "heading_type": "h2",
               "button_label": "",
               "button_link": "shopify://blogs/craftsmanship"
             }
@@ -480,7 +478,6 @@
               "auto_height": "none",
               "title": "Lookbooks",
               "text_align": "center",
-              "heading_type": "h2",
               "button_label": "",
               "button_link": "shopify://blogs/look-books"
             }
@@ -494,9 +491,6 @@
         "settings": {
           "mc_title": "",
           "show_title": false,
-          "text_align": "center",
-          "title_margin": "l",
-          "gap": "medium",
           "border": false,
           "margin_top": "none",
           "margin_bot": "m"

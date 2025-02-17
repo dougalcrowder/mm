@@ -50,7 +50,6 @@
       "settings": {
         "image": "shopify://shop_images/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -76,7 +75,6 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Collaborations",
-        "heading_size": "medium",
         "text": "<p>Molly's design asthetic has reached far and wide.  Her keen eye and creative impluse can now be shared and employed to create the design other brands seek for their customers.</p><p>For all enquires contact us via <a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">email </a>or call us to find out more on +44 (0) 1342 825700.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -90,44 +88,24 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/PORTRAIT_MOLLYMAHON_BODEN_COLLAB_CLOTHES_RAIL_1300x1300_3b1c27c8-255f-435b-91b5-ee33d2ab0dd4.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "Boden",
-            "subtitle_size": "medium",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "View",
-            "button_link": "shopify://pages/boden-molly-mahon",
-            "subtext": ""
+            "button_link": "shopify://pages/boden-molly-mahon"
           }
         },
         "a5870e5b-af92-4d96-8da9-791998a311d2": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/CABBAGES_ROSES.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "Cabbages & Roses",
-            "subtitle_size": "medium",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "coming soon",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "1662372635bce63b35-2": {
@@ -135,22 +113,12 @@
           "disabled": true,
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "Firmdale Hotels",
-            "subtitle_size": "medium",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "coming soon",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "1662372635bce63b35-1": {
@@ -158,22 +126,12 @@
           "disabled": true,
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/THESWAN_BIRDS_BEES_BEDROOM_1300x1300_730cf24e-5a03-4381-abac-9478f1a0efc8.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "The Swan",
-            "subtitle_size": "medium",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "coming soon",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -186,7 +144,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
@@ -206,7 +163,6 @@
       "disabled": true,
       "settings": {
         "title": "Making Home",
-        "heading_size": "medium",
         "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.</p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.</p><p><strong>Why is home so important to us?</strong> </p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -253,7 +209,6 @@
         "image": "shopify://shop_images/MOLLY_PORTRAIT_STUDIO_LIFE_1800x900_a68eabdf-9676-4f07-b96d-2fe8db47bad9.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/MOLLY_PORTRAIT_STUDIO_LIFE_MOBILE_1300x1300_243b2461-51ef-41f9-8a6e-75317dd70895.jpg",
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -275,7 +230,6 @@
       "disabled": true,
       "settings": {
         "title": "",
-        "heading_size": "medium",
         "text": "<p><em>\"I never tire of lifting the block and seeing the impression that has been left, the slight movement that you get from a hand print is what I enthusiastically call ‘perfect imperfections.\"</em></p><p>There is something special about block printing that has stood the test of time.  To me it brings the fabric alive and this is exactly what it does to our homes.</p><p>I am a British printmaker who started at my kitchen table and now runs a design studio which distributes our designs globally.  Having partnered with Christies, Firmdale Hotels, Cabbages & Roses and more recently Boden amongst others we understand the power of pretty print and we aim to offer the most modern and fresh prints and colours amongst our community.  With all our designs being designed in house we can offer originality and a very bespoke signature with Molly overseeing all elements of design.</p><p>Molly runs her business with her husband Rollo and their children and their dog Bramble who are all very much involved.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -287,7 +241,6 @@
       "disabled": true,
       "settings": {
         "title": "",
-        "heading_size": "medium",
         "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden</em></p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -333,7 +286,6 @@
       "settings": {
         "image": "shopify://shop_images/PHOTO-2022-02-25-12-49-50_9462433f-6c8e-4884-b866-6c7fa035e7f2.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -355,7 +307,6 @@
       "disabled": true,
       "settings": {
         "title": "Craftsmanship",
-        "heading_size": "medium",
         "text": "<p>‘The quality of design and work shown in something made by hand; artistry.'</p><p>We get to meet craftsman all over the world and champion our area of expertise in block printing.  When sourcing the people we want to align and work with, we take into consideration the quality they bring in their craftsmanship and that they have a similar love of producing products that will stand the test of time.</p><p>From hand block printing our fabrics to surface printing our wallpaper we use an array of techniques to bring unique product to you.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -410,7 +361,6 @@
       "settings": {
         "image": "shopify://shop_images/MOLLY_BLOCKPRINTING_BODEN.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -432,7 +382,6 @@
       "disabled": true,
       "settings": {
         "title": "Creativity",
-        "heading_size": "medium",
         "text": "<p>The heart and soul of what we do is founded on creativity.</p><p>Creative acts are very inclusive, they create camaraderie, spark the imagination, allow us to realise our capabilities as humans.  If we create we can experience pride, delight and the feeling of being physical.  </p><p><em>\"My studio is my special space; while it bustles and hums with books, paint, blocks, scrapbooks, paper and a plethora of artists tools its also a place of calm, free of technology, a private and personal space where I can be completely ‘me’.\" Molly Mahon</em></p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -453,7 +402,6 @@
       "disabled": true,
       "settings": {
         "title": "Giving Back",
-        "heading_size": "medium",
         "text": "<p>We believe very strongly that a good education includes space for creativity, that as children we are shown how to use our hands and make things.  To give us a solid foundation.</p><p>In todays fast pace technological world, craft and artist time is essential for a mindful balance in the understanding of the world, what ever your age.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
