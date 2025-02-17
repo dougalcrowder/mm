@@ -16,7 +16,11 @@
         {% include 'image-hero-constrained' %}
       {% endif %}
     {% else %}
-      {% include 'image-hero' %}
+      {% if section.settings.respect_image %}
+        {% include 'image-hero-respect' %}
+      {% else %}
+        {% include 'image-hero' %}
+      {% endif %}
     {% endif %}
 
   </div>

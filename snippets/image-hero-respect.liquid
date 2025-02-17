@@ -1,0 +1,21 @@
+<picture class="heroshot">
+  <source srcset="{{ landscape_image | image_url: width: 2560}}" media="(min-width: 2048px)" />
+
+  <source srcset="{{ landscape_image | image_url: width: 2048 }}" media="(min-width: 1680px)" />
+  <source srcset="{{ landscape_image | image_url: width: 1680 }}" media="(min-width: 1440px)" />
+
+  <source srcset="{{ landscape_image | image_url: width: 1440 }}" media="(min-width: 1200px)" />
+  <source srcset="{{ landscape_image | image_url: width: 1200 }}" media="(min-width: 1024px)" />
+  <source srcset="{{ landscape_image | image_url: width: 1024 }}" media="(min-width: 880px)" />
+
+  <source srcset="{{ square_image | image_url: width: 880 }}" media="(min-width: 768px)" />
+  <source srcset="{{ square_image | image_url: width: 768 }}" media="(min-width: 480px)" />
+  <source srcset="{{ square_image | image_url: width: 480 }}" media="(min-width: 320px)" />
+  <img
+    {% unless forloop.index == 1 %}
+    loading="lazy"
+    {% endunless %}
+    class="heroshot_image lazyimage"
+    src="{{ square_image | image_url: width:320 }}"
+    alt="{{ square_image.alt | escape }}" />
+</picture>
