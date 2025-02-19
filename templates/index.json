@@ -208,6 +208,7 @@
     },
     "single_title_and_text_GAmte8": {
       "type": "single-title_and_text",
+      "disabled": true,
       "settings": {
         "title": "About",
         "text": "<p>Pa sequis ad ut volesci atectur aut omnimenihil ium et latatistrum quatque velesse quiandandit ad quis as sum cullanim facerum, sum aliquid ebitate cuptatatum enimusam ipsum et officipide vitatur solum aut essinct urepellenis ex enis repudam iusant audaepe sapiduciet fugia cusdam, totat es sollique quam num as velitaturi aut ius et quaerum fugia doluptatiis renisciur aut experna tectiscit et pro beatessit, volum autatur? Qui sequame ped eium est doluptatur re eum ulla pa ium con re non rerepud itecerferion parumqu idicipsam denecup itiberi taquaec toreius quidebit omnis moluptatur rem quam faceped qui cullaborro etur as idus disint voloremperum quos expe dolessimus sitatiation re nossimo luptas am autet aut occum rat. Resequae re, solorerro commolu ptaquatqui andam quassedit fuga. Sed qui asimil mos enimin re vel idunducias volorrum remqui bererunt, alicidis pra erion nonseribus con etur rendit resti aut quam hiciae laborum coris quatium endam, sit que sincidu ciasperum nes aligeni stionsequae occulparum sa</p>",
@@ -217,6 +218,42 @@
         "color_scheme": "dark_text",
         "margin_top": "none",
         "margin_bot": "none"
+      }
+    },
+    "image_with_text_CC4PWC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TwFkBg": {
+          "type": "heading",
+          "settings": {
+            "heading": "About"
+          }
+        },
+        "text_fetT6i": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Imos andam sunt offictae num quiatia ersperfero moditaquatet ut ipsam ut lanissi tatiae. El eriatur, acit, consequ atemperiatur aut moluptas assita a pores moluptatione pro commolu ptatemperum qui ande occabor ruptae. Et eni re occaecte volenimusame pro tem nonsed minum acepelis eseque doluptatium eaquia volore veliquis sit hil ipicim sitae pa et autemque pore, ommodigente pellorat quis moluptation prat eosto et</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_TwFkBg",
+        "text_fetT6i"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing_b54cc960-71cc-4cbc-9c7f-39dcbea45a94.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "medium",
+        "text_width": "prose_medium",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "l",
+        "margin_bot": "l"
       }
     },
     "divider_cxEAtf": {
@@ -230,9 +267,9 @@
     "image_banner_W8Wbr3": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Woodlands_Announcement.jpg",
+        "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon-Fabric-Stripe-Blue.jpg",
+        "mobile_image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk_b37cb45f-66b6-48cf-b44d-87622497419e.jpg",
         "respect_image": true,
         "top_margin": false,
         "bordered": false,
@@ -281,43 +318,6 @@
         "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": false
-      }
-    },
-    "image_with_text_CC4PWC": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_TwFkBg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Text About Molly Mahon"
-          }
-        },
-        "text_fetT6i": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Imos andam sunt offictae num quiatia ersperfero moditaquatet ut ipsam ut lanissi tatiae. El eriatur, acit, consequ atemperiatur aut moluptas assita a pores moluptatione pro commolu ptatemperum qui ande occabor ruptae. Et eni re occaecte volenimusame pro tem nonsed minum acepelis eseque doluptatium eaquia volore veliquis sit hil ipicim sitae pa et autemque pore, ommodigente pellorat quis moluptation prat eosto et</p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_TwFkBg",
-        "text_fetT6i"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing_b54cc960-71cc-4cbc-9c7f-39dcbea45a94.jpg",
-        "aspect_ratio": "square",
-        "width": true,
-        "column_layout": "img_three_text_three",
-        "gap": "xxl",
-        "text_width": "prose_medium",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "l"
       }
     },
     "single_title_and_text_CTJFt9": {
@@ -423,7 +423,7 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first",
+        "layout": "text_first",
         "margin_top": "l",
         "margin_bot": "m"
       }
@@ -459,7 +459,7 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first",
+        "layout": "image_first",
         "margin_top": "m",
         "margin_bot": "l"
       }
@@ -495,7 +495,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/MollyMahon_Lampshade_TukTuk_Pink_Wallpaper_Coral_Blue.jpg",
-        "aspect_ratio": "square",
+        "aspect_ratio": "portrait",
         "width": true,
         "column_layout": "img_two_text_four",
         "gap": "xl",
@@ -651,12 +651,12 @@
     "image_with_text_77LiyW",
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "single_title_and_text_GAmte8",
+    "image_with_text_CC4PWC",
     "divider_cxEAtf",
     "image_banner_W8Wbr3",
     "single_title_and_text_cGBWaY",
     "divider_4brE4j",
     "featured_collection_Jdxibq",
-    "image_with_text_CC4PWC",
     "single_title_and_text_CTJFt9",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "image_with_text_NpFUj6",
