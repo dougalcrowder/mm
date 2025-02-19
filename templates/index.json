@@ -64,7 +64,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/C9A39890-ACD3-4FF1-84F1-FEE0EA387B08.jpg",
+            "image": "shopify://shop_images/molly-mahon-fabric-luna-blue-yellow-lifestyle-1300x1300.jpg",
             "auto_height": "portrait",
             "title": "Fabrics",
             "text_align": "center",
@@ -77,7 +77,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Molly_Mahon_Wallpaper_Fern_Mustard_Rug_Landing_Coutry_Home_1300x1951_5f1ec9ca-a690-469f-8f57-a3ba31676842.jpg",
+            "image": "shopify://shop_images/CORALBLUE_WALL.jpg",
             "auto_height": "portrait",
             "title": "Wallpapers",
             "text_align": "center",
@@ -90,7 +90,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon_Dianthus_Indigo-Iron.jpg",
+            "image": "shopify://shop_images/MollyMahon_Cushions_Multi_1200x1200_2.jpg",
             "auto_height": "portrait",
             "title": "Homeware",
             "text_align": "center",
@@ -450,7 +450,7 @@
         "text_TYiDd6"
       ],
       "settings": {
-        "image": "shopify://shop_images/FullSizeRender_9ed25abe-a513-41b4-ad8a-47a4e528fe5a.jpg",
+        "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Judhpur_57_copy.jpg",
         "aspect_ratio": "portrait",
         "width": true,
         "column_layout": "img_two_text_four",
