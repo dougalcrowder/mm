@@ -424,8 +424,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "l",
-        "margin_bot": "m"
+        "margin_top": "xl",
+        "margin_bot": "l"
       }
     },
     "image_with_text_Va4xdy": {
