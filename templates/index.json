@@ -267,9 +267,9 @@
     "image_banner_W8Wbr3": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
+        "image": "shopify://shop_images/Molly-Mahon-Latest-News.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk_b37cb45f-66b6-48cf-b44d-87622497419e.jpg",
+        "mobile_image": "shopify://shop_images/Molly-Mahon-Latest-News-Square.jpg",
         "respect_image": true,
         "top_margin": false,
         "bordered": false,
