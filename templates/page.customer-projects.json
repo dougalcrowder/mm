@@ -68,10 +68,56 @@
         "bg_color_scheme": "none",
         "hover_text": false
       }
+    },
+    "multicolumn_6rfFVr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3iCVqx": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/Molly-Mahon-Latest-News-Square.jpg",
+            "auto_height": "none",
+            "title": "Column",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_3KLzAU": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/Molly-Mahon-Wallpapers.jpg",
+            "auto_height": "none",
+            "title": "Column",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3iCVqx",
+        "column_3KLzAU"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_7rHP3P"
+    "image_banner_7rHP3P",
+    "multicolumn_6rfFVr"
   ]
 }
