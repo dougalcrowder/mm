@@ -15,7 +15,7 @@
         "heading_JxhaCH": {
           "type": "heading",
           "settings": {
-            "heading": "Main Image",
+            "heading": "",
             "heading_type": "header1"
           }
         }
@@ -24,9 +24,9 @@
         "heading_JxhaCH"
       ],
       "settings": {
-        "image": "shopify://shop_images/Sale_Banner_1.jpg",
+        "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/Sale_Banner_Square_1.jpg",
+        "mobile_image": "shopify://shop_images/Molly-Mahon-Mughal-Blockprinting.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": true,
