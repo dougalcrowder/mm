@@ -358,8 +358,8 @@
             "title": "Customer Projects",
             "text_align": "center",
             "heading_type": "h2",
-            "button_label": "Order Samples",
-            "button_link": "shopify://collections/fabric-wallpaper-samples"
+            "button_label": "Coming Soon",
+            "button_link": ""
           }
         },
         "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
@@ -372,7 +372,7 @@
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "Hospitality",
-            "button_link": "shopify://pages/hospitality"
+            "button_link": "shopify://pages/fabric-mood-boards"
           }
         }
       },
