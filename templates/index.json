@@ -77,7 +77,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/CORALBLUE_WALL.jpg",
+            "image": "shopify://shop_images/Molly-Mahon-Wallpapers.jpg",
             "auto_height": "portrait",
             "title": "Wallpapers",
             "text_align": "center",
@@ -242,7 +242,7 @@
         "text_fetT6i"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing_b54cc960-71cc-4cbc-9c7f-39dcbea45a94.jpg",
+        "image": "shopify://shop_images/Molly-Mahon-About-Us.jpg",
         "aspect_ratio": "portrait",
         "width": true,
         "column_layout": "img_two_text_four",
@@ -340,7 +340,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/EVL_WESTTHORPE_westhorpe-48.jpg",
+            "image": "shopify://shop_images/Molly-Mahon-Lookbooks.jpg",
             "auto_height": "square",
             "title": "Lookbooks",
             "text_align": "center",
@@ -353,7 +353,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/GREENCOMBE_ATTIC_BEDROOM_MOBILE.jpg",
+            "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
             "auto_height": "square",
             "title": "Customer Projects",
             "text_align": "center",
@@ -366,7 +366,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
+            "image": "shopify://shop_images/Molly-Mahon-Moodboards.jpg",
             "auto_height": "square",
             "title": "Moodboards",
             "text_align": "center",
@@ -494,7 +494,7 @@
         "text_z4nXM6"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon_Lampshade_TukTuk_Pink_Wallpaper_Coral_Blue.jpg",
+        "image": "shopify://shop_images/Molly-Mahon-Collaborations.jpg",
         "aspect_ratio": "portrait",
         "width": true,
         "column_layout": "img_two_text_four",
