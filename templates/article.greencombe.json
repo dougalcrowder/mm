@@ -98,7 +98,6 @@
       "settings": {
         "image": "shopify://shop_images/GCSEEI-2_a4244011-1a17-475b-ae48-d1dd016ce087.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -217,7 +216,6 @@
       "settings": {
         "image": "shopify://shop_images/DIANTHUSFOURPOSTER_3500x_f5491aa4-9a90-4f21-8f81-df98aad59971.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -265,7 +263,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -313,7 +310,6 @@
       "settings": {
         "image": "shopify://shop_images/PRIMROSE_DOUBLE_BEDROOM-1_f29ddd3a-acc5-4002-aa01-98df37d4cacf.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -488,7 +484,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/GCGARMS-2_ea7bb47c-700a-4feb-859d-01077089cb01.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -643,7 +638,6 @@
       "settings": {
         "image": "shopify://shop_images/STRAWBERRY_MAINCURTAIN_3500x_2ed47fdc-376f-4325-a358-ea150b0c31a4.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -705,7 +699,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/PRIMROSE_COLLECTION_SHOT_1600x_d4fd4df4-0419-4163-8de1-a0417d567a74.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -806,7 +799,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/ELLIES_BEDSKIRT_1600x_2df4e026-2388-46f7-80b0-4e5158f44580.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -854,7 +846,6 @@
       "settings": {
         "image": "shopify://shop_images/POPPY_CURTAIN_SITTINGROOM_3500x_81426930-76e0-499b-96be-3c7785969692.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -904,7 +895,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",

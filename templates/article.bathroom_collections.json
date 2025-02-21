@@ -87,7 +87,6 @@
       "settings": {
         "image": "shopify://shop_images/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -127,7 +126,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/mollymahon_bathroom_spot_star_1300x1300_9612ad9b-6140-48a7-bc44-87b39a84a888.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -260,7 +258,6 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "",
-        "heading_size": "medium",
         "text": "<p>Our wallpaper is high quality heavy duty paper that is wipeable with a damp cloth.  Therefore can withstand the daily splashes and humidity of bathrooms.  We of course advise to protect the most vulnerable of places from water like with the wood cladding in these two bathrooms above.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -308,7 +305,6 @@
       "settings": {
         "image": "shopify://shop_images/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -356,7 +352,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/WALLPAPER_CORAL_BLUE_DEERHYRST_1300X1300_6b6e204c-60b9-428f-b0d1-277231f4aa5e.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -404,7 +399,6 @@
       "settings": {
         "image": "shopify://shop_images/WALLPAPER_MARWARIHORSE_PINK_BATHROOM_1200X900_518cbfea-a7b7-452a-8800-766d08e85c9c.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -452,7 +446,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Wallpaper_Marwarihorse_blue_bathroom_1300x1300_1700a38b-62a5-47ca-bc95-7a1114411787.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -552,7 +545,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/mollymahon_bathroom_wallpaper_birds_bees_peagreen_1200x900_038ee895-431b-494f-919a-12c410cc9f42.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -591,7 +583,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/mollymahon_bathroom_wallpaper_fern_fabric_marigold_1000x1500_94048654-5487-430d-ab44-4b671c10c051.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",

@@ -86,7 +86,6 @@
       "settings": {
         "image": "shopify://shop_images/QUILT_HAND_STITCHING.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -112,7 +111,6 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Some ways don't change",
-        "heading_size": "medium",
         "text": "<p>Every stage of our quilt production is done by hand - they are handwoven, hand block printed, hand carded and hand stitched in Jaipur pretty much as they would have been 300 years ago.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -160,7 +158,6 @@
       "settings": {
         "image": "shopify://shop_images/MM_INDIA_BLOCK_CARVER.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -208,7 +205,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
-        "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -280,7 +276,6 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "We are very proud of all the amazing people involved",
-        "heading_size": "medium",
         "text": "<p>Each stage is carried out by artisans using skills and tools that have been handed down through the generations.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -328,7 +323,6 @@
       "settings": {
         "image": "shopify://shop_images/SEAMSTRESSES_HAND_STITCHING_QUILT_196c899b-780e-4801-8648-7e6fedd7597e.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,

@@ -87,7 +87,6 @@
       "settings": {
         "image": "shopify://shop_images/FERNTURMERICKEALIFE2_2d74b0a6-cd4c-4fe9-9ed1-41934af493a9.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -206,7 +205,6 @@
       "settings": {
         "image": "shopify://shop_images/WALLPAPER_CORAL-BATHROOM_DEERHYRST_1800X1000_7404bc76-be9a-471f-8ad5-d6bbd22edc88.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -254,7 +252,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
-        "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -302,7 +299,6 @@
       "settings": {
         "image": "shopify://shop_images/FERNTURMERICKEALIFE2_2d74b0a6-cd4c-4fe9-9ed1-41934af493a9.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -403,7 +399,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/mollymahon_bathroom_spot_star_widestripe_1000x1500_fee8cc03-3421-4e51-bb83-555d1edfcf68.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -512,7 +507,6 @@
       "settings": {
         "image": "shopify://shop_images/THESWAN_BIRDS_BEES_BEDROOM_1600x900_f52853cf-c0ce-489d-afe9-d0cd842cc6b0.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -563,7 +557,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/MARWARI_DB_BOOTROOM.jpg",
-        "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -718,7 +711,6 @@
       "settings": {
         "image": "shopify://shop_images/WALLPAPER_FERN_DEERHYRST_KIDSBEDROOM_1800X1000_a77de8c5-4674-4f1d-83c6-a68227fc0cc8.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,

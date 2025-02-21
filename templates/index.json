@@ -15,7 +15,7 @@
         "heading_JxhaCH": {
           "type": "heading",
           "settings": {
-            "heading": "Main Image",
+            "heading": "",
             "heading_type": "header1"
           }
         }
@@ -24,9 +24,9 @@
         "heading_JxhaCH"
       ],
       "settings": {
-        "image": "shopify://shop_images/Sale_Banner_1.jpg",
+        "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/Sale_Banner_Square_1.jpg",
+        "mobile_image": "shopify://shop_images/Molly-Mahon-Mughal-Blockprinting.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": true,
@@ -53,7 +53,7 @@
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text",
-        "margin_top": "none",
+        "margin_top": "s",
         "margin_bot": "none"
       }
     },
@@ -64,7 +64,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/C9A39890-ACD3-4FF1-84F1-FEE0EA387B08.jpg",
+            "image": "shopify://shop_images/molly-mahon-fabric-luna-blue-yellow-lifestyle-1300x1300.jpg",
             "auto_height": "portrait",
             "title": "Fabrics",
             "text_align": "center",
@@ -77,7 +77,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Molly_Mahon_Wallpaper_Fern_Mustard_Rug_Landing_Coutry_Home_1300x1951_5f1ec9ca-a690-469f-8f57-a3ba31676842.jpg",
+            "image": "shopify://shop_images/Molly-Mahon-Wallpapers.jpg",
             "auto_height": "portrait",
             "title": "Wallpapers",
             "text_align": "center",
@@ -90,9 +90,9 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon_Dianthus_Indigo-Iron.jpg",
+            "image": "shopify://shop_images/MollyMahon_Cushions_Multi_1200x1200_2.jpg",
             "auto_height": "portrait",
-            "title": "Lookbooks",
+            "title": "Homeware",
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
@@ -113,13 +113,13 @@
         "gap": "medium",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "s"
+        "margin_bot": "m"
       }
     },
     "divider_rhAXLn": {
       "type": "divider",
       "settings": {
-        "margin_top": "m",
+        "margin_top": "s",
         "margin_bot": "m",
         "hr": true
       }
@@ -127,9 +127,147 @@
     "single_title_and_text_cGBWaY": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "Woodlands",
-        "text": "<p>Molly quote about woodlands. Inspiration? Message? Connection? <br/>Cum, consequam illa veri aut modi vero illuptu rerion pero ium re, quatecusam, quid et vellest ionsequidunt veliquatur? Quibusa picillab idelest pere sitatas esedis min pe nost dolor aut veligendenis es entia num voloribus ipsunt intia vollabo. Ut reium ex etur? Eresect atatem fugiatisciur audi omnitatur sume nonserferia nis maximag nimodi optur, odiant aut exerrovidel mos molupta testinv</p>",
-        "font_type": "heading",
+        "title": "London Design Week",
+        "text": "<p>We are thrilled to be exhibiting at London Design Week, Chelsea Harbour 10th – 14th March.  Please come and find us in the atrium and explore our new collection WOODLANDS.  Please register for entry.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_banner_W8Wbr3": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Molly-Mahon-Latest-News.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/Molly-Mahon-Latest-News-Square.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "l",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "divider_cxEAtf": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "none",
+        "margin_bot": "l",
+        "hr": true
+      }
+    },
+    "image_with_text_CC4PWC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TwFkBg": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us"
+          }
+        },
+        "text_fetT6i": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Molly Mahon was born from a love of pattern, colour and the magic of making things by hand. Her journey into block printing began as a personal passion – an escape into creativity that quickly became something more.  Inspired by the rich tradition of Indian craftsmanship and the beauty of the natural world, Molly founded this brand to bring joy and artistry into everyday life.</p><p>At the heart of everything we do is a deep respect from craftmanship.  We work with skilled artisans to create hand block printed fabrics, wallpapers and homewares that celebrate individuality and the charm of the handmade.  No two prints are ever exactly the same and that’s what makes them special.</p><p><br/></p><p>For us, design isn’t just about aesthetics – it’s about creating a home that feels good in every way.  We hope our pieces bring beauty, warmth and inspiration to your space, just as they do to ours.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_TwFkBg",
+        "text_fetT6i"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Molly-Mahon-About-Us.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "medium",
+        "text_width": "prose_medium",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "l"
+      }
+    },
+    "image_with_text_77LiyW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6zTxXH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Craftsmanship"
+          }
+        },
+        "text_aaPLNV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Molly Mahon is a renowned British luxury homeware brand known for its beautifully crafted, artisanal products that combine traditional techniques with contemporary design. Our collections include home accessories, fabrics and wallpaper all meticulously designed to bring warmth, style and sophistication into our homes. At Molly Mahon, we take pride in our commitment to quality, craftsmanship and sustainable practices.</p><p>Block printing is a timeless craft that celebrates artistry, tradition and the beauty of the handmade. At Molly Mahon, skilled artisans carve, ink and press each design by hand, creating textiles rich in character and charm.  Every piece carries the soulful imperfections of true craftmanship, bringing warmth, depth and heritage in to the home.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_6zTxXH",
+        "text_aaPLNV"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Molly-Mahon-Block-Carving.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "small",
+        "text_width": "prose_medium",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "sm",
+        "margin_bot": "xl"
+      }
+    },
+    "image_banner_T4ypmw": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
+        "letterbox": false,
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_GAmte8": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Sustainability",
+        "text": "<p>From the very beginning, we have prioritised eco-conscious decisions, ensuring our materials, processes and production uphold the highest standards of sustainability.  By embracing water based dyes, responsible sourcing and ethical partnerships, we champion best practices that respect both the craft and the planet.</p><p>At Molly Mahon, we are always looking to the future and constantly seeking the best materials and practices, using responsibly sourced, regeneratively grown fibres like bamboo and aloe in addition to our well sourced cottons and linens and embracing ethical production methods that support both people and planet.  </p><p>We are currently exploring B-Corp certification.  B-Corp recognise standard for businesses that balance profit with purpose, ensuring they meet high social and environmental standards.</p>",
+        "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text",
@@ -191,134 +329,6 @@
         "hr": true
       }
     },
-    "featured_collection_Jdxibq": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Joyful Cushions",
-        "collection": "new-cushions",
-        "button_color": "seasonal",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "show_secondary_image": false
-      }
-    },
-    "image_with_text_CC4PWC": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_TwFkBg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Text About Molly Mahon"
-          }
-        },
-        "text_fetT6i": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Imos andam sunt offictae num quiatia ersperfero moditaquatet ut ipsam ut lanissi tatiae. El eriatur, acit, consequ atemperiatur aut moluptas assita a pores moluptatione pro commolu ptatemperum qui ande occabor ruptae. Et eni re occaecte volenimusame pro tem nonsed minum acepelis eseque doluptatium eaquia volore veliquis sit hil ipicim sitae pa et autemque pore, ommodigente pellorat quis moluptation prat eosto et</p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_TwFkBg",
-        "text_fetT6i"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing_b54cc960-71cc-4cbc-9c7f-39dcbea45a94.jpg",
-        "aspect_ratio": "square",
-        "width": true,
-        "column_layout": "img_three_text_three",
-        "gap": "xxl",
-        "text_width": "prose_medium",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "l"
-      }
-    },
-    "image_with_text_77LiyW": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_6zTxXH": {
-          "type": "heading",
-          "settings": {
-            "heading": "Craftsmanship"
-          }
-        },
-        "text_aaPLNV": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Raectaqui dolupiciat voluptat et iuntem eiur sed eaqui dolenti bearum qui bea consectas molor assedit hici aspid quia distorectis dolecaepel eatiaesequis qui rate conemporum arum estecae moluptum, sitat por aut aut dolore adis et qui dolo blamusam ventinias ad quo voluptat quossit inverfe ruptatur, solorit iuscit laut quodio veror sitium a adisquis etur, odit estibus voluptatus, cusdande illupti untia dolo bla quatint quidia dolore vellitate volest, omnimos mi, simet es alis adiassi tatqui volest aut et, earci ulparum la andaeriae dem qui illit voluptas as enderat faccaep erferchil eum vella por modi.aut fugit, odit lab ipienimolor secaepu ditaspe lluptatio. Ut adigeni maximpora comnimo luptatur, cus, quunderatur aut opta dicil id qui con cusam, cum, sita sum, omnis dolore dolupitae nonsequ atendit ape quo to quas sequunt otatem hit fugiasp icimi, nos rernat es id ero quunditatem. Ut iume que re doluptias sunt. <br/>Ga. Pudae sum res et lant volupid essimus, qui omnisin verferferit, quamus.</p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_6zTxXH",
-        "text_aaPLNV"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/IMG_6262.jpg",
-        "aspect_ratio": "portrait",
-        "width": true,
-        "column_layout": "img_two_text_four",
-        "gap": "large",
-        "text_width": "prose",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "single_title_and_text_GAmte8": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "Sustainability",
-        "text": "<p>Pa sequis ad ut volesci atectur aut omnimenihil ium et latatistrum quatque velesse quiandandit ad quis as sum cullanim facerum, sum aliquid ebitate cuptatatum enimusam ipsum et officipide vitatur solum aut essinct urepellenis ex enis repudam iusant audaepe sapiduciet fugia cusdam, totat es sollique quam num as velitaturi aut ius et quaerum fugia doluptatiis renisciur aut experna tectiscit et pro beatessit, volum autatur? Qui sequame ped eium est doluptatur re eum ulla pa ium con re non rerepud itecerferion parumqu idicipsam denecup itiberi taquaec toreius quidebit omnis moluptatur rem quam faceped qui cullaborro etur as idus disint voloremperum quos expe dolessimus sitatiation re nossimo luptas am autet aut occum rat. Resequae re, solorerro commolu ptaquatqui andam quassedit fuga. Sed qui asimil mos enimin re vel idunducias volorrum remqui bererunt, alicidis pra erion nonseribus con etur rendit resti aut quam hiciae laborum coris quatium endam, sit que sincidu ciasperum nes aligeni stionsequae occulparum sa</p>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "image_banner_W8Wbr3": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/Woodlands_Announcement.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon-Fabric-Stripe-Blue.jpg",
-        "respect_image": true,
-        "top_margin": false,
-        "bordered": false,
-        "bordered_dt": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
-    "divider_cxEAtf": {
-      "type": "divider",
-      "settings": {
-        "margin_top": "m",
-        "margin_bot": "m",
-        "hr": true
-      }
-    },
     "single_title_and_text_CTJFt9": {
       "type": "single-title_and_text",
       "settings": {
@@ -339,7 +349,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/EVL_WESTTHORPE_westhorpe-48.jpg",
+            "image": "shopify://shop_images/Molly-Mahon-Lookbooks.jpg",
             "auto_height": "square",
             "title": "Lookbooks",
             "text_align": "center",
@@ -352,26 +362,26 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/GREENCOMBE_ATTIC_BEDROOM_MOBILE.jpg",
+            "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
             "auto_height": "square",
             "title": "Customer Projects",
             "text_align": "center",
             "heading_type": "h2",
-            "button_label": "Order Samples",
-            "button_link": "shopify://collections/fabric-wallpaper-samples"
+            "button_label": "Coming Soon",
+            "button_link": ""
           }
         },
         "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
+            "image": "shopify://shop_images/Molly-Mahon-Moodboards.jpg",
             "auto_height": "square",
             "title": "Moodboards",
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "Hospitality",
-            "button_link": "shopify://pages/hospitality"
+            "button_link": "shopify://pages/fabric-mood-boards"
           }
         }
       },
@@ -391,42 +401,6 @@
         "margin_bot": "s"
       }
     },
-    "image_with_text_Va4xdy": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_gfzXNy": {
-          "type": "heading",
-          "settings": {
-            "heading": "Journal"
-          }
-        },
-        "text_TYiDd6": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Find out more about Mollys world and hoings on... Quiaestiist officta imil explitatet et eiciliquia sequam fuga. Itatus, ium, ium reribea sim ut uta sandio bla nus prepe nos con nus ad exerspe rcidisit eos necabo. Sed et, consecto et parchicit, num inciis quo voloriam ut estemque optatur rentur? Nitiaesti beriam as cusandi ctotaep erepedi tecus nulla il mo omnia pre officim inimillabo. Porem laboristor sit labo. Eperitaqui simin pa vel ipsandi omnimaximi, sitat anis dolupis atem quis aut moditatur sed ma conse et eiumqui busciam, odis pa pelesti orroria de et quae</p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_gfzXNy",
-        "text_TYiDd6"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/FullSizeRender_9ed25abe-a513-41b4-ad8a-47a4e528fe5a.jpg",
-        "aspect_ratio": "portrait",
-        "width": true,
-        "column_layout": "img_two_text_four",
-        "gap": "large",
-        "text_width": "prose_medium",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "l",
-        "margin_bot": "l"
-      }
-    },
     "image_with_text_NpFUj6": {
       "type": "image-with-text",
       "blocks": {
@@ -439,7 +413,7 @@
         "text_cCjdmT": {
           "type": "text",
           "settings": {
-            "text": "<p>Poribus ium re num iur? Ur, cuscia cum rerum dolestis erum aliqui sim sanda nonsequi omnis molores sunt, voluptur ab idus, te pos remporr ovidestio. Nam, omnis accaesti tet maio molorepelit hic to berit verferem reptaerum architi blanis dolorib errorestiam, simporibus eates que vel ea volupta exero bla quat lam excerum siniet elentias everum as sita si qui conserspe eliae laudantiur autem iusda quam nosaped quam,</p>",
+            "text": "<p>Molly’s block print workshops and designed to be an inspiring, fun and hands on experience where creativity flows freely.  These sessions offer participants the opportunity to learn the ancient art of block printing in a warm, welcoming and inspiring environment.  You’ll not only leave with a beautiful, handmade piece of art, but also a sense of pride in the process and techniques you’ve learned.  Whether you’re a beginner or an experienced maker, the workshops are structured to encourage creativity and provide personalised guidance from Molly.  Expect to gain new skills, meet like-minded people and walk away with a unique piece that reflects your artistic journey.  We promise an unforgettable experience that connects tradition with your personal creative expression.  Our workshops are often hosted at private homes, creating a unique and intimate setting for these very special days.</p>",
             "code": ""
           }
         }
@@ -458,15 +432,51 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "xl",
+        "margin_bot": "l"
+      }
+    },
+    "image_with_text_Va4xdy": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gfzXNy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Journal"
+          }
+        },
+        "text_TYiDd6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over the years we have had the pleasure of collaborating with brands like Boden, Firmdale Hotels, Meri Meri, Secret Linen, Christies, Charleston and Bombay Bustle, all of which share our commitment to craftmanship and sustainability.  These partnerships blend our signature block prints with their unique styles, creating relationships that resonate with our band ethos of artistry, quality and ethical practices.  Each collaboration feels like a natural extension of our mission, connecting our love for craft and design with brands that value the same principles.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_gfzXNy",
+        "text_TYiDd6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Judhpur_57_copy.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose_medium",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
         "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "m"
+        "margin_top": "m",
+        "margin_bot": "l"
       }
     },
     "divider_WwKjVT": {
       "type": "divider",
       "settings": {
-        "margin_top": "m",
+        "margin_top": "none",
         "margin_bot": "m",
         "hr": true
       }
@@ -483,7 +493,7 @@
         "text_z4nXM6": {
           "type": "text",
           "settings": {
-            "text": "<p>Poribus ium re num iur? Ur, cuscia cum rerum dolestis erum aliqui sim sanda nonsequi omnis molores sunt, voluptur ab idus, te pos remporr ovidestio. Nam, omnis accaesti tet maio molorepelit hic to berit verferem reptaerum architi blanis dolorib errorestiam, simporibus eates que vel ea volupta exero bla quat lam excerum siniet elentias everum as sita si qui conserspe eliae laudantiur autem iusda quam nosaped quam, ni sandis verum landebis magniti orianit il molorunt la solorat ionsed quia adi coribusamet eiundaepro comnihil eatquatis sunt iduntionem ilit adis id quodionsecta velende mperiam aci voluptatur? Ferepud</p>",
+            "text": "<p>Over the years we have had the pleasure of collaborating with brands like Firmdale Hotels, Boden, Meri Meri, Secret Linen, Christies and Bombay Bustle, all of which share our commitment to craftsmanship and sustainability. These partnerships blend our signature block prints with their unique styles, creating relationships that resonate with our brand ethos of artistry, quality, and ethical practices. Each collaboration feels like a natural extension of our mission, connecting our love for craft and design with brands that value the same principles.</p>",
             "code": ""
           }
         }
@@ -493,8 +503,8 @@
         "text_z4nXM6"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon_Lampshade_TukTuk_Pink_Wallpaper_Coral_Blue.jpg",
-        "aspect_ratio": "square",
+        "image": "shopify://shop_images/Molly-Mahon-Collaborations.jpg",
+        "aspect_ratio": "portrait",
         "width": true,
         "column_layout": "img_two_text_four",
         "gap": "xl",
@@ -503,43 +513,17 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "a1409fd8-a0db-4143-868e-69ee18c87d97": {
-      "type": "simple_quote",
-      "settings": {
-        "quote": "<p>Workshops & Supply Store</p>",
-        "cite": "Budding Block Printer?  Get creative with our eco supplies and fun workshops",
-        "bg": "green",
-        "heading_size": "medium",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "white_text",
-        "bg_color_scheme": "none",
-        "margin_top": "none",
-        "margin_bot": "none"
+        "margin_top": "sm",
+        "margin_bot": "l"
       }
     },
     "divider_BnhwFD": {
       "type": "divider",
-      "settings": {
-        "margin_top": "l",
-        "margin_bot": "none",
-        "hr": true
-      }
-    },
-    "16348167313be3ffb8": {
-      "type": "featured-blog",
       "disabled": true,
       "settings": {
-        "heading": "Discover more..",
-        "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.</p>",
-        "button_label": "Read Journal",
-        "button_color": "seasonal",
-        "blog": "journal",
-        "post_limit": 10
+        "margin_top": "s",
+        "margin_bot": "none",
+        "hr": true
       }
     },
     "16348163341a2e5254": {
@@ -647,23 +631,21 @@
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "divider_rhAXLn",
     "single_title_and_text_cGBWaY",
-    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
-    "divider_4brE4j",
-    "featured_collection_Jdxibq",
-    "image_with_text_CC4PWC",
-    "image_with_text_77LiyW",
-    "single_title_and_text_GAmte8",
     "image_banner_W8Wbr3",
     "divider_cxEAtf",
+    "image_with_text_CC4PWC",
+    "image_with_text_77LiyW",
+    "image_banner_T4ypmw",
+    "single_title_and_text_GAmte8",
+    "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
+    "divider_4brE4j",
     "single_title_and_text_CTJFt9",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
-    "image_with_text_Va4xdy",
     "image_with_text_NpFUj6",
+    "image_with_text_Va4xdy",
     "divider_WwKjVT",
     "image_with_text_GPJmCR",
-    "a1409fd8-a0db-4143-868e-69ee18c87d97",
     "divider_BnhwFD",
-    "16348167313be3ffb8",
     "16348163341a2e5254",
     "main",
     "16412983447ec23b50"

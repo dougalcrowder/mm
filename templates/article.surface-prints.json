@@ -86,7 +86,6 @@
       "settings": {
         "image": "shopify://shop_images/CRAFTSMANSHIP_SURFACEPRINT_STRAWBERRY_FOLDING_1800x900_d1aa69bd-2bc1-4904-9d29-c8c2d659147b.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -107,7 +106,6 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "",
-        "heading_size": "medium",
         "text": "<p>The heritage technique of surface printing is unique and gives a luxurious, tactile finish and feels closer to the beautiful craft of block printing, and how wallpaper used to be made.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -225,7 +223,6 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "",
-        "heading_size": "medium",
         "text": "<p>The first surface-printing machine was invented in 1838, in Lancashire, which is still the centre of British wallpaper today, and also where our new designs are being printed - on those very same machines. </p><p>The technique copies the same process as hand block printing, by the roller block pulling the paint from the felt that is soaked in the water based printing ink.  It then rolls onto the paper in all its circular magic.  It’s absolutely mesmerising to watch.</p><p>Each colour has a different rubber roller, and they’ll all be going at once, layering on the different colours one after the other. </p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -297,7 +294,6 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Outstanding Prints",
-        "heading_size": "medium",
         "text": "<p>When it's up on your wall, the paper - now textured with paint - gives the design more of an energy, a depth. And thanks to the tiny variations in how the paint lands on the paper, the result looks more like it might have been hand block printed - it has a beautifully nostalgic feel. </p>",
         "vertical_alignment": "center",
         "alignment": "center",
