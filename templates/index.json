@@ -308,9 +308,8 @@
       "blocks": {
         "heading_nVzgGt": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Woodlands coming soon",
+            "heading": "Woodlands Collection Launching 10th March",
             "heading_type": "header1"
           }
         },
@@ -349,12 +348,12 @@
         "bordered": true,
         "bordered_dt": true,
         "constrain": false,
-        "desktop_text_box_position": "start",
+        "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "blue_text",
+        "color_scheme": "dark_text",
         "margin_top": "sm",
         "margin_bot": "sm",
         "bg_color_scheme": "none",
