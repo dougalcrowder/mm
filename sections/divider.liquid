@@ -1,77 +1,69 @@
-<div class="divider mt-{{ section.settings.margin_top }} mb-{{ section.settings.margin_bot }}">
+<div class="divider inner nomax mt-{{ section.settings.margin_top }} mb-{{ section.settings.margin_bot }}">
   {%- if section.settings.hr -%}
-  <div class="inner">
-  <hr />
-  </div>
+    <div class="divit" style="background-image: url({{ 'divider-green.svg' | asset_url }}); background-size: cover; background-repeat: no-repeat; background-position: center; height: 28px;">
+      <hr style="opacity: 0">
+    </div>
   {%- endif -%}
 </div>
 
 {% schema %}
-{
-"name": "Divider",
-"class": "spaced-section divider",
-"settings": [
   {
-    "type": "select",
-    "id": "margin_top",
-    "options": [
+    "name": "Divider",
+    "class": "spaced-section divider",
+    "settings": [
       {
-        "value": "none",
-        "label": "None"
-      },
-      {
-        "value": "s",
-        "label": "Small"
-      },
-      {
-        "value": "m",
-        "label": "Medium"
-      },
-      {
-        "value": "l",
-        "label": "Large"
+        "type": "select",
+        "id": "margin_top",
+        "options": [
+          {
+            "value": "none",
+            "label": "None"
+          }, {
+            "value": "s",
+            "label": "Small"
+          }, {
+            "value": "m",
+            "label": "Medium"
+          }, {
+            "value": "l",
+            "label": "Large"
+          }
+        ],
+        "default": "m",
+        "label": "spacing above",
+        "info": "adjust the spacing for the divider"
+      }, {
+        "type": "select",
+        "id": "margin_bot",
+        "options": [
+          {
+            "value": "none",
+            "label": "None"
+          }, {
+            "value": "s",
+            "label": "Small"
+          }, {
+            "value": "m",
+            "label": "Medium"
+          }, {
+            "value": "l",
+            "label": "Large"
+          }
+        ],
+        "default": "m",
+        "label": "spacing below",
+        "info": "adjust the spacing for the divider"
+      }, {
+        "type": "checkbox",
+        "id": "hr",
+        "label": "Show dividing line",
+        "default": true
       }
     ],
-    "default": "m",
-    "label": "spacing above",
-    "info": "adjust the spacing for the divider"
-  },
-  {
-    "type": "select",
-    "id": "margin_bot",
-    "options": [
+    "presets": [
       {
-        "value": "none",
-        "label": "None"
-      },
-      {
-        "value": "s",
-        "label": "Small"
-      },
-      {
-        "value": "m",
-        "label": "Medium"
-      },
-      {
-        "value": "l",
-        "label": "Large"
+        "name": "Divider"
       }
-    ],
-    "default": "m",
-    "label": "spacing below",
-    "info": "adjust the spacing for the divider"
-  },
-  {
-    "type": "checkbox",
-    "id": "hr",
-    "label": "Show dividing line",
-    "default": true
+    ]
   }
-],
-"presets": [
-  {
-    "name": "Divider"
-  }
-]
-}
 {% endschema %}

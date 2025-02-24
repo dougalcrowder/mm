@@ -1,94 +1,106 @@
-<li class="column {{ block.settings.width }}{% if block.settings.narrow %} narrow{% endif %}{% if block.settings.image == blank %} no-image{% endif %} bg-for-{{ block.settings.color_scheme }} {% if block.settings.no_hover %} no_hover{% endif %}" {{ block.shopify_attributes }}>
-  {%- if block.settings.button_label == blank and block.settings.button_link != blank -%}
-  <a class="col_link" href="{{ block.settings.button_link }}" aria-label="view more">
-  {% endif %}
+<li class="column flex items-between {{ block.settings.width }} {% if block.settings.image == blank %} no-image{% endif %} bg-for-{{ block.settings.color_scheme }} {% if block.settings.no_hover %} no_hover{% endif %}" {{ block.shopify_attributes }}>
 
-    {%- if block.settings.image != blank -%}
-    {%- assign textactive = 'notext' -%}
-    {%- if block.settings.title != blank or block.settings.subtitle != blank or block.settings.text != blank -%}
-    {%- assign textactive = 'sometext' -%}
+  <div class="multi_col_text align-{{ block.settings.text_align }}">
+
+    {%- if block.settings.title != blank -%}
+      <div class="title">{{ block.settings.title | escape }}</div>
     {%- endif -%}
-      <div class="image{% if block.settings.desktop_text_box_position == 'under' %} respect{% endif %}{% if block.settings.cover %} cover{% endif %} {{ block.settings.auto_height }} {{ textactive }}">
-        {%- assign image = block.settings.image -%}
-        {%- if block.settings.auto_height == 'none' or block.settings.auto_height == false -%}
-          <picture>
-            <source srcset="{{ image | img_url: '820x', scale: 2 }} 2x, {{ image | img_url: '820x' }} 1x" media="(min-width: 1270px)" />
-            <source srcset="{{ image | img_url: '600x', scale: 2 }} 2x, {{ image | img_url: '600x' }} 1x" media="(min-width: 1100px)" />
-            <source srcset="{{ image | img_url: '490x', scale: 2 }} 2x, {{ image | img_url: '490x' }} 1x" media="(min-width: 960px)" />
-            <source srcset="{{ image | img_url: '400x', scale: 2 }} 2x, {{ image | img_url: '400x' }} 1x" media="(min-width: 768px)" />
-            <source srcset="{{ image | img_url: '768x', scale: 2 }} 2x, {{ image | img_url: '768x' }} 1x" media="(min-width: 480px)" />
-            <source srcset="{{ image | img_url: '480x', scale: 2 }} 2x, {{ image | img_url: '480x' }} 1x" media="(min-width: 320px)" />
-            <img class="lazyimage" loading="lazy" src="{{ image | img_url: '320x' }}" alt="{{ image.alt | escape }}" width="{{ block.settings.image.width }}" height="{{ block.settings.image.height }}" />
-          </picture>
-        {%- endif -%}
-        {%- if block.settings.auto_height == 'landscape' -%}
-          <picture>
-            <source srcset="{{ image | img_url: '820x615', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '820x615', crop: 'center' }} 1x" media="(min-width: 1270px)" />
-            <source srcset="{{ image | img_url: '600x450', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '600x450', crop: 'center' }} 1x" media="(min-width: 1100px)" />
-            <source srcset="{{ image | img_url: '490x368', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '490x368', crop: 'center' }} 1x" media="(min-width: 960px)" />
-            <source srcset="{{ image | img_url: '400x300', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '400x300', crop: 'center' }} 1x" media="(min-width: 768px)" />
-            <source srcset="{{ image | img_url: '768x576', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '768x576', crop: 'center' }} 1x" media="(min-width: 480px)" />
-            <source srcset="{{ image | img_url: '480x360', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '480x360', crop: 'center' }} 1x" media="(min-width: 320px)" />
-            <img class="lazyimage" loading="lazy" src="{{ image | img_url: '320x240', crop: 'center' }}" alt="{{ image.alt | escape }}" width="320" height="240" />
-          </picture>
-        {%- endif -%}
-        {%- if block.settings.auto_height == 'portrait' -%}
-          <picture>
-            <source srcset="{{ image | img_url: '820x980', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '820x980', crop: 'center' }} 1x" media="(min-width: 1270px)" />
-            <source srcset="{{ image | img_url: '600x717', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '600x717', crop: 'center' }} 1x" media="(min-width: 1100px)" />
-            <source srcset="{{ image | img_url: '490x586', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '490x586', crop: 'center' }} 1x" media="(min-width: 960px)" />
-            <source srcset="{{ image | img_url: '400x478', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '400x478', crop: 'center' }} 1x" media="(min-width: 768px)" />
-            <source srcset="{{ image | img_url: '768x918', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '768x918', crop: 'center' }} 1x" media="(min-width: 480px)" />
-            <source srcset="{{ image | img_url: '480x574', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '480x574', crop: 'center' }} 1x" media="(min-width: 320px)" />
-            <img class="lazyimage" loading="lazy" src="{{ image | img_url: '320x382', crop: 'center' }}" alt="{{ image.alt | escape }}" width="320" height="382" />
-          </picture>
-        {%- endif -%}
-        {%- if block.settings.auto_height == 'square' -%}
-          <picture>
-            <source srcset="{{ image | img_url: '820x820', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '820x820', crop: 'center' }} 1x" media="(min-width: 1270px)" />
-            <source srcset="{{ image | img_url: '600x600', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '600x600', crop: 'center' }} 1x" media="(min-width: 1100px)" />
-            <source srcset="{{ image | img_url: '490x490', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '490x490', crop: 'center' }} 1x" media="(min-width: 960px)" />
-            <source srcset="{{ image | img_url: '400x400', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '400x400', crop: 'center' }} 1x" media="(min-width: 768px)" />
-            <source srcset="{{ image | img_url: '768x768', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '768x768', crop: 'center' }} 1x" media="(min-width: 480px)" />
-            <source srcset="{{ image | img_url: '480x480', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '480x480', crop: 'center' }} 1x" media="(min-width: 320px)" />
-            <img class="lazyimage" loading="lazy" src="{{ image | img_url: '320x320', crop: 'center' }}" alt="{{ image.alt | escape }}" width="320" height="320" />
-          </picture>
-        {%- endif -%}
 
-        {% if block.settings.desktop_text_box_position == 'under' %}
+  </div>
+  {%- if block.settings.image != blank -%}
+    <div class="image {% if block.settings.cover %} cover{% endif %} {{ block.settings.auto_height }}">
+      {%- assign image = block.settings.image -%}
+      {%- if block.settings.auto_height == 'none' or block.settings.auto_height == false -%}
+        <picture>
+          <source srcset="{{ image | img_url: '820x', scale: 2 }} 2x, {{ image | img_url: '820x' }} 1x" media="(min-width: 1270px)" />
+          <source srcset="{{ image | img_url: '600x', scale: 2 }} 2x, {{ image | img_url: '600x' }} 1x" media="(min-width: 1100px)" />
+          <source srcset="{{ image | img_url: '490x', scale: 2 }} 2x, {{ image | img_url: '490x' }} 1x" media="(min-width: 960px)" />
+          <source srcset="{{ image | img_url: '400x', scale: 2 }} 2x, {{ image | img_url: '400x' }} 1x" media="(min-width: 768px)" />
+          <source srcset="{{ image | img_url: '768x', scale: 2 }} 2x, {{ image | img_url: '768x' }} 1x" media="(min-width: 480px)" />
+          <source srcset="{{ image | img_url: '480x', scale: 2 }} 2x, {{ image | img_url: '480x' }} 1x" media="(min-width: 320px)" />
+          <img
+            class="lazyimage"
+            loading="lazy"
+            src="{{ image | img_url: '320x' }}"
+            alt="{{ image.alt | escape }}"
+            width="{{ block.settings.image.width }}"
+            height="{{ block.settings.image.height }}" />
+        </picture>
+      {%- endif -%}
+      {%- if block.settings.auto_height == 'landscape' -%}
+        <picture>
+          <source srcset="{{ image | img_url: '820x615', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '820x615', crop: 'center' }} 1x" media="(min-width: 1270px)" />
+          <source srcset="{{ image | img_url: '600x450', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '600x450', crop: 'center' }} 1x" media="(min-width: 1100px)" />
+          <source srcset="{{ image | img_url: '490x368', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '490x368', crop: 'center' }} 1x" media="(min-width: 960px)" />
+          <source srcset="{{ image | img_url: '400x300', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '400x300', crop: 'center' }} 1x" media="(min-width: 768px)" />
+          <source srcset="{{ image | img_url: '768x576', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '768x576', crop: 'center' }} 1x" media="(min-width: 480px)" />
+          <source srcset="{{ image | img_url: '480x360', crop: 'center', scale: 2 }} 2x, {{ image | img_url: '480x360', crop: 'center' }} 1x" media="(min-width: 320px)" />
+          <img
+            class="lazyimage"
+            loading="lazy"
+            src="{{ image | img_url: '320x240', crop: 'center' }}"
+            alt="{{ image.alt | escape }}"
+            width="320"
+            height="240" />
+        </picture>
+      {%- endif -%}
+      {%- if block.settings.auto_height == 'portrait' -%}
+        <picture>
+          <source srcset="{{ image | img_url: '820x980', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '820x980', crop: 'center' }} 1x" media="(min-width: 1270px)" />
+          <source srcset="{{ image | img_url: '600x717', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '600x717', crop: 'center' }} 1x" media="(min-width: 1100px)" />
+          <source srcset="{{ image | img_url: '490x586', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '490x586', crop: 'center' }} 1x" media="(min-width: 960px)" />
+          <source srcset="{{ image | img_url: '400x478', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '400x478', crop: 'center' }} 1x" media="(min-width: 768px)" />
+          <source srcset="{{ image | img_url: '768x918', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '768x918', crop: 'center' }} 1x" media="(min-width: 480px)" />
+          <source srcset="{{ image | img_url: '480x574', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '480x574', crop: 'center' }} 1x" media="(min-width: 320px)" />
+          <img
+            class="lazyimage"
+            loading="lazy"
+            src="{{ image | img_url: '320x382', crop: 'center' }}"
+            alt="{{ image.alt | escape }}"
+            width="320"
+            height="382" />
+        </picture>
+      {%- endif -%}
+      {%- if block.settings.auto_height == 'square' -%}
+        <picture>
+          <source srcset="{{ image | img_url: '820x820', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '820x820', crop: 'center' }} 1x" media="(min-width: 1270px)" />
+          <source srcset="{{ image | img_url: '600x600', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '600x600', crop: 'center' }} 1x" media="(min-width: 1100px)" />
+          <source srcset="{{ image | img_url: '490x490', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '490x490', crop: 'center' }} 1x" media="(min-width: 960px)" />
+          <source srcset="{{ image | img_url: '400x400', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '400x400', crop: 'center' }} 1x" media="(min-width: 768px)" />
+          <source srcset="{{ image | img_url: '768x768', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '768x768', crop: 'center' }} 1x" media="(min-width: 480px)" />
+          <source srcset="{{ image | img_url: '480x480', scale: 2, crop: 'center' }} 2x, {{ image | img_url: '480x480', crop: 'center' }} 1x" media="(min-width: 320px)" />
+          <img
+            class="lazyimage"
+            loading="lazy"
+            src="{{ image | img_url: '320x320', crop: 'center' }}"
+            alt="{{ image.alt | escape }}"
+            width="320"
+            height="320" />
+        </picture>
+      {%- endif -%}
+
+      {% if block.settings.desktop_text_box_position == 'under' %}
         <div class="buttons {{ block.settings.button_color }}">
-        {%- if block.settings.button_label != blank -%}
-          <a class="button {{ block.settings.button_color }}"{% if block.settings.button_link != blank %} href="{{ block.settings.button_link }}"{% endif %} {% if block.settings.button_link == blank %} aria-disabled="true"{% endif %}>{{ block.settings.button_label | escape }}</a>
-        {%- endif -%}
+          {%- if block.settings.button_label != blank -%}
+            <a
+              class="button {{ block.settings.button_color }}"
+              {% if block.settings.button_link != blank %}
+              href="{{ block.settings.button_link }}"
+              {% endif %}
+              {% if block.settings.button_link == blank %}
+              aria-disabled="true"
+              {% endif %}>{{ block.settings.button_label | escape }}</a>
+          {%- endif -%}
         </div>
-        {% endif %}
-      </div>
-      <div class="text_wrap flex{% if block.settings.button_label != blank and block.settings.button_link != blank %} has_button{% endif %} vertical-{{ block.settings.desktop_text_box_position }} align-{{ block.settings.text_align }}{% if block.settings.text_align == 'left' %} justify-start{% endif %} {% if block.settings.text_align == 'right' %} justify-end{% endif %} color-{{ block.settings.color_scheme }}{% if block.settings.image != blank %} has-image{% endif %}{% if block.settings.no_hover %} no_hover{% endif %}">
-      
-      {%- if block.settings.title != blank -%}
-        <h2 class="h3">{{ block.settings.title | escape }}</h2>
-      {%- endif -%}
-      {%- if block.settings.subtitle != blank -%}
-        <h3 class="h2 {{ block.settings.subtitle_size }}">{{ block.settings.subtitle | escape }}</h3>
-      {%- endif -%}
-      {%- if block.settings.text != blank -%}
-        <div class="rte prose">{{ block.settings.text }}</div>
-      {%- endif -%}
-      {% if block.settings.desktop_text_box_position != 'under' %}
-      <div class="buttons {{ block.settings.button_color }}">
-      {%- if block.settings.button_label != blank -%}
-        <a class="button {{ block.settings.button_color }}"{% if block.settings.button_link != blank %} href="{{ block.settings.button_link }}"{% endif %} {% if block.settings.button_link == blank %} aria-disabled="true"{% endif %}>{{ block.settings.button_label | escape }}</a>
-      {%- endif -%}
-      </div>
       {% endif %}
-      {%- if block.settings.subtext != blank -%}
-      <small>
-        {{ block.settings.subtext}}
-      {%- endif -%}
-      </small>
     </div>
-    {%- endif -%}
-  {%- if block.settings.button_label == blank and block.settings.button_link != blank -%}
+  {%- endif -%}
+  {%- if block.settings.button_link != blank -%}
+    <a
+      class="col_link inset absolute"
+      href="{{ block.settings.button_link }}"
+      aria-label="{{ block.settings.button_label }}">
+      <span class="visually-hidden">{{ block.settings.button_label | escape }}</span>
     </a>
   {% endif %}
 </li>

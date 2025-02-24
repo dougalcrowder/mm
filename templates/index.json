@@ -14,9 +14,8 @@
       "blocks": {
         "heading_JxhaCH": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Award Winning",
+            "heading": "",
             "heading_type": "header1"
           }
         }
@@ -25,681 +24,189 @@
         "heading_JxhaCH"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing.jpg",
+        "image": "shopify://shop_images/Molly-Mahon-Website-Banner-4.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing_b54cc960-71cc-4cbc-9c7f-39dcbea45a94.jpg",
-        "make_logo_white": false,
+        "mobile_image": "shopify://shop_images/Molly-Mahon-Square-Banner.jpg",
+        "respect_image": false,
         "top_margin": false,
         "bordered": true,
         "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "start",
-        "text_align": "left",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "red_text",
+        "color_scheme": "dark_text",
         "margin_top": "none",
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
+      }
+    },
+    "single_title_and_text_VcQckG": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Joyful Prints For Joyful Homes",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "s",
+        "margin_bot": "none"
       }
     },
     "dedeec5c-28d6-4af0-961d-09abb7473182": {
       "type": "multicolumn",
       "blocks": {
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/Molly_Mahon_Wallpaper_Fern_Mustard_Rug_Landing_Coutry_Home_1300x1951_5f1ec9ca-a690-469f-8f57-a3ba31676842.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "Wallpaper",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/wallpaper",
-            "subtext": ""
-          }
-        },
         "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1": {
           "type": "column",
           "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/molly-mahon-fabric-luna-blue-yellow-1300x1300.jpg",
+            "width": "one_third",
+            "image": "shopify://shop_images/molly-mahon-fabric-luna-blue-yellow-lifestyle-1300x1300.jpg",
             "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "Fabric",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
+            "title": "Fabrics",
             "text_align": "center",
+            "heading_type": "h2",
             "button_label": "",
-            "button_link": "shopify://collections/fabric",
-            "subtext": ""
+            "button_link": "shopify://collections/fabric"
+          }
+        },
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon_Cushions_Multi_1200x1200_2.jpg",
+            "auto_height": "portrait",
+            "title": "Homewares",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": "shopify://collections/homewares"
+          }
+        },
+        "column_nCQRwf": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Wallpapers.jpg",
+            "auto_height": "portrait",
+            "title": "Wallpapers",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": "shopify://collections/wallpaper"
           }
         }
       },
       "block_order": [
+        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1",
         "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-2",
-        "template--14235423539258__dedeec5c-28d6-4af0-961d-09abb7473182-column-1"
+        "column_nCQRwf"
       ],
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
-        "margin_top": "sm",
-        "margin_bot": "s"
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
-    "collection_list_ngqkRV": {
-      "type": "collection-list",
+    "divider_rhAXLn": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "s",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "image_with_text_CC4PWC": {
+      "type": "image-with-text",
       "blocks": {
-        "featured_collection_3JpyQz": {
-          "type": "featured_collection",
+        "heading_TwFkBg": {
+          "type": "heading",
           "settings": {
-            "collection": "bed-bath",
-            "title": ""
+            "heading": "About Us"
           }
         },
-        "featured_collection_bWJ7wG": {
-          "type": "featured_collection",
+        "text_fetT6i": {
+          "type": "text",
           "settings": {
-            "collection": "trims",
-            "title": ""
-          }
-        },
-        "featured_collection_w74nca": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "loom-weave",
-            "title": ""
-          }
-        },
-        "featured_collection_TdqH4B": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "lighting",
-            "title": ""
+            "text": "<p>Molly Mahon was born from a love of pattern, colour and the magic of making things by hand. Her journey into block printing began as a personal passion – an escape into creativity that quickly became something more.  Inspired by the rich tradition of Indian craftsmanship and the beauty of the natural world, Molly founded this brand to bring joy and artistry into everyday life.</p><p>At the heart of everything we do is a deep respect from craftmanship.  We work with skilled artisans to create hand block printed fabrics, wallpapers and homewares that celebrate individuality and the charm of the handmade.  No two prints are ever exactly the same and that’s what makes them special.</p><p>For us, design isn’t just about aesthetics – it’s about creating a home that feels good in every way.  We hope our pieces bring beauty, warmth and inspiration to your space too.</p>",
+            "code": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_3JpyQz",
-        "featured_collection_bWJ7wG",
-        "featured_collection_w74nca",
-        "featured_collection_TdqH4B"
+        "heading_TwFkBg",
+        "text_fetT6i"
       ],
-      "disabled": true,
       "settings": {
-        "styles": true,
+        "image": "shopify://shop_images/Molly-Mahon-About-Us-2.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "medium",
+        "text_width": "prose_medium",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
         "margin_top": "s",
         "margin_bot": "m"
       }
     },
-    "multicolumn_KRPX7J": {
-      "type": "multicolumn",
+    "image_with_text_77LiyW": {
+      "type": "image-with-text",
       "blocks": {
-        "column_yKcYUf": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_11_1300x1300_505ad835-caf9-4da8-b526-2003316fdea3.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Loom Weave",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/loom-weave",
-            "subtext": ""
-          }
-        },
-        "column_GiQhmJ": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/MollyMahon-Fabric-Stripe-Blue.jpg",
-            "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
-            "title": "Sale",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/sale",
-            "subtext": ""
-          }
-        },
-        "column_YARmpV": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Dianthus_Indigo-Iron.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": false,
-            "title": "Bedroom",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/soft-furnishing-lighting",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_yKcYUf",
-        "column_GiQhmJ",
-        "column_YARmpV"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "image_banner_FnjGNt": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_mmmAGM": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Layering with Cushions",
-            "heading_type": "header1"
-          }
-        },
-        "text_CV3Bm7": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "buttons_4TM6gc": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_mmmAGM",
-        "text_CV3Bm7",
-        "buttons_4TM6gc"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Christmas_Website_Image_2_MollyMahon_Cushions_and_Trims.jpg",
-        "letterbox": false,
-        "make_logo_white": false,
-        "top_margin": false,
-        "bordered": true,
-        "bordered_dt": true,
-        "constrain": false,
-        "desktop_text_box_position": "start",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "blue_text",
-        "margin_top": "sm",
-        "margin_bot": "sm",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
-    "featured_collection_Jdxibq": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Joyful Cushions",
-        "collection": "new-cushions",
-        "button_color": "seasonal",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "show_secondary_image": false
-      }
-    },
-    "image_banner_CYYHWx": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_nVzgGt": {
+        "heading_6zTxXH": {
           "type": "heading",
           "settings": {
-            "heading": "Woodlands Collection Launching 10th March",
-            "heading_type": "header1"
+            "heading": "Craftsmanship"
           }
         },
-        "text_XyBf3z": {
+        "text_aaPLNV": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "buttons_8DTBqh": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Molly Mahon is a renowned British luxury interior brand known for its beautifully crafted products that combine ancient techniques with contemporary design. </p><p>Our collections include home accessories, fabrics and wallpapers, all meticulously designed to bring warmth, style and sophistication to our homes. At Molly Mahon, we take pride in our commitment to quality, craftsmanship and sustainable practices.</p><p>Block printing is a timeless craft that celebrates artistry, tradition and the beauty of the handmade. At Molly Mahon, skilled artisans carve, ink and press each design by hand, creating textiles rich in character and charm.  Every piece carries the soulful imperfections of true craftsmanship, bringing individualism, depth and heritage into the home.</p>",
+            "code": ""
           }
         }
       },
       "block_order": [
-        "heading_nVzgGt",
-        "text_XyBf3z",
-        "buttons_8DTBqh"
+        "heading_6zTxXH",
+        "text_aaPLNV"
       ],
       "settings": {
-        "image": "shopify://shop_images/A1DFEA0F-A884-4A9D-8D19-3662F282C23F_1_105_c.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify://shop_images/A1DFEA0F-A884-4A9D-8D19-3662F282C23F_1_105_c.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "bordered": true,
-        "bordered_dt": true,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
+        "image": "shopify://shop_images/Molly-Mahon-Block-Carving.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "small",
+        "text_width": "prose_medium",
         "color_scheme": "dark_text",
-        "margin_top": "sm",
-        "margin_bot": "sm",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
-    "multicolumn_JVTJqd": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_6hV6L4": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/STRAWBERRY_KITCHEN_CURTAINS_1600x_ef0466b7-bf6e-4ecb-a9aa-49300215800d.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "Kitchen & Dining",
-            "subtitle": "",
-            "subtitle_size": "extrasmall",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/kitchen",
-            "subtext": ""
-          }
-        },
-        "column_kAAKWG": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/MollyMahon_Tapestry_Kits_Cusions_Joy_Love_DiamondsBlue_DiamondsRed_Poppy_7_HIGHRES_1200x1200_4b91029b-2123-452f-ae9b-73c9f04b3a44.jpg",
-            "auto_height": "none",
-            "cover": true,
-            "no_hover": false,
-            "title": "Tapestry",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": "shopify://collections/tapestry-kits",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_6hV6L4",
-        "column_kAAKWG"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "sm",
-        "margin_bot": "m"
-      }
-    },
-    "image_banner_LwpA6H": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_eHJFnU": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_type": "header1"
-          }
-        },
-        "text_X648qD": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_eHJFnU",
-        "text_X648qD"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/wallpaper_spotandstar_peagreen_bathroom_blinds_widestripe.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify://shop_images/mollymahon_bathroom_spot_star_widestripe_1300x1300_2e319006-7848-414d-9711-4cf96a9356c0.jpg",
-        "make_logo_white": false,
-        "top_margin": false,
-        "bordered": true,
-        "bordered_dt": true,
-        "constrain": false,
-        "desktop_text_box_position": "start",
-        "desktop_text_box_position_horizontal": "center",
+        "desktop_text_box_position": "center",
         "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "s",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
-    "20923eed-ecdf-4786-8836-2e8d1d372264": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/EVL_WESTTHORPE_westhorpe-48.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Inspiration",
-            "button_link": "shopify://blogs/look-books",
-            "subtext": ""
-          }
-        },
-        "column_7w7E8C": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/GREENCOMBE_ATTIC_BEDROOM_MOBILE.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Order Samples",
-            "button_link": "shopify://collections/fabric-wallpaper-samples",
-            "subtext": ""
-          }
-        },
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "narrow": false,
-            "image": "shopify://shop_images/LEAF_GRASS_FIRMDALEHOTEL.jpg",
-            "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
-            "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Hospitality",
-            "button_link": "shopify://pages/hospitality",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0",
-        "column_7w7E8C",
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "s"
-      }
-    },
-    "a1409fd8-a0db-4143-868e-69ee18c87d97": {
-      "type": "simple_quote",
-      "disabled": true,
-      "settings": {
-        "quote": "<p>Workshops & Supply Store</p>",
-        "cite": "Budding Block Printer?  Get creative with our eco supplies and fun workshops",
-        "bg": "green",
-        "heading_size": "medium",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "bg_color_scheme": "none",
-        "margin_top": "none",
-        "margin_bot": "none"
-      }
-    },
-    "image_banner_JcUcii": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_NXgbNP": {
-          "type": "heading",
-          "settings": {
-            "heading": "Workshops & Supply Store",
-            "heading_type": "header1"
-          }
-        },
-        "text_84ULJG": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "buttons_cFTjcc": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_NXgbNP",
-        "text_84ULJG",
-        "buttons_cFTjcc"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
-        "letterbox": true,
-        "make_logo_white": false,
-        "top_margin": false,
-        "bordered": false,
-        "bordered_dt": false,
-        "constrain": true,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "darken",
-        "hover_text": false
-      }
-    },
-    "165712871247f6866c": {
-      "type": "multicolumn",
-      "blocks": {
-        "16571287126ed8a3c3-0": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP3_1300x1300_7f0d925c-b96a-4193-9e90-cbca5f856f5d.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": true,
-            "title": "Workshops",
-            "subtitle": "Come and join Molly for a creative and fun day of block printing",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Find out more",
-            "button_link": "shopify://pages/workshops-and-events",
-            "subtext": ""
-          }
-        },
-        "16571287126ed8a3c3-1": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "narrow": false,
-            "image": "shopify://shop_images/MM_Collections_Mobile_Masthead_Images_-_Printing_supplies_2.jpg",
-            "auto_height": "square",
-            "cover": false,
-            "no_hover": true,
-            "title": "Printing Supplies",
-            "subtitle": "For the budding Block printer",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
-            "text_align": "center",
-            "button_label": "Shop Supplies",
-            "button_link": "shopify://collections/supply-store",
-            "subtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "16571287126ed8a3c3-0",
-        "16571287126ed8a3c3-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "add_spacing": false,
-        "border": false,
-        "margin_top": "s",
-        "margin_bot": "sm"
-      }
-    },
-    "16348167313be3ffb8": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Discover more..",
-        "introduction": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.</p>",
-        "button_label": "Read Journal",
-        "button_color": "seasonal",
-        "blog": "journal",
-        "post_limit": 10
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "xl"
       }
     },
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
       "type": "video",
       "blocks": {
+        "text_3Ri8fR": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false
+          }
+        },
         "28c6237f-93a5-442d-8ca9-2b00f30af1ad": {
           "type": "buttons",
           "disabled": true,
@@ -716,6 +223,7 @@
         }
       },
       "block_order": [
+        "text_3Ri8fR",
         "28c6237f-93a5-442d-8ca9-2b00f30af1ad"
       ],
       "settings": {
@@ -732,6 +240,291 @@
         "text_box_max_width": "800",
         "color_scheme": "white_text",
         "eyedee": ""
+      }
+    },
+    "single_title_and_text_GAmte8": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Sustainability",
+        "text": "<p>From the very beginning, we have prioritised eco-conscious decisions, ensuring our materials, processes and production uphold the highest standards of sustainability.  By embracing water-based dyes, responsible sourcing and ethical partnerships, we champion best practices that respect both the craft and the planet.</p><p>At Molly Mahon, we are always looking to the future and constantly seeking the best materials and practices, using responsibly sourced, regeneratively grown fibres like bamboo and aloe in addition to our well sourced cottons and linens. We believe in ethical production methods that support people and the planet.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_banner_T4ypmw": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/Molly-Mahon-Sustainability-Square.jpg",
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "l",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "divider_cxEAtf": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "none",
+        "margin_bot": "l",
+        "hr": true
+      }
+    },
+    "single_title_and_text_cGBWaY": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "London Design Week",
+        "text": "<p>We are thrilled to be exhibiting at London Design Week, Chelsea Harbour 10th – 14th March.</p><p>Please come and find us in the atrium and explore our new collection WOODLANDS. <br/>Please register for free entry with London Design Week.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_banner_W8Wbr3": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Molly-Mahon-Latest-News.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/Molly-Mahon-Latest-News-Square.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "sm",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "divider_4brE4j": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "l",
+        "margin_bot": "l",
+        "hr": true
+      }
+    },
+    "single_title_and_text_CTJFt9": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Inspire Your Next Project",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "20923eed-ecdf-4786-8836-2e8d1d372264": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects_9e8eaf8a-417b-41a7-9f65-a303b985c657.jpg",
+            "auto_height": "square",
+            "title": "Lookbooks",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": "shopify://blogs/look-books"
+          }
+        },
+        "column_7w7E8C": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-3.jpg",
+            "auto_height": "square",
+            "title": "Customer Projects",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": "shopify://pages/customer-projects"
+          }
+        },
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Moodboards.jpg",
+            "auto_height": "square",
+            "title": "Moodboards",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": "shopify://pages/fabric-mood-boards"
+          }
+        }
+      },
+      "block_order": [
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0",
+        "column_7w7E8C",
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1"
+      ],
+      "settings": {
+        "mc_title": "Lookbooks",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "small",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "s"
+      }
+    },
+    "image_with_text_NpFUj6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CUAGJ3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Workshops"
+          }
+        },
+        "text_cCjdmT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Molly’s block print workshops are designed to be an inspiring, fun and hands on experience where creativity flows freely.  These sessions offer participants the opportunity to learn the ancient art of block printing in a warm, welcoming and inspiring environment.  You’ll not only leave with a beautiful, handmade piece of art, but also a sense of pride in the process and techniques you’ve learned.  </p><p>Whether you’re a beginner or an experienced maker, the workshops are structured to encourage creativity and provide personalised guidance from Molly. Expect to gain new skills, meet like-minded people and walk away with a unique piece that reflects your artistic journey.  We promise an unforgettable experience that connects tradition with your personal creative journey.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CUAGJ3",
+        "text_cCjdmT"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gravetye-2018-31.jpg",
+        "aspect_ratio": "landscape",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "medium",
+        "text_width": "prose",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "xl",
+        "margin_bot": "l"
+      }
+    },
+    "image_with_text_Va4xdy": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gfzXNy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Journal"
+          }
+        },
+        "text_TYiDd6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to my journal – a space where I share stories, inspiration and craftmanship behind my designs.  From travels that spark creativity to the hands-on joy of block printing, this is where I document the journey behind the patterns.</p><p></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_gfzXNy",
+        "text_TYiDd6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Judhpur_57_copy.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose_medium",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "l"
+      }
+    },
+    "divider_WwKjVT": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "none",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "image_with_text_GPJmCR": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_PQAbJU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Collaborations"
+          }
+        },
+        "text_z4nXM6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over the years we have had the pleasure of collaborating with brands like Firmdale Hotels, Boden, Meri Meri, Secret Linen, Christies and Bombay Bustle, all of which share our commitment to craftsmanship and sustainability. </p><p>These partnerships blend our signature block prints with their unique styles, creating relationships that resonate with our brand ethos of artistry, quality, and ethical practices. Each collaboration feels like a natural extension of our mission, connecting our love for craft and design with brands that value the same principles.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_PQAbJU",
+        "text_z4nXM6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Molly-Mahon-Collaborations.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "xl",
+        "text_width": "prose_medium",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "l"
+      }
+    },
+    "divider_BnhwFD": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "margin_top": "s",
+        "margin_bot": "none",
+        "hr": true
       }
     },
     "16348163341a2e5254": {
@@ -812,6 +605,7 @@
         "b3638c37-80b2-4963-9497-730c5a8367d7",
         "c5462cbc-a60b-4b23-b26e-1522064bd96b"
       ],
+      "disabled": true,
       "settings": {
         "title": "@mollymahonblockprinting",
         "subtitle": "",
@@ -834,20 +628,25 @@
   },
   "order": [
     "image_banner_JTwYUc",
+    "single_title_and_text_VcQckG",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
-    "collection_list_ngqkRV",
-    "multicolumn_KRPX7J",
-    "image_banner_FnjGNt",
-    "featured_collection_Jdxibq",
-    "image_banner_CYYHWx",
-    "multicolumn_JVTJqd",
-    "image_banner_LwpA6H",
-    "20923eed-ecdf-4786-8836-2e8d1d372264",
-    "a1409fd8-a0db-4143-868e-69ee18c87d97",
-    "image_banner_JcUcii",
-    "165712871247f6866c",
-    "16348167313be3ffb8",
+    "divider_rhAXLn",
+    "image_with_text_CC4PWC",
+    "image_with_text_77LiyW",
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
+    "single_title_and_text_GAmte8",
+    "image_banner_T4ypmw",
+    "divider_cxEAtf",
+    "single_title_and_text_cGBWaY",
+    "image_banner_W8Wbr3",
+    "divider_4brE4j",
+    "single_title_and_text_CTJFt9",
+    "20923eed-ecdf-4786-8836-2e8d1d372264",
+    "image_with_text_NpFUj6",
+    "image_with_text_Va4xdy",
+    "divider_WwKjVT",
+    "image_with_text_GPJmCR",
+    "divider_BnhwFD",
     "16348163341a2e5254",
     "main",
     "16412983447ec23b50"

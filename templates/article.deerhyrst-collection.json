@@ -87,7 +87,6 @@
       "settings": {
         "image": "shopify://shop_images/WALLPAPER_FERN_DEERHYRST_KIDSBEDROOM_1800X1000_4267185c-1a3c-4d08-bc51-4eb7d1921445.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -206,7 +205,6 @@
       "settings": {
         "image": "shopify://shop_images/FIRMDALE_SOHO_LEAF_1800x900_b75972d7-ecba-4e3d-bb46-1fbcc190edcc.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -254,7 +252,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
-        "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -302,7 +299,6 @@
       "settings": {
         "image": "shopify://shop_images/FERNTURMERICKEALIFE2_2d74b0a6-cd4c-4fe9-9ed1-41934af493a9.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -403,7 +399,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/WALLPAPER_BIRDS_BEES_BABYROOM_1300X1300_dc823947-7e64-454f-a18d-d2b35486d0b9.jpg",
-        "title": "",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -512,7 +507,6 @@
       "settings": {
         "image": "shopify://shop_images/THESWAN_BIRDS_BEES_BEDROOM_1600x900_f52853cf-c0ce-489d-afe9-d0cd842cc6b0.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -562,7 +556,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/MollyMahon-workshop6.jpg",
-        "title": "A Seasonal Setting",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",

@@ -86,7 +86,6 @@
       "settings": {
         "image": "shopify://shop_images/mm_vid.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -112,7 +111,6 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "",
-        "heading_size": "medium",
         "text": "<p>Block printing is the most wonderful physical form of creativity as well as being a means to create important, beautiful and practical items for our homes.  I have been blown away by the talent I have encountered and will strive to do my best to keep the craft alive and viable.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -184,7 +182,6 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Designed in Sussex",
-        "heading_size": "medium",
         "text": "<p>Inspired by nature, my travels to India and things that I notice in my daily life, I turn my images into repeat designs and carve them into a block.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -232,7 +229,6 @@
       "settings": {
         "image": "shopify://shop_images/CREATEAC_STILL_WS.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -281,7 +277,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/MM_INDIA_BLOCK_CARVER.jpg",
-        "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -320,7 +315,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
-        "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -375,7 +369,6 @@
       "settings": {
         "image": "shopify://shop_images/MM_BLOCKPRINTING_INDIA.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,

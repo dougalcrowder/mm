@@ -1,32 +1,32 @@
 {{ 'video.css' | asset_url | stylesheet_tag }}
 
 {%- if section.settings.logo_white -%}
-<script>
-  document.body.classList.add("white_logo");
-</script>
+  <script>
+      document.body.classList.add("white_logo");
+  </script>
 {%- endif -%}
 
 {%- if section.settings.image != blank -%}
-<script>
-  document.body.classList.add("banner");
-</script>
+  <script>
+      document.body.classList.add("banner");
+  </script>
 {%- endif -%}
 
 {%- if section.settings.eyedee != blank -%}
-<div class="scroll_adjust" id="{{ section.settings.eyedee }}">
-  <span class="visually-hidden">{{ section.settings.eyedee }}</span>
-</div>
+  <div class="scroll_adjust" id="{{ section.settings.eyedee }}">
+    <span class="visually-hidden">{{ section.settings.eyedee }}</span>
+  </div>
 {%- endif -%}
 
 {% include 'inc-video' %}
 
 {%- for block in section.blocks -%}
-{%- case block.type -%}
-{%- when 'buttons' -%}
-  {%- if block.settings.button_modal_1 != blank or block.settings.button_modal_2 != blank -%}
-  {% capture loadJs %}yes{% endcapture %}
-  {%- endif -%}
-{%- endcase -%}
+  {%- case block.type -%}
+    {%- when 'buttons' -%}
+      {%- if block.settings.button_modal_1 != blank or block.settings.button_modal_2 != blank -%}
+        {% capture loadJs %}yes{% endcapture %}
+      {%- endif -%}
+  {%- endcase -%}
 {%- endfor -%}
 
 {%- if loadJs == 'yes' -%}
@@ -35,316 +35,288 @@
 {%- endif -%}
 
 {%- for block in section.blocks -%}
-{%- case block.type -%}
-{%- when 'buttons' -%}
+  {%- case block.type -%}
+    {%- when 'buttons' -%}
 
 
-{% if block.settings.button_modal_1 != blank %}
+      {% if block.settings.button_modal_1 != blank %}
 
-<script>
-  function modal1() {
-    basicLightbox.create(`
-      {{ block.settings.button_modal_1 }}
-    `).show()
-  }
+        <script>
+            function modal1() {
+              basicLightbox.create(`
+                {{ block.settings.button_modal_1 }}
+              `).show()
+            }
 
-</script>
-{% endif %}
+        </script>
+      {% endif %}
 
-{% if block.settings.button_modal_2 != blank %}
+      {% if block.settings.button_modal_2 != blank %}
 
-<script>
-  function modal2() {
-    basicLightbox.create(`
-      {{ block.settings.button_modal_2 }}
-    `).show()
-  }
+        <script>
+            function modal2() {
+              basicLightbox.create(`
+                {{ block.settings.button_modal_2 }}
+              `).show()
+            }
 
-</script>
-{% endif %}
+        </script>
+      {% endif %}
 
-{%- endcase -%}
+  {%- endcase -%}
 {%- endfor -%}
 
 {% schema %}
-{
-  "name": "t:sections.video.name",
-  "class": "spaced-section video-section ratio_banner",
-  "settings": [
-    {
-      "type": "checkbox",
-      "id": "logo_white",
-      "label": "Make Logo Light",
-      "default": false,
-      "info": "If you are at the top of the page, this is useful"
-    },
-    {
-      "type": "checkbox",
-      "id": "autoplay",
-      "label": "Autoplay video",
-      "default": false,
-      "info": "Limited browser support for autoplaying video."
-    },
-    {
-      "type": "checkbox",
-      "id": "autoloop",
-      "label": "Autoloop video",
-      "default": true
-    },
-    {
-      "type": "checkbox",
-      "id": "mute_video",
-      "label": "Mute video",
-      "default": false
-    },
-    {
-      "type": "checkbox",
-      "id": "show_controls",
-      "label": "Show video controls",
-      "default": true
-    },
-    {
-      "type": "text",
-      "id": "html5_video",
-      "label": "HTML5 MP4/OGV File URL"
-    },
-    {
-      "type": "header",
-      "content": "Content"
-    },
-    {
-      "type": "image_picker",
-      "id": "image",
-      "label": "Poster Image",
-      "info": "Displays if video is slow to load"
-    },
-    {
-      "type": "select",
-      "id": "desktop_text_box_position",
-      "options": [
-        {
-          "value": "start",
-          "label": "t:sections.image-banner.settings.desktop_text_box_position.options__1.label"
-        },
-        {
-          "value": "middle",
-          "label": "t:sections.image-banner.settings.desktop_text_box_position.options__2.label"
-        },
-        {
-          "value": "end",
-          "label": "t:sections.image-banner.settings.desktop_text_box_position.options__3.label"
-        }
-      ],
-      "default": "middle",
-      "label": "Desktop Text vertical positioning"
-    },
-    {
-      "type": "select",
-      "id": "desktop_text_box_position_horizontal",
-      "options": [
-        {
-          "value": "start",
-          "label": "Left"
-        },
-        {
-          "value": "center",
-          "label": "Center"
-        },
-        {
-          "value": "end",
-          "label": "Right"
-        }
-      ],
-      "default": "center",
-      "label": "Desktop Text Horizontal positioning"
-    },
   {
-  "type": "select",
-    "id": "text_align",
-    "options": [
-      {
-        "value": "left",
-        "label": "Left"
-      },
-      {
-        "value": "center",
-        "label": "Centre"
-      },
-      {
-        "value": "right",
-        "label": "Right"
-      }
-    ],
-    "default": "center",
-    "label": "text Alignment"
-  },
-  {
-    "type": "select",
-    "id": "text_box_max_width",
-    "options": [
-      {
-        "value": "600",
-        "label": "600 px"
-      },
-      {
-        "value": "700",
-        "label": "700 px"
-      },
-      {
-        "value": "800",
-        "label": "800 px"
-      },
-      {
-        "value": "900",
-        "label": "900 px"
-      },
-      {
-        "value": "1000",
-        "label": "1000 px"
-      }
-    ],
-    "default": "800",
-    "label": "Desktop text box max width"
-  },
-  {
-    "type": "select",
-    "id": "color_scheme",
-    "options": [
-      {
-        "value": "white_text",
-        "label": "white text"
-      },
-      {
-        "value": "red_text",
-        "label": "Red Text"
-      },
-      {
-        "value": "dark_text",
-        "label": "Dark Text"
-      },
-      {
-        "value": "blue_text",
-        "label": "Blue Text"
-      }
-    ],
-    "default": "white_text",
-    "label": "Text Colour"
-  },
-  {
-    "type": "text",
-    "id": "eyedee",
-    "label": "Video Id"
-  }
-  ],
-  "blocks": [
-  {
-    "type": "heading",
-    "name": "t:sections.image-banner.blocks.heading.name",
-    "limit": 1,
+    "name": "t:sections.video.name",
+    "class": "spaced-section video-section ratio_banner inner nomax",
     "settings": [
       {
-        "type": "text",
-        "id": "heading",
-        "default": "Image banner",
-        "label": "t:sections.image-banner.blocks.heading.settings.heading.label"
+        "type": "checkbox",
+        "id": "logo_white",
+        "label": "Make Logo Light",
+        "default": false,
+        "info": "If you are at the top of the page, this is useful"
       },
       {
+        "type": "checkbox",
+        "id": "autoplay",
+        "label": "Autoplay video",
+        "default": false,
+        "info": "Limited browser support for autoplaying video."
+      },
+      {
+        "type": "checkbox",
+        "id": "autoloop",
+        "label": "Autoloop video",
+        "default": true
+      },
+      {
+        "type": "checkbox",
+        "id": "mute_video",
+        "label": "Mute video",
+        "default": false
+      }, {
+        "type": "checkbox",
+        "id": "show_controls",
+        "label": "Show video controls",
+        "default": true
+      }, {
+        "type": "text",
+        "id": "html5_video",
+        "label": "HTML5 MP4/OGV File URL"
+      }, {
+        "type": "header",
+        "content": "Content"
+      }, {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Poster Image",
+        "info": "Displays if video is slow to load"
+      }, {
         "type": "select",
-        "id": "heading_type",
+        "id": "desktop_text_box_position",
         "options": [
           {
-            "value": "header1",
-            "label": "header 1"
-          },
-          {
-            "value": "header2",
-            "label": "header 2"
+            "value": "start",
+            "label": "t:sections.image-banner.settings.desktop_text_box_position.options__1.label"
+          }, {
+            "value": "middle",
+            "label": "t:sections.image-banner.settings.desktop_text_box_position.options__2.label"
+          }, {
+            "value": "end",
+            "label": "t:sections.image-banner.settings.desktop_text_box_position.options__3.label"
           }
         ],
-        "default": "header1",
-        "label": "t:sections.image-banner.blocks.heading.settings.heading_size.label"
-      }
-    ]
-  },
-  {
-    "type": "text",
-    "name": "t:sections.image-banner.blocks.text.name",
-    "limit": 1,
-    "settings": [
-      {
-        "type": "textarea",
-        "id": "text",
-        "default": "Make yourself a home.",
-        "label": "t:sections.image-banner.blocks.text.settings.text.label"
-      },
-      {
-        "type": "checkbox",
-        "id": "go_serif",
-        "default": false,
-        "label": "Go large and serif"
-      }
-    ]
-  },
-  {
-    "type": "buttons",
-    "name": "t:sections.image-banner.blocks.buttons.name",
-    "limit": 1,
-    "settings": [
-      {
+        "default": "middle",
+        "label": "Desktop Text vertical positioning"
+      }, {
+        "type": "select",
+        "id": "desktop_text_box_position_horizontal",
+        "options": [
+          {
+            "value": "start",
+            "label": "Left"
+          }, {
+            "value": "center",
+            "label": "Center"
+          }, {
+            "value": "end",
+            "label": "Right"
+          }
+        ],
+        "default": "center",
+        "label": "Desktop Text Horizontal positioning"
+      }, {
+        "type": "select",
+        "id": "text_align",
+        "options": [
+          {
+            "value": "left",
+            "label": "Left"
+          }, {
+            "value": "center",
+            "label": "Centre"
+          }, {
+            "value": "right",
+            "label": "Right"
+          }
+        ],
+        "default": "center",
+        "label": "text Alignment"
+      }, {
+        "type": "select",
+        "id": "text_box_max_width",
+        "options": [
+          {
+            "value": "600",
+            "label": "600 px"
+          },
+          {
+            "value": "700",
+            "label": "700 px"
+          },
+          {
+            "value": "800",
+            "label": "800 px"
+          },
+          {
+            "value": "900",
+            "label": "900 px"
+          }, {
+            "value": "1000",
+            "label": "1000 px"
+          }
+        ],
+        "default": "800",
+        "label": "Desktop text box max width"
+      }, {
+        "type": "select",
+        "id": "color_scheme",
+        "options": [
+          {
+            "value": "white_text",
+            "label": "white text"
+          }, {
+            "value": "red_text",
+            "label": "Red Text"
+          }, {
+            "value": "dark_text",
+            "label": "Dark Text"
+          }, {
+            "value": "blue_text",
+            "label": "Blue Text"
+          }
+        ],
+        "default": "white_text",
+        "label": "Text Colour"
+      }, {
         "type": "text",
-        "id": "button_label_1",
-        "default": "Button label",
-        "label": "t:sections.image-banner.blocks.buttons.settings.button_label_1.label",
-        "info": "t:sections.image-banner.blocks.buttons.settings.button_label_1.info"
-      },
+        "id": "eyedee",
+        "label": "Video Id"
+      }
+    ],
+    "blocks": [
       {
-        "type": "html",
-        "id": "button_modal_1",
-        "label": "file url or iframe for modal",
-        "info": "paste iframe code here"
-      },
-      {
-        "type": "url",
-        "id": "button_link_1",
-        "label": "t:sections.image-banner.blocks.buttons.settings.button_link_1.label"
-      },
-      {
-        "type": "checkbox",
-        "id": "button_style_secondary_1",
-        "default": false,
-        "label": "Fill Style"
-      },
-      {
+        "type": "heading",
+        "name": "t:sections.image-banner.blocks.heading.name",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "heading",
+            "default": "Image banner",
+            "label": "t:sections.image-banner.blocks.heading.settings.heading.label"
+          }, {
+            "type": "select",
+            "id": "heading_type",
+            "options": [
+              {
+                "value": "header1",
+                "label": "header 1"
+              }, {
+                "value": "header2",
+                "label": "header 2"
+              }
+            ],
+            "default": "header1",
+            "label": "t:sections.image-banner.blocks.heading.settings.heading_size.label"
+          }
+        ]
+      }, {
         "type": "text",
-        "id": "button_label_2",
-        "label": "t:sections.image-banner.blocks.buttons.settings.button_label_2.label",
-        "info": "t:sections.image-banner.blocks.buttons.settings.button_label_2.info"
-      },
+        "name": "t:sections.image-banner.blocks.text.name",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "textarea",
+            "id": "text",
+            "default": "Make yourself a home.",
+            "label": "t:sections.image-banner.blocks.text.settings.text.label"
+          }, {
+            "type": "checkbox",
+            "id": "go_serif",
+            "default": false,
+            "label": "Go large and serif"
+          }
+        ]
+      }, {
+        "type": "buttons",
+        "name": "t:sections.image-banner.blocks.buttons.name",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "button_label_1",
+            "default": "Button label",
+            "label": "t:sections.image-banner.blocks.buttons.settings.button_label_1.label",
+            "info": "t:sections.image-banner.blocks.buttons.settings.button_label_1.info"
+          },
+          {
+            "type": "html",
+            "id": "button_modal_1",
+            "label": "file url or iframe for modal",
+            "info": "paste iframe code here"
+          },
+          {
+            "type": "url",
+            "id": "button_link_1",
+            "label": "t:sections.image-banner.blocks.buttons.settings.button_link_1.label"
+          },
+          {
+            "type": "checkbox",
+            "id": "button_style_secondary_1",
+            "default": false,
+            "label": "Fill Style"
+          }, {
+            "type": "text",
+            "id": "button_label_2",
+            "label": "t:sections.image-banner.blocks.buttons.settings.button_label_2.label",
+            "info": "t:sections.image-banner.blocks.buttons.settings.button_label_2.info"
+          }, {
+            "type": "html",
+            "id": "button_modal_2",
+            "label": "file url or iframe for modal",
+            "info": "paste iframe code here"
+          }, {
+            "type": "url",
+            "id": "button_link_2",
+            "label": "t:sections.image-banner.blocks.buttons.settings.button_link_2.label"
+          }, {
+            "type": "checkbox",
+            "id": "button_style_secondary_2",
+            "default": false,
+            "label": "Fill Style"
+          }
+        ]
+      }
+    ],
+    "presets": [
       {
-        "type": "html",
-        "id": "button_modal_2",
-        "label": "file url or iframe for modal",
-        "info": "paste iframe code here"
-      },
-      {
-        "type": "url",
-        "id": "button_link_2",
-        "label": "t:sections.image-banner.blocks.buttons.settings.button_link_2.label"
-      },
-      {
-        "type": "checkbox",
-        "id": "button_style_secondary_2",
-        "default": false,
-        "label": "Fill Style"
+        "name": "Video",
+        "category": "Video"
       }
     ]
   }
-],
-  "presets": [{
-    "name": "Video",
-    "category": "Video"
-  }
-  ]
-}
 
 {% endschema %}

@@ -1,362 +1,290 @@
 <div class="multicolumn inner nomax{% if section.settings.add_spacing %} padd_top{% endif %} pt-{{ section.settings.margin_top }} pb-{{ section.settings.margin_bot }}">
   {% if section.settings.border %}
-  <div class="border">
+    <div class="border">
   {% endif %}
-    {%- if section.settings.show_title -%}
-      <h3 class="h2 center">{{ section.settings.mc_title }}</h3>
-    {%- endif -%}
-    <ul class="multicolumn grid">
-      {%- for block in section.blocks -%}
-        {%- include 'multi-column' -%}
-      {%- endfor -%}
-    </ul>
+  {%- if section.settings.show_title -%}
+    <h2 class="h2 mb-{{ section.settings.title_margin }} {{ section.settings.text_align }}">{{ section.settings.mc_title }}</h2>
+  {%- endif -%}
+  <ul class="multicolumn grid gap-{{ section.settings.gap }}">
+    {%- for block in section.blocks -%}
+      {%- include 'multi-column' -%}
+    {%- endfor -%}
+  </ul>
   {% if section.settings.border %}
-  </div>
+    </div>
   {% endif %}
 </div>
- 
+
 {% schema %}
 
-{
-"name": "t:sections.multicolumn.name",
-"class": "multicolumn-section",
-"tag": "section",
-"settings": [
-   {
-     "type": "text",
-     "id": "mc_title",
-     "label": "Title"
-   },
-   {
-     "type": "checkbox",
-     "id": "show_title",
-     "default": false,
-     "label": "Show the title"
-   },
-   {
-      "type": "checkbox",
-      "id": "add_spacing",
-      "default": false,
-      "label": "Add extra space above"
-    },
-    {
-      "type": "checkbox",
-      "id": "border",
-      "default": false,
-      "label": "Add a big border"
-    },
-    {
-      "type": "select",
-      "id": "margin_top",
-      "options": [
-        {
-          "value": "none",
-          "label": "None"
-        },
-        {
-          "value": "s",
-          "label": "Small"
-        },
-        {
-          "value": "sm",
-          "label": "Small Medium"
-        },
-        {
-          "value": "m",
-          "label": "Medium"
-        },
-        {
-          "value": "l",
-          "label": "Large"
-        }
-      ],
-      "default": "none",
-      "label": "spacing above",
-      "info": "adjust the spacing for the panel"
-    },
-    {
-      "type": "select",
-      "id": "margin_bot",
-      "options": [
-        {
-          "value": "none",
-          "label": "None"
-        },
-        {
-          "value": "s",
-          "label": "Small"
-        },
-        {
-          "value": "sm",
-          "label": "Small Medium"
-        },
-        {
-          "value": "m",
-          "label": "Medium"
-        },
-        {
-          "value": "l",
-          "label": "Large"
-        }
-      ],
-      "default": "m",
-      "label": "spacing below",
-      "info": "adjust the spacing for the panel"
-    }
-],
-"blocks": [
   {
-    "type": "column",
-    "name": "t:sections.multicolumn.blocks.column.name",
+    "name": "t:sections.multicolumn.name",
+    "class": "multicolumn-section",
+    "tag": "section",
     "settings": [
       {
-        "type": "select",
-        "id": "width",
-        "options": [
-          {
-            "value": "half",
-            "label": "Half"
-          },
-          {
-            "value": "one_third",
-            "label": "One Third"
-          },
-          {
-            "value": "two_thirds",
-            "label": "Two Thirds"
-          }
-        ],
-        "default": "half",
-        "label": "Column Width",
-        "info": "applies mostly to desktop and tablets"
-      },
-      {
-        "type": "checkbox",
-        "id": "narrow",
-        "label": "make this column narrow on desktops",
-        "default": false
-      },
-      {
-        "type": "image_picker",
-        "id": "image",
-        "label": "t:sections.multicolumn.blocks.column.settings.image.label"
-      },
-      {
-        "type": "select",
-        "id": "auto_height",
-        "options": [
-          {
-            "value": "landscape",
-            "label": "Landscape"
-          },
-          {
-            "value": "portrait",
-            "label": "Portrait"
-          },
-          {
-            "value": "square",
-            "label": "Square"
-          },
-          {
-            "value": "none",
-            "label": "Original image ratio"
-          }
-        ],
-        "default": "none",
-        "label": "Image Aspect Ratio"
-      },
-      {
-        "type": "checkbox",
-        "id": "cover",
-        "label": "make image fill the available space",
-        "default": false
-      },
-      {
-        "type": "checkbox",
-        "id": "no_hover",
-        "label": "Always show text",
-        "default": false
-      },
-      {
         "type": "text",
-        "id": "title",
-        "default": "Column",
-        "label": "t:sections.multicolumn.blocks.column.settings.title.label"
+        "id": "mc_title",
+        "label": "Title"
       },
       {
-        "type": "text",
-        "id": "subtitle",
-        "default": "Under the stars in style",
-        "label": "Subtitle"
-      },
-      {
-        "type": "select",
-        "id": "subtitle_size",
-        "options": [
-          {
-            "value": "extrasmall",
-            "label": "Extra Small"
-          },
-          {
-            "value": "small",
-            "label": "Small"
-          },
-          {
-            "value": "medium",
-            "label": "Medium"
-          },
-          {
-            "value": "large",
-            "label": "Large"
-          }
-        ],
-        "default": "small",
-        "label": "Subtitle Text Size"
-      },
-      {
-        "type": "richtext",
-        "id": "text",
-        "default": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "label": "t:sections.multicolumn.blocks.column.settings.text.label"
-      },
-      {
-        "type": "select",
-        "id": "button_color",
-        "options": [
-          {
-            "value": "white",
-            "label": "White"
-          },
-          {
-            "value": "red",
-            "label": "Red"
-          },
-          {
-            "value": "dark",
-            "label": "Dark"
-          }
-        ],
-        "default": "white",
-        "label": "Button Colour",
-        "info": "Choose the colour for the button"
-      },
-      {
-        "type": "select",
-        "id": "color_scheme",
-        "options": [
-          {
-            "value": "white_text",
-            "label": "White text (black on mobile)"
-          },
-          {
-            "value": "red_text",
-            "label": "Red Text"
-          },
-          {
-            "value": "dark_text",
-            "label": "Dark Text"
-          },
-          {
-            "value": "blue_text",
-            "label": "Blue Text"
-          }
-        ],
-        "default": "white_text",
-        "label": "t:sections.image-banner.settings.color_scheme.label",
-        "info": "t:sections.image-banner.settings.color_scheme.info"
-      },
-      {
-        "type": "select",
-        "id": "desktop_text_box_position",
-        "options": [
-          {
-            "value": "start",
-            "label": "Top"
-          },
-          {
-            "value": "center",
-            "label": "Middle"
-          },
-          {
-            "value": "end",
-            "label": "Bottom"
-          },
-          {
-            "value": "between",
-            "label": "space between"
-          },
-          {
-            "value": "evenly",
-            "label": "space evenly"
-          },
-          {
-            "value": "around",
-            "label": "space around"
-          },
-          {
-            "value": "under",
-            "label": "Inline block"
-          }
-        ],
-        "default": "center",
-        "label": "Desktop Text position"
+        "type": "checkbox",
+        "id": "show_title",
+        "default": false,
+        "label": "Show the title"
       },
       {
         "type": "select",
         "id": "text_align",
         "options": [
           {
-            "value": "left",
-            "label": "Left"
-          },
-          {
             "value": "center",
             "label": "Centre"
-          },
-          {
+          }, {
+            "value": "left",
+            "label": "Left"
+          }, {
             "value": "right",
             "label": "Right"
           }
         ],
         "default": "center",
-        "label": "Desktop Text alignment"
+        "label": "Align title text"
       },
       {
-        "type": "text",
-        "id": "button_label",
-        "default": "Button label",
-        "label": "t:sections.multicolumn.settings.button_label.label"
-      },
-      {
-        "type": "url",
-        "id": "button_link",
-        "label": "t:sections.multicolumn.settings.button_link.label"
-      },
-      {
-        "type": "richtext",
-        "id": "subtext",
-        "label": "Subtext"
+        "type": "select",
+        "id": "title_margin",
+        "options": [
+          {
+            "value": "none",
+            "label": "None"
+          },
+          {
+            "value": "s",
+            "label": "Small"
+          },
+          {
+            "value": "sm",
+            "label": "Small Medium"
+          },
+          {
+            "value": "m",
+            "label": "Medium"
+          }, {
+            "value": "l",
+            "label": "Large"
+          }, {
+            "value": "xl",
+            "label": "X Large"
+          }
+        ],
+        "default": "l",
+        "label": "Margin below title",
+        "info": "Control the space beneath the title"
+      }, {
+        "type": "select",
+        "id": "gap",
+        "options": [
+          {
+            "value": "small",
+            "label": "Small"
+          }, {
+            "value": "medium",
+            "label": "Medium"
+          }, {
+            "value": "large",
+            "label": "Large"
+          }, {
+            "value": "none",
+            "label": "None"
+          }
+        ],
+        "default": "medium",
+        "label": "Column Gap"
+      }, {
+        "type": "checkbox",
+        "id": "border",
+        "default": false,
+        "label": "Add a big border"
+      }, {
+        "type": "select",
+        "id": "margin_top",
+        "options": [
+          {
+            "value": "none",
+            "label": "None"
+          },
+          {
+            "value": "s",
+            "label": "Small"
+          },
+          {
+            "value": "sm",
+            "label": "Small Medium"
+          },
+          {
+            "value": "m",
+            "label": "Medium"
+          }, {
+            "value": "l",
+            "label": "Large"
+          }, {
+            "value": "xl",
+            "label": "X Large"
+          }
+        ],
+        "default": "none",
+        "label": "spacing above",
+        "info": "adjust the spacing for the panel"
+      }, {
+        "type": "select",
+        "id": "margin_bot",
+        "options": [
+          {
+            "value": "none",
+            "label": "None"
+          },
+          {
+            "value": "s",
+            "label": "Small"
+          },
+          {
+            "value": "sm",
+            "label": "Small Medium"
+          },
+          {
+            "value": "m",
+            "label": "Medium"
+          }, {
+            "value": "l",
+            "label": "Large"
+          }, {
+            "value": "xl",
+            "label": "X Large"
+          }
+        ],
+        "default": "m",
+        "label": "spacing below",
+        "info": "adjust the spacing for the panel"
       }
-    ]
-  }
-],
-"presets": [
-  {
-    "name": "Multi Columns",
+    ],
     "blocks": [
       {
-        "type": "column"
-      },
+        "type": "column",
+        "name": "t:sections.multicolumn.blocks.column.name",
+        "settings": [
+          {
+            "type": "select",
+            "id": "width",
+            "options": [
+              {
+                "value": "half",
+                "label": "Half"
+              }, {
+                "value": "one_third",
+                "label": "One Third"
+              }, {
+                "value": "two_thirds",
+                "label": "Two Thirds"
+              }
+            ],
+            "default": "half",
+            "label": "Column Width",
+            "info": "applies mostly to desktop and tablets"
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "t:sections.multicolumn.blocks.column.settings.image.label"
+          },
+          {
+            "type": "select",
+            "id": "auto_height",
+            "options": [
+              {
+                "value": "landscape",
+                "label": "Landscape"
+              }, {
+                "value": "portrait",
+                "label": "Portrait"
+              }, {
+                "value": "square",
+                "label": "Square"
+              }, {
+                "value": "none",
+                "label": "Original image ratio"
+              }
+            ],
+            "default": "none",
+            "label": "Image Aspect Ratio"
+          },
+          {
+            "type": "text",
+            "id": "title",
+            "default": "Column",
+            "label": "t:sections.multicolumn.blocks.column.settings.title.label"
+          }, {
+            "type": "select",
+            "id": "text_align",
+            "options": [
+              {
+                "value": "left",
+                "label": "Left"
+              }, {
+                "value": "center",
+                "label": "Centre"
+              }, {
+                "value": "right",
+                "label": "Right"
+              }
+            ],
+            "default": "center",
+            "label": "Text alignment"
+          }, {
+            "type": "select",
+            "id": "heading_type",
+            "options": [
+              {
+                "value": "h2",
+                "label": "H2"
+              }, {
+                "value": "h3",
+                "label": "H3"
+              }, {
+                "value": "h4",
+                "label": "H4"
+              }
+            ],
+            "default": "h2",
+            "label": "Text Heading type"
+          }, {
+            "type": "text",
+            "id": "button_label",
+            "default": "link label",
+            "label": "link label"
+          }, {
+            "type": "url",
+            "id": "button_link",
+            "label": "t:sections.multicolumn.settings.button_link.label"
+          }
+        ]
+      }
+    ],
+    "presets": [
       {
-        "type": "column"
-      },
-      {
-        "type": "column"
+        "name": "Multi Columns",
+        "blocks": [
+          {
+            "type": "column"
+          }, {
+            "type": "column"
+          }, {
+            "type": "column"
+          }
+        ]
       }
     ]
   }
-]
-}
 
 
 {% endschema %}

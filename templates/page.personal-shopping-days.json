@@ -53,7 +53,6 @@
         "image": "shopify://shop_images/MollyMahon_Christmas_2024_6_1_1_d0bbf307-8ec0-456f-8dff-c07e55f68a1c.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/MollyMahon_Christmas_2024_6_1_1.jpg",
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -74,7 +73,6 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Christmas Shopping Dates at Molly Mahon",
-        "heading_size": "medium",
         "text": "<h4>Join us for a in person shopping experience here, where the Magic happens, at the Molly Mahon Forest Row Studio.</h4>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -88,43 +86,23 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/MollyMahon_Christmas_2024_Presents_4_1_dbdcf1e1-ed94-4d75-a88f-fce589b0e198.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "column_q7KH6V": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "extrasmall",
-            "text": "<p>All purchases come with complimentary block printed gift wrapping with ribbon. </p><p>10% discount on all sales.</p><p>If you're feeling lucky why not enter our lucky dip, open to everyone who comes.<br/>DON'T MISS OUT!</p><p>Don't forget to <strong>RSVP</strong> and let us know you are coming at<br/><strong>office@mollymahon.com</strong></p><p>We are excited to welcome you at the studio!<br/><br/>Starlings Studio, Highgate Works, Tomtits Lane, RH185AT</p>",
-            "button_color": "white",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -135,7 +113,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "none",
         "margin_bot": "none"
@@ -146,7 +123,6 @@
       "disabled": true,
       "settings": {
         "title": "Dates",
-        "heading_size": "medium",
         "text": "",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -202,42 +178,22 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "Late Night Shopping",
-            "subtitle_size": "medium",
-            "text": "<p>Thursday 5th December<br/>6:30 - 9pm<br/></p>",
-            "button_color": "white",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "column_6NPKVw": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "Coffee & Shop Morning",
-            "subtitle_size": "medium",
-            "text": "<p>Saturday 7th December<br/>11am - 2pm</p>",
-            "button_color": "dark",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -248,7 +204,6 @@
       "settings": {
         "mc_title": "Dates",
         "show_title": true,
-        "add_spacing": false,
         "border": false,
         "margin_top": "l",
         "margin_bot": "none"

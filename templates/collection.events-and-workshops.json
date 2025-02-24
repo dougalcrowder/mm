@@ -51,7 +51,6 @@
         "image": "shopify://shop_images/MollyMahon_Workshops_Printing_Blockprint_1.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/MollyMahon_Workshops_Printing_Blockprint_Square.jpg",
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -83,7 +82,6 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Workshops & Events",
-        "heading_size": "medium",
         "text": "<p>Make a day of it and come and join Molly at one of her fun and immersive workshops.  Also watch this space for upcoming talks and events with Molly.<br/><em>\"We need to make time to be creative. It feeds and nourishes the soul.”</em>Molly Mahon</p>",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -120,7 +118,6 @@
       "settings": {
         "image": "shopify://shop_images/95FBCCC0-CB81-4847-98D3-39F46B60A97F_1_105_c.jpg",
         "letterbox": false,
-        "make_logo_white": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -154,43 +151,23 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/MollyMahon_Christmas_2024_5_1_1.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "column_XDeEX4": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "PERSONAL SHOPPING DATES @ MM FOREST ROW STUDIO",
-            "subtitle_size": "extrasmall",
-            "text": "<p>Late Night Shopping <strong>Thursday 5th December</strong> 6:30-9pm</p><p>Coffee & Shop Morning <strong>Saturday 7th December</strong> 11am-2pm</p><p>All Purchases will receive complimentary block printed <strong>gift wrap</strong> with ribbon.</p><p>Enter our <strong>prize draw</strong> for everyone that comes. DON'T MISS OUT!!</p><p><strong>RSVP</strong> office@mollymahon.com</p>",
-            "button_color": "white",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -202,7 +179,6 @@
       "settings": {
         "mc_title": "IN PERSON SHOPPING EVENT",
         "show_title": true,
-        "add_spacing": false,
         "border": false,
         "margin_top": "none",
         "margin_bot": "s"

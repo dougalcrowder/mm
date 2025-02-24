@@ -11,10 +11,604 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {}
+    },
+    "single_title_and_text_etUTFF": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Customer Project Gallery",
+        "text": "<h5>See what our customers and partners have created with our collections and inspire your next project.</h5>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "xl",
+        "margin_bot": "none"
+      }
+    },
+    "image_banner_7rHP3P": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_TL7xPa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "text_4Df47c": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_eChj66": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TL7xPa",
+        "text_4Df47c",
+        "buttons_eChj66"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Molly-Mahon-Customer-Projects.jpg",
+        "letterbox": false,
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "multicolumn_6rfFVr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3iCVqx": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-turnerpocock.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_3KLzAU": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-danasmalldesigns.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_inYQPj": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-holymackerelhouse.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_Fja6x4": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schumacher_heartland.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_a3Mbdk": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-chairwhimsy.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_8H3B8K": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-dimityhome.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_JyYwxT": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schumacher_newengland.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_Hc4xyG": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schumacher_norcal.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_DfDy9F": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-elizabethhaydesign.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_Ag77rU": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-jwj_interiors.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_NWFqbQ": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schaunaglenndesign.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_jUqq4d": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-hollysimperhomestylist.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_GipBLe": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/courtneymellottinteriors.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_peRL9N": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-kitandco.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_m9Pfrj": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-tamsynmasondesign.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_4iqqGA": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-oscarwrenstudios.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_KAA7AE": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/creativestylefurniture.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_hQpKqd": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-little_mill_abergavenny.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_JbFrUw": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-lantanatextil.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_AfFGBf": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-jayne_pearce.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_pBrene": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schumacher_norcal_2.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_4V3dxQ": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schumacher_greatlakes.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_WfKLxk": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-leonorabirtsinteriordesign.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_Mnex9N": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-thehambledon.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_49qDHT": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-lindseyblackinteriors.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_XxJ8Rn": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schumacher_norcal_1.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_YJiaLX": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schumacher1889.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_i3TXh3": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-finsburylaneinteriors.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_UbPtQ3": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-luchogf.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_WFzLzk": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schumacher_pacificsouthwest_1.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_RRxfDc": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schumacher_florida.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_FYc3fC": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schumacher_pacificsouthwest.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_eLKpKL": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-dalrymplestudio.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_MbQmej": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-makemyhomepretty.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_wgqUgM": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-sophiegbinteriors.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_6JkgaY": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-studiofantoush.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3iCVqx",
+        "column_3KLzAU",
+        "column_inYQPj",
+        "column_Fja6x4",
+        "column_a3Mbdk",
+        "column_8H3B8K",
+        "column_JyYwxT",
+        "column_Hc4xyG",
+        "column_DfDy9F",
+        "column_Ag77rU",
+        "column_NWFqbQ",
+        "column_jUqq4d",
+        "column_GipBLe",
+        "column_peRL9N",
+        "column_m9Pfrj",
+        "column_4iqqGA",
+        "column_KAA7AE",
+        "column_hQpKqd",
+        "column_JbFrUw",
+        "column_AfFGBf",
+        "column_pBrene",
+        "column_4V3dxQ",
+        "column_WfKLxk",
+        "column_Mnex9N",
+        "column_49qDHT",
+        "column_XxJ8Rn",
+        "column_YJiaLX",
+        "column_i3TXh3",
+        "column_UbPtQ3",
+        "column_WFzLzk",
+        "column_RRxfDc",
+        "column_FYc3fC",
+        "column_eLKpKL",
+        "column_MbQmej",
+        "column_wgqUgM",
+        "column_6JkgaY"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "s"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "single_title_and_text_etUTFF",
+    "image_banner_7rHP3P",
+    "multicolumn_6rfFVr"
   ]
 }
