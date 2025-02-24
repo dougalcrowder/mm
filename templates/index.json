@@ -68,7 +68,7 @@
             "auto_height": "portrait",
             "title": "Fabrics",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_type": "h4",
             "button_label": "",
             "button_link": "shopify://collections/fabric"
           }
