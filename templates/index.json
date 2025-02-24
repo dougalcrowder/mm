@@ -135,7 +135,7 @@
         "text_fetT6i": {
           "type": "text",
           "settings": {
-            "text": "<p>Molly Mahon was born from a love of pattern, colour and the magic of making things by hand. Her journey into block printing began as a personal passion – an escape into creativity that quickly became something more.  Inspired by the rich tradition of Indian craftsmanship and the beauty of the natural world, Molly founded this brand to bring joy and artistry into everyday life.</p><p>At the heart of everything we do is a deep respect from craftmanship.  We work with skilled artisans to create hand block printed fabrics, wallpapers and homewares that celebrate individuality and the charm of the handmade.  No two prints are ever exactly the same and that’s what makes them special.</p><p>For us, design isn’t just about aesthetics – it’s about creating a home that feels good in every way.  We hope our pieces bring beauty, warmth and inspiration to your space, just as they do to ours.</p>",
+            "text": "<p>Molly Mahon was born from a love of pattern, colour and the magic of making things by hand. Her journey into block printing began as a personal passion – an escape into creativity that quickly became something more.  Inspired by the rich tradition of Indian craftsmanship and the beauty of the natural world, Molly founded this brand to bring joy and artistry into everyday life.</p><p>At the heart of everything we do is a deep respect from craftmanship.  We work with skilled artisans to create hand block printed fabrics, wallpapers and homewares that celebrate individuality and the charm of the handmade.  No two prints are ever exactly the same and that’s what makes them special.</p><p>For us, design isn’t just about aesthetics – it’s about creating a home that feels good in every way.  We hope our pieces bring beauty, warmth and inspiration to your space too</p>",
             "code": ""
           }
         }
@@ -171,7 +171,7 @@
         "text_aaPLNV": {
           "type": "text",
           "settings": {
-            "text": "<p>Molly Mahon is a renowned British luxury homeware brand known for its beautifully crafted, artisanal products that combine traditional techniques with contemporary design. Our collections include home accessories, fabrics and wallpaper all meticulously designed to bring warmth, style and sophistication into our homes. At Molly Mahon, we take pride in our commitment to quality, craftsmanship and sustainable practices.</p><p>Block printing is a timeless craft that celebrates artistry, tradition and the beauty of the handmade. At Molly Mahon, skilled artisans carve, ink and press each design by hand, creating textiles rich in character and charm.  Every piece carries the soulful imperfections of true craftmanship, bringing warmth, depth and heritage in to the home.</p>",
+            "text": "<p>Molly Mahon is a renowned British luxury interior brand known for its beautifully crafted products that combine ancient techniques with contemporary design. </p><p>Our collections include home accessories, fabrics and wallpapers, all meticulously designed to bring warmth, style and sophistication to our homes. At Molly Mahon, we take pride in our commitment to quality, craftsmanship and sustainable practices.</p><p>Block printing is a timeless craft that celebrates artistry, tradition and the beauty of the handmade. At Molly Mahon, skilled artisans carve, ink and press each design by hand, creating textiles rich in character and charm.  Every piece carries the soulful imperfections of true craftsmanship, bringing individualism, depth and heritage into the home.</p>",
             "code": ""
           }
         }
@@ -245,7 +245,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Sustainability",
-        "text": "<p>From the very beginning, we have prioritised eco-conscious decisions, ensuring our materials, processes and production uphold the highest standards of sustainability.  By embracing water based dyes, responsible sourcing and ethical partnerships, we champion best practices that respect both the craft and the planet.</p><p>At Molly Mahon, we are always looking to the future and constantly seeking the best materials and practices, using responsibly sourced, regeneratively grown fibres like bamboo and aloe in addition to our well sourced cottons and linens and embracing ethical production methods that support both people and planet.  </p><p>We are currently exploring B-Corp certification.  B-Corp recognise standard for businesses that balance profit with purpose, ensuring they meet high social and environmental standards.</p>",
+        "text": "<p>From the very beginning, we have prioritised eco-conscious decisions, ensuring our materials, processes and production uphold the highest standards of sustainability.  By embracing water-based dyes, responsible sourcing and ethical partnerships, we champion best practices that respect both the craft and the planet.</p><p>At Molly Mahon, we are always looking to the future and constantly seeking the best materials and practices, using responsibly sourced, regeneratively grown fibres like bamboo and aloe in addition to our well sourced cottons and linens. We believe in ethical production methods that support people and the planet.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -288,7 +288,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "London Design Week",
-        "text": "<p>We are thrilled to be exhibiting at London Design Week, Chelsea Harbour 10th – 14th March.  Please come and find us in the atrium and explore our new collection WOODLANDS.  Please register for entry.</p>",
+        "text": "<p>We are thrilled to be exhibiting at London Design Week, Chelsea Harbour 10th – 14th March.</p><p>Please come and find us in the atrium and explore our new collection WOODLANDS. <br/>Please register for free entry with London Design Week.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -412,7 +412,7 @@
         "text_cCjdmT": {
           "type": "text",
           "settings": {
-            "text": "<p>Molly’s block print workshops and designed to be an inspiring, fun and hands on experience where creativity flows freely.  These sessions offer participants the opportunity to learn the ancient art of block printing in a warm, welcoming and inspiring environment.  You’ll not only leave with a beautiful, handmade piece of art, but also a sense of pride in the process and techniques you’ve learned.  </p><p>Whether you’re a beginner or an experienced maker, the workshops are structured to encourage creativity and provide personalised guidance from Molly.  Expect to gain new skills, meet like-minded people and walk away with a unique piece that reflects your artistic journey.  We promise an unforgettable experience that connects tradition with your personal creative expression.  Our workshops are often hosted at private homes, creating a unique and intimate setting for these very special days.</p>",
+            "text": "<p>Molly’s block print workshops and designed to be an inspiring, fun and hands on experience where creativity flows freely.  These sessions offer participants the opportunity to learn the ancient art of block printing in a warm, welcoming and inspiring environment.  You’ll not only leave with a beautiful, handmade piece of art, but also a sense of pride in the process and techniques you’ve learned.  </p><p>Whether you’re a beginner or an experienced maker, the workshops are structured to encourage creativity and provide personalised guidance from Molly. Expect to gain new skills, meet like-minded people and walk away with a unique piece that reflects your artistic journey.  We promise an unforgettable experience that connects tradition with your personal creative journey.</p>",
             "code": ""
           }
         }
