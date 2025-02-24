@@ -78,7 +78,7 @@
             "width": "one_third",
             "image": "shopify://shop_images/MollyMahon_Cushions_Multi_1200x1200_2.jpg",
             "auto_height": "portrait",
-            "title": "Wallpapers",
+            "title": "Homeware",
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "",
@@ -91,11 +91,11 @@
             "width": "one_third",
             "image": "shopify://shop_images/Molly_Mahon_Wallpaper.jpg",
             "auto_height": "portrait",
-            "title": "Homeware",
+            "title": "Wallpapers",
             "text_align": "center",
             "heading_type": "h2",
-            "button_label": "link label",
-            "button_link": ""
+            "button_label": "",
+            "button_link": "shopify://collections/wallpaper"
           }
         }
       },
@@ -348,7 +348,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Molly-Mahon-Lookbooks.jpg",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects_9e8eaf8a-417b-41a7-9f65-a303b985c657.jpg",
             "auto_height": "square",
             "title": "Lookbooks",
             "text_align": "center",
