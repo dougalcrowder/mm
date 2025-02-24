@@ -78,11 +78,11 @@
             "width": "one_third",
             "image": "shopify://shop_images/MollyMahon_Cushions_Multi_1200x1200_2.jpg",
             "auto_height": "portrait",
-            "title": "Homeware",
+            "title": "Homewares",
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "",
-            "button_link": "shopify://collections/wallpaper"
+            "button_link": "shopify://collections/homewares"
           }
         },
         "column_nCQRwf": {
