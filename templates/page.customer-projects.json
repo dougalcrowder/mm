@@ -14,6 +14,19 @@
       "disabled": true,
       "settings": {}
     },
+    "single_title_and_text_etUTFF": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Customer Project Gallery",
+        "text": "<h5>See what our customers and partners have created with our collections and inspire your next project.</h5>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "xl",
+        "margin_bot": "none"
+      }
+    },
     "image_banner_7rHP3P": {
       "type": "image-banner",
       "blocks": {
@@ -587,13 +600,14 @@
         "title_margin": "l",
         "gap": "medium",
         "border": false,
-        "margin_top": "xl",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "s"
       }
     }
   },
   "order": [
     "main",
+    "single_title_and_text_etUTFF",
     "image_banner_7rHP3P",
     "multicolumn_6rfFVr"
   ]
