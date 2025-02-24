@@ -587,7 +587,7 @@
         "title_margin": "l",
         "gap": "medium",
         "border": false,
-        "margin_top": "sm",
+        "margin_top": "xl",
         "margin_bot": "m"
       }
     }
