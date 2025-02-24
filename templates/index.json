@@ -353,7 +353,7 @@
             "title": "Lookbooks",
             "text_align": "center",
             "heading_type": "h2",
-            "button_label": "Inspiration",
+            "button_label": "",
             "button_link": "shopify://blogs/look-books"
           }
         },
@@ -366,7 +366,7 @@
             "title": "Customer Projects",
             "text_align": "center",
             "heading_type": "h2",
-            "button_label": "Coming Soon",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -379,7 +379,7 @@
             "title": "Moodboards",
             "text_align": "center",
             "heading_type": "h2",
-            "button_label": "Hospitality",
+            "button_label": "",
             "button_link": "shopify://pages/fabric-mood-boards"
           }
         }
