@@ -33,11 +33,11 @@
       {%- for block in section.blocks -%}
         {% case block.type %}
           {%- when 'heading' -%}
-            <h2 {{ block.shopify_attributes }}>
+            <h2 class="{{ section.settings.header_text_size }}">
               {{ block.settings.heading | escape }}
             </h2>
           {%- when 'text' -%}
-            <div class="rte" {{ block.shopify_attributes }}>{{ block.settings.text }}{{ block.settings.code }}</div>
+            <div class="rte {{ section.settings.text_size }}" {{ block.shopify_attributes }}>{{ block.settings.text }}{{ block.settings.code }}</div>
           {%- when 'button' -%}
             {%- if block.settings.button_label != blank -%}
               <a
@@ -162,6 +162,46 @@
         "default": "prose",
         "label": "Text max width",
         "info": "Text width for desktop"
+      }, {
+        "type": "select",
+        "id": "header_text_size",
+        "options": [
+          {
+            "value": "header-s",
+            "label": "Small"
+          }, {
+            "value": "header-m",
+            "label": "Medium"
+          }, {
+            "value": "header-l",
+            "label": "Large"
+          }, {
+            "value": "header-xl",
+            "label": "XL"
+          }
+        ],
+        "default": "header-s",
+        "label": "Header text size"
+      }, {
+        "type": "select",
+        "id": "text_size",
+        "options": [
+          {
+            "value": "text-s",
+            "label": "Small"
+          }, {
+            "value": "text-m",
+            "label": "Medium"
+          }, {
+            "value": "text-l",
+            "label": "Large"
+          }, {
+            "value": "text-xl",
+            "label": "XL"
+          }
+        ],
+        "default": "text-s",
+        "label": "Paragraph text size"
       }, {
         "type": "select",
         "id": "color_scheme",
