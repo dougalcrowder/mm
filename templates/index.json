@@ -24,9 +24,8 @@
         "heading_JxhaCH"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon_Mughal_Peach-SapGreen_Block_Printing.jpg",
+        "image": "shopify://shop_images/Molly-Mahon-Website-Banner-1.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/Molly-Mahon-Mughal-Blockprinting.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": true,
@@ -77,7 +76,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Molly-Mahon-Wallpapers.jpg",
+            "image": "shopify://shop_images/Molly_Mahon_Wallpaper.jpg",
             "auto_height": "portrait",
             "title": "Wallpapers",
             "text_align": "center",
