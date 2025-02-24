@@ -26,6 +26,7 @@
       "settings": {
         "image": "shopify://shop_images/Molly-Mahon-Website-Banner-4.jpg",
         "letterbox": false,
+        "mobile_image": "shopify://shop_images/Molly-Mahon-Square-Banner.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": true,
@@ -259,6 +260,7 @@
       "settings": {
         "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
         "letterbox": false,
+        "mobile_image": "shopify://shop_images/Molly-Mahon-Sustainability-Square.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": false,
