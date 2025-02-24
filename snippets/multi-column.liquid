@@ -3,7 +3,7 @@
   <div class="multi_col_text align-{{ block.settings.text_align }}">
 
     {%- if block.settings.title != blank -%}
-      <div class="title fontsize-{% block.settings.heading_size %}">{{ block.settings.title | escape }}</div>
+      <div class="title fontsize-{{ block.settings.heading_size }}">{{ block.settings.title | escape }}</div>
     {%- endif -%}
 
   </div>
