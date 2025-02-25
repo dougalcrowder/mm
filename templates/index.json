@@ -150,7 +150,7 @@
         "aspect_ratio": "portrait",
         "width": true,
         "column_layout": "img_two_text_four",
-        "gap": "medium",
+        "gap": "small",
         "text_width": "prose_medium",
         "header_text_size": "header-s",
         "text_size": "text-s",
