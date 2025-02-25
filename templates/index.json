@@ -358,7 +358,7 @@
             "auto_height": "square",
             "title": "Lookbooks",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "xl",
             "button_label": "",
             "button_link": "shopify://blogs/look-books"
           }
@@ -371,7 +371,7 @@
             "auto_height": "square",
             "title": "Customer Projects",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "xl",
             "button_label": "",
             "button_link": "shopify://pages/customer-projects"
           }
@@ -384,7 +384,7 @@
             "auto_height": "square",
             "title": "Moodboards",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "xl",
             "button_label": "",
             "button_link": "shopify://pages/fabric-mood-boards"
           }
