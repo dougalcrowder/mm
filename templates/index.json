@@ -90,7 +90,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Molly-Mahon-Wallpapers.jpg",
+            "image": "shopify://shop_images/Molly_Mahon_Wallpaper.jpg",
             "auto_height": "portrait",
             "title": "Wallpapers",
             "text_align": "center",
