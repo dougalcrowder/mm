@@ -456,7 +456,7 @@
         "text_TYiDd6": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to my journal – a space where I share stories, inspiration and craftmanship behind my designs.  From travels that spark creativity to the hands-on joy of block printing, this is where I document the journey behind the patterns.</p><p></p>",
+            "text": "<p>Welcome to my journal – a space where I share stories, inspiration and craftmanship behind my designs.  From travels that spark creativity to the hands-on joy of block printing, this is where I document the journey behind the patterns.<br/><br/><a href=\"/blogs/journal\" title=\"Journal\">Click here to read.</a></p>",
             "code": ""
           }
         }
