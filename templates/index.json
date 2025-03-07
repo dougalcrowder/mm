@@ -294,7 +294,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "London Design Week",
-        "text": "<p>We are thrilled to be exhibiting at London Design Week, Chelsea Harbour 10th – 14th March.</p><p>Please come and find us in the atrium and explore our new collection WOODLANDS. <br/>Please register for free entry with London Design Week.</p>",
+        "text": "<p>We are thrilled to be exhibiting at London Design Week, Chelsea Harbour 10th – 14th March.</p><p>Please come and find us in the atrium and explore our new collection WOODLANDS. <br/>Please register for free entry with London Design Week.</p><p><a href=\"/collections/woodlands\" title=\"Woodlands\">Discover our new WOODLANDS collection.</a></p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
