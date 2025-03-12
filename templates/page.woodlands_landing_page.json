@@ -98,12 +98,92 @@
         "margin_top": "none",
         "margin_bot": "none"
       }
+    },
+    "image_with_text_NPCjCk": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Y96iXw": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "text_pxNH7J": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Introducing the <strong>Woodlands</strong> collection, where the beauty of nature meets the art of traditional craftsmanship. Inspired by the enchanting Ashdown Forest, this range brings the warmth and wonder of the British countryside into your home through rich colours and organic patterns.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Y96iXw",
+        "text_pxNH7J"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Sofa-Ashdown-Navy-Cushions-Ashdown-Cool-Blue-Lampshades-Flirty-Skirt-Indian-Leaf-Copper-Blue-01_5bff0496-aaa1-4799-baed-4d84760a04ce.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_rPVK8b": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ymVgbd": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "text_RDa4Jp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This collection represents our most sustainable endeavour yet, a reflection of the brand’s commitment to responsible craftsmanship. From the very essence of the yarn to the final fabric, every decision has been made with intention and care. </p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ymVgbd",
+        "text_RDa4Jp"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Chair-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-Cushion-Indian-Leaf-Pink-Copper-01_021d7ab4-9433-473a-aa79-0454992c36d9.jpg",
+        "aspect_ratio": "landscape",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
     "main",
     "image_banner_WjeRGK",
     "single_title_and_text_DX763f",
-    "single_title_and_text_9eUkzj"
+    "single_title_and_text_9eUkzj",
+    "image_with_text_NPCjCk",
+    "image_with_text_rPVK8b"
   ]
 }
