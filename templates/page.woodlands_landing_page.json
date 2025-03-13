@@ -362,6 +362,45 @@
         "margin_bot": "l"
       }
     },
+    "image_with_text_EFVAFp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DbdFLA": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "text_AHqeKa": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_DbdFLA",
+        "text_AHqeKa"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Blinds-Sycamore-Olive-Green-Chair-Woodland-Sprig-Green-02.jpg",
+        "aspect_ratio": "square",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "featured_collection_U9JayD": {
       "type": "featured-collection",
       "settings": {
@@ -387,6 +426,7 @@
     "image_with_text_te9dAH",
     "divider_XVwXtk",
     "multicolumn_zqKCwc",
+    "image_with_text_EFVAFp",
     "featured_collection_U9JayD"
   ]
 }
