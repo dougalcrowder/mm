@@ -440,6 +440,64 @@
         "margin_bot": "xl"
       }
     },
+    "image_banner_Vzxif6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_FxRfyb": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "text_ebNC9E": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_N4Gqgy": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FxRfyb",
+        "text_ebNC9E",
+        "buttons_N4Gqgy"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
+        "letterbox": false,
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "xl",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
     "image_with_text_7rA8PB": {
       "type": "image-with-text",
       "blocks": {
@@ -476,18 +534,7 @@
         "text_align": "center",
         "layout": "text_first",
         "margin_top": "none",
-        "margin_bot": "l"
-      }
-    },
-    "featured_collection_U9JayD": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "WOODLANDS",
-        "collection": "woodlands",
-        "button_color": "seasonal",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "show_secondary_image": false
+        "margin_bot": "xl"
       }
     },
     "multicolumn_LkbDra": {
@@ -518,11 +565,39 @@
             "button_label": "link label",
             "button_link": ""
           }
+        },
+        "column_y3rGzH": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon-Chair-Woodland-Sprig-Green-01_38bc86ad-ffdd-4839-90a0-dac23bf1eec6.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_nXQAQB": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/20241121MM18032-copy_d589803b-c7ab-4138-8068-176ce4d04c64.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "column_XKAdbY",
-        "column_pJHRey"
+        "column_pJHRey",
+        "column_y3rGzH",
+        "column_nXQAQB"
       ],
       "settings": {
         "mc_title": "",
@@ -533,6 +608,17 @@
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
+      }
+    },
+    "featured_collection_U9JayD": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "WOODLANDS",
+        "collection": "woodlands",
+        "button_color": "seasonal",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
       }
     }
   },
@@ -551,6 +637,7 @@
     "multicolumn_zqKCwc",
     "image_with_text_EFVAFp",
     "image_with_text_y8QX9q",
+    "image_banner_Vzxif6",
     "image_with_text_7rA8PB",
     "multicolumn_LkbDra",
     "featured_collection_U9JayD"
