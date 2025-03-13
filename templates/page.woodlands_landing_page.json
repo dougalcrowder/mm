@@ -267,7 +267,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Woodlands-Fabrics-Image.jpg",
-        "aspect_ratio": "none",
+        "aspect_ratio": "landscape",
         "width": false,
         "column_layout": "img_four_text_two",
         "gap": "large",
