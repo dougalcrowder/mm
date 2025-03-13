@@ -292,7 +292,85 @@
         "text_align": "center",
         "layout": "image_first",
         "margin_top": "m",
-        "margin_bot": "m"
+        "margin_bot": "l"
+      }
+    },
+    "divider_XVwXtk": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "multicolumn_zqKCwc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tXQfbr": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Curtain-Poppy-Mustard-Sky-Chair-Indian-Leaf-Copper-Blue-01.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_xXteBQ": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-01.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_E3ihkA": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_267c96f4-4dee-422e-91d1-7590e070b59c.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_tXQfbr",
+        "column_xXteBQ",
+        "column_E3ihkA"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "l",
+        "margin_bot": "l"
+      }
+    },
+    "featured_collection_U9JayD": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "WOODLANDS",
+        "collection": "woodlands",
+        "button_color": "seasonal",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
       }
     }
   },
@@ -306,6 +384,9 @@
     "single_title_and_text_3GaW7i",
     "image_with_text_rPVK8b",
     "multicolumn_pPyY8p",
-    "image_with_text_te9dAH"
+    "image_with_text_te9dAH",
+    "divider_XVwXtk",
+    "multicolumn_zqKCwc",
+    "featured_collection_U9JayD"
   ]
 }
