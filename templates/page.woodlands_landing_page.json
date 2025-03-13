@@ -19,9 +19,8 @@
       "blocks": {
         "heading_CW9WCr": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image banner",
+            "heading": "WOODLANDS",
             "heading_type": "header1"
           }
         },
@@ -53,9 +52,9 @@
         "buttons_DfrLnP"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Woodlands-Fabrics-Image.jpg",
+        "image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-01-Blog-Image.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon-Woodlands-Fabrics.jpg",
+        "mobile_image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-02-Blog-Image.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": false,
@@ -64,20 +63,20 @@
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
-        "text_box_max_width": "800",
+        "text_box_max_width": "1000",
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "none",
+        "bg_color_scheme": "darken",
         "hover_text": false
       }
     },
     "single_title_and_text_DX763f": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "WOODLANDS",
-        "text": "<p>A new collection rooted in Home.</p>",
+        "title": "A new collection rooted in Home.",
+        "text": "",
         "font_type": "heading",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -125,7 +124,7 @@
         "image": "shopify://shop_images/MollyMahon-Sofa-Ashdown-Navy-Cushions-Ashdown-Cool-Blue-Lampshades-Flirty-Skirt-Indian-Leaf-Copper-Blue-01_5bff0496-aaa1-4799-baed-4d84760a04ce.jpg",
         "aspect_ratio": "portrait",
         "width": false,
-        "column_layout": "img_two_text_four",
+        "column_layout": "img_three_text_three",
         "gap": "large",
         "text_width": "prose",
         "header_text_size": "header-s",
@@ -164,7 +163,7 @@
         "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Chair-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-Cushion-Indian-Leaf-Pink-Copper-01_021d7ab4-9433-473a-aa79-0454992c36d9.jpg",
         "aspect_ratio": "landscape",
         "width": false,
-        "column_layout": "img_three_text_three",
+        "column_layout": "img_four_text_two",
         "gap": "large",
         "text_width": "prose",
         "header_text_size": "header-s",
