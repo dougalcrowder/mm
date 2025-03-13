@@ -359,7 +359,7 @@
         "gap": "medium",
         "border": false,
         "margin_top": "l",
-        "margin_bot": "l"
+        "margin_bot": "xl"
       }
     },
     "image_with_text_EFVAFp": {
@@ -397,8 +397,47 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "s",
+        "margin_bot": "xl"
+      }
+    },
+    "image_with_text_y8QX9q": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_AdTCfD": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "text_gmHnch": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_AdTCfD",
+        "text_gmHnch"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Cushions-Horse-Chestnut-Pnk-Noodle-Trailing-Acorn-Brown-01_eef3321a-588e-4adc-8336-b80f11ca7a52.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "l"
       }
     },
     "featured_collection_U9JayD": {
@@ -427,6 +466,7 @@
     "divider_XVwXtk",
     "multicolumn_zqKCwc",
     "image_with_text_EFVAFp",
+    "image_with_text_y8QX9q",
     "featured_collection_U9JayD"
   ]
 }
