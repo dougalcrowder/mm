@@ -145,6 +145,19 @@
         "margin_bot": "m"
       }
     },
+    "single_title_and_text_3GaW7i": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p>Designed to evoke a feeling of calm, connection and joy, <strong>Woodlands</strong> invites you to embrace the beauty of nature in your everyday life.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
     "image_with_text_rPVK8b": {
       "type": "image-with-text",
       "blocks": {
@@ -290,6 +303,7 @@
     "divider_YxxfYt",
     "single_title_and_text_9eUkzj",
     "image_with_text_NPCjCk",
+    "single_title_and_text_3GaW7i",
     "image_with_text_rPVK8b",
     "multicolumn_pPyY8p",
     "image_with_text_te9dAH"
