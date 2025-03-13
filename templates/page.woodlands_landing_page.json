@@ -193,8 +193,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "l",
-        "margin_bot": "m"
+        "margin_top": "m",
+        "margin_bot": "xl"
       }
     },
     "multicolumn_pPyY8p": {
