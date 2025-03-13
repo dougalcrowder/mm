@@ -427,7 +427,7 @@
         "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Cushions-Horse-Chestnut-Pnk-Noodle-Trailing-Acorn-Brown-01_eef3321a-588e-4adc-8336-b80f11ca7a52.jpg",
         "aspect_ratio": "portrait",
         "width": false,
-        "column_layout": "img_four_text_two",
+        "column_layout": "img_three_text_three",
         "gap": "large",
         "text_width": "prose",
         "header_text_size": "header-s",
@@ -436,6 +436,45 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "xl"
+      }
+    },
+    "image_with_text_7rA8PB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WyBtww": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "text_kyH8pj": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_WyBtww",
+        "text_kyH8pj"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Bath-Wallpaper-Trailing-Acorn-Olive-Curtains-Trailing-Acorn-Olive-Paravent-Ashdown-Cool-Blue-Blinds-Leafy-Trellis-Green-Chair-Woodland-Sprig-Green-01_928680be-cee6-41b3-a6da-c9c84127b968.jpg",
+        "aspect_ratio": "landscape",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
         "margin_top": "none",
         "margin_bot": "l"
       }
@@ -449,6 +488,51 @@
         "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": false
+      }
+    },
+    "multicolumn_LkbDra": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_XKAdbY": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon_Woodlands_Alun-Callendar_2025-02-13_029_6de84504-a45a-4537-88bf-45c60fc0e9af.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_pJHRey": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon_Woodlands_Alun-Callendar_2025-02-13_022_74aa8404-ae27-4c8b-b3b9-d71b39a7d9dc.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_XKAdbY",
+        "column_pJHRey"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     }
   },
@@ -467,6 +551,8 @@
     "multicolumn_zqKCwc",
     "image_with_text_EFVAFp",
     "image_with_text_y8QX9q",
+    "image_with_text_7rA8PB",
+    "multicolumn_LkbDra",
     "featured_collection_U9JayD"
   ]
 }
