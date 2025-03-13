@@ -85,11 +85,19 @@
         "margin_bot": "none"
       }
     },
+    "divider_YxxfYt": {
+      "type": "divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
     "single_title_and_text_9eUkzj": {
       "type": "single-title_and_text",
       "settings": {
         "title": "",
-        "text": "<p>\"In a quiet grove where whispers sing,</p><p>A seed of thought begins to Spring,</p><p>From verdant dreams where wild things grow,</p><p>To fabrics that in daylight glow.\"</p>",
+        "text": "<h4>\"In a quiet grove where whispers sing,</h4><h4>A seed of thought begins to Spring,</h4><h4>From verdant dreams where wild things grow,</h4><h4>To fabrics that in daylight glow.\"</h4>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -181,6 +189,7 @@
     "main",
     "image_banner_WjeRGK",
     "single_title_and_text_DX763f",
+    "divider_YxxfYt",
     "single_title_and_text_9eUkzj",
     "image_with_text_NPCjCk",
     "image_with_text_rPVK8b"
