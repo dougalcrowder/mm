@@ -155,7 +155,7 @@
         "alignment": "center",
         "color_scheme": "dark_text",
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "none"
       }
     },
     "image_with_text_rPVK8b": {
@@ -171,7 +171,7 @@
         "text_RDa4Jp": {
           "type": "text",
           "settings": {
-            "text": "<p>This collection represents our most sustainable endeavour yet, a reflection of the brand’s commitment to responsible craftsmanship. From the very essence of the yarn to the final fabric, every decision has been made with intention and care. </p>",
+            "text": "<p><strong>Woodlands</strong> represents our most sustainable endeavour yet, a reflection of the brand’s commitment to responsible craftsmanship. From the very essence of the yarn to the final fabric, every decision has been made with intention and care. </p>",
             "code": ""
           }
         }
@@ -193,7 +193,7 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "m",
+        "margin_top": "l",
         "margin_bot": "m"
       }
     },
