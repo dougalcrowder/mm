@@ -1,49 +1,50 @@
-   <div class="flex event_card">
-    <div class="text">
-      {%- if product_card_product.featured_media -%}
-        <h3 class="h5">
-          <a href="{{ product_card_product.url | default: '#' }}">
-            {{ product_card_product.title | escape }}
-          </a>
-        </h3>
-      {%- endif -%}
+<div class="flex event_card">
+  <div class="text">
+    {%- if product_card_product.featured_media -%}
+      <h3 class="h5">
+        <a href="{{ product_card_product.url | default: '#' }}">
+          {{ product_card_product.title | escape }}
+        </a>
+      </h3>
+    {%- endif -%}
 
-      
-      {% assign short_desc = product_card_product.metafields.my_fields.product_info %}
-      {%- if short_desc != blank -%}
+
+    {% assign short_desc = product_card_product.metafields.my_fields.product_info %}
+    {%- if short_desc != blank -%}
       <div class="product_description rte" {{ section.shopify_attributes }}>
         {{ short_desc }}
       </div>
-      {%- endif -%}
-      
-      {%- if product_card_product.metafields.custom.event_date != blank -%}
+    {%- endif -%}
+
+    {%- if product_card_product.metafields.custom.event_date != blank -%}
       <small class="when">{{ product_card_product.metafields.custom.event_date }}</small>
-      {%- endif -%}
-      
-    </div>
-    <div class="image">
+    {%- endif -%}
 
-        <a href="{{ product_card_product.url | default: '#' }}" alt="Get more details of {{ product_card_product.title | escape }}">
-              <picture>
-                <source srcset="{{ product_card_product.featured_media | img_url: '480x305', crop: 'center', format: 'pjpg', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '480x305', crop: 'center', format: 'pjpg' }} 1x" media="(min-width: 1450px)" />
-                <source srcset="{{ product_card_product.featured_media | img_url: '410x260', crop: 'center', format: 'pjpg', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '410x260', crop: 'center', format: 'pjpg' }} 1x" media="(min-width: 1024px)" />
-                <source srcset="{{ product_card_product.featured_media | img_url: '448x284', crop: 'center', format: 'pjpg', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '448x284', crop: 'center', format: 'pjpg' }} 1x" media="(min-width: 800px)" />
-                <source srcset="{{ product_card_product.featured_media | img_url: '337x214', crop: 'center', format: 'pjpg', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '337x214', crop: 'center', format: 'pjpg' }} 1x" media="(min-width: 768px)" />
-                <source srcset="{{ product_card_product.featured_media | img_url: '704x446', crop: 'center', format: 'pjpg' }}" media="(min-width: 600px)" />
-                <source srcset="{{ product_card_product.featured_media | img_url: '537x341', crop: 'center', format: 'pjpg', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '537x341', crop: 'center', format: 'pjpg' }} 1x" media="(min-width: 450px)" />
-                <source srcset="{{ product_card_product.featured_media | img_url: '395x251', crop: 'center', format: 'pjpg', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '395x251', crop: 'center', format: 'pjpg' }} 1x" media="(min-width: 321px)" />
-                <source srcset="{{ product_card_product.featured_media | img_url: '265x168', crop: 'center', format: 'pjpg', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '265x168', crop: 'center', format: 'pjpg' }} 1x" media="(min-width: 300px)" />
-                <img
-                {% unless forloop.index == 1 %} loading="lazy"{% endunless %} 
-                class="product_image lazyimage" 
-                src="{{ product_card_product.featured_media | img_url: '265x168' }}" 
-                alt="{{ product_card_product.featured_media.alt | escape }}" 
-                width="410"
-                height="260"
-                />
-              </picture>
-        </a>
-
-      
-    </div>
   </div>
+  <div class="image">
+
+    <a href="{{ product_card_product.url | default: '#' }}" alt="Get more details of {{ product_card_product.title | escape }}">
+      <picture>
+        <source srcset="{{ product_card_product.featured_media | img_url: '480x305', crop: 'center', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '480x305', crop: 'center' }} 1x" media="(min-width: 1450px)" />
+        <source srcset="{{ product_card_product.featured_media | img_url: '410x260', crop: 'center', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '410x260', crop: 'center' }} 1x" media="(min-width: 1024px)" />
+        <source srcset="{{ product_card_product.featured_media | img_url: '448x284', crop: 'center', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '448x284', crop: 'center' }} 1x" media="(min-width: 800px)" />
+        <source srcset="{{ product_card_product.featured_media | img_url: '337x214', crop: 'center', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '337x214', crop: 'center' }} 1x" media="(min-width: 768px)" />
+        <source srcset="{{ product_card_product.featured_media | img_url: '704x446', crop: 'center' }}" media="(min-width: 600px)" />
+        <source srcset="{{ product_card_product.featured_media | img_url: '537x341', crop: 'center', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '537x341', crop: 'center' }} 1x" media="(min-width: 450px)" />
+        <source srcset="{{ product_card_product.featured_media | img_url: '395x251', crop: 'center', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '395x251', crop: 'center' }} 1x" media="(min-width: 321px)" />
+        <source srcset="{{ product_card_product.featured_media | img_url: '265x168', crop: 'center', scale: 2 }} 2x, {{ product_card_product.featured_media | img_url: '265x168', crop: 'center' }} 1x" media="(min-width: 300px)" />
+        <img
+          {% unless forloop.index == 1 %}
+          loading="lazy"
+          {% endunless %}
+          class="product_image lazyimage"
+          src="{{ product_card_product.featured_media | img_url: '265x168' }}"
+          alt="{{ product_card_product.featured_media.alt | escape }}"
+          width="410"
+          height="260" />
+      </picture>
+    </a>
+
+
+  </div>
+</div>

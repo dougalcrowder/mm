@@ -2,18 +2,19 @@
   <div class="image">
     <a href="{{ product_card_product.url | default: '#' }}" alt="Get more details of {{ product_card_product.title | escape }}">
       <picture>
-        <source srcset="{{ product_card_product.featured_media | img_url: '360x360', crop: 'center', format: 'pjpg' }}" media="(min-width: 1024px)" />
-        <source srcset="{{ product_card_product.featured_media | img_url: '300x300', crop: 'center', format: 'pjpg' }}" media="(min-width: 768px)" />
-        <source srcset="{{ product_card_product.featured_media | img_url: '250x250', crop: 'center', format: 'pjpg' }}" media="(min-width: 480px)" />
-        <source srcset="{{ product_card_product.featured_media | img_url: '220x220', crop: 'center', format: 'pjpg' }}" media="(min-width: 320px)" />
+        <source srcset="{{ product_card_product.featured_media | img_url: '360x360', crop: 'center' }}" media="(min-width: 1024px)" />
+        <source srcset="{{ product_card_product.featured_media | img_url: '300x300', crop: 'center' }}" media="(min-width: 768px)" />
+        <source srcset="{{ product_card_product.featured_media | img_url: '250x250', crop: 'center' }}" media="(min-width: 480px)" />
+        <source srcset="{{ product_card_product.featured_media | img_url: '220x220', crop: 'center' }}" media="(min-width: 320px)" />
         <img
-        {% unless forloop.index == 1 %} loading="lazy"{% endunless %} 
-        class="product_image lazyimage" 
-        src="{{ product_card_product.featured_media | img_url: '150x150' }}" 
-        alt="{{ product_card_product.featured_media.alt | escape }}" 
-        width="{{ product_card_product.featured_media.width }}"
-        height="{{ product_card_product.featured_media.height }}"
-        />
+          {% unless forloop.index == 1 %}
+          loading="lazy"
+          {% endunless %}
+          class="product_image lazyimage"
+          src="{{ product_card_product.featured_media | img_url: '150x150' }}"
+          alt="{{ product_card_product.featured_media.alt | escape }}"
+          width="{{ product_card_product.featured_media.width }}"
+          height="{{ product_card_product.featured_media.height }}" />
       </picture>
     </a>
   </div>
