@@ -86,6 +86,32 @@
     "multicolumn_6rfFVr": {
       "type": "multicolumn",
       "blocks": {
+        "column_jGdGYN": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Victoria-Clark-Fabric-Luna-Pink-1.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_VxLX4J": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Victoria-Clark-Fabric-Luna-Pink-Wallpaper-Marwari-Horse-Blue-1.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
         "column_3iCVqx": {
           "type": "column",
           "settings": {
@@ -94,7 +120,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -107,7 +133,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -120,7 +146,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -133,7 +159,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -146,7 +172,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -159,7 +185,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -172,7 +198,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -185,7 +211,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": ""
           }
@@ -198,7 +224,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -211,7 +237,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -224,7 +250,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -237,7 +263,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -250,7 +276,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -263,7 +289,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -276,7 +302,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -289,7 +315,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -302,7 +328,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -315,7 +341,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -328,7 +354,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -341,7 +367,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -354,7 +380,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -367,7 +393,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -380,7 +406,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -393,7 +419,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -406,7 +432,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -419,7 +445,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -432,7 +458,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -445,7 +471,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -458,7 +484,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -471,7 +497,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -484,7 +510,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -497,7 +523,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -510,7 +536,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -523,7 +549,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -536,7 +562,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -549,13 +575,15 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
+        "column_jGdGYN",
+        "column_VxLX4J",
         "column_3iCVqx",
         "column_3KLzAU",
         "column_inYQPj",
