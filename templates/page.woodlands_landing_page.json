@@ -660,7 +660,7 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first",
+        "layout": "text_first",
         "margin_top": "m",
         "margin_bot": "m"
       }
