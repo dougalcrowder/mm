@@ -589,17 +589,6 @@
         "margin_bot": "m"
       }
     },
-    "featured_collection_U9JayD": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "WOODLANDS",
-        "collection": "woodlands",
-        "button_color": "seasonal",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "show_secondary_image": false
-      }
-    },
     "image_with_text_89J9kC": {
       "type": "image-with-text",
       "blocks": {
@@ -612,7 +601,7 @@
         "text_ttXRfy": {
           "type": "text",
           "settings": {
-            "text": "<p>Ashdown<br/><br/>Named in celebration of the beautiful woodlands where Molly lives and works, this decorative block print features a detail of the curling, fiddlehead fern, which unfurls across the cloth in a delightfully delicate manner.<br/><br/><em>Hand block printed on Molly Mahon’s new 50% Bamboo, 25% linen and 25% cotton cloth in six colourways:</em></p><p><em>Khaki, Rust, Pink, Navy, Chartreuse and Cool Blue.</em></p><p><em>Also available as wallpaper in SKy Blue.</em></p>",
+            "text": "<p>Named in celebration of the beautiful woodlands where Molly lives and works, this decorative block print features a detail of the curling, fiddlehead fern, which unfurls across the cloth in a delightfully delicate manner.<br/><br/><em>Hand block printed on Molly Mahon’s new 50% Bamboo, 25% linen and 25% cotton cloth in six colourways:</em></p><p><em>Khaki, Rust, Pink, Navy, Chartreuse and Cool Blue.</em></p><p><em>Also available as wallpaper in SKy Blue.</em></p>",
             "code": ""
           }
         }
@@ -637,6 +626,55 @@
         "margin_top": "m",
         "margin_bot": "m"
       }
+    },
+    "image_with_text_nHXKJm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_g6qPbc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sycamore"
+          }
+        },
+        "text_Gc4Uwb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ashdown<br/><br/>Named in celebration of the beautiful woodlands where Molly lives and works, this decorative block print features a detail of the curling, fiddlehead fern, which unfurls across the cloth in a delightfully delicate manner.<br/><br/><em>Hand block printed on Molly Mahon’s new 50% Bamboo, 25% linen and 25% cotton cloth in six colourways:</em></p><p><em>Khaki, Rust, Pink, Navy, Chartreuse and Cool Blue.</em></p><p><em>Also available as wallpaper in SKy Blue.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_g6qPbc",
+        "text_Gc4Uwb"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Woodlands_Ashdown_Colourways.png",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "featured_collection_U9JayD": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "WOODLANDS",
+        "collection": "woodlands",
+        "button_color": "seasonal",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
     }
   },
   "order": [
@@ -656,6 +694,7 @@
     "image_with_text_7rA8PB",
     "multicolumn_LkbDra",
     "image_with_text_89J9kC",
+    "image_with_text_nHXKJm",
     "featured_collection_U9JayD"
   ]
 }
