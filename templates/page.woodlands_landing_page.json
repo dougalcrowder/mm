@@ -612,7 +612,45 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Molly_Mahon_Woodlands_Ashdown_Colourways.png",
-        "aspect_ratio": "portrait",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_b9htHH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_NGwFYa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Forest Flowers"
+          }
+        },
+        "text_KkYYgB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An open repeat of little abstract flowers that Molly finds in and around the forest. Evocative of the carpet of flor that springs to life as winter ends with its sprigs of spring flowers. <em>Hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in Multicolour.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_NGwFYa",
+        "text_KkYYgB"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_ForestFlowers_Multi_Bamboo30-Cotton70_Herringbone_2_84e0e199-4f9c-4b64-9e01-dcb663aefea2.jpg",
+        "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -622,7 +660,7 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first",
+        "layout": "text_first",
         "margin_top": "m",
         "margin_bot": "m"
       }
@@ -649,8 +687,8 @@
         "text_Gc4Uwb"
       ],
       "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Woodlands_Ashdown_Colourways.png",
-        "aspect_ratio": "portrait",
+        "image": "shopify://shop_images/Molly_Mahon_Woodlands_Sycamore_Colourways.png",
+        "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_two_text_four",
         "gap": "large",
@@ -660,7 +698,83 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_diPHhU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_THmjed": {
+          "type": "heading",
+          "settings": {
+            "heading": "Woodland Sprig"
+          }
+        },
+        "text_7ymiaN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A leafy pattern created by Molly as a study of the leaves of the Ash Tree, depicting the canopy of foliage overhead in the forest that creates the many dappled reflections on the forest floor. <em>Hand block printed on Molly Mahon’s new Bamboo 50% Linen 25% & 25% Cotton cloth in Green.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_THmjed",
+        "text_7ymiaN"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_WoodlandSprig_Green_Bamboo50-Cotton25-Linen25_Plain5_c5a7d890-46fa-4c94-8bf1-6d74bd0b09fd.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
         "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_haMtbk": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GKDPA3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Trailing Acorn"
+          }
+        },
+        "text_jxwAWp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This elegant design delivers trailing leaves that capture the classic, English oak leaf relief, an extension to the original Molly Mahon ‘Oak’ pattern. A symbol of strength and wisdom the magnificent oak holds extra special meaning to Molly, being the tree whose boughs she stood beneath when she married Rollo. <em>Hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in two colourways of Brown and Sky Blue and hand block printed on plain 50% Bamboo, 25% Cotton, 25% Linen cloth in Olive.</em></p><p><em>Also available as wallpaper in Olive and Sky Blue.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_GKDPA3",
+        "text_jxwAWp"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Trailing_Acorn_Colourways.png",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
         "margin_top": "m",
         "margin_bot": "m"
       }
@@ -694,7 +808,10 @@
     "image_with_text_7rA8PB",
     "multicolumn_LkbDra",
     "image_with_text_89J9kC",
+    "image_with_text_b9htHH",
     "image_with_text_nHXKJm",
+    "image_with_text_diPHhU",
+    "image_with_text_haMtbk",
     "featured_collection_U9JayD"
   ]
 }
