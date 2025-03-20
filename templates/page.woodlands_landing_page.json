@@ -85,14 +85,6 @@
         "margin_bot": "none"
       }
     },
-    "divider_YxxfYt": {
-      "type": "divider",
-      "settings": {
-        "margin_top": "m",
-        "margin_bot": "m",
-        "hr": true
-      }
-    },
     "image_with_text_NPCjCk": {
       "type": "image-with-text",
       "blocks": {
@@ -128,7 +120,7 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
+        "margin_top": "none",
         "margin_bot": "m"
       }
     },
@@ -613,17 +605,16 @@
     "main",
     "image_banner_WjeRGK",
     "single_title_and_text_DX763f",
-    "divider_YxxfYt",
     "image_with_text_NPCjCk",
     "single_title_and_text_3GaW7i",
     "image_with_text_rPVK8b",
-    "multicolumn_pPyY8p",
+    "image_banner_Vzxif6",
     "image_with_text_te9dAH",
     "divider_XVwXtk",
     "multicolumn_zqKCwc",
     "image_with_text_EFVAFp",
     "image_with_text_y8QX9q",
-    "image_banner_Vzxif6",
+    "multicolumn_pPyY8p",
     "image_with_text_7rA8PB",
     "multicolumn_LkbDra",
     "featured_collection_U9JayD"
