@@ -93,19 +93,6 @@
         "hr": true
       }
     },
-    "single_title_and_text_9eUkzj": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "",
-        "text": "<h4>\"In a quiet grove where whispers sing,</h4><h4>A seed of thought begins to Spring,</h4><h4>From verdant dreams where wild things grow,</h4><h4>To fabrics that in daylight glow.\"</h4>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "none"
-      }
-    },
     "image_with_text_NPCjCk": {
       "type": "image-with-text",
       "blocks": {
@@ -375,7 +362,7 @@
         "text_AHqeKa": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<h4><em>In a quiet grove where whispers sing, <br/>A seed of thought begins to spring, <br/>From verdant dreams where wild things grow, <br/>To fabrics that in daylight glow.<br/><br/>With gentle hands, the blocks are pressed, <br/>Each stroke, a tale of nature's best, <br/>The woodland whispers, leaf and vine, <br/>In every print, the forests shine.</em></h4>",
             "code": ""
           }
         }
@@ -627,7 +614,6 @@
     "image_banner_WjeRGK",
     "single_title_and_text_DX763f",
     "divider_YxxfYt",
-    "single_title_and_text_9eUkzj",
     "image_with_text_NPCjCk",
     "single_title_and_text_3GaW7i",
     "image_with_text_rPVK8b",
