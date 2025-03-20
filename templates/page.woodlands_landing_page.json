@@ -60,7 +60,7 @@
         "bordered": false,
         "bordered_dt": false,
         "constrain": false,
-        "desktop_text_box_position": "middle",
+        "desktop_text_box_position": "start",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "1000",
