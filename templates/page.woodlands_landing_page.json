@@ -401,7 +401,7 @@
         "text_gmHnch": {
           "type": "text",
           "settings": {
-            "text": "<h4><em>The oak’s embrace, the pine’s sweet kiss,<br/>In patterns formed of purest bliss,<br/>Bringing forth the outside in,<br/>A dance of wood, of bark, of kin.</em></h4>",
+            "text": "<h4><em>The oak’s embrace, the pine’s sweet kiss,<br/>In patterns formed of purest bliss,<br/>Bringing forth the outside in,<br/>A dance of wood, of bark, of kin.<br/><br/>The ferns unfurl, the flowers bloom,<br/>Their colours chase away the gloom,<br/>Each room a garden, wild and free,<br/>A tribute to the earth and tree.<br/><br/>In every thread, a story told,<br/>Of ancient woods and roots so old<br/>A tapestry where dreams reside,<br/>Of forest depths, where secrets hide.</em></h4>",
             "code": ""
           }
         }
@@ -498,7 +498,7 @@
         "text_kyH8pj": {
           "type": "text",
           "settings": {
-            "text": "<h4><em>The ferns unfurl, the flowers bloom,<br/>Their colours chase away the gloom,<br/>Each room a garden, wild and free,<br/>A tribute to the earth and tree.<br/><br/>In every thread, a story told,<br/>Of ancient woods and roots so old<br/>A tapestry where dreams reside,<br/>Of forest depths, where secrets hide.</em></h4>",
+            "text": "",
             "code": ""
           }
         }
