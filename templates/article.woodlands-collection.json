@@ -826,13 +826,13 @@
         "heading_TT8BkJ": {
           "type": "heading",
           "settings": {
-            "heading": "Leafy Trellis"
+            "heading": "Indian Leaf"
           }
         },
         "text_4H6Fhf": {
           "type": "text",
           "settings": {
-            "text": "<p>A detailed, leafy trellis pattern, that creates a rhythmic lattice print on this sumptuous silky new elegant cloth made from sustainably produced Aloe. The design works beautifully on its own or combined with the leafier Woodland Sprig.<br/><br/><em>Hand block printed on Molly Mahon’s luxurious, new 100% Aloe cloth in Green.</em></p>",
+            "text": "<p>Inspired by an ancient block gifted to Molly on a trip to India, this block print features the fragrant bay leaf layered against a gently dotted ground that brings the wonderful gift of nature into a home. <br/><br/><em>Available in two colourways, Blue-Green and Copper-Blue, hand block printed on Molly Mahon’s new 50% Bamboo, 25% Linen & 25% Cotton cloth and also hand block printed on Molly’s new 30% Bamboo and 70% Cotton herringbone woven cloth in Pink-Copper.</em></p>",
             "code": ""
           }
         }
@@ -842,10 +842,10 @@
         "text_4H6Fhf"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon_LeafyTrellis_Green_Aloe_1_7c8a318f-902f-4993-a192-851dfef93910.jpg",
+        "image": "shopify://shop_images/Molly_Mahon_Indian_Leaf_Colourways.png",
         "aspect_ratio": "none",
         "width": false,
-        "column_layout": "img_three_text_three",
+        "column_layout": "img_two_text_four",
         "gap": "large",
         "text_width": "prose",
         "header_text_size": "header-s",
