@@ -9,6 +9,41 @@
  */
 {
   "sections": {
+    "image_banner_EXfAV6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_DDFaJH": {
+          "type": "heading",
+          "settings": {
+            "heading": "WOODLANDS",
+            "heading_type": "header1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DDFaJH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-01-Blog-Image.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-02-Blog-Image.jpg",
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "start",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "darken",
+        "hover_text": false
+      }
+    },
     "main": {
       "type": "main-article",
       "settings": {}
@@ -34,6 +69,7 @@
     }
   },
   "order": [
+    "image_banner_EXfAV6",
     "main",
     "164975103076740208",
     "165780769577c12393"
