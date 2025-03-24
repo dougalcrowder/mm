@@ -636,13 +636,13 @@
         "heading_wdrfYN": {
           "type": "heading",
           "settings": {
-            "heading": "Sycamore"
+            "heading": "Woodland Sprig"
           }
         },
         "text_Q7TP3p": {
           "type": "text",
           "settings": {
-            "text": "<p>An homage to immortalise the magnificent and symbolic tree which sat alongside Hadrian’s Wall for centuries. This block print is directly inspired by a memory Molly has of the day she visited Sycamore Gap with her daughter when the tree stood proud against a crisp, blue sky. Featuring a block printed sycamore set amongst rolling hills.</p><p><em>Hand block printed on Molly Mahon’s new 50% Bamboo, 25% Linen and 25% Cotton cloth in three colourways:<br/><br/> Olive-Green, Blue-Green and Blue.</em></p>",
+            "text": "<p>A leafy pattern created by Molly as a study of the leaves of the Ash Tree, depicting the canopy of foliage overhead in the forest that creates the many dappled reflections on the forest floor. <br/><br/><em>Hand block printed on Molly Mahon’s new Bamboo 50% Linen 25% & 25% Cotton cloth in Green.</em></p>",
             "code": ""
           }
         }
@@ -652,10 +652,10 @@
         "text_Q7TP3p"
       ],
       "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Woodlands_Sycamore_Colourways.png",
+        "image": "shopify://shop_images/MollyMahon_WoodlandSprig_Green_Bamboo50-Cotton25-Linen25_Plain5_c5a7d890-46fa-4c94-8bf1-6d74bd0b09fd.jpg",
         "aspect_ratio": "none",
         "width": false,
-        "column_layout": "img_two_text_four",
+        "column_layout": "img_three_text_three",
         "gap": "large",
         "text_width": "prose",
         "header_text_size": "header-s",
@@ -663,7 +663,7 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first",
+        "layout": "text_first",
         "margin_top": "m",
         "margin_bot": "m"
       }
