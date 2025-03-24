@@ -68,7 +68,7 @@
         "text_GCWCtf": {
           "type": "text",
           "settings": {
-            "text": "<p>Introducing the <strong>Woodlands</strong> collection, where the beauty of nature meets the art of traditional craftsmanship. Inspired by the enchanting Ashdown Forest, this range brings the warmth and wonder of the British countryside into your home through rich colours and organic patterns.<br/><br/>Click here to browse collection.</p>",
+            "text": "<p>Introducing the <strong>Woodlands</strong> collection, where the beauty of nature meets the art of traditional craftsmanship. Inspired by the enchanting Ashdown Forest, this range brings the warmth and wonder of the British countryside into your home through rich colours and organic patterns.<br/><br/><a href=\"/collections/woodlands\" title=\"Woodlands\">Click here to browse collection.</a></p>",
             "code": ""
           }
         }
