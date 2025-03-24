@@ -592,6 +592,82 @@
         "margin_bot": "m"
       }
     },
+    "image_with_text_f7Fq8j": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nCQpmk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sycamore"
+          }
+        },
+        "text_TPtLnq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An homage to immortalise the magnificent and symbolic tree which sat alongside Hadrian’s Wall for centuries. This block print is directly inspired by a memory Molly has of the day she visited Sycamore Gap with her daughter when the tree stood proud against a crisp, blue sky. Featuring a block printed sycamore set amongst rolling hills.</p><p><em>Hand block printed on Molly Mahon’s new 50% Bamboo, 25% Linen and 25% Cotton cloth in three colourways:<br/><br/> Olive-Green, Blue-Green and Blue.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_nCQpmk",
+        "text_TPtLnq"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Woodlands_Sycamore_Colourways.png",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_mNNEaC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wdrfYN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sycamore"
+          }
+        },
+        "text_Q7TP3p": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An homage to immortalise the magnificent and symbolic tree which sat alongside Hadrian’s Wall for centuries. This block print is directly inspired by a memory Molly has of the day she visited Sycamore Gap with her daughter when the tree stood proud against a crisp, blue sky. Featuring a block printed sycamore set amongst rolling hills.</p><p><em>Hand block printed on Molly Mahon’s new 50% Bamboo, 25% Linen and 25% Cotton cloth in three colourways:<br/><br/> Olive-Green, Blue-Green and Blue.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_wdrfYN",
+        "text_Q7TP3p"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Woodlands_Sycamore_Colourways.png",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "164975103076740208": {
       "type": "featured-collection",
       "settings": {
@@ -629,6 +705,8 @@
     "multicolumn_wJpDb4",
     "image_with_text_MYG6LM",
     "image_with_text_yF7Lye",
+    "image_with_text_f7Fq8j",
+    "image_with_text_mNNEaC",
     "164975103076740208",
     "165780769577c12393"
   ]
