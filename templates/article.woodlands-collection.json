@@ -280,6 +280,37 @@
         "margin_bot": "m"
       }
     },
+    "image_with_text_Xb393B": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_8VRxPX": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><em>The oak’s embrace, the pine’s sweet kiss,<br/>In patterns formed of purest bliss,<br/>Bringing forth the outside in,<br/>A dance of wood, of bark, of kin.<br/><br/>The ferns unfurl, the flowers bloom,<br/>Their colours chase away the gloom,<br/>Each room a garden, wild and free,<br/>A tribute to the earth and tree.<br/><br/>In every thread, a story told,<br/>Of ancient woods and roots so old<br/>A tapestry where dreams reside,<br/>Of forest depths, where secrets hide.</em></h4>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_8VRxPX"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Cushions-Horse-Chestnut-Pnk-Noodle-Trailing-Acorn-Brown-01_eef3321a-588e-4adc-8336-b80f11ca7a52.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "164975103076740208": {
       "type": "featured-collection",
       "settings": {
@@ -311,6 +342,7 @@
     "image_with_text_7pJG33",
     "multicolumn_LPwHf9",
     "image_with_text_Dazw38",
+    "image_with_text_Xb393B",
     "164975103076740208",
     "165780769577c12393"
   ]
