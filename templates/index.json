@@ -26,7 +26,7 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon_Woodlands_Header.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/Molly-Mahon-Square-Banner.jpg",
+        "mobile_image": "shopify://shop_images/MollyMahon_Woodlands_Header_Square.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": true,
