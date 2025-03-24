@@ -712,13 +712,13 @@
         "heading_hyUMUW": {
           "type": "heading",
           "settings": {
-            "heading": "Trailing Acorn"
+            "heading": "Foxglove"
           }
         },
         "text_P4QJab": {
           "type": "text",
           "settings": {
-            "text": "<p>This elegant design delivers trailing leaves that capture the classic, English oak leaf relief, an extension to the original Molly Mahon ‘Oak’ pattern. A symbol of strength and wisdom the magnificent oak holds extra special meaning to Molly, being the tree whose boughs she stood beneath when she married Rollo. <br/><br/><em>Hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in two colourways of Brown and Sky Blue and hand block printed on plain 50% Bamboo, 25% Cotton, 25% Linen cloth in Olive.</em></p><p><em>Also available as wallpaper in Olive and Sky Blue.</em></p>",
+            "text": "<p>A beautiful rendition of the classic wildflower, a genus that has many different species. This block print features a variety found commonly in the forest where Molly lives and mythically worn by the foxes who make their dens in the woodland hills. <br/><br/><em>Hand block printed on Molly Mahon’s new</em> <em>30% Bamboo and 70% Cotton herringbone woven cloth in Lilac.</em></p>",
             "code": ""
           }
         }
@@ -728,7 +728,7 @@
         "text_P4QJab"
       ],
       "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Trailing_Acorn_Colourways.png",
+        "image": "shopify://shop_images/MollyMahon_Foxglove_Lilac_Bamboo30-Cotton70_Herringbone_3_9e7698ae-52a7-4fc4-9dd4-3dee1e4f5b01.jpg",
         "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_two_text_four",
