@@ -187,8 +187,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "multicolumn_LPwHf9": {
@@ -247,7 +247,7 @@
         "gap": "medium",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "xl"
       }
     },
     "image_with_text_Dazw38": {
@@ -277,8 +277,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "image_with_text_Xb393B": {
@@ -308,8 +308,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "multicolumn_MhLzeC": {
@@ -368,7 +368,7 @@
         "gap": "medium",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "xl"
       }
     },
     "image_with_text_DGb8r8": {
@@ -398,8 +398,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "multicolumn_wJpDb4": {
@@ -514,7 +514,7 @@
         "gap": "medium",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "xl"
       }
     },
     "image_with_text_MYG6LM": {
@@ -551,8 +551,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "image_with_text_yF7Lye": {
@@ -589,8 +589,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "image_with_text_f7Fq8j": {
@@ -627,8 +627,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "image_with_text_mNNEaC": {
@@ -665,8 +665,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "image_with_text_Yg8nm6": {
@@ -703,8 +703,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "image_with_text_ALDiyp": {
@@ -741,8 +741,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "image_with_text_4X7WHc": {
@@ -779,8 +779,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "image_with_text_K93NTw": {
@@ -817,8 +817,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "image_with_text_MmdyFw": {
@@ -855,8 +855,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "164975103076740208": {
