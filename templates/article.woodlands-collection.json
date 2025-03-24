@@ -159,6 +159,127 @@
         "hover_text": false
       }
     },
+    "image_with_text_7pJG33": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_jM7pzw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As always, colour is at the heart of the collection, but in Woodlands, there is a newness, the hues are rich yet soothing, vibrant yet grounded, reflecting the serene yet wild spirit of the forest.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_jM7pzw"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Woodlands-Fabrics-Image.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_LPwHf9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_i668Cm": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Curtain-Poppy-Mustard-Sky-Chair-Indian-Leaf-Copper-Blue-01.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_xMwnmL": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-01.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_Tci8Ny": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_267c96f4-4dee-422e-91d1-7590e070b59c.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_i668Cm",
+        "column_xMwnmL",
+        "column_Tci8Ny"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_Dazw38": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_UW7qCa": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><em>In a quiet grove where whispers sing, <br/>A seed of thought begins to spring, <br/>From verdant dreams where wild things grow, <br/>To fabrics that in daylight glow.<br/><br/>With gentle hands, the blocks are pressed, <br/>Each stroke, a tale of nature's best, <br/>The woodland whispers, leaf and vine, <br/>In every print, the forests shine.<br/><br/>The wild orchids, colours bright,<br/>In dappled shade, a pure delight,<br/>Primroses and flowers small,<br/>Adorn the forest floor for all.</em></h4>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_UW7qCa"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Blinds-Sycamore-Olive-Green-Chair-Woodland-Sprig-Green-02.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "164975103076740208": {
       "type": "featured-collection",
       "settings": {
@@ -187,6 +308,9 @@
     "main",
     "image_with_text_eBYHrB",
     "image_banner_Y8TDrt",
+    "image_with_text_7pJG33",
+    "multicolumn_LPwHf9",
+    "image_with_text_Dazw38",
     "164975103076740208",
     "165780769577c12393"
   ]
