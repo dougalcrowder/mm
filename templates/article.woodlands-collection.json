@@ -370,6 +370,37 @@
         "margin_bot": "m"
       }
     },
+    "image_with_text_DGb8r8": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_aihEqY": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><em>For in our homes, the wild shall rest,<br/>An homage to the nature blessed,<br/>With every print, a promise sown,<br/>Of woodland wonders, ever grown.<br/><br/>So let the seed of thought take flight,<br/>In patterns born of pure delight,<br/>Celebrate the green, the wild, the grand,<br/>And bring the outside in, by hand.</em></h4>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_aihEqY"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Bath-Wallpaper-Trailing-Acorn-Olive-Curtains-Trailing-Acorn-Olive-Paravent-Ashdown-Cool-Blue-Blinds-Leafy-Trellis-Green-Chair-Woodland-Sprig-Green-01_928680be-cee6-41b3-a6da-c9c84127b968.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "multicolumn_wJpDb4": {
       "type": "multicolumn",
       "blocks": {
@@ -485,25 +516,70 @@
         "margin_bot": "m"
       }
     },
-    "image_with_text_DGb8r8": {
+    "image_with_text_MYG6LM": {
       "type": "image-with-text",
       "blocks": {
-        "text_aihEqY": {
+        "heading_Rhxe9a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ashdown"
+          }
+        },
+        "text_YxinGJ": {
           "type": "text",
           "settings": {
-            "text": "<h4><em>For in our homes, the wild shall rest,<br/>An homage to the nature blessed,<br/>With every print, a promise sown,<br/>Of woodland wonders, ever grown.<br/><br/>So let the seed of thought take flight,<br/>In patterns born of pure delight,<br/>Celebrate the green, the wild, the grand,<br/>And bring the outside in, by hand.</em></h4>",
+            "text": "<p>Named in celebration of the beautiful woodlands where Molly lives and works, this decorative block print features a detail of the curling, fiddlehead fern, which unfurls across the cloth in a delightfully delicate manner.<br/><br/><em>Hand block printed on Molly Mahon’s new 50% Bamboo, 25% Linen and 25% Cotton cloth in six colourways:</em></p><p><em>Khaki, Rust, Pink, Navy, Chartreuse and Cool Blue.</em></p><p><em>Also available as wallpaper in Sky Blue.</em></p>",
             "code": ""
           }
         }
       },
       "block_order": [
-        "text_aihEqY"
+        "heading_Rhxe9a",
+        "text_YxinGJ"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Bath-Wallpaper-Trailing-Acorn-Olive-Curtains-Trailing-Acorn-Olive-Paravent-Ashdown-Cool-Blue-Blinds-Leafy-Trellis-Green-Chair-Woodland-Sprig-Green-01_928680be-cee6-41b3-a6da-c9c84127b968.jpg",
+        "image": "shopify://shop_images/Molly_Mahon_Woodlands_Ashdown_Colourways.png",
         "aspect_ratio": "none",
         "width": false,
-        "column_layout": "img_four_text_two",
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_yF7Lye": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8g3UyT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Forest Flowers"
+          }
+        },
+        "text_zRrRmJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An open repeat of little abstract flowers that Molly finds in and around the forest. Evocative of the carpet of flor that springs to life as winter ends with its sprigs of spring flowers. <br/><br/><em>Hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in Multicolour.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_8g3UyT",
+        "text_zRrRmJ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_ForestFlowers_Multi_Bamboo30-Cotton70_Herringbone_2_84e0e199-4f9c-4b64-9e01-dcb663aefea2.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
         "gap": "large",
         "text_width": "prose",
         "header_text_size": "header-s",
@@ -549,8 +625,10 @@
     "image_with_text_Dazw38",
     "image_with_text_Xb393B",
     "multicolumn_MhLzeC",
-    "multicolumn_wJpDb4",
     "image_with_text_DGb8r8",
+    "multicolumn_wJpDb4",
+    "image_with_text_MYG6LM",
+    "image_with_text_yF7Lye",
     "164975103076740208",
     "165780769577c12393"
   ]
