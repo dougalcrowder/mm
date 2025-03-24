@@ -668,6 +668,82 @@
         "margin_bot": "m"
       }
     },
+    "image_with_text_Yg8nm6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hnGfhp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Trailing Acorn"
+          }
+        },
+        "text_tmxQFn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This elegant design delivers trailing leaves that capture the classic, English oak leaf relief, an extension to the original Molly Mahon ‘Oak’ pattern. A symbol of strength and wisdom the magnificent oak holds extra special meaning to Molly, being the tree whose boughs she stood beneath when she married Rollo. <br/><br/><em>Hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in two colourways of Brown and Sky Blue and hand block printed on plain 50% Bamboo, 25% Cotton, 25% Linen cloth in Olive.</em></p><p><em>Also available as wallpaper in Olive and Sky Blue.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_hnGfhp",
+        "text_tmxQFn"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Trailing_Acorn_Colourways.png",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_ALDiyp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hyUMUW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Trailing Acorn"
+          }
+        },
+        "text_P4QJab": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This elegant design delivers trailing leaves that capture the classic, English oak leaf relief, an extension to the original Molly Mahon ‘Oak’ pattern. A symbol of strength and wisdom the magnificent oak holds extra special meaning to Molly, being the tree whose boughs she stood beneath when she married Rollo. <br/><br/><em>Hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in two colourways of Brown and Sky Blue and hand block printed on plain 50% Bamboo, 25% Cotton, 25% Linen cloth in Olive.</em></p><p><em>Also available as wallpaper in Olive and Sky Blue.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_hyUMUW",
+        "text_P4QJab"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Trailing_Acorn_Colourways.png",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "164975103076740208": {
       "type": "featured-collection",
       "settings": {
@@ -707,6 +783,8 @@
     "image_with_text_yF7Lye",
     "image_with_text_f7Fq8j",
     "image_with_text_mNNEaC",
+    "image_with_text_Yg8nm6",
+    "image_with_text_ALDiyp",
     "164975103076740208",
     "165780769577c12393"
   ]
