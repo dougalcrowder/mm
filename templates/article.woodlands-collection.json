@@ -88,9 +88,53 @@
         "margin_bot": "m"
       }
     },
+    "single_title_and_text_fC3pVB": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p>Designed to evoke a feeling of calm, connection and joy, <strong>Woodlands</strong> invites you to embrace the beauty of nature in your everyday life.<br/>This whole collection offers a plethora of cloth weights, which is so key to versatile options, whether draping a window or upholstering a favourite chair.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
     "main": {
       "type": "main-article",
       "settings": {}
+    },
+    "image_with_text_eBYHrB": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_ALW8CY": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Woodlands</strong> represents our most sustainable endeavour yet, a reflection of the brand’s commitment to responsible craftsmanship. From the very essence of the yarn to the final fabric, every decision has been made with intention and care. </p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_ALW8CY"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Chair-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-Cushion-Indian-Leaf-Pink-Copper-01_021d7ab4-9433-473a-aa79-0454992c36d9.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
     },
     "164975103076740208": {
       "type": "featured-collection",
@@ -116,7 +160,9 @@
     "image_banner_EXfAV6",
     "single_title_and_text_6RPnYK",
     "image_with_text_nDFXhC",
+    "single_title_and_text_fC3pVB",
     "main",
+    "image_with_text_eBYHrB",
     "164975103076740208",
     "165780769577c12393"
   ]
