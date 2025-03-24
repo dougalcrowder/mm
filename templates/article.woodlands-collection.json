@@ -44,6 +44,50 @@
         "hover_text": false
       }
     },
+    "single_title_and_text_6RPnYK": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "A new collectiion rooted in home.",
+        "text": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_nDFXhC": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_GCWCtf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Introducing the <strong>Woodlands</strong> collection, where the beauty of nature meets the art of traditional craftsmanship. Inspired by the enchanting Ashdown Forest, this range brings the warmth and wonder of the British countryside into your home through rich colours and organic patterns.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_GCWCtf"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Sofa-Ashdown-Navy-Cushions-Ashdown-Cool-Blue-Lampshades-Flirty-Skirt-Indian-Leaf-Copper-Blue-01_5bff0496-aaa1-4799-baed-4d84760a04ce.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "main": {
       "type": "main-article",
       "settings": {}
@@ -70,6 +114,8 @@
   },
   "order": [
     "image_banner_EXfAV6",
+    "single_title_and_text_6RPnYK",
+    "image_with_text_nDFXhC",
     "main",
     "164975103076740208",
     "165780769577c12393"
