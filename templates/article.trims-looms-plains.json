@@ -257,6 +257,197 @@
         "margin_top": "m",
         "margin_bot": "m"
       }
+    },
+    "multicolumn_KaTwUe": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gniPf9": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-10.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_b4xThK": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-13.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_i6NXVt": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-06_ac37c3bd-c043-4acf-b6c2-a5bde5fd31a6.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gniPf9",
+        "column_b4xThK",
+        "column_i6NXVt"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_EifUJJ": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_TmBCVU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sam sit eos adis ea voluptas int apisquame sinciis trumet pla quam facerume que coresecab in cum quibea que volupta tibuscilla ent parum aut adipsam imet alis doluptatenis audionsent quiae nonserest aliqui repelleces aut por sant quatio. Acepre natinvent.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_TmBCVU"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-18.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_dqW6FD": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_MkcYDK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sam sit eos adis ea voluptas int apisquame sinciis trumet pla quam facerume que coresecab in cum quibea que volupta tibuscilla ent parum aut adipsam imet alis doluptatenis audionsent quiae nonserest aliqui repelleces aut por sant quatio. Acepre natinvent.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_MkcYDK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-15.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "single_title_and_text_xdmKwm": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p>Sam sit eos adis ea voluptas int apisquame sinciis trumet pla quam fque vellab iume re pos denimod quam dent idelentio. Itae quamus, nulpari beaquam harum repelleces aut por sant quatio. Acepre natinvent.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_4cnqt9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UeJEND": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_THypVL": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-09.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_CftzT9": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_UeJEND",
+        "column_THypVL",
+        "column_CftzT9"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
@@ -270,6 +461,11 @@
     "image_banner_MdBq7T",
     "single_title_and_text_K88UCF",
     "image_with_text_nykRBY",
-    "image_with_text_HPAmGj"
+    "image_with_text_HPAmGj",
+    "multicolumn_KaTwUe",
+    "image_with_text_EifUJJ",
+    "image_with_text_dqW6FD",
+    "single_title_and_text_xdmKwm",
+    "multicolumn_4cnqt9"
   ]
 }
