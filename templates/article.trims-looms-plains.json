@@ -130,6 +130,37 @@
         "margin_bot": "m"
       }
     },
+    "image_with_text_ftqKap": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_MRzeTM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sam sit eos adis ea voluptas int apisquame sinciis trumet pla quam facerume que coresecab in cum quibea que volupta tibuscilla ent parum aut adipsam imet alis doluptatenis audionsent quiae nonserest aliqui repelleces aut por sant quatio. Acepre natinvent.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_MRzeTM"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-04.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "single_title_and_text_K88UCF": {
       "type": "single-title_and_text",
       "settings": {
@@ -158,7 +189,7 @@
         "text_YKBM6c"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-06.jpg",
+        "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-17.jpg",
         "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_two_text_four",
@@ -173,6 +204,37 @@
         "margin_top": "m",
         "margin_bot": "m"
       }
+    },
+    "image_with_text_nykRBY": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_aJC77E": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sam sit eos adis ea voluptas int apisquame sinciis trumet pla quam facerume que coresecab in cum quibea que volupta tibuscilla ent parum aut adipsam imet alis doluptatenis audionsent quiae nonserest aliqui repelleces aut por sant quatio. Acepre natinvent.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_aJC77E"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-16.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
@@ -182,7 +244,9 @@
     "single_title_and_text_UEKb9U",
     "image_with_text_bzTCN4",
     "image_with_text_wAMrQe",
+    "image_with_text_ftqKap",
     "single_title_and_text_K88UCF",
+    "image_with_text_nykRBY",
     "image_with_text_HPAmGj"
   ]
 }
