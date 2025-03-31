@@ -67,12 +67,44 @@
         "margin_top": "none",
         "margin_bot": "m"
       }
+    },
+    "image_with_text_bzTCN4": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_ajm6g3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sam sit eos adis ea voluptas int apisquame sinciis trumet pla quam facerume que coresecab in cum quibea que volupta tibuscilla ent parum aut adipsam imet alis doluptatenis audionsent quiae nonserest aliqui doluptaepta cor audis eum est et que voluptatist, core velibus aut re in reiur, opta velestrum est, ulparum que officipit ditin nature laborehent magnitame velecte mperum iliam quam ipsaper natquid modit aut ea dolorest verat aut is eum, sero totas experum apis isqui unt la verspiento tem restrum que vellab iume re pos denimod quam dent idelentio. Itae quamus, nulpari beaquam harum repelleces aut por sant quatio. Acepre natinvent.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_ajm6g3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-02.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
     "main",
     "165780769577c12393",
     "image_banner_HJqqEJ",
-    "single_title_and_text_UEKb9U"
+    "single_title_and_text_UEKb9U",
+    "image_with_text_bzTCN4"
   ]
 }
