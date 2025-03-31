@@ -11,17 +11,6 @@
   "sections": {
     "main": {
       "type": "main-article",
-      "blocks": {
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "share"
-      ],
       "settings": {}
     },
     "165780769577c12393": {
@@ -31,10 +20,59 @@
         "link": "shopify://blogs/journal",
         "color_scheme": "dark"
       }
+    },
+    "image_banner_HJqqEJ": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Ra66Rg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Looms Trims and Plains",
+            "heading_type": "header1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ra66Rg"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-14.jpg",
+        "letterbox": false,
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "darken",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_UEKb9U": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Headline Here",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
     "main",
-    "165780769577c12393"
+    "165780769577c12393",
+    "image_banner_HJqqEJ",
+    "single_title_and_text_UEKb9U"
   ]
 }
