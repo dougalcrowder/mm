@@ -448,6 +448,17 @@
         "margin_top": "none",
         "margin_bot": "m"
       }
+    },
+    "featured_collection_RYfn43": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "trims",
+        "button_color": "seasonal",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
     }
   },
   "order": [
@@ -466,6 +477,7 @@
     "image_with_text_EifUJJ",
     "image_with_text_dqW6FD",
     "single_title_and_text_xdmKwm",
-    "multicolumn_4cnqt9"
+    "multicolumn_4cnqt9",
+    "featured_collection_RYfn43"
   ]
 }
