@@ -9,10 +9,6 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-article",
-      "settings": {}
-    },
     "165780769577c12393": {
       "type": "simple-button",
       "settings": {
@@ -459,11 +455,14 @@
         "show_view_all": true,
         "show_secondary_image": false
       }
+    },
+    "main": {
+      "type": "main-article",
+      "settings": {}
     }
   },
   "order": [
     "main",
-    "165780769577c12393",
     "image_banner_HJqqEJ",
     "single_title_and_text_UEKb9U",
     "image_with_text_bzTCN4",
@@ -478,6 +477,7 @@
     "image_with_text_dqW6FD",
     "single_title_and_text_xdmKwm",
     "multicolumn_4cnqt9",
-    "featured_collection_RYfn43"
+    "featured_collection_RYfn43",
+    "165780769577c12393"
   ]
 }
