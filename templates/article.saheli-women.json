@@ -104,14 +104,6 @@
         "margin_bot": "m"
       }
     },
-    "165780769577c12393": {
-      "type": "simple-button",
-      "settings": {
-        "label": "Back to the Journal",
-        "link": "shopify://blogs/journal",
-        "color_scheme": "dark"
-      }
-    },
     "single_title_and_text_dQyiMf": {
       "type": "single-title_and_text",
       "settings": {
@@ -124,6 +116,45 @@
         "margin_top": "none",
         "margin_bot": "m"
       }
+    },
+    "image_with_text_ytxRrj": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_NeYQrf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Visiting the Saheli Women was like stepping into the heart of the sun. The centres they’ve created are vibrant, joyful spaces where women decorate their surroundings with happy colours, work flexible hours, and bring their children along if they wish. There’s a sense of freedom and community that is almost tangible, expressed in their laughter, chatter, and camaraderie.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_NeYQrf"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-SaheliWomen-1.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "165780769577c12393": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Back to the Journal",
+        "link": "shopify://blogs/journal",
+        "color_scheme": "dark"
+      }
     }
   },
   "order": [
@@ -132,6 +163,7 @@
     "single_title_and_text_e3NFdq",
     "image_with_text_zJ3GGq",
     "single_title_and_text_dQyiMf",
+    "image_with_text_ytxRrj",
     "165780769577c12393"
   ]
 }
