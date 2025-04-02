@@ -11,49 +11,97 @@
   "sections": {
     "main": {
       "type": "main-article",
+      "settings": {}
+    },
+    "image_banner_xbgHGk": {
+      "type": "image-banner",
       "blocks": {
-        "featured_image": {
-          "type": "featured_image",
+        "heading_4BxqUf": {
+          "type": "heading",
           "settings": {
-            "image_height": "adapt"
+            "heading": "MOLLY MAHON X SAHELI WOMEN",
+            "heading_type": "header1"
           }
         },
-        "title": {
-          "type": "title",
+        "buttons_xWPVMQ": {
+          "type": "buttons",
           "settings": {
-            "blog_show_date": false,
-            "blog_show_author": false
-          }
-        },
-        "content": {
-          "type": "content",
-          "settings": {}
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "featured_image",
-        "title",
-        "content",
-        "share"
+        "heading_4BxqUf",
+        "buttons_xWPVMQ"
       ],
-      "settings": {}
-    },
-    "164975103076740208": {
-      "type": "featured-collection",
-      "disabled": true,
       "settings": {
-        "title": "Shop Quilts",
-        "collection": "bedding-1",
-        "button_color": "seasonal",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "show_secondary_image": false
+        "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Saheli_Women_127-LOWRES.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Saheli_Women_124-LOWRES.jpg",
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "end",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_e3NFdq": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "Sometimes you stumble upon something that stirs your soul and simply wont let go.",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_zJ3GGq": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_itzGKK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That moment came for me when I discovered the Saheli Women on Instagram. Drawn first by the vibrant colours of their saris, I quickly found myself captivated by their story - a story of empowerment, resilience, and the preservation of traditional craft.</p><p>Founded in 2015, the Saheli Women is a female-led social enterprise that empowers rural Indian women through slow fashion. They build on traditional knowledge, preserve artisanal skills, and challenge gender, caste and religious barriers. What struck me most was the palpable energy radiating from their work, rippling far beyond their walls to uplift an entire community. It’s a place filled with positivity, equality and hope.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_itzGKK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-SaheliWomen-1.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "165780769577c12393": {
@@ -67,7 +115,9 @@
   },
   "order": [
     "main",
-    "164975103076740208",
+    "image_banner_xbgHGk",
+    "single_title_and_text_e3NFdq",
+    "image_with_text_zJ3GGq",
     "165780769577c12393"
   ]
 }
