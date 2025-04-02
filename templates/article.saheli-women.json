@@ -111,6 +111,19 @@
         "link": "shopify://blogs/journal",
         "color_scheme": "dark"
       }
+    },
+    "single_title_and_text_dQyiMf": {
+      "type": "single-title_and_text",
+      "settings": {
+        "title": "",
+        "text": "<p>I was moved to meet their founder, Madhu Vaishnav, and learn more about her vision. After hearing her inspiring journey, I felt compelled to visit their operation outside Jodhpur. For most of my time in India, I’ve worked alongside men, but the chance to collaborate with Madhu - a fellow ambitious, driven woman who shares my passion for handmade beauty - felt deeply significant.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
@@ -118,6 +131,7 @@
     "image_banner_xbgHGk",
     "single_title_and_text_e3NFdq",
     "image_with_text_zJ3GGq",
+    "single_title_and_text_dQyiMf",
     "165780769577c12393"
   ]
 }
