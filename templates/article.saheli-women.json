@@ -89,7 +89,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/MollyMahon-SaheliWomen-1.jpg",
-        "aspect_ratio": "portrait",
+        "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -132,10 +132,10 @@
         "text_NeYQrf"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-SaheliWomen-1.jpg",
-        "aspect_ratio": "portrait",
+        "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Saheli_Women_104_LOWRES_cd3f1f1b-7381-42ba-9c8d-1670242dad1b.jpg",
+        "aspect_ratio": "none",
         "width": false,
-        "column_layout": "img_three_text_three",
+        "column_layout": "img_four_text_two",
         "gap": "large",
         "text_width": "prose",
         "header_text_size": "header-s",
