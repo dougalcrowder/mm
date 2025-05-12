@@ -310,7 +310,7 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
+        "margin_top": "none",
         "margin_bot": "m"
       }
     },
