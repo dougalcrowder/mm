@@ -64,7 +64,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Sometimes you stumble upon something that stirs your soul and simply wont let go.",
-        "text": "<p>That moment came for me when I discovered the Saheli Women on Instagram. Drawn first by the vibrant colours of their saris, I quickly found myself captivated by their story - a story of empowerment, resilience, and the preservation of traditional craft.</p>",
+        "text": "",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -79,7 +79,7 @@
         "text_itzGKK": {
           "type": "text",
           "settings": {
-            "text": "<p>Founded in 2015, the Saheli Women is a female-led social enterprise that empowers rural Indian women through slow fashion. They build on traditional knowledge, preserve artisanal skills, and challenge gender, caste and religious barriers. What struck me most was the palpable energy radiating from their work, rippling far beyond their walls to uplift an entire community. It’s a place filled with positivity, equality and hope.</p>",
+            "text": "<p>That moment came for me when I discovered the Saheli Women on Instagram. Drawn first by the vibrant colours of their saris, I quickly found myself captivated by their story - a story of empowerment, resilience, and the preservation of traditional craft.</p><p>Founded in 2015, the Saheli Women is a female-led social enterprise that empowers rural Indian women through slow fashion. They build on traditional knowledge, preserve artisanal skills, and challenge gender, caste and religious barriers. What struck me most was the palpable energy radiating from their work, rippling far beyond their walls to uplift an entire community. It’s a place filled with positivity, equality and hope.</p>",
             "code": ""
           }
         }
