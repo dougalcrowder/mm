@@ -258,7 +258,16 @@
         "text_align": "center",
         "layout": "text_first",
         "margin_top": "l",
-        "margin_bot": "none"
+        "margin_bot": "l"
+      }
+    },
+    "divider_jYE6dG": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
       }
     },
     "single_title_and_text_jmEtcH": {
@@ -411,6 +420,7 @@
     "single_title_and_text_NcHxjy",
     "multicolumn_j9qTRy",
     "image_with_text_9GnCrz",
+    "divider_jYE6dG",
     "single_title_and_text_jmEtcH",
     "image_with_text_gdQyVp",
     "image_with_text_7gjPXC",
