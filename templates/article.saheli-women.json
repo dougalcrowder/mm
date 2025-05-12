@@ -222,14 +222,6 @@
         "margin_bot": "m"
       }
     },
-    "165780769577c12393": {
-      "type": "simple-button",
-      "settings": {
-        "label": "Back to the Journal",
-        "link": "shopify://blogs/journal",
-        "color_scheme": "dark"
-      }
-    },
     "image_with_text_9GnCrz": {
       "type": "image-with-text",
       "blocks": {
@@ -265,8 +257,16 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "m",
+        "margin_top": "l",
         "margin_bot": "m"
+      }
+    },
+    "165780769577c12393": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Back to the Journal",
+        "link": "shopify://blogs/journal",
+        "color_scheme": "dark"
       }
     }
   },
