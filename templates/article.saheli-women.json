@@ -153,7 +153,7 @@
       "name": "Title and Text",
       "settings": {
         "title": "",
-        "text": "<p>As I continue to explore sustainable fabric practices, I feel deeply aligned with Madhu's belief that sustainability must centre on slow, traditional craft - methods that are kind to people and the planet. Saheli Women now supports two centres in Bhikamkor and Kali Beri, along with female health and girls' education programmes, creating opportunities that ripple across generations. </p><p>Here, work isn't just about makimg beatiful things -  it's about creating a better future.</p>",
+        "text": "<p>As I continue to explore sustainable fabric practices, I feel deeply aligned with Madhu's belief that sustainability must centre on slow, traditional craft - methods that are kind to people and the planet. Saheli Women now supports two centres in Bhikamkor and Kali Beri, along with female health and girls' education programmes, creating opportunities that ripple across generations. </p><p>Here, work isn't just about making beautiful things -  it's about creating a better future.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -275,13 +275,69 @@
       "name": "Title and Text",
       "settings": {
         "title": "Discover the Collection",
-        "text": "<p>Everything in this collaboration has been made using a bespoke design blue gingham, woven at their sire.<br/>Blue marking the location of Jodhpur and the bright blue sky that shone over my visit.</p>",
+        "text": "<p>Everything in this collaboration has been made using a bespoke design blue gingham, woven at their site.<br/>Blue marking the location of Jodhpur and the bright blue sky that shone over my visit.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text",
         "margin_top": "none",
         "margin_bot": "none"
+      }
+    },
+    "image_banner_AWaANP": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_4h94rn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "text_KNQpEG": {
+          "type": "text",
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_FkT8bk": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4h94rn",
+        "text_KNQpEG",
+        "buttons_FkT8bk"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Saheli_Women_Divider_Banner.jpg",
+        "letterbox": false,
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "image_with_text_gdQyVp": {
@@ -422,6 +478,7 @@
     "image_with_text_9GnCrz",
     "divider_jYE6dG",
     "single_title_and_text_jmEtcH",
+    "image_banner_AWaANP",
     "image_with_text_gdQyVp",
     "image_with_text_7gjPXC",
     "image_with_text_qR8j8n",
