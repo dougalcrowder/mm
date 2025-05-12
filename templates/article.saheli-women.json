@@ -114,7 +114,7 @@
         "alignment": "center",
         "color_scheme": "dark_text",
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "none"
       }
     },
     "image_with_text_ytxRrj": {
@@ -148,6 +148,20 @@
         "margin_bot": "m"
       }
     },
+    "single_title_and_text_NcHxjy": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p>As I continue to explore sustainable fabric practices, I feel deeply aligned with Madhu's belief that sustainability must centre on slow, traditional craft - methods that are kind to people and the planet. Saheli Women now supports two centres in Bhikamkor and Kali Beri, along with female health and girls' education programmes, creating opportunities that ripple across generations. </p><p>Here, work isn't just about makimg beatiful things -  it's about creating a better future.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
     "165780769577c12393": {
       "type": "simple-button",
       "settings": {
@@ -164,6 +178,7 @@
     "image_with_text_zJ3GGq",
     "single_title_and_text_dQyiMf",
     "image_with_text_ytxRrj",
+    "single_title_and_text_NcHxjy",
     "165780769577c12393"
   ]
 }
