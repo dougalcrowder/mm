@@ -275,6 +275,123 @@
         "margin_bot": "none"
       }
     },
+    "image_with_text_gdQyVp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TDTDc6": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "text_Hx8qJJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_TDTDc6",
+        "text_Hx8qJJ"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_Woodlands_Alun-Callendar_2025-02-13_060.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_7gjPXC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3TG734": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "text_bEzeRW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_3TG734",
+        "text_bEzeRW"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Saheli-Women-Cushion-Piped-Gingham-Embroidered-2025-02-CUTOUT-HIGHRES-01.jpg",
+        "aspect_ratio": "square",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_qR8j8n": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CqDUit": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "text_TgY6dW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CqDUit",
+        "text_TgY6dW"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_Woodlands_Alun-Callendar_2025-02-13_061.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "165780769577c12393": {
       "type": "simple-button",
       "settings": {
@@ -295,6 +412,9 @@
     "multicolumn_j9qTRy",
     "image_with_text_9GnCrz",
     "single_title_and_text_jmEtcH",
+    "image_with_text_gdQyVp",
+    "image_with_text_7gjPXC",
+    "image_with_text_qR8j8n",
     "165780769577c12393"
   ]
 }
