@@ -70,7 +70,7 @@
         "alignment": "center",
         "color_scheme": "dark_text",
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "none"
       }
     },
     "image_with_text_zJ3GGq": {
@@ -100,8 +100,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     },
     "single_title_and_text_dQyiMf": {
@@ -144,8 +144,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "m"
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     },
     "single_title_and_text_NcHxjy": {
