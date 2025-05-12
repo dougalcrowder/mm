@@ -162,12 +162,111 @@
         "margin_bot": "none"
       }
     },
+    "multicolumn_j9qTRy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QyEyiP": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Saheli_Women_040_copy.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_eH8cYV": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Saheli_Women_059_copy.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_d9XGBE": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Saheli_Women_097_copy.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QyEyiP",
+        "column_eH8cYV",
+        "column_d9XGBE"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
     "165780769577c12393": {
       "type": "simple-button",
       "settings": {
         "label": "Back to the Journal",
         "link": "shopify://blogs/journal",
         "color_scheme": "dark"
+      }
+    },
+    "image_with_text_9GnCrz": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3eHMzy": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "text_bVEM6A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I am choosing to work with Saheli Women because they embody everything I aspire for my business to be: a celebration of joy, purpose and the handmade.<br/><br/>Their craft is infused with a sense of hope and connection, preserving traditions while embracing a brighter future. They adore and celebrate colour, transforming it into a language of meaning and emotion that goes far beyond what we often perceive. Their work is a testament to the power of community, creativity, and the happiness that comes from making something truly beautiful and purposeful. <br/><br/>Partnering with the Saheli Women fills me with inspiration and aligns with my vision of creating a business rooted in joy, authenticity and the preservation of craft.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_3eHMzy",
+        "text_bVEM6A"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-India-2024-Molly-Saheli-Women-053_copy.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     }
   },
@@ -179,6 +278,8 @@
     "single_title_and_text_dQyiMf",
     "image_with_text_ytxRrj",
     "single_title_and_text_NcHxjy",
+    "multicolumn_j9qTRy",
+    "image_with_text_9GnCrz",
     "165780769577c12393"
   ]
 }
