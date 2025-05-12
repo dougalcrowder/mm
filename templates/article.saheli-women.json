@@ -258,7 +258,21 @@
         "text_align": "center",
         "layout": "text_first",
         "margin_top": "l",
-        "margin_bot": "m"
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_jmEtcH": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Discover the Collection",
+        "text": "<p>Everything has been made using a bespoke design blue gingham, woven at their sire.<br/>Blue marking the location of Jodhpur and the bright blue sky that shone over my visit.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     },
     "165780769577c12393": {
@@ -280,6 +294,7 @@
     "single_title_and_text_NcHxjy",
     "multicolumn_j9qTRy",
     "image_with_text_9GnCrz",
+    "single_title_and_text_jmEtcH",
     "165780769577c12393"
   ]
 }
