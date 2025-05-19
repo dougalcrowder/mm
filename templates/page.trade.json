@@ -13,6 +13,64 @@
       "type": "main-page",
       "settings": {}
     },
+    "multicolumn_aigtNK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_t4VJHG": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Victoria-Clark-Fabric-Luna-Pink-1.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_k3FXQX": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "auto_height": "none",
+            "title": "Column",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_MLkmHF": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "auto_height": "none",
+            "title": "Column",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_t4VJHG",
+        "column_k3FXQX",
+        "column_MLkmHF"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
     "df074c33-3bfa-42af-b079-0a9cde64c27e": {
       "type": "multicolumn",
       "blocks": {
@@ -126,18 +184,11 @@
         "bg_color_scheme": "none",
         "hover_text": false
       }
-    },
-    "page_wHnL9R": {
-      "type": "page",
-      "name": "t:sections.page.presets.name",
-      "settings": {
-        "page": "customer-projects"
-      }
     }
   },
   "order": [
     "main",
-    "page_wHnL9R",
+    "multicolumn_aigtNK",
     "df074c33-3bfa-42af-b079-0a9cde64c27e",
     "c529aa2b-4742-4ff2-9490-d80cf1eeffa2"
   ]
