@@ -684,6 +684,7 @@
         "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-1",
         "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/greencombe_soft_furnishing_studio_1000x1400_0bca7168-ed6b-4a00-b3d3-e84960848702.jpg",
         "letterbox": false,
@@ -703,6 +704,52 @@
         "bg_color_scheme": "none",
         "hover_text": false
       }
+    },
+    "multicolumn_ryQMeR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jKppww": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-06.jpg",
+            "auto_height": "portrait",
+            "title": "Finishing Touches",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "Trade Accessories",
+            "button_link": "shopify://collections/trade-accessories"
+          }
+        },
+        "column_ByxBai": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/mollymahon_curtain_clover_duckegg_bedroom_1000x1500_c360251a-c848-4fe0-af4c-2c1650a6639b.jpg",
+            "auto_height": "portrait",
+            "title": "MM Collections",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://blogs/look-books"
+          }
+        }
+      },
+      "block_order": [
+        "column_jKppww",
+        "column_ByxBai"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
@@ -710,6 +757,7 @@
     "text_banner_a8jDPA",
     "multicolumn_aigtNK",
     "df074c33-3bfa-42af-b079-0a9cde64c27e",
-    "c529aa2b-4742-4ff2-9490-d80cf1eeffa2"
+    "c529aa2b-4742-4ff2-9490-d80cf1eeffa2",
+    "multicolumn_ryQMeR"
   ]
 }
