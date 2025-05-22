@@ -94,9 +94,9 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Ashdown-Sofa-Wellingham-Website-Banner.jpg",
+        "image": "shopify://shop_images/Molly-Mahon-Latest-News.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon-Sofa-Ashdown-Navy-Cushions-Ashdown-Cool-Blue-Lampshades-Flirty-Skirt-Indian-Leaf-Copper-Blue-Website-Banner-Square.jpg",
+        "mobile_image": "shopify://shop_images/MollyMahon_Woodlands_Alun-Callendar_2025-02-13_033_5ee3cd80-e2b9-4110-94c3-fac81f88aded.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": false,
