@@ -244,10 +244,10 @@
         "show_title": false,
         "text_align": "center",
         "title_margin": "l",
-        "gap": "medium",
+        "gap": "large",
         "border": false,
-        "margin_top": "sm",
-        "margin_bot": "sm"
+        "margin_top": "l",
+        "margin_bot": "l"
       }
     },
     "multicolumn_qhYzxT": {
