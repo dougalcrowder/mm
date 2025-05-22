@@ -149,7 +149,7 @@
       ],
       "name": "Multi Columns",
       "settings": {
-        "mc_title": "Makers of Luxury Hand Block Printed Fabric",
+        "mc_title": "Makers of Luxury Fabrics and Wallpaper",
         "show_title": true,
         "text_align": "center",
         "title_margin": "l",
@@ -357,7 +357,7 @@
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
-            "button_link": ""
+            "button_link": "shopify://collections/fabric"
           }
         },
         "column_ArxpAW": {
@@ -370,7 +370,7 @@
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
-            "button_link": ""
+            "button_link": "shopify://collections/wallpaper"
           }
         }
       },
@@ -452,9 +452,9 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/MollyMahon-Sofa-Ashdown-Navy-Cushions-Ashdown-Cool-Blue-Lampshades-Flirty-Skirt-Indian-Leaf-Copper-Blue-01_5bff0496-aaa1-4799-baed-4d84760a04ce.jpg",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_AnopuraLifestyle_145.jpg",
             "auto_height": "none",
-            "title": "Cushion pile - new stock",
+            "title": "",
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
@@ -465,9 +465,9 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/LAMPSHADE_SEED_MUSTARD_DEERHYRST_1300X1300_412b786f-7a18-4464-8c69-baa124c9ee4c.jpg",
+            "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Chair-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-01_bf749c82-60f9-4f6e-89a7-d1d3e5ad94bc.jpg",
             "auto_height": "none",
-            "title": "Lampshade shot",
+            "title": "",
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
