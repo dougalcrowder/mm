@@ -54,6 +54,7 @@
       "settings": {
         "title": "Shop Quilts",
         "collection": "bedding-1",
+        "button_color": "seasonal",
         "products_to_show": 4,
         "show_view_all": true,
         "show_secondary_image": false
@@ -94,10 +95,14 @@
         "1657730007a25f7230-1",
         "1657730007a25f7230-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/bloom_molesworth_gardentable_dahlia_tablecloth_1800x1000_68e6065b-47ac-4913-89c9-202078e1482f.jpg",
         "letterbox": false,
+        "respect_image": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -118,10 +123,11 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/bloom_barn_curtain_chequer_blues_1000x1500_b6a06b42-d9ca-4c7e-99a1-ae0aa85bd21d.jpg",
+            "image": "shopify://shop_images/mollymahon_westthorpe_front_door_dahlia_widestripe_table_cloth.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -130,10 +136,11 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
+            "image": "shopify://shop_images/mollymahon_westthorpe_hall_dahlia_table_cloth_portrait.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -146,6 +153,9 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -190,10 +200,13 @@
         "1657730379dcd0a206-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/bloom_fireplace_vase_stripe_chequers_mughal_1800x1000_88b23029-d46f-4c8f-a867-e20f80ff119d.jpg",
+        "image": "shopify://shop_images/mollymahon_westthorpe_bathroom_spot_star_wallpaper_widestripe_blind_landscape.jpg",
         "letterbox": false,
+        "respect_image": false,
         "top_margin": true,
-        "constrain": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": true,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
@@ -235,12 +248,22 @@
         "1657785887e07c69d0-1",
         "1657785887e07c69d0-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/MM_Molesworth-55.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first"
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "1657786090cc89e628": {
@@ -281,10 +304,14 @@
         "1657786090a56f700f-1",
         "1657786090a56f700f-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/bloom_curtain_cushion_dahlia_hotpink_1800x1000_77bda3d1-fa3c-4252-bd7b-8ece2f57cc8a.jpg",
         "letterbox": false,
+        "respect_image": false,
         "top_margin": true,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -309,6 +336,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -321,6 +349,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -333,6 +362,9 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
         "margin_top": "s",
         "margin_bot": "s"
@@ -361,10 +393,19 @@
       ],
       "settings": {
         "image": "shopify://shop_images/GCGARMS-2_ea7bb47c-700a-4feb-859d-01077089cb01.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first"
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "1657786602be65cc53": {
@@ -378,6 +419,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -390,6 +432,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -402,6 +445,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -414,6 +458,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -428,6 +473,9 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
         "margin_top": "s",
         "margin_bot": "s"
@@ -474,7 +522,10 @@
       "settings": {
         "image": "shopify://shop_images/STRAWBERRY_MAINCURTAIN_3500x_2ed47fdc-376f-4325-a358-ea150b0c31a4.jpg",
         "letterbox": false,
+        "respect_image": false,
         "top_margin": true,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -521,10 +572,19 @@
       ],
       "settings": {
         "image": "shopify://shop_images/PRIMROSE_COLLECTION_SHOT_1600x_d4fd4df4-0419-4163-8de1-a0417d567a74.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first"
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "16577879925ee322e6": {
@@ -538,6 +598,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -550,6 +611,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -562,6 +624,9 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
@@ -600,10 +665,19 @@
       ],
       "settings": {
         "image": "shopify://shop_images/ELLIES_BEDSKIRT_1600x_2df4e026-2388-46f7-80b0-4e5158f44580.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first"
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "16577883639ab33180": {
@@ -647,7 +721,10 @@
       "settings": {
         "image": "shopify://shop_images/POPPY_CURTAIN_SITTINGROOM_3500x_81426930-76e0-499b-96be-3c7785969692.jpg",
         "letterbox": false,
+        "respect_image": false,
         "top_margin": true,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -694,10 +771,19 @@
       ],
       "settings": {
         "image": "shopify://shop_images/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first"
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "1657807750e4739f83": {
