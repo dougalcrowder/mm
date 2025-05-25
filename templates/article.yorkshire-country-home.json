@@ -14,45 +14,56 @@
       "disabled": true,
       "settings": {}
     },
-    "image_banner_EXfAV6": {
-      "type": "image-banner",
+    "multicolumn_MNP6V7": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_DDFaJH": {
-          "type": "heading",
+        "column_PRJFmE": {
+          "type": "column",
           "settings": {
-            "heading": "WOODLANDS",
-            "heading_type": "header1"
+            "width": "half",
+            "image": "shopify://shop_images/mollymahon_westthorpe_front_door_dahlia_widestripe_table_cloth.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_VqRxHY": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/mollymahon_westthorpe_hall_dahlia_table_cloth_portrait.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "heading_DDFaJH"
+        "column_PRJFmE",
+        "column_VqRxHY"
       ],
+      "name": "Multi Columns",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-01-Blog-Image.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-02-Blog-Image.jpg",
-        "respect_image": false,
-        "top_margin": false,
-        "bordered": false,
-        "bordered_dt": false,
-        "constrain": false,
-        "desktop_text_box_position": "start",
-        "desktop_text_box_position_horizontal": "center",
+        "mc_title": "",
+        "show_title": false,
         "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
         "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "darken",
-        "hover_text": false
+        "margin_bot": "m"
       }
     },
     "single_title_and_text_6RPnYK": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "A new collection rooted in Home",
+        "title": "A Yorkshire Country Home",
         "text": "",
         "font_type": "body",
         "vertical_alignment": "center",
@@ -68,7 +79,7 @@
         "text_GCWCtf": {
           "type": "text",
           "settings": {
-            "text": "<p>Introducing the <strong>Woodlands</strong> collection, where the beauty of nature meets the art of traditional craftsmanship. Inspired by the enchanting Ashdown Forest, this range brings the warmth and wonder of the British countryside into your home through rich colours and organic patterns.<br/><br/><a href=\"/collections/woodlands\" title=\"Woodlands\">Click here to browse collection.</a></p>",
+            "text": "<p>A family home injecting colour, pattern and a sense of family joy into their renovation project.  Introducing Molly Mahon Fabrics and wallpapers to bring the home to life and using the textures, patterns and above all the colour from Molly Mahon's palette.  The door is open to welcome you to feast your eyes on.</p>",
             "code": ""
           }
         }
@@ -77,7 +88,7 @@
         "text_GCWCtf"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Sofa-Ashdown-Navy-Cushions-Ashdown-Cool-Blue-Lampshades-Flirty-Skirt-Indian-Leaf-Copper-Blue-01_5bff0496-aaa1-4799-baed-4d84760a04ce.jpg",
+        "image": "shopify://shop_images/mollymahon_westthorpe_bedroom_mughal_curtain_widestripe_valance_seed_lampshade_portrait_2.jpg",
         "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_three_text_three",
@@ -97,7 +108,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "",
-        "text": "<p>Designed to evoke a feeling of calm, connection and joy, <strong>Woodlands</strong> invites you to embrace the beauty of nature in your everyday life.<br/>This whole collection offers a plethora of cloth weights, which is so key to versatile options, whether draping a window or upholstering a favourite chair.</p>",
+        "text": "<p>All of Molly Mahon's collections have been used throughout the project</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -112,7 +123,7 @@
         "text_ALW8CY": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Woodlands</strong> represents our most sustainable endeavour yet, a reflection of the brand’s commitment to responsible craftsmanship. From the very essence of the yarn to the final fabric, every decision has been made with intention and care. </p>",
+            "text": "<p><strong>Spot & Star Pea Green wallpaper with Wide Stripe Pink hand block printed linen fabric blind</strong></p>",
             "code": ""
           }
         }
@@ -121,7 +132,7 @@
         "text_ALW8CY"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Chair-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-Cushion-Indian-Leaf-Pink-Copper-01_021d7ab4-9433-473a-aa79-0454992c36d9.jpg",
+        "image": "shopify://shop_images/mollymahon_westthorpe_bathroom_spot_star_wallpaper_widestripe_blind_landscape.jpg",
         "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_four_text_two",
@@ -881,7 +892,7 @@
   },
   "order": [
     "main",
-    "image_banner_EXfAV6",
+    "multicolumn_MNP6V7",
     "single_title_and_text_6RPnYK",
     "image_with_text_nDFXhC",
     "single_title_and_text_fC3pVB",
