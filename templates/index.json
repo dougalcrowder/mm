@@ -140,7 +140,7 @@
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
-            "button_link": "shopify://collections/woodlands-fabric-collection"
+            "button_link": ""
           }
         }
       },
@@ -232,7 +232,7 @@
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "",
-            "button_link": "shopify://collections/greencombe-fabric"
+            "button_link": "shopify://collections/trims"
           }
         }
       },
@@ -419,11 +419,23 @@
             "go_serif": false,
             "constrain_text": false
           }
+        },
+        "buttons_iUAyEz": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Homewares",
+            "button_link_1": "shopify://collections/homewares",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading_4yTVkF",
-        "text_qTdhyh"
+        "text_qTdhyh",
+        "buttons_iUAyEz"
       ],
       "settings": {
         "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
@@ -459,7 +471,7 @@
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
-            "button_link": "shopify://collections/homewares"
+            "button_link": "shopify://collections/woodlands-cushions"
           }
         },
         "column_WVRmNY": {
@@ -472,7 +484,7 @@
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
-            "button_link": "shopify://collections/homewares"
+            "button_link": "shopify://collections/lampshades"
           }
         }
       },
