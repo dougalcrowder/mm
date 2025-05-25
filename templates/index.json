@@ -63,12 +63,13 @@
         "heading_qNDRhA": {
           "type": "heading",
           "settings": {
-            "heading": "Current Seasonal collection",
+            "heading": "Celebrating the Chelsea Flower Show",
             "heading_type": "header1"
           }
         },
         "text_BQVWYh": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Make yourself a home.",
             "go_serif": false,
