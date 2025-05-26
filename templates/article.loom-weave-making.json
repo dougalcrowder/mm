@@ -19,6 +19,7 @@
       "blocks": {
         "heading_DDFaJH": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "WOODLANDS",
             "heading_type": "header1"
@@ -29,9 +30,8 @@
         "heading_DDFaJH"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-01-Blog-Image.jpg",
+        "image": "shopify://shop_images/mollymahon_kewal_basecloth_production_landscape_1.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-02-Blog-Image.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": false,
@@ -52,7 +52,7 @@
     "single_title_and_text_6RPnYK": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "A new collection rooted in Home",
+        "title": "We care passionately about who, where and how our production is done",
         "text": "",
         "font_type": "body",
         "vertical_alignment": "center",
