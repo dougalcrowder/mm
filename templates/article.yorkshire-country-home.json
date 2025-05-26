@@ -336,6 +336,20 @@
         "margin_bot": "xl"
       }
     },
+    "product_grid_neTDVm": {
+      "type": "product-grid",
+      "name": "Product Grid",
+      "settings": {
+        "product_list": [
+          "fern-printed-fabric-linen-cotton-lichen",
+          "isabella-hand-dyed-fabric-linen-denim-blue",
+          "marwari-horse-wallpaper-blue",
+          "luna-block-printed-fabric-linen-pink"
+        ],
+        "show_secondary_image": true,
+        "centred": false
+      }
+    },
     "image_with_text_Dazw38": {
       "type": "image-with-text",
       "blocks": {
@@ -547,6 +561,19 @@
         "margin_top": "none",
         "margin_bot": "m"
       }
+    },
+    "product_grid_QWgkJM": {
+      "type": "product-grid",
+      "name": "Product Grid",
+      "settings": {
+        "product_list": [
+          "luna-block-printed-fabric-linen-blue-pink",
+          "clover-printed-fabric-linen-cotton-duck-egg",
+          "tulip-block-printed-fabric-linen-cotton-rose-copper"
+        ],
+        "show_secondary_image": true,
+        "centred": false
+      }
     }
   },
   "order": [
@@ -562,9 +589,11 @@
     "image_with_text_7pJG33",
     "multicolumn_EJKBXn",
     "multicolumn_LPwHf9",
+    "product_grid_neTDVm",
     "image_with_text_Dazw38",
     "image_with_text_Xb393B",
     "multicolumn_MhLzeC",
-    "multicolumn_HCWLgb"
+    "multicolumn_HCWLgb",
+    "product_grid_QWgkJM"
   ]
 }
