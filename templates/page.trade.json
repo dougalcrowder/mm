@@ -580,7 +580,7 @@
       ],
       "name": "Multi Columns",
       "settings": {
-        "mc_title": "Trade Projects",
+        "mc_title": "Customer Projects",
         "show_title": true,
         "text_align": "center",
         "title_margin": "s",
