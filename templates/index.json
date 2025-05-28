@@ -145,13 +145,13 @@
         "heading_TwFkBg": {
           "type": "heading",
           "settings": {
-            "heading": "About Us"
+            "heading": "The Woodlands Collection"
           }
         },
         "text_fetT6i": {
           "type": "text",
           "settings": {
-            "text": "<p>Molly Mahon was born from a love of pattern, colour and the magic of making things by hand. Her journey into block printing began as a personal passion – an escape into creativity that quickly became something more.  Inspired by the rich tradition of Indian craftsmanship and the beauty of the natural world, Molly founded this brand to bring joy and artistry into everyday life.</p><p>At the heart of everything we do is a deep respect from craftmanship.  We work with skilled artisans to create hand block printed fabrics, wallpapers and homewares that celebrate individuality and the charm of the handmade.  No two prints are ever exactly the same and that’s what makes them special.</p><p>For us, design isn’t just about aesthetics – it’s about creating a home that feels good in every way.  We hope our pieces bring beauty, warmth and inspiration to your space too.</p>",
+            "text": "<p>A new chapter in the Molly Mahon journey, where the essence of nature meets the artistry of tradition.<br/>Inspired by the enchanting beauty of the Ahdown Forest where Molly lives, this range captures the soul of the British countryside, bringing its vibrant flora into the home.</p>",
             "code": ""
           }
         }
@@ -161,7 +161,7 @@
         "text_fetT6i"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Woodlands-Cushions-Multi-Blinds-Horse-Chestnut-Navy.jpg",
+        "image": "shopify://shop_images/Molly-Mahon-About-Us-2.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -638,9 +638,9 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Mosaic_Factory_x_Molly_Mahon_Mollys_Kitchen_Indian_Red.jpg",
+            "image": "shopify://shop_images/mollymahon_edwardbulmer_workshop6_portrait.jpg",
             "auto_height": "portrait",
-            "title": "Mosiac Factory x Molly Mahon",
+            "title": "London Craft Week",
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
