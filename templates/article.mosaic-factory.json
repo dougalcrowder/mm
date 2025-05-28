@@ -9,26 +9,108 @@
  */
 {
   "sections": {
+    "image_banner_9HzRLT": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_qnQwHc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mosaic Factory X Molly Mahon",
+            "heading_type": "header1"
+          }
+        },
+        "buttons_na8NyW": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qnQwHc",
+        "buttons_na8NyW"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/AlunCallenderPhoto_MollyMahon-MosaicFactory-1.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/AlunCallenderPhoto_MollyMahon-MosaicFactory-2.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "900",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_TG7yxE": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Introducing a Unique Fusion of Craftsmanship and Colour",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_jqeyme": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Q8GaJK": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "text_EfYbnb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are thrilled to present the Mosaic Factory x Molly Mahon collection, an exclusive collaboration that brings together the artistry of handmade tiles and the bold, vibrant block print designs of Molly Mahon.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Q8GaJK",
+        "text_EfYbnb"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-MosaicFactory-2.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "main": {
       "type": "main-article",
       "blocks": {
-        "featured_image": {
-          "type": "featured_image",
-          "settings": {
-            "image_height": "adapt"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "blog_show_date": false,
-            "blog_show_author": false
-          }
-        },
-        "content": {
-          "type": "content",
-          "settings": {}
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -37,24 +119,9 @@
         }
       },
       "block_order": [
-        "featured_image",
-        "title",
-        "content",
         "share"
       ],
       "settings": {}
-    },
-    "164975103076740208": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Shop Quilts",
-        "collection": "bedding-1",
-        "button_color": "seasonal",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "show_secondary_image": false
-      }
     },
     "165780769577c12393": {
       "type": "simple-button",
@@ -63,11 +130,74 @@
         "link": "shopify://blogs/journal",
         "color_scheme": "dark"
       }
+    },
+    "multicolumn_AYjfKe": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QNwXJb": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Mosaic_Factory_x_Molly_Mahon_Stars_MidN_Blue_3.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_d6b9FE": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Mosaic_Factory_x_Molly_Mahon_Mollys_Kitchen_Indian_Red.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_EGgBVC": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Mosaic_Factory_x_Molly_Mahon_Luna_Stripes_Aqua_3.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QNwXJb",
+        "column_d6b9FE",
+        "column_EGgBVC"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
+    "image_banner_9HzRLT",
+    "single_title_and_text_TG7yxE",
+    "image_with_text_jqeyme",
+    "multicolumn_AYjfKe",
     "main",
-    "164975103076740208",
     "165780769577c12393"
   ]
 }
