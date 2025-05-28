@@ -104,31 +104,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "m"
-      }
-    },
-    "main": {
-      "type": "main-article",
-      "blocks": {
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "share"
-      ],
-      "settings": {}
-    },
-    "165780769577c12393": {
-      "type": "simple-button",
-      "settings": {
-        "label": "Back to the Journal",
-        "link": "shopify://blogs/journal",
-        "color_scheme": "dark"
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "multicolumn_AYjfKe": {
@@ -188,7 +165,62 @@
         "gap": "medium",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_pw8aKY": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p>Each tile is meticulously crafted by artisans inthe heart of Tangier, Morocco. <br/>The striking patterns and rich colours reflect Molly's signature fabric designs, infused with the timeless beauty of Moroccan Craftsmanship.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "video_McxFzf": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "logo_white": false,
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": true,
+        "show_controls": true,
+        "html5_video": "https://cdn.shopify.com/videos/c/o/v/882742e819d948cdb38248e4134c202e.mp4",
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "color_scheme": "white_text",
+        "eyedee": ""
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "share"
+      ],
+      "settings": {}
+    },
+    "165780769577c12393": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Back to the Journal",
+        "link": "shopify://blogs/journal",
+        "color_scheme": "dark"
       }
     }
   },
@@ -197,6 +229,8 @@
     "single_title_and_text_TG7yxE",
     "image_with_text_jqeyme",
     "multicolumn_AYjfKe",
+    "single_title_and_text_pw8aKY",
+    "video_McxFzf",
     "main",
     "165780769577c12393"
   ]
