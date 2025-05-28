@@ -86,6 +86,8 @@
         "column_layout": "img_three_text_three",
         "gap": "medium",
         "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -105,7 +107,7 @@
             "auto_height": "portrait",
             "title": "Woodlands Collection",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": "shopify://collections/woodlands"
           }
@@ -118,7 +120,7 @@
             "auto_height": "portrait",
             "title": "Woodlands Lookbook",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": "shopify://blogs/look-books/woodlands-fabric-and-wallpaper-collection"
           }
@@ -188,7 +190,7 @@
             "auto_height": "none",
             "title": "Fabric",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": "shopify://collections/fabric"
           }
@@ -201,7 +203,7 @@
             "auto_height": "none",
             "title": "Wallpaper",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": "shopify://collections/wallpaper"
           }
@@ -214,7 +216,7 @@
             "auto_height": "none",
             "title": "Homewares",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": "shopify://collections/homewares"
           }
@@ -272,6 +274,7 @@
         "autoloop": true,
         "mute_video": true,
         "show_controls": true,
+        "constrain_vid": false,
         "html5_video": "https://cdn.shopify.com/videos/c/o/v/ed1c5b2bc56b442a8e08a590809ed423.mp4",
         "image": "shopify://shop_images/bloom_india_fabrics_1800x1000_f10979bc-8e0c-48ff-ac2a-fd3038e9fa10.jpg",
         "desktop_text_box_position": "end",
@@ -306,7 +309,7 @@
             "auto_height": "portrait",
             "title": "A Yorkshire home renovation",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": "shopify://blogs/look-books/yorkshire-country-home-renovation"
           }
@@ -319,7 +322,7 @@
             "auto_height": "portrait",
             "title": "Trims",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "",
             "button_link": "shopify://collections/trims"
           }
@@ -351,7 +354,7 @@
             "auto_height": "none",
             "title": "Deerhyrst Collection",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": "shopify://collections/deerhyrst-fabric-collection"
           }
@@ -364,7 +367,7 @@
             "auto_height": "portrait",
             "title": "Loom Weave",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": "shopify://collections/loom-weave"
           }
@@ -414,6 +417,8 @@
         "column_layout": "img_three_text_three",
         "gap": "small",
         "text_width": "prose_medium",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
@@ -501,7 +506,7 @@
     "single_title_and_text_aRQeMV": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "Inject new life with our Homeware collections",
+        "title": "Bring New Colour into your Home",
         "text": "",
         "font_type": "body",
         "vertical_alignment": "center",
@@ -579,7 +584,7 @@
             "auto_height": "none",
             "title": "New Woodlands Cushion collection",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": "shopify://collections/woodlands-cushions"
           }
@@ -592,7 +597,7 @@
             "auto_height": "portrait",
             "title": "Lampshades",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": "shopify://collections/lampshades"
           }
@@ -645,7 +650,7 @@
             "auto_height": "portrait",
             "title": "Mosaic Factory x Molly Mahon",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": ""
           }
@@ -658,7 +663,7 @@
             "auto_height": "portrait",
             "title": "Workshops & Events",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": ""
           }
@@ -671,7 +676,7 @@
             "auto_height": "portrait",
             "title": "Journal",
             "text_align": "center",
-            "heading_type": "h2",
+            "heading_size": "s",
             "button_label": "link label",
             "button_link": "shopify://blogs/journal"
           }
