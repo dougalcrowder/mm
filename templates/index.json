@@ -94,7 +94,6 @@
         "buttons_VYr3zL"
       ],
       "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/MM_Molesworth-32.jpg",
         "letterbox": false,
@@ -164,7 +163,6 @@
         "column_GMKGVW",
         "column_KiAKXc"
       ],
-      "name": "Multi Columns",
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -210,9 +208,8 @@
         "column_BAmHPR",
         "column_4GthD6"
       ],
-      "name": "Multi Columns",
       "settings": {
-        "mc_title": "Makers of Luxury Fabrics and Wallpaper",
+        "mc_title": "Makers of Luxury fabric & wallpapers",
         "show_title": true,
         "text_align": "center",
         "title_margin": "l",
@@ -347,7 +344,6 @@
         "column_KqE4HM",
         "column_YN8LYn"
       ],
-      "name": "Multi Columns",
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -409,42 +405,12 @@
             "button_label": "",
             "button_link": "shopify://pages/fabric-mood-boards"
           }
-        },
-        "column_cnnAmH": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/MollyMahon-Curtain-Fern-Indigo_92940063-320b-4e61-9091-5ee5661006bd.jpg",
-            "auto_height": "portrait",
-            "title": "Fabric",
-            "text_align": "center",
-            "heading_type": "h2",
-            "button_label": "link label",
-            "button_link": "shopify://collections/fabric"
-          }
-        },
-        "column_ArxpAW": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/Molly_Mahon_Wallpaper.jpg",
-            "auto_height": "none",
-            "title": "Wallpaper",
-            "text_align": "center",
-            "heading_type": "h2",
-            "button_label": "link label",
-            "button_link": "shopify://collections/wallpaper"
-          }
         }
       },
       "block_order": [
         "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-0",
         "column_7w7E8C",
-        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1",
-        "column_cnnAmH",
-        "column_ArxpAW"
+        "template--14183015972922__20923eed-ecdf-4786-8836-2e8d1d372264-16865754543ed2665b-1"
       ],
       "settings": {
         "mc_title": "Lookbooks",
@@ -459,7 +425,6 @@
     },
     "divider_Jt99xf": {
       "type": "divider",
-      "name": "Divider",
       "settings": {
         "margin_top": "m",
         "margin_bot": "m",
@@ -556,7 +521,6 @@
         "column_jpMfQa",
         "column_WVRmNY"
       ],
-      "name": "Multi Columns",
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -582,10 +546,10 @@
         "column_RzJ6QA": {
           "type": "column",
           "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/MollyMahon-Woodlands-Cushions-Multi-Blinds-Horse-Chestnut-Navy.jpg",
-            "auto_height": "square",
-            "title": "London Craft Week - Edward Bulmar collab",
+            "width": "one_third",
+            "image": "shopify://shop_images/mollymahon_edwardbulmer_workshop6_portrait.jpg",
+            "auto_height": "portrait",
+            "title": "London Craft Week",
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
@@ -595,10 +559,23 @@
         "column_9qEcG8": {
           "type": "column",
           "settings": {
-            "width": "half",
+            "width": "one_third",
             "image": "shopify://shop_images/MollyMahon_Workshops_Printing_Blockprint_Square.jpg",
-            "auto_height": "none",
+            "auto_height": "portrait",
             "title": "Workshops & Events",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_bXDXJB": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Saheli_Women_040_copy.jpg",
+            "auto_height": "none",
+            "title": "Journal",
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
@@ -608,9 +585,9 @@
       },
       "block_order": [
         "column_RzJ6QA",
-        "column_9qEcG8"
+        "column_9qEcG8",
+        "column_bXDXJB"
       ],
-      "name": "Multi Columns",
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -712,7 +689,6 @@
     },
     "divider_4brE4j": {
       "type": "divider",
-      "disabled": true,
       "settings": {
         "margin_top": "l",
         "margin_bot": "l",
@@ -818,6 +794,22 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "simple_quote_Ar9h4L": {
+      "type": "simple_quote",
+      "name": "Simple Quote",
+      "settings": {
+        "quote": "<p>Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work</p>",
+        "cite": "- Cath Kidston MBE",
+        "bg": "none",
+        "heading_size": "medium",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "bg_color_scheme": "none",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
     }
   },
   "order": [
@@ -844,6 +836,7 @@
     "image_with_text_NpFUj6",
     "image_with_text_Va4xdy",
     "main",
-    "16412983447ec23b50"
+    "16412983447ec23b50",
+    "simple_quote_Ar9h4L"
   ]
 }
