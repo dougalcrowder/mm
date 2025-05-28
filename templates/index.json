@@ -161,7 +161,7 @@
         "text_fetT6i"
       ],
       "settings": {
-        "image": "shopify://shop_images/Molly-Mahon-About-Us-2.jpg",
+        "image": "shopify://shop_images/MollyMahon-Woodlands-Cushions-Multi-Blinds-Horse-Chestnut-Navy.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -638,9 +638,9 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/mollymahon_edwardbulmer_workshop6_portrait.jpg",
+            "image": "shopify://shop_images/Mosaic_Factory_x_Molly_Mahon_Mollys_Kitchen_Indian_Red.jpg",
             "auto_height": "portrait",
-            "title": "London Craft Week",
+            "title": "Mosiac Factory x Molly Mahon",
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
