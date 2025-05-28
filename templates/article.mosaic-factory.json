@@ -337,7 +337,7 @@
         "text_VEip4H": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Explore for yourself<br/><strong>Mosaic Factory</strong></p>",
             "code": ""
           }
         }
@@ -347,7 +347,7 @@
         "text_VEip4H"
       ],
       "settings": {
-        "image": "shopify://shop_images/Mosaic_Factory_x_Molly_Mahon_Mollys_Kitchen_Turmeric.jpg",
+        "image": "shopify://shop_images/Mosaic_Factory_x_Molly_Mahon_Cherry_Cake_Rose_PinK_HISTORIA.jpg",
         "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_three_text_three",
