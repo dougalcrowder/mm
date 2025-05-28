@@ -210,8 +210,8 @@
     "single_title_and_text_GAmte8": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "Sustainability",
-        "text": "<p>From the very beginning, we have prioritised eco-conscious decisions, ensuring our materials, processes and production uphold the highest standards of sustainability.  By embracing water-based dyes, responsible sourcing and ethical partnerships, we champion best practices that respect both the craft and the planet.</p><p>At Molly Mahon, we are always looking to the future and constantly seeking the best materials and practices, using responsibly sourced, regeneratively grown fibres like bamboo and aloe in addition to our well sourced cottons and linens. We believe in ethical production methods that support people and the planet.</p>",
+        "title": "Collections",
+        "text": "<p>Shop by collections.  Molly's designs are weaved through the collections she has established over the years to bring textures and colour to sit well together.  And with an eye how these collections can be used together.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -286,6 +286,7 @@
         "heading_6zTxXH",
         "text_aaPLNV"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-13.jpg",
         "aspect_ratio": "portrait",
@@ -435,7 +436,7 @@
         "text_qTdhyh": {
           "type": "text",
           "settings": {
-            "text": "The finishing touches to every room",
+            "text": "The finishing touches for every room",
             "go_serif": false,
             "constrain_text": false
           }
