@@ -120,7 +120,7 @@
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
-            "button_link": ""
+            "button_link": "shopify://blogs/look-books/woodlands-fabric-and-wallpaper-collection"
           }
         }
       },
@@ -201,7 +201,7 @@
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "link label",
-            "button_link": ""
+            "button_link": "shopify://collections/wallpaper"
           }
         },
         "column_KiAKXc": {
@@ -468,7 +468,7 @@
             "text_align": "center",
             "heading_type": "h2",
             "button_label": "",
-            "button_link": "shopify://pages/fabric-mood-boards"
+            "button_link": ""
           }
         }
       },
@@ -523,12 +523,13 @@
           "type": "text",
           "settings": {
             "text": "The finishing touches for every room",
-            "go_serif": false,
+            "go_serif": true,
             "constrain_text": false
           }
         },
         "buttons_iUAyEz": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Homewares",
             "button_link_1": "shopify://collections/homewares",
