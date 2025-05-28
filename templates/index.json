@@ -125,9 +125,9 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Molly-Mahon-About-Us-2.jpg",
-        "aspect_ratio": "portrait",
+        "aspect_ratio": "none",
         "width": true,
-        "column_layout": "img_two_text_four",
+        "column_layout": "img_three_text_three",
         "gap": "medium",
         "text_width": "prose_medium",
         "color_scheme": "dark_text",
@@ -461,7 +461,6 @@
     },
     "single_title_and_text_aRQeMV": {
       "type": "single-title_and_text",
-      "name": "Title and Text",
       "settings": {
         "title": "Inject new life with our Homeware collections",
         "text": "",
@@ -683,10 +682,9 @@
         "heading_CUAGJ3",
         "text_cCjdmT"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/gravetye-2018-31.jpg",
-        "aspect_ratio": "landscape",
+        "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_6bf77aff-5412-475e-9a79-b6b48f5f34de.jpg",
+        "aspect_ratio": "portrait",
         "width": true,
         "column_layout": "img_three_text_three",
         "gap": "medium",
@@ -694,7 +692,7 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first",
+        "layout": "image_first",
         "margin_top": "xl",
         "margin_bot": "l"
       }
@@ -750,7 +748,6 @@
     },
     "simple_quote_Ar9h4L": {
       "type": "simple_quote",
-      "name": "Simple Quote",
       "settings": {
         "quote": "<p>Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work</p>",
         "cite": "- Cath Kidston MBE",
