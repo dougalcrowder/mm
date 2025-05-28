@@ -57,6 +57,43 @@
         "margin_bot": "none"
       }
     },
+    "image_with_text_NpFUj6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CUAGJ3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Workshops"
+          }
+        },
+        "text_cCjdmT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Molly’s block print workshops are designed to be an inspiring, fun and hands on experience where creativity flows freely.  These sessions offer participants the opportunity to learn the ancient art of block printing in a warm, welcoming and inspiring environment.  You’ll not only leave with a beautiful, handmade piece of art, but also a sense of pride in the process and techniques you’ve learned.  </p><p>Whether you’re a beginner or an experienced maker, the workshops are structured to encourage creativity and provide personalised guidance from Molly. Expect to gain new skills, meet like-minded people and walk away with a unique piece that reflects your artistic journey.  We promise an unforgettable experience that connects tradition with your personal creative journey.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CUAGJ3",
+        "text_cCjdmT"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_6bf77aff-5412-475e-9a79-b6b48f5f34de.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "medium",
+        "text_width": "prose",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "l"
+      }
+    },
     "multicolumn_pHNVx4": {
       "type": "multicolumn",
       "blocks": {
@@ -661,42 +698,6 @@
         "hr": true
       }
     },
-    "image_with_text_NpFUj6": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_CUAGJ3": {
-          "type": "heading",
-          "settings": {
-            "heading": "Workshops"
-          }
-        },
-        "text_cCjdmT": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Molly’s block print workshops are designed to be an inspiring, fun and hands on experience where creativity flows freely.  These sessions offer participants the opportunity to learn the ancient art of block printing in a warm, welcoming and inspiring environment.  You’ll not only leave with a beautiful, handmade piece of art, but also a sense of pride in the process and techniques you’ve learned.  </p><p>Whether you’re a beginner or an experienced maker, the workshops are structured to encourage creativity and provide personalised guidance from Molly. Expect to gain new skills, meet like-minded people and walk away with a unique piece that reflects your artistic journey.  We promise an unforgettable experience that connects tradition with your personal creative journey.</p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_CUAGJ3",
-        "text_cCjdmT"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_6bf77aff-5412-475e-9a79-b6b48f5f34de.jpg",
-        "aspect_ratio": "portrait",
-        "width": true,
-        "column_layout": "img_three_text_three",
-        "gap": "medium",
-        "text_width": "prose",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "xl",
-        "margin_bot": "l"
-      }
-    },
     "image_with_text_Va4xdy": {
       "type": "image-with-text",
       "blocks": {
@@ -765,6 +766,7 @@
   "order": [
     "image_banner_JTwYUc",
     "single_title_and_text_VcQckG",
+    "image_with_text_NpFUj6",
     "multicolumn_pHNVx4",
     "image_with_text_CC4PWC",
     "multicolumn_7TKhTL",
@@ -783,7 +785,6 @@
     "single_title_and_text_CTJFt9",
     "multicolumn_pVyheh",
     "divider_4brE4j",
-    "image_with_text_NpFUj6",
     "image_with_text_Va4xdy",
     "main",
     "16412983447ec23b50",
