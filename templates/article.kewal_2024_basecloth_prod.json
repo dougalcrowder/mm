@@ -19,6 +19,7 @@
       "blocks": {
         "heading_DDFaJH": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "WOODLANDS",
             "heading_type": "header1"
@@ -29,9 +30,8 @@
         "heading_DDFaJH"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-01-Blog-Image.jpg",
+        "image": "shopify://shop_images/mollymahon_kewal_basecloth_production_landscape_1.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-02-Blog-Image.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": false,
@@ -52,8 +52,8 @@
     "single_title_and_text_6RPnYK": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "A new collection rooted in Home",
-        "text": "",
+        "title": "New Base Cloths.  New Craftmanship",
+        "text": "<p>The new Woodlands and loom collections presented us with new base cloths that felt super luxury to touch and we venture on bringing materials like bamboo into the base cloths.  This presents a new structure and with our partners in India we worked hard to bring all the skill of hand to eye to the centre of this collection.  This is Indian craftsmanship at its best and we our proud that this is at the heart of what we do.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -77,7 +77,7 @@
         "text_GCWCtf"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Sofa-Ashdown-Navy-Cushions-Ashdown-Cool-Blue-Lampshades-Flirty-Skirt-Indian-Leaf-Copper-Blue-01_5bff0496-aaa1-4799-baed-4d84760a04ce.jpg",
+        "image": "shopify://shop_images/mollymahon_kewal24_production_basecloth_herringbone_portrait.jpg",
         "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_three_text_three",
@@ -121,7 +121,7 @@
         "text_ALW8CY"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Chair-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-Cushion-Indian-Leaf-Pink-Copper-01_021d7ab4-9433-473a-aa79-0454992c36d9.jpg",
+        "image": "shopify://shop_images/mollymahon_kewal24_production_loom_weave_basecloth_threads_landscape.jpg",
         "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_four_text_two",
@@ -140,7 +140,7 @@
     "image_banner_Y8TDrt": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
+        "image": "shopify://shop_images/mollymahon_kewal24_production_loom_weave_basecloth_landscape.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk_b37cb45f-66b6-48cf-b44d-87622497419e.jpg",
         "respect_image": false,
