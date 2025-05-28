@@ -129,13 +129,13 @@
         "column_4GthD6"
       ],
       "settings": {
-        "mc_title": "Makers of Luxury fabric & wallpapers",
+        "mc_title": "Woodlands Collection",
         "show_title": false,
         "text_align": "center",
         "title_margin": "l",
         "gap": "large",
         "border": false,
-        "margin_top": "l",
+        "margin_top": "none",
         "margin_bot": "l"
       }
     },
