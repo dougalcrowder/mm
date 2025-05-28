@@ -200,13 +200,13 @@
         "heading_iHeAfw": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": ""
           }
         },
         "text_LEVPGT": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>This collabration has culminated in six design, each on with its own charm and magic.</p><p>Our Iconic Luna design, which has already brought so much joy to many, in Dahlia and Aqua.</p><p>Mollys beautiful Stars pattern in Midnight Blue</p>",
             "code": ""
           }
         }
@@ -236,13 +236,13 @@
         "heading_96xAkp": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": ""
           }
         },
         "text_xpeJnJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Mollys own \"Molly's Kitchen\" design in Turmeric and Indian Red.</p><p>And the whimsical Cherry Cake design in Rose Pink.</p>",
             "code": ""
           }
         }
@@ -337,7 +337,7 @@
         "text_VEip4H": {
           "type": "text",
           "settings": {
-            "text": "<p>Explore for yourself<br/><a href=\"https://cement-tiles.com/uk-collection-encaustic-cement-tiles/?collection=Molly%20Mahon\" target=\"_blank\" title=\"https://cement-tiles.com/uk-collection-encaustic-cement-tiles/?collection=Molly%20Mahon\"><strong>Mosaic Factory</strong></a></p>",
+            "text": "<h2>Explore the Collection:<br/><a href=\"https://cement-tiles.com/uk-collection-encaustic-cement-tiles/?collection=Molly%20Mahon\" target=\"_blank\" title=\"https://cement-tiles.com/uk-collection-encaustic-cement-tiles/?collection=Molly%20Mahon\"><strong>Mosaic Factory</strong></a></h2>",
             "code": ""
           }
         }
