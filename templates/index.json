@@ -57,6 +57,51 @@
         "margin_bot": "none"
       }
     },
+    "multicolumn_pHNVx4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BAmHPR": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_6bf77aff-5412-475e-9a79-b6b48f5f34de.jpg",
+            "auto_height": "portrait",
+            "title": "Woodlands Collection",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "link label",
+            "button_link": "shopify://collections/woodlands"
+          }
+        },
+        "column_4GthD6": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon-Block-Carving-Ashdown.jpg",
+            "auto_height": "portrait",
+            "title": "Quality Craftsmanship",
+            "text_align": "center",
+            "heading_type": "h2",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_BAmHPR",
+        "column_4GthD6"
+      ],
+      "settings": {
+        "mc_title": "Makers of Luxury fabric & wallpapers",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "large",
+        "border": false,
+        "margin_top": "l",
+        "margin_bot": "l"
+      }
+    },
     "multicolumn_7TKhTL": {
       "type": "multicolumn",
       "blocks": {
@@ -114,51 +159,6 @@
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
-      }
-    },
-    "multicolumn_pHNVx4": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_BAmHPR": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_6bf77aff-5412-475e-9a79-b6b48f5f34de.jpg",
-            "auto_height": "portrait",
-            "title": "Woodlands Collection",
-            "text_align": "center",
-            "heading_type": "h2",
-            "button_label": "link label",
-            "button_link": "shopify://collections/woodlands"
-          }
-        },
-        "column_4GthD6": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/MollyMahon-Block-Carving-Ashdown.jpg",
-            "auto_height": "portrait",
-            "title": "Quality Craftsmanship",
-            "text_align": "center",
-            "heading_type": "h2",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_BAmHPR",
-        "column_4GthD6"
-      ],
-      "settings": {
-        "mc_title": "Makers of Luxury fabric & wallpapers",
-        "show_title": true,
-        "text_align": "center",
-        "title_margin": "l",
-        "gap": "large",
-        "border": false,
-        "margin_top": "l",
-        "margin_bot": "l"
       }
     },
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
