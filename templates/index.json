@@ -477,13 +477,13 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Block-Carving-Ashdown.jpg",
+            "image": "shopify://shop_images/Molly-Mahon-Moodboards.jpg",
             "auto_height": "square",
-            "title": "Craftsmanship",
+            "title": "Customer Service",
             "text_align": "center",
             "heading_size": "xl",
             "button_label": "",
-            "button_link": ""
+            "button_link": "shopify://pages/services"
           }
         }
       },
