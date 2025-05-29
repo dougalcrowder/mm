@@ -116,9 +116,9 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/MollyMahon-Sofa-Ashdown-Navy-Cushions-Ashdown-Cool-Blue-Lampshades-Flirty-Skirt-Indian-Leaf-Copper-Blue-01_5bff0496-aaa1-4799-baed-4d84760a04ce.jpg",
+            "image": "shopify://shop_images/MollyMahon-Block-Carving-Ashdown.jpg",
             "auto_height": "portrait",
-            "title": "Woodlands Lookbook",
+            "title": "Craftsmanship",
             "text_align": "center",
             "heading_size": "s",
             "button_label": "link label",
@@ -156,11 +156,19 @@
             "text": "<p>A new chapter in the Molly Mahon journey, where the essence of nature meets the artistry of tradition.<br/>Inspired by the enchanting beauty of the Ahdown Forest where Molly lives, this range captures the soul of the British countryside, bringing its vibrant flora into the home.</p>",
             "code": ""
           }
+        },
+        "button_c4P6ej": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Woodlands Collection",
+            "button_link": "shopify://collections/woodlands"
+          }
         }
       },
       "block_order": [
         "heading_TwFkBg",
-        "text_fetT6i"
+        "text_fetT6i",
+        "button_c4P6ej"
       ],
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Woodlands-Cushions-Multi-Blinds-Horse-Chestnut-Navy.jpg",
