@@ -55,7 +55,7 @@
         "text_GCWCtf": {
           "type": "text",
           "settings": {
-            "text": "<p>Introducing the <strong>Woodlands</strong> collection, where the beauty of nature meets the art of traditional craftsmanship. Inspired by the enchanting Ashdown Forest, this range brings the warmth and wonder of the British countryside into your home through rich colours and organic patterns.<br/><br/><a href=\"/collections/woodlands\" title=\"Woodlands\">Click here to browse collection.</a></p>",
+            "text": "<p>At Molly Mahon, we are always looking to the future and constantly seeking the best materials and practices, using responsibly sourced, regeneratively grown fibres like bamboo and aloe in addition to our well sourced cottons and linens. We believe in ethical production methods that support people and the planet.</p>",
             "code": ""
           }
         }
@@ -114,7 +114,6 @@
         "column_nhCcpc",
         "column_MEXJFF"
       ],
-      "name": "Multi Columns",
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -167,10 +166,9 @@
     },
     "single_title_and_text_PffbeF": {
       "type": "single-title_and_text",
-      "name": "Title and Text",
       "settings": {
-        "title": "Outstanding prints",
-        "text": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
+        "title": "Master Block printer 5th generation",
+        "text": "<p>We are lucky to work with one of the oldest generational families still carving blocks for our designs. </p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -185,13 +183,13 @@
         "heading_hyUMUW": {
           "type": "heading",
           "settings": {
-            "heading": "Foxglove"
+            "heading": "Ashdown Design"
           }
         },
         "text_P4QJab": {
           "type": "text",
           "settings": {
-            "text": "<p>A beautiful rendition of the classic wildflower, a genus that has many different species. This block print features a variety found commonly in the forest where Molly lives and mythically worn by the foxes who make their dens in the woodland hills. <br/><br/><em>Hand block printed on Molly Mahon’s new</em> <em>30% Bamboo and 70% Cotton herringbone woven cloth in Lilac.</em></p>",
+            "text": "<p>Carving is an intricate skill.  It is an art form that brings our designs to life with the placing of the block loaded with paint to the base cloth.  </p>",
             "code": ""
           }
         }
@@ -215,6 +213,92 @@
         "layout": "text_first",
         "margin_top": "none",
         "margin_bot": "xl"
+      }
+    },
+    "multicolumn_p7j784": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6HeQRP": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/mollymahon_kewal24_colour_weighing_portrait.jpg",
+            "auto_height": "portrait",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_6yV3pE": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/mollymahon_kewal24_colour_mixing_bowl_portrait.jpg",
+            "auto_height": "portrait",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_6HeQRP",
+        "column_6yV3pE"
+      ],
+      "disabled": true,
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_xJUKCT": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ifqp8c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our secret measurements"
+          }
+        },
+        "text_9m4MGr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Water based colour mixing by eye is a skill we work within a 5% tolerance in matching repeat designs.  The woodlands collections brings a few new colours to Molly Mahon designs.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ifqp8c",
+        "text_9m4MGr"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/mollymahon_kewal24_colour_mixing_bowl_portrait.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "multicolumn_jxkYq6": {
@@ -251,7 +335,6 @@
         "column_hqWMKq",
         "column_YfVBzf"
       ],
-      "name": "Multi Columns",
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -265,7 +348,6 @@
     },
     "product_grid_6xt8Um": {
       "type": "product-grid",
-      "name": "Product Grid",
       "settings": {
         "product_list": [
           "foxglove-hand-block-printed-herringbone-lilac",
@@ -323,7 +405,6 @@
         "column_M8VqQR",
         "column_4xwc4c"
       ],
-      "name": "Multi Columns",
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -337,7 +418,6 @@
     },
     "featured_collection_HkDQqJ": {
       "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Woodlands collection",
         "collection": "woodlands",
@@ -387,14 +467,59 @@
     },
     "single_title_and_text_GCYMXp": {
       "type": "single-title_and_text",
-      "name": "Title and Text",
       "settings": {
         "title": "Loom Weaves",
-        "text": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
+        "text": "<p>Brings not only a new base cloth, cotton weaved with jute, it also brings all of Molly Mahon's colours into one design.  Allowing you bring all of our collections together by linking this design into your scheme</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_xBVUJE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hYCp3m": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/8588CA75-ED8F-46C8-87F6-9A5F1FE5FEBF.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_wxw7EY": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/mollymahon_kewal24_thread_dying_portrait.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hYCp3m",
+        "column_wxw7EY"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
         "margin_top": "none",
         "margin_bot": "m"
       }
@@ -405,7 +530,7 @@
         "text_ALW8CY": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Woodlands</strong> represents our most sustainable endeavour yet, a reflection of the brand’s commitment to responsible craftsmanship. From the very essence of the yarn to the final fabric, every decision has been made with intention and care. </p>",
+            "text": "<p>Preparation is everything.  Thread turning into the cloth.</p>",
             "code": ""
           }
         }
@@ -556,7 +681,6 @@
     },
     "single_title_and_text_GUVRHY": {
       "type": "single-title_and_text",
-      "name": "Title and Text",
       "settings": {
         "title": "Highly skilled",
         "text": "<p>We value the artisan craftsmanship that goes into every step of our production.  Here are partners in India produce the very thread, weave the very base cloth, carve the  designs from Molly Mahon into block printing wooden blocks, mix the colour, block print the base cloth all by hand.  It is art at every step of the production.  It is an artistry that has stood the test of time.  It produces a truly unique product, full of human touch.</p>",
@@ -570,7 +694,6 @@
     },
     "image_banner_VpK8iN": {
       "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/mollymahon_kewal24_production_team_landscape.jpg",
         "letterbox": true,
@@ -601,12 +724,15 @@
     "image_with_text_MYG6LM",
     "single_title_and_text_PffbeF",
     "image_with_text_ALDiyp",
+    "multicolumn_p7j784",
+    "image_with_text_xJUKCT",
     "multicolumn_jxkYq6",
     "product_grid_6xt8Um",
     "multicolumn_bREVi6",
     "featured_collection_HkDQqJ",
     "image_with_text_yF7Lye",
     "single_title_and_text_GCYMXp",
+    "multicolumn_xBVUJE",
     "image_with_text_eBYHrB",
     "image_banner_Y8TDrt",
     "image_with_text_7pJG33",
