@@ -239,7 +239,7 @@
             "width": "two_thirds",
             "image": "shopify://shop_images/mollymahon_kewal24_production_wood_block_printing_foxglove_square.jpg",
             "auto_height": "landscape",
-            "title": "Column",
+            "title": "",
             "text_align": "center",
             "heading_size": "s",
             "button_label": "link label",
@@ -352,7 +352,7 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "Featured collection",
+        "title": "Woodlands collection",
         "collection": "woodlands",
         "button_color": "seasonal",
         "products_to_show": 4,
@@ -394,8 +394,22 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
+        "margin_top": "s",
+        "margin_bot": "sm"
+      }
+    },
+    "single_title_and_text_GCYMXp": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Loom Weaves",
+        "text": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
       }
     },
     "image_with_text_eBYHrB": {
@@ -620,19 +634,6 @@
             "button_link": ""
           }
         },
-        "column_Pqf9yH": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-02.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        },
         "column_6WkHiA": {
           "type": "column",
           "settings": {
@@ -649,7 +650,6 @@
       },
       "block_order": [
         "column_idqN9G",
-        "column_Pqf9yH",
         "column_6WkHiA"
       ],
       "settings": {
@@ -812,8 +812,8 @@
     "164975103076740208": {
       "type": "featured-collection",
       "settings": {
-        "title": "Woodlands",
-        "collection": "woodlands",
+        "title": "Loom weave collection",
+        "collection": "loom-weave",
         "button_color": "dark",
         "products_to_show": 12,
         "show_view_all": true,
@@ -843,6 +843,7 @@
     "multicolumn_bREVi6",
     "featured_collection_HkDQqJ",
     "image_with_text_yF7Lye",
+    "single_title_and_text_GCYMXp",
     "image_with_text_eBYHrB",
     "image_banner_Y8TDrt",
     "image_with_text_7pJG33",
