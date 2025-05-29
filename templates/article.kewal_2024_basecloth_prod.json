@@ -16,19 +16,6 @@
     },
     "image_banner_EXfAV6": {
       "type": "image-banner",
-      "blocks": {
-        "heading_DDFaJH": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "WOODLANDS",
-            "heading_type": "header1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_DDFaJH"
-      ],
       "settings": {
         "image": "shopify://shop_images/mollymahon_kewal_basecloth_production_landscape_1.jpg",
         "letterbox": false,
@@ -553,260 +540,7 @@
         "gap": "medium",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_Dazw38": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_UW7qCa": {
-          "type": "text",
-          "settings": {
-            "text": "<h4><em>In a quiet grove where whispers sing, <br/>A seed of thought begins to spring, <br/>From verdant dreams where wild things grow, <br/>To fabrics that in daylight glow.<br/><br/>With gentle hands, the blocks are pressed, <br/>Each stroke, a tale of nature's best, <br/>The woodland whispers, leaf and vine, <br/>In every print, the forests shine.<br/><br/>The wild orchids, colours bright,<br/>In dappled shade, a pure delight,<br/>Primroses and flowers small,<br/>Adorn the forest floor for all.</em></h4>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_UW7qCa"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-Blinds-Sycamore-Olive-Green-Chair-Woodland-Sprig-Green-02.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_four_text_two",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_Xb393B": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_8VRxPX": {
-          "type": "text",
-          "settings": {
-            "text": "<h4><em>The oak’s embrace, the pine’s sweet kiss,<br/>In patterns formed of purest bliss,<br/>Bringing forth the outside in,<br/>A dance of wood, of bark, of kin.<br/><br/>The ferns unfurl, the flowers bloom,<br/>Their colours chase away the gloom,<br/>Each room a garden, wild and free,<br/>A tribute to the earth and tree.<br/><br/>In every thread, a story told,<br/>Of ancient woods and roots so old<br/>A tapestry where dreams reside,<br/>Of forest depths, where secrets hide.</em></h4>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_8VRxPX"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Cushions-Horse-Chestnut-Pnk-Noodle-Trailing-Acorn-Brown-01_eef3321a-588e-4adc-8336-b80f11ca7a52.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "multicolumn_MhLzeC": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_idqN9G": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Woodlands-Foxglove.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        },
-        "column_6WkHiA": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Woodlands-Ashdown-Forest.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_idqN9G",
-        "column_6WkHiA"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "text_align": "center",
-        "title_margin": "l",
-        "gap": "medium",
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_DGb8r8": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_aihEqY": {
-          "type": "text",
-          "settings": {
-            "text": "<h4><em>For in our homes, the wild shall rest,<br/>An homage to the nature blessed,<br/>With every print, a promise sown,<br/>Of woodland wonders, ever grown.<br/><br/>So let the seed of thought take flight,<br/>In patterns born of pure delight,<br/>Celebrate the green, the wild, the grand,<br/>And bring the outside in, by hand.</em></h4>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_aihEqY"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-Bath-Wallpaper-Trailing-Acorn-Olive-Curtains-Trailing-Acorn-Olive-Paravent-Ashdown-Cool-Blue-Blinds-Leafy-Trellis-Green-Chair-Woodland-Sprig-Green-01_928680be-cee6-41b3-a6da-c9c84127b968.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_four_text_two",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "multicolumn_wJpDb4": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_PMGUDA": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/MollyMahon_Woodlands_Alun-Callendar_2025-02-13_029_6de84504-a45a-4537-88bf-45c60fc0e9af.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Woodlands",
-            "button_link": "shopify://collections/woodlands"
-          }
-        },
-        "column_UptqBt": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/MollyMahon_Woodlands_Alun-Callendar_2025-02-13_022_74aa8404-ae27-4c8b-b3b9-d71b39a7d9dc.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Ashdown",
-            "button_link": "shopify://products/ashdown-hand-block-printed-cool-blue"
-          }
-        },
-        "column_VQUnmN": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/MollyMahon-Chair-Woodland-Sprig-Green-01_38bc86ad-ffdd-4839-90a0-dac23bf1eec6.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Woodland Sprig",
-            "button_link": "shopify://products/woodland-sprig-hand-block-printed-green"
-          }
-        },
-        "column_JfAFbC": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/20241121MM18032-copy_d589803b-c7ab-4138-8068-176ce4d04c64.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        },
-        "column_Mz9wX4": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Wallpaper-Ashdown-Cool-Blue_b3f37349-ecdf-4e3f-95cf-ae4c0313c4ca.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Ashdown",
-            "button_link": "shopify://products/ashdown-wallpaper-cool-blue"
-          }
-        },
-        "column_VLw3NN": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Wallpaper-Trailing-Acorn-Olive_cc869266-6704-4587-b273-096013da2846.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Trailing Acorn",
-            "button_link": "shopify://products/trailing-acorn-wallpaper-olive"
-          }
-        },
-        "column_GU837a": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Wallpaper-Trailing-Acorn-Sky-Blue_4d12274c-e9f1-443f-a192-466992a0a1bc.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Trailing Acorn",
-            "button_link": "shopify://products/ashdown-wallpaper-cool-blue-copy"
-          }
-        }
-      },
-      "block_order": [
-        "column_PMGUDA",
-        "column_UptqBt",
-        "column_VQUnmN",
-        "column_JfAFbC",
-        "column_Mz9wX4",
-        "column_VLw3NN",
-        "column_GU837a"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "text_align": "center",
-        "title_margin": "l",
-        "gap": "medium",
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "none"
       }
     },
     "164975103076740208": {
@@ -820,12 +554,41 @@
         "show_secondary_image": false
       }
     },
-    "165780769577c12393": {
-      "type": "simple-button",
+    "single_title_and_text_GUVRHY": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
       "settings": {
-        "label": "Back to the Journal",
-        "link": "shopify://blogs/journal",
-        "color_scheme": "dark"
+        "title": "Highly skilled",
+        "text": "<p>We value the artisan craftsmanship that goes into every step of our production.  Here are partners in India produce the very thread, weave the very base cloth, carve the  designs from Molly Mahon into block printing wooden blocks, mix the colour, block print the base cloth all by hand.  It is art at every step of the production.  It is an artistry that has stood the test of time.  It produces a truly unique product, full of human touch.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_banner_VpK8iN": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/mollymahon_kewal24_production_team_landscape.jpg",
+        "letterbox": true,
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     }
   },
@@ -848,12 +611,8 @@
     "image_banner_Y8TDrt",
     "image_with_text_7pJG33",
     "multicolumn_LPwHf9",
-    "image_with_text_Dazw38",
-    "image_with_text_Xb393B",
-    "multicolumn_MhLzeC",
-    "image_with_text_DGb8r8",
-    "multicolumn_wJpDb4",
     "164975103076740208",
-    "165780769577c12393"
+    "single_title_and_text_GUVRHY",
+    "image_banner_VpK8iN"
   ]
 }
