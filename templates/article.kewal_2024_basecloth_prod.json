@@ -93,17 +93,309 @@
         "margin_bot": "m"
       }
     },
-    "single_title_and_text_fC3pVB": {
-      "type": "single-title_and_text",
+    "multicolumn_gRPdcc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nhCcpc": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/mollymahon_kewal24_production_basecloth_weaving_4_portrait.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_MEXJFF": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/mollymahon_kewal24_production_basecloth_weaving_2_portrait.jpg",
+            "auto_height": "portrait",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_nhCcpc",
+        "column_MEXJFF"
+      ],
+      "name": "Multi Columns",
       "settings": {
-        "title": "",
-        "text": "<p>Designed to evoke a feeling of calm, connection and joy, <strong>Woodlands</strong> invites you to embrace the beauty of nature in your everyday life.<br/>This whole collection offers a plethora of cloth weights, which is so key to versatile options, whether draping a window or upholstering a favourite chair.</p>",
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_MYG6LM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Rhxe9a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ashdown"
+          }
+        },
+        "text_YxinGJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Named in celebration of the beautiful woodlands where Molly lives and works, this decorative block print features a detail of the curling, fiddlehead fern, which unfurls across the cloth in a delightfully delicate manner.<br/><br/><em>Hand block printed on Molly Mahon’s new 50% Bamboo, 25% Linen and 25% Cotton cloth in six colourways:</em></p><p><em>Khaki, Rust, Pink, Navy, Chartreuse and Cool Blue.</em></p><p><em>Also available as wallpaper in Sky Blue.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Rhxe9a",
+        "text_YxinGJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/mollymahon_kewal24_production_basecloth_thread1_portrait.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "xl"
+      }
+    },
+    "single_title_and_text_PffbeF": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Outstanding prints",
+        "text": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text",
         "margin_top": "none",
-        "margin_bot": "none"
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_ALDiyp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hyUMUW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Foxglove"
+          }
+        },
+        "text_P4QJab": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A beautiful rendition of the classic wildflower, a genus that has many different species. This block print features a variety found commonly in the forest where Molly lives and mythically worn by the foxes who make their dens in the woodland hills. <br/><br/><em>Hand block printed on Molly Mahon’s new</em> <em>30% Bamboo and 70% Cotton herringbone woven cloth in Lilac.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_hyUMUW",
+        "text_P4QJab"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/mollymahon_kewal24_production_woodblock_carving_1_portrait.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "xl"
+      }
+    },
+    "multicolumn_jxkYq6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hqWMKq": {
+          "type": "column",
+          "settings": {
+            "width": "two_thirds",
+            "image": "shopify://shop_images/mollymahon_kewal24_production_wood_block_printing_foxglove_square.jpg",
+            "auto_height": "landscape",
+            "title": "Column",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_YfVBzf": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/mollymahon_kewal24_production_wood_block_printing_foxglove_portrait.jpg",
+            "auto_height": "portrait",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hqWMKq",
+        "column_YfVBzf"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "product_grid_6xt8Um": {
+      "type": "product-grid",
+      "name": "Product Grid",
+      "settings": {
+        "product_list": [
+          "foxglove-hand-block-printed-herringbone-lilac",
+          "hand-block-printed-foxglove-cushion"
+        ],
+        "show_secondary_image": true,
+        "centred": false
+      }
+    },
+    "multicolumn_bREVi6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4W8bhH": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/mollymahon_kewal24_production_wood_block_printing_sycamore_portrait.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_M8VqQR": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/mollymahon_kewal24_production_wood_block_printing_sycamore_1_portrait.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_4xwc4c": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/mollymahon_kewal24_production_wood_block_printing_leafytrellis_portrait.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4W8bhH",
+        "column_M8VqQR",
+        "column_4xwc4c"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "s"
+      }
+    },
+    "featured_collection_HkDQqJ": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "woodlands",
+        "button_color": "seasonal",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
+    "image_with_text_yF7Lye": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8g3UyT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Forest Flowers"
+          }
+        },
+        "text_zRrRmJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An open repeat of little abstract flowers that Molly finds in and around the forest. Evocative of the carpet of flor that springs to life as winter ends with its sprigs of spring flowers. <br/><br/><em>Hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in Multicolour.</em></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_8g3UyT",
+        "text_zRrRmJ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_6bf77aff-5412-475e-9a79-b6b48f5f34de.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "xl"
       }
     },
     "image_with_text_eBYHrB": {
@@ -175,7 +467,7 @@
         "text_jM7pzw"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Woodlands-Fabrics-Image.jpg",
+        "image": "shopify://shop_images/Mosaic_Factory_x_Molly_Mahon_Mollys_Kitchen_Indian_Red.jpg",
         "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_four_text_two",
@@ -198,7 +490,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Curtain-Poppy-Mustard-Sky-Chair-Indian-Leaf-Copper-Blue-01.jpg",
+            "image": "shopify://shop_images/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_11_1300x1300_505ad835-caf9-4da8-b526-2003316fdea3.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -211,8 +503,8 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-01.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/mollymahon_trim_tape_odisha_1000x1333_a5132386-8592-4618-a3fc-55a7f85452f2.jpg",
+            "auto_height": "square",
             "title": "",
             "text_align": "center",
             "heading_size": "s",
@@ -224,7 +516,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_267c96f4-4dee-422e-91d1-7590e070b59c.jpg",
+            "image": "shopify://shop_images/MollyMahon_Cushion_CottonTape_OdishaStripeTrim_Multicolour_16_1300x1300_b90fe741-f39c-496c-9189-9df3e9e57c1e.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -517,348 +809,6 @@
         "margin_bot": "xl"
       }
     },
-    "image_with_text_MYG6LM": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Rhxe9a": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ashdown"
-          }
-        },
-        "text_YxinGJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Named in celebration of the beautiful woodlands where Molly lives and works, this decorative block print features a detail of the curling, fiddlehead fern, which unfurls across the cloth in a delightfully delicate manner.<br/><br/><em>Hand block printed on Molly Mahon’s new 50% Bamboo, 25% Linen and 25% Cotton cloth in six colourways:</em></p><p><em>Khaki, Rust, Pink, Navy, Chartreuse and Cool Blue.</em></p><p><em>Also available as wallpaper in Sky Blue.</em></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_Rhxe9a",
-        "text_YxinGJ"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Woodlands_Ashdown_Colourways.png",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_two_text_four",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_yF7Lye": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_8g3UyT": {
-          "type": "heading",
-          "settings": {
-            "heading": "Forest Flowers"
-          }
-        },
-        "text_zRrRmJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>An open repeat of little abstract flowers that Molly finds in and around the forest. Evocative of the carpet of flor that springs to life as winter ends with its sprigs of spring flowers. <br/><br/><em>Hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in Multicolour.</em></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_8g3UyT",
-        "text_zRrRmJ"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon_ForestFlowers_Multi_Bamboo30-Cotton70_Herringbone_2_84e0e199-4f9c-4b64-9e01-dcb663aefea2.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_f7Fq8j": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_nCQpmk": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sycamore"
-          }
-        },
-        "text_TPtLnq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>An homage to immortalise the magnificent and symbolic tree which sat alongside Hadrian’s Wall for centuries. This block print is directly inspired by a memory Molly has of the day she visited Sycamore Gap with her daughter when the tree stood proud against a crisp, blue sky. Featuring a block printed sycamore set amongst rolling hills.</p><p><em>Hand block printed on Molly Mahon’s new 50% Bamboo, 25% Linen and 25% Cotton cloth in three colourways:<br/><br/> Olive-Green, Blue-Green and Blue.</em></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_nCQpmk",
-        "text_TPtLnq"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Woodlands_Sycamore_Colourways.png",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_two_text_four",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_mNNEaC": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_wdrfYN": {
-          "type": "heading",
-          "settings": {
-            "heading": "Woodland Sprig"
-          }
-        },
-        "text_Q7TP3p": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A leafy pattern created by Molly as a study of the leaves of the Ash Tree, depicting the canopy of foliage overhead in the forest that creates the many dappled reflections on the forest floor. <br/><br/><em>Hand block printed on Molly Mahon’s new Bamboo 50% Linen 25% & 25% Cotton cloth in Green.</em></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_wdrfYN",
-        "text_Q7TP3p"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon_WoodlandSprig_Green_Bamboo50-Cotton25-Linen25_Plain5_c5a7d890-46fa-4c94-8bf1-6d74bd0b09fd.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_Yg8nm6": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_hnGfhp": {
-          "type": "heading",
-          "settings": {
-            "heading": "Trailing Acorn"
-          }
-        },
-        "text_tmxQFn": {
-          "type": "text",
-          "settings": {
-            "text": "<p>This elegant design delivers trailing leaves that capture the classic, English oak leaf relief, an extension to the original Molly Mahon ‘Oak’ pattern. A symbol of strength and wisdom the magnificent oak holds extra special meaning to Molly, being the tree whose boughs she stood beneath when she married Rollo. <br/><br/><em>Hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in two colourways of Brown and Sky Blue and hand block printed on plain 50% Bamboo, 25% Cotton, 25% Linen cloth in Olive.</em></p><p><em>Also available as wallpaper in Olive and Sky Blue.</em></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_hnGfhp",
-        "text_tmxQFn"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Trailing_Acorn_Colourways.png",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_two_text_four",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_ALDiyp": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_hyUMUW": {
-          "type": "heading",
-          "settings": {
-            "heading": "Foxglove"
-          }
-        },
-        "text_P4QJab": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A beautiful rendition of the classic wildflower, a genus that has many different species. This block print features a variety found commonly in the forest where Molly lives and mythically worn by the foxes who make their dens in the woodland hills. <br/><br/><em>Hand block printed on Molly Mahon’s new</em> <em>30% Bamboo and 70% Cotton herringbone woven cloth in Lilac.</em></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_hyUMUW",
-        "text_P4QJab"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon_Foxglove_Lilac_Bamboo30-Cotton70_Herringbone_3_9e7698ae-52a7-4fc4-9dd4-3dee1e4f5b01.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_4X7WHc": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_amfNdz": {
-          "type": "heading",
-          "settings": {
-            "heading": "Horse Chestnut"
-          }
-        },
-        "text_pd4VkB": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The classic horse chestnut leaf has been captured as a block print with its hand like patterned leaf set against a coloured ground that evokes memories of the leaves falling through and the smell of roasted chestnuts. <br/><br/><em>Available in three colourways, hand block printed on Molly’s new 88% Recycled Cotton & 12% Bamboo cloth in Olive and Navy and hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in Pink.</em></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_amfNdz",
-        "text_pd4VkB"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Horse_Chestnut_Colourways.png",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_two_text_four",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_K93NTw": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_zn8ktH": {
-          "type": "heading",
-          "settings": {
-            "heading": "Leafy Trellis"
-          }
-        },
-        "text_pwc7QL": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A detailed, leafy trellis pattern, that creates a rhythmic lattice print on this sumptuous silky new elegant cloth made from sustainably produced Aloe. The design works beautifully on its own or combined with the leafier Woodland Sprig.<br/><br/><em>Hand block printed on Molly Mahon’s luxurious, new 100% Aloe cloth in Green.</em></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_zn8ktH",
-        "text_pwc7QL"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon_LeafyTrellis_Green_Aloe_1_7c8a318f-902f-4993-a192-851dfef93910.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_MmdyFw": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_TT8BkJ": {
-          "type": "heading",
-          "settings": {
-            "heading": "Indian Leaf"
-          }
-        },
-        "text_4H6Fhf": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Inspired by an ancient block gifted to Molly on a trip to India, this block print features the fragrant bay leaf layered against a gently dotted ground that brings the wonderful gift of nature into a home. <br/><br/><em>Available in two colourways, Blue-Green and Copper-Blue, hand block printed on Molly Mahon’s new 50% Bamboo, 25% Linen & 25% Cotton cloth and also hand block printed on Molly’s new 30% Bamboo and 70% Cotton herringbone woven cloth in Pink-Copper.</em></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_TT8BkJ",
-        "text_4H6Fhf"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Indian_Leaf_Colourways.png",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_two_text_four",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
     "164975103076740208": {
       "type": "featured-collection",
       "settings": {
@@ -884,7 +834,15 @@
     "image_banner_EXfAV6",
     "single_title_and_text_6RPnYK",
     "image_with_text_nDFXhC",
-    "single_title_and_text_fC3pVB",
+    "multicolumn_gRPdcc",
+    "image_with_text_MYG6LM",
+    "single_title_and_text_PffbeF",
+    "image_with_text_ALDiyp",
+    "multicolumn_jxkYq6",
+    "product_grid_6xt8Um",
+    "multicolumn_bREVi6",
+    "featured_collection_HkDQqJ",
+    "image_with_text_yF7Lye",
     "image_with_text_eBYHrB",
     "image_banner_Y8TDrt",
     "image_with_text_7pJG33",
@@ -894,15 +852,6 @@
     "multicolumn_MhLzeC",
     "image_with_text_DGb8r8",
     "multicolumn_wJpDb4",
-    "image_with_text_MYG6LM",
-    "image_with_text_yF7Lye",
-    "image_with_text_f7Fq8j",
-    "image_with_text_mNNEaC",
-    "image_with_text_Yg8nm6",
-    "image_with_text_ALDiyp",
-    "image_with_text_4X7WHc",
-    "image_with_text_K93NTw",
-    "image_with_text_MmdyFw",
     "164975103076740208",
     "165780769577c12393"
   ]
