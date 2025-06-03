@@ -408,6 +408,18 @@
         "link": "shopify://blogs/journal",
         "color_scheme": "dark"
       }
+    },
+    "featured_collection_NkBUGq": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Saheli Womens collection",
+        "collection": "saheli-women-collection",
+        "button_color": "seasonal",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
     }
   },
   "order": [
@@ -425,6 +437,7 @@
     "image_with_text_gdQyVp",
     "image_with_text_7gjPXC",
     "image_with_text_qR8j8n",
+    "featured_collection_NkBUGq",
     "165780769577c12393"
   ]
 }
