@@ -147,7 +147,7 @@
         "heading_TwFkBg": {
           "type": "heading",
           "settings": {
-            "heading": "The Woodlands Collection"
+            "heading": "Explore more the Woodlands Collection"
           }
         },
         "text_fetT6i": {
@@ -160,8 +160,8 @@
         "button_c4P6ej": {
           "type": "button",
           "settings": {
-            "button_label": "Shop the Woodlands Collection",
-            "button_link": "shopify://collections/woodlands"
+            "button_label": "The Woodlands Lookbook",
+            "button_link": "shopify://blogs/look-books/woodlands-fabric-and-wallpaper-collection"
           }
         }
       },
