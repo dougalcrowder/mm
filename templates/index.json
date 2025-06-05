@@ -590,7 +590,7 @@
             "width": "half",
             "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_AnopuraLifestyle_145.jpg",
             "auto_height": "none",
-            "title": "New Woodlands Cushion collection",
+            "title": "New Woodlands Cushion Collection",
             "text_align": "center",
             "heading_size": "s",
             "button_label": "link label",
@@ -601,13 +601,13 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/LAMPSHADE_SEED_MUSTARD_DEERHYRST_1300X1300_412b786f-7a18-4464-8c69-baa124c9ee4c.jpg",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Saheli_Women_040_copy.jpg",
             "auto_height": "portrait",
-            "title": "Lampshades",
+            "title": "Saheli Women Collection",
             "text_align": "center",
             "heading_size": "s",
             "button_label": "link label",
-            "button_link": "shopify://collections/lampshades"
+            "button_link": "shopify://collections/saheli-women-collection"
           }
         }
       },
