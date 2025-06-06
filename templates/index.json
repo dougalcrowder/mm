@@ -393,7 +393,7 @@
         "gap": "large",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "l"
+        "margin_bot": "none"
       }
     },
     "image_with_text_77LiyW": {
@@ -442,6 +442,20 @@
         "margin_top": "s",
         "margin_bot": "m",
         "hr": true
+      }
+    },
+    "single_title_and_text_8bjJVQ": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Be Inspired",
+        "text": "<p>Discover how our designs are used in interiors around the world from all types of projects</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     },
     "20923eed-ecdf-4786-8836-2e8d1d372264": {
@@ -714,45 +728,6 @@
         "hr": true
       }
     },
-    "image_with_text_Va4xdy": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_gfzXNy": {
-          "type": "heading",
-          "settings": {
-            "heading": "Journal"
-          }
-        },
-        "text_TYiDd6": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Welcome to my journal – a space where I share stories, inspiration and craftmanship behind my designs.  From travels that spark creativity to the hands-on joy of block printing, this is where I document the journey behind the patterns.<br/><br/><a href=\"/blogs/journal\" title=\"Journal\">Click here to read.</a></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_gfzXNy",
-        "text_TYiDd6"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Judhpur_57_copy.jpg",
-        "aspect_ratio": "portrait",
-        "width": true,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose_medium",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "l"
-      }
-    },
     "main": {
       "type": "main-404",
       "disabled": true,
@@ -794,6 +769,7 @@
     "multicolumn_qhYzxT",
     "image_with_text_77LiyW",
     "divider_rhAXLn",
+    "single_title_and_text_8bjJVQ",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "divider_Jt99xf",
     "single_title_and_text_aRQeMV",
@@ -803,7 +779,6 @@
     "single_title_and_text_CTJFt9",
     "multicolumn_pVyheh",
     "divider_4brE4j",
-    "image_with_text_Va4xdy",
     "main",
     "16412983447ec23b50",
     "simple_quote_Ar9h4L"
