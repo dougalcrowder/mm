@@ -346,15 +346,15 @@
         "margin_bot": "m"
       }
     },
-    "product_grid_6xt8Um": {
-      "type": "product-grid",
+    "featured_collection_jVz769": {
+      "type": "featured-collection",
       "settings": {
-        "product_list": [
-          "foxglove-hand-block-printed-herringbone-lilac",
-          "hand-block-printed-foxglove-cushion"
-        ],
-        "show_secondary_image": true,
-        "centred": false
+        "title": "Woodlands collection",
+        "collection": "woodlands-cushions",
+        "button_color": "seasonal",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
       }
     },
     "multicolumn_bREVi6": {
@@ -727,7 +727,7 @@
     "multicolumn_p7j784",
     "image_with_text_xJUKCT",
     "multicolumn_jxkYq6",
-    "product_grid_6xt8Um",
+    "featured_collection_jVz769",
     "multicolumn_bREVi6",
     "featured_collection_HkDQqJ",
     "image_with_text_yF7Lye",
