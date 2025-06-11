@@ -39,8 +39,8 @@
     "single_title_and_text_6RPnYK": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "New Base Cloths.  New Craftmanship",
-        "text": "<p>The new Woodlands and loom collections presented us with new base cloths that felt super luxury to touch and we venture on bringing materials like bamboo into the base cloths.  This presents a new structure and with our partners in India we worked hard to bring all the skill of hand to eye to the centre of this collection.  This is Indian craftsmanship at its best and we our proud that this is at the heart of what we do.</p>",
+        "title": "New Base Cloths. New Craftmanship",
+        "text": "<p>The new Woodlands and loom collections presented us with new base cloths that felt super luxury to touch and we venture on bringing materials like bamboo into the base cloths. This presents a new structure and with our partners in India we worked hard to bring all the skill of hand to eye to the centre of this collection.  This is Indian craftsmanship at its best and we are proud that this is at the heart of what we do.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -274,7 +274,7 @@
         "text_9m4MGr": {
           "type": "text",
           "settings": {
-            "text": "<p>Water based colour mixing by eye is a skill we work within a 5% tolerance in matching repeat designs.  The woodlands collections brings a few new colours to Molly Mahon designs.</p>",
+            "text": "<p>Water based colour mixing by eye is a skill. We work within a 5% tolerance in matching repeat designs. The woodlands collections brings a few new colours to Molly Mahon designs.</p>",
             "code": ""
           }
         }
@@ -422,7 +422,7 @@
         "title": "Woodlands collection",
         "collection": "woodlands",
         "button_color": "seasonal",
-        "products_to_show": 4,
+        "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": false
       }
@@ -439,7 +439,7 @@
         "text_zRrRmJ": {
           "type": "text",
           "settings": {
-            "text": "<p>An open repeat of little abstract flowers that Molly finds in and around the forest. Evocative of the carpet of flor that springs to life as winter ends with its sprigs of spring flowers. <br/><br/><em>Hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in Multicolour.</em></p>",
+            "text": "<p>An open repeat of little abstract flowers that Molly finds in and around the forest. Evocative of the carpet of flora that springs to life as winter ends with its sprigs of spring flowers. <br/><br/><em>Hand block printed on Molly Mahon’s new 30% Bamboo and 70% Cotton herringbone woven cloth in Multicolour.</em></p>",
             "code": ""
           }
         }
@@ -469,7 +469,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Loom Weaves",
-        "text": "<p>Brings not only a new base cloth, cotton weaved with jute, it also brings all of Molly Mahon's colours into one design.  Allowing you bring all of our collections together by linking this design into your scheme</p>",
+        "text": "<p>Brings not only a new base cloth, cotton weaved with jute, it also brings all of Molly Mahon's colours into one design. Allowing you to bring all of our collections together by linking this design into your scheme</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -683,7 +683,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Highly skilled",
-        "text": "<p>We value the artisan craftsmanship that goes into every step of our production.  Here are partners in India produce the very thread, weave the very base cloth, carve the  designs from Molly Mahon into block printing wooden blocks, mix the colour, block print the base cloth all by hand.  It is art at every step of the production.  It is an artistry that has stood the test of time.  It produces a truly unique product, full of human touch.</p>",
+        "text": "<p>We value the artisan craftsmanship that goes into every step of our production. Our partners in India produce the very thread, weave the very base cloth, carve the  designs from Molly Mahon into block printing wooden blocks, mix the colour, block print the base cloth all by hand. It is art at every step of the production. It is an artistry that has stood the test of time and produces a truly unique product, full of human touch.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
