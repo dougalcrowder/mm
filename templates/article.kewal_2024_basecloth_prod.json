@@ -308,8 +308,8 @@
           "type": "column",
           "settings": {
             "width": "two_thirds",
-            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Kewal_Printing_11_2.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Kewal_Printing_11_3.jpg",
+            "auto_height": "landscape",
             "title": "",
             "text_align": "center",
             "heading_size": "s",
@@ -321,7 +321,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Kewal_Printing_04.jpg",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Kewal_Printing_04_fa66f6ad-7806-4b08-bb37-50a6bbbee16e.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
