@@ -101,7 +101,7 @@
           "settings": {
             "width": "half",
             "image": "shopify://shop_images/mollymahon_kewal24_production_basecloth_weaving_2_portrait.jpg",
-            "auto_height": "portrait",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
             "heading_size": "s",
@@ -200,7 +200,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/mollymahon_kewal24_production_woodblock_carving_1_portrait.jpg",
-        "aspect_ratio": "none",
+        "aspect_ratio": "portrait",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -322,7 +322,7 @@
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/mollymahon_kewal24_production_wood_block_printing_foxglove_portrait.jpg",
-            "auto_height": "portrait",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
             "heading_size": "s",
