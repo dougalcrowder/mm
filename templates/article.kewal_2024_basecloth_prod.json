@@ -64,7 +64,7 @@
         "text_GCWCtf"
       ],
       "settings": {
-        "image": "shopify://shop_images/mollymahon_kewal24_production_basecloth_herringbone_portrait.jpg",
+        "image": "shopify://shop_images/MollyMahon_India_Nov2024_Kewal_Lifestyle_104.jpg",
         "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_three_text_three",
@@ -87,7 +87,7 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/mollymahon_kewal24_production_basecloth_weaving_4_portrait.jpg",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Kannur_Kewal_Weaving_046.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -100,7 +100,7 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/mollymahon_kewal24_production_basecloth_weaving_2_portrait.jpg",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Kannur_Kewal_Weaving_058.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -199,8 +199,8 @@
         "text_P4QJab"
       ],
       "settings": {
-        "image": "shopify://shop_images/mollymahon_kewal24_production_woodblock_carving_1_portrait.jpg",
-        "aspect_ratio": "portrait",
+        "image": "shopify://shop_images/KEW6208_copy_5d2f8890-0d72-454d-89cd-69b864c87054.jpg",
+        "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -285,8 +285,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/mollymahon_kewal24_colour_mixing_bowl_portrait.jpg",
-        "aspect_ratio": "portrait",
+        "image": "shopify://shop_images/MollyMahon_India_Nov2024_Kannur_Kewal_Dyeing_025.jpg",
+        "aspect_ratio": "none",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -308,8 +308,8 @@
           "type": "column",
           "settings": {
             "width": "two_thirds",
-            "image": "shopify://shop_images/mollymahon_kewal24_production_wood_block_printing_foxglove_square.jpg",
-            "auto_height": "landscape",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Kewal_Printing_11_2.jpg",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
             "heading_size": "s",
@@ -321,7 +321,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/mollymahon_kewal24_production_wood_block_printing_foxglove_portrait.jpg",
+            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Kewal_Printing_04.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
