@@ -78,7 +78,7 @@
             "auto_height": "none",
             "title": "Trade",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "xl",
             "button_label": "Open an Account",
             "button_link": "shopify://pages/trade"
           }
@@ -91,7 +91,7 @@
             "auto_height": "none",
             "title": "Hospitality",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "xl",
             "button_label": "Explore more",
             "button_link": "shopify://pages/hospitality"
           }
@@ -104,7 +104,7 @@
             "auto_height": "none",
             "title": "Collaborations",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "xl",
             "button_label": "Explore more",
             "button_link": "shopify://pages/collaborations"
           }
