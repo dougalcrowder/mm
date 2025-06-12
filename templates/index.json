@@ -198,7 +198,7 @@
             "auto_height": "none",
             "title": "Fabric",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "link label",
             "button_link": "shopify://collections/fabric"
           }
@@ -211,7 +211,7 @@
             "auto_height": "none",
             "title": "Wallpaper",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "link label",
             "button_link": "shopify://collections/wallpaper"
           }
@@ -224,7 +224,7 @@
             "auto_height": "none",
             "title": "Homewares",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "link label",
             "button_link": "shopify://collections/homewares"
           }
@@ -317,7 +317,7 @@
             "auto_height": "portrait",
             "title": "A Yorkshire home renovation",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "",
             "button_link": "shopify://blogs/look-books/yorkshire-country-home-renovation"
           }
@@ -330,7 +330,7 @@
             "auto_height": "portrait",
             "title": "Trims",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "",
             "button_link": "shopify://collections/trims"
           }
@@ -362,7 +362,7 @@
             "auto_height": "none",
             "title": "Deerhyrst Collection",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "link label",
             "button_link": "shopify://collections/deerhyrst-fabric-collection"
           }
@@ -375,7 +375,7 @@
             "auto_height": "portrait",
             "title": "Loom Weave",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "link label",
             "button_link": "shopify://collections/loom-weave"
           }
@@ -469,7 +469,7 @@
             "auto_height": "square",
             "title": "Look Books",
             "text_align": "center",
-            "heading_size": "xl",
+            "heading_size": "l",
             "button_label": "",
             "button_link": "shopify://blogs/look-books"
           }
@@ -482,7 +482,7 @@
             "auto_height": "square",
             "title": "Customer Projects",
             "text_align": "center",
-            "heading_size": "xl",
+            "heading_size": "l",
             "button_label": "",
             "button_link": "shopify://pages/customer-projects"
           }
@@ -495,7 +495,7 @@
             "auto_height": "square",
             "title": "Customer Service",
             "text_align": "center",
-            "heading_size": "xl",
+            "heading_size": "l",
             "button_label": "",
             "button_link": "shopify://pages/services"
           }
@@ -606,7 +606,7 @@
             "auto_height": "none",
             "title": "New Woodlands Cushion Collection",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "link label",
             "button_link": "shopify://collections/woodlands-cushions"
           }
@@ -619,7 +619,7 @@
             "auto_height": "portrait",
             "title": "Saheli Women Collection",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "link label",
             "button_link": "shopify://collections/saheli-women-collection"
           }
