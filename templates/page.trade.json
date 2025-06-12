@@ -26,6 +26,167 @@
         "custom_color": ""
       }
     },
+    "df074c33-3bfa-42af-b079-0a9cde64c27e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-0": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/greencombe_sample_collection_table_berry_flowers_1000x1500_c70702be-d6b9-4785-8739-930f9aaa3a29.jpg",
+            "auto_height": "none",
+            "title": "MM Service",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "",
+            "button_link": "mailto:trade@mollymahon.com"
+          }
+        },
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-1": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/CUSHIONS_PINK_1000x1500_c84a2bcd-1847-445c-b4ad-139ef243efa0.jpg",
+            "auto_height": "none",
+            "title": "Bespoke",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "",
+            "button_link": "mailto:trade@mollymahon.com"
+          }
+        },
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-2": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/EMERALD_GREEN_F_B-MARIGOLD_PINKGREEN_ROSE_PINK1000x1500.jpg",
+            "auto_height": "none",
+            "title": "Sampling",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "",
+            "button_link": "mailto:trade@mollymahon.com"
+          }
+        }
+      },
+      "block_order": [
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-0",
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-1",
+        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-2"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "sm",
+        "margin_bot": "m"
+      }
+    },
+    "c529aa2b-4742-4ff2-9490-d80cf1eeffa2": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Finishing Touches",
+            "heading_type": "header1"
+          }
+        },
+        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-1": {
+          "type": "text",
+          "settings": {
+            "text": "CUSHIONS : LAMPSHADES & LAMP BASES : RUGS : QUILTS",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Get in Touch",
+            "button_link_1": "mailto:trade@mollymahon.com",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-0",
+        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-1",
+        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/greencombe_soft_furnishing_studio_1000x1400_0bca7168-ed6b-4a00-b3d3-e84960848702.jpg",
+        "letterbox": false,
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "start",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "multicolumn_ryQMeR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jKppww": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-06.jpg",
+            "auto_height": "portrait",
+            "title": "Finishing Touches",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "Trade Accessories",
+            "button_link": "shopify://collections/trade-accessories"
+          }
+        },
+        "column_ByxBai": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/mollymahon_curtain_clover_duckegg_bedroom_1000x1500_c360251a-c848-4fe0-af4c-2c1650a6639b.jpg",
+            "auto_height": "portrait",
+            "title": "MM Collections",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://blogs/look-books"
+          }
+        }
+      },
+      "block_order": [
+        "column_jKppww",
+        "column_ByxBai"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
     "multicolumn_aigtNK": {
       "type": "multicolumn",
       "blocks": {
@@ -589,175 +750,14 @@
         "margin_top": "sm",
         "margin_bot": "m"
       }
-    },
-    "df074c33-3bfa-42af-b079-0a9cde64c27e": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-0": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/greencombe_sample_collection_table_berry_flowers_1000x1500_c70702be-d6b9-4785-8739-930f9aaa3a29.jpg",
-            "auto_height": "none",
-            "title": "MM Service",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "",
-            "button_link": "mailto:trade@mollymahon.com"
-          }
-        },
-        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-1": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/CUSHIONS_PINK_1000x1500_c84a2bcd-1847-445c-b4ad-139ef243efa0.jpg",
-            "auto_height": "none",
-            "title": "Bespoke",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "",
-            "button_link": "mailto:trade@mollymahon.com"
-          }
-        },
-        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-2": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/EMERALD_GREEN_F_B-MARIGOLD_PINKGREEN_ROSE_PINK1000x1500.jpg",
-            "auto_height": "none",
-            "title": "Sampling",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "",
-            "button_link": "mailto:trade@mollymahon.com"
-          }
-        }
-      },
-      "block_order": [
-        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-0",
-        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-1",
-        "template--14571371888698__df074c33-3bfa-42af-b079-0a9cde64c27e-1685015358af8669ce-2"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "text_align": "center",
-        "title_margin": "l",
-        "gap": "medium",
-        "border": false,
-        "margin_top": "sm",
-        "margin_bot": "m"
-      }
-    },
-    "c529aa2b-4742-4ff2-9490-d80cf1eeffa2": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Finishing Touches",
-            "heading_type": "header1"
-          }
-        },
-        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-1": {
-          "type": "text",
-          "settings": {
-            "text": "CUSHIONS : LAMPSHADES & LAMP BASES : RUGS : QUILTS",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Get in Touch",
-            "button_link_1": "mailto:trade@mollymahon.com",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-0",
-        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-1",
-        "template--14571371888698__c529aa2b-4742-4ff2-9490-d80cf1eeffa2-16862363252198749b-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/greencombe_soft_furnishing_studio_1000x1400_0bca7168-ed6b-4a00-b3d3-e84960848702.jpg",
-        "letterbox": false,
-        "respect_image": false,
-        "top_margin": false,
-        "bordered": false,
-        "bordered_dt": false,
-        "constrain": false,
-        "desktop_text_box_position": "start",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
-    "multicolumn_ryQMeR": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_jKppww": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-06.jpg",
-            "auto_height": "portrait",
-            "title": "Finishing Touches",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Trade Accessories",
-            "button_link": "shopify://collections/trade-accessories"
-          }
-        },
-        "column_ByxBai": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/mollymahon_curtain_clover_duckegg_bedroom_1000x1500_c360251a-c848-4fe0-af4c-2c1650a6639b.jpg",
-            "auto_height": "portrait",
-            "title": "MM Collections",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": "shopify://blogs/look-books"
-          }
-        }
-      },
-      "block_order": [
-        "column_jKppww",
-        "column_ByxBai"
-      ],
-      "name": "Multi Columns",
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "text_align": "center",
-        "title_margin": "l",
-        "gap": "medium",
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
     }
   },
   "order": [
     "main",
     "text_banner_a8jDPA",
-    "multicolumn_aigtNK",
     "df074c33-3bfa-42af-b079-0a9cde64c27e",
     "c529aa2b-4742-4ff2-9490-d80cf1eeffa2",
-    "multicolumn_ryQMeR"
+    "multicolumn_ryQMeR",
+    "multicolumn_aigtNK"
   ]
 }
