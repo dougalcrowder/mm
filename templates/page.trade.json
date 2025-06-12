@@ -37,7 +37,7 @@
             "auto_height": "none",
             "title": "MM Service",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "",
             "button_link": "mailto:trade@mollymahon.com"
           }
@@ -50,7 +50,7 @@
             "auto_height": "none",
             "title": "Bespoke",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "",
             "button_link": "mailto:trade@mollymahon.com"
           }
@@ -63,7 +63,7 @@
             "auto_height": "none",
             "title": "Sampling",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "l",
             "button_label": "",
             "button_link": "mailto:trade@mollymahon.com"
           }
