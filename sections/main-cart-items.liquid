@@ -90,7 +90,8 @@
           <div class="swatches grid">
             <div class="intro">
               <h3 class="h2">Swatches</h3>
-              <p>Important decisions shouldn’t be rushed which is why we are delighted to offer our swatches at only £1.00 each plus postage</p>
+              {{ section.settings.samplesintro }}
+              {% comment %} <p>Important decisions shouldn’t be rushed which is why we are delighted to offer our swatches at only £1.00 each plus postage</p> {% endcomment %}
             </div>
             {%- for item in cart.items -%}
               {% if item.product.type == 'Fabric - Free Sample' or item.product.type == 'Fabric Sample' or item.product.type == 'Wallpaper - Free Sample' or item.product.type == 'Wallpaper Sample' %}
@@ -445,7 +446,12 @@
 {
   "name": "t:sections.main-cart-items.name",
   "class": "cart-section",
-  "settings": [
+  "settings": [        
+    {
+      "type": "richtext",
+      "id": "samplesintro",
+      "label": "Samples intro text"
+    },
     {
       "type": "product",
       "id": "offer",

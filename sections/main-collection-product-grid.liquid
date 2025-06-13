@@ -4,8 +4,15 @@
   {{ 'facets.css' | asset_url | stylesheet_tag }}
   <script src="{{ 'facets.js' | asset_url }}" defer="defer"></script>
 
-  <div class="outer" id="main-collection-filters" data-id="{{ section.id }}">
-    {% render 'facets', results: collection, enable_filtering: section.settings.enable_filtering, enable_sorting: section.settings.enable_sorting, collapse_on_larger_devices: section.settings.collapse_on_larger_devices %}
+  <div
+    class="outer"
+    id="main-collection-filters"
+    data-id="{{ section.id }}">
+    {% render 'facets'
+      , results: collection
+      , enable_filtering: section.settings.enable_filtering
+      , enable_sorting: section.settings.enable_sorting
+      , collapse_on_larger_devices: section.settings.collapse_on_larger_devices %}
   </div>
   {% assign filtersOn = true %}
 {%- endif -%}
@@ -14,10 +21,17 @@
 
 {%- endif -%}
 
-<div id="ProductGridContainer"{% unless filtersOn %} class="mt-sm"{% endunless %}>
+<div
+  id="ProductGridContainer"
+  {% unless filtersOn %}
+  class="mt-sm"
+  {% endunless %}>
   {%- paginate collection.products by 100 -%}
     {%- if collection.products.size == 0 -%}
-      <div class="collection collection--empty inner" id="product-grid" data-id="{{ section.id }}">
+      <div
+        class="collection collection--empty inner"
+        id="product-grid"
+        data-id="{{ section.id }}">
         <div class="loading-overlay gradient"></div>
         <div class="title-wrapper center">
           <h2 class="title title--primary">
@@ -30,100 +44,101 @@
       <div class="collection outer collection_loader">
         <div class="loading-overlay gradient"></div>
 
-        <ul id="product-grid" data-id="{{ section.id }}" class="grid product_grid {{ collection.handle }}">
+        <ul
+          id="product-grid"
+          data-id="{{ section.id }}"
+          class="grid product_grid {{ collection.handle }}">
           {%- for product in collection.products -%}
-          
+
             <li class="product_card">
-              {% render 'product-card',
-                product_card_product: product,
-                media_size: section.settings.image_ratio,
-                show_secondary_image: section.settings.show_secondary_image,
-                add_image_padding: section.settings.add_image_padding,
-                show_vendor: section.settings.show_vendor,
-                show_image_outline: section.settings.show_image_outline,
-                show_quick_add: section.settings.enable_quick_add,
-                show_rating: section.settings.show_rating,
-                show_prices: section.settings.show_prices
+              {% render 'product-card'
+                , product_card_product: product
+                , media_size: section.settings.image_ratio
+                , show_secondary_image: section.settings.show_secondary_image
+                , add_image_padding: section.settings.add_image_padding
+                , show_vendor: section.settings.show_vendor
+                , show_image_outline: section.settings.show_image_outline
+                , show_quick_add: section.settings.enable_quick_add
+                , show_rating: section.settings.show_rating
+                , show_prices: section.settings.show_prices
               %}
-              {%- if product.type == 'Fabric' or product.type == 'Wallpaper' -%}
-              <div class="sample_time">
-                {% include 'product_page_samples' %}
-              </div>
+              {%- if product.type == 'Fabric' or product.type == 'Wallpaper' or product.metafields.custom.sample.value != blank -%}
+                <div class="sample_time">
+                  {% include 'product_page_samples' %}
+                </div>
               {%- endif -%}
             </li>
           {%- endfor -%}
         </ul>
       </div>
     {%- endif -%}
-    
+
     {%- if paginate.pages > 1 -%}
-    {% render 'pagination', paginate: paginate, anchor: '' %}
-  {%- endif -%}
-    
+      {% render 'pagination'
+        , paginate: paginate
+        , anchor: '' %}
+    {%- endif -%}
+
   {%- endpaginate -%}
 </div>
 
 {% if collection.image %}
 {% else %}
-{%- if collection.description -%}
-<div class="naked_head-banner inner">
-    <div class="rte" {{ block.shopify_attributes }}>
-      <span>{{ collection.description }}</span>
+  {%- if collection.description -%}
+    <div class="naked_head-banner inner">
+      <div class="rte" {{ block.shopify_attributes }}>
+        <span>{{ collection.description }}</span>
+      </div>
     </div>
-</div>
+  {%- endif -%}
 {%- endif -%}
-{%- endif -%}
-
 
 
 {% schema %}
-{
-  "name": "t:sections.main-collection-product-grid.name",
-  "class": "collection-grid-section",
-  "settings": [
-    {
-      "type": "range",
-      "id": "products_per_page",
-      "min": 8,
-      "max": 48,
-      "step": 4,
-      "default": 24,
-      "label": "t:sections.main-collection-product-grid.settings.products_per_page.label"
-    },
-    {
-      "type": "header",
-      "content": "t:sections.main-collection-product-grid.settings.header__3.content"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_rating",
-      "default": false,
-      "label": "t:sections.main-collection-product-grid.settings.show_rating.label",
-      "info": "t:sections.main-collection-product-grid.settings.show_rating.info"
-    },
-    {
-      "type": "header",
-      "content": "t:sections.main-collection-product-grid.settings.header__1.content"
-    },
-    {
-      "type": "checkbox",
-      "id": "enable_filtering",
-      "default": true,
-      "label": "t:sections.main-collection-product-grid.settings.enable_filtering.label",
-      "info": "t:sections.main-collection-product-grid.settings.enable_filtering.info"
-    },
-    {
-      "type": "checkbox",
-      "id": "enable_sorting",
-      "default": true,
-      "label": "t:sections.main-collection-product-grid.settings.enable_sorting.label"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_prices",
-      "default": false,
-      "label": "Show prices"
-    }
-  ]
-}
+  {
+    "name": "t:sections.main-collection-product-grid.name",
+    "class": "collection-grid-section",
+    "settings": [
+      {
+        "type": "range",
+        "id": "products_per_page",
+        "min": 8,
+        "max": 48,
+        "step": 4,
+        "default": 24,
+        "label": "t:sections.main-collection-product-grid.settings.products_per_page.label"
+      },
+      {
+        "type": "header",
+        "content": "t:sections.main-collection-product-grid.settings.header__3.content"
+      },
+      {
+        "type": "checkbox",
+        "id": "show_rating",
+        "default": false,
+        "label": "t:sections.main-collection-product-grid.settings.show_rating.label",
+        "info": "t:sections.main-collection-product-grid.settings.show_rating.info"
+      },
+      {
+        "type": "header",
+        "content": "t:sections.main-collection-product-grid.settings.header__1.content"
+      }, {
+        "type": "checkbox",
+        "id": "enable_filtering",
+        "default": true,
+        "label": "t:sections.main-collection-product-grid.settings.enable_filtering.label",
+        "info": "t:sections.main-collection-product-grid.settings.enable_filtering.info"
+      }, {
+        "type": "checkbox",
+        "id": "enable_sorting",
+        "default": true,
+        "label": "t:sections.main-collection-product-grid.settings.enable_sorting.label"
+      }, {
+        "type": "checkbox",
+        "id": "show_prices",
+        "default": false,
+        "label": "Show prices"
+      }
+    ]
+  }
 {% endschema %}

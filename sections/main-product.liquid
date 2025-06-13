@@ -165,7 +165,7 @@
           {%- if current_variant.available == false %} product-form--variant-sold-out {%- endif -%}
         {%- endcapture %}
         
-        {%- if product.type == 'Fabric' or product.type == 'Wallpaper' -%}
+        {%- if product.type == 'Fabric' or product.type == 'Wallpaper' or product.metafields.custom.sample.value != blank -%}
         <div class="sample_time relative">
         {%- else -%}
         <div>
