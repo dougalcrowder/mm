@@ -57,45 +57,6 @@
         "margin_bot": "none"
       }
     },
-    "image_with_text_NpFUj6": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_CUAGJ3": {
-          "type": "heading",
-          "settings": {
-            "heading": "Workshops"
-          }
-        },
-        "text_cCjdmT": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Molly’s block print workshops are designed to be an inspiring, fun and hands on experience where creativity flows freely.  These sessions offer participants the opportunity to learn the ancient art of block printing in a warm, welcoming and inspiring environment.  You’ll not only leave with a beautiful, handmade piece of art, but also a sense of pride in the process and techniques you’ve learned.  </p><p>Whether you’re a beginner or an experienced maker, the workshops are structured to encourage creativity and provide personalised guidance from Molly. Expect to gain new skills, meet like-minded people and walk away with a unique piece that reflects your artistic journey.  We promise an unforgettable experience that connects tradition with your personal creative journey.</p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_CUAGJ3",
-        "text_cCjdmT"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_6bf77aff-5412-475e-9a79-b6b48f5f34de.jpg",
-        "aspect_ratio": "portrait",
-        "width": true,
-        "column_layout": "img_three_text_three",
-        "gap": "medium",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "l"
-      }
-    },
     "multicolumn_pHNVx4": {
       "type": "multicolumn",
       "blocks": {
@@ -141,6 +102,25 @@
         "margin_bot": "l"
       }
     },
+    "video_X96HAc": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "logo_white": false,
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": false,
+        "show_controls": false,
+        "constrain_vid": false,
+        "html5_video": "https://cdn.shopify.com/videos/c/o/v/011fa89896234531b74c5627bcd0ee5a.mp4",
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "color_scheme": "white_text",
+        "eyedee": ""
+      }
+    },
     "image_with_text_CC4PWC": {
       "type": "image-with-text",
       "blocks": {
@@ -182,8 +162,8 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "s",
+        "layout": "image_first",
+        "margin_top": "l",
         "margin_bot": "m"
       }
     },
@@ -394,45 +374,6 @@
         "border": false,
         "margin_top": "none",
         "margin_bot": "none"
-      }
-    },
-    "image_with_text_77LiyW": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_6zTxXH": {
-          "type": "heading",
-          "settings": {
-            "heading": "Trims"
-          }
-        },
-        "text_aaPLNV": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Bring a bit of pop to your interiors with Molly Mahon's delightful trims.  Hand block printed in a delightful way to add depth and colour to your interior design projects. Exquisitely hand block printed in India using eco-friendly inks in a selection of rich tones, this decorative cotton tape can be used to trim mutliple items from cushions to furniture.</p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_6zTxXH",
-        "text_aaPLNV"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-Lookbook-Loom-Plains-Trims-13.jpg",
-        "aspect_ratio": "portrait",
-        "width": true,
-        "column_layout": "img_three_text_three",
-        "gap": "small",
-        "text_width": "prose_medium",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "xl"
       }
     },
     "divider_rhAXLn": {
@@ -759,15 +700,14 @@
   "order": [
     "image_banner_JTwYUc",
     "single_title_and_text_VcQckG",
-    "image_with_text_NpFUj6",
     "multicolumn_pHNVx4",
+    "video_X96HAc",
     "image_with_text_CC4PWC",
     "multicolumn_7TKhTL",
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "single_title_and_text_GAmte8",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "multicolumn_qhYzxT",
-    "image_with_text_77LiyW",
     "divider_rhAXLn",
     "single_title_and_text_8bjJVQ",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
