@@ -109,7 +109,7 @@
         "logo_white": false,
         "autoplay": true,
         "autoloop": true,
-        "mute_video": false,
+        "mute_video": true,
         "show_controls": true,
         "constrain_vid": false,
         "html5_video": "https://cdn.shopify.com/videos/c/o/v/011fa89896234531b74c5627bcd0ee5a.mp4",
