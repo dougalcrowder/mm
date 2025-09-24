@@ -1,10 +1,18 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "16421993483b631460": {
       "type": "image-banner",
@@ -28,7 +36,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Click here to order your brochure",
-            "button_link_1": "shopify:\/\/products\/greencombe-block-printed-fabric-brochure",
+            "button_link_1": "shopify://products/greencombe-block-printed-fabric-brochure",
             "button_style_secondary_1": true,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -42,7 +50,7 @@
         "1642199348d668b6b2-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_MOBILE_LIFE_1300x1300_e28a0169-65be-4207-a71d-c69a9505f653.jpg",
+        "image": "shopify://shop_images/TABLELINEN_CALENDULA_MOBILE_LIFE_1300x1300_e28a0169-65be-4207-a71d-c69a9505f653.jpg",
         "make_logo_white": true,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -64,7 +72,7 @@
             "title": "",
             "subtitle": "Title",
             "subtitle_size": "large",
-            "text": "<p>Shop our colourful collection of handcrafted designer wallpaper, exclusively designed by British printmaker, Molly Mahon, in her East Sussex studio. From intricate leaves to bees and blossoms, there’s a pattern to suit every space - each ethically made from original block prints.<\/p>",
+            "text": "<p>Shop our colourful collection of handcrafted designer wallpaper, exclusively designed by British printmaker, Molly Mahon, in her East Sussex studio. From intricate leaves to bees and blossoms, there’s a pattern to suit every space - each ethically made from original block prints.</p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "end",
@@ -79,7 +87,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MOLLY_ATDESK_BODENDESIGNS_baaeed55-fd64-453a-a634-df1b3be2a67c.jpg",
+            "image": "shopify://shop_images/MOLLY_ATDESK_BODENDESIGNS_baaeed55-fd64-453a-a634-df1b3be2a67c.jpg",
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -108,7 +116,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Explore our Best Selling Designer Wallpapers",
-        "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.<\/p>",
+        "text": "<p>Inspired by nature, designed for your home. Fill your space with bespoke designer brand wallpaper to bring warmth, cosiness and lashings of colour to each and every room.</p>",
         "alignment": "left"
       }
     },
@@ -116,7 +124,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Shop all designer wallpapers",
-        "link": "shopify:\/\/collections\/wallpaper",
+        "link": "shopify://collections/wallpaper",
         "color_scheme": "dark"
       }
     },
@@ -126,7 +134,7 @@
         "1661849858b64f9e37-0": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_PEONY_PROD1_1300x1300_6987c4f8-2659-4652-9838-fe9d27f2e987.jpg",
+            "insta_image": "shopify://shop_images/TABLELINEN_PEONY_PROD1_1300x1300_6987c4f8-2659-4652-9838-fe9d27f2e987.jpg",
             "author": "",
             "link": ""
           }
@@ -134,7 +142,7 @@
         "780263ca-4c38-4ece-b039-d88daa5e2215": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_FLOWER_PROD1_1300x1300_f880c81d-835f-436b-b694-71b262d3b5c1.jpg",
+            "insta_image": "shopify://shop_images/TABLELINEN_FLOWER_PROD1_1300x1300_f880c81d-835f-436b-b694-71b262d3b5c1.jpg",
             "author": "",
             "link": ""
           }
@@ -142,7 +150,7 @@
         "f4e854a8-6ea4-4727-9610-8d55001696bf": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_CALENDULA_PROD1_1300x1300_9012d0a5-be81-4419-98fa-56795c7d09b1.jpg",
+            "insta_image": "shopify://shop_images/TABLELINEN_CALENDULA_PROD1_1300x1300_9012d0a5-be81-4419-98fa-56795c7d09b1.jpg",
             "author": "",
             "link": ""
           }
@@ -150,7 +158,7 @@
         "3f98f755-05be-4110-a22b-ccc8f3b793ab": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/TABLELINEN_CHERRY_PROD1_1300x1300_1d91d1ba-2a3b-4f3f-ba79-d05308957af7.jpg",
+            "insta_image": "shopify://shop_images/TABLELINEN_CHERRY_PROD1_1300x1300_1d91d1ba-2a3b-4f3f-ba79-d05308957af7.jpg",
             "author": "",
             "link": ""
           }
@@ -180,7 +188,7 @@
             "title": "",
             "subtitle": "Discover a World of Print, Colour and Pattern with Molly Mahon",
             "subtitle_size": "large",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -198,7 +206,7 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Molly Mahon is a celebrated printmaker in the British textiles<br\/>industry whose block print originals are applied to luxury<br\/>wallpapers, quality fabrics and functional items for the<br\/>home, from napkins to oven gloves!<br\/><\/p><p>Each piece is carefully crafted by artisans in India, using<br\/>hand carved wooden blocks and premium, eco-conscious<br\/>products that combine to create a lifetime of joy. Playful<br\/>prints and vibrant colours are the essence of our designer<br\/>wallpaper patterns, available with matching material and<br\/>accessories to craft your perfect home.<br\/><\/p><p>From Boden to Anthropologie, Molly has collaborated with<br\/>an impressive feast of beloved brands and continues to<br\/>bring delight with her truly British designs, each inspired by<br\/>her love of nature and travel.<br\/><\/p>",
+            "text": "<p>Molly Mahon is a celebrated printmaker in the British textiles<br/>industry whose block print originals are applied to luxury<br/>wallpapers, quality fabrics and functional items for the<br/>home, from napkins to oven gloves!<br/></p><p>Each piece is carefully crafted by artisans in India, using<br/>hand carved wooden blocks and premium, eco-conscious<br/>products that combine to create a lifetime of joy. Playful<br/>prints and vibrant colours are the essence of our designer<br/>wallpaper patterns, available with matching material and<br/>accessories to craft your perfect home.<br/></p><p>From Boden to Anthropologie, Molly has collaborated with<br/>an impressive feast of beloved brands and continues to<br/>bring delight with her truly British designs, each inspired by<br/>her love of nature and travel.<br/></p>",
             "button_color": "white",
             "color_scheme": "white_text",
             "desktop_text_box_position": "center",
@@ -233,14 +241,13 @@
           "type": "paragraph",
           "disabled": true,
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
           }
         },
         "16618502506f5ea96f-2": {
           "type": "email_form",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -249,7 +256,7 @@
         "16618502506f5ea96f-2"
       ],
       "settings": {
-        "quote": "<p>Molly Mahon's designs are AWESOME SAUCE<\/p>",
+        "quote": "<p>Molly Mahon's designs are AWESOME SAUCE</p>",
         "cite": "Sum Onetrustworthy"
       }
     }

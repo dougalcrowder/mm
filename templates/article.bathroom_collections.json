@@ -139,44 +139,24 @@
           "type": "column",
           "settings": {
             "width": "two_thirds",
-            "narrow": false,
             "image": "shopify://shop_images/wallpaper_spotandstar_peagreen_bathroom_blinds_widestripe.jpg",
             "auto_height": "landscape",
-            "cover": true,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "1657730156412eb3fd-1": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/mollymahon_bathroom_spot_star_widestripe_1000x1500_8bb62480-7c64-4ba8-abae-87cc3d0f2800.jpg",
             "auto_height": "none",
-            "cover": true,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -187,7 +167,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "sm",
         "margin_bot": "none"
@@ -200,44 +179,24 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/WALLPAPER_SPOT_STAR_BATHROOM_1300X1300_5365882f-250d-42c9-9cc9-3db273a759a4.jpg",
             "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "1657786206ef221d2d-1": {
           "type": "column",
           "settings": {
             "width": "two_thirds",
-            "narrow": false,
             "image": "shopify://shop_images/WALLPAPER_SPOT_STAR_BATHROOM_1200X900_682ab469-e7e0-4026-8f78-00fc094a61da.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -248,7 +207,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -459,44 +417,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/mollymahon_bathroom_marwarihorse_gold_1200x900_0b83647a-6552-4168-bce9-e2df87a6b210.jpg",
             "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "template--14617782878266__6d332edc-3ce0-48ec-bc97-53ecb5be26dd-column-2": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/mollymahon_bathroom_wallpaper_marwarihorse_fabric_luna_1300x1300_2967a2cc-fd81-4e6c-a3d9-4bdd5d03f554.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -507,7 +445,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "sm",
         "margin_bot": "s"
@@ -596,44 +533,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/mollymahon_bathroom_blind_bindi_pink_1000x1500_0fbf7734-7587-4663-a17f-50b10d4fe901.jpg",
             "auto_height": "none",
-            "cover": true,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Explore Fabric",
-            "button_link": "shopify://collections/fabric",
-            "subtext": ""
+            "button_link": "shopify://collections/fabric"
           }
         },
         "template--14617782878266__8a72b446-8de9-4897-94c7-8626ec5e5345-column-2": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/mollymahon_bathroom_wallpaper_strawberry_1000x1500_3b6b3ef2-32be-4c4d-aa43-3ebe6d9a2be2.jpg",
             "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "dark_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Explore Wallpaper",
-            "button_link": "shopify://collections/wallpaper",
-            "subtext": ""
+            "button_link": "shopify://collections/wallpaper"
           }
         }
       },
@@ -644,7 +561,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "m",
         "margin_bot": "sm"

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,8 +30,7 @@
         "content": {
           "type": "content",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "share": {
           "type": "share",
@@ -38,8 +46,7 @@
         "content",
         "share"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "164975103076740208": {
       "type": "featured-collection",
@@ -88,7 +95,7 @@
         "1657730007a25f7230-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_FABRIC_HANGING_1800x1000_f1ef614b-2f76-4394-9af6-e55747253919.jpg",
+        "image": "shopify://shop_images/MM_BLOOM_PRESS_FABRIC_HANGING_1800x1000_f1ef614b-2f76-4394-9af6-e55747253919.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -113,7 +120,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_FLOWERS_1300x1300_1ea914be-1cd8-4033-a193-2b9e3777b9ec.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_FLOWERS_1300x1300_1ea914be-1cd8-4033-a193-2b9e3777b9ec.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -134,7 +141,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_SPEECH_1300x1300_fed9d69d-95d4-4a6b-84d5-f116077cf613.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_SPEECH_1300x1300_fed9d69d-95d4-4a6b-84d5-f116077cf613.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -203,7 +210,7 @@
         "1657786090a56f700f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP_1800x1000_d08e6a04-9338-4402-9e71-a1eeef5af6b4.jpg",
+        "image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP_1800x1000_d08e6a04-9338-4402-9e71-a1eeef5af6b4.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": true,
@@ -228,7 +235,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_AMIE_1300x1300_c595c62a-f677-475f-8dfa-a766065405ef.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_AMIE_1300x1300_c595c62a-f677-475f-8dfa-a766065405ef.jpg",
             "auto_height": "portrait",
             "cover": false,
             "title": "",
@@ -249,7 +256,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_PACKAGE_1300x1300_8685a41a-0076-451a-9ad0-ab2ac1606570.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_PACKAGE_1300x1300_8685a41a-0076-451a-9ad0-ab2ac1606570.jpg",
             "auto_height": "portrait",
             "cover": false,
             "title": "",
@@ -287,7 +294,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUESTGIFTPACKAGE_1300x1300_bd1ec17f-0bf4-4e20-8e96-81aa0261a4d4.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_GUESTGIFTPACKAGE_1300x1300_bd1ec17f-0bf4-4e20-8e96-81aa0261a4d4.jpg",
             "auto_height": "portrait",
             "cover": false,
             "title": "",
@@ -308,7 +315,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_TABLE_1300x1300_0ef9b64c-77f6-49ca-b3d3-86dee75c38cf.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_TABLE_1300x1300_0ef9b64c-77f6-49ca-b3d3-86dee75c38cf.jpg",
             "auto_height": "portrait",
             "cover": false,
             "title": "",
@@ -344,7 +351,7 @@
         "ad7cb1c8-c0f1-4318-bc29-df5eedcaafe0": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST1_1300x1300_0ca0c8e9-c51e-4b2b-bee8-01c9658105d4.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_GUEST1_1300x1300_0ca0c8e9-c51e-4b2b-bee8-01c9658105d4.jpg",
             "author": "",
             "link": ""
           }
@@ -352,7 +359,7 @@
         "0d9c8c54-6421-4302-8028-c3cd28ee1483": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST2_1300x1300_08482b17-e9cb-4107-a99e-e246c5f55392.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_GUEST2_1300x1300_08482b17-e9cb-4107-a99e-e246c5f55392.jpg",
             "author": "",
             "link": ""
           }
@@ -360,7 +367,7 @@
         "57332030-4185-4b77-b772-5cf84275bc61": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST3_1300x1300_03419c77-e53d-45c7-a95d-506f77f2c9c7.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_GUEST3_1300x1300_03419c77-e53d-45c7-a95d-506f77f2c9c7.jpg",
             "author": "",
             "link": ""
           }
@@ -368,7 +375,7 @@
         "970f8469-be12-4df2-9656-899d2aa0206e": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST4_1300x1300_0911d4fa-a611-422b-895e-de1e7beef0f3.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_GUEST4_1300x1300_0911d4fa-a611-422b-895e-de1e7beef0f3.jpg",
             "author": "@mollymahon",
             "link": ""
           }
@@ -376,7 +383,7 @@
         "bd3e23a3-4642-43a9-a29a-bd1f9a83f2a7": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST5_1300x1300_e493cd49-6e48-4cc4-86b1-36453633cf62.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_GUEST5_1300x1300_e493cd49-6e48-4cc4-86b1-36453633cf62.jpg",
             "author": "",
             "link": ""
           }
@@ -384,7 +391,7 @@
         "63e2d588-8e65-4cc3-9dff-855aa079c9e7": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST6_1300x1300_681f0573-a4b0-4dd1-88c7-f090f151ae0b.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_GUEST6_1300x1300_681f0573-a4b0-4dd1-88c7-f090f151ae0b.jpg",
             "author": "",
             "link": ""
           }
@@ -392,7 +399,7 @@
         "74b6289c-cbfc-4e58-8c97-00d2bfd9cee9": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST7_1300x1300_4c602066-7bd1-4f74-8f77-c4d84de1ab46.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_GUEST7_1300x1300_4c602066-7bd1-4f74-8f77-c4d84de1ab46.jpg",
             "author": "",
             "link": ""
           }
@@ -400,7 +407,7 @@
         "8b5b32d5-1d1b-4646-85d6-e594cff786a7": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_GUEST8_1300x1300_0010270d-64d0-4b28-af02-9e2e3203d4d4.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_GUEST8_1300x1300_0010270d-64d0-4b28-af02-9e2e3203d4d4.jpg",
             "author": "",
             "link": ""
           }
@@ -431,7 +438,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_FOOD_1300x1300_7c58d4c2-7ea9-4cf5-9f0a-5c91b8ef0fd0.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_FOOD_1300x1300_7c58d4c2-7ea9-4cf5-9f0a-5c91b8ef0fd0.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -452,7 +459,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_FOOD1_1300x1300_82b33b94-791a-43b1-b461-322582e79a4f.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_FOOD1_1300x1300_82b33b94-791a-43b1-b461-322582e79a4f.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -490,7 +497,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP2_1000x1500_9060dd0a-518d-429e-8746-eb182264ae32.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP2_1000x1500_9060dd0a-518d-429e-8746-eb182264ae32.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -511,7 +518,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP1_1000x1500_2d1c6f59-9fc7-4445-8c8c-3439b0548f85.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP1_1000x1500_2d1c6f59-9fc7-4445-8c8c-3439b0548f85.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -549,7 +556,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP3_1300x1300_7f0d925c-b96a-4193-9e90-cbca5f856f5d.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP3_1300x1300_7f0d925c-b96a-4193-9e90-cbca5f856f5d.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -570,7 +577,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP4_1300x1300_f05d0c31-41dc-4be2-99f0-a09c72b469c9.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP4_1300x1300_f05d0c31-41dc-4be2-99f0-a09c72b469c9.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -608,7 +615,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP5_1300x1300_54a5d186-78a9-43fe-906f-2c07ae87a2cd.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP5_1300x1300_54a5d186-78a9-43fe-906f-2c07ae87a2cd.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -629,7 +636,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP6_1300x1300_095bd508-a681-45a8-8375-70161c41f940.jpg",
+            "image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP6_1300x1300_095bd508-a681-45a8-8375-70161c41f940.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -665,7 +672,7 @@
         "template--14568898134074__2c58cc01-f9b1-4cc6-b894-cc4cfccd0ef9-1684489918e59ee5c3-0": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP7_1300x1300_d6eeb486-5cd0-44a2-8714-750804798180.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP7_1300x1300_d6eeb486-5cd0-44a2-8714-750804798180.jpg",
             "author": "",
             "link": ""
           }
@@ -673,7 +680,7 @@
         "7698dbd0-4aef-4da9-b71f-9e53b2fbcdce": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP10_1300x1300_4eac07bb-e894-4b23-adf1-89d39b295135.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP10_1300x1300_4eac07bb-e894-4b23-adf1-89d39b295135.jpg",
             "author": "",
             "link": ""
           }
@@ -681,7 +688,7 @@
         "2c8cf432-f342-4837-bb8b-7beee2a31e63": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP11_1300x1300_73681055-643a-4d91-b527-c6af35b40f4b.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP11_1300x1300_73681055-643a-4d91-b527-c6af35b40f4b.jpg",
             "author": "",
             "link": ""
           }
@@ -689,7 +696,7 @@
         "98d4ed87-34f2-4c77-9a25-43a35bda559c": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/MM_BLOOM_PRESS_WORKSHOP9_1300x1300_0216e526-9b1a-4422-81b1-f3404307b97d.jpg",
+            "insta_image": "shopify://shop_images/MM_BLOOM_PRESS_WORKSHOP9_1300x1300_0216e526-9b1a-4422-81b1-f3404307b97d.jpg",
             "author": "",
             "link": ""
           }
@@ -747,7 +754,7 @@
         "template--14540783288378__a771730f-9704-4631-adbf-8bb07c43b9a8-16844960500d7f5de1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bloom_barn_firepalce_curtains_chairs_1800x1000_53ce18af-b71a-4b8f-922c-3ca2c78837b4.jpg",
+        "image": "shopify://shop_images/bloom_barn_firepalce_curtains_chairs_1800x1000_53ce18af-b71a-4b8f-922c-3ca2c78837b4.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -768,7 +775,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Explore the Bloom Collection",
-        "link": "shopify:\/\/blogs\/look-books\/the-bloom-fabric-collection",
+        "link": "shopify://blogs/look-books/the-bloom-fabric-collection",
         "color_scheme": "dark"
       }
     }

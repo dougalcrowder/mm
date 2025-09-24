@@ -109,44 +109,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_barn_curtain_chequer_blues_1000x1500_b6a06b42-d9ca-4c7e-99a1-ae0aa85bd21d.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "dark",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "end",
             "text_align": "center",
             "button_label": "Explore the Bloom collection",
-            "button_link": "shopify://collections/bloom-fabric",
-            "subtext": ""
+            "button_link": "shopify://collections/bloom-fabric"
           }
         },
         "1657730156412eb3fd-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_barn_fabric_roles_1000x1500_cf6b838e-a5de-4f91-9c53-de8019eede85.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify://collections/bloom-fabric",
-            "subtext": ""
+            "button_link": "shopify://collections/bloom-fabric"
           }
         }
       },
@@ -157,7 +137,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -320,44 +299,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_barn_curtain_chequer_pinks_1000x1500_cac2ea56-e021-4215-8a0a-bb76a1193f15.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify://collections/bloom-fabric",
-            "subtext": ""
+            "button_link": "shopify://collections/bloom-fabric"
           }
         },
         "1657786206ef221d2d-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_barn_curtain_vase_blues_1000x1500_2f08c37b-0ace-4cd2-b0c1-6eb1fe7d36cc.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify://collections/bloom-fabric",
-            "subtext": ""
+            "button_link": "shopify://collections/bloom-fabric"
           }
         }
       },
@@ -368,7 +327,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -381,44 +339,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_barn_fabric_collection_folded_chair_1300x1300_2a296c6f-5293-4b0d-a57b-648883f140d8.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify://collections/bloom-fabric",
-            "subtext": ""
+            "button_link": "shopify://collections/bloom-fabric"
           }
         },
         "template--14536105099322__cc253307-1a74-468a-a7d6-2b5cce7c66ad-16783260918e3f6e47-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_molesworth_table_bread_dahlia_indigo_peach_1300x1300_b14fdd37-ceaa-4528-bb92-80464fabafe3.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "shopify://collections/bloom-fabric",
-            "subtext": ""
+            "button_link": "shopify://collections/bloom-fabric"
           }
         }
       },
@@ -429,7 +367,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -471,44 +408,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_barn_curtain_mughal_peachsabgreen_1000x1500_d71c81e4-0657-4566-8efb-00b35880052b.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "165778660260e93d17-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_barn_curtain_mughal_sky_pistachio_1000x1500_9ec10d54-a8d0-4953-99ba-b3698db2a3df.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -519,7 +436,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -584,44 +500,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_barn_curtain_dahlia_crimson_indigo_1000x1500_16f95043-0e49-47d3-aca6-698ff7ac182b.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "16577879919d9ec7d4-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_molesworth_hat_hedge_dahlia_1000x1500_9677a270-c587-4e9d-971f-1f593b007bbc.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -632,7 +528,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -715,44 +610,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_barn_curtain_vase_blues_1000x1500_2f08c37b-0ace-4cd2-b0c1-6eb1fe7d36cc.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "template--14536105099322__a6a4928c-9f03-44d6-8959-7d44dcc0ddf7-16783260918e3f6e47-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_barn_chequers_1000x1500_e5bb20bf-4aa5-40fd-b2e4-bf2e48aa91db.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -763,7 +638,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -789,44 +663,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_barn_armchair_widestripe_yellow_1000x1500_48714db0-d714-4de7-9c08-8a8ef8e523a1.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "template--14536105099322__995c97be-2085-4ac0-9b5d-5c6fca04b06b-16783260918e3f6e47-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/bloom_molesworth_gardenshed_apron_1000x1500_3bbf9cae-3f71-455e-b0de-97234f8efabf.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -837,7 +691,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"

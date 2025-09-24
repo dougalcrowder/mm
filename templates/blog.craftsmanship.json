@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "166211734227b7e858": {
@@ -13,8 +22,9 @@
         "1662117342ae43a78c-1": {
           "type": "text",
           "settings": {
-            "text": "‘The quality of design and work shown in something made by hand; artistry.’",
-            "go_serif": false
+            "text": "",
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "1662117342ae43a78c-2": {
@@ -35,36 +45,59 @@
         "1662117342ae43a78c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/269611342_313979097124189_10294121352655617_n.jpg",
-        "make_logo_white": false,
+        "image": "shopify://shop_images/MollyMahon_India_Nov2024_Kewal_Block-Carving_11.jpg",
+        "letterbox": false,
+        "respect_image": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "1662133548e10f7f5d": {
       "type": "mm_nav",
-      "settings": {
-      }
+      "settings": {}
     },
     "main": {
       "type": "main-blog",
       "settings": {
         "show_image": true,
         "blog_header": "",
-        "blog_intro": "<p>Molly started from her kitchen table and in her journey crafted the designs you see today.  We highly value the importance of things made by hand and the craft that produces its outcome.  This is not to say we do not value the machines that produce beautiful things also as you will see.<\/p><p>Discover more of the crafts we use to deliver the products to you....<\/p>",
+        "blog_intro": "<p>Molly started from her kitchen table and in her journey crafted the designs you see today.  We highly value the importance of things made by hand and the craft that produces its outcome.  This is not to say we do not value the machines that produce beautiful things also as you will see.</p><p>Discover more of the crafts we use to deliver the products to you....</p>",
         "show_date": false,
         "show_author": false
+      }
+    },
+    "single_title_and_text_WTziHt": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "name": "Title and Text",
+      "settings": {
+        "title": "‘The quality of design and work shown in something made by hand artistry.",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     }
   },
   "order": [
     "166211734227b7e858",
     "1662133548e10f7f5d",
-    "main"
+    "main",
+    "single_title_and_text_WTziHt"
   ]
 }

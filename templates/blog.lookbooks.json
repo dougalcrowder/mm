@@ -1,16 +1,24 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "ab3a796b-da30-4ac4-8dbb-718859cb230b": {
       "type": "mm_nav",
-      "settings": {
-      }
+      "settings": {}
     },
     "main": {
       "type": "main-blog",
       "settings": {
         "show_image": true,
         "blog_header": "Molly Mahon Look books",
-        "blog_intro": "<p>Molly has been introducing fabric and wallpaper collections since 2014 from her first launch of the Deerhyrst collection.  Enjoy looking through each collection to give a real life view of how her designs bring such joy to the home setting.<\/p>",
+        "blog_intro": "<p>Molly has been introducing fabric and wallpaper collections since 2015 from her first launch of the Deerhyrst collection.  Enjoy looking through each collection to give a real life view of how her designs bring such joy to the home setting.</p>",
         "show_date": false,
         "show_author": false
       }

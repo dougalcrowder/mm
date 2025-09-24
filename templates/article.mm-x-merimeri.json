@@ -1,0 +1,403 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "share"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "image_banner_MW3HXr": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_xk3yxJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Molly Mahon X Meri Meri",
+            "heading_type": "header1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xk3yxJ"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-MeriMeri-Banner.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-MeriMeri-Banner-Square.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "end",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_89z4iy": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Captivating, Reusable and Delightful",
+        "text": "<p>Molly Mahons collaborations with Meri Meri. <br/>Now in its second iteration.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_3VYiPt": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_F3gHY3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Featuring Molly’s beautiful block prints, these  collaborations include reusable trays, placemats and coasters.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_F3gHY3"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-MeriMeri-1.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "l"
+      }
+    },
+    "image_with_text_FD4DDF": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_EFALfy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Blending Molly Mahon’s distinctive patterns with MeriMeri’s whimsical charm, this captivating range of reusable partyware is perfect for parties, everyday use and picnics.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_EFALfy"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-MeriMeri-2.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_A7tcaQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_H7ipJE": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-MeriMeri-4.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_KNB4Yt": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-MeriMeri-5.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_jBUi97": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-MeriMeri-7.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_H7ipJE",
+        "column_KNB4Yt",
+        "column_jBUi97"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_Q6drdH": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_8yEarY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you are entertaining at home in your garden, in the park or at the beach!</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_8yEarY"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-MeriMeri-9.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_4E6cAQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_f6Btx7": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>“I’m thrilled to be collaborating with Meri Meri on this joyful collection.</h4><h4>These cheerful patterns, bursting with colour, are sure to bring joy and brighten any picnic or party, no matter the season.<br/><br/>From lively florals to dynamic geometric shapes, these designs are fun to mix and match, creating a happy display.<br/><br/>They’ll add a special touch to any occasion or celebration!”<br/><br/>- Molly Mahon -</h4>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_f6Btx7"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-MeriMeri-8.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_GwQqqq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_KJeyaB": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-MeriMeri-12.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_gLdBiP": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-MeriMeri-13.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_T6mnqT": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-MeriMeri-11.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_KJeyaB",
+        "column_gLdBiP",
+        "column_T6mnqT"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_banner_WmQmE7": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_kfipWM": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_kfipWM"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-MeriMeri-3.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-MeriMeri-10.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_MW3HXr",
+    "single_title_and_text_89z4iy",
+    "image_with_text_3VYiPt",
+    "image_with_text_FD4DDF",
+    "multicolumn_A7tcaQ",
+    "image_with_text_Q6drdH",
+    "image_with_text_4E6cAQ",
+    "multicolumn_GwQqqq",
+    "image_banner_WmQmE7"
+  ]
+}

@@ -12,7 +12,7 @@
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
-        "samplesintro": "<p>Important decisions shouldn’t be rushed which is why we are delighted to offer our swatches at only £1.00 each plus postage</p>",
+        "samplesintro": "<p>Important decisions shouldn’t be rushed which is why we are delighted to offer our swatches at a minimal charge each plus postage</p>",
         "offer": "gift-wrapping",
         "offer_pre_add_text": "Would you like this order gift wrapped?",
         "offer_add_text": "Add gift wrapping"

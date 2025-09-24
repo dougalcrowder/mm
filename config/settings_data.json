@@ -242,6 +242,7 @@
         "blocks": {
           "072e5e73-8808-4c6b-87d3-40137b8ad999": {
             "type": "heading",
+            "disabled": true,
             "settings": {
               "heading": "Sign up for 10% off your first order."
             }
@@ -263,9 +264,12 @@
           "502d7e48-b4ed-4861-8f30-60a5f24bf26c",
           "bd9030af-38b0-4569-857c-144a38231309"
         ],
+        "custom_css": [
+          "h6 {font-size: 16px;}"
+        ],
         "settings": {
-          "quote": "<h4>\"I find a room full of textures, layers and colours exciting and uplifting.\"</h4>",
-          "cite": "Molly Mahon"
+          "quote": "<h6>Join us for a joyful dose of pattern and creativity, straight to your inbox.<br/>Oh and a gift of 10% off your first order.</h6>",
+          "cite": ""
         }
       },
       "navigation": {
@@ -453,6 +457,7 @@
               "auto_height": "none",
               "title": "Hospitality",
               "text_align": "center",
+              "heading_size": "s",
               "button_label": "",
               "button_link": "shopify://pages/hospitality"
             }
@@ -463,9 +468,10 @@
             "settings": {
               "width": "one_third",
               "image": "shopify://shop_images/craftsmanship_block_printing_bloom_1000x1500_02d23a48-b9c0-43c7-b7fe-df7188569737.jpg",
-              "auto_height": "none",
+              "auto_height": "square",
               "title": "Craftsmanship",
               "text_align": "center",
+              "heading_size": "s",
               "button_label": "",
               "button_link": "shopify://blogs/craftsmanship"
             }
@@ -476,9 +482,10 @@
             "settings": {
               "width": "one_third",
               "image": "shopify://shop_images/71528222-951B-4A77-AAA3-E364FD2E2580_1_105_c.jpg",
-              "auto_height": "none",
+              "auto_height": "square",
               "title": "Lookbooks",
               "text_align": "center",
+              "heading_size": "s",
               "button_label": "",
               "button_link": "shopify://blogs/look-books"
             }
@@ -496,8 +503,8 @@
           "title_margin": "l",
           "gap": "medium",
           "border": false,
-          "margin_top": "none",
-          "margin_bot": "m"
+          "margin_top": "l",
+          "margin_bot": "none"
         }
       },
       "sidecart": {

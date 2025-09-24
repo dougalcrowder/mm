@@ -51,8 +51,10 @@
         "image": "shopify://shop_images/MM_Collections_Masthead_Images_-_MM_Community.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/MM_Collections_Mobile_Masthead_Images_-_MM_Community.jpg",
-        "make_logo_white": false,
+        "respect_image": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -71,7 +73,7 @@
       "settings": {
         "show_image": true,
         "blog_header": "Press Releases",
-        "blog_intro": "<p>Dive in to some of Molly Mahon's colourful press releases that we have enjoyed over the years. Contact us for further details and if you are looking to get in touch.<br/><br/>For PR enquiries, please contact our PR Team at<br/><a href=\"mailto:hannah@archelo.agency\">hannah@archelo.agency<br/><br/></a>Or for Marketing enquiries, please contact our Marketing team at<br/><a href=\"mailto:jemma@mollymahon.com\" target=\"_blank\">jemma@mollymahon.com</a>.</p>",
+        "blog_intro": "<p>Dive in to some of Molly Mahon's colourful press releases that we have enjoyed over the years. Contact us for further details and if you are looking to get in touch.<a href=\"mailto:hannah@archelo.agency\"><br/><br/></a>Or for Marketing and PR enquiries, please contact our Marketing team at<br/><a href=\"mailto:jemma@mollymahon.com\" target=\"_blank\">jemma@mollymahon.com</a>.</p>",
         "show_date": false,
         "show_author": false
       }

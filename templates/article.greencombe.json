@@ -121,44 +121,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/DIANTHUS_GARDENPATH_1600x_d4849115-0857-4911-b35e-1f54e1b8943c.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "1657730156412eb3fd-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/HORSE_DIANTHUS_1600x_11d87c30-ab29-4ec7-87d3-51d0f7bcd3c6.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -169,7 +149,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -333,44 +312,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/PRIMROSE_TRELLIS_BEDHEAD_GREENCOMBE_1.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "template--14304283263034__d1429295-feaf-40bb-8145-3e150eed6282-16814019819df3bd50-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/PRIMROSE_TRELLIS_BEDHEAD_GREENCOMBE.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -381,7 +340,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -407,44 +365,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/STRAWBERRY_KITCHEN_CURTAINS_1600x_8ab5abb2-4a1e-43e5-9caa-0b6f96a651b1.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "1657786206ef221d2d-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/GARDEN_PATH_ARMCHAIR_1600x_9ae8f5a2-4ece-416d-9334-b3b84c8c5b14.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -455,7 +393,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -497,88 +434,48 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/GCTULII-2_1600x_c41fbb0d-9e43-4b72-aeba-e6bf45a8cce7.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "165778660260e93d17-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/GCBERGS-2_1600x_3cfb1186-a379-4049-9033-d26cbf8c6c21.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "165778660260e93d17-2": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/BAGSTANDS_ARMCHAIR_1600x_019c2412-72c5-4510-b5f3-fcab40659e43.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "165afc99-a4c5-4a63-9cbe-df911ba644e8": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/STRAWBERRY_CURTAIN_1600x_a144b500-79c3-4668-b192-c2128c4a83b0.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -591,7 +488,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "sm",
         "margin_bot": "none"
@@ -712,44 +608,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/ATTICROOM_TULIP_1600x_bcf78a35-8c88-44fa-a340-5fbcba1fb28c.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "16577879919d9ec7d4-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/GREENCOMBE_CUSHIONS_1600x_426adbda-c41e-4d1a-a5a4-a7844c49fd78.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -760,7 +636,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "sm",
         "margin_bot": "m"

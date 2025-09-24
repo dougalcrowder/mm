@@ -1,10 +1,18 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "16421993483b631460": {
       "type": "image-banner",
@@ -29,7 +37,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Click here to order your brochure",
-            "button_link_1": "shopify:\/\/products\/greencombe-block-printed-fabric-brochure",
+            "button_link_1": "shopify://products/greencombe-block-printed-fabric-brochure",
             "button_style_secondary_1": true,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -43,7 +51,7 @@
         "1642199348d668b6b2-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ruffle_Cuhsions_By_Molly_Mahon_1.png",
+        "image": "shopify://shop_images/Ruffle_Cuhsions_By_Molly_Mahon_1.png",
         "letterbox": false,
         "make_logo_white": true,
         "top_margin": false,
@@ -74,7 +82,7 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "large",
-            "text": "<p>Every ruffle cushion is hand-block printed with Molly's designs, created in her studio in the Sussex countryside.<\/p><p>\"Ruffle cushions infuse charm and character into any space. Their intricate frills evoke a sense of nostalgia, while our patterns add visual interest. Choosing a ruffle cushion brings personality and warmth to your home, creating a joyful atmosphere that delights both you and your guests. I have them all over the house; on the backs of chairs, tops of beds, on our sofas, and even one in the car!\" - Molly Mahon. <\/p>",
+            "text": "<p>Every ruffle cushion is hand-block printed with Molly's designs, created in her studio in the Sussex countryside.</p><p>\"Ruffle cushions infuse charm and character into any space. Their intricate frills evoke a sense of nostalgia, while our patterns add visual interest. Choosing a ruffle cushion brings personality and warmth to your home, creating a joyful atmosphere that delights both you and your guests. I have them all over the house; on the backs of chairs, tops of beds, on our sofas, and even one in the car!\" - Molly Mahon. </p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
@@ -89,7 +97,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/Ruffle_Cushions_By_Molly_Mahon_2.png",
+            "image": "shopify://shop_images/Ruffle_Cushions_By_Molly_Mahon_2.png",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -159,7 +167,7 @@
         "template--14416261283898__11635f87-ea7f-40cc-9f8d-b0e32124cc95-16655017169b7dff55-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ruffle_Cushions_By_Molly_Mahon_-_Long_Frilly_Cushion.png",
+        "image": "shopify://shop_images/Ruffle_Cushions_By_Molly_Mahon_-_Long_Frilly_Cushion.png",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -184,9 +192,9 @@
           "settings": {
             "heading": "Striped Ruffle Cushions",
             "heading_size": "medium",
-            "text": "<p>Our striped ruffle cushions are a visual delight, featuring vibrant stripes that bring an energetic yet harmonious feel to any space. Perfect for those looking to introduce a splash of colour and pattern, our striped designs are not only on-trend but are crafted to last, ensuring your space remains warm and inviting.<\/p>",
+            "text": "<p>Our striped ruffle cushions are a visual delight, featuring vibrant stripes that bring an energetic yet harmonious feel to any space. Perfect for those looking to introduce a splash of colour and pattern, our striped designs are not only on-trend but are crafted to last, ensuring your space remains warm and inviting.</p>",
             "button_label": "",
-            "button_link": "shopify:\/\/pages\/cushions",
+            "button_link": "shopify://pages/cushions",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
@@ -257,7 +265,7 @@
         "buttons_CjxAV8"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ruffle_Cushions_By_Molly_Mahon_-_Pink_Ruffle_Cushions.png",
+        "image": "shopify://shop_images/Ruffle_Cushions_By_Molly_Mahon_-_Pink_Ruffle_Cushions.png",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -282,9 +290,9 @@
           "settings": {
             "heading": "Discover the Charm of Pink Ruffle Cushions",
             "heading_size": "medium",
-            "text": "<p>Pink is a  colour trend that's making its mark on interiors across the globe. Whether you’re looking to enhance your existing pink decor or inject a touch of this vibrant hue without a complete makeover, our pink ruffle cushions are your go-to for adding lively warmth.<br\/><\/p>",
+            "text": "<p>Pink is a  colour trend that's making its mark on interiors across the globe. Whether you’re looking to enhance your existing pink decor or inject a touch of this vibrant hue without a complete makeover, our pink ruffle cushions are your go-to for adding lively warmth.<br/></p>",
             "button_label": "",
-            "button_link": "shopify:\/\/pages\/cushions",
+            "button_link": "shopify://pages/cushions",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
@@ -296,9 +304,9 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p> Look out for our dual-print ruffle cushions, giving you the fun and versatility of two hand-block printed designs in one delightful cushion.<\/p>",
+            "text": "<p> Look out for our dual-print ruffle cushions, giving you the fun and versatility of two hand-block printed designs in one delightful cushion.</p>",
             "button_label": "",
-            "button_link": "shopify:\/\/pages\/cushions",
+            "button_link": "shopify://pages/cushions",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
@@ -369,7 +377,7 @@
         "buttons_683eyd"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ruffle_Cushions_By_Molly_Mahon_-_Blue_Ruffle_Cushions.png",
+        "image": "shopify://shop_images/Ruffle_Cushions_By_Molly_Mahon_-_Blue_Ruffle_Cushions.png",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -394,9 +402,9 @@
           "settings": {
             "heading": "Blue Ruffle Cushions, A Fresh Twist on Timeless Elegance",
             "heading_size": "medium",
-            "text": "<p>Combining plain hand-dyed linen fabrics with Molly’s hand-block printed fabrics, these ruffle cushions are unique updates on a classic and versatile hue. Each cushion, trimmed with a sumptuous blue frill, invites you to choose from designs such as florals, stars, and stripes, adding a splash of elegance and vibrant blue to any setting.<\/p>",
+            "text": "<p>Combining plain hand-dyed linen fabrics with Molly’s hand-block printed fabrics, these ruffle cushions are unique updates on a classic and versatile hue. Each cushion, trimmed with a sumptuous blue frill, invites you to choose from designs such as florals, stars, and stripes, adding a splash of elegance and vibrant blue to any setting.</p>",
             "button_label": "",
-            "button_link": "shopify:\/\/pages\/cushions",
+            "button_link": "shopify://pages/cushions",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
@@ -441,10 +449,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Ruffle Cushions",
-            "button_link_1": "shopify:\/\/collections\/ruffle-cushions",
+            "button_link_1": "shopify://collections/ruffle-cushions",
             "button_style_secondary_1": false,
             "button_label_2": "",
-            "button_link_2": "shopify:\/\/pages\/cushions",
+            "button_link_2": "shopify://pages/cushions",
             "button_style_secondary_2": true
           }
         }
@@ -454,7 +462,7 @@
         "buttons_fiYrQ7"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ruffle_Cushions_By_Molly_Mahon_-_Shop_All_Ruffle_Cushions.png",
+        "image": "shopify://shop_images/Ruffle_Cushions_By_Molly_Mahon_-_Shop_All_Ruffle_Cushions.png",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -474,7 +482,7 @@
     "166196159906fadd3f": {
       "type": "simple_quote",
       "settings": {
-        "quote": "<p>\"Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work\"<\/p>",
+        "quote": "<p>\"Molly Mahon has a magical, modern eye for block printing. I have long been a fan of her work\"</p>",
         "cite": "- Cath Kidston MBE",
         "bg": "green",
         "heading_size": "medium",
@@ -494,7 +502,7 @@
           "settings": {
             "heading": "Discover a World of Print, Colour and Pattern with Molly Mahon",
             "heading_size": "small",
-            "text": "<p>Molly Mahon is an independent British designer whose genuine love of fun patterns, the simple beauty of nature, and lush colours of India culminate in jubilant <a href=\"https:\/\/mollymahon.com\/collections\/home-goods\"><span style=\"text-decoration:underline\">homewares<\/span><\/a>, <a href=\"https:\/\/mollymahon.com\/collections\/fabric\"><span style=\"text-decoration:underline\">textiles<\/span><\/a> and luxury <a href=\"https:\/\/mollymahon.com\/collections\/wallpaper\"><span style=\"text-decoration:underline\">wallpapers<\/span><\/a>.<\/p><p>Each pattern starts life as a block print original. Skillful artisans in India create carved wooden blocks which are used to print patterns by hand. The perfect imperfections that this art form leads to is what gives Molly’s designs real heart and soul.<\/p>",
+            "text": "<p>Molly Mahon is an independent British designer whose genuine love of fun patterns, the simple beauty of nature, and lush colours of India culminate in jubilant <a href=\"https://mollymahon.com/collections/home-goods\"><span style=\"text-decoration:underline\">homewares</span></a>, <a href=\"https://mollymahon.com/collections/fabric\"><span style=\"text-decoration:underline\">textiles</span></a> and luxury <a href=\"https://mollymahon.com/collections/wallpaper\"><span style=\"text-decoration:underline\">wallpapers</span></a>.</p><p>Each pattern starts life as a block print original. Skillful artisans in India create carved wooden blocks which are used to print patterns by hand. The perfect imperfections that this art form leads to is what gives Molly’s designs real heart and soul.</p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -508,7 +516,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Happy, welcoming homes are all about human interaction and genuine connection, and so they lend themselves to the imperfectly perfect element of our block printed patterns. This, perhaps ironically, is also what gives our wallpapers that premium, luxurious feel that simply cannot be achieved by other forms of design.<\/p><p>The authentic charm of Molly’s designs has not gone unnoticed. It has instead led to exclusive collaborations with renowned brands including British design pioneers, <a href=\"https:\/\/www.boden.co.uk\/en-gb\"><span style=\"text-decoration:underline\">Boden<\/span><\/a>, and American favourite, Anthropoligie. <\/p><p>And with Molly Mahon luxury <a href=\"\/collections\/ruffle-cushions\" title=\"Ruffle Cushions\">ruffle cushions<\/a>, it can lead to your own home, too.<\/p>",
+            "text": "<p>Happy, welcoming homes are all about human interaction and genuine connection, and so they lend themselves to the imperfectly perfect element of our block printed patterns. This, perhaps ironically, is also what gives our wallpapers that premium, luxurious feel that simply cannot be achieved by other forms of design.</p><p>The authentic charm of Molly’s designs has not gone unnoticed. It has instead led to exclusive collaborations with renowned brands including British design pioneers, <a href=\"https://www.boden.co.uk/en-gb\"><span style=\"text-decoration:underline\">Boden</span></a>, and American favourite, Anthropoligie. </p><p>And with Molly Mahon luxury <a href=\"/collections/ruffle-cushions\" title=\"Ruffle Cushions\">ruffle cushions</a>, it can lead to your own home, too.</p>",
             "button_label": "",
             "button_link": "",
             "inset": true,

@@ -1,10 +1,18 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "1663848843f7b405b3": {
       "type": "divider",
@@ -48,7 +56,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.<\/p>",
+            "text": "<p>They say home is where the heart is. To us it’s even more. It’s where we create, imagine and seek comfort. It’s our backdrop to a lifetime of memories and stories to be told. Our home is a reflection of our colourful characters, from the pitter patter of tiny feet to the paws of our four-legged friends.</p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -62,7 +70,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home to.<\/p>",
+            "text": "<p>Our curated collection of wallpapers allows you to make your home a beautiful, joyful space that will entertain and delight for years to come. Don’t be afraid to get expressive. Your rooms should be as bright and beautiful as you wish - something you truly can’t wait to come home to.</p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -84,10 +92,10 @@
     "1663848964e69d2817": {
       "type": "simple_quote",
       "settings": {
-        "quote": "<p><em>\"Real homes are not showrooms or magazine ready rooms. Real homes are spaces to be comfortable and relaxed in.\" - Molly Mahon<\/em><\/p>",
+        "quote": "<p><em>\"Real homes are not showrooms or magazine ready rooms. Real homes are spaces to be comfortable and relaxed in.\" - Molly Mahon</em></p>",
         "cite": "",
         "bg": "none",
-        "image": "shopify:\/\/shop_images\/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
+        "image": "shopify://shop_images/ATTIC_BEDROOM_a2e88ee9-8e1b-4f18-9ce5-2edb3d013906.jpg",
         "heading_size": "large",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -105,7 +113,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3.jpg",
+            "image": "shopify://shop_images/MOODBOARD_WALLPAPERLANDINGPAGE_FERN_1300X1300_c319c4c6-40b6-4ff0-8de8-d08e0af926a3.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -131,13 +139,13 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Light up your living room with a roll of <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-birdsbees-peagreen\">Birds & Bees<\/a>, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-tree-green\">Tree<\/a><em> <\/em>pattern inspired by Molly’s local forest.<\/p><p>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our <a href=\"https:\/\/mollymahon.com\/pages\/fabric-mood-boards\">Mood Boards<\/a> for more printspiration and dare to be adventurous!<\/p>",
+            "text": "<p>Light up your living room with a roll of <a href=\"https://mollymahon.com/products/wallpaper-birdsbees-peagreen\">Birds & Bees</a>, or colour in your kitchen with autumnal leaves. There’s also plenty of trendy designer bedroom wallpaper prints to strike your fancy including our sophisticated <a href=\"https://mollymahon.com/products/wallpaper-tree-green\">Tree</a><em> </em>pattern inspired by Molly’s local forest.</p><p>Not sure where to begin? Trust your instincts and start with a small space - we normally choose what we love when it comes to interiors, whether it represents a significant memory or something that speaks to our family. Take a look at our <a href=\"https://mollymahon.com/pages/fabric-mood-boards\">Mood Boards</a> for more printspiration and dare to be adventurous!</p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
             "text_align": "left",
             "button_label": "Explore more mood board ideas from Molly",
-            "button_link": "shopify:\/\/pages\/wallpaper-mood-boards",
+            "button_link": "shopify://pages/wallpaper-mood-boards",
             "subtext": ""
           }
         }
@@ -205,7 +213,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Why have one pattern if you can have them all? The fabulous thing about patterns is that you don’t have to limit yourself to one. Mixing prints can give a home a contemporary, energising quality - and that way you won’t have to struggle to decide!<\/p><p>There are no rules when it comes to getting creative in the home. Clash abstract patterns with big blooming florals, or twin stripy designs with standout natural shapes such as <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-coral-blue\">Coral<\/a> or Hawaiian themed <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-lani-denim\">Lani<\/a>. The key is to pick complimenting colours… light blue and pale green, yellow and indigo, or bright pink and sage.<\/p><p>If matching is more your style, pick a patterned wallpaper for each room and pull out key colours to inject into your furnishings. From towels to bedspreads, highlighting one or two shades throughout your accessories will really make your pattern pop.<\/p>",
+            "text": "<p>Why have one pattern if you can have them all? The fabulous thing about patterns is that you don’t have to limit yourself to one. Mixing prints can give a home a contemporary, energising quality - and that way you won’t have to struggle to decide!</p><p>There are no rules when it comes to getting creative in the home. Clash abstract patterns with big blooming florals, or twin stripy designs with standout natural shapes such as <a href=\"https://mollymahon.com/products/wallpaper-coral-blue\">Coral</a> or Hawaiian themed <a href=\"https://mollymahon.com/products/wallpaper-lani-denim\">Lani</a>. The key is to pick complimenting colours… light blue and pale green, yellow and indigo, or bright pink and sage.</p><p>If matching is more your style, pick a patterned wallpaper for each room and pull out key colours to inject into your furnishings. From towels to bedspreads, highlighting one or two shades throughout your accessories will really make your pattern pop.</p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -219,7 +227,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Why not take your matching designs one step further and go for the fully printed look? Matchimalism is all about embracing your favourite print and inserting it everywhere you can. Each of our interior design wallpapers have a matching fabric that turns perfectly into curtains or blinds. Pair with a set of matching <a href=\"https:\/\/mollymahon.com\/collections\/cushions\">cushions<\/a>, a pleated <a href=\"https:\/\/mollymahon.com\/collections\/lampshades\">lampshade<\/a> or <a href=\"https:\/\/mollymahon.com\/collections\/kitchen\">kitchen accessories<\/a> such as a table cloth or tea towel for a super fun, extravagant touch.<\/p><p><strong>Ready to give your home a splash of colour? Take a look at our collection of <\/strong><a href=\"https:\/\/mollymahon.com\/collections\/home-goods\"><strong>home goods<\/strong><\/a><strong> or give your bedroom a pattern-inspired makeover with a set of <\/strong><a href=\"https:\/\/mollymahon.com\/collections\/bed-bath\"><strong>bedroom accessories<\/strong><\/a><strong>.<\/strong><\/p>",
+            "text": "<p>Why not take your matching designs one step further and go for the fully printed look? Matchimalism is all about embracing your favourite print and inserting it everywhere you can. Each of our interior design wallpapers have a matching fabric that turns perfectly into curtains or blinds. Pair with a set of matching <a href=\"https://mollymahon.com/collections/cushions\">cushions</a>, a pleated <a href=\"https://mollymahon.com/collections/lampshades\">lampshade</a> or <a href=\"https://mollymahon.com/collections/kitchen\">kitchen accessories</a> such as a table cloth or tea towel for a super fun, extravagant touch.</p><p><strong>Ready to give your home a splash of colour? Take a look at our collection of </strong><a href=\"https://mollymahon.com/collections/home-goods\"><strong>home goods</strong></a><strong> or give your bedroom a pattern-inspired makeover with a set of </strong><a href=\"https://mollymahon.com/collections/bed-bath\"><strong>bedroom accessories</strong></a><strong>.</strong></p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -241,7 +249,7 @@
     "1662459560c712da85": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/WALLPAPER_FERN_DEERHYRST_1800X900_d4e54199-8936-4860-8687-a551c878d469.jpg",
+        "image": "shopify://shop_images/WALLPAPER_FERN_DEERHYRST_1800X900_d4e54199-8936-4860-8687-a551c878d469.jpg",
         "letterbox": true,
         "make_logo_white": false,
         "top_margin": false,
@@ -272,7 +280,7 @@
         "1662459645f6c4403f-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a.jpg",
+        "image": "shopify://shop_images/STARRYSKBLOCKLIFE2_b1302ec2-cc56-4847-b1e0-5fe6faf3b80a.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -298,7 +306,7 @@
             "heading_size": "medium",
             "text": "",
             "button_label": "Learn more about block printing",
-            "button_link": "shopify:\/\/pages\/the-art-of-block-printing-with-molly-mahon",
+            "button_link": "shopify://pages/the-art-of-block-printing-with-molly-mahon",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
@@ -310,7 +318,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>Block printing is an ancient form of transferring design to cloth that goes back over 4,500 years - and we still love it today. One of the many things that drew Molly to hand block printing was the personal connection with each and every piece. The odd movement between each print of paint gives the finished product a sense of authentic energy that can’t be achieved with a machine. Like the imperfections of real life, it’s what makes it beautiful.<\/p><p>The block printing process starts in Molly’s countryside studio where she turns doodles from nature, travels and her daily life into repeat designs. Each is then carved into a unique lino or wooden block, and brought to life on quality fabrics and paper by our team of master printers in India. <\/p><p><\/p>",
+            "text": "<p>Block printing is an ancient form of transferring design to cloth that goes back over 4,500 years - and we still love it today. One of the many things that drew Molly to hand block printing was the personal connection with each and every piece. The odd movement between each print of paint gives the finished product a sense of authentic energy that can’t be achieved with a machine. Like the imperfections of real life, it’s what makes it beautiful.</p><p>The block printing process starts in Molly’s countryside studio where she turns doodles from nature, travels and her daily life into repeat designs. Each is then carved into a unique lino or wooden block, and brought to life on quality fabrics and paper by our team of master printers in India. </p><p></p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -350,7 +358,7 @@
             "title": "",
             "subtitle": "Keeping Traditions Alive",
             "subtitle_size": "large",
-            "text": "<p>Human connection is key to us, from the joy our designs evoke to the people responsible for their creation. We know every single artisan we work with in India and the UK - and their skills are second to none! <\/p><p>By partnering with crafts people in Jaipur, we’re able to support rich traditions that connect communities and keep the inimitable quality of handmade art alive. Each piece of block-printed cloth and paper is passed through multiple skilled hands, making it a treasured story to pass down through generations.<\/p><p>Recently we’ve experimented with another form of block printing to create our <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-strawberry-grass\">Strawberry<\/a> and <a href=\"https:\/\/mollymahon.com\/products\/wallpaper-bindi-blue\">Bindi<\/a> designs. Using surface printing, we’re able to create a wonderful, textured wallpaper with water based inks that ooze luxury and charm.<\/p>",
+            "text": "<p>Human connection is key to us, from the joy our designs evoke to the people responsible for their creation. We know every single artisan we work with in India and the UK - and their skills are second to none! </p><p>By partnering with crafts people in Jaipur, we’re able to support rich traditions that connect communities and keep the inimitable quality of handmade art alive. Each piece of block-printed cloth and paper is passed through multiple skilled hands, making it a treasured story to pass down through generations.</p><p>Recently we’ve experimented with another form of block printing to create our <a href=\"https://mollymahon.com/products/wallpaper-strawberry-grass\">Strawberry</a> and <a href=\"https://mollymahon.com/products/wallpaper-bindi-blue\">Bindi</a> designs. Using surface printing, we’re able to create a wonderful, textured wallpaper with water based inks that ooze luxury and charm.</p>",
             "button_color": "dark",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
@@ -365,7 +373,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+            "image": "shopify://shop_images/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
             "auto_height": "portrait",
             "cover": false,
             "title": "",
@@ -429,7 +437,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>We’re conscious of our impact on the environment and the mark we might make, aside from our patterned prints. So respecting how we treat our planet is just as important to us as creating joy. Every element of our business is thoroughly researched to make sure it’s the best it can be and fills us with pride - from the materials we use to the process of creation.<\/p><p>Each collection is made in small batches which allows us to focus on the details and create higher quality products. It also helps us to avoid waste whilst using water based ingredients and natural pigments where possible. We only use organic cottons and plant based fibres, ensuring your wallpaper, fabrics and furniture last for decades of fun. And every leftover snippet is used somewhere along the journey - nothing goes to waste if it doesn’t have to. <\/p>",
+            "text": "<p>We’re conscious of our impact on the environment and the mark we might make, aside from our patterned prints. So respecting how we treat our planet is just as important to us as creating joy. Every element of our business is thoroughly researched to make sure it’s the best it can be and fills us with pride - from the materials we use to the process of creation.</p><p>Each collection is made in small batches which allows us to focus on the details and create higher quality products. It also helps us to avoid waste whilst using water based ingredients and natural pigments where possible. We only use organic cottons and plant based fibres, ensuring your wallpaper, fabrics and furniture last for decades of fun. And every leftover snippet is used somewhere along the journey - nothing goes to waste if it doesn’t have to. </p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -443,7 +451,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>When it comes to packaging, you won’t see any plastic. And whilst we’re mindful of air miles, we’ve balanced this with supporting local communities to thrive who are often under threat from bulk manufacturing. Block printing is sadly in danger due to the rise of machine-printed fabric, yet this traditional craft creates hundreds of employment opportunities and is integral to India’s culture and wellbeing.<\/p><p><strong>Ready to shop? Take a look at our <\/strong><a href=\"https:\/\/mollymahon.com\/collections\/wallpaper\"><strong>collection of designer wallpapers<\/strong><\/a><strong> and get colourful!<\/strong><br\/><\/p>",
+            "text": "<p>When it comes to packaging, you won’t see any plastic. And whilst we’re mindful of air miles, we’ve balanced this with supporting local communities to thrive who are often under threat from bulk manufacturing. Block printing is sadly in danger due to the rise of machine-printed fabric, yet this traditional craft creates hundreds of employment opportunities and is integral to India’s culture and wellbeing.</p><p><strong>Ready to shop? Take a look at our </strong><a href=\"https://mollymahon.com/collections/wallpaper\"><strong>collection of designer wallpapers</strong></a><strong> and get colourful!</strong><br/></p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -477,7 +485,7 @@
         "1662460822f6d48925-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89.jpg",
+        "image": "shopify://shop_images/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -501,7 +509,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57.jpg",
+            "image": "shopify://shop_images/MollyBlockinghomepage_780f4e5f-26a9-4748-8bf4-92bc6906ef57.jpg",
             "auto_height": "portrait",
             "cover": false,
             "title": "Get Crafty",
@@ -527,13 +535,13 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
-            "text": "<p>Inspired to get creative? Join Molly at one of her immersive block printing workshops and learn how to make your very own printed piece. You’ll experiment with colour, pattern and material before going home with a beautiful product to display in your home.<\/p>",
+            "text": "<p>Inspired to get creative? Join Molly at one of her immersive block printing workshops and learn how to make your very own printed piece. You’ll experiment with colour, pattern and material before going home with a beautiful product to display in your home.</p>",
             "button_color": "dark",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
             "text_align": "left",
             "button_label": "Find out more about workshops and events",
-            "button_link": "shopify:\/\/pages\/workshops-and-events",
+            "button_link": "shopify://pages/workshops-and-events",
             "subtext": ""
           }
         }

@@ -1,0 +1,429 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_iUHBUj": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_pQzEBy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Molly Mahons Wallpaper Measuring Guide",
+            "heading_type": "header1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pQzEBy"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_Woodlands_Alun-Callendar_2025-02-13_032_d0cf9fde-a033-4af3-a472-1e2deb3f78c8.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon_Woodlands_Wallpaper-Measuring-Guide_318768e3-af0a-49a6-bce5-e7fa3e91fd4a.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "end",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_CdttxN": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "The Joyful Guide to Buying & Planning for Wallpaper",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_Fmfqz3": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_wNfnBD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There's nothing quite like wallpaper to transform a room. Whether you are adding charm to a cloakroom or bringing personality to a bedroom, it is one of the most magical design choices you can make.<br/><br/>But we know it can feel a little daunting at first.<br/>How much do you need?<br/>Who is going to hang it?<br/>What if I get it wrong?<br/><br/>Take a deep breath - we are here to help.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_wNfnBD"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Wallpaper-Oak.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_4t37gR": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Step One: Dream Big!",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_WNwCGh": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_AreEdg": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Start with inspiration<br/><br/></strong>Look at rooms you love, tear out pages, pin images and explore our designs to see what speaks to you.<br/><br/><strong>Think about<br/></strong><br/>Which room or wall would you like to transform?<br/>The mood you want to create. <br/>Uplifting? Cosy? Bold? Romantic??</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_AreEdg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Lani_wallpaper_gold_L184_per_me_tre_Photo_credit-_Elizabeth_Hay_Designs_b6c23332-6b2e-46dd-b6f7-2eba155e7ae3.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_Txw8KG": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Step Two: Measure Up Without Fear",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_iizUNk": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_J9TUMK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You don't need to be a maths wizard. You just need a tape measure and and this simple method.<br/><br/>1 - Measure the width and height of each wall you plan to cover (in metres).<br/>2 - Multiply <strong>Width X Height</strong> for each wall to get the square metres.<br/>3 - Add all the wall areas together.<br/>4 - Subtract the size of any big windows or doors.<br/>5 - Add <strong>10-15%</strong> extra to allow for pattern repeat, matching and trimming. </p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_J9TUMK"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/20241121MM18127_copy.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_AzP39k": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>Tip:</strong><br/><br/>Our rolls cover 52cm wide x 10m long. Each product page lists how much area one roll covers. <br/><br/>Ideally you will confirm with your decorator, however this guide will help you to work out an approximate cost.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_qrqFJE": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Step Three: Bring In The Professionals",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_FUB49b": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_TdtEq9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We highly recommend using a skilled decorator. It makes all the difference.<br/><br/>Ask your interior designer or builder for recommendations.  <br/>Search like The Decorators Forum or use \"decorator and your area\" online.<br/>Ask friends and neighbours for recommendations of professional and experienced decorators in your area.<br/><br/>They will confirm your quantity and handle all the trickier bits with care. </p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_TdtEq9"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Wallpaper-Marigold-Pink-Blue-3.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_xmBgCB": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Step Four: Order With Confidence",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_VRaW34": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_MTgXaL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Once you are happy with your choice and measurements <strong>order all your rolls together</strong> in one go to ensure the colour batch matches perfectly.<br/><br/>And don't forget to order a little extra for future touch-ups or framing offcuts.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_MTgXaL"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Walpaper-Guide-Inspiration.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_dcwRQX": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>Tip:</strong><br/><br/>If you are between patterns oder lots of samples. Tape them to your wall and live with it for a few days. </p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_K4yC6W": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Step Five: Enjoy The Transformation",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_neQdaD": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_GBGfLj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is the best part. Watch your room come to life! Whether it's a whimsical powder room or a bold hallway, wallpaper adds depth, warmth and joy.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_GBGfLj"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Wallpaper-Guide-Before-After.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_9NDEBT": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Final Thought",
+        "text": "<h4>Choosing wallpaper is an adventure, not a test. <br/>With a little planning and the right help it is completely do-able and the results are worth it every time.<br/>Go forth with confidence... and a touch of pattern! </h4>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_FHaXCA": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p>And if you have found this little guide useful why not share it with someone else who you think might need it?<br/>Simply click the little paper plane below.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "share"
+      ],
+      "settings": {}
+    },
+    "simple_button_wXpGhG": {
+      "type": "simple-button",
+      "custom_css": [
+        ".button {background-color: #fce2e1 !important;}"
+      ],
+      "name": "Button",
+      "settings": {
+        "label": "Back to Wallpapers",
+        "link": "shopify://collections/wallpaper",
+        "color_scheme": "white"
+      }
+    }
+  },
+  "order": [
+    "image_banner_iUHBUj",
+    "single_title_and_text_CdttxN",
+    "image_with_text_Fmfqz3",
+    "single_title_and_text_4t37gR",
+    "image_with_text_WNwCGh",
+    "single_title_and_text_Txw8KG",
+    "image_with_text_iizUNk",
+    "single_title_and_text_AzP39k",
+    "single_title_and_text_qrqFJE",
+    "image_with_text_FUB49b",
+    "single_title_and_text_xmBgCB",
+    "image_with_text_VRaW34",
+    "single_title_and_text_dcwRQX",
+    "single_title_and_text_K4yC6W",
+    "image_with_text_neQdaD",
+    "single_title_and_text_9NDEBT",
+    "single_title_and_text_FHaXCA",
+    "main",
+    "simple_button_wXpGhG"
+  ]
+}

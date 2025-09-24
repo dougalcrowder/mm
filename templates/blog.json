@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16354416148d3a6fb7": {
@@ -38,13 +47,15 @@
         "16354416148d3a6fb7-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_MM_Community.jpg",
+        "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Judhpur_Journal.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_MM_Community.jpg",
-        "make_logo_white": false,
+        "mobile_image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_Judhpur_Journal_7e78b1a5-1b41-466c-ba56-32e10384048c.jpg",
+        "respect_image": true,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
         "constrain": false,
-        "desktop_text_box_position": "middle",
+        "desktop_text_box_position": "start",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
@@ -61,7 +72,7 @@
       "settings": {
         "show_image": true,
         "blog_header": "Our Journal",
-        "blog_intro": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.<\/p>",
+        "blog_intro": "<p>The human connection is as important to us as colour, pattern and joy - there isn’t a single artisan that we work with that we haven’t met in person. Here, you can get to know more about the highly-skilled British and Indian craftspeople and companies we collaborate with, as well as Molly herself and the things that matter to her.</p>",
         "show_date": false,
         "show_author": false
       }

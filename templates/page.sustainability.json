@@ -1,19 +1,18 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "1649773735fabcedda": {
       "type": "image-banner",
@@ -51,7 +50,7 @@
         "164977373582025f2d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89.jpg",
+        "image": "shopify://shop_images/GREENCOMBE_COLLECTION_FLOWERDISPLAY_1800X1000_b9d8a7e9-f980-480e-84db-a3d0672d7f89.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -70,15 +69,14 @@
     },
     "166213362824d8104f": {
       "type": "mm_nav",
-      "settings": {
-      }
+      "settings": {}
     },
     "1657198256089a7c52": {
       "type": "single-title_and_text",
       "settings": {
         "title": "Sustainability",
         "heading_size": "medium",
-        "text": "<p>We’re conscious of our impact on the environment and the mark we make on our planet.  Respecting how we create our products is just as important to us as creating joy in the home. Every element of our business is thoroughly researched to make sure it’s the best it can be – from the materials we use to the process of creation.  This is something we are incredibly proud of.<\/p><p>Everything we make is done in small batches allowing us to focus on the details and creating higher quality products with no waste.  Where possible we use the cleanest water based paints and organic or plant based cloth.  We never throw away even a snippet of cloth; always finding a way to use it up.   <\/p>",
+        "text": "<p>We’re conscious of our impact on the environment and the mark we make on our planet.  Respecting how we create our products is just as important to us as creating joy in the home. Every element of our business is thoroughly researched to make sure it’s the best it can be – from the materials we use to the process of creation.  This is something we are incredibly proud of.</p><p>Everything we make is done in small batches allowing us to focus on the details and creating higher quality products with no waste.  Where possible we use the cleanest water based paints and organic or plant based cloth.  We never throw away even a snippet of cloth; always finding a way to use it up.   </p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text"
@@ -92,7 +90,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
+            "image": "shopify://shop_images/TUKTUK_PINK_LIFE_DRYING_1300x1300_39436102-05b5-4c0d-bc09-03d6a3977d51.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -114,7 +112,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/MM_FABRIC_WASHING_LIFE_1300x1300_bbc873a8-e257-4513-8af1-cf98061be49a.jpg",
+            "image": "shopify://shop_images/MM_FABRIC_WASHING_LIFE_1300x1300_bbc873a8-e257-4513-8af1-cf98061be49a.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -150,7 +148,7 @@
       "settings": {
         "title": "Our Process",
         "heading_size": "medium",
-        "text": "<p>By working directly with artisans around the world, production is connected and we have a personal understanding between us and all our suppliers. <\/p><p><strong>Printing and making in India: <\/strong><\/p><p>We are proud to be working with block printers who like us are always searching for the cleanest method of production while maintaning the highest level of their craft.<\/p><p><strong>Printing and making in the UK & Europe:<\/strong><\/p><p>We are the biggest fans of our producers here in the UK and our neighbouring Europe.  <\/p><p>It is important to us to keep in touch, invest and support in our talented local industry as well as working in our beloved India.<\/p><p>While once the UK was busy with block printing too, there are very few hand printers left (watch this space), however there are still many highly skilled industries and like minded producers that help us achieve near replica's of Molly's original block prints here in the UK.  Lampsahdes made by hand, water saving digital prints, paper made from recycled cotton for prints, all of these elements are in the fore front of our minds when we look for suppliers.<\/p>",
+        "text": "<p>By working directly with artisans around the world, production is connected and we have a personal understanding between us and all our suppliers. </p><p><strong>Printing and making in India: </strong></p><p>We are proud to be working with block printers who like us are always searching for the cleanest method of production while maintaning the highest level of their craft.</p><p><strong>Printing and making in the UK & Europe:</strong></p><p>We are the biggest fans of our producers here in the UK and our neighbouring Europe.  </p><p>It is important to us to keep in touch, invest and support in our talented local industry as well as working in our beloved India.</p><p>While once the UK was busy with block printing too, there are very few hand printers left (watch this space), however there are still many highly skilled industries and like minded producers that help us achieve near replica's of Molly's original block prints here in the UK.  Lampsahdes made by hand, water saving digital prints, paper made from recycled cotton for prints, all of these elements are in the fore front of our minds when we look for suppliers.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text"
@@ -162,7 +160,7 @@
       "settings": {
         "title": "Creativity & Craftsmamship",
         "heading_size": "medium",
-        "text": "<p>The heart and soul of what we do is founded on creativity.<\/p>",
+        "text": "<p>The heart and soul of what we do is founded on creativity.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "red_text"
@@ -172,7 +170,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Discover More about our Craftsmanship",
-        "link": "shopify:\/\/blogs\/craftsmanship",
+        "link": "shopify://blogs/craftsmanship",
         "color_scheme": "dark"
       }
     },
@@ -184,7 +182,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
+            "image": "shopify://shop_images/THE_LOVELY_SEAMTRESSES_LADIES_5c06bc36-2226-46d1-88d9-fb573f379abf.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -206,7 +204,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
+            "image": "shopify://shop_images/BLOCK_PRINTING_QUILT_DESIGN_09871d4e-183a-4fa2-a7ef-b20fc6cf97eb.jpg",
             "auto_height": "none",
             "cover": false,
             "no_hover": false,
@@ -273,7 +271,7 @@
         "1649421151dae3f553-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/269611342_313979097124189_10294121352655617_n.jpg",
+        "image": "shopify://shop_images/269611342_313979097124189_10294121352655617_n.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -295,7 +293,7 @@
       "settings": {
         "title": "Showing how we care",
         "heading_size": "medium",
-        "text": "<p>We are always asking ourselves 'are we doing the best for ourselves, our clients, our suppliers and the planet'.<\/p><p>One of Molly's biggest dreams is to see the whole block print industry do away with chemical based paints.  After intensive research and commitment we are proud to now be printing in a water-based only studio with lots of lovely natural light and space.<\/p><p>Molly's ongoing dedication to printing by hand ensures a beautiful industry of skilled crafts people can continue and exist alongside the ever increasing machine prints.  Nothing compares to the energy and life of something made by hand and Molly believes that we as humans need this sort of creativity and artistic connection in our lives in order to feel nourished, inspired and worthy.  <\/p><p>We take great consideration over the fabrics that we print on, staying as close to a natural fibre as we can.    By maintaining the simplest procedure throughout from the weaving, dying and printing we feel we are respecting the planet as best we can.   <\/p><p>Our use of plastics is at an all time low and we are always working on avoiding it all together.<\/p><p>In principle by keeping our processes simple, small scale, exciting, inspiring and realistic we feel we can create not only beautiful products, but thoughtful sustainable products that it worth investing in.<\/p><p>Anything that leaves our HQ has been made with love, dedication, thought and of an exceedingly high quality.<\/p>",
+        "text": "<p>We are always asking ourselves 'are we doing the best for ourselves, our clients, our suppliers and the planet'.</p><p>One of Molly's biggest dreams is to see the whole block print industry do away with chemical based paints.  After intensive research and commitment we are proud to now be printing in a water-based only studio with lots of lovely natural light and space.</p><p>Molly's ongoing dedication to printing by hand ensures a beautiful industry of skilled crafts people can continue and exist alongside the ever increasing machine prints.  Nothing compares to the energy and life of something made by hand and Molly believes that we as humans need this sort of creativity and artistic connection in our lives in order to feel nourished, inspired and worthy.  </p><p>We take great consideration over the fabrics that we print on, staying as close to a natural fibre as we can.    By maintaining the simplest procedure throughout from the weaving, dying and printing we feel we are respecting the planet as best we can.   </p><p>Our use of plastics is at an all time low and we are always working on avoiding it all together.</p><p>In principle by keeping our processes simple, small scale, exciting, inspiring and realistic we feel we can create not only beautiful products, but thoughtful sustainable products that it worth investing in.</p><p>Anything that leaves our HQ has been made with love, dedication, thought and of an exceedingly high quality.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text"
@@ -306,7 +304,7 @@
       "settings": {
         "title": "Ensuring a Long Life",
         "heading_size": "medium",
-        "text": "<p>We are working towards sharing tips on how to build a home using our fabrics and products and sustaining the longest life with those items as possible.  This can include planning for a room effectively, adding a leading edge to a curtain, protecting fabrics from sun damage, using eco washing powders and more.  We look forward to sharing our tips and tricks very soon to make the most of a MM purchase.<\/p>",
+        "text": "<p>We are working towards sharing tips on how to build a home using our fabrics and products and sustaining the longest life with those items as possible.  This can include planning for a room effectively, adding a leading edge to a curtain, protecting fabrics from sun damage, using eco washing powders and more.  We look forward to sharing our tips and tricks very soon to make the most of a MM purchase.</p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text"
@@ -357,7 +355,7 @@
         "1662111225182f2e59-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/HANDBLOCK_YELLOWFLOWER.jpg",
+        "image": "shopify://shop_images/HANDBLOCK_YELLOWFLOWER.jpg",
         "letterbox": false,
         "make_logo_white": false,
         "top_margin": false,
@@ -379,7 +377,7 @@
       "settings": {
         "title": "",
         "heading_size": "medium",
-        "text": "<p>Finding block print has changed Molly's path in life.  It has become her world.  With this in mind Molly wants to pass on the joy of creativity to as many people as possible and offers a growing schedule of workshops in the Art of Block Printing.  Not only does it allow a more connected understanding of block printing and why it is important, but it allows people to rediscover a creativity in themselves that they may well have left behind at school.  When this is found effectively, we experience JOY. <\/p><p>To Molly this is incremental to a happy sustainable life.   Not only do they learn to appreciate this beautiful craft, but they also make something to be proud of, to treasure and to add a thoughtful touch to their home.<\/p><p><strong>THE FUTURE:<\/strong><\/p><p>While we admit we are not perfect we endeavour to remain open, thoughtful, caring and connected.  We endeavour to make items with care and attention.  We endeavour to keep a close connection to all that we work with and only work with businesses that align with our outlook.  We promise to be transparent and honest. <\/p><p>Most importantly we endeavour to help our customers make good decisions that they won't regret.  We offer support so they can make savvy decisions and cherish the items that they invest in. <\/p>",
+        "text": "<p>Finding block print has changed Molly's path in life.  It has become her world.  With this in mind Molly wants to pass on the joy of creativity to as many people as possible and offers a growing schedule of workshops in the Art of Block Printing.  Not only does it allow a more connected understanding of block printing and why it is important, but it allows people to rediscover a creativity in themselves that they may well have left behind at school.  When this is found effectively, we experience JOY. </p><p>To Molly this is incremental to a happy sustainable life.   Not only do they learn to appreciate this beautiful craft, but they also make something to be proud of, to treasure and to add a thoughtful touch to their home.</p><p><strong>THE FUTURE:</strong></p><p>While we admit we are not perfect we endeavour to remain open, thoughtful, caring and connected.  We endeavour to make items with care and attention.  We endeavour to keep a close connection to all that we work with and only work with businesses that align with our outlook.  We promise to be transparent and honest. </p><p>Most importantly we endeavour to help our customers make good decisions that they won't regret.  We offer support so they can make savvy decisions and cherish the items that they invest in. </p>",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text"
@@ -389,7 +387,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Discover our Workshops",
-        "link": "shopify:\/\/pages\/workshops-and-events",
+        "link": "shopify://pages/workshops-and-events",
         "color_scheme": "dark"
       }
     }

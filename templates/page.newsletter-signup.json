@@ -11,17 +11,26 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {}
     },
-    "form": {
-      "type": "contact-form",
+    "single_title_and_text_GPgETj": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
       "settings": {
-        "heading": ""
+        "title": "Newsletter",
+        "text": "<p>Sign up below for our newsletter and printspiration.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     }
   },
   "order": [
     "main",
-    "form"
+    "single_title_and_text_GPgETj"
   ]
 }

@@ -1,0 +1,565 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_t6ppAW": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_XQmJ7K": {
+          "type": "heading",
+          "settings": {
+            "heading": "Molly Mahon Fabric Measuring Guide",
+            "heading_type": "header1"
+          }
+        },
+        "text_67zBfn": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XQmJ7K",
+        "text_67zBfn"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon_Woodlands_Alun-Callendar_2025-02-13_037.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon_Woodlands_Alun-Callendar_2025-02-13_037-Square.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "end",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_rHbfjJ": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Welcome to the Joy of Measuring for Your Home",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_xtbE8c": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_BzqfYL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There is something wonderfully exciting about planning a room, choosing colours, imagining cosy corners, dreaming up curtains that dance in the breeze or a chair brought back to life with a bold new print. At Molly Mahon, we believe your home should be a joyful reflection of you, full of pattern warmth and personality.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_BzqfYL"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Curtain-Poppuy-Mustard-Sky-Fabric-Seed-Mustard-Fabric-GardenPath-Midnight-Sky.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_hetHrm": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p>Measuring may not sound like the most thrilling part, but it is the start of the magic! A few simple calculations will give you the freedom to play, to create window dressings that feel generous and inviting, or a headboard that becomes a true centrepiece. Whether you are working with a professional or trying something yourself, this guide is here to help you feel confident and excited.<br/><br/>Think of it as the first step in your creative journey, a way to bring your vision to life, one joyful metre at a time.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_gVVNWj": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "CURTAINS",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_kycD67": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KCa7pW": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "CURTAINS"
+          }
+        },
+        "text_wzDVcB": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>STANDARD RULE OF THUMB:</strong><br/>Fabric requirements depend on WINDOW WIDTH, DROP and FULLNESS. (Usualy 2x to 2.5x the window width for a gathered look)<br/><br/><em><strong>Quick guide per pair of curtains:</strong></em><br/><br/><strong>Small Window </strong>(approx. 120cm wide, 130cm drop):<br/>4 - 5 metres of fabric.<br/><br/><strong>Medium Window </strong>(approx. 180cm wide, 220cm drop):<br/>6 - 8 metres of fabric<br/><br/><strong>Large Window </strong>(approx. 240-300cm wide, 250cm+ drop):<br/>10 - 15 metres of fabric</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_KCa7pW",
+        "text_wzDVcB"
+      ],
+      "custom_css": [],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Curtain-Luna-Blue-Yellow.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_jrFTDd": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>Additional considerations:<br/></strong><br/>Keep in mind that large pattern repeats (for example florals) may require extra fabric to allow for pattern matching.<br/>Also add extra length for puddling if desired.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_RrFNCf": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "ROMAN BLINDS",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_qziBLd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7QQWxE": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "ROMAN BLINDS"
+          }
+        },
+        "text_zbRgDM": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>FORMULA BASED APPROACH:</strong><br/>Fabric required = (Finished drop + pattern repeat + hems) x number of widths needed.<br/><br/><em><strong>Rough guide:</strong></em><br/><br/><strong>Small  Blind </strong>(100cm x 100 cm):<br/>1.5 - 2 metres of fabric<br/><br/><strong>Medium Blind</strong> (120cm x 150cm):<br/>2- 2.5 metres of fabric<br/><br/><strong>Large Blind</strong> (180cm + wide):<br/>2.5 - 3.5 metres of fabric</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_7QQWxE",
+        "text_zbRgDM"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Blinds-Sycamore-Olive-Green-Chair-Woodland-Sprig-Green-03_a417e980-6d30-440c-9a31-565691bf3e66.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_3XFhqY": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>Design Tip:<br/></strong><br/>Always pattern match horizontally if using multiple drops and add for turnings at the top and bottom.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_iLp3dW": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "ROLLER BLINDS",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_Jg4jAd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_PGMm4Y": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "ROLLER BLINDS"
+          }
+        },
+        "text_KNcrYf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Roller blinds require less fullness but more precision.<br/><br/><strong>Average Blind</strong> (120cm x 160cm):<br/>1.5 - 2 metres of fabric<br/><br/><strong>Fabric Estimate:</strong><br/>Finished width + side hems (approx. 10cm)<br/>Finished drop + allowances (approx. 30cm)</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_PGMm4Y",
+        "text_KNcrYf"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Rolling-Blind-Rose-Pink.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_n9yPJk": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>Note:<br/></strong><br/>Some block-printed fabrics may not suit roller blinds due to stiffness requirements - consult your blind maker.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_4teg8n": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "HEADBOARDS",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_EfDyEH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_w38kLg": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "HEADBOARDS"
+          }
+        },
+        "text_WpcatE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fabric use depends on width, height and style. Do you want it plain, fluted or buttoned?<br/><br/><em><strong>Guide by Bed Size:</strong></em><br/><br/><strong>Single</strong> (90cm wide):<br/>1.5 - 2 metres of fabric<br/><br/><strong>Double</strong> (135cm wide):<br/>2.5 - 3 metres of fabric<br/><br/><strong>King</strong> (150cm wide):<br/>3 - 3.5 metres of fabric<br/><br/><strong>Super King</strong> (180cm wide):<br/>3.5 - 4.5 metres of fabric</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_w38kLg",
+        "text_WpcatE"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Wallpaper-Fern-Mustard-Headboard-Luna-Khaki-Lampshade-Seed-Mustard.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_QMFrBR": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>Design Tip:<br/></strong><br/>Large prints look striking on headboards but do consider the centre placement of a motif.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_k6k9zp": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "ARMCHAIRS",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_dqnF4h": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7Qi4Nf": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "ARMCHAIRS"
+          }
+        },
+        "text_4Y8BRm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Here the required amount of fabric varies greatly depending on shape, size and whether the fabric is plain or patterned.<br/><br/><em><strong>Average estimates:</strong></em><br/><br/><strong>Occasional Chair:</strong><br/>Think dining chair with upholstered seat and back.<br/>2 -3 metres of fabric<br/><br/><strong>Armchair:</strong><br/>Comfy chair with arms, back and loose seat cushion.<br/>5 - 7 metres of fabric<br/><br/><strong>Wingback or Overstuffed Chair:</strong><br/>Luxurious and ideal to relax in next to a crackling fireplace.<br/>7 - 9 metres of fabric</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_7Qi4Nf",
+        "text_4Y8BRm"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Armchair-Bagru-DarkBlue-Lampshade-Strawberry-Copper-Cushion-Strawberry-Copper-Seed-Iron.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_Y4q7RA": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>Note:<br/></strong><br/>Patterned fabrics often require more for matching and stripes or directional prints will need careful alignment.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_CdGHRG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_X7bLak": {
+          "type": "heading",
+          "settings": {
+            "heading": "Final Tips"
+          }
+        },
+        "text_ADcTPA": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Always  consult your curtain maker or upholsterer!<br/></strong>All the information given above are estimates and not cutting plans.<br/><br/><strong>Order extra if unsure!</strong><br/>Hand block-printed fabrics can have slight variations between print runs and it is wise to allow for a 10-15% buffer.<br/><br/><strong>Check fabric width and repeat before calculating.</strong><br/>Many Molly Mahon fabrics are approx 137cm wide with repeats that may affect matching.<br/><br/><strong>Use leftover off cuts.<br/></strong>These can be made into cushions, little bags and many other useful or decorative little items.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_X7bLak",
+        "text_ADcTPA"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MOllyMaho0n-Curtain-Strawberry-Copper-Cushion-Trellis-Copper-Rust.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_gATYQW": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "And don't forget!",
+        "text": "<p><em><strong>BE BOLD!</strong></em><br/><br/>You've absolutely got this.<br/>A little effort now will reward you with a space you'll love for years to come. <br/><br/>Go forth and measure with Joy!<br/><br/><em>And if you have found this little guide useful click the paper plane below to share.</em></p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "share"
+      ],
+      "settings": {}
+    },
+    "simple_button_9GJz6p": {
+      "type": "simple-button",
+      "custom_css": [
+        ".button {background-color: #fce2e1 !important;}"
+      ],
+      "name": "Button",
+      "settings": {
+        "label": "Back to Fabrics",
+        "link": "shopify://collections/fabric",
+        "color_scheme": "white"
+      }
+    }
+  },
+  "order": [
+    "image_banner_t6ppAW",
+    "single_title_and_text_rHbfjJ",
+    "image_with_text_xtbE8c",
+    "single_title_and_text_hetHrm",
+    "single_title_and_text_gVVNWj",
+    "image_with_text_kycD67",
+    "single_title_and_text_jrFTDd",
+    "single_title_and_text_RrFNCf",
+    "image_with_text_qziBLd",
+    "single_title_and_text_3XFhqY",
+    "single_title_and_text_iLp3dW",
+    "image_with_text_Jg4jAd",
+    "single_title_and_text_n9yPJk",
+    "single_title_and_text_4teg8n",
+    "image_with_text_EfDyEH",
+    "single_title_and_text_QMFrBR",
+    "single_title_and_text_k6k9zp",
+    "image_with_text_dqnF4h",
+    "single_title_and_text_Y4q7RA",
+    "image_with_text_CdGHRG",
+    "single_title_and_text_gATYQW",
+    "main",
+    "simple_button_9GJz6p"
+  ]
+}

@@ -20,9 +20,12 @@
       "settings": {
         "title": "Boden loves Molly Mahon",
         "text": "",
+        "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
-        "color_scheme": "red_text"
+        "color_scheme": "red_text",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1649421151e2286ae0": {
@@ -63,6 +66,7 @@
       "settings": {
         "image": "shopify://shop_images/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
         "letterbox": false,
+        "respect_image": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -79,15 +83,20 @@
         "hover_text": false
       }
     },
-    "16497531215a72524d": {
-      "type": "text-banner",
+    "simple_quote_WQEzgc": {
+      "type": "simple_quote",
+      "name": "Simple Quote",
       "settings": {
-        "title": "<p>Boden x Molly Mahon Collaboration</p>",
-        "link": "",
-        "bg_pattern": "pattern_01",
-        "color_scheme": "blue_text",
-        "custom_color_on": false,
-        "custom_color": ""
+        "quote": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden</em></p>",
+        "cite": "- Cath Kidston MBE",
+        "bg": "green",
+        "heading_size": "small",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "white_text",
+        "bg_color_scheme": "none",
+        "margin_top": "m",
+        "margin_bot": "none"
       }
     },
     "16493238884c9fcdae": {
@@ -170,10 +179,19 @@
       ],
       "settings": {
         "image": "shopify://shop_images/MOLLY_ATDESK_BODENDESIGNS.jpg",
-        "color_scheme": "white_text",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first"
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "1649168475c1efc613": {
@@ -218,10 +236,19 @@
       ],
       "disabled": true,
       "settings": {
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first"
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "16497799051a062744": {
@@ -231,10 +258,11 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/GREENCOMBE_POPPY_SITTINGROOM_1600x_2d3308e6-a96e-4148-afa1-a6ea29905c8a.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/MollyMahon-Woodlands-Collection-1.jpg",
+            "auto_height": "square",
             "title": "Fabric",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "Shop Fabric",
             "button_link": "shopify://collections/fabric"
           }
@@ -243,10 +271,11 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/DEERHYRST_QUILT_BEDROOM.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/Molly_Mahon_Wallpaper.jpg",
+            "auto_height": "square",
             "title": "Wallpaper",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "Shop Wallpaper",
             "button_link": "shopify://collections/wallpaper"
           }
@@ -259,6 +288,9 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
@@ -352,6 +384,7 @@
       "settings": {
         "image": "shopify://shop_images/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
         "letterbox": false,
+        "respect_image": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -367,30 +400,19 @@
         "bg_color_scheme": "none",
         "hover_text": false
       }
-    },
-    "1649796058b0df534e": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "",
-        "text": "<p><em>\"I've always admired Molly's very British sensibility, which chimes so much with our own, introducing her Indian block prints to our new range has been a creative treat and it has been wonderful to see them sitting alongside our own hand-drawn prints\".  Johnnie Boden</em></p>",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text"
-      }
     }
   },
   "order": [
     "main",
     "16493410663ec373b3",
     "1649421151e2286ae0",
-    "16497531215a72524d",
+    "simple_quote_WQEzgc",
     "16493238884c9fcdae",
     "16494230664438bb0a",
     "1649168475c1efc613",
     "16497737851f5354fa",
     "16497799051a062744",
     "164977386398db0550",
-    "1649773735fabcedda",
-    "1649796058b0df534e"
+    "1649773735fabcedda"
   ]
 }

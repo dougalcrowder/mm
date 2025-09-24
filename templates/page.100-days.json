@@ -1,10 +1,18 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "16421993483b631460": {
       "type": "image-banner",
@@ -29,7 +37,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Click here to order your brochure",
-            "button_link_1": "shopify:\/\/products\/greencombe-block-printed-fabric-brochure",
+            "button_link_1": "shopify://products/greencombe-block-printed-fabric-brochure",
             "button_style_secondary_1": true,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -43,7 +51,7 @@
         "1642199348d668b6b2-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GETCREATIVE20_13180fef-6e0c-44e9-82c7-8594563fba65.jpg",
+        "image": "shopify://shop_images/GETCREATIVE20_13180fef-6e0c-44e9-82c7-8594563fba65.jpg",
         "letterbox": false,
         "make_logo_white": true,
         "top_margin": false,
@@ -61,8 +69,7 @@
     },
     "06b1d863-acc6-4e5c-abc9-d8dbe5d80278": {
       "type": "mm_nav",
-      "settings": {
-      }
+      "settings": {}
     },
     "1642200428ac6075d8": {
       "type": "multicolumn",
@@ -77,7 +84,7 @@
             "title": "",
             "subtitle": "",
             "subtitle_size": "large",
-            "text": "<p>The reason I wanted to share this count down with you all is because this time of year for me picks up the pace and I feel like I am hurtling towards Christmas like a meteor through space.  The result of that is often rash decisions, missing out on events, not laying firm plans with friends and family and panic buying.  So this year, I am going to make things fun and joyous, relaxed and calm; I want to make this Christmas truly special. I aim to make this Christmas as homemade as possible, full of delightful thoughtful gifts with an element of care.<\/p>",
+            "text": "<p>The reason I wanted to share this count down with you all is because this time of year for me picks up the pace and I feel like I am hurtling towards Christmas like a meteor through space.  The result of that is often rash decisions, missing out on events, not laying firm plans with friends and family and panic buying.  So this year, I am going to make things fun and joyous, relaxed and calm; I want to make this Christmas truly special. I aim to make this Christmas as homemade as possible, full of delightful thoughtful gifts with an element of care.</p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
@@ -92,7 +99,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/AlunCallenderPhoto_MollyMahon_034_0333.jpg",
+            "image": "shopify://shop_images/AlunCallenderPhoto_MollyMahon_034_0333.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -130,7 +137,7 @@
           "settings": {
             "heading": "Make your Mark this Christmas",
             "heading_size": "large",
-            "text": "<p>As a company we also want to help you make your Christmas as meaningful as possible and so we thought it would be fun and helpful to start a countdown, to share some of the things I am doing along the way.  To show you what we can offer you in terms of what you can block print and make for yourselves and your homes as well as what we offer that would make great gifts.  I am going to share tips and tricks for decorating the home, how to use block printing to your advantage.  I am going to meet with friends and family along the way to show how this doesn’t have to be a one person thing! <\/p>",
+            "text": "<p>As a company we also want to help you make your Christmas as meaningful as possible and so we thought it would be fun and helpful to start a countdown, to share some of the things I am doing along the way.  To show you what we can offer you in terms of what you can block print and make for yourselves and your homes as well as what we offer that would make great gifts.  I am going to share tips and tricks for decorating the home, how to use block printing to your advantage.  I am going to meet with friends and family along the way to show how this doesn’t have to be a one person thing! </p>",
             "button_label": "",
             "button_link": "",
             "inset": true,
@@ -144,9 +151,9 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p>We are going to be sending small surprises in orders and X8 golden crackers at random between now and Christmas with a Molly Mahon voucher worth from £20 to £150 to spend at your will.  I am busy making videos for Instagram to show you how my printing kits work, how to fold napkins for the Christmas table, make name cards, print bunting and more.<\/p>",
+            "text": "<p>We are going to be sending small surprises in orders and X8 golden crackers at random between now and Christmas with a Molly Mahon voucher worth from £20 to £150 to spend at your will.  I am busy making videos for Instagram to show you how my printing kits work, how to fold napkins for the Christmas table, make name cards, print bunting and more.</p>",
             "button_label": "Subscribe and Join Molly on her count down",
-            "button_link": "shopify:\/\/pages\/subscribe",
+            "button_link": "shopify://pages/subscribe",
             "inset": true,
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
@@ -169,7 +176,7 @@
         "template--14422729228346__abdb9a41-917e-4d1b-a39b-e000c06eac8d-1665049142a009a3ff-0": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/supply_store_crafting_1_kitchentable_1300x1300_dfccfd02-6cfd-468f-87af-667af9584a41.jpg",
+            "insta_image": "shopify://shop_images/supply_store_crafting_1_kitchentable_1300x1300_dfccfd02-6cfd-468f-87af-667af9584a41.jpg",
             "author": "",
             "link": ""
           }
@@ -177,7 +184,7 @@
         "2d15393d-48b2-49de-a5bd-318d4a1f0149": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/supply_store_crafting_kitchentable_1300x1300_0107be0a-a540-40bc-9f11-d98f60109523.jpg",
+            "insta_image": "shopify://shop_images/supply_store_crafting_kitchentable_1300x1300_0107be0a-a540-40bc-9f11-d98f60109523.jpg",
             "author": "",
             "link": ""
           }
@@ -185,7 +192,7 @@
         "1ee9ddb2-667e-4951-8590-5a71afc01c77": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/supply_store_crafting_2_kitchentable_1300x1300_a01fce61-565e-465c-bdee-e3f685aeda99.jpg",
+            "insta_image": "shopify://shop_images/supply_store_crafting_2_kitchentable_1300x1300_a01fce61-565e-465c-bdee-e3f685aeda99.jpg",
             "author": "",
             "link": ""
           }
@@ -193,7 +200,7 @@
         "35366b9a-a8f2-4394-947c-3440ff623dc7": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/supply_store_crafting_3_kitchentable_1300x1300_a882ed37-83b4-4adf-97ec-a57668deb675.jpg",
+            "insta_image": "shopify://shop_images/supply_store_crafting_3_kitchentable_1300x1300_a882ed37-83b4-4adf-97ec-a57668deb675.jpg",
             "author": "",
             "link": ""
           }
@@ -225,13 +232,13 @@
             "title": "",
             "subtitle": "Things that I have done already:",
             "subtitle_size": "medium",
-            "text": "<p><em><strong>September - early November<\/strong><\/em><\/p><p>* Spoken to family and organisied who will be where on which days.<\/p><p>* Written a list of everyone that we will be gifting this year.<\/p><p>* Provisioned for all the kit I need to start hand printing our Christmas cards.  I have booked out some weekends and some days in half term with the kids.<\/p><p>* Who i want to send Christmas cards to this year.  NOTE - there are more than an handful of Royal Mail strikes this year so don't leave it too late.<\/p><p>* I have Godchildren who live abroad so i need to make sure that their gifts are ready to go by the end of November latest.<\/p><p>* Half term activities - use the time while the children are at home to entertain them as well as making something ready for Christmas.  I will share ideas on making paper stars, paper chains, wrapping paper and more..<\/p><p>* Organising where we can take the children to a carol concert or the theatre over the Christmas holidays.<\/p><p>* Filmed some new and exciting festive content ahead of the crazy Christmas period!<\/p><p>* Created a Molly Mahon Christmas edit of products from our products with some special 'bundle deal' prices to make shopping a little more appealing!<\/p>",
+            "text": "<p><em><strong>September - early November</strong></em></p><p>* Spoken to family and organisied who will be where on which days.</p><p>* Written a list of everyone that we will be gifting this year.</p><p>* Provisioned for all the kit I need to start hand printing our Christmas cards.  I have booked out some weekends and some days in half term with the kids.</p><p>* Who i want to send Christmas cards to this year.  NOTE - there are more than an handful of Royal Mail strikes this year so don't leave it too late.</p><p>* I have Godchildren who live abroad so i need to make sure that their gifts are ready to go by the end of November latest.</p><p>* Half term activities - use the time while the children are at home to entertain them as well as making something ready for Christmas.  I will share ideas on making paper stars, paper chains, wrapping paper and more..</p><p>* Organising where we can take the children to a carol concert or the theatre over the Christmas holidays.</p><p>* Filmed some new and exciting festive content ahead of the crazy Christmas period!</p><p>* Created a Molly Mahon Christmas edit of products from our products with some special 'bundle deal' prices to make shopping a little more appealing!</p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
             "text_align": "left",
             "button_label": "Explore our Christmas Edit",
-            "button_link": "shopify:\/\/collections\/christmas-edit",
+            "button_link": "shopify://collections/christmas-edit",
             "subtext": ""
           }
         },
@@ -240,7 +247,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/supply_store_crafting_kitchentable_1300x1300_0107be0a-a540-40bc-9f11-d98f60109523.jpg",
+            "image": "shopify://shop_images/supply_store_crafting_kitchentable_1300x1300_0107be0a-a540-40bc-9f11-d98f60109523.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -278,7 +285,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BB_APERITIF_1300X1300_aeed2e55-d7de-480a-9b38-46f00e386a0b.jpg",
+            "image": "shopify://shop_images/BB_APERITIF_1300X1300_aeed2e55-d7de-480a-9b38-46f00e386a0b.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -304,7 +311,7 @@
             "title": "",
             "subtitle": "Things that I am Starting to think about:",
             "subtitle_size": "medium",
-            "text": "<p><em><strong>Mid November<\/strong><\/em><\/p><p>* Getting my Christmas cards address and using up old stamps which are about to go out of validity if they dont have a bar code!<\/p><p>* More videos on how to block print cards, bunting & Christmas wrapping paper.<\/p><p>* Send the gifts to those International God children!<\/p><p>* A video to show our Christmas edit and what special offers we are making until Christmas…think QVC style video here!<\/p><p>* Any day now … The launch of our 8 GOLDEN crackers which will be sent out in 8 random orders between now and Christmas.<\/p><p>* What we will be doing at Molly Mahon for Black Friday – it makes my teeth grind at the prospect, but with our successful alternative of BLOCK FRIDAY we will have something special for you at the ready.<\/p><p>* Printing wrapping paper and other planet-friendly solutions to wrapping presents and making them beautiful.  A thoughtfully wrapped gift is already special before it has even been opened!<\/p><p>* Releasing our first GOLD cracker…. X8 to go out with random orders between now and Christmas !  From £20 to £150 - who knows what you might win!<\/p>",
+            "text": "<p><em><strong>Mid November</strong></em></p><p>* Getting my Christmas cards address and using up old stamps which are about to go out of validity if they dont have a bar code!</p><p>* More videos on how to block print cards, bunting & Christmas wrapping paper.</p><p>* Send the gifts to those International God children!</p><p>* A video to show our Christmas edit and what special offers we are making until Christmas…think QVC style video here!</p><p>* Any day now … The launch of our 8 GOLDEN crackers which will be sent out in 8 random orders between now and Christmas.</p><p>* What we will be doing at Molly Mahon for Black Friday – it makes my teeth grind at the prospect, but with our successful alternative of BLOCK FRIDAY we will have something special for you at the ready.</p><p>* Printing wrapping paper and other planet-friendly solutions to wrapping presents and making them beautiful.  A thoughtfully wrapped gift is already special before it has even been opened!</p><p>* Releasing our first GOLD cracker…. X8 to go out with random orders between now and Christmas !  From £20 to £150 - who knows what you might win!</p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "start",
@@ -341,13 +348,13 @@
             "title": "",
             "subtitle": "Things to come!:",
             "subtitle_size": "medium",
-            "text": "<p><em><strong>December<\/strong><\/em><\/p><p>* More videos on how to fold napkins, wrap presents, print bunting.<\/p><p>* Tips and tricks to make your home cosy and festive this Christmas, from lighting to cushions to creative and colourful decorations.<\/p><p>* Tablescaping and how planning ahead takes the sting out of tablebombing! What is tablebombing I hear you ask?  Not literally throwing yourself at the table, but throwing tablecloths\/napkins\/ vases on the table with little time or thought to the overall look.<\/p><p>* Some fun ideas for you to do with the children this christmas, like a family friendly theatre trip, ice skating, fireworks, and festive christmas markets!<\/p><p>* Ideas for those end of term gifts for Teachers (given it is always so tricky to come up with something original!).<\/p><p>* Party Games to entertain even the trickiest of family members!<\/p><p><strong>Don't miss out - Subscribe to our mailing list to receive all these Christmas goodies.<\/strong><\/p>",
+            "text": "<p><em><strong>December</strong></em></p><p>* More videos on how to fold napkins, wrap presents, print bunting.</p><p>* Tips and tricks to make your home cosy and festive this Christmas, from lighting to cushions to creative and colourful decorations.</p><p>* Tablescaping and how planning ahead takes the sting out of tablebombing! What is tablebombing I hear you ask?  Not literally throwing yourself at the table, but throwing tablecloths/napkins/ vases on the table with little time or thought to the overall look.</p><p>* Some fun ideas for you to do with the children this christmas, like a family friendly theatre trip, ice skating, fireworks, and festive christmas markets!</p><p>* Ideas for those end of term gifts for Teachers (given it is always so tricky to come up with something original!).</p><p>* Party Games to entertain even the trickiest of family members!</p><p><strong>Don't miss out - Subscribe to our mailing list to receive all these Christmas goodies.</strong></p>",
             "button_color": "white",
             "color_scheme": "dark_text",
             "desktop_text_box_position": "center",
             "text_align": "left",
             "button_label": "Subscribe",
-            "button_link": "shopify:\/\/pages\/subscribe",
+            "button_link": "shopify://pages/subscribe",
             "subtext": ""
           }
         },
@@ -356,7 +363,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec.jpg",
+            "image": "shopify://shop_images/block_printing_table_runner_oldlands_1000x1500_a1010aab-5a0a-467e-b8a8-cb1e6c7b33ec.jpg",
             "auto_height": "none",
             "cover": false,
             "title": "",
@@ -389,10 +396,10 @@
     "166196159906fadd3f": {
       "type": "simple_quote",
       "settings": {
-        "quote": "<p>Last year we recieved some joyous photos from customers who got together with friends and made a great big crafting session together.<\/p>",
+        "quote": "<p>Last year we recieved some joyous photos from customers who got together with friends and made a great big crafting session together.</p>",
         "cite": "",
         "bg": "none",
-        "image": "shopify:\/\/shop_images\/ABOUTWORKSHOPS_54521b1f-e122-4cdb-b7eb-1ded2795b9a0.jpg",
+        "image": "shopify://shop_images/ABOUTWORKSHOPS_54521b1f-e122-4cdb-b7eb-1ded2795b9a0.jpg",
         "heading_size": "medium",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -408,15 +415,15 @@
         "1fd4e5b2-f5ba-44ea-8d3e-77f6db153b22": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/BOMBAYBUSTLE_TUKTUK_1300x1300_45cdc535-e7f0-44f7-90dd-61d8943e21b4.jpg",
+            "insta_image": "shopify://shop_images/BOMBAYBUSTLE_TUKTUK_1300x1300_45cdc535-e7f0-44f7-90dd-61d8943e21b4.jpg",
             "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+            "link": "https://www.instagram.com/mollymahonblockprinting"
           }
         },
         "9a9ccf59-708a-4a09-b5e0-49be601523da": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/insta_soap_nicholson_workshop_1300x1300_09df9949-400f-4f75-a9d3-3c868ff9b53c.jpg",
+            "insta_image": "shopify://shop_images/insta_soap_nicholson_workshop_1300x1300_09df9949-400f-4f75-a9d3-3c868ff9b53c.jpg",
             "author": "@mollymahonblockprinting",
             "link": ""
           }
@@ -424,17 +431,17 @@
         "template--14422729228346__5f6d8d05-9386-4272-ad40-1d3f5d6a90b0-1665156589d65d6e4b-0": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/Screenshot_2022-10-07_at_16.32.18.png",
+            "insta_image": "shopify://shop_images/Screenshot_2022-10-07_at_16.32.18.png",
             "author": "@mollymahonblockingprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+            "link": "https://www.instagram.com/mollymahonblockprinting"
           }
         },
         "d0e82e45-e83b-474e-9e23-b87c18894579": {
           "type": "Instalink",
           "settings": {
-            "insta_image": "shopify:\/\/shop_images\/christmas_wrapping_paper_studio_present_pile_130x1300_d08745a2-1b9b-4390-ab6e-f862c73fa703.jpg",
+            "insta_image": "shopify://shop_images/christmas_wrapping_paper_studio_present_pile_130x1300_d08745a2-1b9b-4390-ab6e-f862c73fa703.jpg",
             "author": "@mollymahonblockprinting",
-            "link": "https:\/\/www.instagram.com\/mollymahonblockprinting"
+            "link": "https://www.instagram.com/mollymahonblockprinting"
           }
         }
       },

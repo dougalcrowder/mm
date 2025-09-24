@@ -119,88 +119,48 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/SURFACE_PRINT_BINDI_PORTRAIT_1300x1300_f5d30fc5-ce41-4f6e-a841-89bb90dfb39d.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "1657730156412eb3fd-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/SURFACE_PRINT_STRAWBERRY_PRINTING_1300X1300_35f51d0f-607b-4d6e-830f-bba110ac9ee6.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "9c616d7c-bfc5-45c2-8027-c20992bc5b4d": {
           "type": "column",
           "settings": {
             "width": "two_thirds",
-            "narrow": false,
             "image": "shopify://shop_images/BLOG_SURFACEPRINT_BINDI_PRINT_ROLLER_BLOCK_09.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "d2427bde-cdda-47e2-96f8-970ba804c589": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "narrow": false,
             "image": "shopify://shop_images/SURFACE_PRINT_BINDI_PRINTING_1300X1300_c519be8d-3f38-4ee7-bf6b-d754939d3696.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -213,7 +173,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
@@ -236,44 +195,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/SURFACE_PRINT_BINDI_DEERHYRST_1300x1300_f3eb2ae0-06d7-45bf-b332-9ff78279a9f3.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Shop Bindi Wallpaper",
-            "button_link": "shopify://products/bindi-wallpaper-blue",
-            "subtext": ""
+            "button_link": "shopify://products/bindi-wallpaper-blue"
           }
         },
         "1663084331246d9cc7-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/SURFACE_PRINT_STRAWBERRY_COTTROOM_1300X1300_fa0a7946-6c00-4c25-b11f-432e78f4a594.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Shop Strawberry Wallpaper",
-            "button_link": "shopify://products/strawberry-wallpaper-grass",
-            "subtext": ""
+            "button_link": "shopify://products/strawberry-wallpaper-grass"
           }
         }
       },
@@ -284,7 +223,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"

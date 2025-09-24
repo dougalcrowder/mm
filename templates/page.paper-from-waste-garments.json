@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16630593828b51aae9": {
@@ -38,7 +47,7 @@
         "166305938214cd95e9-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/JOTTER_GARMENT_PAPER_1800x900_ef9bc05f-ad97-47bb-8739-b78d62181957.jpg",
+        "image": "shopify://shop_images/JOTTER_GARMENT_PAPER_1800x900_ef9bc05f-ad97-47bb-8739-b78d62181957.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -53,15 +62,14 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Paper Handmade from Waste Garments",
-        "text": "<p>Making paper out of cotton waste garments is a technique that has been used in India and around the world for decades and the quality of the paper is perfect for the creative artist and the journal keeper.  <\/p>",
+        "text": "<p>Making paper out of cotton waste garments is a technique that has been used in India and around the world for decades and the quality of the paper is perfect for the creative artist and the journal keeper.  </p>",
         "alignment": "center"
       }
     },
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "1642175561b3f99df0": {
       "type": "image-with-text",
@@ -75,7 +83,7 @@
         "1642175561bfe5b191-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Nothing goes to waste!  Here the cutting waste from the fashion industry is pulped so it is ready to be made into paper.<\/p>"
+            "text": "<p>Nothing goes to waste!  Here the cutting waste from the fashion industry is pulped so it is ready to be made into paper.</p>"
           }
         }
       },
@@ -84,7 +92,7 @@
         "1642175561bfe5b191-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_PULP_1300X1300_a72be225-c4c9-4575-9baf-3e4c70e29aef.jpg",
+        "image": "shopify://shop_images/CRAFTSMANSHIP_GARMENT_PULP_1300X1300_a72be225-c4c9-4575-9baf-3e4c70e29aef.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -100,7 +108,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_WASTE_1300X1300_1c7cde28-524a-4802-891d-79ab3683032d.jpg",
+            "image": "shopify://shop_images/CRAFTSMANSHIP_GARMENT_WASTE_1300X1300_1c7cde28-524a-4802-891d-79ab3683032d.jpg",
             "title": "",
             "subtitle": "Cutting waste from the fashion industry",
             "subtitle_size": "small",
@@ -119,7 +127,7 @@
           "settings": {
             "width": "half",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_PAPER_MAKING_1300X1300_868ba0b8-bd26-4386-8b82-228566e7301b.jpg",
+            "image": "shopify://shop_images/CRAFTSMANSHIP_GARMENT_PAPER_MAKING_1300X1300_868ba0b8-bd26-4386-8b82-228566e7301b.jpg",
             "title": "",
             "subtitle": "The mixing process to creating cotton paper",
             "subtitle_size": "small",
@@ -138,7 +146,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_PRESSING_1300X1300_d4f9c68d-67ea-4d5c-a6d5-7c16ec86d2ae.jpg",
+            "image": "shopify://shop_images/CRAFTSMANSHIP_GARMENT_PRESSING_1300X1300_d4f9c68d-67ea-4d5c-a6d5-7c16ec86d2ae.jpg",
             "title": "",
             "subtitle": "The pressing process",
             "subtitle_size": "small",
@@ -157,7 +165,7 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/CRAFTSMANSHIP_GARMENT_PAPER_2600X1300_2d020e97-f02a-46aa-b049-cb013eb2fedd.jpg",
+            "image": "shopify://shop_images/CRAFTSMANSHIP_GARMENT_PAPER_2600X1300_2d020e97-f02a-46aa-b049-cb013eb2fedd.jpg",
             "title": "",
             "subtitle": "The final product",
             "subtitle_size": "small",
@@ -198,7 +206,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Back to Craftsmanship",
-        "link": "shopify:\/\/blogs\/craftsmanship",
+        "link": "shopify://blogs/craftsmanship",
         "color_scheme": "dark"
       }
     }

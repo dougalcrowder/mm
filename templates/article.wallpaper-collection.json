@@ -110,44 +110,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/WALLPAPER_LEAF_DEERHYRST_BEDROOM_1300X1300_6fa5fe9c-9612-4997-bacb-eff4227fac99.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "1657730156412eb3fd-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/WALLPAPER_BIRDS_BEES_BABYROOM_1300X1300_8d571d1d-b764-4239-9470-30f6b88e6489.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -158,7 +138,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "s",
         "margin_bot": "none"
@@ -322,44 +301,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/mollymahon_bathroom_wallpaper_fern_fabric_marigold_1_1000x1500_1ea39ad7-a182-441a-a907-7a96c232825a.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "1657786206ef221d2d-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/Wallpaper_Marwarihorse_blue_bathroom.jpg",
             "auto_height": "portrait",
-            "cover": true,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -370,7 +329,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "sm",
         "margin_bot": "none"
@@ -412,44 +370,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/WALLPAPER_STRAWBERRY_SITTINGROOM_e1581f8d-e7d6-4bbc-acd4-fdfbbcb3eaad.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "165778660260e93d17-1": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/wallpaper_marigold_pinkgreen_bathroom_1300x1300_5c68b783-bfc3-43f6-bc38-60495b3a36c2.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -460,7 +398,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "sm",
         "margin_bot": "m"
@@ -570,88 +507,48 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/mollymahon_wallpaper_marwarihorse_blue_bedroom_1300x1300_ef139423-278e-4e6c-b2cc-7f7418f05430.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "template--14554404651066__0470c776-0925-4b5d-ab29-b96f1a8e9cc5-column-2": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/WALLPAPER_BINDI_BLUE_DEERHYRST_1300X1300_e4053e8a-19c9-4e43-917e-aec478177184.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "93f0899d-d875-4307-aada-467327522a66": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/WALLPAPER_LANI_GOLD_LANDING_1300X1300_6f089840-32b5-419e-a11c-a04d189ae6fe.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "938680f8-fdd9-4d38-ae1b-dcb9f1e5bcb8": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/WALLPAPER_MARWARIHORSE_PINK_ATTICOFFICE_1300X1300_5ca4d8ae-5982-44a1-a152-ff379c0912b1.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "Column",
-            "subtitle": "Under the stars in style",
-            "subtitle_size": "small",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "Button label",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -664,7 +561,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "m",
         "margin_bot": "m"
@@ -734,44 +630,24 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/WMGPINBLULIFE_caac4ad9-0ca0-4906-ab5c-d0b3e2227e5c.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         },
         "template--14554404651066__47cc6b4f-c76e-4ed6-988b-0a5a5dd9f755-column-2": {
           "type": "column",
           "settings": {
             "width": "half",
-            "narrow": false,
             "image": "shopify://shop_images/WBBBLULIFE_787be5d5-b1b2-463e-a25a-141efe961881.jpg",
             "auto_height": "none",
-            "cover": false,
-            "no_hover": false,
             "title": "",
-            "subtitle": "",
-            "subtitle_size": "small",
-            "text": "",
-            "button_color": "white",
-            "color_scheme": "white_text",
-            "desktop_text_box_position": "center",
             "text_align": "center",
             "button_label": "",
-            "button_link": "",
-            "subtext": ""
+            "button_link": ""
           }
         }
       },
@@ -782,7 +658,6 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
-        "add_spacing": false,
         "border": false,
         "margin_top": "m",
         "margin_bot": "m"

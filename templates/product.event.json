@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -11,7 +20,7 @@
     "ff6417d2-9ccb-460e-9525-c0e8141fc5e6": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n.special_columns {\n  max-width: 960px;\n  padding-right: 24px;\n  padding-left: 24px;\n  margin: 0 auto;\n}\n@media screen and (min-width: 768px) {\n.special_columns {\n    column-count: 2;\n    column-gap: 80px;\n  }\n}\n<\/style>\n<div class=\"inner mininner mt-l mb-l\">\n<div class=\"special_columns\">\n{{ product.description }}\n<\/div>\n<\/div>"
+        "custom_liquid": "<style>\n.special_columns {\n  max-width: 960px;\n  padding-right: 24px;\n  padding-left: 24px;\n  margin: 0 auto;\n}\n@media screen and (min-width: 768px) {\n.special_columns {\n    column-count: 2;\n    column-gap: 80px;\n  }\n}\n</style>\n<div class=\"inner mininner mt-l mb-l\">\n<div class=\"special_columns\">\n{{ product.description }}\n</div>\n</div>"
       }
     },
     "10f29d07-aa0e-4468-b713-8a67a0d99eae": {

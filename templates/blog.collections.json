@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -5,7 +14,7 @@
       "settings": {
         "show_image": true,
         "blog_header": "Design Collections",
-        "blog_intro": "<p>Molly has been introducing fabric and wallpaper collections since 2014 from here first launch of Deerhyrst.  Enjoy looking through reach collection to give a real life view of how her designs bring such joy to the home setting.<\/p>",
+        "blog_intro": "<p>Molly has been introducing fabric and wallpaper collections since 2014 from here first launch of Deerhyrst.  Enjoy looking through reach collection to give a real life view of how her designs bring such joy to the home setting.</p>",
         "show_date": false,
         "show_author": false
       }

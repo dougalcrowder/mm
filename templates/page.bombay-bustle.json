@@ -1,10 +1,18 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "1649773735fabcedda": {
       "type": "image-banner",
@@ -44,7 +52,7 @@
         "164977373582025f2d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BB_RESTAURANT_LUNAPINK_1800X900_a36efb7e-e169-4d17-a464-8308183390ea.jpg",
+        "image": "shopify://shop_images/BB_RESTAURANT_LUNAPINK_1800X900_a36efb7e-e169-4d17-a464-8308183390ea.jpg",
         "make_logo_white": false,
         "top_margin": false,
         "desktop_text_box_position": "middle",
@@ -59,7 +67,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Bombay Bustle",
-        "text": "<p>Our fun bombastic pinks brought us together.  Working closely with Bombay Bustle Molly injected just the right touch to bring a deep warmth of colour, sophistication and fun into the restaurant space.  Here they serve mouth watering authentic food along with a lovely true Indian cultural service.<\/p>",
+        "text": "<p>Our fun bombastic pinks brought us together.  Working closely with Bombay Bustle Molly injected just the right touch to bring a deep warmth of colour, sophistication and fun into the restaurant space.  Here they serve mouth watering authentic food along with a lovely true Indian cultural service.</p>",
         "alignment": "center"
       }
     },
@@ -71,7 +79,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BB_BOOTH_1300X1300_5a17e5b1-3b5a-4342-b52f-87821ab1ab0f.jpg",
+            "image": "shopify://shop_images/BB_BOOTH_1300X1300_5a17e5b1-3b5a-4342-b52f-87821ab1ab0f.jpg",
             "title": "",
             "subtitle": "",
             "subtitle_size": "large",
@@ -90,7 +98,7 @@
           "settings": {
             "width": "two_thirds",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BB_BAR_2600X1300_bdd511ca-3bb3-44c1-b2ad-475f2119f235.jpg",
+            "image": "shopify://shop_images/BB_BAR_2600X1300_bdd511ca-3bb3-44c1-b2ad-475f2119f235.jpg",
             "title": "",
             "subtitle": "",
             "subtitle_size": "large",
@@ -109,7 +117,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BB_MENU_1300X1300_fb040d36-86cc-46a5-8f12-3a7af8f15a94.jpg",
+            "image": "shopify://shop_images/BB_MENU_1300X1300_fb040d36-86cc-46a5-8f12-3a7af8f15a94.jpg",
             "title": "",
             "subtitle": "",
             "subtitle_size": "large",
@@ -128,7 +136,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BB_COLLABORATION_1300X1300_8e2942e2-54af-4d6f-a613-ba1cfd321418.jpg",
+            "image": "shopify://shop_images/BB_COLLABORATION_1300X1300_8e2942e2-54af-4d6f-a613-ba1cfd321418.jpg",
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -147,7 +155,7 @@
           "settings": {
             "width": "one_third",
             "narrow": false,
-            "image": "shopify:\/\/shop_images\/BB_APERITIF_1300X1300_aeed2e55-d7de-480a-9b38-46f00e386a0b.jpg",
+            "image": "shopify://shop_images/BB_APERITIF_1300X1300_aeed2e55-d7de-480a-9b38-46f00e386a0b.jpg",
             "title": "",
             "subtitle": "",
             "subtitle_size": "small",
@@ -189,7 +197,7 @@
       "disabled": true,
       "settings": {
         "title": "Making Home",
-        "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.<\/p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.<\/p><p><strong>Why is home so important to us?<\/strong> <\/p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.<\/p>",
+        "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.</p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.</p><p><strong>Why is home so important to us?</strong> </p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.</p>",
         "alignment": "center"
       }
     },
@@ -198,7 +206,7 @@
       "disabled": true,
       "settings": {
         "label": "Discover More about our Craftsmanship",
-        "link": "shopify:\/\/pages\/block-printing",
+        "link": "shopify://pages/block-printing",
         "color_scheme": "dark"
       }
     },
@@ -215,14 +223,14 @@
         "1662389758409db467-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A captivating and playful, go-with-anything graphic pattern. Hand-block printed in Rajasthan by master craftsmen.<\/p>"
+            "text": "<p>A captivating and playful, go-with-anything graphic pattern. Hand-block printed in Rajasthan by master craftsmen.</p>"
           }
         },
         "1662389758409db467-2": {
           "type": "button",
           "settings": {
             "button_label": "View fabric swatch",
-            "button_link": "shopify:\/\/products\/luna-block-printed-fabric-linen-pink"
+            "button_link": "shopify://products/luna-block-printed-fabric-linen-pink"
           }
         }
       },
@@ -232,7 +240,7 @@
         "1662389758409db467-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FOYSLUPINK10.jpg",
+        "image": "shopify://shop_images/FOYSLUPINK10.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -253,14 +261,14 @@
         "1662393642a9dbe710-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A charming small-scale inspired by the decorations on India's beloved tuk tuks.  Hand-block printed in India by master craftsmen.<\/p>"
+            "text": "<p>A charming small-scale inspired by the decorations on India's beloved tuk tuks.  Hand-block printed in India by master craftsmen.</p>"
           }
         },
         "1662393642a9dbe710-2": {
           "type": "button",
           "settings": {
             "button_label": "View Fabric Swatch",
-            "button_link": "shopify:\/\/products\/tuk-tuk-block-printed-fabric-cotton-pink"
+            "button_link": "shopify://products/tuk-tuk-block-printed-fabric-cotton-pink"
           }
         }
       },
@@ -270,7 +278,7 @@
         "1662393642a9dbe710-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FCOTTUPINK_de2fa848-360c-4817-8487-54b495dd6163.jpg",
+        "image": "shopify://shop_images/FCOTTUPINK_de2fa848-360c-4817-8487-54b495dd6163.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -292,7 +300,7 @@
       "type": "simple-button",
       "settings": {
         "label": "Back to Hospitality",
-        "link": "shopify:\/\/pages\/hospitality",
+        "link": "shopify://pages/hospitality",
         "color_scheme": "dark"
       }
     }

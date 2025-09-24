@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16421774751b08f65c": {
@@ -35,8 +44,8 @@
         "1642177475e54e2f5d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banner-WallpaperFern_0e529616-10ef-4d94-be20-2c63fbb67ac1.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Banner-WallpaperFern_0e529616-10ef-4d94-be20-2c63fbb67ac1.jpg",
+        "image": "shopify://shop_images/Banner-WallpaperFern_0e529616-10ef-4d94-be20-2c63fbb67ac1.jpg",
+        "mobile_image": "shopify://shop_images/Banner-WallpaperFern_0e529616-10ef-4d94-be20-2c63fbb67ac1.jpg",
         "make_logo_white": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
@@ -49,8 +58,7 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "1642176545bbd4ef77": {
       "type": "image-with-text",
@@ -64,7 +72,7 @@
         "1642176545dcbc2544-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Parsonage Pink Papers and Paints<\/p><p>Cushion:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/hculun02\" target=\"_blank\" title=\"Cushion - Luna - Khaki\">Luna Oyster Khaki<\/a><\/p>"
+            "text": "<p>Paint:- Parsonage Pink Papers and Paints</p><p>Cushion:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/hculun02\" target=\"_blank\" title=\"Cushion - Luna - Khaki\">Luna Oyster Khaki</a></p>"
           }
         },
         "1642176545dcbc2544-2": {
@@ -82,7 +90,7 @@
         "1642176545dcbc2544-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/oak_nat_blue.jpg",
+        "image": "shopify://shop_images/oak_nat_blue.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -102,7 +110,7 @@
         "1642177729dfd8ccd4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Emerald Green F&B<\/p><p>Wallpaper:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/wbacol01\" target=\"_blank\" title=\"Birds & Bees - Blue\">Birds & Bee Blue<\/a><\/p>"
+            "text": "<p>Paint:- Emerald Green F&B</p><p>Wallpaper:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/wbacol01\" target=\"_blank\" title=\"Birds & Bees - Blue\">Birds & Bee Blue</a></p>"
           }
         },
         "1642177729dfd8ccd4-2": {
@@ -120,7 +128,7 @@
         "1642177729dfd8ccd4-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/lunapink.jpg",
+        "image": "shopify://shop_images/lunapink.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -140,7 +148,7 @@
         "16421777367aa792e9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Lake Red<\/p><p>Cushion:- Luna Blue Pink<\/p>"
+            "text": "<p>Paint:- Lake Red</p><p>Cushion:- Luna Blue Pink</p>"
           }
         },
         "16421777367aa792e9-2": {
@@ -158,7 +166,7 @@
         "16421777367aa792e9-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/marigold_natural_pink.jpg",
+        "image": "shopify://shop_images/marigold_natural_pink.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -178,7 +186,7 @@
         "16421777488c2c2480-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Wonderful World PTTG<\/p><p>Fabric:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fpaoys17\" target=\"_blank\" title=\"Pattee - Oyster - Khaki\">Pattee Oyster Khaki<\/a><\/p>"
+            "text": "<p>Paint:- Wonderful World PTTG</p><p>Fabric:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/fpaoys17\" target=\"_blank\" title=\"Pattee - Oyster - Khaki\">Pattee Oyster Khaki</a></p>"
           }
         },
         "16421777488c2c2480-2": {
@@ -196,7 +204,7 @@
         "16421777488c2c2480-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/marigold_natural_blue.jpg",
+        "image": "shopify://shop_images/marigold_natural_blue.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -216,7 +224,7 @@
         "1642177930b90de1d1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Confetti LG<\/p><p>Fabric:- Oatmeal (Natural Linen Cotton Mix)<\/p>"
+            "text": "<p>Paint:- Confetti LG</p><p>Fabric:- Oatmeal (Natural Linen Cotton Mix)</p>"
           }
         },
         "1642177930b90de1d1-2": {
@@ -234,7 +242,7 @@
         "1642177930b90de1d1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/rose_oyster_pink.jpg",
+        "image": "shopify://shop_images/rose_oyster_pink.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -254,7 +262,7 @@
         "1642177971051ce960-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Canton LG<\/p><p>Fabrics:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fdacot12\" target=\"_blank\" title=\"Dash - Cotton - Pink\">Dash Cotton Pink<\/a>, <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fsroys01\" target=\"_blank\" title=\"Stripe - Oyster - Blue\">Stripe Oyster Blue<\/a>, <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fbacot12\" target=\"_blank\" title=\"Bagru - Cotton - Pink\">Bagru Cotton Pink<\/a><\/p><p>Wallpaper:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/wmgpnk01\" target=\"_blank\" title=\"Marigold - Pink\/Blue\">Marigold Pink\/blue<\/a><\/p>"
+            "text": "<p>Paint:- Canton LG</p><p>Fabrics:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/fdacot12\" target=\"_blank\" title=\"Dash - Cotton - Pink\">Dash Cotton Pink</a>, <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/fsroys01\" target=\"_blank\" title=\"Stripe - Oyster - Blue\">Stripe Oyster Blue</a>, <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/fbacot12\" target=\"_blank\" title=\"Bagru - Cotton - Pink\">Bagru Cotton Pink</a></p><p>Wallpaper:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/wmgpnk01\" target=\"_blank\" title=\"Marigold - Pink/Blue\">Marigold Pink/blue</a></p>"
           }
         },
         "1642177971051ce960-2": {
@@ -272,7 +280,7 @@
         "1642177971051ce960-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mollys.jpg",
+        "image": "shopify://shop_images/mollys.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -292,7 +300,7 @@
         "1642177977393b7b53-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paints:- Mister David and Canton LG<\/p><p>Fabric:-<a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fluoys17\" target=\"_blank\" title=\"Luna - Oyster - Khaki\"> Luna Oyster Khaki<\/a><\/p><p>Wallpaper:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/wfecol08\" target=\"_blank\" title=\"Fern - Mustard\">Fern Mustard<\/a><\/p><p>Cushion:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/hcubag18\" target=\"_blank\" title=\"Cushion - Bagru - Piped - Dark Blue\">Bagru Cotton Dark Blue<\/a><\/p>"
+            "text": "<p>Paints:- Mister David and Canton LG</p><p>Fabric:-<a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/fluoys17\" target=\"_blank\" title=\"Luna - Oyster - Khaki\"> Luna Oyster Khaki</a></p><p>Wallpaper:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/wfecol08\" target=\"_blank\" title=\"Fern - Mustard\">Fern Mustard</a></p><p>Cushion:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/hcubag18\" target=\"_blank\" title=\"Cushion - Bagru - Piped - Dark Blue\">Bagru Cotton Dark Blue</a></p>"
           }
         },
         "1642177977393b7b53-2": {
@@ -310,7 +318,7 @@
         "1642177977393b7b53-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/lanis.jpg",
+        "image": "shopify://shop_images/lanis.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -330,7 +338,7 @@
         "1642177985770a2552-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paints:- Canton LG, Mudd Bauwerk<\/p><p>Fabric:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fluoys11\" target=\"_blank\" title=\"Luna - Oyster - Pink\">Luna Oyster Pink<\/a><\/p>"
+            "text": "<p>Paints:- Canton LG, Mudd Bauwerk</p><p>Fabric:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/fluoys11\" target=\"_blank\" title=\"Luna - Oyster - Pink\">Luna Oyster Pink</a></p>"
           }
         },
         "1642177985770a2552-2": {
@@ -348,7 +356,7 @@
         "1642177985770a2552-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/leaf_pink.jpg",
+        "image": "shopify://shop_images/leaf_pink.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -362,13 +370,13 @@
         "1642177991bd3ee950-0": {
           "type": "heading",
           "settings": {
-            "heading": "marigold pink\/green"
+            "heading": "marigold pink/green"
           }
         },
         "1642177991bd3ee950-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Emerald Green F&B<\/p><p>Fabric:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/frooys11\" target=\"_blank\" title=\"Rose - Oyster - Pink\">Rose Oyster Pink<\/a><\/p><p>Cushion:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/hcubag16\" target=\"_blank\" title=\"Cushion - Bagru - Pink\">Bagru Cotton Pink<\/a><\/p>"
+            "text": "<p>Paint:- Emerald Green F&B</p><p>Fabric:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/frooys11\" target=\"_blank\" title=\"Rose - Oyster - Pink\">Rose Oyster Pink</a></p><p>Cushion:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/hcubag16\" target=\"_blank\" title=\"Cushion - Bagru - Pink\">Bagru Cotton Pink</a></p>"
           }
         },
         "1642177991bd3ee950-2": {
@@ -386,7 +394,7 @@
         "1642177991bd3ee950-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/marigold_pink.jpg",
+        "image": "shopify://shop_images/marigold_pink.jpg",
         "title": "A Seasonal Setting",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -406,7 +414,7 @@
         "16421781637b8482cb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Emperor's Silk Annie Sloan<\/p><p>Wallpaper:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/wsqcol11\" title=\"Spot & Star - Pink\">Spot & Star Pink<\/a><\/p><p>Fabric:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/ftucot02\" target=\"_blank\" title=\"Tuk-Tuk - Cotton - Blue\">Tuk Tuk Cotton Blue<\/a><\/p>"
+            "text": "<p>Paint:- Emperor's Silk Annie Sloan</p><p>Wallpaper:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/wsqcol11\" title=\"Spot & Star - Pink\">Spot & Star Pink</a></p><p>Fabric:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/ftucot02\" target=\"_blank\" title=\"Tuk-Tuk - Cotton - Blue\">Tuk Tuk Cotton Blue</a></p>"
           }
         },
         "16421781637b8482cb-2": {
@@ -424,7 +432,7 @@
         "16421781637b8482cb-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/orlandos.jpg",
+        "image": "shopify://shop_images/orlandos.jpg",
         "title": "A Seasonal Setting",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -444,7 +452,7 @@
         "1642178190c868c108-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Mister David LG<\/p><p>Fabric- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fpaoys17\" target=\"_blank\" title=\"Pattee - Oyster - Khaki\">Pattee Oyster Khaki<\/a><\/p><p>Cushion:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/hcubin03\" target=\"_blank\" title=\"Cushion - Bindi - Blue\">Bindi Natural Cushion<\/a><\/p>"
+            "text": "<p>Paint:- Mister David LG</p><p>Fabric- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/fpaoys17\" target=\"_blank\" title=\"Pattee - Oyster - Khaki\">Pattee Oyster Khaki</a></p><p>Cushion:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/hcubin03\" target=\"_blank\" title=\"Cushion - Bindi - Blue\">Bindi Natural Cushion</a></p>"
           }
         },
         "1642178190c868c108-2": {
@@ -462,7 +470,7 @@
         "1642178190c868c108-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/marigold_yellow.jpg",
+        "image": "shopify://shop_images/marigold_yellow.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -482,7 +490,7 @@
         "1642178197d91162b3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Parsonage Pink Papers and Paints<\/p><p>Fabric:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fluoys15\" target=\"_blank\" title=\"Luna - Oyster - Blue\/Pink\">Luna oyster Blue Pink<\/a><\/p><p>Cushion:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/hcubag16\" target=\"_blank\" title=\"Cushion - Bagru - Pink\">Bagru Cotton Pink<\/a><\/p>"
+            "text": "<p>Paint:- Parsonage Pink Papers and Paints</p><p>Fabric:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/fluoys15\" target=\"_blank\" title=\"Luna - Oyster - Blue/Pink\">Luna oyster Blue Pink</a></p><p>Cushion:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/hcubag16\" target=\"_blank\" title=\"Cushion - Bagru - Pink\">Bagru Cotton Pink</a></p>"
           }
         },
         "1642178197d91162b3-2": {
@@ -500,7 +508,7 @@
         "1642178197d91162b3-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/deerhyrst_sitting.jpg",
+        "image": "shopify://shop_images/deerhyrst_sitting.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -520,7 +528,7 @@
         "16421782093f40223e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Wonderful World Paint The Town Green<\/p><p>Fabric:-<a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fbicot08\" target=\"_blank\" title=\"Bindi - Cotton - Pale Blue\"> Bindi Cotton Pale Blue<\/a><\/p><p>Lampshade:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/lbbple03\" target=\"_blank\" title=\"Lampshade - Pleated - Bagru - Dark Blue\">Bagru Cotton Dark Blue<\/a><\/p>"
+            "text": "<p>Paint:- Wonderful World Paint The Town Green</p><p>Fabric:-<a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/fbicot08\" target=\"_blank\" title=\"Bindi - Cotton - Pale Blue\"> Bindi Cotton Pale Blue</a></p><p>Lampshade:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/lbbple03\" target=\"_blank\" title=\"Lampshade - Pleated - Bagru - Dark Blue\">Bagru Cotton Dark Blue</a></p>"
           }
         },
         "16421782093f40223e-2": {
@@ -538,7 +546,7 @@
         "16421782093f40223e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/coral_green.jpg",
+        "image": "shopify://shop_images/coral_green.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -558,7 +566,7 @@
         "16421782280e86121f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paints:- Sap Green F&B, Paprika Bauwerk<\/p><p>Fabric:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fbicot01\" target=\"_blank\" title=\"Bindi - Cotton - Aubergine\">Bindi Cotton Aubergine<\/a><\/p>"
+            "text": "<p>Paints:- Sap Green F&B, Paprika Bauwerk</p><p>Fabric:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/fbicot01\" target=\"_blank\" title=\"Bindi - Cotton - Aubergine\">Bindi Cotton Aubergine</a></p>"
           }
         },
         "16421782280e86121f-2": {
@@ -576,7 +584,7 @@
         "16421782280e86121f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/oak_oyster_blue.jpg",
+        "image": "shopify://shop_images/oak_oyster_blue.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
@@ -596,7 +604,7 @@
         "1642178234a852a4c6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Paint:- Scotch Blue F&B<\/p><p>Fabric:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/fpaoys22\" target=\"_blank\" title=\"Pattee - Oyster - Turmeric\">Pattee Oyster Turmaric<\/a><\/p><p>Cushion:- <a href=\"https:\/\/30i79d27st43vepk-9001009210.shopifypreview.com\/products\/hcutuk10\" target=\"_blank\" title=\"Cushion - Tuk Tuk - Piped - Yellow\">Tuk Tuk Cotton Yellow<\/a><\/p>"
+            "text": "<p>Paint:- Scotch Blue F&B</p><p>Fabric:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/fpaoys22\" target=\"_blank\" title=\"Pattee - Oyster - Turmeric\">Pattee Oyster Turmaric</a></p><p>Cushion:- <a href=\"https://30i79d27st43vepk-9001009210.shopifypreview.com/products/hcutuk10\" target=\"_blank\" title=\"Cushion - Tuk Tuk - Piped - Yellow\">Tuk Tuk Cotton Yellow</a></p>"
           }
         },
         "1642178234a852a4c6-2": {
@@ -614,7 +622,7 @@
         "1642178234a852a4c6-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mawari_horse_gold.jpg",
+        "image": "shopify://shop_images/mawari_horse_gold.jpg",
         "title": "",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",

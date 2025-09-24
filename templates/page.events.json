@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1635330929a8d9324e": {
@@ -38,9 +47,9 @@
         "1635330929a8d9324e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/MM_Collections_Masthead_Images_-_Workshops_2.jpg",
+        "image": "shopify://shop_images/MM_Collections_Masthead_Images_-_Workshops_2.jpg",
         "letterbox": false,
-        "mobile_image": "shopify:\/\/shop_images\/MM_Collections_Mobile_Masthead_Images_-_workshop_2.jpg",
+        "mobile_image": "shopify://shop_images/MM_Collections_Mobile_Masthead_Images_-_workshop_2.jpg",
         "make_logo_white": true,
         "top_margin": false,
         "constrain": false,
@@ -57,13 +66,11 @@
     },
     "166213711761e7d20e": {
       "type": "mm_nav",
-      "settings": {
-      }
+      "settings": {}
     },
     "main": {
       "type": "main-page",
-      "settings": {
-      }
+      "settings": {}
     },
     "166213715796e396a1": {
       "type": "single-title_and_text",
@@ -85,8 +92,8 @@
           "settings": {
             "event_title": "Block printing Workshops 2023 coming soon",
             "event_intro": "That is it for 2022 folks!  And a special thank you to everyone who has joined us this year.  It really has been a delight.  We are now posting workshops for 2023 as we arrange our schedule so do keep an eye on this page.  We do like to give a least 3 months notice in most cases?!",
-            "event_description": "<p>Join printmaker Molly Mahon for a workshop, experiencing the joy of block printing and making your own mark with our blocks. We will be celebrating the launch of Molly's new fabric collection 'Bloom' by using Molly’s floral carved wooden blocks, experiment with colour and pattern and finish by printing your own item depending on which workshop you choose.<br\/><\/p>",
-            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
+            "event_description": "<p>Join printmaker Molly Mahon for a workshop, experiencing the joy of block printing and making your own mark with our blocks. We will be celebrating the launch of Molly's new fabric collection 'Bloom' by using Molly’s floral carved wooden blocks, experiment with colour and pattern and finish by printing your own item depending on which workshop you choose.<br/></p>",
+            "image": "shopify://shop_images/WORKSHOPS_MAR22_1300x1300_6dde1a04-1c30-437f-a2bb-b2dd82bd3a6e.jpg",
             "event_date": "",
             "event_extras": "Check below for new workshops in 2023",
             "event_price": "",
@@ -101,14 +108,14 @@
           "settings": {
             "event_title": "Block Printing Cushion Workshop at Charleston, Firle",
             "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own cushion cover",
-            "event_description": "<p>The day-long course will include a private tour of Charleston house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.<\/p>",
-            "image": "shopify:\/\/shop_images\/MM_at_Charleston_294_copy.jpg",
+            "event_description": "<p>The day-long course will include a private tour of Charleston house, followed by an introduction to block printing by Molly. Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.</p>",
+            "image": "shopify://shop_images/MM_at_Charleston_294_copy.jpg",
             "event_date": "Tuesday 28th March 2023, 10am-3.30pm",
             "event_extras": "The price includes all materials, refreshments and a delicious lunch.",
             "event_price": "£180 pp",
             "event_button_text": "Book Here",
             "event_button_text_2": "Via Charleston",
-            "event_external_link": "https:\/\/www.charleston.org.uk\/event\/block-printing-on-cushion-covers-with-molly-mahon-3\/",
+            "event_external_link": "https://www.charleston.org.uk/event/block-printing-on-cushion-covers-with-molly-mahon-3/",
             "event_buy_btn": ""
           }
         },
@@ -117,8 +124,8 @@
           "settings": {
             "event_title": "Block Printing Cushion Workshop at Fritton Lake, Somerleyton Hall, Suffolk",
             "event_intro": "Join printmaker Molly Mahon for a one-day workshop, experiencing the joy of block printing and making your own cushion.  The day-long course will include a talk from Lady Somerleyton and Molly Mahon, followed by an introduction to block printing with Molly in The Loggia of Somerleyton Hall.",
-            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.<\/p>",
-            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern and finish by printing your own 60cm x 40cm cushion.</p>",
+            "image": "shopify://shop_images/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
             "event_date": "Thursday 20th April, 2023. (10am-4pm)",
             "event_extras": "The price includes all materials, refreshments and a delicious lunch.",
             "event_price": "£144 per person",
@@ -133,14 +140,14 @@
           "settings": {
             "event_title": "Block printing PYO Workshop at Water Lane Walled Garden, Kent",
             "event_intro": "Join printmaker Molly Mahon for PYO (print your own!) block printing sessions at Water Lane.  On the day you will have the choice to print one of the following options: tea towel, tote bag, drawstring bag, pack of notecards.",
-            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you’ll print your own item to take home and cherish – or gift to a loved one!  <\/p>",
-            "image": "shopify:\/\/shop_images\/GETCREATIVE20_13180fef-6e0c-44e9-82c7-8594563fba65.jpg",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you’ll print your own item to take home and cherish – or gift to a loved one!  </p>",
+            "image": "shopify://shop_images/GETCREATIVE20_13180fef-6e0c-44e9-82c7-8594563fba65.jpg",
             "event_date": "Wednesday 3rd May, 2023 (10am-11.30am)",
             "event_extras": "",
             "event_price": "£30 per person",
             "event_button_text": "Book here",
             "event_button_text_2": "",
-            "event_external_link": "shopify:\/\/products\/block-printing-pyo-workshop-at-water-lane-walled-garden-kent-3rd-may-2023",
+            "event_external_link": "shopify://products/block-printing-pyo-workshop-at-water-lane-walled-garden-kent-3rd-may-2023",
             "event_buy_btn": ""
           }
         },
@@ -149,14 +156,14 @@
           "settings": {
             "event_title": "Block printing PYO Workshop at Water Lane Walled Garden, Kent",
             "event_intro": "Join printmaker Molly Mahon for PYO (print your own!) block printing sessions at Water Lane.  On the day you will have the choice to print one of the following options: tea towel, tote bag, drawstring bag, pack of notecards",
-            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you’ll print your own item to take home and cherish – or gift to a loved one!  <\/p>",
-            "image": "shopify:\/\/shop_images\/GETCREATIVE20_13180fef-6e0c-44e9-82c7-8594563fba65.jpg",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you’ll print your own item to take home and cherish – or gift to a loved one!  </p>",
+            "image": "shopify://shop_images/GETCREATIVE20_13180fef-6e0c-44e9-82c7-8594563fba65.jpg",
             "event_date": "Wednesday, 3rd May, 2023 (12noon-1.30pm)",
             "event_extras": "",
             "event_price": "£30 per person",
             "event_button_text": "Book here",
             "event_button_text_2": "12noon-1.30pm",
-            "event_external_link": "shopify:\/\/products\/block-printing-pyo-workshop-at-water-lane-walled-garden-kent-3rd-may-2024",
+            "event_external_link": "shopify://products/block-printing-pyo-workshop-at-water-lane-walled-garden-kent-3rd-may-2024",
             "event_buy_btn": ""
           }
         },
@@ -165,14 +172,14 @@
           "settings": {
             "event_title": "Block Printing Napkins Workshop at Ashbrook, Banbury",
             "event_intro": "Join printmaker Molly Mahon for a one-day workshop, experiencing the joy of block printing and making a set of 4 napkins.",
-            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern in the morning, and finish by printing your napkins in the afternoon.  A delicious, organic lunch will be served in between!  (Ashbrook House, Moreton Pinkney.  NN11 3SN).<\/p>",
-            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern in the morning, and finish by printing your napkins in the afternoon.  A delicious, organic lunch will be served in between!  (Ashbrook House, Moreton Pinkney.  NN11 3SN).</p>",
+            "image": "shopify://shop_images/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
             "event_date": "Wednesday, 7th June (10am-3pm)",
             "event_extras": "The price includes all materials, refreshments, and lunch.",
             "event_price": "£220.00 pp",
             "event_button_text": "Book your Place",
             "event_button_text_2": "Here",
-            "event_external_link": "shopify:\/\/products\/block-printing-napkins-workshop-at-ashbrook-banbury",
+            "event_external_link": "shopify://products/block-printing-napkins-workshop-at-ashbrook-banbury",
             "event_buy_btn": ""
           }
         },
@@ -181,14 +188,14 @@
           "settings": {
             "event_title": "Block Printing Apron Workshop at Ashbrook, Banbury",
             "event_intro": "Join printmaker Molly Mahon for a one-day workshop, experiencing the joy of block printing and making an apron.",
-            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern in the morning, and finish by printing your apron in the afternoon. A delicious, organic lunch will be served in between! <\/p>",
-            "image": "shopify:\/\/shop_images\/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
+            "event_description": "<p>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern in the morning, and finish by printing your apron in the afternoon. A delicious, organic lunch will be served in between! </p>",
+            "image": "shopify://shop_images/WORKSHOPS_MAR22_06c4d15e-7256-425f-a0c0-74703aaa4daa.jpg",
             "event_date": "Thursday 28th September, 2023 (10am-3pm)",
             "event_extras": "The price includes all materials, refreshments, and lunch.",
             "event_price": "£220 per person",
             "event_button_text": "Book your Place",
             "event_button_text_2": "Here",
-            "event_external_link": "shopify:\/\/products\/block-printing-apron-workshop-at-ashbrook-banbury",
+            "event_external_link": "shopify://products/block-printing-apron-workshop-at-ashbrook-banbury",
             "event_buy_btn": ""
           }
         },
@@ -197,14 +204,14 @@
           "settings": {
             "event_title": "Block Printing Lampshade Workshop at Charleston, Firle",
             "event_intro": "Join Molly for a one-day workshop, experiencing the joy of block printing, designing and printing your own lampshade.",
-            "event_description": "<p>The day-long course will include a private tour of Charleston house, followed by an introduction to block printing by Molly.<br\/>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern and finish by printing your own 30cm drum lampshade.<\/p>",
-            "image": "shopify:\/\/shop_images\/MM_at_Charleston_294_copy.jpg",
+            "event_description": "<p>The day-long course will include a private tour of Charleston house, followed by an introduction to block printing by Molly.<br/>Using Molly’s carved wooden blocks inspired by her new hand block printed fabric collection BLOOM launching in 2023, you will experiment with colour and pattern and finish by printing your own 30cm drum lampshade.</p>",
+            "image": "shopify://shop_images/MM_at_Charleston_294_copy.jpg",
             "event_date": "Tuesday 21st November 2023, 10am-3.30pm",
             "event_extras": "The price includes all materials, refreshments and a delicious lunch",
             "event_price": "£180 pp",
             "event_button_text": "Book Here",
             "event_button_text_2": "Via Charleston",
-            "event_external_link": "https:\/\/www.charleston.org.uk\/event\/block-printed-lampshades-with-molly-mahon-2\/",
+            "event_external_link": "https://www.charleston.org.uk/event/block-printed-lampshades-with-molly-mahon-2/",
             "event_buy_btn": ""
           }
         },
@@ -214,14 +221,14 @@
           "settings": {
             "event_title": "A Spring Decorating Workshop at The Star, Alfriston",
             "event_intro": "Be inspired in a fun and learning environment for the art of block printing with Molly Mahon and an addition of flower arranging with Julia Marsden, during your stay at the Star, the newest hotel in the Polizzi Collection",
-            "event_description": "<p>Enjoy an eventful stay at The Star including one nights accommodation, breakfast, a three course diner with a glass of wine, drinks with Molly and Alex, both workshops, refreshments, all materials and a vase.<\/p>",
-            "image": "shopify:\/\/shop_images\/Massey_TheStar_0621_377_1_copy.jpg",
+            "event_description": "<p>Enjoy an eventful stay at The Star including one nights accommodation, breakfast, a three course diner with a glass of wine, drinks with Molly and Alex, both workshops, refreshments, all materials and a vase.</p>",
+            "image": "shopify://shop_images/Massey_TheStar_0621_377_1_copy.jpg",
             "event_date": "Wednesday 2nd to Thursday 3rd February 2022",
             "event_extras": "",
             "event_price": "From £400",
             "event_button_text": "Book Your Place",
             "event_button_text_2": "via The Star",
-            "event_external_link": "https:\/\/thepolizzicollection.com\/the-star\/events\/spring-workshops\/",
+            "event_external_link": "https://thepolizzicollection.com/the-star/events/spring-workshops/",
             "event_buy_btn": ""
           }
         },
@@ -231,14 +238,14 @@
           "settings": {
             "event_title": "Block printing Linen tea towels at Thyme, Cotswolds",
             "event_intro": "Join printmaker Molly Mahon for a two hour workshop experiencing the joy of block printing, inspired by her shared love of nature and the surrounding land at Thyme.",
-            "event_description": "<p>Thyme, a beautifully restored Manor House & Farm in the Cotswolds.  The workshop will include a welcome from Thyme followed by an introduction to block printing by Molly. Using Molly’s garden inspired hand carved wooden blocks, you will experiment with colour and pattern and finish by printing your own linen tea towel.<\/p>",
-            "image": "shopify:\/\/shop_images\/Water_Meadow_041_-_Sussie_Bell_-_June_21_copy.jpg",
+            "event_description": "<p>Thyme, a beautifully restored Manor House & Farm in the Cotswolds.  The workshop will include a welcome from Thyme followed by an introduction to block printing by Molly. Using Molly’s garden inspired hand carved wooden blocks, you will experiment with colour and pattern and finish by printing your own linen tea towel.</p>",
+            "image": "shopify://shop_images/Water_Meadow_041_-_Sussie_Bell_-_June_21_copy.jpg",
             "event_date": "Tuesday, 14th June, 2022  at 11:00 -13:00",
             "event_extras": "The price includes a welcome coffee and all materials.",
             "event_price": "£95 per person",
             "event_button_text": "Book your place",
             "event_button_text_2": "Via Thyme",
-            "event_external_link": "https:\/\/www.thyme.co.uk\/thyme-events\/block-printing-tea-towels",
+            "event_external_link": "https://www.thyme.co.uk/thyme-events/block-printing-tea-towels",
             "event_buy_btn": ""
           }
         }
@@ -262,7 +269,7 @@
     "1635263281959956a1": {
       "type": "text-banner",
       "settings": {
-        "title": "<p><strong>How about giving a workshop as a gift?<\/strong><\/p>",
+        "title": "<p><strong>How about giving a workshop as a gift?</strong></p>",
         "link": "",
         "bg_pattern": "pattern_03",
         "color_scheme": "blue_text"
@@ -276,14 +283,14 @@
           "settings": {
             "event_title": "Learn the art with Molly's Online Course",
             "event_intro": "In this vibrant online course, Molly explores the fundamentals of block printing, revealing her sources of inspiration and creative process so you can be empowered to start your own block printing projects at home.",
-            "event_description": "<p>Jam packed with tips, tricks, inspiration and tours of places I love including my own home, this course gives a real insight in to how I work and how block print can open a world of creativity. You can access all the items you need from our Supplies Store, from lovely eco fabric paints, to tools, items to print and wooden printing blocks. Block printing has changed my life and I hope will bring joy to yours.<\/p>",
-            "image": "shopify:\/\/shop_images\/CREATEAC_STILL_WS.jpg",
-            "event_date": "N\/A",
+            "event_description": "<p>Jam packed with tips, tricks, inspiration and tours of places I love including my own home, this course gives a real insight in to how I work and how block print can open a world of creativity. You can access all the items you need from our Supplies Store, from lovely eco fabric paints, to tools, items to print and wooden printing blocks. Block printing has changed my life and I hope will bring joy to yours.</p>",
+            "image": "shopify://shop_images/CREATEAC_STILL_WS.jpg",
+            "event_date": "N/A",
             "event_extras": "19 video lessons with lesson plan",
             "event_price": "£127.00",
             "event_button_text": "Book your course here",
             "event_button_text_2": "Via Create Academy",
-            "event_external_link": "https:\/\/www.createacademy.com\/courses\/molly-mahon",
+            "event_external_link": "https://www.createacademy.com/courses/molly-mahon",
             "event_buy_btn": ""
           }
         }

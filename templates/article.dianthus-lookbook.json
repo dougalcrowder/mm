@@ -1,0 +1,584 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_meX7Rz": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_9GPYc3": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "text_NQqMcR": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_GFMTB4": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9GPYc3",
+        "text_NQqMcR",
+        "buttons_GFMTB4"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Banner-6.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Wallpaper-Fabric-Dianthus-Rust-Rose-Fabric-SquareBanner-04.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_9mGmdf": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "The Romance of Dianthus",
+        "text": "<p>Unveiling the joy of our NEW Dianthus Wallpaper</p>",
+        "font_type": "heading",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_6Qb49x": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_tU3k4P": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Dianthus design carries a quiet romance that deepens in autumn, when its character truly comes into its own. Inspired by flowers that are bold and delicate, Molly's Dianthus design is rooted in her love of pattern and the English countryside.<br/><br/>Versatile and timeless, it brings new life to Wallpapers, Fabrics and Homewares alike - its repeating motif echoing the season with every detail.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_tU3k4P"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Landscape-8.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "l"
+      }
+    },
+    "image_with_text_biGaVi": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_TeYPBF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As summer slowly fades and the first cool mornings arrive, autumn announces itself in a quiet but undeniable way.<br/><br/>Leaves curl into russet and gold, the hedgerows glow with berries and the air is filled with that unmistakeable scent of woodsmoke and damp earth.<br/><br/>It is a season that speaks to both heart and home, a time for layering textures, lighting fires and surrounding oneself with pattern and colour that reflect the changing landscape outside.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_TeYPBF"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Portrait-09.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "l"
+      }
+    },
+    "image_banner_AyYjLJ": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_GHUhUi": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "text_rYmbJN": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_hP4NWU": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GHUhUi",
+        "text_rYmbJN",
+        "buttons_hP4NWU"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-3to1Banner-3.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-SquareBanner-4.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "l",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "image_with_text_ARtqaJ": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_hfij4q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Autumn is a time for slowing down. As the pace shifts we gather ourselves after summer and prepare for winter.<br/><br/>The new Dianthus Wallpaper brings a depth and richness into every room. Its ruby reds, inky blues and soft rose with warm rust colours all adding a touch of drama combined with Britishness.<br/><br/>Sink into an armchair with a good book to truly appreciate this wonderful pattern.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_hfij4q"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Landscape-7.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "l"
+      }
+    },
+    "image_banner_afrMQa": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_mYB4cd": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_mYB4cd"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-3to1Banner-1.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-SquareBanner-3.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "l",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "image_with_text_ftywDT": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_CAtf3Q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What we love most about Dianthus is how it celebrates craftsmanship.<br/><br/>Each motif on our fabric begins as a hand drawing, carved by skilled artisans into wooden printing blocks. The water based inks, mixed by experienced hands, are applied one colour at a time, building the design layer upon layer.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_CAtf3Q"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Landscape-9.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "l"
+      }
+    },
+    "image_with_text_i4Kcwx": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_Kp7Tad": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For those who love to embrace the season in their interiors, Dianthus is endlessly versatile.<br/><br/>In large living spaces it brings scale and impact, making a bold and elegant statement that feels luxurious and rich. <br/>For more intimate spaces it creates a cosy and intimate mood wrapping the walls in pattern and warmth.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_Kp7Tad"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Wallpaper-Fabric-Dianthus-Rust-Rose-Fabric-Landscape-02.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_y7BBig": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_bXzPNT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Country living at its heart, is about embracing nature in all its moods. Autumn not only brings its harvest and fiery sunsets in the evening sky, it also brings rain gently tapping on the window and the simple pleasure of coming home into a space that feels warm and welcoming.<br/>Mollys Dianthus design captures that spirit and tells its story. </p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_bXzPNT"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Portrait-05.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "l"
+      }
+    },
+    "image_with_text_EGewyn": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_mFLAyH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In many ways autumn is the most luxurious season.<br/>Not because of excess but because of its layered and textured richness that can be found all around us in the hedgerows, the golden light of late afternoons and the abundant colours in the leaves surrounding us.<br/>Luxury lies in savouring those small sensual pleasures and filling our homes with layers and patterns that bring us joy each day.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_mFLAyH"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Landscape-5.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_banner_KiPr3a": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_DzQqAT": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_DzQqAT"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Banner-1.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-SquareBanner-1.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "l",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_VXkCtb": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p>So this autumn, embrace the romance of change.<br/>Let Dianthus unfurl across your walls or soften your upholstery.<br/><br/>Layer it. Love it. Let it remind you of the flowers and warmth even as leaves fall and the air cools.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "simple_button_YBDNbp": {
+      "type": "simple-button",
+      "custom_css": [
+        ".button {background-color: #4e5c35 !important; border: none !important;}"
+      ],
+      "name": "Button",
+      "settings": {
+        "label": "Shop Now",
+        "link": "shopify://collections/the-romance-of-dianthus",
+        "color_scheme": "dark"
+      }
+    },
+    "multicolumn_xrbxVm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_enzVMQ": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Portrait-03.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_Wf3pjq": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Portrait-06.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_4g96dr": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Portrait-08.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_enzVMQ",
+        "column_Wf3pjq",
+        "column_4g96dr"
+      ],
+      "disabled": true,
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "l",
+        "margin_bot": "none"
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "share"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "165780769577c12393": {
+      "type": "simple-button",
+      "disabled": true,
+      "settings": {
+        "label": "Back to the Journal",
+        "link": "shopify://blogs/journal",
+        "color_scheme": "dark"
+      }
+    }
+  },
+  "order": [
+    "image_banner_meX7Rz",
+    "single_title_and_text_9mGmdf",
+    "image_with_text_6Qb49x",
+    "image_with_text_biGaVi",
+    "image_banner_AyYjLJ",
+    "image_with_text_ARtqaJ",
+    "image_banner_afrMQa",
+    "image_with_text_ftywDT",
+    "image_with_text_i4Kcwx",
+    "image_with_text_y7BBig",
+    "image_with_text_EGewyn",
+    "image_banner_KiPr3a",
+    "single_title_and_text_VXkCtb",
+    "simple_button_YBDNbp",
+    "multicolumn_xrbxVm",
+    "main",
+    "165780769577c12393"
+  ]
+}
