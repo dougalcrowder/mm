@@ -88,6 +88,19 @@
     "16623726363d1c454c": {
       "type": "multicolumn",
       "blocks": {
+        "column_3p6YWt": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Cayumas-Blog-Banner-Square.jpg",
+            "auto_height": "none",
+            "title": "Cayumas",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://blogs/look-books/molly-mahon-x-cayumas"
+          }
+        },
         "1662372635bce63b35-0": {
           "type": "column",
           "settings": {
@@ -168,6 +181,7 @@
         }
       },
       "block_order": [
+        "column_3p6YWt",
         "1662372635bce63b35-0",
         "a5870e5b-af92-4d96-8da9-791998a311d2",
         "1662372635bce63b35-2",

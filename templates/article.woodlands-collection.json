@@ -32,7 +32,7 @@
         "image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-01-Blog-Image.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-02-Blog-Image.jpg",
-        "respect_image": false,
+        "respect_image": true,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -51,6 +51,7 @@
     },
     "single_title_and_text_6RPnYK": {
       "type": "single-title_and_text",
+      "custom_css": [],
       "settings": {
         "title": "A new collection rooted in Home",
         "text": "",
@@ -68,7 +69,7 @@
         "text_GCWCtf": {
           "type": "text",
           "settings": {
-            "text": "<p>Introducing the <strong>Woodlands</strong> collection, where the beauty of nature meets the art of traditional craftsmanship. Inspired by the enchanting Ashdown Forest, this range brings the warmth and wonder of the British countryside into your home through rich colours and organic patterns.<br/><br/><a href=\"/collections/woodlands\" title=\"Woodlands\">Click here to browse collection.</a></p>",
+            "text": "<p>Introducing the <strong>Woodlands</strong> collection, where the beauty of nature meets the art of traditional craftsmanship. Inspired by the enchanting Ashdown Forest, this range brings the warmth and wonder of the British countryside into your home through rich colours and organic patterns.<br/><br/><a href=\"/collections/woodlands\" title=\"Woodlands\">Click here to browse collection.<br/><br/></a>Designed to evoke a feeling of calm, connection and joy, <strong>Woodlands</strong> invites you to embrace the beauty of nature in your everyday life.<br/>This whole collection offers a plethora of cloth weights, which is so key to versatile options, whether draping a window or upholstering a favourite chair.</p>",
             "code": ""
           }
         }
@@ -76,13 +77,14 @@
       "block_order": [
         "text_GCWCtf"
       ],
+      "custom_css": [],
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Sofa-Ashdown-Navy-Cushions-Ashdown-Cool-Blue-Lampshades-Flirty-Skirt-Indian-Leaf-Copper-Blue-01_5bff0496-aaa1-4799-baed-4d84760a04ce.jpg",
         "aspect_ratio": "none",
-        "width": false,
+        "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
-        "text_width": "prose",
+        "text_width": "prose_large",
         "header_text_size": "header-s",
         "text_size": "text-s",
         "color_scheme": "dark_text",
@@ -91,225 +93,6 @@
         "layout": "image_first",
         "margin_top": "none",
         "margin_bot": "m"
-      }
-    },
-    "single_title_and_text_fC3pVB": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "",
-        "text": "<p>Designed to evoke a feeling of calm, connection and joy, <strong>Woodlands</strong> invites you to embrace the beauty of nature in your everyday life.<br/>This whole collection offers a plethora of cloth weights, which is so key to versatile options, whether draping a window or upholstering a favourite chair.</p>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "none"
-      }
-    },
-    "image_with_text_eBYHrB": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_ALW8CY": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Woodlands</strong> represents our most sustainable endeavour yet, a reflection of the brand’s commitment to responsible craftsmanship. From the very essence of the yarn to the final fabric, every decision has been made with intention and care. </p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_ALW8CY"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Chair-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-Cushion-Indian-Leaf-Pink-Copper-01_021d7ab4-9433-473a-aa79-0454992c36d9.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_four_text_two",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "xl"
-      }
-    },
-    "image_banner_Y8TDrt": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk_b37cb45f-66b6-48cf-b44d-87622497419e.jpg",
-        "respect_image": false,
-        "top_margin": false,
-        "bordered": false,
-        "bordered_dt": true,
-        "constrain": false,
-        "desktop_text_box_position": "start",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "xl",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
-    "image_with_text_7pJG33": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_jM7pzw": {
-          "type": "text",
-          "settings": {
-            "text": "<p>As always, colour is at the heart of the collection, but in Woodlands, there is a newness, the hues are rich yet soothing, vibrant yet grounded, reflecting the serene yet wild spirit of the forest.</p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_jM7pzw"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-Woodlands-Fabrics-Image.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_four_text_two",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "multicolumn_LPwHf9": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_i668Cm": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Curtain-Poppy-Mustard-Sky-Chair-Indian-Leaf-Copper-Blue-01.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Indian Leaf",
-            "button_link": "shopify://products/indian-leaf-hand-block-printed-copper-blue"
-          }
-        },
-        "column_xMwnmL": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-01.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Indian Leaf",
-            "button_link": "shopify://products/indian-leaf-hand-block-printed-copper-blue"
-          }
-        },
-        "column_Tci8Ny": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_267c96f4-4dee-422e-91d1-7590e070b59c.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Forest Flowers",
-            "button_link": "shopify://products/forest-flowers-hand-block-printed-herringbone-multi"
-          }
-        }
-      },
-      "block_order": [
-        "column_i668Cm",
-        "column_xMwnmL",
-        "column_Tci8Ny"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "text_align": "center",
-        "title_margin": "l",
-        "gap": "medium",
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_Dazw38": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_UW7qCa": {
-          "type": "text",
-          "settings": {
-            "text": "<h4><em>In a quiet grove where whispers sing, <br/>A seed of thought begins to spring, <br/>From verdant dreams where wild things grow, <br/>To fabrics that in daylight glow.<br/><br/>With gentle hands, the blocks are pressed, <br/>Each stroke, a tale of nature's best, <br/>The woodland whispers, leaf and vine, <br/>In every print, the forests shine.<br/><br/>The wild orchids, colours bright,<br/>In dappled shade, a pure delight,<br/>Primroses and flowers small,<br/>Adorn the forest floor for all.</em></h4>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_UW7qCa"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-Blinds-Sycamore-Olive-Green-Chair-Woodland-Sprig-Green-02.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_four_text_two",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
-      }
-    },
-    "image_with_text_Xb393B": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_8VRxPX": {
-          "type": "text",
-          "settings": {
-            "text": "<h4><em>The oak’s embrace, the pine’s sweet kiss,<br/>In patterns formed of purest bliss,<br/>Bringing forth the outside in,<br/>A dance of wood, of bark, of kin.<br/><br/>The ferns unfurl, the flowers bloom,<br/>Their colours chase away the gloom,<br/>Each room a garden, wild and free,<br/>A tribute to the earth and tree.<br/><br/>In every thread, a story told,<br/>Of ancient woods and roots so old<br/>A tapestry where dreams reside,<br/>Of forest depths, where secrets hide.</em></h4>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_8VRxPX"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Cushions-Horse-Chestnut-Pnk-Noodle-Trailing-Acorn-Brown-01_eef3321a-588e-4adc-8336-b80f11ca7a52.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "xl"
       }
     },
     "multicolumn_MhLzeC": {
@@ -368,7 +151,213 @@
         "gap": "medium",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_eBYHrB": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_ALW8CY": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Woodlands</strong> represents our most sustainable endeavour yet, a reflection of the brand’s commitment to responsible craftsmanship. From the very essence of the yarn to the final fabric, every decision has been made with intention and care. </p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_ALW8CY"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Chair-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-Cushion-Indian-Leaf-Pink-Copper-01_021d7ab4-9433-473a-aa79-0454992c36d9.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose_large",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_7pJG33": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_jM7pzw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As always, colour is at the heart of the collection, but in Woodlands, there is a newness, the hues are rich yet soothing, vibrant yet grounded, reflecting the serene yet wild spirit of the forest.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_jM7pzw"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Woodlands-Fabrics-Image.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose_large",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_LPwHf9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_i668Cm": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Curtain-Poppy-Mustard-Sky-Chair-Indian-Leaf-Copper-Blue-01.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "Indian Leaf",
+            "button_link": "shopify://products/indian-leaf-hand-block-printed-copper-blue"
+          }
+        },
+        "column_xMwnmL": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-01.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "Indian Leaf",
+            "button_link": "shopify://products/indian-leaf-hand-block-printed-copper-blue"
+          }
+        },
+        "column_Tci8Ny": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_267c96f4-4dee-422e-91d1-7590e070b59c.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "Forest Flowers",
+            "button_link": "shopify://products/forest-flowers-hand-block-printed-herringbone-multi"
+          }
+        }
+      },
+      "block_order": [
+        "column_i668Cm",
+        "column_xMwnmL",
+        "column_Tci8Ny"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_banner_Y8TDrt": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk_b37cb45f-66b6-48cf-b44d-87622497419e.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": true,
+        "constrain": false,
+        "desktop_text_box_position": "start",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "m",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "image_with_text_Dazw38": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_UW7qCa": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><em>In a quiet grove where whispers sing, <br/>A seed of thought begins to spring, <br/>From verdant dreams where wild things grow, <br/>To fabrics that in daylight glow.<br/><br/>With gentle hands, the blocks are pressed, <br/>Each stroke, a tale of nature's best, <br/>The woodland whispers, leaf and vine, <br/>In every print, the forests shine.<br/><br/>The wild orchids, colours bright,<br/>In dappled shade, a pure delight,<br/>Primroses and flowers small,<br/>Adorn the forest floor for all.</em></h4>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_UW7qCa"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Blinds-Sycamore-Olive-Green-Chair-Woodland-Sprig-Green-02.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_Xb393B": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_8VRxPX": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><em>The oak’s embrace, the pine’s sweet kiss,<br/>In patterns formed of purest bliss,<br/>Bringing forth the outside in,<br/>A dance of wood, of bark, of kin.<br/><br/>The ferns unfurl, the flowers bloom,<br/>Their colours chase away the gloom,<br/>Each room a garden, wild and free,<br/>A tribute to the earth and tree.<br/><br/>In every thread, a story told,<br/>Of ancient woods and roots so old<br/>A tapestry where dreams reside,<br/>Of forest depths, where secrets hide.</em></h4>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_8VRxPX"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Cushions-Horse-Chestnut-Pnk-Noodle-Trailing-Acorn-Brown-01_eef3321a-588e-4adc-8336-b80f11ca7a52.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "image_with_text_DGb8r8": {
@@ -399,7 +388,7 @@
         "text_align": "center",
         "layout": "text_first",
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
       }
     },
     "multicolumn_wJpDb4": {
@@ -459,6 +448,7 @@
         },
         "column_Mz9wX4": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/MollyMahon-Wallpaper-Ashdown-Cool-Blue_b3f37349-ecdf-4e3f-95cf-ae4c0313c4ca.jpg",
@@ -472,6 +462,7 @@
         },
         "column_VLw3NN": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/MollyMahon-Wallpaper-Trailing-Acorn-Olive_cc869266-6704-4587-b273-096013da2846.jpg",
@@ -485,6 +476,7 @@
         },
         "column_GU837a": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/MollyMahon-Wallpaper-Trailing-Acorn-Sky-Blue_4d12274c-e9f1-443f-a192-466992a0a1bc.jpg",
@@ -514,7 +506,7 @@
         "gap": "medium",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
       }
     },
     "image_with_text_MYG6LM": {
@@ -541,7 +533,7 @@
       "settings": {
         "image": "shopify://shop_images/Molly_Mahon_Woodlands_Ashdown_Colourways.png",
         "aspect_ratio": "none",
-        "width": false,
+        "width": true,
         "column_layout": "img_two_text_four",
         "gap": "large",
         "text_width": "prose",
@@ -552,7 +544,7 @@
         "text_align": "center",
         "layout": "image_first",
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
       }
     },
     "image_with_text_yF7Lye": {
@@ -579,7 +571,7 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon_ForestFlowers_Multi_Bamboo30-Cotton70_Herringbone_2_84e0e199-4f9c-4b64-9e01-dcb663aefea2.jpg",
         "aspect_ratio": "none",
-        "width": false,
+        "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
         "text_width": "prose",
@@ -590,7 +582,7 @@
         "text_align": "center",
         "layout": "text_first",
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
       }
     },
     "image_with_text_f7Fq8j": {
@@ -617,7 +609,7 @@
       "settings": {
         "image": "shopify://shop_images/Molly_Mahon_Woodlands_Sycamore_Colourways.png",
         "aspect_ratio": "none",
-        "width": false,
+        "width": true,
         "column_layout": "img_two_text_four",
         "gap": "large",
         "text_width": "prose",
@@ -628,7 +620,7 @@
         "text_align": "center",
         "layout": "image_first",
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
       }
     },
     "image_with_text_mNNEaC": {
@@ -655,7 +647,7 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon_WoodlandSprig_Green_Bamboo50-Cotton25-Linen25_Plain5_c5a7d890-46fa-4c94-8bf1-6d74bd0b09fd.jpg",
         "aspect_ratio": "none",
-        "width": false,
+        "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
         "text_width": "prose",
@@ -666,7 +658,7 @@
         "text_align": "center",
         "layout": "text_first",
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
       }
     },
     "image_with_text_Yg8nm6": {
@@ -693,7 +685,7 @@
       "settings": {
         "image": "shopify://shop_images/Molly_Mahon_Trailing_Acorn_Colourways.png",
         "aspect_ratio": "none",
-        "width": false,
+        "width": true,
         "column_layout": "img_two_text_four",
         "gap": "large",
         "text_width": "prose",
@@ -704,7 +696,7 @@
         "text_align": "center",
         "layout": "image_first",
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
       }
     },
     "image_with_text_ALDiyp": {
@@ -731,7 +723,7 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon_Foxglove_Lilac_Bamboo30-Cotton70_Herringbone_3_9e7698ae-52a7-4fc4-9dd4-3dee1e4f5b01.jpg",
         "aspect_ratio": "none",
-        "width": false,
+        "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
         "text_width": "prose",
@@ -742,7 +734,7 @@
         "text_align": "center",
         "layout": "text_first",
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
       }
     },
     "image_with_text_4X7WHc": {
@@ -769,7 +761,7 @@
       "settings": {
         "image": "shopify://shop_images/Molly_Mahon_Horse_Chestnut_Colourways.png",
         "aspect_ratio": "none",
-        "width": false,
+        "width": true,
         "column_layout": "img_two_text_four",
         "gap": "large",
         "text_width": "prose",
@@ -780,7 +772,7 @@
         "text_align": "center",
         "layout": "image_first",
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
       }
     },
     "image_with_text_K93NTw": {
@@ -807,7 +799,7 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon_LeafyTrellis_Green_Aloe_1_7c8a318f-902f-4993-a192-851dfef93910.jpg",
         "aspect_ratio": "none",
-        "width": false,
+        "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
         "text_width": "prose",
@@ -818,7 +810,7 @@
         "text_align": "center",
         "layout": "text_first",
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "sm"
       }
     },
     "image_with_text_MmdyFw": {
@@ -842,10 +834,13 @@
         "heading_TT8BkJ",
         "text_4H6Fhf"
       ],
+      "custom_css": [
+        ".image-with-text {margin-bottom: 0px;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/Molly_Mahon_Indian_Leaf_Colourways.png",
         "aspect_ratio": "none",
-        "width": false,
+        "width": true,
         "column_layout": "img_two_text_four",
         "gap": "large",
         "text_width": "prose",
@@ -856,11 +851,14 @@
         "text_align": "center",
         "layout": "image_first",
         "margin_top": "none",
-        "margin_bot": "xl"
+        "margin_bot": "m"
       }
     },
     "164975103076740208": {
       "type": "featured-collection",
+      "custom_css": [
+        ".featured_collection {margin-top: 0px;}"
+      ],
       "settings": {
         "title": "Woodlands",
         "collection": "woodlands",
@@ -884,14 +882,13 @@
     "image_banner_EXfAV6",
     "single_title_and_text_6RPnYK",
     "image_with_text_nDFXhC",
-    "single_title_and_text_fC3pVB",
+    "multicolumn_MhLzeC",
     "image_with_text_eBYHrB",
-    "image_banner_Y8TDrt",
     "image_with_text_7pJG33",
     "multicolumn_LPwHf9",
+    "image_banner_Y8TDrt",
     "image_with_text_Dazw38",
     "image_with_text_Xb393B",
-    "multicolumn_MhLzeC",
     "image_with_text_DGb8r8",
     "multicolumn_wJpDb4",
     "image_with_text_MYG6LM",

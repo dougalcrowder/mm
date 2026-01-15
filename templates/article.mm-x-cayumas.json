@@ -1,0 +1,281 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_we4rJn": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_TfFLJT": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_TfFLJT"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Cayumas-Blog-Banner.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-Cayumas-Blog-Banner-Square.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_Jenthc": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "Molly Mahon X Cayumas",
+        "text": "<p>Spanish handmade shoe brand Cayumas and Molly Mahon collaboration that unites traditional European craftsmanship with the joyful artistry of Indian block printing.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "s",
+        "margin_bot": "s"
+      }
+    },
+    "multicolumn_QpRzwn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_RxL4m7": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon-Cayumas-2.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_ng8NQe": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon-Cayumas-1.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_RxL4m7",
+        "column_ng8NQe"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "sm"
+      }
+    },
+    "image_with_text_Lmw9RQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_YqJ9JJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Cayumas × Molly Mahon Collection is a limited edition of handcrafted cotton shoes made in Italy using Molly’s signature Tuk Tuk block-printed fabric. Each pair is a testament to slow fashion, rooted in heritage and made with integrity. <br/><br/>Born from the passion for travel and a love of timeless design, Cayumas shoes are the traditional footwear of the Friuli-Venezia Giulia region of northeastern Italy, favoured by Venetian gondoliers for their comfort and durability. Each pair is meticulously handmade by one master Artisan in Friuli, preserving techniques passed down through generations.<br/><br/><em>“Working with Cayumas has been a beautiful meeting of shared values, we both believe in preserving artisanal tradition and creating beauty with meaning.”<br/></em><br/><a href=\"https://cayumas.com/en-gb/products/boheme-molly-mahon\" title=\"https://cayumas.com/en-gb/products/boheme-molly-mahon\">Get your pair</a></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_YqJ9JJ"
+      ],
+      "custom_css": [
+        ".image-with-text {margin-block: 0px;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Cayumas-3.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "medium",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "sm"
+      }
+    },
+    "multicolumn_L9KUCA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hVfKTY": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Boheme-Blu-Molly-Mahon-A-1_Alta.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_yDRgwd": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Boheme-Blu-Molly-Mahon-B_Alta.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_3RbWJj": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Boheme-Blu-Molly-Mahon-C_Alta.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hVfKTY",
+        "column_yDRgwd",
+        "column_3RbWJj"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "sm"
+      }
+    },
+    "multicolumn_DfD6PH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_MqdF3Y": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon-Cayumas-4_c92eecca-d933-461d-915b-663d2eacfc2b.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_9iCnrx": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon-Cayumas-5.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_MqdF3Y",
+        "column_9iCnrx"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "sm"
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "share"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "image_banner_we4rJn",
+    "single_title_and_text_Jenthc",
+    "multicolumn_QpRzwn",
+    "image_with_text_Lmw9RQ",
+    "multicolumn_L9KUCA",
+    "multicolumn_DfD6PH",
+    "main"
+  ]
+}

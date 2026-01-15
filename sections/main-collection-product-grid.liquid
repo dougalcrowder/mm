@@ -26,7 +26,7 @@
   {% unless filtersOn %}
   class="mt-sm"
   {% endunless %}>
-  {%- paginate collection.products by 100 -%}
+  {%- paginate collection.products by 200 -%}
     {%- if collection.products.size == 0 -%}
       <div
         class="collection collection--empty inner"
@@ -99,15 +99,6 @@
     "name": "t:sections.main-collection-product-grid.name",
     "class": "collection-grid-section",
     "settings": [
-      {
-        "type": "range",
-        "id": "products_per_page",
-        "min": 8,
-        "max": 48,
-        "step": 4,
-        "default": 24,
-        "label": "t:sections.main-collection-product-grid.settings.products_per_page.label"
-      },
       {
         "type": "header",
         "content": "t:sections.main-collection-product-grid.settings.header__3.content"

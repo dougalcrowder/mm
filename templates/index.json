@@ -9,47 +9,131 @@
  */
 {
   "sections": {
-    "image_banner_JTwYUc": {
-      "type": "image-banner",
+    "feature_slideshow_CqijaA": {
+      "type": "feature-slideshow",
       "blocks": {
-        "heading_JxhaCH": {
-          "type": "heading",
+        "image_izadbx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-Sample-Guide-Banner-Mughal-Leaf.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Sample-Guide-Banner-Square-Mughal-Leaf.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_6ACHer": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-Cushions-Trims-Banner.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Cushions-Trims-Banner-Square.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "",
+            "button_color": "white"
+          }
+        },
+        "image_fNfFUq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-Primrose_a1b0c50f-e8a2-49df-8f2e-0b51bf99877e.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Primrose-Square.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_WE6HBy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Banner-1.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-SquareBanner-1.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_8AQaXy": {
+          "type": "image",
           "disabled": true,
           "settings": {
-            "heading": "New Dianthus Wallpaper",
-            "heading_type": "header1"
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-Banner.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-Banner-Square.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_bB8tN7": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-82-Banner.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-82-Banner-Square.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_4raY8X": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-And-Napkin-Banner.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-and-Napkin-Banner-Square.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
           }
         }
       },
       "block_order": [
-        "heading_JxhaCH"
+        "image_izadbx",
+        "image_6ACHer",
+        "image_fNfFUq",
+        "image_WE6HBy",
+        "image_8AQaXy",
+        "image_bB8tN7",
+        "image_4raY8X"
       ],
+      "name": "Slideshow",
       "settings": {
-        "image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Wallpaper-Fabric-Dianthus-Rust-Rose-Fabric-Website-Banner-2.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Wallpaper-Fabric-Dianthus-Rust-Rose-Fabric-Landscape-01-Lookbook-2.jpg",
-        "respect_image": true,
-        "top_margin": false,
-        "bordered": true,
-        "bordered_dt": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
+        "background": "",
+        "styles": true,
+        "autoplay": true,
+        "interval": 4500,
         "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
+        "margin_bot": "none"
       }
     },
     "single_title_and_text_VcQckG": {
       "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
       "settings": {
         "title": "Block Printed By Hand",
-        "text": "<p>Molly Mahon is a renowned British luxury interior brand<br/>known for its beautifully crafted products that combine ancient techniques<br/>with contemporary design. </p>",
+        "text": "<p>Get ready for Christmas with Molly Mahon.<br/>Our new collection celebrates the return of romance at home,<br/>weaving together jewel-toned silks, sumptuous ikats and much-loved Dianthus floral print.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -65,46 +149,46 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-Fabric.jpg",
+            "image": "shopify://shop_images/MollyMahon-Fabrics_e8c00390-0708-4621-9347-ee1839b9131d.jpg",
             "auto_height": "none",
             "title": "Fabric",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "link label",
             "button_link": "shopify://collections/fabric"
-          }
-        },
-        "column_GMKGVW": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Wallpaper-Tablecloth-Dianthus-Midnight-Iron-Portrait-01.jpg",
-            "auto_height": "none",
-            "title": "Wallpaper",
-            "text_align": "center",
-            "heading_size": "l",
-            "button_label": "link label",
-            "button_link": "shopify://collections/wallpaper"
           }
         },
         "column_KiAKXc": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Woodlands-Cushions-Multi-Blinds-Horse-Chestnut-Navy_e507f15f-604e-4f1d-9c96-43fc947f4924.jpg",
+            "image": "shopify://shop_images/MollyMahon-Homewares-2025.jpg",
             "auto_height": "none",
             "title": "Homewares",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "link label",
             "button_link": "shopify://collections/homewares"
+          }
+        },
+        "column_GMKGVW": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly_Mahon_Wallpaper.jpg",
+            "auto_height": "none",
+            "title": "Wallpaper",
+            "text_align": "center",
+            "heading_size": "xl",
+            "button_label": "link label",
+            "button_link": "shopify://collections/wallpaper"
           }
         }
       },
       "block_order": [
         "column_Y6ggq4",
-        "column_GMKGVW",
-        "column_KiAKXc"
+        "column_KiAKXc",
+        "column_GMKGVW"
       ],
       "settings": {
         "mc_title": "",
@@ -124,26 +208,26 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/Molly_Mahon_Lani_wallpaper_gold_L184_per_me_tre_Photo_credit-_Elizabeth_Hay_Designs_5498d1dc-c586-48f6-be4a-9676f729eb8b.jpg",
+            "image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Flirty-Lampshade-Ikat-Chevron-Purple-Cushion-Luna-Blue-Pink-Portrait.jpg",
             "auto_height": "none",
-            "title": "Lani Wallpaper",
+            "title": "The Ikat",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "xl",
             "button_label": "link label",
-            "button_link": "shopify://products/lani-wallpaper-gold"
+            "button_link": "shopify://collections/the-ikat"
           }
         },
         "column_4GthD6": {
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/MollyMahon-Tulip-Rose-Copper.jpg",
+            "image": "shopify://shop_images/MollyMahon-MM-Collections.jpg",
             "auto_height": "none",
-            "title": "Tulip Fabric",
+            "title": "Spring into the New Year",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "xl",
             "button_label": "",
-            "button_link": "shopify://products/tulip-block-printed-fabric-linen-cotton-rose-copper"
+            "button_link": "shopify://collections/woodlands"
           }
         }
       },
@@ -159,68 +243,46 @@
         "gap": "large",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "l"
+        "margin_bot": "m"
       }
     },
-    "image_banner_ADqiGK": {
-      "type": "image-banner",
+    "image_with_text_b4rYGw": {
+      "type": "image-with-text",
       "blocks": {
-        "heading_CABEXQ": {
+        "heading_B4qWjf": {
           "type": "heading",
           "settings": {
-            "heading": "Dianthus Wallpaper",
-            "heading_type": "header1"
+            "heading": "The English Home Magazine New Year Honours Awards 2026"
           }
         },
-        "text_fCHqQn": {
+        "text_GcDe73": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Vibrant beauty with exceptional durability.",
-            "go_serif": true,
-            "constrain_text": false
-          }
-        },
-        "buttons_8Lgecq": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Dianthus Wallpaper",
-            "button_link_1": "shopify://collections/new-dianthus-wallpaper",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>We are honoured to announce that we have received the New Years Honours Awards for Outstanding Contribution from The English Home Magazine<br/><br/><a href=\"/blogs/journal/the-english-home-awards-for-outstanding-contribution\" title=\"The English Home Awards for Outstanding Contribution\">Read the article here.</a></p>",
+            "code": ""
           }
         }
       },
       "block_order": [
-        "heading_CABEXQ",
-        "text_fCHqQn",
-        "buttons_8Lgecq"
+        "heading_B4qWjf",
+        "text_GcDe73"
       ],
-      "custom_css": [
-        ".button {background-color: #fce2e1 !important; border: none !important;}"
-      ],
-      "name": "t:sections.image-banner.presets.name",
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Wallpaper-Dianthus-Rust-Rose-Landscape-01Website-Banner-2.jpg",
-        "letterbox": false,
-        "mobile_image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Wallpaper-Dianthus-Rust-Rose-Landscape-01-Website-Banner-Square.jpg",
-        "respect_image": true,
-        "top_margin": false,
-        "bordered": false,
-        "bordered_dt": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
+        "image": "shopify://shop_images/MollyMahon-TheEnglishHomeAward.png",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
         "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
+        "layout": "text_first",
         "margin_top": "none",
-        "margin_bot": "none",
-        "bg_color_scheme": "none",
-        "hover_text": false
+        "margin_bot": "sm"
       }
     },
     "image_with_text_L7qXnQ": {
@@ -228,15 +290,14 @@
       "blocks": {
         "heading_t8iPAf": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image with text"
+            "heading": "NEW Dianthus Wallpaper"
           }
         },
         "text_CcR6EJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Our most popular design now also available as wallpaper. <br/><br/>Meet the new Dianthus in the two colour-ways:<br/>Rust/Rose and Midnight/Iron. <br/>Printed in small batches using water-based, eco friendly inks that preserve vibrancy as well as nature.</p>",
+            "text": "<p>Our most popular design now also available as wallpaper. <br/><br/>Meet the new Dianthus in the two colour-ways:<br/>Rust/Rose and Midnight/Ironp rinted in small batches using water-based, eco friendly inks<br/>that preserve vibrancy as well as nature.<br/><br/>Our Dianthus wallpaper captures the essence of flowers, Indian block-printing and our much-loved signature design. <br/><br/>Versatile and uplifting, Dianthus brings character to both large, open spaces and hallways, while also transforming cosy bedrooms and bathrooms with its timeless charm.<br/><br/>Discover more <a href=\"/blogs/look-books/the-romance-of-dianthus\" title=\"The Romance Of Dianthus\">HERE</a></p>",
             "code": ""
           }
         }
@@ -249,7 +310,7 @@
       "settings": {
         "image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Wallpaper-Dianthus-Midnight-Iron-Chair-Fabric-Bagru-Fabric-Stars-Flirty-Lampshade-Cushion-Portrait-01.jpg",
         "aspect_ratio": "none",
-        "width": false,
+        "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
         "text_width": "prose",
@@ -259,48 +320,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "l",
-        "margin_bot": "l"
-      }
-    },
-    "image_with_text_taYNpM": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Bpy7PQ": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "text_cjqjpp": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our Dianthus wallpaper captures the essence of flowers, Indian block-printing and our much-loved signature design. <br/><br/>Versatile and uplifting, Dianthus brings character to both large, open spaces and hallways, while also transforming cosy bedrooms and bathrooms with its timeless charm.<br/><br/>Discover more <a href=\"/collections/new-dianthus-wallpaper\" title=\"New Dianthus Wallpaper\">HERE</a></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_Bpy7PQ",
-        "text_cjqjpp"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Wallpaper-Fabric-Dianthus-Rust-Rose-Fabric-Portrait-01_baa85108-3da8-4db5-975e-16164667c504.jpg",
-        "aspect_ratio": "none",
-        "width": false,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "l"
+        "margin_top": "sm",
+        "margin_bot": "sm"
       }
     },
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
@@ -352,6 +373,10 @@
     },
     "single_title_and_text_GAmte8": {
       "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-bottom: 0px;}",
+        ".text {margin-top: 20px;}"
+      ],
       "settings": {
         "title": "Shop by Collections",
         "text": "<p>Every collection of Molly's tells a story.<br/>Whether inspired by the woodlands around her,<br/>the vibrant colours of India, <br/>or the charm of big blousy blooms,<br/>each one is thoughtfully woven through pattern and palette.<br/><br/>Discover more below.</p>",
@@ -374,7 +399,7 @@
             "auto_height": "none",
             "title": "Woodlands",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "",
             "button_link": "shopify://collections/woodlands"
           }
@@ -387,7 +412,7 @@
             "auto_height": "none",
             "title": "Trims",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "link label",
             "button_link": "shopify://collections/trims"
           }
@@ -401,7 +426,7 @@
             "auto_height": "none",
             "title": "Bagru",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "xl",
             "button_label": "link label",
             "button_link": "shopify://collections/bagru-fabric-collection"
           }
@@ -422,27 +447,27 @@
         },
         "column_3UMedx": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/MollyMahon-Greencombe-Collection-Poppy-Rose-Grass.jpg",
             "auto_height": "none",
             "title": "Greencombe",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "link label",
             "button_link": "shopify://collections/greencombe-fabric"
           }
         },
         "column_UYGWYD": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/MollyMahon-Fern-Indigo.jpg",
             "auto_height": "none",
             "title": "Deerhyrst",
             "text_align": "center",
-            "heading_size": "s",
+            "heading_size": "xl",
             "button_label": "link label",
             "button_link": "shopify://collections/deerhyrst-fabric-collection"
           }
@@ -471,12 +496,16 @@
       "type": "divider",
       "settings": {
         "margin_top": "s",
-        "margin_bot": "m",
+        "margin_bot": "s",
         "hr": true
       }
     },
     "single_title_and_text_8bjJVQ": {
       "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-bottom: 0px;}",
+        ".text {margin-top: 0px;}"
+      ],
       "name": "Title and Text",
       "settings": {
         "title": "Be Inspired",
@@ -500,7 +529,7 @@
             "auto_height": "square",
             "title": "Look Books",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "",
             "button_link": "shopify://blogs/look-books"
           }
@@ -513,7 +542,7 @@
             "auto_height": "square",
             "title": "Customer Projects",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "",
             "button_link": "shopify://pages/customer-projects"
           }
@@ -526,7 +555,7 @@
             "auto_height": "square",
             "title": "Creative Collaborations",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "",
             "button_link": "shopify://pages/services"
           }
@@ -551,16 +580,20 @@
     "divider_Jt99xf": {
       "type": "divider",
       "settings": {
-        "margin_top": "m",
-        "margin_bot": "m",
+        "margin_top": "s",
+        "margin_bot": "s",
         "hr": true
       }
     },
     "single_title_and_text_aRQeMV": {
       "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-bottom: 0px;}",
+        ".text {margin-top: 0px;}"
+      ],
       "settings": {
         "title": "Bring Colour into your Home",
-        "text": "",
+        "text": "<p>The finishing touches for every room.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -574,6 +607,7 @@
       "blocks": {
         "heading_4yTVkF": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Homewares",
             "heading_type": "header1"
@@ -581,6 +615,7 @@
         },
         "text_qTdhyh": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "The finishing touches for every room",
             "go_serif": true,
@@ -605,23 +640,24 @@
         "text_qTdhyh",
         "buttons_iUAyEz"
       ],
+      "custom_css": [],
       "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
+        "image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Sofa-Fabric-Ashdown-Flirty-Lampshade-Ikat-Cushions-Dianthus-Stars-Bagru-Luna-Landscape-04_lowres.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/Molly-Mahon-Sustainability-Square.jpg",
+        "mobile_image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Sofa-Fabric-Ashdown-Flirty-Lampshade-Ikat-Cushions-Dianthus-Stars-Bagru-Luna-Landscape-04_lowres-square.jpg",
         "respect_image": true,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
         "constrain": false,
-        "desktop_text_box_position": "middle",
+        "desktop_text_box_position": "start",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "none",
-        "margin_bot": "s",
+        "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
       }
@@ -633,11 +669,11 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_AnopuraLifestyle_082.jpg",
+            "image": "shopify://shop_images/MollyMahon-Lighting-Christmas-2025.jpg",
             "auto_height": "none",
             "title": "Lighting",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "link label",
             "button_link": "shopify://collections/lighting"
           }
@@ -646,11 +682,11 @@
           "type": "column",
           "settings": {
             "width": "half",
-            "image": "shopify://shop_images/MollyMahon_India_Nov2024_Emma_AnopuraLifestyle_086.jpg",
+            "image": "shopify://shop_images/MollyMahon-Cushions-Christmas-2025.jpg",
             "auto_height": "none",
             "title": "Cushions",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "link label",
             "button_link": "shopify://collections/cushions"
           }
@@ -675,12 +711,16 @@
       "type": "divider",
       "settings": {
         "margin_top": "s",
-        "margin_bot": "m",
+        "margin_bot": "s",
         "hr": true
       }
     },
     "single_title_and_text_CTJFt9": {
       "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-bottom: 0px;}",
+        ".text {margin-top: 0px;}"
+      ],
       "settings": {
         "title": "News",
         "text": "",
@@ -754,8 +794,8 @@
     "divider_4brE4j": {
       "type": "divider",
       "settings": {
-        "margin_top": "l",
-        "margin_bot": "l",
+        "margin_top": "s",
+        "margin_bot": "s",
         "hr": true
       }
     },
@@ -821,6 +861,10 @@
     },
     "single_title_and_text_fkDb6K": {
       "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-bottom: 0px;}",
+        ".text {margin-top: 0px;}"
+      ],
       "name": "Title and Text",
       "settings": {
         "title": "Joyful Prints For Joyful Homes",
@@ -840,13 +884,12 @@
     }
   },
   "order": [
-    "image_banner_JTwYUc",
+    "feature_slideshow_CqijaA",
     "single_title_and_text_VcQckG",
     "multicolumn_7TKhTL",
     "multicolumn_pHNVx4",
-    "image_banner_ADqiGK",
+    "image_with_text_b4rYGw",
     "image_with_text_L7qXnQ",
-    "image_with_text_taYNpM",
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "single_title_and_text_GAmte8",
     "dedeec5c-28d6-4af0-961d-09abb7473182",

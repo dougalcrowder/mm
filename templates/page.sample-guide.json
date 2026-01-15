@@ -1,0 +1,529 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {}
+    },
+    "image_banner_epqeqd": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_nH9FcV": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "text_KFfydJ": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_964i46": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nH9FcV",
+        "text_KFfydJ",
+        "buttons_964i46"
+      ],
+      "custom_css": [],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Sample-Guide-Banner-Mughal-Leaf.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-Sample-Guide-Banner-Square-Mughal-Leaf.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_rjkEAa": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "Molly Mahon's Sample Guide",
+        "text": "<p>Thank you for ordering your samples.<br/>What a joyful first step towards bringing more pattern and colour into your home.<br/>Samples are little pieces of inspiration, full of promise and possibility.<br/><br/>Follow these steps below to help you through this journey of creating your perfect home.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "l",
+        "margin_bot": "l"
+      }
+    },
+    "image_banner_TY3ijB": {
+      "type": "image-banner",
+      "disabled": true,
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Luna-Banner-5to1.jpg",
+        "letterbox": false,
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "image_with_text_kGFiwe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_A6MwF8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Living with your Sample"
+          }
+        },
+        "text_nyYq8n": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Now for the fun part.<br/>Exploring how the patterns might work in your own world.<br/>Choosing and using fabric and wallpaper samples is a wonderful way to experiment with colour, texture and mood in the decision making process.<br/><br/></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_A6MwF8",
+        "text_nyYq8n"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".image_with_text {margin-block: 0px;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Sample-Buying-Smple-Guide.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose_medium",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_JYj68c": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bpPemx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Living with your Sample"
+          }
+        },
+        "text_iCFmQL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Now for the fun part.<br/>Exploring how the patterns might work in your own world.<br/>Choosing fabric and wallpaper samples is a wonderful way to experiment with colour, texture and mood.<br/><br/>Take your Time, samples are there to inspire and reassure you.</p><p>We recommend placing your sample where you want to use it in your home. Notice the ight, colour and feeling it brings.<br/>Go with your gut instinct - if it feels right, it probably is!<br/><br/>This is a time to play.<br/></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_bpPemx",
+        "text_iCFmQL"
+      ],
+      "custom_css": [],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Walpaper-Guide-Inspiration.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose_medium",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "divider_8D7F39": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "image_with_text_rU6FF6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hmCwbF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Customer Projects"
+          }
+        },
+        "text_ibpqPg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking for more inspiration?<br/><br/>Browse our Customer Projects where you can see how our fabrics and wallpapers have been paired together to create amazing spaces that ignite your creativity and kickstart your new project.<br/><br/><a href=\"/pages/customer-projects\" title=\"Customer Projects\">Discover more Here</a></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_hmCwbF",
+        "text_ibpqPg"
+      ],
+      "custom_css": [],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Luna-Pink-Customer-Projetcs.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose_medium",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_banner_LmcBCr": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Sample-Guide-Customer-Projects-Banner_88f9517c-0d8f-40b6-ad34-f32d138cf744.jpg",
+        "letterbox": false,
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "divider_citgKj": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "image_with_text_dkMfTX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UaJkUe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fabric Measuring Guide"
+          }
+        },
+        "text_V836TV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There is something wonderfully exciting about planning a room but it can be overwhelming.<br/><br/>Now that you've decided on your fabrics, here's a little guide on how to measure for your projects. You only need a few simple calculations to make everything come together. Whether you are planning curtains, blinds or a headboard. <br/><br/><a href=\"/blogs/journal/molly-mahon-fabric-measuring-guide\" title=\"Molly Mahon Fabric Measuring Guide\">Find out more Here</a></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_UaJkUe",
+        "text_V836TV"
+      ],
+      "custom_css": [],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Fabric-Measuring-Guide.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose_medium",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_banner_iLNREp": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Sample-Guide-Fabric-Measure-Banner.jpg",
+        "letterbox": false,
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "m",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "divider_3UFyin": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "image_with_text_3xgxVY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_qrhaX9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wallpaper Measuring Guide"
+          }
+        },
+        "text_yzwHtW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There's nothing quite like wallpaper to transform a room. Whether you are adding charm to a cloakroom or bringing personality to a bedroom, it is one of the most magical design choices you can make.<br/><br/>You don't need to be a maths wizard. You just need a tape measure and and this simple guide.<br/><br/><a href=\"/blogs/journal/molly-mahons-wallpaper-measuring-guide\" title=\"Molly Mahon Wallpaper Measuring Guide\">Learn more Here</a></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_qrhaX9",
+        "text_yzwHtW"
+      ],
+      "custom_css": [],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Wallpaper-Measuring-Guide.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose_medium",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_banner_M9HKLE": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Sample-Guide-Wallpaper-Measure-Banner.jpg",
+        "letterbox": false,
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "m",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "featured_collection_cKJciy": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [],
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Fabrics and Wallpaper",
+        "collection": "fabric-wallpaper",
+        "button_color": "seasonal",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
+    "multicolumn_TDhqWk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CXmcWj": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-schumacher_norcal.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_eahUG6": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects-lantanatextil.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_NKAq73": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Molly-Mahon-Customer-Projects_9e8eaf8a-417b-41a7-9f65-a303b985c657.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CXmcWj",
+        "column_eahUG6",
+        "column_NKAq73"
+      ],
+      "disabled": true,
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "none",
+        "gap": "large",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_6NtDAb": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p>We hope you have found this guide useful.<br/><br/>If you have any further questions or need help contact us at:<br/><br/><a href=\"mailto:hello@mollymahon.com\" title=\"mailto:hello@mollymahon.com\">hello@mollymahon.com</a><br/><br/>or give us a call on: +44 (0) 1342 825 700</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_epqeqd",
+    "single_title_and_text_rjkEAa",
+    "image_banner_TY3ijB",
+    "image_with_text_kGFiwe",
+    "image_with_text_JYj68c",
+    "divider_8D7F39",
+    "image_with_text_rU6FF6",
+    "image_banner_LmcBCr",
+    "divider_citgKj",
+    "image_with_text_dkMfTX",
+    "image_banner_iLNREp",
+    "divider_3UFyin",
+    "image_with_text_3xgxVY",
+    "image_banner_M9HKLE",
+    "featured_collection_cKJciy",
+    "multicolumn_TDhqWk",
+    "single_title_and_text_6NtDAb"
+  ]
+}

@@ -175,7 +175,7 @@
       "name": "Title and Text",
       "settings": {
         "title": "",
-        "text": "<p><strong>Additional considerations:<br/></strong><br/>Keep in mind that large pattern repeats (for example florals) may require extra fabric to allow for pattern matching.<br/>Also add extra length for puddling if desired.</p>",
+        "text": "<p><strong>Additional considerations:<br/></strong><br/>Keep in mind that large pattern repeats (for example florals) may require extra fabric to allow for pattern matching.<br/>Also add extra length for padding if desired.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",

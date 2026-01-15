@@ -1,0 +1,64 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_B9npgA": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Sofa-Fabric-Ashdown-Wallpaper-Cushions-Flirty-Lampshade-Dianthus-Stars-Bagru-Ikat-Luna-Landscape-03.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Sofa-Fabric-Ashdown-Wallpaper-Cushions-Flirty-Lampshade-Dianthus-Stars-Bagru-Ikat-Luna-Landscape-03-Square.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_AkaiMf": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "MM Care Instructions",
+        "text": "<p><strong>For product specific care information find the info on the relevant product web page.<br/><br/>Cushions and Accessories:</strong></p><p>Ideally spot clean any marks, otherwise we recommend dry cleaning.<br/>A gentle hand wash is suitable for our wash bags and some of our cushions.<strong><br/><br/>Hand Blocked Fabrics:<br/>Bagru, Jaipur, Greencombe, Bloom, Trims & Woodlands</strong><br/><br/>These fabrics are hand block printed with small individual wooden blocks, slight imperfections are to be expected and colour variations can occur between batches. We use Azo-free, non toxic water based paints, which we feel is a healthier choice for the printer and environment.<br/><br/>Dry cleaning is recommended for our fabrics. Up to 5% shrinkage can be expected.<br/><br/>We cannot accept returns on the basis of the marks of the block not being exact, this is the beauty of this style of printing.<br/><br/><strong>Woven Stripe & plain dyed linens & cottons:<br/><br/></strong>These fabrics are handwoven and hand dyed, slight imperfections are to be expected and colour variations can occur between batches.<br/><br/><strong>Digital Fabrics and Wallpaper:<br/>Deerhyrst, Wallpapers<br/><br/></strong>Due to the nature of the natural base cloths and small batch printing method it is not always possible to obtain an exact colour match. Whilst we make every effort to ensure that colours correspond to our samples, slight variations may occur.<br/><br/>Our wallpapers can be wiped clean with a damp cloth.<br/><br/>For full information on our <strong>Fabric and Wallpaper Information Guides</strong> follow the links below.<br/><br/><a href=\"https://mollymahon.com/pages/fabric-care\" title=\"FABRIC CARE AND USAGE\">FABRIC CARE AND USAGE</a></p><p><a href=\"https://mollymahon.com/pages/wallpaper-care\" title=\"WALLPAPER CARE AND USAGE\">WALLPAPER CARE AND USAGE</a></p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "sm",
+        "margin_bot": "none"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "image_banner_B9npgA",
+    "single_title_and_text_AkaiMf",
+    "main"
+  ]
+}

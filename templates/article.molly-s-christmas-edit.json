@@ -1,0 +1,486 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_TkWphB": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_wgzk8n": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wgzk8n"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Christmas25-Banner-2.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/Square-Mollymahon-Fordmanor-AW2025-Stockings-Dianthus-Midnight-Iron-Trellis-Rose-Midnight-Presents-Fabric-Trim-Por-2_449b0291-f6fb-4e29-a616-c3199a1fbbca.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_BXMHrK": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Molly Mahon's Christmas Edit",
+        "text": "",
+        "font_type": "heading",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_PhLYKy": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9BkGxe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vibrant Gifts for Every Home"
+          }
+        },
+        "text_T49EVy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From playful block-printed stockings and one-of-a-kind wash bags to floral napkins and bold lux tablecloths for festive hosting, Molly’s curation makes gifting deeply personal. <br/><br/>For creative spirits, there are tapestry kits and block print sets; for cooks and hosts, vibrant linens; and for everyday moments, our new lux lavender eye bags and hand-printed paper stationery that transform simple rituals into small luxuries.<br/><br/>“This collection is about more than decoration,” says Molly. “It’s about capturing the spirit of the season: the texture of beautiful fabrics, the joy of shared moments and the gentle warmth of being together.”</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_9BkGxe",
+        "text_T49EVy"
+      ],
+      "custom_css": [
+        "h2 {font-size: 40px;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Christmas25-MollyPortrait-2.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_qkLjCm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4TWNUd": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon-Christmas25-1.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_C8RiUa": {
+          "type": "column",
+          "settings": {
+            "width": "half",
+            "image": "shopify://shop_images/MollyMahon-Christmas25-Presents-2.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4TWNUd",
+        "column_C8RiUa"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_zChAYY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VDdFGp": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "text_jcqb4U": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This season, Molly Mahon invites you to embrace a season of intimacy, luxury and colour.<br/>Our new collection celebrates the return of romance at home, weaving together jewel-toned silks, sumptuous ikats and the timeless beauty of Molly’s much-loved Dianthus floral print.<br/><br/>Think deep burgundy’s, richly coloured ikats edged in decadent trim, and heavy luxurious Dianthus print table linens.<br/><br/><a href=\"/collections/new-cushions-1\" title=\"New Cushions\">Shop Now</a></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_VDdFGp",
+        "text_jcqb4U"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Christmas25-LuxuryRoom-1.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_four_text_two",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_banner_F9fEk6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_h6Qr7w": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_h6Qr7w"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Christmas25-Banner-3to1-2.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/Square-Mollymahon-Fordmanor-AW2025-Tablescape-Wallpaper-Tablecloth-Napkin-Dianthus-Midnight-Iron-Fabric-Stars-Blue-7.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_UrdF9N": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p>Layered or standalone, these festive designs invite you to slow down, savour and surround yourself with opulent beauty. Whether hosting an intimate dinner, sharing mulled wine with carols, or unwrapping gifts on a quiet winter morning, Molly Mahon’s Winter Collection brings lasting luxury to every cherished moment.<br/><br/>Tables are the heart of the home. They are where we gather, laugh, eat and connect. With <em>Dianthus</em>, I wanted to create something truly celebratory, pieces that encourage people to light candles, linger longer, and make every meal feel like a moment worth savouring.”<br/><br/><a href=\"/collections/kitchen\" title=\"Kitchen & Dining\">Shop Table Linen</a></p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "multicolumn_4mVcCk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VYeXbx": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Square-Mollymahon-Fordmanor-AW2025-Wallpaper-Dianthus-Indigo-Iron-Chair-Fabric-Bagru-Fabric-Stars-Flirty-Lampshade.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://collections/new-dianthus-wallpaper"
+          }
+        },
+        "column_UPjVKj": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Square-Mollymahon-Fordmanor-AW2025-Tablescape-Tablecloth-Napkins-Dianthus-Midnight-Iron-Landscape-04_lowres_b8be2e0f-d1ea-46af-a359-c1ce61721b57.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://collections/kitchen"
+          }
+        },
+        "column_knXjp9": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Square-Mollymahon-Fordmanor-AW2025-Wallpaper-Tablecloth-Dianthus-Indigo-Iron-Landscape-01_lowres_69b7692e-0ca1-485b-aa6a-56b4fbd8c81b.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/tablecloth-dianthus-in-indigo-iron"
+          }
+        }
+      },
+      "block_order": [
+        "column_VYeXbx",
+        "column_UPjVKj",
+        "column_knXjp9"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_6ibfEa": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_dhd9Lr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This season, Molly pairs her iconic block prints with traditional silk ikats, creating a rich tapestry of textures.<br/><br/>Each piece is crafted to bring richness and warmth into every corner of your home.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_dhd9Lr"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Christmas25-LuxuryRoom-2.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_WEPydn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_arrLER": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Square-Mollymahon-Lavender-Eye-Cushion-Ikat-Bagru-Multi-Landscape_lowres.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://collections/molly-mahons-christmas-edit"
+          }
+        },
+        "column_dtefKy": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Mollymahon-Stocking-Dianthus-Craft-Book-Blocks-Print-Square-Web-Background__lowres.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/dianthus-craft-filled-stocking"
+          }
+        },
+        "column_aHyTDN": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Square-Mollymahon-Fordmanor-AW2025-Sofa-Fabric-Ashdown-Wallpaper-Cushions-Dianthus-Stars-Bagru-Ikat-Luna-Landscape-2.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://collections/new-cushions-1"
+          }
+        },
+        "column_VmewHP": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "width": "one_third",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_dq9gpH": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon_Orlando_TukTuk_Blue_Bramble_Luna_Pink_Wallpaper_Bindi_Blue_2_1200x1200_4fff8571-5625-4684-afe0-a6a9f399b8ae.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_nfbFVE": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "width": "one_third",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_arrLER",
+        "column_dtefKy",
+        "column_aHyTDN",
+        "column_VmewHP",
+        "column_dq9gpH",
+        "column_nfbFVE"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "featured_collection_qw4BqR": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Shop Molly's Chrismas Edit",
+        "collection": "molly-mahons-christmas-edit",
+        "button_color": "seasonal",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_secondary_image": false
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "share"
+      ],
+      "settings": {}
+    },
+    "165780769577c12393": {
+      "type": "simple-button",
+      "settings": {
+        "label": "Back to the Journal",
+        "link": "shopify://blogs/journal",
+        "color_scheme": "dark"
+      }
+    }
+  },
+  "order": [
+    "image_banner_TkWphB",
+    "single_title_and_text_BXMHrK",
+    "image_with_text_PhLYKy",
+    "multicolumn_qkLjCm",
+    "image_with_text_zChAYY",
+    "image_banner_F9fEk6",
+    "single_title_and_text_UrdF9N",
+    "multicolumn_4mVcCk",
+    "image_with_text_6ibfEa",
+    "multicolumn_WEPydn",
+    "featured_collection_qw4BqR",
+    "main",
+    "165780769577c12393"
+  ]
+}
