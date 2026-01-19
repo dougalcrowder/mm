@@ -195,7 +195,7 @@
         "image": "shopify://shop_images/Sale-1-1.21.jpg",
         "aspect_ratio": "none",
         "width": true,
-        "column_layout": "img_three_text_three",
+        "column_layout": "img_two_text_four",
         "gap": "large",
         "text_width": "prose",
         "header_text_size": "header-s",
