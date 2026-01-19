@@ -169,6 +169,45 @@
         "margin_bot": "m"
       }
     },
+    "image_with_text_L7qXnQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_t8iPAf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Molly Mahon's \"THE SALE\""
+          }
+        },
+        "text_CcR6EJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our most popular design now also available as wallpaper. <br/><br/>Meet the new Dianthus in the two colour-ways:<br/>Rust/Rose and Midnight/Ironp rinted in small batches using water-based, eco friendly inks<br/>that preserve vibrancy as well as nature.<br/><br/>Our Dianthus wallpaper captures the essence of flowers, Indian block-printing and our much-loved signature design. <br/><br/>Versatile and uplifting, Dianthus brings character to both large, open spaces and hallways, while also transforming cosy bedrooms and bathrooms with its timeless charm.<br/><br/>Discover more <a href=\"/blogs/look-books/the-romance-of-dianthus\" title=\"The Romance Of Dianthus\">HERE</a></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_t8iPAf",
+        "text_CcR6EJ"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Sale-1-1.21.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "sm",
+        "margin_bot": "sm"
+      }
+    },
     "multicolumn_pHNVx4": {
       "type": "multicolumn",
       "blocks": {
@@ -250,45 +289,6 @@
         "text_align": "center",
         "layout": "text_first",
         "margin_top": "none",
-        "margin_bot": "sm"
-      }
-    },
-    "image_with_text_L7qXnQ": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_t8iPAf": {
-          "type": "heading",
-          "settings": {
-            "heading": "NEW Dianthus Wallpaper"
-          }
-        },
-        "text_CcR6EJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our most popular design now also available as wallpaper. <br/><br/>Meet the new Dianthus in the two colour-ways:<br/>Rust/Rose and Midnight/Ironp rinted in small batches using water-based, eco friendly inks<br/>that preserve vibrancy as well as nature.<br/><br/>Our Dianthus wallpaper captures the essence of flowers, Indian block-printing and our much-loved signature design. <br/><br/>Versatile and uplifting, Dianthus brings character to both large, open spaces and hallways, while also transforming cosy bedrooms and bathrooms with its timeless charm.<br/><br/>Discover more <a href=\"/blogs/look-books/the-romance-of-dianthus\" title=\"The Romance Of Dianthus\">HERE</a></p>",
-            "code": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_t8iPAf",
-        "text_CcR6EJ"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Wallpaper-Dianthus-Midnight-Iron-Chair-Fabric-Bagru-Fabric-Stars-Flirty-Lampshade-Cushion-Portrait-01.jpg",
-        "aspect_ratio": "none",
-        "width": true,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "sm",
         "margin_bot": "sm"
       }
     },
@@ -855,9 +855,9 @@
     "feature_slideshow_CqijaA",
     "single_title_and_text_VcQckG",
     "multicolumn_7TKhTL",
+    "image_with_text_L7qXnQ",
     "multicolumn_pHNVx4",
     "image_with_text_b4rYGw",
-    "image_with_text_L7qXnQ",
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "single_title_and_text_GAmte8",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
