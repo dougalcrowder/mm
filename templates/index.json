@@ -12,6 +12,18 @@
     "feature_slideshow_CqijaA": {
       "type": "feature-slideshow",
       "blocks": {
+        "image_pwWrTq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sale-Banner-17-8.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
         "image_izadbx": {
           "type": "image",
           "settings": {
@@ -63,58 +75,14 @@
             "button_label": "Button label",
             "button_color": "white"
           }
-        },
-        "image_8AQaXy": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-Banner-Square.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "Button label",
-            "button_color": "white"
-          }
-        },
-        "image_bB8tN7": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-82-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-82-Banner-Square.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "Button label",
-            "button_color": "white"
-          }
-        },
-        "image_4raY8X": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-And-Napkin-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-and-Napkin-Banner-Square.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "Button label",
-            "button_color": "white"
-          }
         }
       },
       "block_order": [
+        "image_pwWrTq",
         "image_izadbx",
         "image_6ACHer",
         "image_fNfFUq",
-        "image_WE6HBy",
-        "image_8AQaXy",
-        "image_bB8tN7",
-        "image_4raY8X"
+        "image_WE6HBy"
       ],
       "name": "Slideshow",
       "settings": {
