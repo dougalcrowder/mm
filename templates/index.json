@@ -12,18 +12,6 @@
     "feature_slideshow_CqijaA": {
       "type": "feature-slideshow",
       "blocks": {
-        "image_pwWrTq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sale-Banner-Alternative_c7ee67eb-bd38-458b-9883-cca32829124a.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "Button label",
-            "button_color": "white"
-          }
-        },
         "image_izadbx": {
           "type": "image",
           "settings": {
@@ -78,7 +66,6 @@
         }
       },
       "block_order": [
-        "image_pwWrTq",
         "image_izadbx",
         "image_6ACHer",
         "image_fNfFUq",
@@ -175,7 +162,7 @@
         "heading_t8iPAf": {
           "type": "heading",
           "settings": {
-            "heading": "Molly Mahon's \"THE SALE\""
+            "heading": "Curtains Are Up On \"THE SALE\""
           }
         },
         "text_CcR6EJ": {
