@@ -168,7 +168,7 @@
         "text_CcR6EJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Our most popular design now also available as wallpaper. <br/><br/>Meet the new Dianthus in the two colour-ways:<br/>Rust/Rose and Midnight/Ironp rinted in small batches using water-based, eco friendly inks<br/>that preserve vibrancy as well as nature.<br/><br/>Our Dianthus wallpaper captures the essence of flowers, Indian block-printing and our much-loved signature design. <br/><br/>Versatile and uplifting, Dianthus brings character to both large, open spaces and hallways, while also transforming cosy bedrooms and bathrooms with its timeless charm.<br/><br/>Discover more <a href=\"/blogs/look-books/the-romance-of-dianthus\" title=\"The Romance Of Dianthus\">HERE</a></p>",
+            "text": "<p>FABRIC   -   CUSHIONS   -   HOMEWARE</p>",
             "code": ""
           }
         }
@@ -179,7 +179,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Sale-1-1.21.jpg",
+        "image": "shopify://shop_images/MollyMahon_s-The-Sale.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
