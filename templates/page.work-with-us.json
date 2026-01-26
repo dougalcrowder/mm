@@ -16,7 +16,9 @@
     },
     "single_title_and_text_bR3cc9": {
       "type": "single-title_and_text",
-      "custom_css": [],
+      "custom_css": [
+        ".text {margin-bottom: 0px;}"
+      ],
       "name": "Title and Text",
       "settings": {
         "title": "We're Hiring",
@@ -31,16 +33,19 @@
     },
     "single_title_and_text_YfGVKy": {
       "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
       "name": "Title and Text",
       "settings": {
         "title": "Content Creator / Marketing & Content Executive (Interiors + Design)",
         "text": "<p>We’re looking for a talented, hands-on <strong>Content Creator</strong> to join our small (but mighty) team. Someone with a brilliant eye, a love of interiors and a genuine obsession for beautiful craft.</p><p>If you live and breathe <strong>colour, pattern, photography, storytelling</strong>, and you can turn a simple brief into something that feels elevated and inspiring… we’d love to meet you.</p>",
         "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
+        "vertical_alignment": "start",
+        "alignment": "left",
         "color_scheme": "dark_text",
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "none"
       }
     },
     "2_column_text_PAJmqG": {
@@ -65,7 +70,7 @@
           "settings": {
             "heading": "",
             "heading_size": "medium",
-            "text": "<p><strong>You Might Be Perfect If You…</strong></p><ul><li>Have a <strong>strong aesthetic</strong> and a sharp eye for what looks premium, modern and timeless</li><li>Are <strong>obsessed with interiors</strong> and have genuine appreciation for <strong>craft and block print</strong></li><li>Know “who’s who” in the interiors/design world (and love keeping up with it)</li><li>Are organised, proactive, and calm under pressure</li><li>Are confident working independently, but love being part of a collaborative team</li><li>Can be <strong>client-facing</strong> when needed, warm, polished and professional</li><li>Are happy to stretch beyond the job description sometimes… because we’re a small team and we support each other</li></ul><p><strong>The Important Bit</strong></p><p>We’re not looking for someone who just “posts content.”<br/><br/>We’re looking for someone who can help shape and elevate how the world sees our brand, with energy, care and creativity.</p><p>If you’re excited by the idea of being part of a fast-moving, design-led business where your work genuinely makes an impact, we’d love to hear from you.</p><p><strong>To Apply</strong></p><p>Please send us:</p><ul><li>A short intro about you</li><li>Your CV</li><li>Links to your portfolio / Instagram / email examples (anything you’ve created that shows your eye and style)</li></ul>",
+            "text": "<p><strong>You Might Be Perfect If You…</strong></p><ul><li>Have a <strong>strong aesthetic</strong> and a sharp eye for what looks premium, modern and timeless</li><li>Are <strong>obsessed with interiors</strong> and have genuine appreciation for <strong>craft and block print</strong></li><li>Know “who’s who” in the interiors/design world (and love keeping up with it)</li><li>Are organised, proactive, and calm under pressure</li><li>Are confident working independently, but love being part of a collaborative team</li><li>Can be <strong>client-facing</strong> when needed, warm, polished and professional</li><li>Are happy to stretch beyond the job description sometimes… because we’re a small team and we support each other</li></ul><p><strong>The Important Bit</strong></p><p>We’re not looking for someone who just “posts content.”<br/><br/>We’re looking for someone who can help shape and elevate how the world sees our brand, with energy, care and creativity.</p><p>If you’re excited by the idea of being part of a fast-moving, design-led business where your work genuinely makes an impact, we’d love to hear from you.</p>",
             "button_label": "",
             "button_link": "",
             "inset": false,
@@ -81,8 +86,25 @@
       ],
       "name": "Two Column Text",
       "settings": {
-        "margin_top": "m",
+        "margin_top": "none",
         "margin_bot": "m"
+      }
+    },
+    "single_title_and_text_Ebcf73": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>To Apply</strong></p><p>Please send us:</p><p>A short intro about you<br/>Your CV<br/>Links to your portfolio / Instagram / email examples (anything you’ve created that shows your eye and style)</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     }
   },
@@ -90,6 +112,7 @@
     "main",
     "single_title_and_text_bR3cc9",
     "single_title_and_text_YfGVKy",
-    "2_column_text_PAJmqG"
+    "2_column_text_PAJmqG",
+    "single_title_and_text_Ebcf73"
   ]
 }
