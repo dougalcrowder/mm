@@ -12,11 +12,37 @@
     "feature_slideshow_CqijaA": {
       "type": "feature-slideshow",
       "blocks": {
+        "image_tcYNfm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-1-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-1-Square.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_DEYjjH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-2-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-2-Square.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
         "image_izadbx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-Sample-Guide-Banner-Mughal-Leaf.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-Sample-Guide-Banner-Square-Mughal-Leaf.jpg",
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-3-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-3-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -28,8 +54,8 @@
         "image_6ACHer": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-Cushions-Trims-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-Cushions-Trims-Banner-Square.jpg",
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-4-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-4-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -41,8 +67,8 @@
         "image_fNfFUq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-Primrose_a1b0c50f-e8a2-49df-8f2e-0b51bf99877e.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-Primrose-Square.jpg",
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-5-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-5-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -54,8 +80,8 @@
         "image_WE6HBy": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Banner-1.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-SquareBanner-1.jpg",
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-6-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-6-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -66,6 +92,8 @@
         }
       },
       "block_order": [
+        "image_tcYNfm",
+        "image_DEYjjH",
         "image_izadbx",
         "image_6ACHer",
         "image_fNfFUq",
