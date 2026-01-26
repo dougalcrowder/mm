@@ -207,7 +207,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon_s-The-Sale.jpg",
+        "image": "shopify://shop_images/Molly_Mahon_s_The_Sale.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
