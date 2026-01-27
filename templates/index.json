@@ -15,8 +15,8 @@
         "image_izadbx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-Sample-Guide-Banner-Mughal-Leaf.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-Sample-Guide-Banner-Square-Mughal-Leaf.jpg",
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-1-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-1-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -28,8 +28,8 @@
         "image_6ACHer": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-Cushions-Trims-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-Cushions-Trims-Banner-Square.jpg",
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-2-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-2-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -41,8 +41,8 @@
         "image_fNfFUq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-Primrose_a1b0c50f-e8a2-49df-8f2e-0b51bf99877e.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-Primrose-Square.jpg",
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-3-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-3-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -54,8 +54,8 @@
         "image_WE6HBy": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-Banner-1.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-Dianthus-Lookbook-AW-25-SquareBanner-1.jpg",
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-4-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-4-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -66,10 +66,9 @@
         },
         "image_8AQaXy": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-Banner-Square.jpg",
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-5-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-5-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -80,24 +79,9 @@
         },
         "image_bB8tN7": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-82-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-82-Banner-Square.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "Button label",
-            "button_color": "white"
-          }
-        },
-        "image_4raY8X": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-And-Napkin-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-Dianthus-Tablecloth-and-Napkin-Banner-Square.jpg",
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-6-Landscape.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-6-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -113,8 +97,7 @@
         "image_fNfFUq",
         "image_WE6HBy",
         "image_8AQaXy",
-        "image_bB8tN7",
-        "image_4raY8X"
+        "image_bB8tN7"
       ],
       "name": "Slideshow",
       "settings": {
