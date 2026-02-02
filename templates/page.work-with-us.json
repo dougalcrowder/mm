@@ -11,10 +11,111 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {}
+    },
+    "single_title_and_text_nnfRhW": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-bottom: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "We're Hiring",
+        "text": "",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "single_title_and_text_HRxgFn": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "Content Creator / Marketing & Content Executive (Interiors + Design)",
+        "text": "<p>We’re looking for a talented, hands-on <strong>Content Creator</strong> to join our small (but mighty) team. Someone with a brilliant eye, a love of interiors and a genuine obsession for beautiful craft.</p><p>If you live and breathe <strong>colour, pattern, photography, storytelling</strong>, and you can turn a simple brief into something that feels elevated and inspiring… we’d love to meet you.</p>",
+        "font_type": "body",
+        "vertical_alignment": "start",
+        "alignment": "left",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "2_column_text_dcK6L3": {
+      "type": "2-column-text",
+      "blocks": {
+        "text_Epn4fK": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p><strong>The Role</strong></p><p>You’ll work closely with our <strong>Marketing Manager</strong>, bringing our brand to life across email, social and printed materials, helping keep our content beautifully organised and always on point.</p><p>This is a varied role where no two days look the same. One moment you might be creating a stunning mailer, the next you’re capturing behind-the-scenes content on a shoot, pulling together assets for press, or helping plan an upcoming campaign.</p><p><strong>What You’ll Be Doing</strong></p><ul><li>Creating <strong>inspiring email campaigns / mailers</strong> with direction from our Marketing Manager</li><li>Managing and maintaining our <strong>photo library</strong> (we’ve got a lot of beautiful imagery and it needs love!)</li><li>Responding to <strong>press requests</strong> quickly and professionally with the right imagery and info</li><li>Supporting content creation for our <strong>Shopify website</strong> (you’ll need to know your way around Shopify confidently)</li><li>Making and editing <strong>Reels</strong> (and knowing what works visually + commercially)</li><li>Capturing content on shoots: <strong>video + stills</strong>, BTS, styling moments, product details</li><li>Helping create, organise and run <strong>photo shoots</strong> (planning, lists, props, structure, timing)</li><li>Producing marketing assets such as <strong>postcards, brochures, campaign graphics and digital collateral</strong></li><li>Being part of the wider brand world, keeping everything consistent, elevated and beautifully presented</li></ul>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "text_QzLTr6": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<p><strong>You Might Be Perfect If You…</strong></p><ul><li>Have a <strong>strong aesthetic</strong> and a sharp eye for what looks premium, modern and timeless</li><li>Are <strong>obsessed with interiors</strong> and have genuine appreciation for <strong>craft and block print</strong></li><li>Know “who’s who” in the interiors/design world (and love keeping up with it)</li><li>Are organised, proactive, and calm under pressure</li><li>Are confident working independently, but love being part of a collaborative team</li><li>Can be <strong>client-facing</strong> when needed, warm, polished and professional</li><li>Are happy to stretch beyond the job description sometimes… because we’re a small team and we support each other</li></ul><p><strong>The Important Bit</strong></p><p>We’re not looking for someone who just “posts content.”<br/><br/>We’re looking for someone who can help shape and elevate how the world sees our brand, with energy, care and creativity.</p><p>If you’re excited by the idea of being part of a fast-moving, design-led business where your work genuinely makes an impact, we’d love to hear from you.</p>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "text_Epn4fK",
+        "text_QzLTr6"
+      ],
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Two Column Text",
+      "settings": {
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_Jyqgkh": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>To Apply</strong></p><p>Please send us:</p><p>A short intro about you<br/>Your CV<br/>Links to your portfolio / Instagram / email examples (anything you’ve created that shows your eye and style)</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "single_title_and_text_nnfRhW",
+    "single_title_and_text_HRxgFn",
+    "2_column_text_dcK6L3",
+    "single_title_and_text_Jyqgkh"
   ]
 }
