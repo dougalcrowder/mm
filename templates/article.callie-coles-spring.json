@@ -16,6 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -28,6 +29,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-24-Banner.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-24-Banner-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
