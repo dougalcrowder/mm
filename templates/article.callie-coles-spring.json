@@ -9,6 +9,61 @@
  */
 {
   "sections": {
+    "feature_slideshow_7iHpTc": {
+      "type": "feature-slideshow",
+      "blocks": {
+        "image_mNdg8n": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_jPH4w9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-24-Banner.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_36ezr9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-82-Banner_dac4a827-6c7d-4b7e-b526-05099e260948.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        }
+      },
+      "block_order": [
+        "image_mNdg8n",
+        "image_jPH4w9",
+        "image_36ezr9"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "background": "",
+        "styles": true,
+        "autoplay": false,
+        "interval": 4500,
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
     "main": {
       "type": "main-article",
       "blocks": {
@@ -52,40 +107,11 @@
         "link": "shopify://blogs/journal",
         "color_scheme": "dark"
       }
-    },
-    "feature_slideshow_7iHpTc": {
-      "type": "feature-slideshow",
-      "blocks": {
-        "image_mNdg8n": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "Button label",
-            "button_color": "white"
-          }
-        }
-      },
-      "block_order": [
-        "image_mNdg8n"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "background": "",
-        "styles": true,
-        "autoplay": false,
-        "interval": 4500,
-        "margin_top": "m",
-        "margin_bot": "m"
-      }
     }
   },
   "order": [
+    "feature_slideshow_7iHpTc",
     "main",
-    "165780769577c12393",
-    "feature_slideshow_7iHpTc"
+    "165780769577c12393"
   ]
 }
