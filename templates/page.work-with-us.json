@@ -14,7 +14,7 @@
       "disabled": true,
       "settings": {}
     },
-    "single_title_and_text_bR3cc9": {
+    "single_title_and_text_nnfRhW": {
       "type": "single-title_and_text",
       "custom_css": [
         ".text {margin-bottom: 0px;}"
@@ -31,7 +31,7 @@
         "margin_bot": "m"
       }
     },
-    "single_title_and_text_YfGVKy": {
+    "single_title_and_text_HRxgFn": {
       "type": "single-title_and_text",
       "custom_css": [
         ".text {margin-block: 0px;}"
@@ -48,10 +48,10 @@
         "margin_bot": "none"
       }
     },
-    "2_column_text_PAJmqG": {
+    "2_column_text_dcK6L3": {
       "type": "2-column-text",
       "blocks": {
-        "text_cfjFNe": {
+        "text_Epn4fK": {
           "type": "text",
           "settings": {
             "heading": "",
@@ -65,7 +65,7 @@
             "text_align": "left"
           }
         },
-        "text_ttPnth": {
+        "text_QzLTr6": {
           "type": "text",
           "settings": {
             "heading": "",
@@ -81,16 +81,19 @@
         }
       },
       "block_order": [
-        "text_cfjFNe",
-        "text_ttPnth"
+        "text_Epn4fK",
+        "text_QzLTr6"
+      ],
+      "custom_css": [
+        ".text {margin-block: 0px;}"
       ],
       "name": "Two Column Text",
       "settings": {
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "none"
       }
     },
-    "single_title_and_text_Ebcf73": {
+    "single_title_and_text_Jyqgkh": {
       "type": "single-title_and_text",
       "custom_css": [
         ".text {margin-block: 0px;}"
@@ -104,15 +107,15 @@
         "alignment": "center",
         "color_scheme": "dark_text",
         "margin_top": "none",
-        "margin_bot": "none"
+        "margin_bot": "m"
       }
     }
   },
   "order": [
     "main",
-    "single_title_and_text_bR3cc9",
-    "single_title_and_text_YfGVKy",
-    "2_column_text_PAJmqG",
-    "single_title_and_text_Ebcf73"
+    "single_title_and_text_nnfRhW",
+    "single_title_and_text_HRxgFn",
+    "2_column_text_dcK6L3",
+    "single_title_and_text_Jyqgkh"
   ]
 }
