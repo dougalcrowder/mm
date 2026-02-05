@@ -190,13 +190,13 @@
         "heading_t8iPAf": {
           "type": "heading",
           "settings": {
-            "heading": "Curtains are up..... join the show!"
+            "heading": "Spring at Callie Coles featuring MM"
           }
         },
         "text_CcR6EJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Up to 70%</strong> off on selected items from fabric to cushions to homeware for all occasions.<br/>As long as stock lasts!<br/>Don't miss your chance to grab your favourites before they're gone!<br/><br/><a href=\"https://mollymahon.com/collections/the-sale\" title=\"Molly Mahon's &quot;THE SALE&quot;\"><strong>SHOP ALL</strong></a><br/><a href=\"https://mollymahon.com/collections/fabric-sale\" title=\"https://mollymahon.com/collections/fabric-sale\"><strong>FABRIC</strong></a>   -   <a href=\"https://mollymahon.com/collections/cushions-sale\" title=\"Molly Mahon's Cushion Sale\"><strong>CUSHIONS</strong></a>   -   <a href=\"https://mollymahon.com/collections/homeware-sale\" title=\"https://mollymahon.com/collections/homeware-sale\"><strong>HOMEWARE</strong></a></p>",
+            "text": "<p>Lorem Ipsum Need some text here.<br/><br/>Peter Piper picked a pack of pickled peppers</p>",
             "code": ""
           }
         }
@@ -207,7 +207,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_s_The_Sale.jpg",
+        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-06-Web.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
