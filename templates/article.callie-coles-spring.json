@@ -42,19 +42,8 @@
         "content",
         "share"
       ],
-      "settings": {}
-    },
-    "164975103076740208": {
-      "type": "featured-collection",
       "disabled": true,
-      "settings": {
-        "title": "Shop Quilts",
-        "collection": "bedding-1",
-        "button_color": "seasonal",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "show_secondary_image": false
-      }
+      "settings": {}
     },
     "165780769577c12393": {
       "type": "simple-button",
@@ -63,11 +52,40 @@
         "link": "shopify://blogs/journal",
         "color_scheme": "dark"
       }
+    },
+    "feature_slideshow_7iHpTc": {
+      "type": "feature-slideshow",
+      "blocks": {
+        "image_mNdg8n": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        }
+      },
+      "block_order": [
+        "image_mNdg8n"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "background": "",
+        "styles": true,
+        "autoplay": false,
+        "interval": 4500,
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
     "main",
-    "164975103076740208",
-    "165780769577c12393"
+    "165780769577c12393",
+    "feature_slideshow_7iHpTc"
   ]
 }
