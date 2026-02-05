@@ -146,15 +146,131 @@
         "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-83-Web.jpg",
         "aspect_ratio": "none",
         "width": true,
-        "column_layout": "img_three_text_three",
+        "column_layout": "img_two_text_four",
         "gap": "large",
-        "text_width": "prose",
+        "text_width": "prose_large",
         "header_text_size": "header-s",
         "text_size": "text-s",
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
+        "margin_top": "s",
+        "margin_bot": "m"
+      }
+    },
+    "single_title_and_text_CcczAg": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_AwtNFg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iJmJpY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lounging in Style"
+          }
+        },
+        "text_qGWCe4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_iJmJpY",
+        "text_qGWCe4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-17-Web.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose_large",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_DiVf4H": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_N6JFdm": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-06-Web_92ec1f8a-458c-45e8-9caf-c01a38212351.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_twET3Q": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-19-Web.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_fj4Hkq": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-18-Web.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_N6JFdm",
+        "column_twET3Q",
+        "column_fj4Hkq"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "m",
+        "gap": "medium",
+        "border": false,
         "margin_top": "none",
         "margin_bot": "m"
       }
@@ -173,6 +289,9 @@
     "feature_slideshow_7iHpTc",
     "single_title_and_text_zUAjbG",
     "image_with_text_axpBFx",
+    "single_title_and_text_CcczAg",
+    "image_with_text_AwtNFg",
+    "multicolumn_DiVf4H",
     "165780769577c12393"
   ]
 }
