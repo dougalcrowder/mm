@@ -48,10 +48,10 @@
         "16354416148d3a6fb7-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/MM_Collections_Masthead_Images_-_MM_Community.jpg",
+        "image": "shopify://shop_images/AlunCallenderPhoto_MollyMahon-Press.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MM_Collections_Mobile_Masthead_Images_-_MM_Community.jpg",
-        "respect_image": false,
+        "mobile_image": "shopify://shop_images/AlunCallenderPhoto_MollyMahon-Press-Square.jpg",
+        "respect_image": true,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
