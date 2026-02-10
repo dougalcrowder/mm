@@ -110,8 +110,8 @@
       ],
       "name": "Title and Text",
       "settings": {
-        "title": "Spring at Callie Coles with Molly Mahon",
-        "text": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
+        "title": "Springtime with Callie Coles - an Eclectic Country Home",
+        "text": "<p>Spring at Callie Coles’ home arrives with muddy boots by the door, horses in the fields, chickens pottering about the garden and dogs stretched out wherever the sun falls. This is a house that lives and breathes - a place where Molly Mahon’s bold prints, joyful colours and hand blocked textiles sit effortlessly within an eclectic, much loved country setting.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -126,13 +126,13 @@
         "heading_7xGCbY": {
           "type": "heading",
           "settings": {
-            "heading": "Stepping into the home"
+            "heading": "Stepping Inside the Home"
           }
         },
         "text_zdJW4K": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Stepping into Callie’s home feels like being let in on a beautifully kept secret. Every room tells a story,  collected rather than curated, where colour is embraced, patterns layer happily and nothing feels too precious to be lived with.</p><p>Molly’s vibrant cushions, quilts and fabrics bring a joyful rhythm to the house, sitting alongside antiques, artworks and everyday family life. It's a warm, welcoming and unmistakably British country home - with an eclectic, bohemian twist</p>",
             "code": ""
           }
         }
@@ -231,7 +231,7 @@
         "text_r4bhaE": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>The kitchen is where everything begins and ends. A space for muddy wellies, early morning cups of tea, family meals and conversations that stretch long into the evening.</p><p>Here, Molly’s bold prints add warmth and character to the kitchen table, softening with colour and pattern. It’s a kitchen designed to be used -  friendly, relaxed and full of life – where dogs and ponies wander in and out and the door is always open.</p>",
             "code": ""
           }
         }
@@ -256,23 +256,6 @@
         "layout": "text_first",
         "margin_top": "none",
         "margin_bot": "m"
-      }
-    },
-    "single_title_and_text_CcczAg": {
-      "type": "single-title_and_text",
-      "custom_css": [
-        ".text {margin-block: 0px;}"
-      ],
-      "name": "Title and Text",
-      "settings": {
-        "title": "",
-        "text": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "none"
       }
     },
     "image_banner_UagQUG": {
@@ -330,7 +313,7 @@
         "show_text_box": false,
         "color_scheme": "white_text",
         "margin_top": "none",
-        "margin_bot": "sm",
+        "margin_bot": "m",
         "bg_color_scheme": "none",
         "hover_text": false
       }
@@ -347,7 +330,7 @@
         "text_qGWCe4": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>The sitting room is a joyful mix of comfort and colour. Marigold curtains frame the windows, glowing softly in the changing light, while generous window seats invite you to pause, read or simply watch the world outside with linen cushions and soft Moroccan rugs.</p><p>Layered patterns and antiques create a relaxed, sink-in feel -  the kind of space where children sprawl, dogs curl up and everyone feels at home. Molly Mahon’s prints bring energy and personality, balancing beautifully with Callie’s eclectic eye and love of relaxed country living.</p>",
             "code": ""
           }
         }
@@ -434,36 +417,19 @@
         "margin_bot": "m"
       }
     },
-    "single_title_and_text_x389UA": {
-      "type": "single-title_and_text",
-      "custom_css": [
-        ".text {margin-block: 0px;}"
-      ],
-      "name": "Title and Text",
-      "settings": {
-        "title": "",
-        "text": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "none"
-      }
-    },
     "image_with_text_U6hMVX": {
       "type": "image-with-text",
       "blocks": {
         "heading_X7CwrJ": {
           "type": "heading",
           "settings": {
-            "heading": "Rooms with personality"
+            "heading": "Joyful Spaces for Little (and not-so-little) People"
           }
         },
         "text_Ngbrtq": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Upstairs, the bedrooms are full of imagination and individuality. Children’s rooms burst with blue Marwari horse print curtains, paired with chequer cushions, Berry and Posy quilts - all adding colour and charm and designed to feel happy and utterly personal.</p><p>Callie’s pink Marwari horse curtains are a standout in her dressing room   - playful, bold and full of character and paired with Molly’s bright textiles to create spaces that feel cheerful, comforting and full of life. These are rooms made for dreaming, growing and being completely yourself.</p><p>Molly’s Horse Chestnut print curtains, in the guest bedroom, with a bespoke made Dianthus and Bagru Eiderdown, create a magical restful room.</p>",
             "code": ""
           }
         }
@@ -550,23 +516,6 @@
         "margin_bot": "m"
       }
     },
-    "single_title_and_text_ypdwKp": {
-      "type": "single-title_and_text",
-      "custom_css": [
-        ".text {margin-block: 0px;}"
-      ],
-      "name": "Title and Text",
-      "settings": {
-        "title": "",
-        "text": "<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content</p>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "none"
-      }
-    },
     "image_banner_q4hEhN": {
       "type": "image-banner",
       "blocks": {
@@ -643,14 +592,11 @@
     "image_with_text_axpBFx",
     "multicolumn_DiVf4H",
     "image_with_text_RyBnnm",
-    "single_title_and_text_CcczAg",
     "image_banner_UagQUG",
     "image_with_text_AwtNFg",
     "multicolumn_3qExTX",
-    "single_title_and_text_x389UA",
     "image_with_text_U6hMVX",
     "multicolumn_i6NRzV",
-    "single_title_and_text_ypdwKp",
     "image_banner_q4hEhN",
     "165780769577c12393"
   ]
