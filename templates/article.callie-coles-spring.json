@@ -148,7 +148,7 @@
         "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
-        "text_width": "prose_large",
+        "text_width": "prose",
         "header_text_size": "header-s",
         "text_size": "text-s",
         "color_scheme": "dark_text",
