@@ -12,11 +12,11 @@
     "feature_slideshow_CqijaA": {
       "type": "feature-slideshow",
       "blocks": {
-        "image_tcYNfm": {
+        "image_izadbx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-79-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-79-Banner-Square.jpg",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-24-Banner.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-24-Banner-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -64,11 +64,11 @@
             "button_color": "white"
           }
         },
-        "image_izadbx": {
+        "image_tcYNfm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-24-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-24-Banner-Square.jpg",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-79-Banner.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-79-Banner-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -92,11 +92,11 @@
         }
       },
       "block_order": [
-        "image_tcYNfm",
+        "image_izadbx",
         "image_6ACHer",
         "image_DEYjjH",
         "image_fNfFUq",
-        "image_izadbx",
+        "image_tcYNfm",
         "image_WE6HBy"
       ],
       "name": "Slideshow",
