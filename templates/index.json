@@ -79,6 +79,7 @@
         },
         "image_WE6HBy": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/MollyMahon-Woodland-Banner-6-Landscape.jpg",
             "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-6-Square.jpg",
