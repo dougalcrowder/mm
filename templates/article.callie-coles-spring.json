@@ -578,6 +578,7 @@
     },
     "165780769577c12393": {
       "type": "simple-button",
+      "disabled": true,
       "settings": {
         "label": "Back to the Journal",
         "link": "shopify://blogs/journal",
