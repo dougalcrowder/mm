@@ -101,7 +101,7 @@
       "name": "Title and Text",
       "settings": {
         "title": "",
-        "text": "<p><strong>To Apply</strong></p><p>Please send us:</p><p>A short intro about you<br/>Your CV<br/></p><p>Thank You!</p>",
+        "text": "<p><strong>To Apply</strong></p><p>Please send us:</p><p>A short intro about you<br/>Your CV</p><p>to office@mollymahon.com<br/></p><p>Thank You!</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
