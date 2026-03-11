@@ -12,6 +12,18 @@
     "feature_slideshow_CqijaA": {
       "type": "feature-slideshow",
       "blocks": {
+        "image_LE6PQ4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieColes-horse-Banner.jpg",
+            "title": "Caption Here",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
         "image_izadbx": {
           "type": "image",
           "settings": {
@@ -25,37 +37,11 @@
             "button_color": "white"
           }
         },
-        "image_6ACHer": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-4-Landscape.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-4-Square.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "",
-            "button_color": "white"
-          }
-        },
         "image_DEYjjH": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner_1061f655-e9a0-4d4a-944c-96abdd2e8a8a.jpg",
             "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner-Square_32705b47-db1d-4fd8-849d-22b76d183a0e.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "Button label",
-            "button_color": "white"
-          }
-        },
-        "image_fNfFUq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-5-Landscape.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-5-Square.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -76,29 +62,13 @@
             "button_label": "Button label",
             "button_color": "white"
           }
-        },
-        "image_WE6HBy": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-6-Landscape.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-Woodland-Banner-6-Square.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "Button label",
-            "button_color": "white"
-          }
         }
       },
       "block_order": [
+        "image_LE6PQ4",
         "image_izadbx",
-        "image_6ACHer",
         "image_DEYjjH",
-        "image_fNfFUq",
-        "image_tcYNfm",
-        "image_WE6HBy"
+        "image_tcYNfm"
       ],
       "name": "Slideshow",
       "settings": {
