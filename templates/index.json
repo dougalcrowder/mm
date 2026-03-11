@@ -12,6 +12,18 @@
     "feature_slideshow_CqijaA": {
       "type": "feature-slideshow",
       "blocks": {
+        "image_YfgKgi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieColes-Caravan-interiors-Banner.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
         "image_LE6PQ4": {
           "type": "image",
           "settings": {
@@ -65,6 +77,7 @@
         }
       },
       "block_order": [
+        "image_YfgKgi",
         "image_LE6PQ4",
         "image_izadbx",
         "image_DEYjjH",
