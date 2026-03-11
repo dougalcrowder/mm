@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/MollyMahon-CallieColes-horse-Banner.jpg",
-            "title": "Caption Here",
+            "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
             "link": "",
