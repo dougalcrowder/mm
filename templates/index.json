@@ -12,6 +12,29 @@
     "feature_slideshow_CqijaA": {
       "type": "feature-slideshow",
       "blocks": {
+        "image_YaHDi4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieColes-Bed-interiors-Banner.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_aHJwP4": {
+          "type": "image",
+          "settings": {
+            "title": "Caption Here",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
         "image_YfgKgi": {
           "type": "image",
           "settings": {
@@ -77,6 +100,8 @@
         }
       },
       "block_order": [
+        "image_YaHDi4",
+        "image_aHJwP4",
         "image_YfgKgi",
         "image_LE6PQ4",
         "image_izadbx",
