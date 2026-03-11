@@ -12,6 +12,18 @@
     "feature_slideshow_CqijaA": {
       "type": "feature-slideshow",
       "blocks": {
+        "image_RyAeWQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieColes-Marwari-Washbag-Banner.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
         "image_YaHDi4": {
           "type": "image",
           "settings": {
@@ -100,6 +112,7 @@
         }
       },
       "block_order": [
+        "image_RyAeWQ",
         "image_YaHDi4",
         "image_aHJwP4",
         "image_YfgKgi",
