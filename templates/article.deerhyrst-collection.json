@@ -377,6 +377,7 @@
         "1657786524a4b5ca65-0",
         "1657786524a4b5ca65-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/WALLPAPER_BIRDS_BEES_BABYROOM_1300X1300_dc823947-7e64-454f-a18d-d2b35486d0b9.jpg",
         "aspect_ratio": "portrait",
