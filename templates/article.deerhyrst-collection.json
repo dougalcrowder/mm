@@ -537,7 +537,7 @@
         "text_width": "prose",
         "header_text_size": "header-s",
         "text_size": "text-s",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
