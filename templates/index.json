@@ -12,22 +12,10 @@
     "feature_slideshow_CqijaA": {
       "type": "feature-slideshow",
       "blocks": {
-        "image_YfgKgi": {
+        "image_pQFWpb": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/MollyMahon-CallieCole-Banner-Gypsy-Caravan.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "Button label",
-            "button_color": "white"
-          }
-        },
-        "image_YaHDi4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Banner-Kids-Bedspread.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
@@ -61,13 +49,51 @@
             "button_label": "Button label",
             "button_color": "white"
           }
+        },
+        "image_YaHDi4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Banner-Kids-Bedspread.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_PGWtkQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-Woodlands-Collection-Cushions-Banner.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_YfgKgi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-Woodlands-Cushions-Bonket-Cushions-Banner.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
         }
       },
       "block_order": [
-        "image_YfgKgi",
-        "image_YaHDi4",
+        "image_pQFWpb",
         "image_tcYNfm",
-        "image_DEYjjH"
+        "image_DEYjjH",
+        "image_YaHDi4",
+        "image_PGWtkQ",
+        "image_YfgKgi"
       ],
       "name": "Slideshow",
       "settings": {
