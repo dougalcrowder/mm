@@ -20,7 +20,7 @@
         "heading_3KMtXA": {
           "type": "heading",
           "settings": {
-            "heading": "Giveaway",
+            "heading": "",
             "heading_type": "header1"
           }
         },
@@ -31,23 +31,11 @@
             "go_serif": false,
             "constrain_text": false
           }
-        },
-        "buttons_VRHFk8": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_3KMtXA",
-        "text_Tzr4mL",
-        "buttons_VRHFk8"
+        "text_Tzr4mL"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
@@ -69,10 +57,33 @@
         "bg_color_scheme": "none",
         "hover_text": false
       }
+    },
+    "single_title_and_text_dfgYz4": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Gravetye Manor x Molly Mahon Giveaway",
+        "text": "<p>We are delighted to announce a collaboration between Gravetye Manor and Molly Mahon, resulting in a bespoke bedroom that celebrates teh traditional country home, craftsmanship, colour, and the natural beauty of the surrounding gardens and nearby Ashdown Forest.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "custom_liquid_tkQmPx": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"klaviyo-form-VcrZvX\"></div>"
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_WLBn8T"
+    "image_banner_WLBn8T",
+    "single_title_and_text_dfgYz4",
+    "custom_liquid_tkQmPx"
   ]
 }
