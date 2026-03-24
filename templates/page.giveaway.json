@@ -122,6 +122,22 @@
         "hover_text": false
       }
     },
+    "simple_quote_QgWaUH": {
+      "type": "simple_quote",
+      "name": "Simple Quote",
+      "settings": {
+        "quote": "<p>\"This project felt incredibly special to me. To bring my patterns into a space that celebrates nature and gardens in such a beautiful way felt like a natural fit.\"</p>",
+        "cite": "- Molly Mahon",
+        "bg": "green",
+        "heading_size": "small",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "white_text",
+        "bg_color_scheme": "none",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
     "image_with_text_YrEceJ": {
       "type": "image-with-text",
       "blocks": {
@@ -169,6 +185,7 @@
     "custom_liquid_JbFbwY",
     "image_with_text_XxgKNt",
     "image_banner_k3NaNb",
+    "simple_quote_QgWaUH",
     "image_with_text_YrEceJ"
   ]
 }
