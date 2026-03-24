@@ -42,7 +42,7 @@
       "name": "Title and Text",
       "settings": {
         "title": "Gravetye Manor x Molly Mahon Giveaway",
-        "text": "<p>To celebrate the launch of the exclusive, Molly Mahon interior designed Walnut Room at Gravetye Manor, we are giving one lucky winner, (plus guest) the chance to WIN! Simple enter your details below to be in the running.</p>",
+        "text": "<p>To celebrate the launch of the exclusive, Molly Mahon interior designed Walnut Room at Gravetye Manor, we are giving one lucky winner, (plus guest) the chance to WIN! </p><p>Simply enter your details below to be in the running.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -122,11 +122,27 @@
         "hover_text": false
       }
     },
+    "single_title_and_text_VhbxEy": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "The Walnut Room",
+        "text": "<p>Bringing together two much-loved Sussex names, the project marks Mahon’s first interior partnership of its kind with a Sussex hotel, coinciding with the tenth anniversary of the Molly Mahon brand.</p><p>At the centre of the room’s design is an exclusive pink and green colourway of Mahon’s Foxglove wallpaper from the Woodland collection, created specifically for the project. This is layered with designs from her original collection, including the graphic Luna pattern, achieving a balance between floral softness and bold geometry. Together, the patterns create a joyful, considered interior that reflects both the historic character of the manor and the richness of its gardens, with subtle references to Indian artisan craftsmanship.</p><p><em>\"This project felt incredibly special to me. To bring my patterns into a space that celebrates nature and gardens in such a beautiful way felt like a natural fit.\" </em>- Molly Mahon</p><p></p><p>The collaboration also ties into Gravetye Manor’s history as a former Victorian manor house and estate of horticulturalist William Robinson. Guests can enjoy the hotel’s Victorian elliptical walled garden and Michelin-starred restaurant, with produce grown on site, while experiencing the carefully layered interior designed by Mahon.</p><p>The Molly Mahon Walnut Room at Gravetye Manor represents a thoughtful fusion of pattern, colour, and heritage, creating a space that is at once luxurious, playful, and deeply connected to the Sussex landscape.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
     "simple_quote_QgWaUH": {
       "type": "simple_quote",
+      "disabled": true,
+      "custom_css": [],
       "name": "Simple Quote",
       "settings": {
-        "quote": "<p>\"This project felt incredibly special to me. To bring my patterns into a space that celebrates nature and gardens in such a beautiful way felt like a natural fit.\"</p>",
+        "quote": "",
         "cite": "- Molly Mahon",
         "bg": "green",
         "heading_size": "small",
@@ -138,15 +154,24 @@
         "margin_bot": "none"
       }
     },
+    "single_title_and_text_qe6BRa": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<p>The collaboration also ties into Gravetye Manor’s history as a former Victorian manor house and estate of horticulturalist William Robinson. Guests can enjoy the hotel’s Victorian elliptical walled garden and Michelin-starred restaurant, with produce grown on site, while experiencing the carefully layered interior designed by Mahon.</p><p>The Molly Mahon Walnut Room at Gravetye Manor represents a thoughtful fusion of pattern, colour, and heritage, creating a space that is at once luxurious, playful, and deeply connected to the Sussex landscape.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
     "image_with_text_YrEceJ": {
       "type": "image-with-text",
       "blocks": {
-        "heading_4cQqNC": {
-          "type": "heading",
-          "settings": {
-            "heading": ""
-          }
-        },
         "text_zdUzkc": {
           "type": "text",
           "settings": {
@@ -156,7 +181,6 @@
         }
       },
       "block_order": [
-        "heading_4cQqNC",
         "text_zdUzkc"
       ],
       "name": "t:sections.image-with-text.presets.name",
@@ -185,7 +209,9 @@
     "custom_liquid_JbFbwY",
     "image_with_text_XxgKNt",
     "image_banner_k3NaNb",
+    "single_title_and_text_VhbxEy",
     "simple_quote_QgWaUH",
+    "single_title_and_text_qe6BRa",
     "image_with_text_YrEceJ"
   ]
 }
