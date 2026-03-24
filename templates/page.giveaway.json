@@ -58,6 +58,20 @@
         "hover_text": false
       }
     },
+    "single_title_and_text_dfgYz4": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Gravetye Manor x Molly Mahon Giveaway",
+        "text": "<p>To celebrate the launch of the exclusive, Molly Mahon interior designed Walnut Room at Gravetye Manor, we are giving one lucky winner, (plus guest) the chance to WIN! Simple enter your details below to be in the running.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
     "custom_liquid_JbFbwY": {
       "type": "custom-liquid",
       "custom_css": [],
@@ -66,18 +80,43 @@
         "custom_liquid": "<div class=\"klaviyo-form-VcrZvX\"></div>"
       }
     },
-    "single_title_and_text_dfgYz4": {
-      "type": "single-title_and_text",
-      "name": "Title and Text",
+    "image_with_text_XxgKNt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cjtCrb": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Prize"
+          }
+        },
+        "text_3ryYpr": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>A one night stay in the Molly Mahon Walnut Room at Gravetye Manor.</li><li>A three course dinner for two at the hotel's Michelin starred restaurant, including wine.</li><li>A full English or continental breakfast.</li><li>A £500 Molly Mahon gift voucher to spend online.</li></ul><p></p><p>The giveaway closes midnight on Tuesday 31st March 2026. The winner will be notified by email.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_cjtCrb",
+        "text_3ryYpr"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "title": "Gravetye Manor x Molly Mahon Giveaway",
-        "text": "<p>We are delighted to announce a collaboration between Gravetye Manor and Molly Mahon, resulting in a bespoke bedroom that celebrates the traditional country home, craftsmanship and colour.</p>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
+        "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-3-web.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "small",
+        "text_width": "prose_medium",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
         "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "m"
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "image_first",
+        "margin_top": "sm",
+        "margin_bot": "sm"
       }
     }
   },
@@ -85,6 +124,7 @@
     "main",
     "image_banner_WLBn8T",
     "single_title_and_text_dfgYz4",
-    "custom_liquid_JbFbwY"
+    "custom_liquid_JbFbwY",
+    "image_with_text_XxgKNt"
   ]
 }
