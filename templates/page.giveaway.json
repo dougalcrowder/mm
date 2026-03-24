@@ -71,11 +71,19 @@
         "margin_top": "none",
         "margin_bot": "m"
       }
+    },
+    "custom_liquid_JbFbwY": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"klaviyo-form-VcrZvX\"></div>"
+      }
     }
   },
   "order": [
     "main",
     "image_banner_WLBn8T",
-    "single_title_and_text_dfgYz4"
+    "single_title_and_text_dfgYz4",
+    "custom_liquid_JbFbwY"
   ]
 }
