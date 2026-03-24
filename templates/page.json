@@ -72,6 +72,13 @@
         "margin_bot": "m"
       }
     },
+    "custom_liquid_PKqNWt": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": ""
+      }
+    },
     "1774274441ad4956e4": {
       "type": "apps",
       "blocks": {
@@ -94,6 +101,7 @@
     "main",
     "image_banner_WLBn8T",
     "single_title_and_text_dfgYz4",
+    "custom_liquid_PKqNWt",
     "1774274441ad4956e4"
   ]
 }
