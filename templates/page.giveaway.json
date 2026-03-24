@@ -71,7 +71,7 @@
         "text_3ryYpr": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>A one night stay in the Molly Mahon Walnut Room at Gravetye Manor.</li><li>A three course dinner for two at the hotel's Michelin starred restaurant, including wine.</li><li>A full English or continental breakfast.</li><li>A £500 Molly Mahon gift voucher to spend online.</li></ul><p></p><p>The giveaway closes midnight on Tuesday 31st March 2026. The winner will be notified by email.</p>",
+            "text": "<ul><li><h6>A one night stay in the Molly Mahon Walnut Room at Gravetye Manor.</h6></li><li><h6>A three course dinner for two at the hotel's Michelin starred restaurant, including wine.</h6></li><li><h6>A full English or continental breakfast.</h6></li><li><h6>A £500 Molly Mahon gift voucher to spend online.</h6></li></ul><p></p><p>The giveaway closes midnight on Tuesday 31st March 2026. The winner will be notified by email.</p>",
             "code": ""
           }
         }
@@ -83,10 +83,10 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-3-web.jpg",
-        "aspect_ratio": "square",
+        "aspect_ratio": "none",
         "width": false,
-        "column_layout": "img_two_text_four",
-        "gap": "medium",
+        "column_layout": "img_three_text_three",
+        "gap": "xxl",
         "text_width": "prose_medium",
         "header_text_size": "header-s",
         "text_size": "text-s",
@@ -100,22 +100,6 @@
     },
     "image_banner_k3NaNb": {
       "type": "image-banner",
-      "blocks": {
-        "buttons_C83fqe": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "buttons_C83fqe"
-      ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Banner-2.jpg",
@@ -136,6 +120,45 @@
         "bg_color_scheme": "none",
         "hover_text": false
       }
+    },
+    "image_with_text_YrEceJ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4cQqNC": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "text_zdUzkc": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Gravetye Manor X Molly Mahon Instagram Competition Terms & Conditions</h4><ul><li>The competition closes at midnight (GMT) on Tuesday 31 March 2026. </li><li>One winner will be selected at random and contacted via email after the closing date. </li><li>The prize includes a one-night stay for two in the Molly Mahon Walnut Room at Gravetye Manor, dinner, breakfast and a £500 Molly Mahon gift voucher. </li><li>The Gravetye Manor stay must be redeemed by 31 March 2027 and is subject to availability. </li><li>A minimum two-night stay applies on weekends; the winner will be required to pay for the additional night. </li><li>The £500 Molly Mahon gift voucher is valid for 12 months from the date of issue and can be used online only. It cannot be redeemed against workshops. </li><li>The prize is non-transferable, non-refundable, and cannot be exchanged for cash or any alternative. </li><li>Entrants must be aged 18 or over. </li><li>Travel to and from Gravetye Manor is not included. </li><li>This competition is not endorsed, sponsored, or administered by Instagram. </li></ul>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_4cQqNC",
+        "text_zdUzkc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-6-w.jpg",
+        "aspect_ratio": "none",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "left",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
     }
   },
   "order": [
@@ -144,6 +167,7 @@
     "single_title_and_text_dfgYz4",
     "custom_liquid_JbFbwY",
     "image_with_text_XxgKNt",
-    "image_banner_k3NaNb"
+    "image_banner_k3NaNb",
+    "image_with_text_YrEceJ"
   ]
 }
