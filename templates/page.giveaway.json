@@ -104,7 +104,8 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Banner-2.jpg",
         "letterbox": false,
-        "respect_image": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-7-w.jpg",
+        "respect_image": true,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
