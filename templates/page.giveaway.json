@@ -16,27 +16,6 @@
     },
     "image_banner_WLBn8T": {
       "type": "image-banner",
-      "blocks": {
-        "heading_3KMtXA": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_type": "header1"
-          }
-        },
-        "text_Tzr4mL": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_3KMtXA",
-        "text_Tzr4mL"
-      ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Gravcetye-Banner-Walnut-Room.jpg",
@@ -104,10 +83,10 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-3-web.jpg",
-        "aspect_ratio": "none",
+        "aspect_ratio": "square",
         "width": false,
         "column_layout": "img_two_text_four",
-        "gap": "small",
+        "gap": "medium",
         "text_width": "prose_medium",
         "header_text_size": "header-s",
         "text_size": "text-s",
@@ -118,6 +97,45 @@
         "margin_top": "sm",
         "margin_bot": "sm"
       }
+    },
+    "image_banner_k3NaNb": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_C83fqe": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_C83fqe"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Banner-2.jpg",
+        "letterbox": false,
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
     }
   },
   "order": [
@@ -125,6 +143,7 @@
     "image_banner_WLBn8T",
     "single_title_and_text_dfgYz4",
     "custom_liquid_JbFbwY",
-    "image_with_text_XxgKNt"
+    "image_with_text_XxgKNt",
+    "image_banner_k3NaNb"
   ]
 }
