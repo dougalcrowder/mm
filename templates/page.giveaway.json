@@ -58,6 +58,14 @@
         "hover_text": false
       }
     },
+    "custom_liquid_JbFbwY": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"klaviyo-form-VcrZvX\"></div>"
+      }
+    },
     "single_title_and_text_dfgYz4": {
       "type": "single-title_and_text",
       "name": "Title and Text",
@@ -70,14 +78,6 @@
         "color_scheme": "dark_text",
         "margin_top": "none",
         "margin_bot": "m"
-      }
-    },
-    "custom_liquid_JbFbwY": {
-      "type": "custom-liquid",
-      "custom_css": [],
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<div class=\"klaviyo-form-VcrZvX\"></div>"
       }
     }
   },
