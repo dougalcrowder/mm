@@ -23,19 +23,9 @@
         "enable_sorting": true,
         "show_prices": true
       }
-    },
-    "divider_UyxcY3": {
-      "type": "divider",
-      "name": "Divider",
-      "settings": {
-        "margin_top": "m",
-        "margin_bot": "m",
-        "hr": true
-      }
     }
   },
   "order": [
-    "divider_UyxcY3",
     "banner",
     "product-grid"
   ]
