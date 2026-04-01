@@ -39,12 +39,12 @@
         "image_YfgKgi": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-Woodlands-Cushions-Bonket-Cushions-Banner.jpg",
+            "image": "shopify://shop_images/Banner-MollyMahon-Botanica-Rose-Tulip-Wallpaper-1.jpg",
             "title": "",
             "color_scheme": "dark_text",
             "text_align": "center",
-            "link": "",
-            "button_label": "Button label",
+            "link": "shopify://products/botanica-wallpaper-rose",
+            "button_label": "",
             "button_color": "white"
           }
         }
