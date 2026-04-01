@@ -14,6 +14,20 @@
       "disabled": true,
       "settings": {}
     },
+    "single_title_and_text_dfgYz4": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Gravetye Manor x Molly Mahon Giveaway",
+        "text": "<p>To celebrate the launch of the exclusive, Molly Mahon interior designed Walnut Room at Gravetye Manor, we are giving one lucky winner, (plus guest) the chance to WIN! </p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
     "image_banner_WLBn8T": {
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
@@ -35,20 +49,6 @@
         "margin_bot": "none",
         "bg_color_scheme": "none",
         "hover_text": false
-      }
-    },
-    "single_title_and_text_dfgYz4": {
-      "type": "single-title_and_text",
-      "name": "Title and Text",
-      "settings": {
-        "title": "Gravetye Manor x Molly Mahon Giveaway",
-        "text": "<p>To celebrate the launch of the exclusive, Molly Mahon interior designed Walnut Room at Gravetye Manor, we are giving one lucky winner, (plus guest) the chance to WIN! </p>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "none"
       }
     },
     "divider_4eW4Fn": {
@@ -229,9 +229,9 @@
   "order": [
     "main",
     "image_banner_WLBn8T",
-    "single_title_and_text_dfgYz4",
-    "divider_4eW4Fn",
     "single_title_and_text_fXfQDD",
+    "divider_4eW4Fn",
+    "single_title_and_text_dfgYz4",
     "custom_liquid_JbFbwY",
     "image_with_text_XxgKNt",
     "image_banner_k3NaNb",
