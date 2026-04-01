@@ -51,8 +51,32 @@
         "margin_bot": "none"
       }
     },
+    "single_title_and_text_fXfQDD": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Thank you!",
+        "text": "<p>Our giveaway is now closed - thank you to those who entered. </p><p>Sign up to our Newsletter below to be the first to hear about our future giveaways, or follow us on <a href=\"https://www.instagram.com/mollymahonblockprinting\" target=\"_blank\" title=\"https://www.instagram.com/mollymahonblockprinting\"><strong>Instagram</strong></a><strong>.</strong></p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "simple_button_YJD3fm": {
+      "type": "simple-button",
+      "name": "Button",
+      "settings": {
+        "label": "Sign Up",
+        "link": "shopify://pages/newsletter-signup",
+        "color_scheme": "blue"
+      }
+    },
     "custom_liquid_JbFbwY": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
@@ -206,6 +230,8 @@
     "main",
     "image_banner_WLBn8T",
     "single_title_and_text_dfgYz4",
+    "single_title_and_text_fXfQDD",
+    "simple_button_YJD3fm",
     "custom_liquid_JbFbwY",
     "image_with_text_XxgKNt",
     "image_banner_k3NaNb",
