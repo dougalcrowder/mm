@@ -12,6 +12,18 @@
     "feature_slideshow_CqijaA": {
       "type": "feature-slideshow",
       "blocks": {
+        "image_YfgKgi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner-MollyMahon-Botanica-Rose-Tulip-Wallpaper-1.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "",
+            "button_color": "white"
+          }
+        },
         "image_PGWtkQ": {
           "type": "image",
           "settings": {
@@ -35,24 +47,12 @@
             "button_label": "",
             "button_color": "white"
           }
-        },
-        "image_YfgKgi": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Banner-MollyMahon-Botanica-Rose-Tulip-Wallpaper-1.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
-            "button_label": "",
-            "button_color": "white"
-          }
         }
       },
       "block_order": [
+        "image_YfgKgi",
         "image_PGWtkQ",
-        "image_pQFWpb",
-        "image_YfgKgi"
+        "image_pQFWpb"
       ],
       "name": "Slideshow",
       "settings": {
