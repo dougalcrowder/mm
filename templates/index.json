@@ -12,6 +12,18 @@
     "feature_slideshow_CqijaA": {
       "type": "feature-slideshow",
       "blocks": {
+        "image_PGWtkQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner-MollyMahon-Botanica-GoldOlive-Tulip-Wallpaper-2.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "shopify://products/botanica-wallpaper-gold-olive",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
         "image_pQFWpb": {
           "type": "image",
           "settings": {
@@ -20,18 +32,6 @@
             "color_scheme": "dark_text",
             "text_align": "center",
             "link": "shopify://products/botanica-wallpaper-black-emerald",
-            "button_label": "Button label",
-            "button_color": "white"
-          }
-        },
-        "image_PGWtkQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/MollyMahon-Woodlands-Collection-Cushions-Banner.jpg",
-            "title": "",
-            "color_scheme": "dark_text",
-            "text_align": "center",
-            "link": "",
             "button_label": "Button label",
             "button_color": "white"
           }
@@ -50,8 +50,8 @@
         }
       },
       "block_order": [
-        "image_pQFWpb",
         "image_PGWtkQ",
+        "image_pQFWpb",
         "image_YfgKgi"
       ],
       "name": "Slideshow",
