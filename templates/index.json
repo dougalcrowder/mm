@@ -26,6 +26,7 @@
         },
         "image_PGWtkQ": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Banner-MollyMahon-Botanica-GoldOlive-Tulip-Wallpaper-2.jpg",
             "title": "",
@@ -38,6 +39,7 @@
         },
         "image_pQFWpb": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Banner-MollyMahon-Botanica-BlackEmerald-Tulip-Wallpaper-3.jpg",
             "title": "",
