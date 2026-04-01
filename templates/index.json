@@ -59,7 +59,7 @@
         "background": "",
         "styles": true,
         "autoplay": true,
-        "interval": 6000,
+        "interval": 4000,
         "margin_top": "none",
         "margin_bot": "none"
       }
