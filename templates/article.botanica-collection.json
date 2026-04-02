@@ -48,12 +48,11 @@
     "feature_slideshow_7iHpTc": {
       "type": "feature-slideshow",
       "blocks": {
-        "image_mNdg8n": {
+        "image_tiLtPc": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-79-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-79-Banner-Square.jpg",
-            "title": "",
+            "image": "shopify://shop_images/Banner-MollyMahon-Botanica-BlackEmerald-Tulip-Wallpaper-3.jpg",
+            "title": "Caption Here",
             "color_scheme": "dark_text",
             "text_align": "center",
             "link": "",
@@ -61,12 +60,11 @@
             "button_color": "white"
           }
         },
-        "image_jPH4w9": {
+        "image_7hadmk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-24-Banner.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-24-Banner-Square.jpg",
-            "title": "",
+            "image": "shopify://shop_images/Banner-MollyMahon-Botanica-GoldOlive-Tulip-Wallpaper-2.jpg",
+            "title": "Caption Here",
             "color_scheme": "dark_text",
             "text_align": "center",
             "link": "",
@@ -74,12 +72,11 @@
             "button_color": "white"
           }
         },
-        "image_36ezr9": {
+        "image_FLqyr3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-82-Banner_dac4a827-6c7d-4b7e-b526-05099e260948.jpg",
-            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-82-Banner-Square_f351de31-8969-47fe-829c-60069f077b4a.jpg",
-            "title": "",
+            "image": "shopify://shop_images/Banner-MollyMahon-Botanica-Rose-Tulip-Wallpaper-1.jpg",
+            "title": "Caption Here",
             "color_scheme": "dark_text",
             "text_align": "center",
             "link": "",
@@ -89,9 +86,9 @@
         }
       },
       "block_order": [
-        "image_mNdg8n",
-        "image_jPH4w9",
-        "image_36ezr9"
+        "image_tiLtPc",
+        "image_7hadmk",
+        "image_FLqyr3"
       ],
       "name": "Slideshow",
       "settings": {
@@ -110,8 +107,8 @@
       ],
       "name": "Title and Text",
       "settings": {
-        "title": "Springtime with Callie Coles - an Eclectic Country Home",
-        "text": "<p>Spring at Callie Coles’ home arrives with muddy boots by the door, horses in the fields, chickens pottering about the garden and dogs stretched out wherever the sun falls. This is a house that lives and breathes - a place where Molly Mahon’s bold prints, joyful colours and hand blocked textiles sit effortlessly within an eclectic, much loved country setting.</p>",
+        "title": "Botanica Collection: Luxury Wallpaper & Fabric Inspired by Tulips",
+        "text": "<p>There’s something quietly captivating about tulips. A familiar yet fleeting presence in British gardens, they herald the arrival of spring while carrying a rich and layered history. In her latest <em>Botanica</em> collection, Molly Mahon revisits this iconic flower, translating its sculptural beauty into a refined series of luxury wallpapers and fabrics.</p><p>Inspired by the dramatic displays at Pashley Manor Gardens and the romantic, naturalistic planting at Great Dixter, the collection captures the tulip in all its bold simplicity - both structured and ephemeral, classic yet refreshingly modern.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -126,13 +123,13 @@
         "heading_7xGCbY": {
           "type": "heading",
           "settings": {
-            "heading": "Stepping Inside the Home"
+            "heading": "A Story Rooted in Craft & Heritage"
           }
         },
         "text_zdJW4K": {
           "type": "text",
           "settings": {
-            "text": "<p>Stepping into Callie’s home feels like being let in on a beautifully kept secret. Every room tells a story,  collected rather than curated, where colour is embraced, patterns layer happily and nothing feels too precious to be lived with.</p><p>Molly’s vibrant cushions, quilts and fabrics bring a joyful rhythm to the house, sitting alongside antiques, artworks and everyday family life. It's a warm, welcoming and unmistakably British country home - with an eclectic, bohemian twist</p>",
+            "text": "<p>At the heart of the <em>Botanica</em> collection is a thoughtful exploration of form and repetition. Each tulip is carefully framed, almost like a piece within a collector’s archive or gallery wall. This design approach nods to the Victorian passion for cataloguing the natural world, creating a sense of order and timelessness that translates beautifully into today’s interiors.</p><p>The result is a collection that feels equally at home in a traditional English country cottage, a countryside farmhouse, or a contemporary interior seeking softness and depth. It’s decorative, but never overwhelming - elevated, yet effortlessly liveable.</p>",
             "code": ""
           }
         }
@@ -143,7 +140,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-83-Web.jpg",
+        "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Fabric-Wallpaper-06546-4x5.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -166,8 +163,8 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-23-Web.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Rose-Wallpaper-Bagru-Terracotta-Clay-Fabric-06728.jpg",
+            "auto_height": "square",
             "title": "",
             "text_align": "center",
             "heading_size": "s",
@@ -179,8 +176,8 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-34.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Wallpaper-9026.jpg",
+            "auto_height": "square",
             "title": "",
             "text_align": "center",
             "heading_size": "s",
@@ -192,8 +189,8 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-32.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-9113.jpg",
+            "auto_height": "square",
             "title": "",
             "text_align": "center",
             "heading_size": "s",
@@ -225,13 +222,13 @@
         "heading_KcGpTB": {
           "type": "heading",
           "settings": {
-            "heading": "The Heart of the Home"
+            "heading": "Handcrafted Block Printing Meets Luxury Interior Design"
           }
         },
         "text_r4bhaE": {
           "type": "text",
           "settings": {
-            "text": "<p>The kitchen is where everything begins and ends. A space for muddy wellies, early morning cups of tea, family meals and conversations that stretch long into the evening.</p><p>Here, Molly’s bold prints add warmth and character to the kitchen table, softening with colour and pattern. It’s a kitchen designed to be used -  friendly, relaxed and full of life – where dogs and ponies wander in and out and the door is always open.</p>",
+            "text": "<p>Remaining true to her signature aesthetic, Molly Mahon brings each design to life using traditional block printing techniques. Every tulip begins as a hand carved block, celebrating the artistry and craftsmanship behind her roots in luxury fabric and wallpaper design.</p><p>The colour palette introduces a softer, more atmospheric direction. Drawing on muddied Dutch tones and the romance of antique herbaria, the collection features deep blacks lifted with emerald greens, alongside warm golds and muted rose hues. These combinations create a layered, tonal richness - ideal for interior designers and homeowners looking to add depth, texture, and warmth to a space.</p>",
             "code": ""
           }
         }
@@ -242,7 +239,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-40.jpg",
+        "image": "shopify://shop_images/CollectionMobile-MollyMahon-Botanica-GoldOlive-Wallpaper-06598.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -298,7 +295,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner_1061f655-e9a0-4d4a-944c-96abdd2e8a8a.jpg",
+        "image": "shopify://shop_images/Banner-MollyMahon-Botanica-Rose-Tulip-Wallpaper-1.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner-Square_32705b47-db1d-4fd8-849d-22b76d183a0e.jpg",
         "respect_image": true,
@@ -324,13 +321,13 @@
         "heading_iJmJpY": {
           "type": "heading",
           "settings": {
-            "heading": "Lounging in Style"
+            "heading": "Styling Botanica, The English Cottage"
           }
         },
         "text_qGWCe4": {
           "type": "text",
           "settings": {
-            "text": "<p>The sitting room is a joyful mix of comfort and colour. Marigold curtains frame the windows, glowing softly in the changing light, while generous window seats invite you to pause, read or simply watch the world outside with linen cushions and soft Moroccan rugs.</p><p>Layered patterns and antiques create a relaxed, sink-in feel -  the kind of space where children sprawl, dogs curl up and everyone feels at home. Molly Mahon’s prints bring energy and personality, balancing beautifully with Callie’s eclectic eye and love of relaxed country living.</p>",
+            "text": "<p>Shot in Molly Mahon’s own workshop, set within the picturesque Sussex countryside, the <em>Botanica</em> collection truly comes into its own. Surrounded by a working farm landscape, the setting reflects the spirit of the designs - rooted in nature, craft, and quiet rural beauty.</p><p>Each print sits effortlessly within the workshop’s rustic interior, complementing aged woods and natural textures. The result is a relaxed yet elevated take on the English country cottage aesthetic, where pattern and colour bring a warm, considered charm in Molly’s signature style.</p><p>We loved seeing the tones come to life across the space. Black/Emerald introduces drama and depth to a bedroom, creating a cocooning feel, while Olive/Gold adds warmth and character in the kitchen. Meanwhile, the softer Rose palette brings a light, elegant touch to the living room.</p>",
             "code": ""
           }
         }
@@ -341,7 +338,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-17-Web.jpg",
+        "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Fabric-Wallpaper-06546-4x5.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -364,8 +361,8 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-06-Web_92ec1f8a-458c-45e8-9caf-c01a38212351.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-9099.jpg",
+            "auto_height": "square",
             "title": "",
             "text_align": "center",
             "heading_size": "s",
@@ -377,8 +374,8 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-19-Web.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Fabric-Wallpaper-8936.jpg",
+            "auto_height": "square",
             "title": "",
             "text_align": "center",
             "heading_size": "s",
@@ -390,8 +387,8 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-18-Web.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Rose-Wallpaper-Bagru-Terracotta-Clay-Fabric-9300.jpg",
+            "auto_height": "square",
             "title": "",
             "text_align": "center",
             "heading_size": "s",
@@ -407,8 +404,8 @@
       ],
       "name": "Multi Columns",
       "settings": {
-        "mc_title": "",
-        "show_title": false,
+        "mc_title": "Wallpaper Colourways",
+        "show_title": true,
         "text_align": "center",
         "title_margin": "m",
         "gap": "medium",
@@ -423,13 +420,13 @@
         "heading_X7CwrJ": {
           "type": "heading",
           "settings": {
-            "heading": "Joyful Spaces for Little (and not-so-little) People"
+            "heading": "Discover Luxury Wallpapers & Fabrics from Botanica"
           }
         },
         "text_Ngbrtq": {
           "type": "text",
           "settings": {
-            "text": "<p>Upstairs, the bedrooms are full of imagination and individuality. Children’s rooms burst with blue Marwari horse print curtains, paired with chequer cushions, Berry and Posy quilts - all adding colour and charm and designed to feel happy and utterly personal.</p><p>Callie’s pink Marwari horse curtains are a standout in her dressing room   - playful, bold and full of character and paired with Molly’s bright textiles to create spaces that feel cheerful, comforting and full of life. These are rooms made for dreaming, growing and being completely yourself.</p><p>Molly’s Horse Chestnut print curtains, in the guest bedroom, with a bespoke made Dianthus and Bagru Eiderdown, create a magical restful room.</p>",
+            "text": "<p>The <em>Botanica</em> collection is currently available as premium non-woven wallpapers. We are soon to launch the beautifully crafted cotton-linen fabrics, offering versatility for a wide range of interior design projects.</p><p><a href=\"/collections/botanica\" target=\"_blank\" title=\"Botanica\"><strong>Explore the Botanica collection</strong></a> to find the perfect luxury wallpaper or fabric for your home.<br/><br/><a href=\"https://mollymahon.com/collections/all?_pos=1&_psq=all&_ss=e&_v=1.0\" target=\"_blank\" title=\"https://mollymahon.com/collections/all?_pos=1&_psq=all&_ss=e&_v=1.0\"><strong>Shop Molly Mahon</strong> </a>and bring handcrafted British design into your interiors.<br/><br/><a href=\"https://mollymahon.com/blogs/look-books/springtime-with-callie-coles-an-eclectic-country-home\" target=\"_blank\" title=\"https://mollymahon.com/blogs/look-books/springtime-with-callie-coles-an-eclectic-country-home\"><strong>Get Country Cottage inspiration</strong></a> from Callie Coles beautiful, home that we visited in Spring.</p>",
             "code": ""
           }
         }
@@ -440,7 +437,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-20-Web.jpg",
+        "image": "shopify://shop_images/CollectionMobile-MollyMahon-Botanica-GoldOlive-Wallpaper-06598.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -452,66 +449,6 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
-    "multicolumn_i6NRzV": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_f9A9ka": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-33-Web.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        },
-        "column_UfkimB": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-30-Web.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        },
-        "column_kktDQ3": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-29-Web.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_f9A9ka",
-        "column_UfkimB",
-        "column_kktDQ3"
-      ],
-      "name": "Multi Columns",
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "text_align": "center",
-        "title_margin": "m",
-        "gap": "medium",
-        "border": false,
         "margin_top": "none",
         "margin_bot": "m"
       }
@@ -556,7 +493,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-14-Banner.jpg",
+        "image": "shopify://shop_images/Banner-MollyMahon-Botanica-BlackEmerald-Tulip-Wallpaper-3.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-14-Banner-Square.jpg",
         "respect_image": true,
@@ -597,7 +534,6 @@
     "image_with_text_AwtNFg",
     "multicolumn_3qExTX",
     "image_with_text_U6hMVX",
-    "multicolumn_i6NRzV",
     "image_banner_q4hEhN",
     "165780769577c12393"
   ]
