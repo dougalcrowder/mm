@@ -181,36 +181,50 @@
     "multicolumn_pHNVx4": {
       "type": "multicolumn",
       "blocks": {
-        "column_BAmHPR": {
+        "column_RKVcyx": {
           "type": "column",
           "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/Mollymahon-Fordmanor-AW2025-Flirty-Lampshade-Ikat-Chevron-Purple-Cushion-Luna-Blue-Pink-Portrait.jpg",
-            "auto_height": "none",
-            "title": "The Ikat",
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Woodland-Banner-4-Square.jpg",
+            "auto_height": "portrait",
+            "title": "Bring the Outdoors In",
             "text_align": "center",
-            "heading_size": "xl",
+            "heading_size": "l",
             "button_label": "link label",
-            "button_link": "shopify://collections/the-ikat"
+            "button_link": "shopify://collections/woodlands"
           }
         },
         "column_4GthD6": {
           "type": "column",
           "settings": {
-            "width": "half",
+            "width": "one_third",
             "image": "shopify://shop_images/MollyMahon-MM-Collections.jpg",
-            "auto_height": "none",
-            "title": "Spring into the New Year",
+            "auto_height": "portrait",
+            "title": "Spring Prints",
             "text_align": "center",
-            "heading_size": "xl",
+            "heading_size": "l",
             "button_label": "",
-            "button_link": "shopify://collections/woodlands"
+            "button_link": "shopify://products/forest-flowers-hand-block-printed-herringbone-multi"
+          }
+        },
+        "column_BAmHPR": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Lampshade-Strawberry.jpg",
+            "auto_height": "portrait",
+            "title": "Cottage Style Lampshades",
+            "text_align": "center",
+            "heading_size": "l",
+            "button_label": "link label",
+            "button_link": "shopify://collections/lighting"
           }
         }
       },
       "block_order": [
-        "column_BAmHPR",
-        "column_4GthD6"
+        "column_RKVcyx",
+        "column_4GthD6",
+        "column_BAmHPR"
       ],
       "settings": {
         "mc_title": "Woodlands Collection",
