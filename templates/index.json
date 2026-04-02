@@ -181,6 +181,19 @@
     "multicolumn_pHNVx4": {
       "type": "multicolumn",
       "blocks": {
+        "column_4GthD6": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-MM-Collections.jpg",
+            "auto_height": "portrait",
+            "title": "Floral Spring Fabric",
+            "text_align": "center",
+            "heading_size": "l",
+            "button_label": "",
+            "button_link": "shopify://products/forest-flowers-hand-block-printed-herringbone-multi"
+          }
+        },
         "column_RKVcyx": {
           "type": "column",
           "settings": {
@@ -192,19 +205,6 @@
             "heading_size": "l",
             "button_label": "link label",
             "button_link": "shopify://collections/woodlands"
-          }
-        },
-        "column_4GthD6": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-MM-Collections.jpg",
-            "auto_height": "portrait",
-            "title": "Spring Prints",
-            "text_align": "center",
-            "heading_size": "l",
-            "button_label": "",
-            "button_link": "shopify://products/forest-flowers-hand-block-printed-herringbone-multi"
           }
         },
         "column_BAmHPR": {
@@ -222,8 +222,8 @@
         }
       },
       "block_order": [
-        "column_RKVcyx",
         "column_4GthD6",
+        "column_RKVcyx",
         "column_BAmHPR"
       ],
       "settings": {
