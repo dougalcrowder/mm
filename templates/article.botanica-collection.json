@@ -162,7 +162,7 @@
             "text_align": "center",
             "heading_size": "s",
             "button_label": "link label",
-            "button_link": ""
+            "button_link": "shopify://products/botanica-wallpaper-gold-olive"
           }
         },
         "column_twET3Q": {
@@ -175,7 +175,7 @@
             "text_align": "center",
             "heading_size": "s",
             "button_label": "link label",
-            "button_link": ""
+            "button_link": "shopify://products/botanica-wallpaper-black-emerald"
           }
         }
       },
