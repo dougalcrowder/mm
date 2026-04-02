@@ -109,7 +109,7 @@
         "text_zdJW4K": {
           "type": "text",
           "settings": {
-            "text": "<p>At the heart of the <em>Botanica</em> collection is a thoughtful exploration of form and repetition. Each tulip is carefully framed, almost like a piece within a collector’s  gallery. This design approach nods to the Victorian passion for cataloguing the natural world, creating a sense of order and timelessness that translates beautifully into today’s interiors.</p><p>The result is a collection that feels equally at home in a traditional English country home or a contemporary interior seeking softness and depth. It’s decorative, but never overwhelming - elevated, yet effortlessly liveable.</p>",
+            "text": "<p>At the heart of the <a href=\"https://mollymahon.com/collections/botanica\" target=\"_blank\" title=\"https://mollymahon.com/collections/botanica\"><em>Botanica</em></a> collection is a thoughtful exploration of form and repetition. Each tulip is carefully framed, almost like a piece within a collector’s  gallery. This design approach nods to the Victorian passion for cataloguing the natural world, creating a sense of order and timelessness that translates beautifully into today’s interiors.</p><p>The result is a collection that feels equally at home in a traditional English country home or a contemporary interior seeking softness and depth. It’s decorative, but never overwhelming - elevated, yet effortlessly liveable.</p>",
             "code": ""
           }
         }
@@ -149,7 +149,7 @@
             "text_align": "center",
             "heading_size": "s",
             "button_label": "link label",
-            "button_link": ""
+            "button_link": "shopify://products/botanica-wallpaper-rose"
           }
         },
         "column_iYekGD": {
