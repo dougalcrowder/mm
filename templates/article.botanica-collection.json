@@ -143,7 +143,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Botanica-Rose-Wallpaper-Bagru-Terracotta-Clay-Fabric-06728.jpg",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Rose-Wallpaper-Bagru-Terracotta-Clay-Fabric-9300.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -169,7 +169,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-9113.jpg",
+            "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-06646.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -219,7 +219,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/CollectionMobile-MollyMahon-Botanica-GoldOlive-Wallpaper-06598.jpg",
+        "image": "shopify://shop_images/Botanica-Molly-Mahon-SS-Botanica-Moodboard.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -318,7 +318,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Fabric-Wallpaper-06546-4x5.jpg",
+        "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-06646_b6b0a257-57c8-453d-b543-552ace72b28c.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -341,7 +341,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-9099.jpg",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Black-Emerald-swatch.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -354,7 +354,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Fabric-Wallpaper-8936.jpg",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Gold-Olive-swatch.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -367,7 +367,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Botanica-Rose-Wallpaper-Bagru-Terracotta-Clay-Fabric-9300.jpg",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Rose-swatch.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -482,7 +482,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Banner-MollyMahon-Botanica-BlackEmerald-Tulip-Wallpaper-3.jpg",
+        "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-9099_de631b02-45da-45eb-b2e5-3e8370d2d3fd.jpg",
         "letterbox": false,
         "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-14-Banner-Square.jpg",
         "respect_image": true,
