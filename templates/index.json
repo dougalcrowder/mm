@@ -189,7 +189,7 @@
             "auto_height": "portrait",
             "title": "Floral Spring Fabrics",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "",
             "button_link": "https://mollymahon.com/collections/fabric"
           }
@@ -202,7 +202,7 @@
             "auto_height": "portrait",
             "title": "Bring the Outdoors In",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "link label",
             "button_link": "shopify://collections/woodlands"
           }
@@ -215,7 +215,7 @@
             "auto_height": "portrait",
             "title": "Cottage Style Lampshades",
             "text_align": "center",
-            "heading_size": "l",
+            "heading_size": "xl",
             "button_label": "link label",
             "button_link": "shopify://collections/lighting"
           }
