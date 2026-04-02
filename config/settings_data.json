@@ -121,17 +121,6 @@
               "link": "shopify://pages/molly-mahon",
               "menu_item_handle": "mm-world"
             }
-          },
-          "c4876d6d-0628-40a2-b7a4-27dcb4ec08ea": {
-            "type": "menu_images",
-            "disabled": true,
-            "settings": {
-              "image": "shopify://shop_images/india-artisans.jpg",
-              "title": "Handmade by Artisans",
-              "subtitle": "Block Printing",
-              "link": "shopify://pages/block-printing",
-              "menu_item_handle": "mm-world"
-            }
           }
         },
         "block_order": [
@@ -141,8 +130,7 @@
           "f1478d1d-b69c-4ba9-a5cd-93a80571237b",
           "1ee234ed-38fb-45e6-8597-4a12d43fa05e",
           "780eb8bb-eb65-495d-8f78-646eb73979b4",
-          "db7c3e68-5fff-4277-b889-ce495a49f372",
-          "c4876d6d-0628-40a2-b7a4-27dcb4ec08ea"
+          "db7c3e68-5fff-4277-b889-ce495a49f372"
         ],
         "settings": {
           "menu": "main-menu-1",
