@@ -277,7 +277,6 @@
       "settings": {
         "image": "shopify://shop_images/Banner-MollyMahon-Botanica-Rose-Tulip-Wallpaper-1.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner-Square_32705b47-db1d-4fd8-849d-22b76d183a0e.jpg",
         "respect_image": true,
         "top_margin": false,
         "bordered": false,
@@ -319,7 +318,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-06646_b6b0a257-57c8-453d-b543-552ace72b28c.jpg",
-        "aspect_ratio": "none",
+        "aspect_ratio": "portrait",
         "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -484,7 +483,6 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-9099_de631b02-45da-45eb-b2e5-3e8370d2d3fd.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-14-Banner-Square.jpg",
         "respect_image": true,
         "top_margin": false,
         "bordered": false,
