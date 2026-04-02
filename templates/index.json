@@ -171,7 +171,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Rose-Fabric-8916.jpg",
-        "aspect_ratio": "none",
+        "aspect_ratio": "portrait",
         "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -182,7 +182,7 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "sm",
+        "margin_top": "none",
         "margin_bot": "sm"
       }
     },
