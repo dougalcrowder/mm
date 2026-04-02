@@ -145,20 +145,28 @@
         "heading_t8iPAf": {
           "type": "heading",
           "settings": {
-            "heading": "Springtime with Callie Coles"
+            "heading": "Botanica Collection - Inspired by Tulips"
           }
         },
         "text_CcR6EJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Spring at Callie Coles’ home arrives with muddy boots by the door, horses in the fields, chickens pottering about the garden and dogs stretched out wherever the sun falls. <br/><br/>Read more about how Molly's bold prints perfectly merge with this eclectic country home <a href=\"https://mollymahon.com/blogs/look-books/springtime-with-callie-coles-an-eclectic-country-home\">HERE</a>.</p>",
+            "text": "<p>Introducing Botanica by Molly Mahon - a refined celebration of the tulip, expressed through luxury wallpaper and fabrics designed to bring depth, colour and natural beauty into any interior. </p><p>Inspired by the flower’s bold, architectural form, each bloom is carefully framed as if within a collector’s archive, with a deliberate repetition that echoes treasured botanical studies. </p><p>There is a quiet timelessness to this approach, gently nodding to the Victorian fascination with cataloguing the natural world, while remaining fresh, elegant and perfectly suited to modern homes.</p>",
             "code": ""
+          }
+        },
+        "button_7Lk38X": {
+          "type": "button",
+          "settings": {
+            "button_label": "READ MORE",
+            "button_link": "shopify://blogs/look-books/our-new-botanica-collection"
           }
         }
       },
       "block_order": [
         "heading_t8iPAf",
-        "text_CcR6EJ"
+        "text_CcR6EJ",
+        "button_7Lk38X"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
