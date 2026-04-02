@@ -59,7 +59,7 @@
         "background": "",
         "styles": true,
         "autoplay": true,
-        "interval": 4000,
+        "interval": 6000,
         "margin_top": "none",
         "margin_bot": "none"
       }
@@ -262,36 +262,22 @@
         "margin_bot": "sm"
       }
     },
+    "single_title_and_text_WHjWiW": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Block Printing - A Traditional Technique",
+        "text": "<p>Block printing is at the heart of Molly's work - with each design created using hand-carved wooden blocks that celebrate heritage and craft to produce beautiful, unique designs.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1": {
       "type": "video",
-      "blocks": {
-        "text_3Ri8fR": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false
-          }
-        },
-        "28c6237f-93a5-442d-8ca9-2b00f30af1ad": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Discover Bloom",
-            "button_modal_1": "",
-            "button_link_1": "shopify://collections/bloom-fabric",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_modal_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text_3Ri8fR",
-        "28c6237f-93a5-442d-8ca9-2b00f30af1ad"
-      ],
       "settings": {
         "logo_white": false,
         "autoplay": true,
@@ -305,7 +291,7 @@
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
-        "color_scheme": "white_text",
+        "color_scheme": "dark_text",
         "eyedee": ""
       }
     },
@@ -317,7 +303,7 @@
       ],
       "settings": {
         "title": "Shop by Collections",
-        "text": "<p>Every collection of Molly's tells a story.<br/>Whether inspired by the woodlands around her,<br/>the vibrant colours of India, <br/>or the charm of big blousy blooms,<br/>each one is thoughtfully woven through pattern and palette.<br/><br/>Discover more below.</p>",
+        "text": "<p>Every collection of Molly's tells a story. Whether inspired by the woodlands around her, the vibrant colours of India, or the charm of big blousy blooms, each one is thoughtfully woven through pattern and palette.<br/><br/>Discover more below.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -828,6 +814,7 @@
     "image_with_text_L7qXnQ",
     "multicolumn_pHNVx4",
     "image_with_text_b4rYGw",
+    "single_title_and_text_WHjWiW",
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "single_title_and_text_GAmte8",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
