@@ -87,8 +87,8 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Fabrics_e8c00390-0708-4621-9347-ee1839b9131d.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/MollyMahon-Langport-Fabric.jpg",
+            "auto_height": "portrait",
             "title": "Fabric",
             "text_align": "center",
             "heading_size": "xl",
@@ -100,8 +100,8 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Homewares-2025.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/MollyMahon-Langport-Cushions-Homewares-Edited.jpg",
+            "auto_height": "portrait",
             "title": "Homewares",
             "text_align": "center",
             "heading_size": "xl",
@@ -113,8 +113,8 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Molly_Mahon_Wallpaper.jpg",
-            "auto_height": "none",
+            "image": "shopify://shop_images/MollyMahon-Langport-Strawberry-Wallpaper-4x5.jpg",
+            "auto_height": "portrait",
             "title": "Wallpaper",
             "text_align": "center",
             "heading_size": "xl",
