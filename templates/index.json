@@ -133,7 +133,7 @@
         "show_title": false,
         "text_align": "center",
         "title_margin": "l",
-        "gap": "medium",
+        "gap": "large",
         "border": false,
         "margin_top": "none",
         "margin_bot": "l"
