@@ -17,7 +17,7 @@
         "autoplay": true,
         "autoloop": true,
         "mute_video": false,
-        "show_controls": false,
+        "show_controls": true,
         "constrain_vid": false,
         "html5_video": "https://cdn.shopify.com/videos/c/o/v/a138deed77c34f5dbab42dfd53d8f89a.mp4",
         "desktop_text_box_position": "middle",
