@@ -87,9 +87,9 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Langport-Fabric.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-Fabric-sml.jpg",
             "auto_height": "portrait",
-            "title": "Fabric",
+            "title": "",
             "text_align": "center",
             "heading_size": "xl",
             "button_label": "link label",
@@ -100,9 +100,9 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Langport-Cushions-Homewares-Edited.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-Homewares-sml.jpg",
             "auto_height": "portrait",
-            "title": "Homewares",
+            "title": "",
             "text_align": "center",
             "heading_size": "xl",
             "button_label": "link label",
@@ -257,7 +257,7 @@
         "text_GcDe73": {
           "type": "text",
           "settings": {
-            "text": "<p>We are honoured to announce that we have received the New Years Honours Awards for Outstanding Contribution from The English Home Magazine<br/><br/><a href=\"https://mollymahon.com/blogs/press/the-english-home-awards-for-outstanding-contribution\" title=\"https://mollymahon.com/blogs/press/the-english-home-awards-for-outstanding-contribution\">Read the article here.</a></p>",
+            "text": "<p>We are honoured to announce that we have received the New Years Honours Awards for Outstanding Contribution from The English Home Magazine.<br/><br/><a href=\"https://mollymahon.com/blogs/press/the-english-home-awards-for-outstanding-contribution\" title=\"https://mollymahon.com/blogs/press/the-english-home-awards-for-outstanding-contribution\">Read the article here.</a></p>",
             "code": ""
           }
         }
