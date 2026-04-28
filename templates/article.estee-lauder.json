@@ -88,7 +88,7 @@
       "name": "Title and Text",
       "settings": {
         "title": "A Celebration of Print - Our Collaboration with Estée Lauder",
-        "text": "<p>We are delighted to share a very special collaboration between Molly Mahon and the iconic global beauty brand Estée Lauder.</p><p>Known for its timeless elegance and devotion to beauty, Estée Lauder felt like a natural partner for a project rooted in craftsmanship, colour and joy. For this collaboration, Molly has brought her distinctive hand-block printing style to a limited collection of packaging and cosmetic bags, each one inspired by some of her most loved wood blocks.</p>",
+        "text": "<p>We are delighted to share a very special collaboration between Molly Mahon and the iconic global beauty brand Estée Lauder.</p><p>Known for its timeless elegance and devotion to beauty, Estée Lauder felt like a natural partner for a project rooted in craftsmanship, colour and joy. For this collaboration, Molly has brought her distinctive hand block printing style to a limited collection of gift boxes and cosmetic bags, each one inspired by some of her most loved wood blocks.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -120,7 +120,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Fabric-Wallpaper-06546-4x5.jpg",
+        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7885.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -143,7 +143,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Botanica-Rose-Wallpaper-Bagru-Terracotta-Clay-Fabric-9300.jpg",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-March2026-7760.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -156,7 +156,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Wallpaper-9026.jpg",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7820.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -169,7 +169,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-9113.jpg",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7792.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -208,7 +208,7 @@
         "text_r4bhaE": {
           "type": "text",
           "settings": {
-            "text": "<p>It has been a pleasure to see these prints take on a new life within the world of beauty. From the tactile feel of the cosmetic bags to the carefully designed packaging, each piece reflects a shared appreciation for artistry, detail and the beauty of the handmade.</p>",
+            "text": "<p>It has been a pleasure to see these prints take on a new life within the world of beauty. From the tactile feel of the cosmetic bags to the joyous patterned gift boxes, each piece reflects a shared appreciation for artistry, detail and the beauty of the handmade.</p>",
             "code": ""
           }
         }
