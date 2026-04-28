@@ -88,7 +88,7 @@
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/Homepage-Catergory-Fabric-sml.jpg",
-            "auto_height": "portrait",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
             "heading_size": "xl",
@@ -101,7 +101,7 @@
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/Homepage-Catergory-Homewares-sml_3b6427ad-9aa6-4fac-8497-5ad0cff038b2.jpg",
-            "auto_height": "portrait",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
             "heading_size": "xl",
@@ -114,7 +114,7 @@
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/MollyMahon-Langport-Wallpaper-sml_a1d3ffda-99cf-4ffc-9721-2f4c7a274898.jpg",
-            "auto_height": "portrait",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
             "heading_size": "xl",
