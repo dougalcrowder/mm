@@ -564,7 +564,7 @@
         "gap": "large",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "s"
+        "margin_bot": "none"
       }
     },
     "divider_rhAXLn": {
@@ -574,19 +574,6 @@
         "margin_top": "s",
         "margin_bot": "s",
         "hr": true
-      }
-    },
-    "multicolumn_38RJic": {
-      "type": "multicolumn",
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "text_align": "center",
-        "title_margin": "l",
-        "gap": "large",
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "s"
       }
     },
     "divider_cxEAtf": {
@@ -774,7 +761,6 @@
     "single_title_and_text_CQyxEb",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "divider_rhAXLn",
-    "multicolumn_38RJic",
     "divider_cxEAtf",
     "single_title_and_text_CTJFt9",
     "multicolumn_pVyheh",
