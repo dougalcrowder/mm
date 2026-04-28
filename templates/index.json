@@ -116,19 +116,6 @@
             "button_link": "shopify://collections/fabric"
           }
         },
-        "column_KiAKXc": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/Homepage-Catergory-Homewares-Pink.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "xl",
-            "button_label": "link label",
-            "button_link": "shopify://collections/homewares"
-          }
-        },
         "column_GMKGVW": {
           "type": "column",
           "settings": {
@@ -141,12 +128,25 @@
             "button_label": "link label",
             "button_link": "shopify://collections/wallpaper"
           }
+        },
+        "column_KiAKXc": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Homepage-Catergory-Homewares-Pink.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "xl",
+            "button_label": "link label",
+            "button_link": "shopify://collections/homewares"
+          }
         }
       },
       "block_order": [
         "column_Y6ggq4",
-        "column_KiAKXc",
-        "column_GMKGVW"
+        "column_GMKGVW",
+        "column_KiAKXc"
       ],
       "settings": {
         "mc_title": "",
