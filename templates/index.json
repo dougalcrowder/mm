@@ -171,7 +171,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-06646_b6b0a257-57c8-453d-b543-552ace72b28c.jpg",
-        "aspect_ratio": "portrait",
+        "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
