@@ -211,9 +211,9 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-6-w.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-LookBooks.jpg",
             "auto_height": "portrait",
-            "title": "Look Books",
+            "title": "",
             "text_align": "center",
             "heading_size": "xl",
             "button_label": "",
@@ -224,9 +224,9 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner-Square.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-Customer-Projects.jpg",
             "auto_height": "portrait",
-            "title": "Customer Projects",
+            "title": "",
             "text_align": "center",
             "heading_size": "xl",
             "button_label": "",
@@ -237,9 +237,9 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-SecretLinen-Banner-Square_33e2d56a-31b3-472d-bdf8-a6521b54e77f.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-Collaborations.jpg",
             "auto_height": "portrait",
-            "title": "Creative Collaborations",
+            "title": "",
             "text_align": "center",
             "heading_size": "xl",
             "button_label": "",
@@ -529,6 +529,7 @@
     },
     "divider_rhAXLn": {
       "type": "divider",
+      "disabled": true,
       "settings": {
         "margin_top": "s",
         "margin_bot": "s",
