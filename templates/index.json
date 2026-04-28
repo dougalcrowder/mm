@@ -71,7 +71,7 @@
       ],
       "settings": {
         "title": "Block Printed By Hand",
-        "text": "<p>At the heart of everything we do is a deep respect for craftsmanship. We work with skilled artisans to create fabrics, wallpapers and homeware that celebrate individuality and the charm of the handmade. No two prints are ever exactly the same and that's what makes them special.</p>",
+        "text": "<p>For 10 years, Molly Mahon has created joyful prints for joyful homes, known for her distinctive style across wallpapers, fabrics and homeware, crafted with skilled artisans.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -184,6 +184,24 @@
         "layout": "text_first",
         "margin_top": "none",
         "margin_bot": "l"
+      }
+    },
+    "single_title_and_text_8bjJVQ": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-bottom: 0px;}",
+        ".text {margin-top: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "Be Inspired",
+        "text": "<p>Discover how our designs are used in interiors around the world for all types of projects.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "multicolumn_pHNVx4": {
@@ -456,24 +474,6 @@
         "hr": true
       }
     },
-    "single_title_and_text_8bjJVQ": {
-      "type": "single-title_and_text",
-      "custom_css": [
-        ".text {margin-bottom: 0px;}",
-        ".text {margin-top: 0px;}"
-      ],
-      "name": "Title and Text",
-      "settings": {
-        "title": "Be Inspired",
-        "text": "<p>Discover how our designs are used in interiors around the world for all types of projects.</p>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "none"
-      }
-    },
     "20923eed-ecdf-4786-8836-2e8d1d372264": {
       "type": "multicolumn",
       "blocks": {
@@ -481,7 +481,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Molly-Mahon-Lookbooks-AW-25.jpg",
+            "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-6-w.jpg",
             "auto_height": "square",
             "title": "Look Books",
             "text_align": "center",
@@ -494,7 +494,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Luna-Pink-Customer-Projetcs.jpg",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner-Square.jpg",
             "auto_height": "square",
             "title": "Customer Projects",
             "text_align": "center",
@@ -507,7 +507,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Molly-Mahon-Moodboards.jpg",
+            "image": "shopify://shop_images/MollyMahon-SecretLinen-Banner-Square_33e2d56a-31b3-472d-bdf8-a6521b54e77f.jpg",
             "auto_height": "square",
             "title": "Creative Collaborations",
             "text_align": "center",
@@ -557,6 +557,7 @@
     },
     "single_title_and_text_CTJFt9": {
       "type": "single-title_and_text",
+      "disabled": true,
       "custom_css": [
         ".text {margin-bottom: 0px;}",
         ".text {margin-top: 0px;}"
@@ -620,6 +621,7 @@
         "column_9qEcG8",
         "column_bXDXJB"
       ],
+      "disabled": true,
       "settings": {
         "mc_title": "",
         "show_title": false,
@@ -717,6 +719,7 @@
     "single_title_and_text_VcQckG",
     "multicolumn_7TKhTL",
     "image_with_text_L7qXnQ",
+    "single_title_and_text_8bjJVQ",
     "multicolumn_pHNVx4",
     "image_with_text_b4rYGw",
     "divider_GRAtGV",
@@ -725,7 +728,6 @@
     "single_title_and_text_GAmte8",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "divider_rhAXLn",
-    "single_title_and_text_8bjJVQ",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "multicolumn_38RJic",
     "divider_cxEAtf",
