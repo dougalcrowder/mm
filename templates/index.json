@@ -181,8 +181,8 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "none",
+        "layout": "image_first",
+        "margin_top": "m",
         "margin_bot": "l"
       }
     },
