@@ -219,7 +219,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Botanica-Molly-Mahon-SS-Botanica-Moodboard.jpg",
+        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7908.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -235,65 +235,6 @@
         "margin_bot": "m"
       }
     },
-    "image_banner_UagQUG": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_UWGACq": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "text_zfqt67": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "buttons_NwCUhT": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_UWGACq",
-        "text_zfqt67",
-        "buttons_NwCUhT"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Banner-MollyMahon-Botanica-Rose-Tulip-Wallpaper-1.jpg",
-        "letterbox": false,
-        "respect_image": true,
-        "top_margin": false,
-        "bordered": false,
-        "bordered_dt": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "m",
-        "bg_color_scheme": "none",
-        "hover_text": false
-      }
-    },
     "image_with_text_AwtNFg": {
       "type": "image-with-text",
       "blocks": {
@@ -306,7 +247,7 @@
         "text_qGWCe4": {
           "type": "text",
           "settings": {
-            "text": "<p>This collaboration is a meeting of two worlds: Estée Lauder’s legacy of elegance and Molly’s passion for joyful, handcrafted design. Together, they celebrate the idea that everyday rituals - whether opening a favourite lipstick or packing a treasured beauty bag - can be made even more special through thoughtful design.</p>",
+            "text": "<p>This collaboration is a meeting of two worlds: Estée Lauder’s legacy of elegance and Molly’s passion for joyful, handcrafted design. Together, they celebrate the idea that everyday rituals - whether opening a favourite lipstick or packing a treasured beauty bag ready for holiday - can be made even more special through thoughtful design.</p>",
             "code": ""
           }
         }
@@ -317,8 +258,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-06646_b6b0a257-57c8-453d-b543-552ace72b28c.jpg",
-        "aspect_ratio": "portrait",
+        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7914.jpg",
+        "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
         "gap": "xxl",
@@ -329,6 +270,66 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_yH3WcC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cUNRpM": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-GravetyeManor-Portrait-March2026-7657.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-rose"
+          }
+        },
+        "column_TEB6EC": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7877.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-gold-olive"
+          }
+        },
+        "column_GzEczM": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-GravetyeManor-Magnolia-Tree-March-2026-7584.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-black-emerald"
+          }
+        }
+      },
+      "block_order": [
+        "column_cUNRpM",
+        "column_TEB6EC",
+        "column_GzEczM"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "m",
+        "gap": "medium",
+        "border": false,
         "margin_top": "none",
         "margin_bot": "m"
       }
@@ -356,8 +357,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Rose-Fabric-8916.jpg",
-        "aspect_ratio": "portrait",
+        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7835.jpg",
+        "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
         "gap": "xxl",
@@ -368,67 +369,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "m"
-      }
-    },
-    "image_banner_q4hEhN": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_3NPFVm": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "text_xxpFhF": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "buttons_axkXXg": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_3NPFVm",
-        "text_xxpFhF",
-        "buttons_axkXXg"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-9099_de631b02-45da-45eb-b2e5-3e8370d2d3fd.jpg",
-        "letterbox": false,
-        "respect_image": true,
-        "top_margin": false,
-        "bordered": false,
-        "bordered_dt": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
         "margin_top": "none",
-        "margin_bot": "sm",
-        "bg_color_scheme": "none",
-        "hover_text": false
+        "margin_bot": "m"
       }
     },
     "165780769577c12393": {
@@ -448,10 +390,9 @@
     "image_with_text_axpBFx",
     "multicolumn_DiVf4H",
     "image_with_text_RyBnnm",
-    "image_banner_UagQUG",
     "image_with_text_AwtNFg",
+    "multicolumn_yH3WcC",
     "image_with_text_U6hMVX",
-    "image_banner_q4hEhN",
     "165780769577c12393"
   ]
 }
