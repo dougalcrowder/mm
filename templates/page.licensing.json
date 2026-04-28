@@ -50,6 +50,7 @@
       "settings": {
         "image": "shopify://shop_images/MollyMahon-EsteeLauder-Bannern.jpg",
         "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7835.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": false,
