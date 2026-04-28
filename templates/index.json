@@ -76,8 +76,8 @@
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text",
-        "margin_top": "s",
-        "margin_bot": "none"
+        "margin_top": "l",
+        "margin_bot": "l"
       }
     },
     "multicolumn_7TKhTL": {
@@ -113,9 +113,9 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Langport-Strawberry-Wallpaper-4x5.jpg",
+            "image": "shopify://shop_images/MollyMahon-Langport-Wallpaper-sml.jpg",
             "auto_height": "portrait",
-            "title": "Wallpaper",
+            "title": "",
             "text_align": "center",
             "heading_size": "xl",
             "button_label": "link label",
@@ -136,7 +136,7 @@
         "gap": "medium",
         "border": false,
         "margin_top": "none",
-        "margin_bot": "m"
+        "margin_bot": "l"
       }
     },
     "image_with_text_L7qXnQ": {
