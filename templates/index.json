@@ -413,8 +413,8 @@
         ".text {margin-top: 20px;}"
       ],
       "settings": {
-        "title": "Shop by Collections",
-        "text": "<p>Every collection of Molly's tells a story. Whether inspired by the woodlands around her, the vibrant colours of India, or the charm of big blousy blooms, each one is thoughtfully woven through pattern and palette.<br/><br/>Discover more below.</p>",
+        "title": "Shop by Category",
+        "text": "<p>Each Molly Mahon design begins with a story - inspired by nature, travel and a love of joyful pattern. These ideas are translated into distinctive prints across wallpapers, fabrics and homeware. </p><p>Discover them by category below.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
