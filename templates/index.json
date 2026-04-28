@@ -212,7 +212,7 @@
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/Homepage-Catergory-LookBooks.jpg",
-            "auto_height": "portrait",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
             "heading_size": "xl",
@@ -225,7 +225,7 @@
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/Homepage-Catergory-Customer-Projects.jpg",
-            "auto_height": "portrait",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
             "heading_size": "xl",
@@ -238,7 +238,7 @@
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/Homepage-Catergory-Collaborations.jpg",
-            "auto_height": "portrait",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
             "heading_size": "xl",
