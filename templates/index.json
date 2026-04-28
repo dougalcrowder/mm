@@ -423,6 +423,25 @@
         "margin_bot": "sm"
       }
     },
+    "single_title_and_text_CQyxEb": {
+      "type": "single-title_and_text",
+      "disabled": true,
+      "custom_css": [
+        ".text {margin-bottom: 0px;}",
+        ".text {margin-top: 20px;}"
+      ],
+      "name": "Shop by Collections",
+      "settings": {
+        "title": "Shop by Collections",
+        "text": "<p>Every collection of Molly's tells a story. Whether inspired by the woodlands around her, the vibrant colours of India, or the charm of big blousy blooms, each one is thoughtfully woven through pattern and palette.<br/><br/>Discover more below.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "m",
+        "margin_bot": "sm"
+      }
+    },
     "dedeec5c-28d6-4af0-961d-09abb7473182": {
       "type": "multicolumn",
       "blocks": {
@@ -730,6 +749,7 @@
     "single_title_and_text_WHjWiW",
     "16d3e4e9-fe3f-40bb-8fd0-b8d6d32245c1",
     "single_title_and_text_GAmte8",
+    "single_title_and_text_CQyxEb",
     "dedeec5c-28d6-4af0-961d-09abb7473182",
     "divider_rhAXLn",
     "multicolumn_38RJic",
