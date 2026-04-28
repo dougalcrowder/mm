@@ -419,8 +419,8 @@
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "none"
+        "margin_top": "m",
+        "margin_bot": "sm"
       }
     },
     "dedeec5c-28d6-4af0-961d-09abb7473182": {
