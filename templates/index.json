@@ -430,22 +430,22 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon_Woodlands_Alun-Callendar_2025-02-13_002_6a2e7139-67a8-42c0-8542-6e1bb6940ce5.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-Kitchen-Dining.jpg",
             "auto_height": "none",
-            "title": "Woodlands",
+            "title": "",
             "text_align": "center",
             "heading_size": "xl",
             "button_label": "",
-            "button_link": "shopify://collections/woodlands"
+            "button_link": "shopify://collections/kitchen"
           }
         },
         "column_3qjA3A": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Trims-2.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-Trims.jpg",
             "auto_height": "none",
-            "title": "Trims",
+            "title": "",
             "text_align": "center",
             "heading_size": "xl",
             "button_label": "link label",
@@ -498,13 +498,13 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Fern-Indigo.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-Bed-Bath.jpg",
             "auto_height": "none",
-            "title": "Deerhyrst",
+            "title": "",
             "text_align": "center",
             "heading_size": "xl",
             "button_label": "link label",
-            "button_link": "shopify://collections/deerhyrst-fabric-collection"
+            "button_link": "shopify://collections/bed-bath"
           }
         }
       },
