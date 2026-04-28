@@ -1,0 +1,398 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "share"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "image_banner_ddb6pm": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_wYHVGa": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wYHVGa"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-EsteeLauder-Bannern.jpg",
+        "letterbox": false,
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_zUAjbG": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "A Celebration of Print with Estée Lauder",
+        "text": "<p>We are delighted to share a very special collaboration between Molly Mahon and the iconic global beauty brand Estée Lauder.</p><p>Known for its timeless elegance and devotion to beauty, Estée Lauder felt like a natural partner for a project rooted in craftsmanship, colour and joy. For this collaboration, Molly has brought her distinctive hand block printing style to a limited collection of gift boxes and cosmetic bags, each one inspired by some of her most loved wood block designs.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "m",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_axpBFx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7xGCbY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Where Craft Meets Beauty"
+          }
+        },
+        "text_zdJW4K": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At the heart of the collection is Molly’s enduring love of traditional printmaking. Using hand carved wood blocks, she has translated her signature motifs into designs that feel both celebratory and considered - where painterly florals, rhythmic pattern and joyful colour come together in harmony.</p><p></p><p><a href=\"https://www.esteelauder.com/product/27655/143458/product-catalog/sets-gifts/limited-edition-gifts/pleasures/deluxe-trio-fragrance-gift-set\" target=\"_blank\" title=\"https://www.esteelauder.com/product/27655/143458/product-catalog/sets-gifts/limited-edition-gifts/pleasures/deluxe-trio-fragrance-gift-set\"><strong>VIEW GIFT SET</strong></a></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_7xGCbY",
+        "text_zdJW4K"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7885.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "xxl",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "s",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_DiVf4H": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_N6JFdm": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-March2026-7760.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-rose"
+          }
+        },
+        "column_iYekGD": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7820.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-gold-olive"
+          }
+        },
+        "column_twET3Q": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7792.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-black-emerald"
+          }
+        }
+      },
+      "block_order": [
+        "column_N6JFdm",
+        "column_iYekGD",
+        "column_twET3Q"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "m",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_RyBnnm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KcGpTB": {
+          "type": "heading",
+          "settings": {
+            "heading": "From Wood Block to Cosmetic Bag"
+          }
+        },
+        "text_r4bhaE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It has been a pleasure to see these prints take on a new life within the world of beauty. From the tactile feel of the cosmetic bags to the joyous patterned gift boxes, each piece reflects a shared appreciation for artistry, detail and the beauty of the handmade.</p><p><a href=\"https://www.esteelauder.co.uk/product/681/145351/product-catalog/skincare/the-hydrating-routine/daywear-skincare-gift-set?_gl=1*15u7cs1*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwtcHPBhADEiwAWo3sJgwS0o8aOmX9r30sTchuIVEVolZWVE9OcugFa9YM6byl1M4XIFoxjBoC7HkQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAAD_ALTmo1bsBbCunRHfj-nwx2FH9x\" target=\"_blank\" title=\"https://www.esteelauder.co.uk/product/681/145351/product-catalog/skincare/the-hydrating-routine/daywear-skincare-gift-set?_gl=1*15u7cs1*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwtcHPBhADEiwAWo3sJgwS0o8aOmX9r30sTchuIVEVolZWVE9OcugFa9YM6byl1M4XIFoxjBoC7HkQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAAD_ALTmo1bsBbCunRHfj-nwx2FH9x\"><strong>VIEW GIFT SET</strong></a></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_KcGpTB",
+        "text_r4bhaE"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7908.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "xxl",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_AwtNFg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iJmJpY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Two Worlds, One Shared Vision"
+          }
+        },
+        "text_qGWCe4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Estée Lauder’s legacy of elegance and Molly’s passion for joyful, handcrafted design. Together, they celebrate the idea that everyday rituals - whether opening a favourite lipstick or packing a treasured beauty bag for holiday - can be made even more special through thoughtful design.</p><p></p><p><a href=\"https://www.esteelauder.com/product/27655/143457/product-catalog/sets-gifts/limited-edition-gifts/beautiful/favorites-trio-fragrance-gift-set\" target=\"_blank\" title=\"https://www.esteelauder.com/product/27655/143457/product-catalog/sets-gifts/limited-edition-gifts/beautiful/favorites-trio-fragrance-gift-set\"><strong>VIEW GIFT SET</strong></a></p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_iJmJpY",
+        "text_qGWCe4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7914.jpg",
+        "aspect_ratio": "square",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "xxl",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_yH3WcC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cUNRpM": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-GravetyeManor-Portrait-March2026-7657.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-rose"
+          }
+        },
+        "column_TEB6EC": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7877.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "https://www.esteelauder.com/product/27655/143459/product-catalog/sets-gifts/limited-edition-gifts/beautiful-magnolia/deluxe-trio-fragrance-gift-set"
+          }
+        },
+        "column_GzEczM": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-GravetyeManor-Magnolia-Tree-March-2026-7584.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-black-emerald"
+          }
+        }
+      },
+      "block_order": [
+        "column_cUNRpM",
+        "column_TEB6EC",
+        "column_GzEczM"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "m",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_U6hMVX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_X7CwrJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Little Moment of Joy"
+          }
+        },
+        "text_Ngbrtq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We hope this collection brings a little extra joy to a daily routine and serves as a reminder of the beauty that can be found in print, pattern and craftsmanship.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_X7CwrJ",
+        "text_Ngbrtq"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7835.jpg",
+        "aspect_ratio": "square",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "xxl",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "165780769577c12393": {
+      "type": "simple-button",
+      "disabled": true,
+      "settings": {
+        "label": "Back to the Journal",
+        "link": "shopify://blogs/journal",
+        "color_scheme": "dark"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_ddb6pm",
+    "single_title_and_text_zUAjbG",
+    "image_with_text_axpBFx",
+    "multicolumn_DiVf4H",
+    "image_with_text_RyBnnm",
+    "image_with_text_AwtNFg",
+    "multicolumn_yH3WcC",
+    "image_with_text_U6hMVX",
+    "165780769577c12393"
+  ]
+}

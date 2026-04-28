@@ -1,0 +1,604 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "share"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "feature_slideshow_7iHpTc": {
+      "type": "feature-slideshow",
+      "blocks": {
+        "image_mNdg8n": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-79-Banner.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-79-Banner-Square.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_jPH4w9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-24-Banner.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-24-Banner-Square.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        },
+        "image_36ezr9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-82-Banner_dac4a827-6c7d-4b7e-b526-05099e260948.jpg",
+            "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-82-Banner-Square_f351de31-8969-47fe-829c-60069f077b4a.jpg",
+            "title": "",
+            "color_scheme": "dark_text",
+            "text_align": "center",
+            "link": "",
+            "button_label": "Button label",
+            "button_color": "white"
+          }
+        }
+      },
+      "block_order": [
+        "image_mNdg8n",
+        "image_jPH4w9",
+        "image_36ezr9"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "background": "",
+        "styles": true,
+        "autoplay": true,
+        "interval": 4500,
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "single_title_and_text_zUAjbG": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "Springtime with Callie Coles - an Eclectic Country Home",
+        "text": "<p>Spring at Callie Coles’ home arrives with muddy boots by the door, horses in the fields, chickens pottering about the garden and dogs stretched out wherever the sun falls. This is a house that lives and breathes - a place where Molly Mahon’s bold prints, joyful colours and hand blocked textiles sit effortlessly within an eclectic, much loved country setting.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "m",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_axpBFx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7xGCbY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stepping Inside the Home"
+          }
+        },
+        "text_zdJW4K": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stepping into Callie’s home feels like being let in on a beautifully kept secret. Every room tells a story,  collected rather than curated, where colour is embraced, patterns layer happily and nothing feels too precious to be lived with.</p><p>Molly’s vibrant cushions, quilts and fabrics bring a joyful rhythm to the house, sitting alongside antiques, artworks and everyday family life. It's a warm, welcoming and unmistakably British country home - with an eclectic, bohemian twist</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_7xGCbY",
+        "text_zdJW4K"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-83-Web.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "s",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_DiVf4H": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_N6JFdm": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-23-Web.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_iYekGD": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-34.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_twET3Q": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-32.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_N6JFdm",
+        "column_iYekGD",
+        "column_twET3Q"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "m",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_RyBnnm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KcGpTB": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Heart of the Home"
+          }
+        },
+        "text_r4bhaE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The kitchen is where everything begins and ends. A space for muddy wellies, early morning cups of tea, family meals and conversations that stretch long into the evening.</p><p>Here, Molly’s bold prints add warmth and character to the kitchen table, softening with colour and pattern. It’s a kitchen designed to be used -  friendly, relaxed and full of life – where dogs and ponies wander in and out and the door is always open.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_KcGpTB",
+        "text_r4bhaE"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-40.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_banner_UagQUG": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UWGACq": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "text_zfqt67": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_NwCUhT": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UWGACq",
+        "text_zfqt67",
+        "buttons_NwCUhT"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner_1061f655-e9a0-4d4a-944c-96abdd2e8a8a.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-01-Banner-Square_32705b47-db1d-4fd8-849d-22b76d183a0e.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "m",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "image_with_text_AwtNFg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iJmJpY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lounging in Style"
+          }
+        },
+        "text_qGWCe4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The sitting room is a joyful mix of comfort and colour. Marigold curtains frame the windows, glowing softly in the changing light, while generous window seats invite you to pause, read or simply watch the world outside with linen cushions and soft Moroccan rugs.</p><p>Layered patterns and antiques create a relaxed, sink-in feel -  the kind of space where children sprawl, dogs curl up and everyone feels at home. Molly Mahon’s prints bring energy and personality, balancing beautifully with Callie’s eclectic eye and love of relaxed country living.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_iJmJpY",
+        "text_qGWCe4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-17-Web.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_3qExTX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Cp9kd6": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-06-Web_92ec1f8a-458c-45e8-9caf-c01a38212351.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_4LFkbm": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-19-Web.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_Qmy9Ai": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-18-Web.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Cp9kd6",
+        "column_4LFkbm",
+        "column_Qmy9Ai"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "m",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_U6hMVX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_X7CwrJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Joyful Spaces for Little (and not-so-little) People"
+          }
+        },
+        "text_Ngbrtq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Upstairs, the bedrooms are full of imagination and individuality. Children’s rooms burst with blue Marwari horse print curtains, paired with chequer cushions, Berry and Posy quilts - all adding colour and charm and designed to feel happy and utterly personal.</p><p>Callie’s pink Marwari horse curtains are a standout in her dressing room   - playful, bold and full of character and paired with Molly’s bright textiles to create spaces that feel cheerful, comforting and full of life. These are rooms made for dreaming, growing and being completely yourself.</p><p>Molly’s Horse Chestnut print curtains, in the guest bedroom, with a bespoke made Dianthus and Bagru Eiderdown, create a magical restful room.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_X7CwrJ",
+        "text_Ngbrtq"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-20-Web.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_i6NRzV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_f9A9ka": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-33-Web.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_UfkimB": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-30-Web.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        },
+        "column_kktDQ3": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-29-Web.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_f9A9ka",
+        "column_UfkimB",
+        "column_kktDQ3"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "m",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_banner_q4hEhN": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_3NPFVm": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "text_xxpFhF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_axkXXg": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3NPFVm",
+        "text_xxpFhF",
+        "buttons_axkXXg"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-14-Banner.jpg",
+        "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-CallieCole-Nov-25-14-Banner-Square.jpg",
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "sm",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "165780769577c12393": {
+      "type": "simple-button",
+      "disabled": true,
+      "settings": {
+        "label": "Back to the Journal",
+        "link": "shopify://blogs/journal",
+        "color_scheme": "dark"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "feature_slideshow_7iHpTc",
+    "single_title_and_text_zUAjbG",
+    "image_with_text_axpBFx",
+    "multicolumn_DiVf4H",
+    "image_with_text_RyBnnm",
+    "image_banner_UagQUG",
+    "image_with_text_AwtNFg",
+    "multicolumn_3qExTX",
+    "image_with_text_U6hMVX",
+    "multicolumn_i6NRzV",
+    "image_banner_q4hEhN",
+    "165780769577c12393"
+  ]
+}

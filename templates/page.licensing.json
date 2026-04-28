@@ -48,8 +48,9 @@
         "164977373582025f2d-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/BODEN_MM_PRESS_CLOTHES_RACK.jpg",
+        "image": "shopify://shop_images/MollyMahon-EsteeLauder-Bannern.jpg",
         "letterbox": false,
+        "mobile_image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7835.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": false,
@@ -88,6 +89,58 @@
     "16623726363d1c454c": {
       "type": "multicolumn",
       "blocks": {
+        "column_WwCDdt": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7835.jpg",
+            "auto_height": "none",
+            "title": "Esteé Lauder",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://blogs/journal/molly-mahon-estee-lauder"
+          }
+        },
+        "1662372635bce63b35-2": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Mosaic_Factory_x_Molly_Mahon_Mollys_Kitchen_Indian_Red_cf29d174-5a0a-4941-8120-d8f7f4db5328.jpg",
+            "auto_height": "none",
+            "title": "Mosaic Factory",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "Mosaic Factory",
+            "button_link": "shopify://blogs/look-books/mosaic-factory-x-molly-mahon"
+          }
+        },
+        "column_rQrgPw": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-SecretLinen-Banner-Square_33e2d56a-31b3-472d-bdf8-a6521b54e77f.jpg",
+            "auto_height": "none",
+            "title": "Secret Linen",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "Secret Linen",
+            "button_link": "shopify://blogs/journal/molly-mahon-x-secret-linen"
+          }
+        },
+        "column_EwDmna": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-MeriMeri-Banner-Square_297c2e65-f454-4974-bb83-1e5ec6d44e60.jpg",
+            "auto_height": "none",
+            "title": "Meri Meri",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "Meri Meri",
+            "button_link": "shopify://blogs/look-books/molly-mahon-x-meri-meri"
+          }
+        },
         "column_3p6YWt": {
           "type": "column",
           "settings": {
@@ -127,32 +180,6 @@
             "button_link": "shopify://blogs/journal/my-cabbages-roses-dream-comes-tru"
           }
         },
-        "1662372635bce63b35-2": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/Mosaic_Factory_x_Molly_Mahon_Mollys_Kitchen_Indian_Red_cf29d174-5a0a-4941-8120-d8f7f4db5328.jpg",
-            "auto_height": "none",
-            "title": "Mosaic Factory",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Mosaic Factory",
-            "button_link": "shopify://blogs/look-books/mosaic-factory-x-molly-mahon"
-          }
-        },
-        "column_EwDmna": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-MeriMeri-Banner-Square_297c2e65-f454-4974-bb83-1e5ec6d44e60.jpg",
-            "auto_height": "none",
-            "title": "Meri Meri",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Meri Meri",
-            "button_link": "shopify://blogs/look-books/molly-mahon-x-meri-meri"
-          }
-        },
         "column_wBCakm": {
           "type": "column",
           "settings": {
@@ -165,29 +192,17 @@
             "button_label": "Weezie",
             "button_link": "shopify://blogs/journal/molly-mahon-x-weezie"
           }
-        },
-        "column_rQrgPw": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-SecretLinen-Banner-Square_33e2d56a-31b3-472d-bdf8-a6521b54e77f.jpg",
-            "auto_height": "none",
-            "title": "Secret Linen",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "Secret Linen",
-            "button_link": "shopify://blogs/journal/molly-mahon-x-secret-linen"
-          }
         }
       },
       "block_order": [
+        "column_WwCDdt",
+        "1662372635bce63b35-2",
+        "column_rQrgPw",
+        "column_EwDmna",
         "column_3p6YWt",
         "1662372635bce63b35-0",
         "a5870e5b-af92-4d96-8da9-791998a311d2",
-        "1662372635bce63b35-2",
-        "column_EwDmna",
-        "column_wBCakm",
-        "column_rQrgPw"
+        "column_wBCakm"
       ],
       "settings": {
         "mc_title": "",

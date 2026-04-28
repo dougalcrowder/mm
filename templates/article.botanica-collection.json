@@ -1,0 +1,528 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "share"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "image_banner_ddb6pm": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_wYHVGa": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_type": "header1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wYHVGa"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Banner-MollyMahon-Botanica-GoldOlive-Tulip-Wallpaper-2.jpg",
+        "letterbox": false,
+        "respect_image": false,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "single_title_and_text_zUAjbG": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "Botanica Collection - Inspired by the Bold Simplicity of Tulips",
+        "text": "<p>There’s something quietly captivating about tulips. A familiar yet fleeting presence in British gardens, they herald the arrival of spring while carrying a rich and layered history. In Molly's latest <a href=\"https://mollymahon.com/collections/botanica\" target=\"_blank\" title=\"https://mollymahon.com/collections/botanica\"><em>Botanica</em></a> collection, she revisits this iconic flower, translating its sculptural beauty into a refined series of luxury wallpapers and fabrics.</p><p>Inspired by the dramatic displays at <a href=\"https://www.pashleymanorgardens.com/events/tulip-festival/\" target=\"_blank\" title=\"https://www.pashleymanorgardens.com/events/tulip-festival/\">Pashley Manor Gardens</a> and the romantic planting at <a href=\"https://www.greatdixter.co.uk/\" target=\"_blank\" title=\"https://www.greatdixter.co.uk/\">Great Dixter</a>, the collection captures the tulip in all its bold simplicity - both structured and ephemeral, classic yet refreshingly modern.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "m",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_axpBFx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7xGCbY": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Story Rooted in Craft & Heritage"
+          }
+        },
+        "text_zdJW4K": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At the heart of the <a href=\"https://mollymahon.com/collections/botanica\" target=\"_blank\" title=\"https://mollymahon.com/collections/botanica\"><em>Botanica</em></a> collection is a thoughtful exploration of form and repetition. Each tulip is carefully framed, almost like a piece within a collector’s  gallery. This design approach nods to the Victorian passion for cataloguing the natural world, creating a sense of order and timelessness that translates beautifully into today’s interiors.</p><p>The result is a collection that feels equally at home in a traditional English country home or a contemporary interior seeking softness and depth. It’s decorative, but never overwhelming - elevated, yet effortlessly liveable.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_7xGCbY",
+        "text_zdJW4K"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Fabric-Wallpaper-06546-4x5.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "s",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_DiVf4H": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_N6JFdm": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Rose-Wallpaper-Bagru-Terracotta-Clay-Fabric-9300.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-rose"
+          }
+        },
+        "column_iYekGD": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Wallpaper-9026.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-gold-olive"
+          }
+        },
+        "column_twET3Q": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-9113.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-black-emerald"
+          }
+        }
+      },
+      "block_order": [
+        "column_N6JFdm",
+        "column_iYekGD",
+        "column_twET3Q"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "m",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_RyBnnm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KcGpTB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Creating an Atmospheric Palette"
+          }
+        },
+        "text_r4bhaE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Remaining true to her signature aesthetic, Molly Mahon brings each design to life using traditional block printing techniques. Every tulip begins as a hand carved block, celebrating the artistry and <a href=\"https://mollymahon.com/blogs/craftsmanship\" target=\"_blank\" title=\"https://mollymahon.com/blogs/craftsmanship\">craftsmanship</a> behind her designs.</p><p>The colour palette introduces a softer, more atmospheric direction. Drawing on muddied Dutch tones and the romance of  an antique herbaria. The collection features deep blacks lifted with emerald greens, alongside warm golds and muted rose hues. These combinations bring a layered, tonal richness - perfect for interior designers and homeowners seeking to introduce depth, texture and warmth to a space.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_KcGpTB",
+        "text_r4bhaE"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Botanica-Molly-Mahon-SS-Botanica-Moodboard.jpg",
+        "aspect_ratio": "none",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_banner_UagQUG": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UWGACq": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "text_zfqt67": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_NwCUhT": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UWGACq",
+        "text_zfqt67",
+        "buttons_NwCUhT"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Banner-MollyMahon-Botanica-Rose-Tulip-Wallpaper-1.jpg",
+        "letterbox": false,
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "m",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "image_with_text_AwtNFg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iJmJpY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Styling Botanica, The English Cottage"
+          }
+        },
+        "text_qGWCe4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shot in Molly Mahon’s own <a href=\"https://mollymahon.com/collections/workshops-and-events\" target=\"_blank\" title=\"https://mollymahon.com/collections/workshops-and-events\">workshop</a>, set within the picturesque Sussex countryside, the <a href=\"https://mollymahon.com/collections/botanica\" target=\"_blank\" title=\"https://mollymahon.com/collections/botanica\"><em>Botanica</em></a> collection truly comes into its own. Surrounded by rolling green hills, the setting reflects the spirit of the designs - rooted in nature, craft and quiet rural beauty.</p><p>Each print sits effortlessly within the <a href=\"https://mollymahon.com/collections/workshops-and-events\" target=\"_blank\" title=\"https://mollymahon.com/collections/workshops-and-events\">workshop’s</a> rustic interior, complementing aged woods and natural textures. The result is a relaxed yet elevated take on the English country cottage aesthetic, where pattern and colour bring a warm, considered charm in Molly’s signature style.</p><p>We loved seeing the tones come to life across the space. <a href=\"https://mollymahon.com/products/botanica-wallpaper-black-emerald\" target=\"_blank\" title=\"https://mollymahon.com/products/botanica-wallpaper-black-emerald\">Black/Emerald</a> introduces drama and depth to a bedroom, creating a cocooning feel, while <a href=\"https://mollymahon.com/products/botanica-wallpaper-gold-olive\" target=\"_blank\" title=\"https://mollymahon.com/products/botanica-wallpaper-gold-olive\">Olive/Gold</a> adds warmth and character in the kitchen. Meanwhile, the softer <a href=\"https://mollymahon.com/products/botanica-wallpaper-rose\" target=\"_blank\" title=\"https://mollymahon.com/products/botanica-wallpaper-rose\">Rose</a> palette brings a light, elegant touch to the living room.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_iJmJpY",
+        "text_qGWCe4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-06646_b6b0a257-57c8-453d-b543-552ace72b28c.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_3qExTX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Cp9kd6": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Black-Emerald-swatch.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-black-emerald"
+          }
+        },
+        "column_4LFkbm": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Gold-Olive-swatch.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-gold-olive"
+          }
+        },
+        "column_Qmy9Ai": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Rose-swatch.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-wallpaper-rose"
+          }
+        }
+      },
+      "block_order": [
+        "column_Cp9kd6",
+        "column_4LFkbm",
+        "column_Qmy9Ai"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "Wallpaper Colourways",
+        "show_title": true,
+        "text_align": "center",
+        "title_margin": "m",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "simple_button_pCECh6": {
+      "type": "simple-button",
+      "name": "Button",
+      "settings": {
+        "label": "SHOP WALLPAPER",
+        "link": "shopify://collections/botanica",
+        "color_scheme": "dark"
+      }
+    },
+    "image_with_text_U6hMVX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_X7CwrJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover Luxury Wallpapers & Fabrics from Botanica"
+          }
+        },
+        "text_Ngbrtq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The <a href=\"https://mollymahon.com/collections/botanica\" target=\"_blank\" title=\"https://mollymahon.com/collections/botanica\"><em>Botanica</em></a> collection is currently available as premium non-woven wallpapers. We are soon to launch the beautifully crafted cotton-linen fabrics, offering versatility for a wide range of interior design projects.</p><p><a href=\"/collections/botanica\" target=\"_blank\" title=\"Botanica\"><strong>Explore the Botanica collection</strong></a> to find the perfect luxury wallpaper or fabric for your home.<br/><br/><a href=\"https://mollymahon.com/collections/all?_pos=1&_psq=all&_ss=e&_v=1.0\" target=\"_blank\" title=\"https://mollymahon.com/collections/all?_pos=1&_psq=all&_ss=e&_v=1.0\"><strong>Shop Molly Mahon</strong> </a>and bring handcrafted British design into your interiors.<br/><br/><a href=\"https://mollymahon.com/blogs/look-books/springtime-with-callie-coles-an-eclectic-country-home\" target=\"_blank\" title=\"https://mollymahon.com/blogs/look-books/springtime-with-callie-coles-an-eclectic-country-home\"><strong>Get Country Cottage inspiration</strong></a> from Callie Coles beautiful, home that we visited in Spring.</p>",
+            "code": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_X7CwrJ",
+        "text_Ngbrtq"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Rose-Fabric-8916.jpg",
+        "aspect_ratio": "portrait",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
+      }
+    },
+    "image_banner_q4hEhN": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_3NPFVm": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_type": "header1"
+          }
+        },
+        "text_xxpFhF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Make yourself a home.",
+            "go_serif": false,
+            "constrain_text": false
+          }
+        },
+        "buttons_axkXXg": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3NPFVm",
+        "text_xxpFhF",
+        "buttons_axkXXg"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-9099_de631b02-45da-45eb-b2e5-3e8370d2d3fd.jpg",
+        "letterbox": false,
+        "respect_image": true,
+        "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
+        "desktop_text_box_position": "middle",
+        "desktop_text_box_position_horizontal": "center",
+        "text_align": "center",
+        "text_box_max_width": "800",
+        "show_text_box": false,
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "sm",
+        "bg_color_scheme": "none",
+        "hover_text": false
+      }
+    },
+    "165780769577c12393": {
+      "type": "simple-button",
+      "disabled": true,
+      "settings": {
+        "label": "Back to the Journal",
+        "link": "shopify://blogs/journal",
+        "color_scheme": "dark"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_ddb6pm",
+    "single_title_and_text_zUAjbG",
+    "image_with_text_axpBFx",
+    "multicolumn_DiVf4H",
+    "image_with_text_RyBnnm",
+    "image_banner_UagQUG",
+    "image_with_text_AwtNFg",
+    "multicolumn_3qExTX",
+    "simple_button_pCECh6",
+    "image_with_text_U6hMVX",
+    "image_banner_q4hEhN",
+    "165780769577c12393"
+  ]
+}
