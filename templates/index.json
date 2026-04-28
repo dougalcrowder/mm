@@ -464,7 +464,7 @@
       "name": "Title and Text",
       "settings": {
         "title": "Be Inspired",
-        "text": "<p>Discover how our designs are used in interiors around the world for all types of projects</p>",
+        "text": "<p>Discover how our designs are used in interiors around the world for all types of projects.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
