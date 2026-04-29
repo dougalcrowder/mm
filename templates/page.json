@@ -11,7 +11,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {}
     },
     "image_banner_WLBn8T": {
@@ -19,6 +18,7 @@
       "blocks": {
         "heading_3KMtXA": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_type": "header1"
@@ -26,6 +26,7 @@
         },
         "text_Tzr4mL": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "",
             "go_serif": false,
@@ -37,9 +38,9 @@
         "heading_3KMtXA",
         "text_Tzr4mL"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Gravcetye-Banner-Walnut-Room.jpg",
         "letterbox": false,
         "respect_image": false,
         "top_margin": false,
@@ -58,22 +59,9 @@
         "hover_text": false
       }
     },
-    "single_title_and_text_dfgYz4": {
-      "type": "single-title_and_text",
-      "name": "Title and Text",
-      "settings": {
-        "title": "Gravetye Manor x Molly Mahon Giveaway",
-        "text": "<p>We are delighted to announce a collaboration between Gravetye Manor and Molly Mahon, resulting in a bespoke bedroom that celebrates the traditional country home, craftsmanship and colour.</p>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
     "custom_liquid_PKqNWt": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": ""
@@ -81,17 +69,7 @@
     },
     "1774274441ad4956e4": {
       "type": "apps",
-      "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_4zCFRh": {
-          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "VcrZvX"
-          }
-        }
-      },
-      "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_4zCFRh"
-      ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -100,7 +78,6 @@
   "order": [
     "main",
     "image_banner_WLBn8T",
-    "single_title_and_text_dfgYz4",
     "custom_liquid_PKqNWt",
     "1774274441ad4956e4"
   ]
