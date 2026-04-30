@@ -166,13 +166,13 @@
         "heading_t8iPAf": {
           "type": "heading",
           "settings": {
-            "heading": "Botanica Collection in Celebration of the Tulip"
+            "heading": "Molly Mahon x Estée Lauder Collaboration"
           }
         },
         "text_CcR6EJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Introducing Botanica by Molly Mahon - a refined collection featuring the tulip, expressed through luxury wallpaper and fabrics designed to bring depth, colour and natural beauty into any interior. </p><p>Inspired by the flower’s bold, architectural form, each bloom is carefully framed as if within a collector’s archive, with a deliberate repetition that echoes treasured botanical studies. </p><p>There is a quiet timelessness to this approach, gently nodding to the Victorian fascination with cataloguing the natural world, while remaining fresh, elegant and perfectly suited to modern homes.</p>",
+            "text": "<p>We’re delighted to share a very special collaboration between Molly Mahon and the iconic global beauty brand Estée Lauder.</p><p>Bringing together timeless beauty and handcrafted design, this limited collection features gift boxes and cosmetic bags inspired by Molly’s most loved wood block prints - each one full of colour, joy, and detail. </p><p>Click below to see and learn more.</p>",
             "code": ""
           }
         },
@@ -180,7 +180,7 @@
           "type": "button",
           "settings": {
             "button_label": "READ MORE",
-            "button_link": "shopify://blogs/look-books/our-new-botanica-collection"
+            "button_link": "shopify://blogs/journal/molly-mahon-estee-lauder"
           }
         }
       },
@@ -189,6 +189,54 @@
         "text_CcR6EJ",
         "button_7Lk38X"
       ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7835.jpg",
+        "aspect_ratio": "square",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "l"
+      }
+    },
+    "image_with_text_kQNXA6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gQwm3Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Botanica Collection in Celebration of the Tulip"
+          }
+        },
+        "text_FmzTxi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Introducing Botanica by Molly Mahon - a refined collection featuring the tulip, expressed through luxury wallpaper and fabrics designed to bring depth, colour and natural beauty into any interior. </p><p>Inspired by the flower’s bold, architectural form, each bloom is carefully framed as if within a collector’s archive, with a deliberate repetition that echoes treasured botanical studies. </p><p>There is a quiet timelessness to this approach, gently nodding to the Victorian fascination with cataloguing the natural world, while remaining fresh, elegant and perfectly suited to modern homes.</p>",
+            "code": ""
+          }
+        },
+        "button_GHDzx7": {
+          "type": "button",
+          "settings": {
+            "button_label": "READ MORE",
+            "button_link": "shopify://blogs/look-books/our-new-botanica-collection"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gQwm3Q",
+        "text_FmzTxi",
+        "button_GHDzx7"
+      ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/MollyMahon-Botanica-BlackEmerald-Wallpaper-Bagru-Turquoise-Fabric-06646.jpg",
@@ -750,6 +798,7 @@
     "single_title_and_text_VcQckG",
     "multicolumn_7TKhTL",
     "image_with_text_L7qXnQ",
+    "image_with_text_kQNXA6",
     "single_title_and_text_8bjJVQ",
     "20923eed-ecdf-4786-8836-2e8d1d372264",
     "multicolumn_pHNVx4",
