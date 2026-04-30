@@ -370,14 +370,22 @@
         "text_Ngbrtq": {
           "type": "text",
           "settings": {
-            "text": "<p>We hope this collection brings a little extra joy to a daily routine and serves as a reminder of the beauty that can be found in print, pattern and craftsmanship.</p>",
+            "text": "<p>We hope this collection brings a little extra joy to a daily routine and serves as a reminder of the beauty that can be found in print, pattern and craftsmanship.</p><p>Explore Molly Mahon's collection and discover the pieces inspired by this way of making.</p>",
             "code": ""
+          }
+        },
+        "button_KpqGh8": {
+          "type": "button",
+          "settings": {
+            "button_label": "NEW IN",
+            "button_link": "https://mollymahon.com/collections/new"
           }
         }
       },
       "block_order": [
         "heading_X7CwrJ",
-        "text_Ngbrtq"
+        "text_Ngbrtq",
+        "button_KpqGh8"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
