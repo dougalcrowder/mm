@@ -109,7 +109,7 @@
         "text_zdJW4K": {
           "type": "text",
           "settings": {
-            "text": "<p>At the heart of the collection is Molly’s enduring love of traditional printmaking. Using hand carved wood blocks, she has translated her signature motifs into designs that feel both celebratory and considered - where painterly florals, rhythmic pattern and joyful colour come together in harmony.</p><p></p><p><a href=\"https://www.esteelauder.com/product/27655/143458/product-catalog/sets-gifts/limited-edition-gifts/pleasures/deluxe-trio-fragrance-gift-set\" target=\"_blank\" title=\"https://www.esteelauder.com/product/27655/143458/product-catalog/sets-gifts/limited-edition-gifts/pleasures/deluxe-trio-fragrance-gift-set\"><strong>VIEW GIFT SET</strong></a></p>",
+            "text": "<p>At the heart of the collection is Molly’s enduring love of traditional printmaking. Using hand carved wood blocks, she has translated her signature motifs into designs that feel both celebratory and considered - where painterly florals, rhythmic pattern and joyful colour come together in harmony.</p>",
             "code": ""
           }
         }
@@ -208,14 +208,22 @@
         "text_r4bhaE": {
           "type": "text",
           "settings": {
-            "text": "<p>It has been a pleasure to see these prints take on a new life within the world of beauty. From the tactile feel of the cosmetic bags to the joyous patterned gift boxes, each piece reflects a shared appreciation for artistry, detail and the beauty of the handmade.</p><p><a href=\"https://www.esteelauder.co.uk/product/681/145351/product-catalog/skincare/the-hydrating-routine/daywear-skincare-gift-set?_gl=1*15u7cs1*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwtcHPBhADEiwAWo3sJgwS0o8aOmX9r30sTchuIVEVolZWVE9OcugFa9YM6byl1M4XIFoxjBoC7HkQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAAD_ALTmo1bsBbCunRHfj-nwx2FH9x\" target=\"_blank\" title=\"https://www.esteelauder.co.uk/product/681/145351/product-catalog/skincare/the-hydrating-routine/daywear-skincare-gift-set?_gl=1*15u7cs1*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwtcHPBhADEiwAWo3sJgwS0o8aOmX9r30sTchuIVEVolZWVE9OcugFa9YM6byl1M4XIFoxjBoC7HkQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAAD_ALTmo1bsBbCunRHfj-nwx2FH9x\"><strong>VIEW GIFT SET</strong></a></p>",
+            "text": "<p>It has been a pleasure to see these prints take on a new life within the world of beauty. From the tactile feel of the cosmetic bags to the joyous patterned gift boxes, each piece reflects a shared appreciation for artistry, detail and the beauty of the handmade. </p><p>Discover Molly Mahon block print wash bags - designed for travel, everyday use or to be given with love.</p>",
             "code": ""
+          }
+        },
+        "button_b4Ut8C": {
+          "type": "button",
+          "settings": {
+            "button_label": "WASHBAGS",
+            "button_link": "shopify://collections/wash-bags"
           }
         }
       },
       "block_order": [
         "heading_KcGpTB",
-        "text_r4bhaE"
+        "text_r4bhaE",
+        "button_b4Ut8C"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -247,14 +255,22 @@
         "text_qGWCe4": {
           "type": "text",
           "settings": {
-            "text": "<p>Estée Lauder’s legacy of elegance and Molly’s passion for joyful, handcrafted design. Together, they celebrate the idea that everyday rituals - whether opening a favourite lipstick or packing a treasured beauty bag for holiday - can be made even more special through thoughtful design.</p><p></p><p><a href=\"https://www.esteelauder.com/product/27655/143457/product-catalog/sets-gifts/limited-edition-gifts/beautiful/favorites-trio-fragrance-gift-set\" target=\"_blank\" title=\"https://www.esteelauder.com/product/27655/143457/product-catalog/sets-gifts/limited-edition-gifts/beautiful/favorites-trio-fragrance-gift-set\"><strong>VIEW GIFT SET</strong></a></p>",
+            "text": "<p>Estée Lauder’s legacy of elegance and Molly’s passion for joyful, handcrafted design. Together, they celebrate the idea that everyday rituals - whether getting ready for work or packing a treasured beauty bag for holiday - can be made even more special through thoughtful design. </p><p>If you love this collaboration, explore our fabric collection to bring that same sense of colour, craft and joy into your home.</p>",
             "code": ""
+          }
+        },
+        "button_z6CKhK": {
+          "type": "button",
+          "settings": {
+            "button_label": "EXPLORE FABRICS",
+            "button_link": "shopify://collections/fabric"
           }
         }
       },
       "block_order": [
         "heading_iJmJpY",
-        "text_qGWCe4"
+        "text_qGWCe4",
+        "button_z6CKhK"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
