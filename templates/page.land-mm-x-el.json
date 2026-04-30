@@ -20,47 +20,24 @@
         "heading_CW9WCr": {
           "type": "heading",
           "settings": {
-            "heading": "WOODLANDS",
+            "heading": "Molly Mahon x Estée Lauder",
             "heading_type": "header1"
-          }
-        },
-        "text_9zdNM3": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "buttons_DfrLnP": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_CW9WCr",
-        "text_9zdNM3",
-        "buttons_DfrLnP"
+        "heading_CW9WCr"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-01-Blog-Image.jpg",
+        "image": "shopify://shop_images/MollyMahon-EsteeLauder-Bannern.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon-Cushions-Woodlands-Multi-Chair-Tulip-Rose-Grass-Chiar-Forest-FlowersLampshade-Flity-Skirt-Ashdown-Chartreuse-02-Blog-Image.jpg",
+        "mobile_image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7835.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
         "constrain": false,
-        "desktop_text_box_position": "start",
+        "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "1000",
@@ -75,9 +52,9 @@
     "single_title_and_text_DX763f": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "A new collection rooted in Home.",
-        "text": "",
-        "font_type": "heading",
+        "title": "A Celebration of Print",
+        "text": "<p>We are delighted to present a special collaboration between Molly Mahon and the iconic beauty brand Estée Lauder.</p><p>Molly Mahon is a British printmaker known for her joyful hand block printed designs, rooted in traditional craftsmanship and a distinctive use of colour and pattern. Her work celebrates the beauty of the handmade - a natural pairing with Estée Lauder’s legacy of timeless elegance.</p><p>For this collaboration, Molly has brought her signature wood block prints to a limited collection of gift boxes and cosmetic bags, inspired by some of her most loved designs.</p>",
+        "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text",
@@ -90,26 +67,33 @@
       "blocks": {
         "heading_Y96iXw": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image with text"
+            "heading": "Where Craft Meets Beauty"
           }
         },
         "text_pxNH7J": {
           "type": "text",
           "settings": {
-            "text": "<p>Introducing the <strong>Woodlands</strong> collection, where the beauty of nature meets the art of traditional craftsmanship. Inspired by the enchanting Ashdown Forest, this range brings the warmth and wonder of the British countryside into your home through rich colours and organic patterns.</p>",
+            "text": "<p>At the heart of the collection is Molly’s enduring love of traditional printmaking. Originally hand carved wood blocks, she has translated these signature motifs into designs that feel both celebratory and considered - where painterly florals, rhythmic pattern and joyful colour come together in harmony.<br/><br/>Learn more about Molly’s printmaking journey and the stories behind her designs.</p>",
             "code": ""
+          }
+        },
+        "button_K3CxTX": {
+          "type": "button",
+          "settings": {
+            "button_label": "READ MORE",
+            "button_link": "shopify://pages/about-us"
           }
         }
       },
       "block_order": [
         "heading_Y96iXw",
-        "text_pxNH7J"
+        "text_pxNH7J",
+        "button_K3CxTX"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Sofa-Ashdown-Navy-Cushions-Ashdown-Cool-Blue-Lampshades-Flirty-Skirt-Indian-Leaf-Copper-Blue-01_5bff0496-aaa1-4799-baed-4d84760a04ce.jpg",
-        "aspect_ratio": "portrait",
+        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7885.jpg",
+        "aspect_ratio": "square",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -124,46 +108,40 @@
         "margin_bot": "m"
       }
     },
-    "single_title_and_text_3GaW7i": {
-      "type": "single-title_and_text",
-      "settings": {
-        "title": "",
-        "text": "<p>Designed to evoke a feeling of calm, connection and joy, <strong>Woodlands</strong> invites you to embrace the beauty of nature in your everyday life.<br/>This whole collection offers a plethora of cloth weights, which is so key to versatile options, whether draping a window or upholstering a favourite chair.</p>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
-        "margin_top": "none",
-        "margin_bot": "none"
-      }
-    },
     "image_with_text_rPVK8b": {
       "type": "image-with-text",
       "blocks": {
         "heading_ymVgbd": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image with text"
+            "heading": "From Wood Block to Cosmetic Bag"
           }
         },
         "text_RDa4Jp": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Woodlands</strong> represents our most sustainable endeavour yet, a reflection of the brand’s commitment to responsible craftsmanship. From the very essence of the yarn to the final fabric, every decision has been made with intention and care. </p>",
+            "text": "<p>It has been a pleasure to see these prints take on a new life within the world of beauty. From the tactile feel of the cosmetic bags to the joyous patterned gift boxes, each piece reflects a shared appreciation for artistry, detail and the beauty of the handmade.</p><p>Discover Molly Mahon block print wash bags - designed for travel, everyday use or to be given with love.</p>",
             "code": ""
+          }
+        },
+        "button_NFRmTb": {
+          "type": "button",
+          "settings": {
+            "button_label": "WASHBAGS",
+            "button_link": "shopify://collections/wash-bags"
           }
         }
       },
       "block_order": [
         "heading_ymVgbd",
-        "text_RDa4Jp"
+        "text_RDa4Jp",
+        "button_NFRmTb"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Chair-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-Cushion-Indian-Leaf-Pink-Copper-01_021d7ab4-9433-473a-aa79-0454992c36d9.jpg",
-        "aspect_ratio": "landscape",
+        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7908.jpg",
+        "aspect_ratio": "square",
         "width": false,
-        "column_layout": "img_four_text_two",
+        "column_layout": "img_three_text_three",
         "gap": "large",
         "text_width": "prose",
         "header_text_size": "header-s",
@@ -174,64 +152,6 @@
         "layout": "text_first",
         "margin_top": "m",
         "margin_bot": "xl"
-      }
-    },
-    "image_banner_Vzxif6": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_FxRfyb": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_type": "header1"
-          }
-        },
-        "text_ebNC9E": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Make yourself a home.",
-            "go_serif": false,
-            "constrain_text": false
-          }
-        },
-        "buttons_N4Gqgy": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_FxRfyb",
-        "text_ebNC9E",
-        "buttons_N4Gqgy"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Molly_Mahon_Anopura_Flower_Walk.jpg",
-        "letterbox": false,
-        "respect_image": false,
-        "top_margin": false,
-        "bordered": false,
-        "bordered_dt": false,
-        "constrain": false,
-        "desktop_text_box_position": "middle",
-        "desktop_text_box_position_horizontal": "center",
-        "text_align": "center",
-        "text_box_max_width": "800",
-        "show_text_box": false,
-        "color_scheme": "white_text",
-        "margin_top": "none",
-        "margin_bot": "xl",
-        "bg_color_scheme": "none",
-        "hover_text": false
       }
     },
     "image_with_text_te9dAH": {
@@ -273,14 +193,6 @@
         "margin_bot": "l"
       }
     },
-    "divider_XVwXtk": {
-      "type": "divider",
-      "settings": {
-        "margin_top": "m",
-        "margin_bot": "m",
-        "hr": true
-      }
-    },
     "multicolumn_zqKCwc": {
       "type": "multicolumn",
       "blocks": {
@@ -288,7 +200,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Curtain-Poppy-Mustard-Sky-Chair-Indian-Leaf-Copper-Blue-01.jpg",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-March2026-7760.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -301,7 +213,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Curtains-Indian-Leaf-Copper-Blue-Lampshade-Flirty-Skirt-Indian-Leaf-Copper-Blue-01.jpg",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7820.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -314,7 +226,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Curtain-Forest-Flowers-Multi-04_267c96f4-4dee-422e-91d1-7590e070b59c.jpg",
+            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7792.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -336,8 +248,8 @@
         "title_margin": "l",
         "gap": "medium",
         "border": false,
-        "margin_top": "l",
-        "margin_bot": "xl"
+        "margin_top": "none",
+        "margin_bot": "none"
       }
     },
     "image_with_text_EFVAFp": {
@@ -990,11 +902,8 @@
     "image_banner_WjeRGK",
     "single_title_and_text_DX763f",
     "image_with_text_NPCjCk",
-    "single_title_and_text_3GaW7i",
     "image_with_text_rPVK8b",
-    "image_banner_Vzxif6",
     "image_with_text_te9dAH",
-    "divider_XVwXtk",
     "multicolumn_zqKCwc",
     "image_with_text_EFVAFp",
     "image_with_text_y8QX9q",
