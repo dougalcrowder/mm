@@ -711,81 +711,6 @@
         "margin_bot": "s"
       }
     },
-    "multicolumn_wmepdc": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_jMCziT": {
-          "type": "column",
-          "settings": {
-            "width": "half",
-            "image": "shopify://shop_images/MollyMahon-TheEnglishHomeAward_4ed655aa-0504-4d20-9895-79d4d72c56cb.png",
-            "auto_height": "none",
-            "title": "Column",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        },
-        "column_9CHY4d": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/RESPONSIBLY_MADE-2.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        },
-        "column_KgqFEr": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/BoT_STAMP_WALPOLE_72dpi.png",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": "https://www.thewalpole.co.uk/brands-of-tomorrow"
-          }
-        },
-        "column_r8XQr8": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/2_576c843d-927a-4176-803a-4a1f3e80c6e4.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_jMCziT",
-        "column_9CHY4d",
-        "column_KgqFEr",
-        "column_r8XQr8"
-      ],
-      "disabled": true,
-      "name": "Multi Columns",
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "text_align": "center",
-        "title_margin": "l",
-        "gap": "medium",
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
     "main": {
       "type": "main-404",
       "disabled": true,
@@ -813,7 +738,6 @@
     "divider_cxEAtf",
     "single_title_and_text_CTJFt9",
     "multicolumn_pVyheh",
-    "multicolumn_wmepdc",
     "main"
   ]
 }
