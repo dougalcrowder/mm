@@ -86,6 +86,7 @@
       "settings": {
         "image": "shopify://shop_images/mm_vid.jpg",
         "letterbox": false,
+        "respect_image": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
@@ -112,9 +113,12 @@
       "settings": {
         "title": "",
         "text": "<p>Block printing is the most wonderful physical form of creativity as well as being a means to create important, beautiful and practical items for our homes.  I have been blown away by the talent I have encountered and will strive to do my best to keep the craft alive and viable.</p>",
+        "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
-        "color_scheme": "dark_text"
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1657730156eeff869f": {
@@ -128,6 +132,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -140,6 +145,7 @@
             "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -152,6 +158,9 @@
       "settings": {
         "mc_title": "",
         "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
         "border": false,
         "margin_top": "none",
         "margin_bot": "m"
@@ -162,9 +171,12 @@
       "settings": {
         "title": "Designed in Sussex",
         "text": "<p>Inspired by nature, my travels to India and things that I notice in my daily life, I turn my images into repeat designs and carve them into a block.</p>",
+        "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
-        "color_scheme": "dark_text"
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1657730380748266d7": {
@@ -208,6 +220,7 @@
       "settings": {
         "image": "shopify://shop_images/CREATEAC_STILL_WS.jpg",
         "letterbox": false,
+        "respect_image": false,
         "top_margin": true,
         "bordered": false,
         "bordered_dt": false,
@@ -256,10 +269,19 @@
       ],
       "settings": {
         "image": "shopify://shop_images/MM_INDIA_BLOCK_CARVER.jpg",
-        "color_scheme": "white_text",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first"
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "1657788484c1ce8251": {
@@ -294,10 +316,19 @@
       ],
       "settings": {
         "image": "shopify://shop_images/BLOCKPRINTER_1600x_4d084ec0-d2f9-4596-9892-aefc5c144669.jpg",
-        "color_scheme": "white_text",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first"
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "1657807750e4739f83": {
@@ -348,6 +379,7 @@
       "settings": {
         "image": "shopify://shop_images/MM_BLOCKPRINTING_INDIA.jpg",
         "letterbox": false,
+        "respect_image": false,
         "top_margin": false,
         "bordered": false,
         "bordered_dt": false,
