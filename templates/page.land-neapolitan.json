@@ -92,8 +92,8 @@
         "button_K3CxTX"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Neapolitan-Peony-Urn-ChintzBlue-Runner-Napkin-Luna-Tablecloth-Napkin-ChintzBlue-8107.jpg",
-        "aspect_ratio": "portrait",
+        "image": "shopify://shop_images/Neapolitan-Luna-Chintz-Blue-Tablecloth-6290_web.jpg",
+        "aspect_ratio": "square",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -185,6 +185,7 @@
         },
         "button_NFRmTb": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "SHOP NEAPOLITAN",
             "button_link": "shopify://collections/neapolitan"
@@ -197,8 +198,8 @@
         "button_NFRmTb"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Neapolitan-Peony-Urn-ChintzBlue-Runner-Napkin-Luna-Tablecloth-Napkin-ChintzBlue-8084_small_108ad72b-161b-423a-9a69-3f422ab3e39a.jpg",
-        "aspect_ratio": "portrait",
+        "image": "shopify://shop_images/Neapolitan-Luna-Chintz-Blue-Tablecloth-6276_web_20e2b2a7-6f61-4d85-b18c-676fcc915a2d.jpg",
+        "aspect_ratio": "square",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -210,7 +211,7 @@
         "text_align": "center",
         "layout": "text_first",
         "margin_top": "m",
-        "margin_bot": "none"
+        "margin_bot": "m"
       }
     },
     "image_with_text_te9dAH": {
@@ -231,6 +232,7 @@
         },
         "button_Cr7L9q": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "EXPLORE MORE",
             "button_link": "shopify://collections/neapolitan"
@@ -244,7 +246,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6094_web.jpg",
-        "aspect_ratio": "portrait",
+        "aspect_ratio": "square",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -255,8 +257,8 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "l"
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "multicolumn_zqKCwc": {
@@ -348,8 +350,8 @@
         "button_RDKCqT"
       ],
       "settings": {
-        "image": "shopify://shop_images/Neapolitan-Luna-Chintz-Blue-Tablecloth-6276_web_20e2b2a7-6f61-4d85-b18c-676fcc915a2d.jpg",
-        "aspect_ratio": "portrait",
+        "image": "shopify://shop_images/Neapolitan-Luna-Chintz-Blue-Tablecloth-6238_web.jpg",
+        "aspect_ratio": "square",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
