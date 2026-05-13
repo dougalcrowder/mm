@@ -20,7 +20,7 @@
         "heading_CW9WCr": {
           "type": "heading",
           "settings": {
-            "heading": "Molly Mahon x Estée Lauder",
+            "heading": "Neapolitan Summer Linens",
             "heading_type": "header1"
           }
         }
@@ -29,9 +29,9 @@
         "heading_CW9WCr"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-EsteeLauder-Bannern.jpg",
+        "image": "shopify://shop_images/MollyMahon-Neapolitan-Peony-Urn-ChintzBlue-Runner-Napkin-Luna-Tablecloth-Napkin-ChintzBlue-7964_16x9_f3abc11d-ad7d-421a-bebb-b53b043b7baa.jpg",
         "letterbox": false,
-        "mobile_image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7835.jpg",
+        "mobile_image": "shopify://shop_images/MollyMahon-Neapolitan-Peony-Urn-ChintzBlue-Runner-Napkin-Luna-Tablecloth-Napkin-ChintzBlue-8003_4x5_small_57cd21a9-3b2b-4952-8c3d-bcf0613a8a10.jpg",
         "respect_image": false,
         "top_margin": false,
         "bordered": false,
@@ -45,15 +45,15 @@
         "color_scheme": "white_text",
         "margin_top": "none",
         "margin_bot": "none",
-        "bg_color_scheme": "darken",
+        "bg_color_scheme": "none",
         "hover_text": false
       }
     },
     "single_title_and_text_DX763f": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "A Celebration of Print",
-        "text": "<p>We are delighted to present a special collaboration between Molly Mahon and the iconic beauty brand Estée Lauder.</p><p>Molly Mahon is a British printmaker known for her joyful hand block printed designs, rooted in traditional craftsmanship and a distinctive use of colour and pattern. Her work celebrates the beauty of the handmade - a natural pairing with Estée Lauder’s legacy of timeless elegance.</p><p>For this collaboration, Molly has brought her signature wood block prints to a limited collection of gift boxes and cosmetic bags, inspired by some of her most loved designs.</p>",
+        "title": "Bring Joy to Your Summer Gatherings",
+        "text": "<p>There’s something wonderfully nostalgic about summer entertaining - tables layered beneath the trees, garden lunches that drift into evening, bowls of fruit catching the late afternoon light and the joyful gathering of family and friends around beautifully dressed tables.</p><p>Our new Summer Dining Collection was created with exactly these moments in mind.</p><p>Inspired by summer garden parties and the romance of relaxed entertaining, this collection brings together tablecloths, napkins and a table runner designed to add warmth, colour and character to every gathering. Rooted in Molly’s signature love of pattern and layering, the collection celebrates an eclectic British sensibility, while drawing inspiration from the faded beauty of Italian summers.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -68,21 +68,21 @@
         "heading_Y96iXw": {
           "type": "heading",
           "settings": {
-            "heading": "Where Craft Meets Beauty"
+            "heading": "A Palette Inspired by Italian Gelato"
           }
         },
         "text_pxNH7J": {
           "type": "text",
           "settings": {
-            "text": "<p>At the heart of the collection is Molly’s enduring love of traditional printmaking. Originally hand carved wood blocks, she has translated these signature motifs into designs that feel both celebratory and considered - where painterly florals, rhythmic pattern and joyful colour come together in harmony.<br/><br/>Learn more about Molly’s printmaking journey and the stories behind her designs.</p>",
+            "text": "<p>The colour palette takes its cue from soft, sun-washed shades of pistachio, lemon, strawberry and cream. Gentle tones inspired by Italian gelato and the weathered elegance of grand Italian villas. </p><p>Romantic and relaxed, these colours sit beautifully alongside classic British garden hues, creating tablescapes that feel both refined and inviting.</p><p>Sunny yellows are paired with harmonious blues, inspired by the enduring appeal of blue and white Indian textiles and ceramics - a timeless combination that feels endlessly fresh for summer.</p>",
             "code": ""
           }
         },
         "button_K3CxTX": {
           "type": "button",
           "settings": {
-            "button_label": "READ MORE",
-            "button_link": "shopify://pages/about-us"
+            "button_label": "SHOP NEAPOLITAN",
+            "button_link": "shopify://collections/neapolitan"
           }
         }
       },
@@ -92,8 +92,8 @@
         "button_K3CxTX"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7885.jpg",
-        "aspect_ratio": "square",
+        "image": "shopify://shop_images/MollyMahon-Neapolitan-Peony-Urn-ChintzBlue-Runner-Napkin-Luna-Tablecloth-Napkin-ChintzBlue-8107.jpg",
+        "aspect_ratio": "portrait",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -108,6 +108,157 @@
         "margin_bot": "m"
       }
     },
+    "multicolumn_37Yjwh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_XTJ6pj": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Neapolitan-Peony-Urn-Tablecloth-6377_web.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_XxDEU6": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Neapolitan-Peony-Urn-Pastel-Luna-Napkin-YellowPink-8408_1x1_small_c517f71e-01b4-4a38-870c-698b7d67ee2e.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_cnmCk8": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Neapolitan-Peony-Urn-Tablecloth-6398_small_3d404b7b-7556-4081-a9ab-fbd76ba9e7ba.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_XTJ6pj",
+        "column_XxDEU6",
+        "column_cnmCk8"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_rPVK8b": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ymVgbd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prints Full of Character"
+          }
+        },
+        "text_RDa4Jp": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Luna Stripe</strong> appears in a strong blue and cream, bringing the iconic beach, summer feel to the table. Effortlessly easy to layer with other patterns and pieces.</p><p>Meanwhile, <strong>Peony Urn</strong> takes inspiration from Victorian conservatories and hothouses filled with terracotta pots, climbing blooms and beautifully weathered wicker furniture. Rich in detail and romance, the design captures the charm of English garden rooms and the joy of abundant summer flowers.</p><p>There is also a subtle nod to the Bloomsbury set - their creative gatherings, indoor picnics and lives lived between cultivated gardens and grand country houses. All adding an artistic, bohemian spirit to the collection.</p>",
+            "code": ""
+          }
+        },
+        "button_NFRmTb": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NEAPOLITAN",
+            "button_link": "shopify://collections/neapolitan"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ymVgbd",
+        "text_RDa4Jp",
+        "button_NFRmTb"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MollyMahon-Neapolitan-Peony-Urn-ChintzBlue-Runner-Napkin-Luna-Tablecloth-Napkin-ChintzBlue-8084_small_108ad72b-161b-423a-9a69-3f422ab3e39a.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "none"
+      }
+    },
+    "image_with_text_te9dAH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bJ9Xtj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inspired by Gardens & Outdoor Living"
+          }
+        },
+        "text_C9PDKk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gardens have always been a huge source of inspiration for Molly - Beautiful spaces that continually influence the way she thinks about pattern, layering and home.</p><p>There’s such a romance to outdoor living in the summer months - gathering around a table beneath the trees, lingering over long lunches and creating spaces that feel both relaxed and beautiful. More and more, we are embracing outdoor dining not simply as a way of entertaining, but as a calming ritual that encourages us to slow down and reconnect.</p><p>This collection was designed with that feeling in mind. The soft colour palette, expressive florals and layered patterns are intended to bring the restorative beauty of the garden to the table - creating spaces that feel joyful, welcoming and effortlessly lived in.</p><p></p>",
+            "code": ""
+          }
+        },
+        "button_Cr7L9q": {
+          "type": "button",
+          "settings": {
+            "button_label": "EXPLORE COLLECTION",
+            "button_link": "shopify://collections/neapolitan"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bJ9Xtj",
+        "text_C9PDKk",
+        "button_Cr7L9q"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Neapolitan-Luna-Chintz-Blue-Tablecloth-6276_web_20e2b2a7-6f61-4d85-b18c-676fcc915a2d.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "l"
+      }
+    },
     "multicolumn_zqKCwc": {
       "type": "multicolumn",
       "blocks": {
@@ -115,7 +266,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-March2026-7760.jpg",
+            "image": "shopify://shop_images/MollyMahon-Neapolitan-Luna-Tablecloth-Turquoise-4_1x1-small.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -128,7 +279,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7820.jpg",
+            "image": "shopify://shop_images/MollyMahon-Neapolitan-Luna-Tablecloth-Turquoise-1_1x1_small_27072657-1577-4a4c-8a1f-faea3d22bdf4.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -141,7 +292,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7792.jpg",
+            "image": "shopify://shop_images/MollyMahon-Neapolitan-Luna-Tablecloth-Turquoise-2_1x1-small.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -167,178 +318,27 @@
         "margin_bot": "none"
       }
     },
-    "image_with_text_rPVK8b": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_ymVgbd": {
-          "type": "heading",
-          "settings": {
-            "heading": "From Wood Block to Cosmetic Bag"
-          }
-        },
-        "text_RDa4Jp": {
-          "type": "text",
-          "settings": {
-            "text": "<p>It has been a pleasure to see these prints take on a new life within the world of beauty. From the tactile feel of the cosmetic bags to the joyous patterned gift boxes, each piece reflects a shared appreciation for artistry, detail and the beauty of the handmade.</p><p>Discover Molly Mahon block print wash bags - designed for travel, everyday use or to be given with love.</p>",
-            "code": ""
-          }
-        },
-        "button_NFRmTb": {
-          "type": "button",
-          "settings": {
-            "button_label": "WASHBAGS",
-            "button_link": "shopify://collections/wash-bags"
-          }
-        }
-      },
-      "block_order": [
-        "heading_ymVgbd",
-        "text_RDa4Jp",
-        "button_NFRmTb"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7908.jpg",
-        "aspect_ratio": "square",
-        "width": false,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "text_first",
-        "margin_top": "m",
-        "margin_bot": "none"
-      }
-    },
-    "image_with_text_te9dAH": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_bJ9Xtj": {
-          "type": "heading",
-          "settings": {
-            "heading": "Two Worlds, One Shared Vision"
-          }
-        },
-        "text_C9PDKk": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Estée Lauder’s legacy of elegance and Molly’s passion for joyful, handcrafted design. Together, they celebrate the idea that everyday rituals - whether getting ready for work or packing a treasured beauty bag for holiday - can be made even more special through thoughtful design.</p><p>If you love this collaboration, explore our fabric collection to bring that same sense of colour, craft and joy into your home.</p>",
-            "code": ""
-          }
-        },
-        "button_Cr7L9q": {
-          "type": "button",
-          "settings": {
-            "button_label": "EXPLORE FABRICS",
-            "button_link": "shopify://collections/fabric"
-          }
-        }
-      },
-      "block_order": [
-        "heading_bJ9Xtj",
-        "text_C9PDKk",
-        "button_Cr7L9q"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7914.jpg",
-        "aspect_ratio": "square",
-        "width": false,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "l"
-      }
-    },
-    "multicolumn_37Yjwh": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_XTJ6pj": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-GravetyeManor-Portrait-March2026-7657.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        },
-        "column_cnmCk8": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7877.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        },
-        "column_XxDEU6": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-GravetyeManor-Magnolia-Tree-March-2026-7584.jpg",
-            "auto_height": "none",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_XTJ6pj",
-        "column_cnmCk8",
-        "column_XxDEU6"
-      ],
-      "settings": {
-        "mc_title": "",
-        "show_title": false,
-        "text_align": "center",
-        "title_margin": "l",
-        "gap": "medium",
-        "border": false,
-        "margin_top": "none",
-        "margin_bot": "none"
-      }
-    },
     "image_with_text_eNtn4a": {
       "type": "image-with-text",
       "blocks": {
         "heading_txTryP": {
           "type": "heading",
           "settings": {
-            "heading": "A Little Moment of Joy"
+            "heading": "Designed for Gathering Together"
           }
         },
         "text_4E44Xb": {
           "type": "text",
           "settings": {
-            "text": "<p>We hope this collection brings a little extra joy to a daily routine and serves as a reminder of the beauty that can be found in print, pattern and craftsmanship.</p><p>Explore Molly Mahon's collection and discover the pieces inspired by this way of making.</p>",
+            "text": "<p>Whether you’re hosting a long outdoor lunch, a spontaneous garden supper or simply laying the table for everyday moments, these pieces are designed to be layered, mixed and enjoyed throughout the season.</p><p>The collection is joyful by nature - uplifting colours, expressive prints and thoughtful details that invite people to slow down, gather together and celebrate the beauty of summer living.</p><p>We hope it brings a little extra joy to your table this season.</p>",
             "code": ""
           }
         },
         "button_RDKCqT": {
           "type": "button",
           "settings": {
-            "button_label": "NEW IN",
-            "button_link": "shopify://collections/new"
+            "button_label": "SHOP COLLECTION",
+            "button_link": "shopify://collections/neapolitan"
           }
         }
       },
@@ -348,8 +348,8 @@
         "button_RDKCqT"
       ],
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7914.jpg",
-        "aspect_ratio": "square",
+        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6094_web.jpg",
+        "aspect_ratio": "portrait",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -364,22 +364,13 @@
         "margin_bot": "m"
       }
     },
-    "divider_C4EPE6": {
-      "type": "divider",
-      "name": "Divider",
-      "settings": {
-        "margin_top": "m",
-        "margin_bot": "m",
-        "hr": true
-      }
-    },
     "featured_collection_U9JayD": {
       "type": "featured-collection",
       "settings": {
-        "title": "SHOP ACCESSORIES",
-        "collection": "bed-bath",
+        "title": "QUICK VIEW",
+        "collection": "neapolitan",
         "button_color": "seasonal",
-        "products_to_show": 8,
+        "products_to_show": 12,
         "show_view_all": false,
         "show_secondary_image": false
       }
@@ -390,12 +381,11 @@
     "image_banner_WjeRGK",
     "single_title_and_text_DX763f",
     "image_with_text_NPCjCk",
-    "multicolumn_zqKCwc",
+    "multicolumn_37Yjwh",
     "image_with_text_rPVK8b",
     "image_with_text_te9dAH",
-    "multicolumn_37Yjwh",
+    "multicolumn_zqKCwc",
     "image_with_text_eNtn4a",
-    "divider_C4EPE6",
     "featured_collection_U9JayD"
   ]
 }
