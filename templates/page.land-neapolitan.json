@@ -243,7 +243,7 @@
         "button_Cr7L9q"
       ],
       "settings": {
-        "image": "shopify://shop_images/Neapolitan-Luna-Chintz-Blue-Tablecloth-6276_web_20e2b2a7-6f61-4d85-b18c-676fcc915a2d.jpg",
+        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6094_web.jpg",
         "aspect_ratio": "portrait",
         "width": false,
         "column_layout": "img_three_text_three",
@@ -348,7 +348,7 @@
         "button_RDKCqT"
       ],
       "settings": {
-        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6094_web.jpg",
+        "image": "shopify://shop_images/Neapolitan-Luna-Chintz-Blue-Tablecloth-6276_web_20e2b2a7-6f61-4d85-b18c-676fcc915a2d.jpg",
         "aspect_ratio": "portrait",
         "width": false,
         "column_layout": "img_three_text_three",
@@ -367,7 +367,7 @@
     "featured_collection_U9JayD": {
       "type": "featured-collection",
       "settings": {
-        "title": "QUICK VIEW",
+        "title": "Neapolitan Table Linen",
         "collection": "neapolitan",
         "button_color": "seasonal",
         "products_to_show": 12,
