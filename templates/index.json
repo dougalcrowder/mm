@@ -166,13 +166,13 @@
         "heading_t8iPAf": {
           "type": "heading",
           "settings": {
-            "heading": "Molly Mahon x Estée Lauder Collaboration"
+            "heading": "Bring Joy to Your Summer Gatherings"
           }
         },
         "text_CcR6EJ": {
           "type": "text",
           "settings": {
-            "text": "<p>We’re delighted to share a very special collaboration between Molly Mahon and the iconic global beauty brand Estée Lauder.</p><p>Bringing together timeless beauty and handcrafted design, this limited collection features gift boxes and cosmetic bags inspired by Molly’s most loved wood block prints - each one full of colour, joy, and detail. </p><p>Click below to see and learn more.</p>",
+            "text": "<p>Inspired by British garden parties, Italian summers and the beauty of outdoor entertaining, our new Summer Dining Collection brings together joyful tablecloths, napkins and table runners designed for relaxed summer gatherings. </p><p>Discover soft gelato-inspired hues, expressive florals and beautifully layered patterns made to brighten every table.</p>",
             "code": ""
           }
         },
@@ -180,7 +180,7 @@
           "type": "button",
           "settings": {
             "button_label": "READ MORE",
-            "button_link": "shopify://blogs/journal/molly-mahon-estee-lauder"
+            "button_link": "shopify://pages/neapolitan"
           }
         }
       },
@@ -191,7 +191,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7835.jpg",
+        "image": "shopify://shop_images/MollyMahon-Neapolitan-Peony-Urn-ChintzBlue-Runner-Napkin-Luna-Tablecloth-Napkin-ChintzBlue-8107.jpg",
         "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
