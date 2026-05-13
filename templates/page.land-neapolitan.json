@@ -81,7 +81,7 @@
         "button_K3CxTX": {
           "type": "button",
           "settings": {
-            "button_label": "SHOP NEAPOLITAN",
+            "button_label": "VIEW COLLECTION",
             "button_link": "shopify://collections/neapolitan"
           }
         }
@@ -232,7 +232,7 @@
         "button_Cr7L9q": {
           "type": "button",
           "settings": {
-            "button_label": "EXPLORE COLLECTION",
+            "button_label": "EXPLORE MORE",
             "button_link": "shopify://collections/neapolitan"
           }
         }
