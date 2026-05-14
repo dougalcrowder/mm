@@ -53,7 +53,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Bring Joy to Your Summer Gatherings",
-        "text": "<p>There’s something wonderfully nostalgic about summer entertaining - tables layered beneath the trees, garden lunches that drift into evening, bowls of fruit catching the late afternoon light and the joyful gathering of family and friends around beautifully dressed tables.</p><p>Our new Summer Dining Collection was created with exactly these moments in mind.</p><p>Inspired by summer garden parties and the romance of relaxed entertaining, this collection brings together tablecloths, napkins and a table runner designed to add warmth, colour and character to every gathering. Rooted in Molly’s signature love of pattern and layering, the collection celebrates an eclectic British sensibility, while drawing inspiration from the faded beauty of Italian summers.</p>",
+        "text": "<p>There’s something wonderfully nostalgic about summer entertaining - tables layered beneath the trees, garden lunches that drift into evening, bowls of fruit catching the late afternoon light and the joyful gathering of family and friends around beautifully dressed tables.</p><p>Our new <a href=\"/collections/neapolitan\" target=\"_blank\" title=\"Neapolitan\"><strong>Neapolitan</strong></a> Summer Dining Collection was created with exactly these moments in mind.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -68,18 +68,19 @@
         "heading_Y96iXw": {
           "type": "heading",
           "settings": {
-            "heading": "A Palette Inspired by Italian Gelato"
+            "heading": "A Palette Reminiscent of Summer Travels"
           }
         },
         "text_pxNH7J": {
           "type": "text",
           "settings": {
-            "text": "<p>The colour palette takes its cue from soft, sun-washed shades of pistachio, lemon, strawberry and cream. Gentle tones inspired by Italian gelato and the weathered elegance of grand Italian villas. </p><p>Romantic and relaxed, these colours sit beautifully alongside classic British garden hues, creating tablescapes that feel both refined and inviting.</p><p>Sunny yellows are paired with harmonious blues, inspired by the enduring appeal of blue and white Indian textiles and ceramics - a timeless combination that feels endlessly fresh for summer.</p>",
+            "text": "<p>Sunny yellows and harmonious blues, inspired by the enduring appeal of blue and white Indian textiles and ceramics - a timeless combination that feels endlessly fresh for summer.</p><p>The colour palette for Peony Urn pastel takes its cue from soft, sun-washed shades of pistachio, lemon, strawberry and cream. Gentle tones inspired by Italian gelato and the weathered elegance of grand Italian villas. </p><p>Romantic and relaxed, these colours sit beautifully alongside classic British garden hues, creating tablescapes that feel both refined and inviting.</p>",
             "code": ""
           }
         },
         "button_K3CxTX": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "VIEW COLLECTION",
             "button_link": "shopify://collections/neapolitan"
