@@ -349,19 +349,11 @@
             "text": "<p>Each year, the <a href=\"https://www.rhs.org.uk/shows-events/rhs-chelsea-flower-show\" target=\"_blank\" title=\"https://www.rhs.org.uk/shows-events/rhs-chelsea-flower-show\">RHS Chelsea Flower Show </a>captures this evolution in real time.</p><p>It is where tradition meets experimentation and where the future of gardening is imagined in front of a national audience. There is particular anticipation around The King's Garden. </p><p>King Charles III, whose long-standing commitment to organic and ecological principles will undoubtably continue to shape conversations around land, sustainability and design.</p><p>Chelsea reflects a wider cultural shift: gardens as living systems where everyone and anyone can be involved, not static displays.</p>",
             "code": ""
           }
-        },
-        "button_KpqGh8": {
-          "type": "button",
-          "settings": {
-            "button_label": "NEW IN",
-            "button_link": "https://mollymahon.com/collections/new"
-          }
         }
       },
       "block_order": [
         "heading_X7CwrJ",
-        "text_Ngbrtq",
-        "button_KpqGh8"
+        "text_Ngbrtq"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -396,19 +388,11 @@
             "text": "<p>In the world of Molly Mahon, gardens are an endless source of inspiration.</p><p>Her hand block printed textiles echo their language - layered florals, natural rhythm, and a sense of joyful imperfection. Like a garden left to grow with intention but not control, the work feels alive, abundant, and constantly evolving.</p>",
             "code": ""
           }
-        },
-        "button_Tkyiez": {
-          "type": "button",
-          "settings": {
-            "button_label": "NEW IN",
-            "button_link": "https://mollymahon.com/collections/new"
-          }
         }
       },
       "block_order": [
         "heading_AKA74Q",
-        "text_j3jMar",
-        "button_Tkyiez"
+        "text_j3jMar"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -424,6 +408,29 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "divider_HD8gbV": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "single_title_and_text_bqFJLW": {
+      "type": "single-title_and_text",
+      "name": "Title and Text",
+      "settings": {
+        "title": "Our Latest Garden Shoot...",
+        "text": "<p>Recently, we had the privilege of shooting our Neapolitan collection at Clinton Lodge, within the private gardens of Lady Collum - an exceptionally beautiful setting where nature and design quietly came together.<br/><br/><a href=\"/pages/neapolitan\" title=\"Neapolitan\"><strong>Click here to read more.</strong></a></p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
         "margin_top": "none",
         "margin_bot": "m"
       }
@@ -449,6 +456,8 @@
     "multicolumn_yH3WcC",
     "image_with_text_U6hMVX",
     "image_with_text_ArDE7Y",
-    "165780769577c12393"
+    "single_title_and_text_bqFJLW",
+    "165780769577c12393",
+    "divider_HD8gbV"
   ]
 }
