@@ -53,7 +53,7 @@
       "type": "single-title_and_text",
       "settings": {
         "title": "Bring Joy to Your Summer Gatherings",
-        "text": "<p>There’s something wonderfully nostalgic about summer entertaining - tables layered beneath the trees, garden lunches that drift into evening, bowls of fruit catching the late afternoon light and the joyful gathering of family and friends around beautifully dressed tables.</p><p>Our new <a href=\"/collections/neapolitan\" target=\"_blank\" title=\"Neapolitan\"><strong>Neapolitan</strong></a> Summer Dining Collection was created with exactly these moments in mind.</p>",
+        "text": "<p>There’s something wonderfully nostalgic about summer entertaining - tables layered beneath the trees, garden lunches that drift into evening, bowls of fruit catching the late afternoon light and the joyful gathering of family and friends around beautifully dressed tables.</p><p>Our new <a href=\"/collections/neapolitan\" target=\"_blank\" title=\"Neapolitan\"><strong>Neapolitan</strong></a> Summer Dining Collection was created with exactly these moments in mind. A subtle nod to the creative gatherings, indoor picnics and lives lived between cultivated gardens and grand country houses by the Bloomsbury Group.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -68,13 +68,13 @@
         "heading_bJ9Xtj": {
           "type": "heading",
           "settings": {
-            "heading": "Inspired by Gardens & Outdoor Living"
+            "heading": "A Garden Setting Full of Romance"
           }
         },
         "text_C9PDKk": {
           "type": "text",
           "settings": {
-            "text": "<p>Gardens have always been a huge source of inspiration for Molly - Beautiful spaces that continually influence the way she thinks about pattern, layering and home.</p><p>There’s such a romance to outdoor living in the summer months - gathering around a table beneath the trees, lingering over long lunches and creating spaces that feel both relaxed and beautiful. More and more, we are embracing outdoor dining not simply as a way of entertaining, but as a calming ritual that encourages us to slow down and reconnect.</p><p>This collection was designed with that feeling in mind. The soft colour palette, expressive florals and layered patterns are intended to bring the restorative beauty of the garden to the table - creating spaces that feel joyful, welcoming and effortlessly lived in.</p><p></p>",
+            "text": "<p>The collection was photographed at <a href=\"https://www.clintonlodgegardens.co.uk/home/index.htm\" target=\"_blank\" title=\"https://www.clintonlodgegardens.co.uk/home/index.htm\">Clinton Lodge Gardens</a>, a remarkable private garden lovingly created and maintained over the last 50 years by Lady Collum. </p><p>Filled with architectural hedges, shaded walkways and abundant seasonal planting, the garden provided the perfect backdrop for the collection’s romantic, high-summer mood.</p><p>It was a real privilege to photograph our <a href=\"/collections/neapolitan\" title=\"Neapolitan\">Neapolitan</a> range in such a beautiful setting, bringing each tablescape to life through a series of outdoor lunch scenes throughout the garden.</p><p></p>",
             "code": ""
           }
         },
@@ -94,7 +94,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6094_web.jpg",
-        "aspect_ratio": "square",
+        "aspect_ratio": "portrait",
         "width": false,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -105,20 +105,6 @@
         "desktop_text_box_position": "center",
         "text_align": "center",
         "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "none"
-      }
-    },
-    "single_title_and_text_CnbJrK": {
-      "type": "single-title_and_text",
-      "name": "Title and Text",
-      "settings": {
-        "title": "A Garden Setting Full of Romance",
-        "text": "<p>The collection was photographed at Clinton Lodge, a remarkable private garden lovingly created and maintained over the last 50 years by Lady Calder. Filled with architectural hedges, shaded walkways and abundant seasonal planting, the garden provided the perfect backdrop for the collection’s romantic, high-summer mood.</p><p>Towering blue delphiniums - recently celebrated in House & Garden’s ongoing feature on old-fashioned plants - were paired with the Luna tablecloth and Peony Urn runner. Their blue tones looked especially striking against the soft plaster-pink walls of the Italian garden pool house, creating a table full of colour and character.</p><p></p>",
-        "font_type": "body",
-        "vertical_alignment": "center",
-        "alignment": "center",
-        "color_scheme": "dark_text",
         "margin_top": "none",
         "margin_bot": "m"
       }
@@ -187,7 +173,7 @@
       "name": "Title and Text",
       "settings": {
         "title": "",
-        "text": "<p></p><p>Elsewhere, the Luna Turquoise tablecloth was styled beneath a beautiful walkway draped in white wisteria. The combination of green and white, layered with moody shade-loving plants and green Moroccan ceramics, captured the feeling of an elegant midsummer lunch in the garden.</p><p>Finally, the Peony Urn Pastel tablecloth was nestled amongst clipped architectural hedges, where incredible peonies created a true focal point amongst the greenery. At this time of year, when so many of us are eagerly waiting for our own peonies to bloom, it felt like such a treat to photograph these abundant, open flowers in all their fleeting beauty — perfectly capturing the joyful spirit of early summer entertaining.</p>",
+        "text": "<p>An early morning start at the florists and there they were - towering blue delphiniums. Celebrated in House & Garden’s June issue as an ‘old-fashioned’ plant to love, we couldn’t resist pairing them with the Luna tablecloth and Peony Urn runner. Their vivid blue tones looked especially striking against the soft plaster-pink walls of the Italian garden pool house, creating a table full of colour and character.</p><p>Elsewhere, the Luna Turquoise tablecloth was styled beneath a beautiful walkway draped in white wisteria. The combination of green and white, layered with moody, shade-loving planting and green Moroccan ceramics, captured the feeling of an elegant midsummer lunch in the cooling shade, offering escape from the summer heat.</p><p>Finally, the Peony Urn Pastel tablecloth was nestled amongst expertly clipped architectural hedges. Abundant peonies in matching urns became the focal point within the structured greenery. At this time of year, when so many of us are eagerly waiting for our own peonies to bloom, it was a real treat to photograph them in full, fleeting beauty - especially as Lady Calder’s garden corridor of peonies was just about to burst into flower.</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
@@ -255,6 +241,53 @@
         "margin_bot": "m"
       }
     },
+    "image_with_text_rPVK8b": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ymVgbd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prints Full of Character"
+          }
+        },
+        "text_RDa4Jp": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"/products/tablecloth-luna-chintz-blue\" title=\"Tablecloth Luna Chintz Blue\">Luna</a> Stripe, Molly's signature print reimagined in a strong blue and cream, bringing the iconic beach, summer feel to the table. Effortlessly easy to layer with the <a href=\"/products/table-runner-peony-urn-chintz-blue\" title=\"Table Runner Peony Urn Chintz Blue\">Peony Urn Runner</a> in blue and with matching napkins or for those who like a bit of fun - our <a href=\"/products/napkin-luna-chintz-blue-blue-pink-turqouise\" title=\"Napkin Luna Chintz Blue - Tutti Frutti Pack\">Tuttu Frutti</a> four pack.</p><p>Meanwhile, our <a href=\"/products/tablecloth-peony-urn-pastel\" title=\"Tablecloth Peony Urn Pastel\">Peony Urn Tablecloth </a>takes inspiration from Victorian conservatories and hothouses filled with terracotta pots, climbing blooms and beautifully weathered wicker furniture. Rich in detail and romance, the design captures the charm of English garden rooms and the joy of abundant summer flowers.</p>",
+            "code": ""
+          }
+        },
+        "button_NFRmTb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "SHOP NEAPOLITAN",
+            "button_link": "shopify://collections/neapolitan"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ymVgbd",
+        "text_RDa4Jp",
+        "button_NFRmTb"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Neapolitan-Luna-Chintz-Blue-Tablecloth-6276_web_20e2b2a7-6f61-4d85-b18c-676fcc915a2d.jpg",
+        "aspect_ratio": "square",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
     "image_with_text_NPCjCk": {
       "type": "image-with-text",
       "blocks": {
@@ -297,56 +330,9 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first",
+        "layout": "image_first",
         "margin_top": "none",
         "margin_bot": "none"
-      }
-    },
-    "image_with_text_rPVK8b": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_ymVgbd": {
-          "type": "heading",
-          "settings": {
-            "heading": "Prints Full of Character"
-          }
-        },
-        "text_RDa4Jp": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Luna Stripe</strong> appears in a strong blue and cream, bringing the iconic beach, summer feel to the table. Effortlessly easy to layer with other patterns and pieces.</p><p>Meanwhile, <strong>Peony Urn</strong> takes inspiration from Victorian conservatories and hothouses filled with terracotta pots, climbing blooms and beautifully weathered wicker furniture. Rich in detail and romance, the design captures the charm of English garden rooms and the joy of abundant summer flowers.</p><p>There is also a subtle nod to the Bloomsbury set - their creative gatherings, indoor picnics and lives lived between cultivated gardens and grand country houses. All adding an artistic, bohemian spirit to the collection.</p>",
-            "code": ""
-          }
-        },
-        "button_NFRmTb": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "SHOP NEAPOLITAN",
-            "button_link": "shopify://collections/neapolitan"
-          }
-        }
-      },
-      "block_order": [
-        "heading_ymVgbd",
-        "text_RDa4Jp",
-        "button_NFRmTb"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Neapolitan-Luna-Chintz-Blue-Tablecloth-6276_web_20e2b2a7-6f61-4d85-b18c-676fcc915a2d.jpg",
-        "aspect_ratio": "square",
-        "width": false,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "m",
-        "margin_bot": "m"
       }
     },
     "image_with_text_eNtn4a": {
@@ -412,12 +398,11 @@
     "image_banner_WjeRGK",
     "single_title_and_text_DX763f",
     "image_with_text_te9dAH",
-    "single_title_and_text_CnbJrK",
     "multicolumn_zqKCwc",
     "single_title_and_text_GYC4Nn",
     "multicolumn_37Yjwh",
-    "image_with_text_NPCjCk",
     "image_with_text_rPVK8b",
+    "image_with_text_NPCjCk",
     "image_with_text_eNtn4a",
     "featured_collection_U9JayD"
   ]
