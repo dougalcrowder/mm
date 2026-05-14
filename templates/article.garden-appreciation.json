@@ -241,32 +241,24 @@
         "heading_iJmJpY": {
           "type": "heading",
           "settings": {
-            "heading": "Two Worlds, One Shared Vision"
+            "heading": "Gardens for Everyday Life"
           }
         },
         "text_qGWCe4": {
           "type": "text",
           "settings": {
-            "text": "<p>Estée Lauder’s legacy of elegance and Molly’s passion for joyful, handcrafted design. Together, they celebrate the idea that everyday rituals - whether getting ready for work or packing a treasured beauty bag for holiday - can be made even more special through thoughtful design. </p><p>If you love this collaboration, explore our fabric collection to bring that same sense of colour, craft and joy into your home.</p>",
+            "text": "<p>Alongside these shifts, gardening has become more encouraged than ever.</p><p>Today, many spend their weekendst in shared allotments, small urban plots and pots on balconies across the UK are encouraged and contributing to the mainstream hobby.</p><p>And even in these smaller spaces, something just as powerful is happening. Gardening has become a form of grounding - an antidote to speed and noise. A way to reconnect with nature, season and the simple act of tending something living.</p><p>Gardens are no longer just seen. They are felt.</p>",
             "code": ""
-          }
-        },
-        "button_z6CKhK": {
-          "type": "button",
-          "settings": {
-            "button_label": "EXPLORE FABRICS",
-            "button_link": "shopify://collections/fabric"
           }
         }
       },
       "block_order": [
         "heading_iJmJpY",
-        "text_qGWCe4",
-        "button_z6CKhK"
+        "text_qGWCe4"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7914.jpg",
+        "image": "shopify://shop_images/Neapolitan-Peony-Urn-Tablecloth-6377_web.jpg",
         "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -277,7 +269,7 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first",
+        "layout": "text_first",
         "margin_top": "none",
         "margin_bot": "m"
       }
@@ -302,7 +294,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7877.jpg",
+            "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Fabric-9005_1x1_small_fcb2ce07-f9d5-4936-b2aa-e3b7c3999d3a.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -315,7 +307,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-GravetyeManor-Magnolia-Tree-March-2026-7584.jpg",
+            "image": "shopify://shop_images/Neapolitan-banner-2.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -348,13 +340,13 @@
         "heading_X7CwrJ": {
           "type": "heading",
           "settings": {
-            "heading": "A Little Moment of Joy"
+            "heading": "A New Season at Chelsea Flower Show"
           }
         },
         "text_Ngbrtq": {
           "type": "text",
           "settings": {
-            "text": "<p>We hope this collection brings a little extra joy to a daily routine and serves as a reminder of the beauty that can be found in print, pattern and craftsmanship.</p><p>Explore Molly Mahon's collection and discover the pieces inspired by this way of making.</p>",
+            "text": "<p>Each year, the <a href=\"https://www.rhs.org.uk/shows-events/rhs-chelsea-flower-show\" target=\"_blank\" title=\"https://www.rhs.org.uk/shows-events/rhs-chelsea-flower-show\">RHS Chelsea Flower Show </a>captures this evolution in real time.</p><p>It is where tradition meets experimentation and where the future of gardening is imagined in front of a national audience. There is particular anticipation around The King's Garden. </p><p>King Charles III, whose long-standing commitment to organic and ecological principles will undoubtably continue to shape conversations around land, sustainability and design.</p><p>Chelsea reflects a wider cultural shift: gardens as living systems where everyone and anyone can be involved, not static displays.</p>",
             "code": ""
           }
         },
@@ -373,7 +365,54 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-FordManor-EsteeLauder-Product-March2026-7835.jpg",
+        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6087_web.jpg",
+        "aspect_ratio": "square",
+        "width": true,
+        "column_layout": "img_three_text_three",
+        "gap": "xxl",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "text_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "image_with_text_ArDE7Y": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_AKA74Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Molly's Love of Gardens"
+          }
+        },
+        "text_j3jMar": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In the world of Molly Mahon, gardens are an endless source of inspiration.</p><p>Her hand block printed textiles echo their language - layered florals, natural rhythm, and a sense of joyful imperfection. Like a garden left to grow with intention but not control, the work feels alive, abundant, and constantly evolving.</p>",
+            "code": ""
+          }
+        },
+        "button_Tkyiez": {
+          "type": "button",
+          "settings": {
+            "button_label": "NEW IN",
+            "button_link": "https://mollymahon.com/collections/new"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AKA74Q",
+        "text_j3jMar",
+        "button_Tkyiez"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6087_web.jpg",
         "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -409,6 +448,7 @@
     "image_with_text_AwtNFg",
     "multicolumn_yH3WcC",
     "image_with_text_U6hMVX",
+    "image_with_text_ArDE7Y",
     "165780769577c12393"
   ]
 }
