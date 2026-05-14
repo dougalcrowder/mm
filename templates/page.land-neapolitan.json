@@ -62,6 +62,53 @@
         "margin_bot": "none"
       }
     },
+    "image_with_text_te9dAH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bJ9Xtj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inspired by Gardens & Outdoor Living"
+          }
+        },
+        "text_C9PDKk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gardens have always been a huge source of inspiration for Molly - Beautiful spaces that continually influence the way she thinks about pattern, layering and home.</p><p>There’s such a romance to outdoor living in the summer months - gathering around a table beneath the trees, lingering over long lunches and creating spaces that feel both relaxed and beautiful. More and more, we are embracing outdoor dining not simply as a way of entertaining, but as a calming ritual that encourages us to slow down and reconnect.</p><p>This collection was designed with that feeling in mind. The soft colour palette, expressive florals and layered patterns are intended to bring the restorative beauty of the garden to the table - creating spaces that feel joyful, welcoming and effortlessly lived in.</p><p></p>",
+            "code": ""
+          }
+        },
+        "button_Cr7L9q": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "EXPLORE MORE",
+            "button_link": "shopify://collections/neapolitan"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bJ9Xtj",
+        "text_C9PDKk",
+        "button_Cr7L9q"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6094_web.jpg",
+        "aspect_ratio": "square",
+        "width": false,
+        "column_layout": "img_three_text_three",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
+        "color_scheme": "dark_text",
+        "desktop_text_box_position": "center",
+        "text_align": "center",
+        "layout": "image_first",
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
     "image_with_text_NPCjCk": {
       "type": "image-with-text",
       "blocks": {
@@ -104,9 +151,9 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "m"
+        "layout": "text_first",
+        "margin_top": "m",
+        "margin_bot": "none"
       }
     },
     "multicolumn_37Yjwh": {
@@ -215,53 +262,6 @@
         "margin_bot": "m"
       }
     },
-    "image_with_text_te9dAH": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_bJ9Xtj": {
-          "type": "heading",
-          "settings": {
-            "heading": "Inspired by Gardens & Outdoor Living"
-          }
-        },
-        "text_C9PDKk": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Gardens have always been a huge source of inspiration for Molly - Beautiful spaces that continually influence the way she thinks about pattern, layering and home.</p><p>There’s such a romance to outdoor living in the summer months - gathering around a table beneath the trees, lingering over long lunches and creating spaces that feel both relaxed and beautiful. More and more, we are embracing outdoor dining not simply as a way of entertaining, but as a calming ritual that encourages us to slow down and reconnect.</p><p>This collection was designed with that feeling in mind. The soft colour palette, expressive florals and layered patterns are intended to bring the restorative beauty of the garden to the table - creating spaces that feel joyful, welcoming and effortlessly lived in.</p><p></p>",
-            "code": ""
-          }
-        },
-        "button_Cr7L9q": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "EXPLORE MORE",
-            "button_link": "shopify://collections/neapolitan"
-          }
-        }
-      },
-      "block_order": [
-        "heading_bJ9Xtj",
-        "text_C9PDKk",
-        "button_Cr7L9q"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6094_web.jpg",
-        "aspect_ratio": "square",
-        "width": false,
-        "column_layout": "img_three_text_three",
-        "gap": "large",
-        "text_width": "prose",
-        "header_text_size": "header-s",
-        "text_size": "text-s",
-        "color_scheme": "dark_text",
-        "desktop_text_box_position": "center",
-        "text_align": "center",
-        "layout": "image_first",
-        "margin_top": "none",
-        "margin_bot": "m"
-      }
-    },
     "multicolumn_zqKCwc": {
       "type": "multicolumn",
       "blocks": {
@@ -362,7 +362,7 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first",
+        "layout": "image_first",
         "margin_top": "m",
         "margin_bot": "m"
       }
@@ -383,10 +383,10 @@
     "main",
     "image_banner_WjeRGK",
     "single_title_and_text_DX763f",
+    "image_with_text_te9dAH",
     "image_with_text_NPCjCk",
     "multicolumn_37Yjwh",
     "image_with_text_rPVK8b",
-    "image_with_text_te9dAH",
     "multicolumn_zqKCwc",
     "image_with_text_eNtn4a",
     "featured_collection_U9JayD"
