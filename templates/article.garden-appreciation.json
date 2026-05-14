@@ -385,7 +385,7 @@
         "text_j3jMar": {
           "type": "text",
           "settings": {
-            "text": "<p>In the world of Molly Mahon, gardens are an endless source of inspiration.</p><p>Her hand block printed textiles echo their language - layered florals, natural rhythm, and a sense of joyful imperfection. Like a garden left to grow with intention but not control, the work feels alive, abundant, and constantly evolving.</p>",
+            "text": "<p>In the world of Molly Mahon, gardens are an endless source of inspiration.</p><p>Her hand block printed textiles echo their language - layered florals, natural rhythm, and a sense of joyful imperfection. Like a garden left to grow with intention but not control, the work feels alive, abundant and constantly evolving.</p>",
             "code": ""
           }
         }
@@ -417,7 +417,7 @@
       "name": "Title and Text",
       "settings": {
         "title": "Our Latest Garden Shoot...",
-        "text": "<p>Recently, we had the privilege of shooting our Neapolitan collection at Clinton Lodge, within the private gardens of Lady Collum - an exceptionally beautiful setting where nature and design quietly came together.<br/><br/><a href=\"/pages/neapolitan\" title=\"Neapolitan\"><strong>Click here to read more.</strong></a></p>",
+        "text": "<p>Recently, we had the privilege of shooting our Neapolitan collection at Clinton Lodge. Within these private gardens, an exceptionally beautiful setting,  nature and design quietly came together.<br/><br/><a href=\"/pages/neapolitan\" title=\"Neapolitan\"><strong>Click here to read more.</strong></a></p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
