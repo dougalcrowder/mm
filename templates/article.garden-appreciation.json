@@ -269,7 +269,7 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first",
+        "layout": "image_first",
         "margin_top": "none",
         "margin_bot": "m"
       }
@@ -407,18 +407,9 @@
         "color_scheme": "dark_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "text_first",
+        "layout": "image_first",
         "margin_top": "none",
         "margin_bot": "m"
-      }
-    },
-    "divider_HD8gbV": {
-      "type": "divider",
-      "name": "Divider",
-      "settings": {
-        "margin_top": "m",
-        "margin_bot": "m",
-        "hr": true
       }
     },
     "single_title_and_text_bqFJLW": {
@@ -442,6 +433,15 @@
         "label": "Back to the Journal",
         "link": "shopify://blogs/journal",
         "color_scheme": "dark"
+      }
+    },
+    "divider_HD8gbV": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
       }
     }
   },
