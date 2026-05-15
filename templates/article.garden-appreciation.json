@@ -61,7 +61,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6085_16x9_0b42bf3f-fbc8-44dd-895b-df93a58f8536.jpg",
+        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6085-2-banner.jpg",
         "letterbox": false,
         "respect_image": false,
         "top_margin": false,
@@ -143,7 +143,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6094_web.jpg",
+            "image": "shopify://shop_images/MM_Molesworth-58.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -156,7 +156,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MM_Molesworth-39.jpg",
+            "image": "shopify://shop_images/bloom_90.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -169,7 +169,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Neapolitan-Luna-Chintz-Blue-Tablecloth-6238_web.jpg",
+            "image": "shopify://shop_images/MM_Molesworth-26.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -219,7 +219,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MM_Molesworth-26.jpg",
+        "image": "shopify://shop_images/mollymahon-veg-garden.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -258,7 +258,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/mollymahon-veg-garden.jpg",
+        "image": "shopify://shop_images/mollymahon-neapolitan-garden.jpg",
         "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -277,6 +277,19 @@
     "multicolumn_yH3WcC": {
       "type": "multicolumn",
       "blocks": {
+        "column_TEB6EC": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/Neapolitan-Luna-Chintz-Blue-Tablecloth-6276_web_20e2b2a7-6f61-4d85-b18c-676fcc915a2d.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "https://www.esteelauder.com/product/27655/143459/product-catalog/sets-gifts/limited-edition-gifts/beautiful-magnolia/deluxe-trio-fragrance-gift-set"
+          }
+        },
         "column_cUNRpM": {
           "type": "column",
           "settings": {
@@ -290,24 +303,11 @@
             "button_link": "shopify://products/botanica-wallpaper-rose"
           }
         },
-        "column_TEB6EC": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Fabric-9005_1x1_small_fcb2ce07-f9d5-4936-b2aa-e3b7c3999d3a.jpg",
-            "auto_height": "square",
-            "title": "",
-            "text_align": "center",
-            "heading_size": "s",
-            "button_label": "link label",
-            "button_link": "https://www.esteelauder.com/product/27655/143459/product-catalog/sets-gifts/limited-edition-gifts/beautiful-magnolia/deluxe-trio-fragrance-gift-set"
-          }
-        },
         "column_GzEczM": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Neapolitan-banner-2.jpg",
+            "image": "shopify://shop_images/Neapolitan-Peony-Urn-Tablecloth-6377_web.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -318,8 +318,8 @@
         }
       },
       "block_order": [
-        "column_cUNRpM",
         "column_TEB6EC",
+        "column_cUNRpM",
         "column_GzEczM"
       ],
       "name": "Multi Columns",
@@ -357,7 +357,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6087_web.jpg",
+        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6094_web.jpg",
         "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -396,7 +396,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6094_web.jpg",
+        "image": "shopify://shop_images/IMG_0393.jpg",
         "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
