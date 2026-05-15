@@ -120,7 +120,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/bloom_molesworth_gardentable_dahlia_tablecloth_1800x1000_68e6065b-47ac-4913-89c9-202078e1482f.jpg",
+        "image": "shopify://shop_images/MM_Molesworth-6.jpg",
         "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -156,7 +156,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6085_16x9_0b42bf3f-fbc8-44dd-895b-df93a58f8536.jpg",
+            "image": "shopify://shop_images/MM_Molesworth-39.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -219,7 +219,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-GravetyeManor-Portrait-March2026-7657.jpg",
+        "image": "shopify://shop_images/MM_Molesworth-26.jpg",
         "aspect_ratio": "none",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -258,7 +258,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Neapolitan-Peony-Urn-Tablecloth-6377_web.jpg",
+        "image": "shopify://shop_images/mollymahon-veg-garden.jpg",
         "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
@@ -281,7 +281,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-GravetyeManor-Portrait-March2026-7657.jpg",
+            "image": "shopify://shop_images/honeycombe-3.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -396,7 +396,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6087_web.jpg",
+        "image": "shopify://shop_images/Neapolitan-Luna-Turquoise-Tablecloth-6094_web.jpg",
         "aspect_ratio": "square",
         "width": true,
         "column_layout": "img_three_text_three",
