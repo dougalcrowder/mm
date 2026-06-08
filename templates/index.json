@@ -518,7 +518,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Homepage-Catergory-Kitchen-Dining.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-image-kitchen-dining-june26.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -531,7 +531,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Homepage-Catergory-Trims.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-image-trims-june26.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -586,7 +586,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Homepage-Catergory-Bed-Bath.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-image_bedbath-june26.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
