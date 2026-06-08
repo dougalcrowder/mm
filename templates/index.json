@@ -108,7 +108,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Homepage-Catergory-Fabric-2.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-image_fabric-june26.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -121,7 +121,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Langport-Wallpaper-4.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-image_wallpaper-june26.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -134,7 +134,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Homepage-Catergory-Homewares-Pink.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-image-homewares-June-26.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -280,7 +280,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Homepage-Catergory-LookBooks.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-image-look-books-june26.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -293,7 +293,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Homepage-Catergory-Customer-Projects.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-image-customer-projects-june26.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
@@ -306,7 +306,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/Homepage-Catergory-Collaborations.jpg",
+            "image": "shopify://shop_images/Homepage-Catergory-image-collaborations-june26.jpg",
             "auto_height": "none",
             "title": "",
             "text_align": "center",
