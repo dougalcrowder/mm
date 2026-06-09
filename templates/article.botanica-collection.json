@@ -344,7 +344,53 @@
     "multicolumn_3qExTX": {
       "type": "multicolumn",
       "blocks": {
-        "column_Cp9kd6": {
+        "column_4LFkbm": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Gold-Olive-swatch.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-cotton-linen-fabric-in-gold-olive"
+          }
+        },
+        "column_Qmy9Ai": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Botanica-Rose-swatch.jpg",
+            "auto_height": "square",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "shopify://products/botanica-cotton-linen-fabric-rose"
+          }
+        }
+      },
+      "block_order": [
+        "column_4LFkbm",
+        "column_Qmy9Ai"
+      ],
+      "name": "Multi Columns",
+      "settings": {
+        "mc_title": "Fabric Colourways",
+        "show_title": true,
+        "text_align": "center",
+        "title_margin": "m",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "multicolumn_kHGhHf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_MWNTXM": {
           "type": "column",
           "settings": {
             "width": "one_third",
@@ -357,7 +403,7 @@
             "button_link": "shopify://products/botanica-wallpaper-black-emerald"
           }
         },
-        "column_4LFkbm": {
+        "column_JArbGp": {
           "type": "column",
           "settings": {
             "width": "one_third",
@@ -370,7 +416,7 @@
             "button_link": "shopify://products/botanica-wallpaper-gold-olive"
           }
         },
-        "column_Qmy9Ai": {
+        "column_64qEFi": {
           "type": "column",
           "settings": {
             "width": "one_third",
@@ -385,9 +431,9 @@
         }
       },
       "block_order": [
-        "column_Cp9kd6",
-        "column_4LFkbm",
-        "column_Qmy9Ai"
+        "column_MWNTXM",
+        "column_JArbGp",
+        "column_64qEFi"
       ],
       "name": "Multi Columns",
       "settings": {
@@ -397,7 +443,7 @@
         "title_margin": "m",
         "gap": "medium",
         "border": false,
-        "margin_top": "none",
+        "margin_top": "s",
         "margin_bot": "none"
       }
     },
@@ -528,6 +574,7 @@
     "image_banner_UagQUG",
     "image_with_text_AwtNFg",
     "multicolumn_3qExTX",
+    "multicolumn_kHGhHf",
     "simple_button_pCECh6",
     "image_with_text_U6hMVX",
     "image_banner_q4hEhN",
