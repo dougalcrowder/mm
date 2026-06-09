@@ -61,7 +61,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Banner-MollyMahon-Botanica-GoldOlive-Tulip-Wallpaper-2.jpg",
+        "image": "shopify://shop_images/Banner-MollyMahon-Botanica-Rose-Tulip-Wallpaper-1.jpg",
         "letterbox": false,
         "respect_image": false,
         "top_margin": false,
@@ -128,8 +128,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Fabric-Wallpaper-06546-4x5.jpg",
-        "aspect_ratio": "none",
+        "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Wallpaper-Bagru-Moss-Fabric-06696_2x3_small_2f58590b-c3fa-490f-b539-ba4ba69c3aa8.jpg",
+        "aspect_ratio": "portrait",
         "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
@@ -164,7 +164,7 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Wallpaper-9026.jpg",
+            "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Rose-Bagru-Moss-06487_1x1_small_cd6daad7-d421-4f30-a21f-18e84962003d.jpg",
             "auto_height": "square",
             "title": "",
             "text_align": "center",
@@ -283,7 +283,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Banner-MollyMahon-Botanica-Rose-Tulip-Wallpaper-1.jpg",
+        "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Fabric-Wallpaper-06546_16x9_765d0127-b323-48f5-a9d0-98220903dfdd.jpg",
         "letterbox": false,
         "respect_image": true,
         "top_margin": false,
