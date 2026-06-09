@@ -166,13 +166,13 @@
         "heading_t8iPAf": {
           "type": "heading",
           "settings": {
-            "heading": "Bring Joy to Your Summer Gatherings"
+            "heading": "New Arrival: Botanica Organic Cotton Linen"
           }
         },
         "text_CcR6EJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Inspired by British garden parties, Italian summers and the beauty of outdoor entertaining, our new Summer Dining Collection brings together joyful tablecloths, napkins and table runners designed for relaxed summer gatherings. </p><p>Discover soft gelato-inspired hues, expressive florals and beautifully layered patterns made to brighten every table.</p><p>Click below to read more about our newest range - Neapolitan.</p>",
+            "text": "<p>Botanica is a timeless floral inspired by the art of collecting, reimagined through Molly Mahon's distinctive hand block-printed style.</p><p>With the addition of Botanica fabric, alongside wallpaper, the design can now unfold throughout the home. </p><p>From statement walls to curtains, upholstery and accessories, learn how to create an interior that feel harmonious, layered and complete.</p>",
             "code": ""
           }
         },
@@ -191,8 +191,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Neapolitan-Peony-Urn-Tablecloth-6377_web.jpg",
-        "aspect_ratio": "square",
+        "image": "shopify://shop_images/MollyMahon-Botanica-GoldOlive-Wallpaper-Bagru-Moss-Fabric-06696_2x3_small_2f58590b-c3fa-490f-b539-ba4ba69c3aa8.jpg",
+        "aspect_ratio": "portrait",
         "width": true,
         "column_layout": "img_three_text_three",
         "gap": "large",
