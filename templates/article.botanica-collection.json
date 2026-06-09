@@ -451,7 +451,7 @@
       "type": "simple-button",
       "name": "Button",
       "settings": {
-        "label": "SHOP WALLPAPER",
+        "label": "SHOP COLLECTION",
         "link": "shopify://collections/botanica",
         "color_scheme": "dark"
       }
