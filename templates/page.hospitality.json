@@ -88,12 +88,25 @@
     "16623726363d1c454c": {
       "type": "multicolumn",
       "blocks": {
+        "column_EhNpiw": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-3-web.jpg",
+            "auto_height": "square",
+            "title": "Gravetye Manor",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "link label",
+            "button_link": "https://www.instagram.com/reel/DWLakMmAkg7/"
+          }
+        },
         "1662372635bce63b35-0": {
           "type": "column",
           "settings": {
             "width": "one_third",
             "image": "shopify://shop_images/BOMBAYBUSTLE_TUKTUK_1300x1300_45cdc535-e7f0-44f7-90dd-61d8943e21b4.jpg",
-            "auto_height": "none",
+            "auto_height": "square",
             "title": "Bombay Bustle",
             "text_align": "center",
             "heading_size": "s",
@@ -182,6 +195,7 @@
         }
       },
       "block_order": [
+        "column_EhNpiw",
         "1662372635bce63b35-0",
         "a5870e5b-af92-4d96-8da9-791998a311d2",
         "7a732933-f307-4761-9515-0074b87b501a",
