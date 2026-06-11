@@ -30,7 +30,8 @@
           "disabled": true,
           "settings": {
             "text": "",
-            "go_serif": false
+            "go_serif": false,
+            "constrain_text": false
           }
         },
         "164977373582025f2d-2": {
@@ -52,56 +53,50 @@
         "164977373582025f2d-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/BB_RESTAURANT_LUNAPINK_1800X900_a36efb7e-e169-4d17-a464-8308183390ea.jpg",
+        "image": "shopify://shop_images/MollyMahon-Gravcetye-Banner-Walnut-Room.jpg",
+        "letterbox": false,
+        "respect_image": false,
         "top_margin": false,
+        "bordered": false,
+        "bordered_dt": false,
+        "constrain": false,
         "desktop_text_box_position": "middle",
         "desktop_text_box_position_horizontal": "center",
         "text_align": "center",
         "text_box_max_width": "800",
         "show_text_box": false,
-        "color_scheme": "white_text"
+        "color_scheme": "white_text",
+        "margin_top": "none",
+        "margin_bot": "none",
+        "bg_color_scheme": "none",
+        "hover_text": false
       }
     },
     "1657198256089a7c52": {
       "type": "single-title_and_text",
       "settings": {
-        "title": "Bombay Bustle",
-        "text": "<p>Our fun bombastic pinks brought us together.  Working closely with Bombay Bustle Molly injected just the right touch to bring a deep warmth of colour, sophistication and fun into the restaurant space.  Here they serve mouth watering authentic food along with a lovely true Indian cultural service.</p>",
-        "alignment": "center"
+        "title": "The Walnut Room",
+        "text": "<p>Bringing together two much-loved Sussex names, the project marks Mahon’s first interior partnership of its kind with a Sussex hotel, coinciding with the tenth anniversary of the Molly Mahon brand.</p><p>At the centre of the room’s design is an exclusive pink and green colourway of Mahon’s Foxglove wallpaper from the Woodland collection, created specifically for the project. This is layered with designs from her original collection, including the graphic Luna pattern, achieving a balance between floral softness and bold geometry. Together, the patterns create a joyful, considered interior that reflects both the historic character of the manor and the richness of its gardens, with subtle references to Indian artisan craftsmanship.</p><p><em>\"This project felt incredibly special to me. To bring my patterns into a space that celebrates nature and gardens in such a beautiful way felt like a natural fit.\" </em>- Molly Mahon</p><p>The collaboration also ties into Gravetye Manor’s history as a former Victorian manor house and estate of horticulturalist William Robinson. Guests can enjoy the hotel’s Victorian elliptical walled garden and Michelin-starred restaurant, with produce grown on site, while experiencing the carefully layered interior designed by Mahon.</p><p>The Molly Mahon Walnut Room at Gravetye Manor represents a thoughtful fusion of pattern, colour, and heritage, creating a space that is at once luxurious, playful, and deeply connected to the Sussex landscape.</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "16623726363d1c454c": {
       "type": "multicolumn",
       "blocks": {
-        "1662372635bce63b35-0": {
-          "type": "column",
-          "settings": {
-            "width": "one_third",
-            "image": "shopify://shop_images/BB_BOOTH_1300X1300_5a17e5b1-3b5a-4342-b52f-87821ab1ab0f.jpg",
-            "title": "",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "1662372635bce63b35-2": {
-          "type": "column",
-          "settings": {
-            "width": "two_thirds",
-            "image": "shopify://shop_images/BB_BAR_2600X1300_bdd511ca-3bb3-44c1-b2ad-475f2119f235.jpg",
-            "title": "",
-            "text_align": "center",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
         "1662372635bce63b35-1": {
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/BB_MENU_1300X1300_fb040d36-86cc-46a5-8f12-3a7af8f15a94.jpg",
+            "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-3-web_baa40545-ca20-4445-9a41-45f09990522b.jpg",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -110,9 +105,11 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/BB_COLLABORATION_1300X1300_8e2942e2-54af-4d6f-a613-ba1cfd321418.jpg",
+            "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-2.jpg",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
@@ -121,24 +118,89 @@
           "type": "column",
           "settings": {
             "width": "one_third",
-            "image": "shopify://shop_images/BB_APERITIF_1300X1300_aeed2e55-d7de-480a-9b38-46f00e386a0b.jpg",
+            "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-6-w_1374d39b-16dd-497f-a960-526e7da35848.jpg",
+            "auto_height": "none",
             "title": "",
             "text_align": "center",
+            "heading_size": "s",
             "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "1662372635bce63b35-0",
-        "1662372635bce63b35-2",
         "1662372635bce63b35-1",
         "d2f03e07-eb37-4734-8cdd-7d621a947d80",
         "7553c61b-67f6-4c58-906c-f5adadf18357"
       ],
       "settings": {
         "mc_title": "",
-        "show_title": false
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
+      }
+    },
+    "multicolumn_jqYDFD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9BFzG7": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-4.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_RjYVN4": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-5.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_7LcrCq": {
+          "type": "column",
+          "settings": {
+            "width": "one_third",
+            "image": "shopify://shop_images/MollyMahon-Gravetye-Manor-Walnut-Room-Carousel-7-w_548cadb7-5085-461a-91fc-77e4fdf82b30.jpg",
+            "auto_height": "none",
+            "title": "",
+            "text_align": "center",
+            "heading_size": "s",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9BFzG7",
+        "column_RjYVN4",
+        "column_7LcrCq"
+      ],
+      "settings": {
+        "mc_title": "",
+        "show_title": false,
+        "text_align": "center",
+        "title_margin": "l",
+        "gap": "medium",
+        "border": false,
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1662033198f876a3de": {
@@ -156,7 +218,12 @@
       "settings": {
         "title": "Making Home",
         "text": "<p>Home is our small slice of the world that we can truly call our own and we believe that every home should be a colourful reflection of its inhabitants.</p><p>We believe a home should sing with life and joy.  It should be a carefree space with an atmosphere imbued by the family, friends even animals that pass through.  It should be a space that allows the best of human life where we can create fond memories, open our imaginations and feel inspired.  It should be a space we yearn to return to.</p><p><strong>Why is home so important to us?</strong> </p><p>It is a crucial point of reference in memory, feeling and imagination.  It is the place for inventing the story of ourselves, it plays a big part for understanding our place in time.  It is our life-narrative.  We also recognise that home is a vital link through which we connect with others and with the world and the universe at large.</p>",
-        "alignment": "center"
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "none",
+        "margin_bot": "m"
       }
     },
     "1657200203628ef58f": {
@@ -180,7 +247,8 @@
         "1662389758409db467-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A captivating and playful, go-with-anything graphic pattern. Hand-block printed in Rajasthan by master craftsmen.</p>"
+            "text": "<p>A captivating and playful, go-with-anything graphic pattern. Hand-block printed in Rajasthan by master craftsmen.</p>",
+            "code": ""
           }
         },
         "1662389758409db467-2": {
@@ -199,10 +267,19 @@
       "disabled": true,
       "settings": {
         "image": "shopify://shop_images/FOYSLUPINK10.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first"
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "1662393642a649c856": {
@@ -217,7 +294,8 @@
         "1662393642a9dbe710-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A charming small-scale inspired by the decorations on India's beloved tuk tuks.  Hand-block printed in India by master craftsmen.</p>"
+            "text": "<p>A charming small-scale inspired by the decorations on India's beloved tuk tuks.  Hand-block printed in India by master craftsmen.</p>",
+            "code": ""
           }
         },
         "1662393642a9dbe710-2": {
@@ -236,17 +314,27 @@
       "disabled": true,
       "settings": {
         "image": "shopify://shop_images/FCOTTUPINK_de2fa848-360c-4817-8487-54b495dd6163.jpg",
+        "aspect_ratio": "portrait",
+        "width": false,
+        "column_layout": "img_two_text_four",
+        "gap": "large",
+        "text_width": "prose",
+        "header_text_size": "header-s",
+        "text_size": "text-s",
         "color_scheme": "white_text",
         "desktop_text_box_position": "center",
         "text_align": "center",
-        "layout": "image_first"
+        "layout": "image_first",
+        "margin_top": "m",
+        "margin_bot": "m"
       }
     },
     "16623944519856e80f": {
       "type": "featured-collection",
       "settings": {
-        "title": "Pink Red Fabric collection",
-        "collection": "fabric-pinkred",
+        "title": "The Walnut Room Collection",
+        "collection": "the-walnut-room-collection",
+        "button_color": "seasonal",
         "products_to_show": 12,
         "show_view_all": true,
         "show_secondary_image": false
@@ -266,6 +354,7 @@
     "1649773735fabcedda",
     "1657198256089a7c52",
     "16623726363d1c454c",
+    "multicolumn_jqYDFD",
     "1662033198f876a3de",
     "1657199219affcebfd",
     "1657200203628ef58f",
