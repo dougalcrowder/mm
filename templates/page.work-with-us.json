@@ -39,7 +39,7 @@
       "name": "Title and Text",
       "settings": {
         "title": "Trade Sales Manager",
-        "text": "<h4><strong>Molly Mahon Ltd.</strong></h4><p><strong>Forest Row, East Sussex or London (Hybrid / Remote)</strong></p><p><strong>Full Time</strong></p><p>Molly Mahon is a British interiors and lifestyle brand known for its distinctive use of <strong>colour, pattern and hand block printing</strong>. Inspired by nature, travel and the enduring beauty of craftsmanship, we create fabrics, wallpapers and homewares designed to bring character, warmth and spirit into the home.</p><p>As we continue to grow, we are looking for an experienced and enthusiastic <strong>Trade Sales Manager </strong>to help strengthen existing customer relationships, develop new opportunities and champion the Molly Mahon brand within the interiors community.</p>",
+        "text": "<p><strong>Molly Mahon Ltd.</strong></p><p><strong>Forest Row, East Sussex or London (Hybrid / Remote)</strong></p><p><strong>Full Time</strong></p><p>Molly Mahon is a British interiors and lifestyle brand known for its distinctive use of <strong>colour, pattern and hand block printing</strong>. Inspired by nature, travel and the enduring beauty of craftsmanship, we create fabrics, wallpapers and homewares designed to bring character, warmth and spirit into the home.</p><p>As we continue to grow, we are looking for an experienced and enthusiastic <strong>Trade Sales Manager </strong>to help strengthen existing customer relationships, develop new opportunities and champion the Molly Mahon brand within the interiors community.</p>",
         "font_type": "body",
         "vertical_alignment": "start",
         "alignment": "left",
@@ -101,7 +101,7 @@
       "name": "Title and Text",
       "settings": {
         "title": "",
-        "text": "<p><strong>To Apply</strong></p><p>Please send us:</p><p>A short intro about you<br/>Your CV</p><p>to office@mollymahon.com<br/></p><p>Thank You!</p>",
+        "text": "<h4><strong>To Apply</strong></h4><p></p><p>Please send us:</p><p>A short intro about you<br/>Your CV</p><p>to office@mollymahon.com<br/></p><p>Thank You!</p>",
         "font_type": "body",
         "vertical_alignment": "center",
         "alignment": "center",
