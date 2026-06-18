@@ -106,7 +106,104 @@
         "vertical_alignment": "center",
         "alignment": "center",
         "color_scheme": "dark_text",
+        "margin_top": "s",
+        "margin_bot": "m"
+      }
+    },
+    "divider_pchMyD": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "single_title_and_text_m97crW": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "Freelance Shoot & Production Manager",
+        "text": "<p><strong>Molly Mahon Ltd.</strong></p><p><strong>Freelance, project-based role based in Sussex.</strong></p><p>We are looking for a highly organised, hands-on freelance Shoot & Production Manager to help bring an upcoming Molly Mahon collection photoshoot to life.</p><p>The creative vision is complete, we now need someone to make it happen.</p>",
+        "font_type": "body",
+        "vertical_alignment": "start",
+        "alignment": "left",
+        "color_scheme": "dark_text",
         "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "2_column_text_pJjwWK": {
+      "type": "2-column-text",
+      "blocks": {
+        "text_xj8U4b": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<h4><strong>Responsibilities</strong></h4><ul><li>Source props, furniture and styling pieces</li><li>Coordinate upholstery, paint and room preparation</li><li>Manage suppliers, logistics and timelines</li><li>Assist with transport, setup and shoot production</li></ul>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        },
+        "text_nDVUD4": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "medium",
+            "text": "<h4><strong>About You</strong></h4><ul><li>Organised, practical and resourceful</li><li>A strong eye for interiors and detail</li><li>Happy to roll up your sleeves and get stuck in</li><li>Full driving licence essential</li></ul>",
+            "button_label": "",
+            "button_link": "",
+            "inset": false,
+            "color_scheme": "dark_text",
+            "desktop_text_box_position": "start",
+            "text_align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "text_xj8U4b",
+        "text_nDVUD4"
+      ],
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Two Column Text",
+      "settings": {
+        "margin_top": "none",
+        "margin_bot": "none"
+      }
+    },
+    "divider_Whc4na": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "margin_top": "m",
+        "margin_bot": "m",
+        "hr": true
+      }
+    },
+    "single_title_and_text_H9KBa8": {
+      "type": "single-title_and_text",
+      "custom_css": [
+        ".text {margin-block: 0px;}"
+      ],
+      "name": "Title and Text",
+      "settings": {
+        "title": "",
+        "text": "<h4><strong>To Apply</strong></h4><p></p><p>Please send us:</p><p>A short intro about you<br/>Your CV</p><p>to <strong>office@mollymahon.com</strong><br/></p><p>Thank you!</p>",
+        "font_type": "body",
+        "vertical_alignment": "center",
+        "alignment": "center",
+        "color_scheme": "dark_text",
+        "margin_top": "s",
         "margin_bot": "m"
       }
     }
@@ -116,6 +213,11 @@
     "single_title_and_text_nnfRhW",
     "single_title_and_text_HRxgFn",
     "2_column_text_dcK6L3",
-    "single_title_and_text_Jyqgkh"
+    "single_title_and_text_Jyqgkh",
+    "divider_pchMyD",
+    "single_title_and_text_m97crW",
+    "2_column_text_pJjwWK",
+    "single_title_and_text_H9KBa8",
+    "divider_Whc4na"
   ]
 }
