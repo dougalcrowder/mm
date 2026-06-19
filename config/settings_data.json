@@ -552,11 +552,19 @@
         "disabled": false,
         "settings": {}
       },
-      "5149645339031002760": {
-        "type": "shopify://apps/minmaxify-order-limits/blocks/app-embed-block/3acfba32-89f3-4377-ae20-cbb9abc48475",
+      "339036956232728707": {
+        "type": "shopify://apps/eu-widerrufsbutton/blocks/withdrawal-link/019e3842-e8eb-772d-9292-20f5ccbc0337",
         "disabled": false,
         "settings": {
-          "async": false
+          "style": "link",
+          "bold": false,
+          "underline": false,
+          "underline_thickness": 1,
+          "link_color": "",
+          "size": "middle",
+          "border_radius": 0,
+          "text_color": "#ffffff",
+          "background_color": "#000000"
         }
       }
     }
